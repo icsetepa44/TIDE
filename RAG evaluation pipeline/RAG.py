@@ -14,8 +14,7 @@ the ICSETEP benchmark methodology.)
 Configuration is via the module-level globals below — no CLI.
 
 Run:
-    # put keys in gemini_api.txt / openrouter_api.txt (one per line), or set
-    # GEMINI_API_KEYS / OPENROUTER_API_KEYS in the environment
+    # copy .env.example -> .env and set GEMINI_API_KEYS / OPENROUTER_API_KEYS
     python RAG.py
 """
 from __future__ import annotations

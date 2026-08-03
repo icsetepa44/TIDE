@@ -1,0 +1,24 @@
+# ── API keys — NEVER commit ──
+# Keys are loaded from .env (see .env.example). The .txt lines are a defensive
+# net in case a stray key file is ever created — the code no longer reads them.
+.env
+.env.*
+!.env.example
+gemini_api.txt
+gemini_paid_api.txt
+openrouter_api.txt
+all_api.txt
+*.key
+
+# ── Python caches ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ── Evaluation outputs (regenerable; not shipped) ──
+rag_check_results/
+
+# ── OS cruft ──
+.DS_Store
+Thumbs.db

@@ -40,6 +40,13 @@ from embedding_utils import (
 # --------------------------------------------------------------------------- #
 # RUN SETTINGS                                                                #
 # --------------------------------------------------------------------------- #
+# EMBEDDING MODEL: not set here. The model + output dimension live in
+# rag_lib/config.py -> EMBED_MODEL and EMBED_DIM. They are deliberately shared:
+# this builder embeds the documents and RAG.py embeds the queries with the SAME
+# model, so keep them in one place (config.py). After changing EMBED_MODEL,
+# delete chroma_db/ and re-run RUN_EMBED + RUN_LONG so the whole store is
+# rebuilt with the new model (query and document vectors must match).
+
 # Which stages to run, in order.
 RUN_SIMPLIFY = False
 RUN_EMBED    = False

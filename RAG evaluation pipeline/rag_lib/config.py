@@ -31,8 +31,7 @@ CHROMA_DIR       = BASE / "chroma_db"
 COLLECTION_NAME  = "customs_corpus"
 
 # --- Gemini embedding ---------------------------------------------------------
-# gemini-embedding-001 is the current best/GA Gemini text-embedding model.
-EMBED_MODEL          = "gemini-embedding-001"
+EMBED_MODEL          = "gemini-embedding-002"
 EMBED_DIM            = 3072                 # full quality (output already L2-normalized at 3072)
 DOC_TASK_TYPE        = "RETRIEVAL_DOCUMENT" # for corpus documents
 QUERY_TASK_TYPE      = "RETRIEVAL_QUERY"    # for search queries
@@ -51,25 +50,16 @@ CHUNK_PROGRESS_FILE  = STATE_DIR / "chunk_progress.json"  # embedded chunk ids (
 # --- Key loading / rotation ---------------------------------------------------
 QUOTA_COOLDOWN_SECONDS = 60        # how long to rest a key after a 429 / quota error
 SERVER_MAX_RETRIES     = 4         # transient 5xx retries before rotating off a key
-# API keys are plaintext (no encrypted vault). Two sections:
+# API keys come from environment variables, loaded from a .env file at startup
+# (python-dotenv; real environment variables take precedence over .env). Two
+# sections, each read as: a comma/newline multi-key var, then numbered vars
+# (NAME_1, NAME_2, ...), then a single-key var. Multiple keys rotate on
+# rate-limit / quota errors. Copy .env.example -> .env and fill in your keys.
 #   gemini     -> embedding + the LLM-judge council's Gemini seat
 #   openrouter -> the models under test + the council's two OpenRouter seats
-# Each section is loaded FILE-FIRST (the first existing, non-empty candidate file
-# below; keys one-per-line or comma-separated, '#' comment lines skipped), then
-# ENV as a fallback. A couple of alternate Gemini file names are also accepted so
-# common key-file names work out of the box. All key files are .gitignored.
+DOTENV_FILE = BASE / ".env"        # loaded by key_manager at import (.gitignored)
 SECTION_GEMINI     = "gemini"
 SECTION_OPENROUTER = "openrouter"
-GEMINI_KEYS_FILE     = BASE / "gemini_api.txt"        # primary Gemini key file
-OPENROUTER_KEYS_FILE = BASE / "openrouter_api.txt"
-KEY_FILES = {
-    SECTION_GEMINI:     [GEMINI_KEYS_FILE,
-                         BASE / "gemini_paid_api.txt",  # alternate accepted name
-                         BASE / "all_api.txt"],         # alternate accepted name
-    SECTION_OPENROUTER: [OPENROUTER_KEYS_FILE],
-}
-# Env fallbacks per section: a comma/newline multi-key var, numbered vars
-# (NAME_1, NAME_2, ...), then a single-key var.
 KEY_ENV_MULTI  = {SECTION_GEMINI: "GEMINI_API_KEYS",  SECTION_OPENROUTER: "OPENROUTER_API_KEYS"}
 KEY_ENV_SINGLE = {SECTION_GEMINI: "GEMINI_API_KEY",   SECTION_OPENROUTER: "OPENROUTER_API_KEY"}
 
@@ -79,7 +69,10 @@ VAULT_SECTION_OPENROUTER = SECTION_OPENROUTER
 
 # --- RAG evaluation (RAG.py) --------------------------------------------------
 # Generation runs on OpenRouter (OpenAI-compatible API); judging is the 3-model
-# LLM council and embedding stays on Gemini, matching the PK/ICL methodology.
+# LLM council and embedding stays on Gemini.
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
-JUDGE_MODEL         = "gemini-3.1-flash-lite"   # Gemini seat's model in the judge council
+# Gemini seat of the judge council — MUST stay in sync with RAG.py's
+# GEMINI_JUDGE_MODEL (the council trio is defined there: GEMINI_JUDGE_MODEL +
+# OPENROUTER_JUDGE_MODELS). Only used as GeminiCaller's default model.
+JUDGE_MODEL         = "gemini-3.5-flash"
 RAG_RESULTS_ROOT    = BASE / "rag_check_results"

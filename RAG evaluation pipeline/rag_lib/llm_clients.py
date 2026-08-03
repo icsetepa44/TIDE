@@ -17,10 +17,10 @@ Two callers, both honoring the single contract the evaluators/metrics depend on:
 - GeminiCaller      — the council's Gemini judge seat (and Gemini answering when
   USE_GEMINI_API). Native JSON schema via google.genai.
 
-Both pull keys via KeyManager from plaintext (no vault): OpenRouter keys from the
-`openrouter` section (env OPENROUTER_API_KEYS or openrouter_api.txt), Gemini keys
-from the `gemini` section (env GEMINI_API_KEYS or gemini_api.txt). Pass a shared
-`key_manager` to reuse one key pool across callers/judge seats.
+Both pull keys via KeyManager from the environment (loaded from .env): OpenRouter
+keys from the `openrouter` section (OPENROUTER_API_KEYS), Gemini keys from the
+`gemini` section (GEMINI_API_KEYS). Pass a shared `key_manager` to reuse one key
+pool across callers/judge seats.
 """
 from __future__ import annotations
 

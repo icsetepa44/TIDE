@@ -1,9 +1,9 @@
-"""Plaintext API-key loading + rate-limit-aware key rotation.
+"""API-key loading (from .env / environment) + rate-limit-aware key rotation.
 
 Two responsibilities:
-  1. load_section_keys: read a section's API keys from an environment variable or a
-     plaintext key file (one key per line, or comma/newline-separated). No encrypted
-     vault — the key files are .gitignored and never committed.
+  1. load_section_keys: read a section's API keys from environment variables. A
+     .env file at config.DOTENV_FILE is loaded into the environment at import
+     (python-dotenv; real environment variables take precedence). No key files.
   2. KeyManager: hold the keys in memory, hand a live google-genai (or OpenRouter)
      client to a caller, and rotate to the next key when one hits a quota / 429 error
      (with a cooldown so exhausted keys are retried later instead of hammered).
@@ -13,7 +13,6 @@ from __future__ import annotations
 import os
 import re
 import sys as _sys
-import time
 from pathlib import Path as _Path
 
 # Make sibling rag_lib modules (config) and parent OpenRouter/ modules importable
@@ -22,11 +21,18 @@ for _p in (_Path(__file__).resolve().parent, _Path(__file__).resolve().parent.pa
     if str(_p) not in _sys.path:
         _sys.path.insert(0, str(_p))
 
+import time
+
 import config
+from dotenv import load_dotenv
+
+# Load OpenRouter/.env into the environment once, at import. override=False so a
+# real environment variable always wins over a value in the .env file.
+load_dotenv(config.DOTENV_FILE, override=False)
 
 
 # --------------------------------------------------------------------------- #
-# Plaintext key loading                                                       #
+# Key loading (from environment; .env already loaded above)                   #
 # --------------------------------------------------------------------------- #
 def _split_keys(blob: str) -> list[str]:
     """Split a comma/newline/whitespace-separated key blob into a clean list."""
@@ -34,33 +40,13 @@ def _split_keys(blob: str) -> list[str]:
     return [p for p in (s.strip() for s in parts) if p]
 
 
-def _keys_from_file(path: "_Path") -> list[str]:
-    """Keys from a plaintext file: one per line or comma-separated, '#' comments
-    and blank lines skipped. Matches PK.py's `re.split(r"[,\\n]+", ...)` parsing."""
-    keys: list[str] = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        keys.extend(k.strip() for k in line.split(",") if k.strip())
-    return keys
-
-
 def load_section_keys(section: str) -> list[str]:
-    """Load one section's API keys, FILE-FIRST then ENV (same order as PK.py/ICL.py).
+    """Load one section's API keys from the environment (populated from .env).
 
-    1. The first existing, non-empty candidate file in config.KEY_FILES[section]
-       (this repo's name plus PK.py's all_api.txt / ICL.py's gemini_paid_api.txt).
-    2. Env fallbacks: the multi-key var (config.KEY_ENV_MULTI), then numbered vars
-       NAME_1, NAME_2, ... (PK.py's convention), then the single-key var.
+    Per section, in order: the multi-key var (config.KEY_ENV_MULTI, comma/newline
+    separated), then numbered vars NAME_1, NAME_2, ..., then the single-key var
+    (config.KEY_ENV_SINGLE). Multiple keys enable rotation on rate-limit/quota.
     """
-    for path in config.KEY_FILES.get(section, []):
-        p = _Path(path)
-        if p.is_file():
-            keys = _keys_from_file(p)
-            if keys:
-                return keys
-
     multi = os.environ.get(config.KEY_ENV_MULTI.get(section, ""), "").strip()
     if multi:
         keys = _split_keys(multi)
@@ -83,11 +69,11 @@ def load_section_keys(section: str) -> list[str]:
         if v:
             return [v]
 
-    candidates = ", ".join(str(p) for p in config.KEY_FILES.get(section, []))
+    multi_name = config.KEY_ENV_MULTI.get(section)
     raise FileNotFoundError(
-        f"No '{section}' API keys found. Put one key per line in one of: "
-        f"{candidates}; or set ${config.KEY_ENV_MULTI.get(section)} / "
-        f"${config.KEY_ENV_SINGLE.get(section)}."
+        f"No '{section}' API keys found. Copy .env.example to .env and set "
+        f"{multi_name} (comma-separated for multiple keys), or export {multi_name} / "
+        f"${single_name} in your environment."
     )
 
 
@@ -138,13 +124,13 @@ class KeyManager:
     # -- lifecycle ----------------------------------------------------------- #
     @classmethod
     def load(cls, section: str = "gemini", **_ignored) -> "KeyManager":
-        """Load one section's keys (plaintext) into a KeyManager.
+        """Load one section's keys from the environment (.env) into a KeyManager.
 
         `section` is "gemini" (embedding + the judge council's Gemini seat) or
         "openrouter" (models under test + the council's OpenRouter seats). Keys
-        come from the section's env var or plaintext file — see
-        `load_section_keys`. Extra kwargs from old vault call sites (`password=`,
-        `vault_file=`) are accepted and ignored for backward compatibility.
+        come from the section's environment variables — see `load_section_keys`.
+        Extra kwargs from old vault call sites (`password=`, `vault_file=`) are
+        accepted and ignored for backward compatibility.
         """
         return cls(load_section_keys(section))
 

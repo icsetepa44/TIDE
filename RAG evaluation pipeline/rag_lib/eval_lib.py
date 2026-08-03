@@ -751,9 +751,9 @@ def compute_rubric_metrics(records: dict, n_dataset_total: int,
                 sum(1 for r in evaluated
                     if r.get("offset_granularity_unparsed")),
         },
-        "scoring": "Rubric v2: atomic LLM-judge booleans (Gemini, "
-                   "temperature=0) + deterministic Python scoring "
-                   "(rubric_scoring.score_base). Dates are a hard gate; "
+        "scoring": "Rubric v2: atomic LLM-judge booleans (LLM as a council: "
+                   "2-of-3 majority vote, temperature=0) + deterministic Python "
+                   "scoring (rubric_scoring.score_base). Dates are a hard gate; "
                    "judge errors are excluded from mean_final_score.",
     })
 
