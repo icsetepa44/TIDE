@@ -120,9 +120,6 @@ python regen_event_sorting.py                       # make event_sorting date-fr
 python split_qa_by_type.py                          # refresh the pooled view
 ```
 
-See [docs/PIPELINE.md](docs/PIPELINE.md) for what each stage does, the exact prompts,
-the models/keys per stage, and the design rationale.
-
 ---
 
 ## Data notes (what's committed vs. regenerable)
