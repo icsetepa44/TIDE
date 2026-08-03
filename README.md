@@ -1,4 +1,4 @@
-# 🌊 TIDE: Time Present and Time Past — Benchmarking Large Language Models on Temporally Evolving Document Understanding
+# 🌊 Time Present and Time Past: Benchmarking Large Language Models on Temporally Evolving Document Understanding
 
 ## Under Review at ACL Rolling Review (August 2026 Cycle) — Anonymous Submission
 
