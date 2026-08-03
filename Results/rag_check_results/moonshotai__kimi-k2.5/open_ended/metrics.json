@@ -1,0 +1,79 @@
+{
+  "dataset": "open_ended",
+  "model": "moonshotai/kimi-k2.5",
+  "generated_at": "2026-07-20 22:07:25",
+  "n_dataset_total": 487,
+  "n_with_records": 487,
+  "n_api_failed": 0,
+  "n_evaluated": 487,
+  "n_scored": 487,
+  "n_judge_error": 0,
+  "n_legacy_records_excluded": 0,
+  "n_empty_answers": 0,
+  "n_uncertain": 0,
+  "n_calendar_mismatch": 0,
+  "mean_final_score": 0.4357,
+  "mean_final_score_counting_judge_errors_as_zero": 0.4357,
+  "mean_date_score": 0.1293,
+  "meaning_correct_rate": 0.4559,
+  "full_credit_rate": 0.423,
+  "zero_score_rate": 0.5462,
+  "score_distribution": {
+    "0": 266,
+    "0.25": 4,
+    "0.3333": 2,
+    "0.5": 9,
+    "1": 206
+  },
+  "n_date_matches_deterministic": 36,
+  "n_date_matches_judge_only": 4,
+  "n_confidence_scored": 487,
+  "judge_confidence_mean": 98.0,
+  "judge_confidence_mean_when_meaning_correct": 98.18,
+  "judge_confidence_mean_when_meaning_wrong": 97.85,
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 487,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "scoring": "Rubric v2: atomic LLM-judge booleans (LLM as a Council, temperature=0) + deterministic Python scoring (rubric_scoring.score_base). Dates are a hard gate; judge errors are excluded from mean_final_score.",
+  "evaluation_mode": "rag_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 487,
+    "by_context_status": {
+      "full": 487
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 5,
+      "median": 10,
+      "max": 10,
+      "mean": 9.9
+    },
+    "context_char_count": {
+      "min": 1327,
+      "median": 10737,
+      "max": 61117,
+      "mean": 12837.3
+    },
+    "context_token_estimate": {
+      "min": 331,
+      "median": 2684,
+      "max": 15279,
+      "mean": 3208.9
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 0,
+    "n_documents_dropped_total": 0
+  }
+}
