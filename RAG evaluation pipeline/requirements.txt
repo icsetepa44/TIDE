@@ -1,0 +1,10 @@
+# RAG setting — direct dependencies (pip resolves the transitive deps).
+#   build_vector_db.py : chromadb + google-genai (embed the corpus, search the store)
+#   RAG.py             : openai (OpenRouter answering) + google-genai (Gemini judge/embedding)
+#                        + scipy / scikit-learn (eval metrics) + tqdm (progress bars)
+chromadb==1.5.9
+google-genai==2.10.0
+openai==2.44.0
+scikit-learn==1.9.0
+scipy==1.18.0
+tqdm==4.68.3
