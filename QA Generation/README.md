@@ -31,37 +31,6 @@ entity clustering → evolving-concept threads → Q&A generation** (9 question 
 
 ---
 
-## Pipeline at a glance
-
-```mermaid
-flowchart TD
-    A["merged_ec_output_canon.json<br/>(entity–concept extraction input)"] --> B
-
-    subgraph CLU["CLUSTERING"]
-      B["break_subentities.py<br/>+ entity_sub_entities"] --> C
-      C["cluster_entities.py<br/>collect → embed → block → judge → assign"] --> D
-      D["…_clustered.json<br/>+ clause_clusters"] --> E
-      E["split_by_cluster.py<br/>clusters_by_id/"] --> F
-      F["concept_cluster.py<br/>evolving concept threads"] --> G
-      G["export_threads.py<br/>concept_threads/"]
-    end
-
-    subgraph QA["Q&A GENERATION"]
-      G --> H["generate_qa.py — 6 base types"]
-      H --> I["expand_scenarios.py"]
-      I --> J["add_temporal_qa.py"]
-      J --> K["map_qa_clauses.py"]
-      K --> L["add_relative_time_qa.py / add_multi_entity_qa.py"]
-      L --> M["split_qa_by_type.py"]
-      M --> N["regenerate_qa.py (v2, grounded)"]
-      N --> O["regen_event_sorting.py (date-free)"]
-    end
-
-    O --> P["concept_qa/ · concept_qa_multi/ · concept_qa_by_type/"]
-```
-
----
-
 ## Repository layout
 
 ```
