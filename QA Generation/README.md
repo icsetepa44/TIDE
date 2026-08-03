@@ -40,8 +40,6 @@ qa-generation-pipeline/
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
-├── all_api.txt.example       ← template for FREE Gemini keys  (copy → all_api.txt)
-├── gemini_api.txt.example    ← template for PAID Gemini key   (copy → gemini_api.txt)
 │
 │  # ── pipeline code (flat: scripts import each other as modules) ──
 ├── break_subentities.py      shared: ApiKeyRotator, KeyPool, watchdog, logging

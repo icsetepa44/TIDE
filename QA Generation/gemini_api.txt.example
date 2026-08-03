@@ -1,8 +1,0 @@
-# Single PAID Gemini API key (billing enabled).
-# Used for embeddings (clustering stage 1) and the v2 regeneration (stages 11-12),
-# because those need quota the free keys have exhausted. Paid usage is billed on
-# GENERATED tokens only, so 503 retries cost nothing.
-#
-# SETUP: copy this file to `gemini_api.txt` and paste your real key.
-#        `gemini_api.txt` is git-ignored and must NEVER be committed.
-AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXX-paid-key
