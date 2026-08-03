@@ -1,0 +1,38 @@
+{
+  "group_id": "cluster_00035_t0__X__cluster_00213_t1",
+  "entities": [
+    "Business Identification Number",
+    "Assistant Commissioner"
+  ],
+  "cluster_ids": [
+    35,
+    213
+  ],
+  "thread_ids": [
+    "cluster_00035_t0",
+    "cluster_00213_t1"
+  ],
+  "num_shared_clauses": 8,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the role of the Assistant Commissioner regarding the verification of compliance conditions, such as those related to the Business Identification Number, during the customs clearance process?",
+      "answer": "The Assistant Commissioner (along with the Deputy Commissioner) is responsible for supervising the customs clearance process. They must ensure that the customs officer has verified that all conditions regarding import and customs duties—which include compliance requirements like the Business Identification Number—have been met, and they are responsible for granting the final approval for customs clearance to avoid delays.",
+      "entities_involved": [
+        "Business Identification Number",
+        "Assistant Commissioner"
+      ],
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ]
+}

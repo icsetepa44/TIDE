@@ -1,0 +1,629 @@
+{
+  "cluster_id": 57,
+  "cluster_label": "materials",
+  "thread_index": 1,
+  "thread_id": "cluster_00057_t1",
+  "title": "Rules of Origin and Valuation for Materials",
+  "summary": "This thread covers the technical definitions and valuation methodologies for materials under international trade agreements (D-8, PTA), focusing on classification and the treatment of non-originating materials.",
+  "evolution": {
+    "legal_basis": "Transitioned to international standards for determining the origin and value of materials in preferential trade."
+  },
+  "timeline": [
+    {
+      "date": "2022-10-18",
+      "instrument": "TPS-OIC Rules",
+      "change": "Establishment of formal definitions for indirect materials, valuation of non-originating materials, and classification rules.",
+      "clause_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17"
+      ]
+    }
+  ],
+  "num_member_objects": 8,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "Definitions",
+      "text_id": "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+      "resolved_text": "Article 2\nDefinitions\n\nFor the purposes of this TPS-OIC Rules of Origin:\n\na) \"chapters\" and \"headings\" means the chapters and tariff headings (four-digit codes) used in the nomenclature which makes up the Harmonized Commodity Description and Coding System, referred to in this TPS-OIC Rules of Origin as \"the Harmonized System\" or \"HS\";\n\nb) \"classified\" refers to the classification of a product or material under a particular heading;\n\nc) \"consignment\" means products which are either sent simultaneously from one exporter to one consignee or covered by a single transport document covering their shipment from the exporter to the consignee or, in the absence of such a document, by a single invoice;\n\nd) \"customs value\" means the transaction value of imported goods, which is the price actually paid or payable for the goods when sold for export to the country of importation, including other leviable charges and adjustment. In cases where the Customs value cannot be determined on the basis of transaction value, it will be determined using one of the following methods:\n\nThe transaction value of identical goods;\nThe transaction value of similar goods;\nThe deductive value method;\nThe computed value method;\nThe fall-back method;\n\ne) \"goods\" means both materials and the products;\n\nf) \"manufacture\" means any kind of working or processing including assembly or specific operations on both of industrial and agricultural products;\n\ng) \"material\" means any ingredient, raw material, component or part, etc., used in the manufacture of the product;\n\nh) \"product\" means the product being manufactured, even if it is intended for later use in another manufacturing operation;\n\ni) \"territories\" means territories of Participating States including territorial waters;\n\nj) \"value of materials\" means the customs value at the time of importation of the non-originating materials used, or, if this is not known and cannot be ascertained, the first ascertainable price paid for the non-originating materials in a Participating State;\n\nk) \"value of originating materials\" means the value of such materials as defined in subparagraph (j) applied mutatis mutandis;\n\nl) \"value added\" shall be taken to be the ex-works price minus the customs value of each of the materials incorporated which originate in the other Participating States or, where the customs value is not known or cannot be ascertained, the first ascertainable price paid for the materials in a Participating State;\n\nm) \"ex-works price\" means the price paid for the product ex-works to the manufacturer in the Participating State in whose undertaking the last working or processing is carried out, provided that the price includes the value of all the materials used, minus any internal taxes which are, or may be, repaid when the product obtained is exported.",
+      "entity_concepts": {
+        "Harmonized System": [
+          "This system refers to the Harmonized Commodity Description and Coding System, which provides the nomenclature of chapters and tariff headings used for the classification of goods."
+        ],
+        "Classification of Goods": [
+          "This process refers to assigning a product or material under a specific heading within the Harmonized System."
+        ],
+        "Consignment": [
+          "A consignment consists of products sent simultaneously from one exporter to one consignee, documented either by a single transport document or a single invoice."
+        ],
+        "Customs Value": [
+          "Customs value is primarily defined as the transaction value or the price paid for imported goods including leviable charges and adjustments.",
+          "When transaction value is unavailable, customs value is determined using alternative methods including the value of identical or similar goods, the deductive value method, the computed value method, or the fall-back method."
+        ],
+        "Goods": [
+          "The term goods encompasses both materials and finished products."
+        ],
+        "Manufacturer": [
+          "The process of manufacture includes any working or processing, such as assembly or specific operations, applied to both industrial and agricultural products."
+        ],
+        "Raw Materials": [
+          "Materials are defined as any ingredients, components, parts, or raw materials utilized in the production of a final product."
+        ],
+        "Ex-works Price": [
+          "The ex-works price is the price paid to the manufacturer for a product at the factory gate, including the value of all materials used but excluding any internal taxes that may be repaid upon export."
+        ],
+        "Value Added": [
+          "Value added is calculated by subtracting the customs value of non-originating materials from the ex-works price of the final product."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2387",
+      "entity_sub_entities": {
+        "Harmonized System": [
+          "Harmonized Commodity Description and Coding System",
+          "chapters",
+          "tariff headings"
+        ],
+        "Classification of Goods": [
+          "product",
+          "material",
+          "heading",
+          "Harmonized System"
+        ],
+        "Consignment": [
+          "products",
+          "exporter",
+          "consignee",
+          "transport document",
+          "invoice"
+        ],
+        "Customs Value": [
+          "transaction value",
+          "price paid",
+          "imported goods",
+          "leviable charges",
+          "adjustments",
+          "identical goods",
+          "similar goods",
+          "deductive value method",
+          "computed value method",
+          "fall-back method"
+        ],
+        "Goods": [
+          "materials",
+          "finished products"
+        ],
+        "Manufacturer": [
+          "working",
+          "processing",
+          "assembly",
+          "industrial products",
+          "agricultural products"
+        ],
+        "Raw Materials": [
+          "ingredients",
+          "components",
+          "parts",
+          "raw materials"
+        ],
+        "Ex-works Price": [
+          "price",
+          "manufacturer",
+          "product",
+          "factory gate",
+          "materials",
+          "internal taxes"
+        ],
+        "Value Added": [
+          "customs value",
+          "non-originating materials",
+          "ex-works price",
+          "final product"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        12,
+        42,
+        54,
+        57,
+        77,
+        83,
+        95,
+        119,
+        162,
+        221,
+        350,
+        432,
+        450,
+        485,
+        572,
+        709,
+        766,
+        1001,
+        1082,
+        1094,
+        1157,
+        1209,
+        1303,
+        1525,
+        2074,
+        2103,
+        2477,
+        2799,
+        3151,
+        3651,
+        3805,
+        3961,
+        4226,
+        4276,
+        4900,
+        5067,
+        6315,
+        8002,
+        8071,
+        9778,
+        10905,
+        13169,
+        13408
+      ],
+      "source_file": "customs_sros_OCR/20221018_251-Act_2022_133_Customs/20221018_251-Act_2022_133_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "Rule 10 - Treatment of Indirect Materials",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+      "resolved_text": "Rule 10\nTreatment of Indirect Materials\nUnless otherwise provided, for the purpose of determining the origin of goods, the origin of indirect materials, or the materials used in its manufacture which do not remain in the goods or form part of the goods, shall not be taken into account.",
+      "entity_concepts": {
+        "Indirect Material": [
+          "When determining the origin of goods, indirect materials are excluded from the calculation.",
+          "Indirect materials, which are used in the manufacturing process but do not form part of the final product or remain in it, are not considered for origin determination purposes."
+        ],
+        "Goods": [
+          "The origin of goods is determined by excluding any materials used in their production that do not remain part of the final item."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2402",
+      "entity_sub_entities": {
+        "Indirect Material": [
+          "indirect materials",
+          "goods"
+        ],
+        "Goods": [
+          "goods",
+          "materials",
+          "final item"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        57,
+        4178,
+        8066,
+        8993
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_14",
+      "clause_title": "Rule 11 - Classification of Goods",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+      "resolved_text": "Rule 11\nClassification of Goods\nFor the purposes of these Rules, goods, materials and products shall be classified in accordance with the General Rules of Interpretation of Harmonized System.",
+      "entity_concepts": {
+        "Classification of Goods": [
+          "The classification of goods, materials, and products for the purposes of these rules must be conducted in accordance with the General Rules of Interpretation of the Harmonized System."
+        ],
+        "Harmonized System": [
+          "The General Rules of Interpretation of this system serve as the authoritative framework for classifying goods, materials, and products under these rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2403",
+      "entity_sub_entities": {
+        "Classification of Goods": [
+          "goods",
+          "materials",
+          "products"
+        ],
+        "Harmonized System": [
+          "General Rules of Interpretation",
+          "goods",
+          "materials",
+          "products"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        57,
+        83,
+        450,
+        1209,
+        8409
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "Rule 1 - Definitions",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+      "resolved_text": "Annex II\nRULES OF ORIGIN FOR THE PREFERENTIAL TRADE AGREEMENT (PTA) AMONG THE D-8 MEMBER STATES\n\nRule 1\nDefinitions\nFor the purposes of these Rules:\n\n(a) \"CIF value\" means the price actually paid or payable to the exporter for the goods when the goods are unloaded from the carrier, at the port of importation. The value includes the cost of the goods, insurance and freight necessary to deliver the goods to the named port of destination;\n\n(b) \"Consignment\" means goods which are either sent simultaneously from one exporter to one consignee or covered by a single transport document covering their shipment from the exporter to the consignee or, in the absence of such a documents, by a single invoice;\n\n(c) \"Customs Value\" means the transaction value of imported goods, which is the price actually paid or payable for the goods when sold for export to the country of importation, including other leviable charges and adjustment. In cases where the Customs value cannot be determined on the basis of transaction value, it will be determined using one of the following methods:\n  i. The transaction value of identical goods;\n  ii. The transaction value of similar goods;\n  iii. The deductive value method;\n  iv. The computed value method; or\n  v. The fall-back method.\n\n(d) \"Ex-Works Price\" means the price paid or payable for the good to the manufacturer in the Contracting Member’s territory in whose undertaking the last working or processing is carried out, provided that the price includes the value of all the materials used, excluding any internal taxes which are, or may be repaid when the good obtained is exported;\n\n(e) \"Indirect Material\" means a good used in the production, testing or inspection of a good but not physically incorporated into the goods, or a good used in the maintenance of buildings or the operation of equipment associated with the production of a good, including:\n  i. fuel and energy;\n  ii. tools, dies, and moulds;\n  iii. parts and materials used in the maintenance of equipment and buildings;\n  iv. lubricants, greases, compounding materials, and other materials used in production or used to operate equipment and buildings;\n  v. gloves, glasses; footwear, clothing, safety equipment, and supplies;\n  vi. equipment, devices, and supplies used for testing or inspecting the goods;\n  vii. catalysts and solvents; and\n  viii. any other goods that are not incorporated into the goods but whose use in the production of the goods can reasonably be demonstrated to be part of that production;\n\n(f) \"Materials\" means ingredients, parts, components, subassembly and/or goods that were physically incorporated into other goods or were subject to a process in the production of other goods;\n\n(g) \"Non-originating Material\" used in production means any material whose country of origin is other than that of Contracting Members and any material whose origin cannot be determined;\n\n(h) \"Originating Goods\" means goods that qualify as originating in accordance with the provisions of Rules of Origin of D-8 PTA;\n\n(i) \"Production\" means methods of obtaining goods including manufacturing, producing, assembling, processing, raising, growing, breeding, mining, extracting, harvesting, fishing, trapping, gathering, collecting, hunting and capturing; and\n\n(j) \"Territories\" means territories of Contracting Members including territorial waters.",
+      "entity_concepts": {
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "These definitions set the legal terminology for the Rules of Origin governing trade under the Preferential Trade Agreement among D-8 member states."
+        ],
+        "CIF Value": [
+          "CIF value represents the price paid or payable to the exporter for goods at the port of importation, including the cost of the goods, insurance, and freight charges."
+        ],
+        "Consignment": [
+          "Consignment refers to goods sent simultaneously from one exporter to one consignee, documented by a single transport document or a single invoice."
+        ],
+        "Customs Value": [
+          "Customs Value is defined as the transaction value of imported goods including leviable charges and adjustments.",
+          "When the transaction value cannot be determined, it must be established using alternative methods such as the value of identical or similar goods, the deductive value method, the computed value method, or the fall-back method."
+        ],
+        "Identical Goods": [
+          "Identical goods provide a basis for determining Customs Value when the primary transaction value method cannot be applied."
+        ],
+        "Ex-works Price": [
+          "Ex-works price is the amount paid to the manufacturer where the final processing occurred, including the value of materials used but excluding any internal taxes refundable upon export."
+        ],
+        "Indirect Material": [
+          "Indirect material includes goods used during production, testing, or maintenance, such as fuel, tools, lubricants, or safety equipment, which are not physically incorporated into the final product."
+        ],
+        "Materials": [
+          "Materials refer to components, ingredients, or parts that are physically incorporated into other goods or undergo a production process."
+        ],
+        "Non-originating Material": [
+          "Non-originating material refers to items originating from outside the D-8 member states or items whose country of origin cannot be determined."
+        ],
+        "Originating Goods": [
+          "Originating goods are those that meet the specific qualification criteria established under the Rules of Origin of the D-8 PTA."
+        ],
+        "Production": [
+          "Production is broadly defined to encompass all methods of obtaining goods, including manufacturing, assembling, growing, extracting, and harvesting."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2393",
+      "entity_sub_entities": {
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "Rules of Origin"
+        ],
+        "CIF Value": [
+          "price paid or payable",
+          "goods",
+          "insurance",
+          "freight charges"
+        ],
+        "Consignment": [
+          "goods",
+          "transport document",
+          "invoice"
+        ],
+        "Customs Value": [
+          "transaction value",
+          "imported goods",
+          "leviable charges",
+          "adjustments",
+          "value of identical or similar goods",
+          "deductive value method",
+          "computed value method",
+          "fall-back method"
+        ],
+        "Identical Goods": [
+          "identical goods"
+        ],
+        "Ex-works Price": [
+          "amount paid",
+          "manufacturer",
+          "materials",
+          "internal taxes"
+        ],
+        "Indirect Material": [
+          "fuel",
+          "tools",
+          "lubricants",
+          "safety equipment"
+        ],
+        "Materials": [
+          "components",
+          "ingredients",
+          "parts"
+        ],
+        "Non-originating Material": [
+          "items"
+        ],
+        "Originating Goods": [
+          "originating goods",
+          "Rules of Origin",
+          "D-8 PTA"
+        ],
+        "Production": [
+          "manufacturing",
+          "assembling",
+          "growing",
+          "extracting",
+          "harvesting"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        42,
+        54,
+        57,
+        95,
+        117,
+        162,
+        306,
+        498,
+        572,
+        709,
+        766,
+        790,
+        922,
+        954,
+        958,
+        1001,
+        1303,
+        1803,
+        2059,
+        2061,
+        2103,
+        2110,
+        2128,
+        2632,
+        3151,
+        3651,
+        3805,
+        3961,
+        4178,
+        4226,
+        4276,
+        4819,
+        5067,
+        5652,
+        7995,
+        8566,
+        8621,
+        9645,
+        10906,
+        13187
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "Rule 5 - Cumulative Rule of Origin",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+      "resolved_text": "Rule 5\nCumulative Rule of Origin\nUnless otherwise provided for, products which comply with origin requirements provided for in Rule 2 and which are used in the territory of a Contracting Member as materials for a finished product eligible for preferential treatment under the D-8 PTA shall be considered as products originating in the territory of a Contracting Member where working or processing of the finished product has taken place provided that the aggregate D-8 Contracting Members originating content on the final product is not less than 40%.",
+      "entity_concepts": {
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "This rule specifies the cumulative origin criteria for goods to remain eligible for preferential treatment under the D-8 PTA.",
+          "To qualify as originating products, materials used in the production process within the D-8 Contracting Members must collectively account for a minimum specified percentage of the final finished product's value."
+        ],
+        "Originating Goods": [
+          "Products that comply with established rules of origin and are used as materials for a finished product are considered to have originated in the member state where the final processing occurred, provided they meet the cumulative value threshold requirements."
+        ],
+        "Rules of Origin": [
+          "This rule provides a cumulative framework where materials sourced from within the D-8 contracting members are aggregated to determine the origin status of a finished product."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2397",
+      "entity_sub_entities": {
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "goods",
+          "cumulative origin criteria",
+          "originating products",
+          "materials",
+          "production process",
+          "D-8 Contracting Members",
+          "finished product"
+        ],
+        "Originating Goods": [
+          "products",
+          "rules of origin",
+          "materials",
+          "finished product",
+          "member state",
+          "cumulative value threshold"
+        ],
+        "Rules of Origin": [
+          "cumulative framework",
+          "materials",
+          "D-8 contracting members",
+          "finished product"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        57,
+        83,
+        306,
+        498,
+        875,
+        958,
+        1648,
+        3789,
+        4466,
+        6785,
+        6786,
+        6787,
+        9838
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "Not wholly Produced or Obtained",
+      "text_id": "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+      "resolved_text": "Rule 7: Not wholly Produced or Obtained\n\n1. Within the meaning of Rule 5(b), products not wholly produced or obtained shall be subject to Rule 8 and shall satisfy the conditions prescribed under Paragraph 2.\n\n2. Products originating in the exporting Party shall be considered to be sufficiently worked or processed for the purposes of granting originating status if they fulfill any of the following conditions:\n\n(a) The final product is classified in a heading at the four-digit level of the Harmonized Commodity Description and Coding System differently from those in which all the non-originating materials used in its manufacture are classified.\n\nOR\n\n(b) Products worked on or processed as a result of which the total value of all the non-originating materials does not exceed 70% of the Free on Board (FOB) value of the products produced or obtained and the final process of manufacture is performed within the territory of the exporting Party.",
+      "entity_concepts": {
+        "Originating Goods": [
+          "Goods that are not wholly produced or obtained are considered to have originating status if they meet specific transformation or value-added criteria during the manufacturing process. These products must be sufficiently worked or processed within the territory of the exporting party to qualify under these rules."
+        ],
+        "Harmonized System": [
+          "A product is considered to have undergone sufficient processing if its final classification at the four-digit level of this system differs from the classification of all non-originating materials used in its production."
+        ],
+        "Non-originating Material": [
+          "For goods to qualify as originating, the total value of these materials must not exceed a specified percentage of the product's final free on board value. Additionally, the final manufacturing process involving these materials must take place within the exporting party's territory."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2438",
+      "entity_sub_entities": {
+        "Originating Goods": [
+          "goods",
+          "products"
+        ],
+        "Harmonized System": [
+          "product",
+          "four-digit level",
+          "non-originating materials"
+        ],
+        "Non-originating Material": [
+          "materials",
+          "product",
+          "free on board value",
+          "manufacturing process"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        57,
+        83,
+        432,
+        712,
+        954,
+        958,
+        1082,
+        1209,
+        8325,
+        8338
+      ],
+      "source_file": "customs_sros_OCR/20221018_259-Act_2022_134_Customs/20221018_259-Act_2022_134_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "Method for Valuation of Non-Originating Material",
+      "text_id": "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+      "resolved_text": "Rule 9: Method for Valuation of Non-Originating Material\n\n(a) The value of the non-originating materials, parts or produce shall be:\n\n(i) The Cost, Insurance and Freight (CIF) value at the time of importation of the materials, parts or produce where this can be proven or\n\n(ii) The earliest ascertainable price paid for the materials, parts or produce of undetermined origin in the territory of the Party where the working or processing takes place.\n\n(b) In order to determine whether or not a product originated in the territory of a Party it shall not be necessary to establish whether the power and fuel, plant and equipment, and machines and tools used to obtain such products, originate in third countries.",
+      "entity_concepts": {
+        "Non-originating Material": [
+          "The value of such materials, parts, or produce is determined based on the Cost, Insurance and Freight value at the time of importation when provable.",
+          "When importation values are not available, the value is determined by the earliest ascertainable price paid for the materials of undetermined origin within the territory where processing occurs."
+        ],
+        "CIF Value": [
+          "This serves as the primary basis for calculating the value of non-originating materials, parts, or produce when the importation cost can be verified."
+        ],
+        "Imported Machinery and Equipment": [
+          "The origin of power, fuel, plant, equipment, machines, and tools used in the production process does not need to be established to determine the originating status of a final product."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2440",
+      "entity_sub_entities": {
+        "Non-originating Material": [
+          "materials",
+          "parts",
+          "produce"
+        ],
+        "CIF Value": [
+          "non-originating materials",
+          "parts",
+          "produce"
+        ],
+        "Imported Machinery and Equipment": [
+          "power",
+          "fuel",
+          "plant",
+          "equipment",
+          "machines",
+          "tools"
+        ]
+      },
+      "clause_clusters": [
+        54,
+        57,
+        72,
+        854,
+        907,
+        922,
+        954,
+        1082,
+        1803,
+        2061,
+        2205,
+        9650,
+        10805
+      ],
+      "source_file": "customs_sros_OCR/20221018_259-Act_2022_134_Customs/20221018_259-Act_2022_134_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_17",
+      "clause_title": "Prohibitions",
+      "text_id": "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17",
+      "resolved_text": "Rule 14: Prohibitions\n\nEither Party may prohibit importation of products containing any inputs originating from Countries with which it does not have economic and commercial relations;",
+      "entity_concepts": {
+        "Importation": [
+          "The regulations allow either party to restrict the importation of products that contain inputs originating from countries with which they do not maintain economic or commercial relations."
+        ],
+        "Non-originating Material": [
+          "The use of inputs from countries lacking economic and commercial relations with the importing party is grounds for prohibiting the entry of the final products containing such materials."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2445",
+      "entity_sub_entities": {
+        "Importation": [
+          "products",
+          "inputs",
+          "countries"
+        ],
+        "Non-originating Material": [
+          "inputs",
+          "countries",
+          "final products",
+          "materials"
+        ]
+      },
+      "clause_clusters": [
+        57,
+        83,
+        106,
+        954,
+        1405,
+        1971,
+        8072
+      ],
+      "source_file": "customs_sros_OCR/20221018_259-Act_2022_134_Customs/20221018_259-Act_2022_134_Customs_output.json",
+      "clause_date": "2022-10-18"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

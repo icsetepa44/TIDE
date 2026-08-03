@@ -1,0 +1,90 @@
+{
+  "thread_id": "cluster_00341_t2",
+  "cluster_id": 341,
+  "cluster_label": "Privileged Persons (Customs Procedures) Rules 2003",
+  "title": "Exclusion from Temporary Import Rules",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the regulatory framework for the temporary importation of goods evolved regarding privileged persons between 2022 and 2025?",
+      "answer": "The regulatory framework has maintained a consistent policy of excluding goods, machinery, parts, and equipment imported by privileged persons from the scope of temporary import regulations. This exclusion was initially established under the Temporary Import of Goods, Machinery, Parts and Equipment Rules 2022 and was re-codified under the Temporary Import of Goods, Machinery, Parts and Equipment Rules 2025, which came into effect on June 2, 2025.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_1",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way did the definition of excluded consumable goods change from the 2022 rules to the 2025 rules?",
+      "answer": "While the 2022 rules provided a general exclusion for consumable goods intended for use in projects, plants, or machinery that become depleted or unusable, the 2025 rules expanded this by providing a specific schedule of items. The 2025 framework explicitly lists categories such as steel sheets, cement, paints, chemicals, and various office equipment to clarify which consumable goods are excluded from the scope of the temporary import regulations.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_1",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why does the exclusion for privileged persons remain a constant feature in Bangladeshi temporary import legislation?",
+      "answer": "The exclusion remains a constant feature because both the 2022 and 2025 rules explicitly reference the definition of 'Privileged Persons' as established under rule 2, clause (d) of the Privileged Persons (Customs Procedures) Rules 2003. By anchoring the exclusion to this pre-existing 2003 instrument, the legislation ensures that the diplomatic and privileged status of these entities is consistently respected across different iterations of temporary import frameworks.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_1",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What structural shift occurred in the legal instruments governing temporary imports between February 2022 and June 2025?",
+      "answer": "The governing instrument shifted from the Temporary Import of Goods, Machinery, Parts and Equipment Rules 2022 to the Temporary Import of Goods, Machinery, Parts and Equipment Rules 2025. This transition represents a re-codification of the regulatory framework, which updated the scope of excluded goods while maintaining the foundational exclusions for privileged persons and specific consumable products.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_1",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2025 framework refine the exclusion of consumable goods compared to the 2022 rules?",
+      "answer": "The 2025 framework refines the exclusion by moving from a general description of consumable goods to a detailed list of items, such as anchor boats, dredgers, and specific motor vehicles. This provides greater regulatory clarity compared to the 2022 rules, which relied on a broader definition of goods rendered unusable through their application in projects or plants.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_1",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A diplomat imported machinery into Bangladesh in early 2024 under the rules then in force. Following the issuance of the Temporary Import of Goods, Machinery, Parts and Equipment Rules 2025 on June 2, 2025, the diplomat is concerned whether their status as a Privileged Person still exempts them from the temporary import regulations.",
+      "question": "Does the transition from the 2022 Rules to the 2025 Rules change the exemption status for goods imported by Privileged Persons as defined under the Privileged Persons (Customs Procedure) Rules, 2003?",
+      "answer": "No. The exemption for goods, machinery, parts, and equipment imported by Privileged Persons remains consistent across both the 2022 and 2025 Rules.",
+      "clauses_involved": [
+        "2022-02-08",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_1",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-02-08",
+      "relative_offset": "three years later",
+      "question": "The Temporary Import of Goods, Machinery, Parts and Equipment Rules were established in 2022. What happened to the regulatory framework regarding the exclusion of privileged persons three years later?",
+      "answer": "Three years later, on June 2, 2025, the Temporary Import Rules 2025 were enacted, which re-codified the existing exclusion for privileged persons under a new regulatory framework.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_1",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    }
+  ]
+}

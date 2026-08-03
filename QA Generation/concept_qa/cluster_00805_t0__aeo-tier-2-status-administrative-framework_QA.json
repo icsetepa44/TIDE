@@ -1,0 +1,212 @@
+{
+  "thread_id": "cluster_00805_t0",
+  "cluster_id": 805,
+  "cluster_label": "Tier-2 status",
+  "title": "AEO Tier-2 Status Administrative Framework",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 13,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 4,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How does the regulatory framework for Tier-2 status facilitate the progression of Authorized Economic Operators within the 2024 rules?",
+      "answer": "Under the Authorized Economic Operator (Recognition and Management) Rules, 2024, Tier-2 status serves as a transitional tier between Tier-1 and Tier-3. The framework facilitates this progression by requiring applicants to demonstrate satisfactory performance and audit records from their previous tier before the Authorized Economic Operator Committee approves the transition and issues a new recognition certificate.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the procedural relationship between the issuance of a new AEO status and the existing certification under the 2024 rules?",
+      "answer": "According to the Authorized Economic Operator (Recognition and Management) Rules, 2024, the promotion of an entity to a higher status, such as moving from Tier-1 to Tier-2 or Tier-2 to Tier-3, is contingent upon the formal cancellation of the entity's previous recognition certificate. This ensures that an entity maintains only one active, valid tier certification at any given time.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role does the Business Identification Number play in the administrative procedures for AEO status upgrades?",
+      "answer": "The Business Identification Number is a mandatory organizational detail required for all application forms, such as Form-J for Tier-2 and Form-T for Tier-3, under the Authorized Economic Operator (Recognition and Management) Rules, 2024. Its inclusion is essential for identifying the entity during the certification process managed by the Authorized Economic Operator Center.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the standardization of application forms contribute to the administrative framework of the AEO program as of June 2024?",
+      "answer": "The standardization of forms like Form-J, Form-Jh, Form-T, and Form-Th provided a consistent legal and operational structure for AEO status transitions. By anchoring these forms to the Authorized Economic Operator (Recognition and Management) Rules, 2024, the National Board of Revenue established a uniform procedure for applying for promotion and receiving certification across different tiers.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the AEO (Recognition and Management) Rules, 2024, entities applying for Tier-2 status must submit their Business Identification Number as a mandatory detail.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. According to the 2024-06-13 documentation, the Business Identification Number is a mandatory detail required for entities applying for Tier-2 AEO status.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The process for elevating an entity from Tier-1 to Tier-2 status involves the retention of the existing Tier-1 certificate alongside the new Tier-2 recognition.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "retention of the existing Tier-1 certificate",
+      "correct_fact": "cancellation of the previous Tier-1 certificate",
+      "answer": "The statement is inaccurate. As per the 2024-06-13 certification process (Form-Jh), Tier-2 recognition involves the cancellation of the previous Tier-1 certificate.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Authorized Economic Operator (Recognition and Management) Rules, 2024, were initially established on June 13, 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The timeline confirms the initial establishment of Tier-2 application and certification procedures occurred on 2024-06-13 under these rules.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Form-T is the designated application form used by entities currently holding Tier-2 status to apply for promotion to Tier-1 status.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "promotion to Tier-1 status",
+      "correct_fact": "promotion to Tier-3 status",
+      "answer": "The statement is inaccurate. According to the 2024-06-13 clause regarding Form-T, this form is used by entities holding Tier-2 status to apply for an upgrade to Tier-3 status.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The National Board of Revenue is the authority responsible for issuing the rules that govern the recognition and operations of Authorized Economic Operators.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 2024-06-13 documentation identifies the National Board of Revenue as the authority responsible for the rules governing AEO recognition and operations.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "To apply for Tier-2 status, an applicant must provide proof of satisfactory performance during their period as a Tier-3 operator.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Tier-3 operator",
+      "correct_fact": "Tier-1 operator",
+      "answer": "The statement is inaccurate. Based on the 2024-06-13 application procedure, applicants must provide proof of satisfactory performance during their period as a Tier-1 operator to qualify for Tier-2 status.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the AEO (Recognition and Management) Rules, 2024, dated June 13, 2024, an entity applying for Tier-2 status is required to submit Form-T to initiate the promotion process from Tier-1.",
+      "question": "Is the use of Form-T correct for an entity applying for promotion to Tier-2 status according to the 2024 Rules?",
+      "conflict": "The misaligned context incorrectly identifies Form-T as the application form for Tier-2 promotion, whereas the 2024 Rules designate Form-T for Tier-3 promotion.",
+      "answer": "No, that is incorrect. According to the Authorized Economic Operator (Recognition and Management) Rules, 2024, Form-J is the prescribed application form for a Tier-1 operator to apply for promotion to Tier-2 status. Form-T is specifically used for entities currently holding Tier-2 status to apply for promotion to Tier-3 status.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-13",
+      "relative_offset": "eight months later",
+      "question": "In the AEO (Recognition and Management) Rules, 2024, what was the status of the Tier-2 application and certification procedures eight months later?",
+      "answer": "On 2025-02-16, the procedures for Tier-2 status remained consistent with the initial 2024 establishment, with the AEO (Recognition and Management) Rules, 2024 reiterating the established certification and application requirements.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_35"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Authorized Economic Operator (Recognition and Management) Rules are applied to reiterate established procedures for Tier-2 status.",
+        "The Authorized Economic Operator (Recognition and Management) Rules are utilized to provide the formal establishment of Tier-2 application and certification procedures.",
+        "A reiteration of established procedures for Tier-2 status is issued under the Authorized Economic Operator (Recognition and Management) Rules."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Authorized Economic Operator (Recognition and Management) Rules are utilized to provide the formal establishment of Tier-2 application and certification procedures.",
+          "date": "2024-06-13"
+        },
+        {
+          "event": "The Authorized Economic Operator (Recognition and Management) Rules are applied to reiterate established procedures for Tier-2 status.",
+          "date": "2025-02-16"
+        },
+        {
+          "event": "A reiteration of established procedures for Tier-2 status is issued under the Authorized Economic Operator (Recognition and Management) Rules.",
+          "date": "2025-02-17"
+        }
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_31",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_32",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_34"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00805_t0__aeo-tier-2-status-administrative-framework.json"
+    }
+  ]
+}

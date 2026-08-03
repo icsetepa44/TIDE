@@ -1,0 +1,307 @@
+{
+  "thread_id": "cluster_00806_t0",
+  "cluster_id": 806,
+  "cluster_label": "transit operations",
+  "title": "Transit and Transshipment Operational Framework",
+  "source_num_member_objects": 8,
+  "num_qa_pairs": 20,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 6,
+    "context_misalignment": 3,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the institutional oversight of transit and transshipment operations in Bangladesh evolved from 2010 to 2025?",
+      "answer": "Institutional oversight has transitioned from a simple fee-collection model in 2010 to a centralized coordination regime by 2025. According to the 2025 regulation, the National Board of Revenue now appoints a Commissioner of Customs as the National Transit or Transshipment Coordinator, who is tasked with resolving operational queries and coordinating across government agencies, a significant shift from the initial focus on basic fee administration.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what ways has the financial security framework for transit and transshipment changed to accommodate different types of operators?",
+      "answer": "The financial security framework evolved from basic fee-based requirements in 2010 to the introduction of 'Integrated Guarantees' in 2024. As per the 2024 regulation, this system allows Authorized Economic Operators (AEOs) and government entities to use consolidated bank guarantees, ensuring that the security coverage is not less than the cumulative duties and taxes, thereby streamlining the security process compared to earlier, less flexible structures.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the approach to transit routes and port management become more flexible over time?",
+      "answer": "Operational flexibility has increased significantly by 2025, moving away from the rigid route definitions established in the 2023 Standing Order. The 2025 regulation now permits authorized persons or agents to request changes to ports of exit, allowing for ex-post-facto approvals and adjustments within the Customs Computerised System, provided there is a valid reason and official authorization.",
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the fee structure for transit and transshipment operations shifted in its legal basis and application?",
+      "answer": "The fee structure has evolved from fixed statutory rates defined in 2010 to a dynamic, protocol-dependent model by 2025. While the 2010 clause established specific rates for containers and tonnage, the 2025 regulation mandates that fees be determined by official gazette notifications linked to international agreements, protocols, or standard operating procedures, ensuring the charges are adaptable to specific transit requirements.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the implications of the 2025 regulatory changes regarding the liability of agents in transit operations?",
+      "answer": "The 2025 regulations have formalized the accountability of agents, stipulating that any violation of transit or transshipment rules is treated as an offense under the law. Authorized persons or agents are now held individually or jointly liable for such violations, which may result in the imposition of penalties, reflecting a stricter enforcement environment compared to earlier frameworks.",
+      "clause_text_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why was the definition of 'Authorized Person' significant for the evolution of the transit and transshipment framework?",
+      "answer": "The formal definition of an 'Authorized Person' in the 2023 Standing Order was a critical step in professionalizing transit operations. By explicitly defining these agents as licensed clearing and forwarding entities empowered to submit declarations, guarantees, and bonds, the framework created a clear legal interface between the Customs Authority and the private sector, facilitating the subsequent introduction of more complex mechanisms like integrated guarantees.",
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2010 regulations, transit and transshipment fees were established at a fixed rate of 5,000 taka per TEU container for road or rail transport.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "5,000 taka",
+      "correct_fact": "10,000 taka",
+      "answer": "The statement is inaccurate. According to the 2010-06-10 SRO, the fee for road or rail transport per TEU container was established at 10,000 taka, not 5,000 taka.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-06-06 Regulation introduced 'Integrated Guarantees' as a mechanism to streamline transit security, specifically applicable to Authorized Economic Operators and government entities.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate based on the 2024-06-06 Regulation, which introduced integrated guarantees for AEOs and government entities.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2025-05-18 Regulation, the National Board of Revenue is empowered to appoint a Minister to serve as the National Transit or Transshipment Coordinator.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Minister",
+      "correct_fact": "Commissioner of Customs",
+      "answer": "The statement is inaccurate. The 2025-05-18 Regulation specifies that the National Board of Revenue is empowered to appoint a Commissioner of Customs, not a Minister, to serve as the National Transit or Transshipment Coordinator.",
+      "clause_text_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-05-18 Regulation allows authorized persons or agents to request ex-post-facto approval for changing the port of exit for transit or transshipment shipments.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Per the 2025-05-18 Regulation, authorized persons or agents may apply for ex-post-facto approval to change the port of exit, provided they state valid reasons and obtain customs authority approval.",
+      "clause_text_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2023-04-25 Standing Order, transit and transshipment routes between India and Bangladesh are determined at the discretion of the local port authority.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "at the discretion of the local port authority",
+      "correct_fact": "based on bilateral agreements and detailed in the appendix of the order",
+      "answer": "The statement is inaccurate. The 2023-04-25 Standing Order states that routes must exclusively follow those defined in bilateral agreements between India and Bangladesh and detailed in the appendix of the order.",
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-05-18 Regulation mandates that administrative fees for transit and transshipment must be published in an official gazette notification by the National Board of Revenue.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2025-05-18 Regulation provides that administrative fees are determined by an official gazette notification issued by the National Board of Revenue.",
+      "clause_text_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the 2010 regulations, transit and transshipment operations are managed by a National Transit or Transshipment Coordinator, and agents are permitted to modify exit ports on an ex-post-facto basis to ensure operational flexibility.",
+      "question": "Does the 2010 framework support the appointment of a National Coordinator and ex-post-facto port modifications?",
+      "conflict": "The context incorrectly attributes 2025 institutional and operational reforms to the 2010 regulatory framework.",
+      "answer": "No. The 2010 framework (SRO/Clause dated 2010-06-10) focused solely on a fixed fee-based structure. The appointment of a National Transit or Transshipment Coordinator and the provision for ex-post-facto port modifications were only introduced in the 2025-05-18 Regulation.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2010-06-10 SRO, transit security is streamlined through the use of 'Integrated Guarantees' for Authorized Economic Operators (AEOs) to replace individual bank guarantees.",
+      "question": "Was the 'Integrated Guarantee' system available for AEOs in 2010?",
+      "conflict": "The context incorrectly suggests that the 2024 Integrated Guarantee regime existed during the 2010 initial fee-based establishment.",
+      "answer": "No. The 2010-06-10 SRO established fixed transit/transshipment fees based on container/tonnage. The 'Integrated Guarantees' for AEOs and government entities were introduced later, specifically via the 2024-06-06 Regulation.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2023, the National Board of Revenue transitioned from fixed statutory fees to a dynamic fee structure linked to specific international protocols, moving away from the container-based rates of 2010.",
+      "question": "When did the fee structure shift from fixed statutory rates to protocol-dependent administrative charges?",
+      "conflict": "The context attributes the 2025 fee structure reform to the 2023 Standing Order.",
+      "answer": "The shift to a dynamic fee structure linked to specific protocols was established in the 2025-05-18 Regulation. The 2023-04-25 Standing Order focused on defining authorized agents and codifying routes, not on the fee structure reform.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A logistics company has been operating transit shipments through Bangladesh since 2009. In 2012, they paid fixed statutory fees per TEU of containerized cargo at the entry point. In 2026, they wish to modify their port of exit for a shipment currently in transit due to an unforeseen logistical delay.",
+      "question": "How has the regulatory framework for changing the port of exit and the determination of fees evolved for this company between 2010 and 2025?",
+      "answer": "In 2010, fees were fixed statutory rates based on cargo type at the entry point. By 2025, the fee structure shifted to dynamic charges linked to specific protocols, and the company gained the ability to request ex-post-facto approval from customs authorities to change the designated port of exit, a flexibility that did not exist under the 2010 framework.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2025-05-18"
+      ],
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An Authorized Economic Operator (AEO) has been managing transit shipments. Prior to 2024, they were required to provide individual guarantees for each shipment. Following the 2024 regulation, they transitioned to using an 'Integrated Guarantee'.",
+      "question": "What legal shift allowed this AEO to move from individual shipment guarantees to a consolidated coverage mechanism?",
+      "answer": "The 2024-06-06 regulation introduced the 'Integrated Guarantee' under Section 43 of the Act, which specifically permitted AEOs and government entities to use consolidated coverage for duties and taxes, replacing the previous requirement for individual fee-based security structures.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "13 years later",
+      "question": "In the 13 years following the initial establishment of fixed transit fees in 2010, what regulatory change was introduced regarding the definition and role of entities managing these shipments?",
+      "answer": "In 2023-04-25, a Standing Order was issued that formally defined 'Authorized Persons' (clearing and forwarding agents) and codified transit routes based on bilateral agreements.",
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year later",
+      "question": "One year after the introduction of 'Integrated Guarantees' in 2024, what major institutional and operational changes were implemented regarding transit and transshipment management?",
+      "answer": "On 2025-05-18, the regulations were updated to institutionalize the appointment of a National Transit or Transshipment Coordinator, allow for ex-post-facto route/port modifications, and shift toward dynamic, protocol-dependent fee structures.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The introduction of integrated guarantees for authorized economic operators and government entities to consolidate customs duties and charges.",
+        "The establishment of fixed transit and transshipment fees based on container and tonnage rates at entry point customs stations.",
+        "The appointment of a national coordinator to oversee transit and transshipment operations and the implementation of ex-post-facto port modification procedures.",
+        "The formal definition of authorized persons and the codification of transit routes based on bilateral agreements."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The establishment of fixed transit and transshipment fees based on container and tonnage rates at entry point customs stations.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The formal definition of authorized persons and the codification of transit routes based on bilateral agreements.",
+          "date": "2023-04-25"
+        },
+        {
+          "event": "The introduction of integrated guarantees for authorized economic operators and government entities to consolidate customs duties and charges.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The appointment of a national coordinator to oversee transit and transshipment operations and the implementation of ex-post-facto port modification procedures.",
+          "date": "2025-05-18"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_16"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230425/20230425_output.json",
+        "customs_sros_OCR/20100610_182-AIN_2010_2300-Customs/20100610_182-AIN_2010_2300-Customs_output.json",
+        "customs_sros_OCR/20240606_205-AIN_2024_57_Customs/20240606_205-AIN_2024_57_Customs_output.json",
+        "customs_sros_OCR/20250518_./20250518_._output.json"
+      ],
+      "thread_source_file": "cluster_00806_t0__transit-and-transshipment-operational-framework.json"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "thread_id": "cluster_00572_t0",
+  "cluster_id": 572,
+  "cluster_label": "invoice",
+  "title": "Customs Valuation Documentation for Motor Vehicles",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the initial requirement for providing a manufacturer-issued invoice for the customs valuation of motor vehicles?",
+      "options": [
+        "SRO 190-AIN/2010",
+        "SRO 168-AIN/2011/2355/CUSTOMS",
+        "SRO 163-AIN/2012/2391/CUSTOMS",
+        "SRO 183-AIN/2013/2533/CUSTOMS"
+      ],
+      "answer_index": 1,
+      "answer": "SRO 168-AIN/2011/2355/CUSTOMS",
+      "explanation": "According to the timeline, SRO 168-AIN/2011/2355/CUSTOMS, issued on 2011-06-09, established the initial requirement for manufacturer-issued invoices.",
+      "clause_text_ids": [
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_2",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What significant change to the motor vehicle valuation framework was introduced by SRO 183-AIN/2013/2533/CUSTOMS on 2013-06-06?",
+      "options": [
+        "The complete removal of manufacturer invoice requirements",
+        "The mandatory use of the Yellow Book for all imported vehicles regardless of origin",
+        "The formalization of a three-tier valuation hierarchy including certified invoices and market benchmarks",
+        "The introduction of a single fixed valuation rate for all H.S. Code 87.03 vehicles"
+      ],
+      "answer_index": 2,
+      "answer": "The formalization of a three-tier valuation hierarchy including certified invoices and market benchmarks",
+      "explanation": "SRO 183-AIN/2013/2533/CUSTOMS (2013-06-06) formalized the three-tier hierarchy: direct manufacturer invoice, certified invoice, or third-party market valuation benchmarks.",
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_2",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the framework established in 2013, which international journal is specifically cited for the valuation of vehicles imported from countries other than Japan?",
+      "options": [
+        "Yellow Book",
+        "Glass's Guide",
+        "The Customs Act 1969 Schedule",
+        "SRO 190-AIN/2010"
+      ],
+      "answer_index": 1,
+      "answer": "Glass's Guide",
+      "explanation": "The 2013-06-06 documentation specifies that for vehicles imported from countries other than Japan, journals such as Glass's Guide or Magazine Automobiles may be utilized.",
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_2",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the status of SRO 190-AIN/2010 when SRO 168-AIN/2011/2355/CUSTOMS was issued on 2011-06-09?",
+      "options": [
+        "It was amended to include new H.S. codes",
+        "It was explicitly repealed",
+        "It remained the primary valuation authority",
+        "It was incorporated into the Customs Act 1969"
+      ],
+      "answer_index": 1,
+      "answer": "It was explicitly repealed",
+      "explanation": "The text for SRO 168-AIN/2011/2355/CUSTOMS (2011-06-09) explicitly states that it repealed the previous notification, SRO 190-AIN/2010.",
+      "clause_text_ids": [
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer brings a vehicle into Bangladesh in 2011 and is required to provide a manufacturer's invoice for customs valuation under the existing SRO. In 2013, the importer attempts to clear a similar vehicle but is unable to obtain a direct invoice from the manufacturer.",
+      "question": "How did the importer's options for customs valuation documentation change between the 2011 requirement and the 2013 framework?",
+      "answer": "In 2011, the importer was strictly required to submit a manufacturer-issued invoice. By 2013, the framework expanded to a three-tier hierarchy, allowing the importer to submit either a manufacturer-certified invoice or, if neither is available, rely on third-party market valuation benchmarks like the Yellow Book or Glass's Guide.",
+      "clauses_involved": [
+        "2011-06-09 | SRO 168-AIN/2011/2355/CUSTOMS",
+        "2013-06-06 | SRO 183-AIN/2013/2533/CUSTOMS"
+      ],
+      "clause_text_ids": [
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_2",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "two years later",
+      "question": "Following the initial 2011 requirement for manufacturer-issued invoices, what significant change to the customs valuation framework for motor vehicles was introduced two years later?",
+      "answer": "In 2013-06-06, SRO 183-AIN/2013/2533/CUSTOMS formalized a three-tier valuation hierarchy, allowing for certified invoices or third-party market valuation benchmarks when a direct manufacturer invoice is unavailable, expanding beyond the singular requirement established in 2011.",
+      "clause_text_ids": [
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_2",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The customs valuation framework introduces a three-tier hierarchy allowing for direct manufacturer invoices, manufacturer-certified invoices, or international market valuation benchmarks like Yellow Book and Glass's Guide.",
+        "The customs valuation framework for motor vehicles mandates the submission of an invoice issued directly by the manufacturer.",
+        "The customs valuation framework is reiterated without changes to the existing requirement for manufacturer-issued invoices."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The customs valuation framework for motor vehicles mandates the submission of an invoice issued directly by the manufacturer.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The customs valuation framework is reiterated without changes to the existing requirement for manufacturer-issued invoices.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The customs valuation framework introduces a three-tier hierarchy allowing for direct manufacturer invoices, manufacturer-certified invoices, or international market valuation benchmarks like Yellow Book and Glass's Guide.",
+          "date": "2013-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_2",
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_168-AIN_2011_2355-Customs/20110609_168-AIN_2011_2355-Customs_output.json",
+        "customs_sros_OCR/20130606_148-AIN_2013_2435-Customs/20130606_148-AIN_2013_2435-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00572_t0__customs-valuation-documentation-for-motor-vehicles.json"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "thread_id": "cluster_00389_t1",
+  "cluster_id": 389,
+  "cluster_label": "customs offices",
+  "title": "Customs Risk Management and Operational Procedures",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 17,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 6,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the role of local customs offices evolved regarding their operational autonomy and digital reporting responsibilities between 2024 and 2025?",
+      "answer": "In 2024, the Customs Business Process Rules granted local customs houses and commissionerates the autonomy to issue office orders to define their own manifest submission processes and supporting business workflows. By 2025, this operational focus shifted toward standardized digital integration, as the Risk Management Directive mandated that these same offices must now input specific risk information and the outcomes of preventive measures directly into the ARMS software.",
+      "clause_text_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what ways has the documentation process for customs offices shifted from the 2023 PCA Audit Guidelines to the 2025 Risk Management Directive?",
+      "answer": "The 2023 PCA Audit Guidelines focused on manual reporting, requiring audit teams to generate detailed final audit reports to resolve preliminary audit issues for submission to supervisors and relevant offices. By 2025, the focus evolved toward centralized digital reporting, requiring customs offices and investigation units to utilize the ARMS software to document pre-clearance risk information and the results of preventive actions taken on consignments.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the implied relationship between the decentralization of business processes in 2024 and the subsequent digital requirements introduced in 2025?",
+      "answer": "The 2024 delegation of authority allowed customs houses to tailor their business processes to local operational needs, creating a flexible foundation. The 2025 Risk Management Directive then established a centralized digital layer on top of these operations, ensuring that regardless of local business process variations, risk-related outcomes must be uniformly recorded in the ARMS software.",
+      "clause_text_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the scope of entities responsible for risk management reporting compare between the 2023 audit framework and the 2025 risk management rules?",
+      "answer": "The 2023 PCA Audit Guidelines primarily involved audit teams, supervisors, and relevant customs offices in the resolution of audit findings. The 2025 Risk Management Directive significantly expanded this scope to include a broader range of departments, such as customs stations, VAT commissionerates, the Customs Intelligence and Investigation Directorate, and the Central Intelligence Cell, all of which are now required to document risk information in the ARMS system.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the transition to the ARMS software significant for customs offices according to the 2025 directive?",
+      "answer": "The transition is significant because it shifts customs offices from disparate reporting methods to a unified, central platform for recording risk information for both cargo and passengers. This ensures that the outcomes of preventive actions taken by various departments, such as customs stations or intelligence cells, are systematically captured and accessible for risk management oversight.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2023-09-27 PCA Audit Guidelines, the final audit report must be submitted to the National Board of Revenue for review.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "National Board of Revenue",
+      "correct_fact": "PCA supervisor",
+      "answer": "The statement is inaccurate. According to the 2023-09-27 PCA Audit Guidelines, the final audit report must be submitted to the PCA supervisor for review, not the National Board of Revenue.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2024-03-14 Customs Business Process Rules, Customs Houses are authorized to issue office orders to specify the appropriate authority for the submission of import manifests.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Per the 2024-03-14 Customs Business Process Rules, Customs Houses and Commissionerates are empowered to issue office orders to determine the authority for import manifest filing.",
+      "clause_text_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-03-10 Risk Management Directive requires customs offices to input the results of preventive measures taken regarding cargo or passengers into the manual logbooks.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "manual logbooks",
+      "correct_fact": "ARMS software",
+      "answer": "The statement is inaccurate. The 2025-03-10 Risk Management Directive mandates that customs offices and investigation units must input the results of preventive measures directly into the ARMS software, not manual logbooks.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2023-09-27 PCA Audit Guidelines state that the final audit report must include specific elements detailed in the fourth appendix.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2023-09-27 PCA Audit Guidelines confirm that the final report must include the specific elements detailed in the fourth appendix.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-03-10 Risk Management Directive applies exclusively to the Customs Intelligence and Investigation Directorate, excluding VAT commissionerates from documenting pre-clearance risk information.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "excluding VAT commissionerates",
+      "correct_fact": "including VAT commissionerates",
+      "answer": "The statement is inaccurate. The 2025-03-10 Risk Management Directive explicitly includes VAT commissionerates, along with customs stations, intelligence cells, and bonding commissionerates, as entities required to document pre-clearance risk information.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-03-14 Customs Business Process Rules allow customs offices to issue office orders for business processes as long as they remain consistent with the broader regulatory framework.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2024-03-14 Customs Business Process Rules permit customs offices to issue office orders to facilitate operational requirements provided they remain consistent with the broader regulatory framework.",
+      "clause_text_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the September 27, 2023 PCA Audit Guidelines, all customs offices were mandated to immediately begin entering all cargo risk information directly into the ARMS software system to ensure centralized digital compliance.",
+      "question": "Does the 2023 PCA Audit Guidelines mandate the use of ARMS software for risk information entry, and if not, when was this requirement established?",
+      "conflict": "The misaligned context incorrectly attributes the ARMS software mandate (established in 2025) to the 2023 PCA Audit Guidelines.",
+      "answer": "No, the 2023 PCA Audit Guidelines did not mandate ARMS software usage; they focused on post-clearance audit reporting requirements. The mandate for customs offices to input risk information into the ARMS software was established later, on March 10, 2025, via the Risk Management Directive.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2025 Risk Management Directive, local customs houses were first granted the authority to issue office orders to define their own manifest submission processes and supporting business processes.",
+      "question": "Is the authority for customs houses to define manifest submission processes a result of the 2025 Risk Management Directive?",
+      "conflict": "The misaligned context incorrectly credits the 2025 directive with the decentralization of manifest submission authority, which was actually established in 2024.",
+      "answer": "No. The authority for customs houses to specify authorities for import manifest submission and establish supporting business processes was granted earlier, on March 14, 2024, under the Customs Business Process Rules.",
+      "clause_text_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A local customs house established a specific manual manifest submission process in April 2024 following the issuance of the Customs Business Process Rules. By March 2025, the office needs to update its risk management protocols regarding cargo consignments.",
+      "question": "While the customs house retains authority to define its manifest submission processes under the 2024 rules, what new mandatory operational requirement must it now integrate into its risk management workflow as of March 10, 2025?",
+      "answer": "The customs office must now mandate the digital entry of risk-related information for cargo consignments into the ARMS software.",
+      "clauses_involved": [
+        "2024-03-14 | Customs Business Process Rules",
+        "2025-03-10 | Risk Management Directive"
+      ],
+      "clause_text_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-09-27",
+      "relative_offset": "nearly six months later",
+      "question": "Following the establishment of PCA Audit Guidelines in 2023-09-27, what change occurred nearly six months later regarding the operational authority of local customs houses?",
+      "answer": "On 2024-03-14, the Customs Business Process Rules were introduced, empowering Customs Houses to issue their own office orders to determine the appropriate authority for import manifest submissions and supporting business processes.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-03-14",
+      "relative_offset": "one year later",
+      "question": "One year after the 2024-03-14 delegation of authority to customs houses, what new mandate was introduced regarding risk management reporting?",
+      "answer": "On 2025-03-10, the Risk Management Directive was issued, mandating that various departments under the Board record risk-related information for cargo consignments and preventive action outcomes into the central ARMS software.",
+      "clause_text_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Customs stations, VAT commissionerates, and intelligence units are mandated to input risk-related information for cargo consignments and outcomes of preventive actions into the ARMS software.",
+        "Customs houses and commissionerates are empowered to issue office orders to determine the appropriate authorities for import manifest submission and to establish supporting business processes.",
+        "Audit teams are required to prepare and submit a detailed report to the audit supervisor after incorporating responses and objections from the auditee entity regarding post-clearance audit findings."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Audit teams are required to prepare and submit a detailed report to the audit supervisor after incorporating responses and objections from the auditee entity regarding post-clearance audit findings.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "Customs houses and commissionerates are empowered to issue office orders to determine the appropriate authorities for import manifest submission and to establish supporting business processes.",
+          "date": "2024-03-14"
+        },
+        {
+          "event": "Customs stations, VAT commissionerates, and intelligence units are mandated to input risk-related information for cargo consignments and outcomes of preventive actions into the ARMS software.",
+          "date": "2025-03-10"
+        }
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+        "customs_sros_OCR/20240314_./20240314_._output.json"
+      ],
+      "thread_source_file": "cluster_00389_t1__customs-risk-management-and-operational-procedures.json"
+    }
+  ]
+}

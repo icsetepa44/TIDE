@@ -1,0 +1,552 @@
+{
+  "cluster_id": 171,
+  "cluster_label": "Passenger Baggage Allowance",
+  "thread_index": 1,
+  "thread_id": "cluster_00171_t1",
+  "title": "Land Route Passenger Baggage Allowance",
+  "summary": "The duty-free allowance for land passengers has evolved from a simple monetary threshold to a regulated system that includes frequency limitations to prevent abuse of the concession.",
+  "evolution": {
+    "monetary_limit": "Increased from 300 USD to 400 USD, with further item-specific increases.",
+    "frequency_control": "Added a restriction of 3 times per calendar year starting in 2023."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "SRO 2010",
+      "change": "Set initial limit at 300 USD.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4"
+      ]
+    },
+    {
+      "date": "2016-04-08",
+      "instrument": "SRO 2016",
+      "change": "Increased limit to 400 USD.",
+      "clause_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4"
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "instrument": "SRO 2023",
+      "change": "Introduced a frequency cap of 3 times per calendar year.",
+      "clause_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO 2025",
+      "change": "Increased the monetary threshold for specific items.",
+      "clause_ids": [
+        "20250602_228-AIN_2025_50_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    }
+  ],
+  "num_member_objects": 10,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of customs duties and taxes up to a specified maximum value, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1278",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a designated maximum monetary limit, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1319",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "maximum monetary limit"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2394
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a specified maximum value limit.",
+          "This duty-free allowance applies to passengers regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1379",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "maximum value limit"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2394
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৬[৪০০ (চারশত)] মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a defined maximum value without the obligation to pay any customs duties or taxes. This allowance is applicable regardless of the duration the passenger spent abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_993",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value without the payment of any customs duties or taxes, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1641",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্ত হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes may import baggage up to a specific maximum monetary value without paying customs duties or taxes, regardless of their duration of stay abroad.",
+          "This duty-free import benefit is restricted to a maximum of three times per calendar year for each passenger."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2513",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "duty-free import benefit",
+          "passenger"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        257,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশ অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪ (চার) শত মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্য হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value free of all duties and taxes, regardless of the duration of their stay abroad.",
+          "This duty-free concession for land-based passengers is subject to a frequency limitation, allowing it to be availed no more than a specified number of times within a single calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2711",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "duties",
+          "taxes",
+          "duty-free concession",
+          "calendar year"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        30,
+        47,
+        171,
+        1933,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পদর্ আগত যাত্রীর জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পদর্ আগত যাত্রীর জন্য সুববধা।- ববদেদশ অবস্থাদনর বময়াে বনববদথশদষ স্থলপদর্ আগত একজন যাত্রী সদবাথচ্চ ৪ (চার) শত মাবকথন র্লার মূদের ব্যাদগজ সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন:\nতবে শতথর্াদক বয, উিরূপ সুববধা একজন যাত্রী এক পবিকা বৎসদর ৩ (বতন) বাদরর অবধক প্রাপ্য হইদবন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a defined maximum value, regardless of the duration of their stay abroad.",
+          "This duty-free import facility is subject to a specific frequency limit, restricting passengers to a maximum number of claims within a single calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1058",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "claims"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        1022
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20250602_228-AIN_2025_50_Customs_২৯ মে, ২০২৫_clause_1",
+      "resolved_text": "উপরি-উক্ত বিধিমালার বিধি ৪ এর উপ-বিধি (১) দফা (ক) ও (খ) উল্লিখিত “২ (দুই) হাজার” সংখ্যা, বন্ধনী ও শব্দগুলির পরিবর্তে সকল স্থানে “৪ (চার) হাজার” সংখ্যা, বন্ধনী ও শব্দগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The regulatory framework is being amended to increase the quantity threshold for passenger baggage items.",
+          "The specific limit mentioned in the rule is being doubled to allow for a larger number of permitted goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3119",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "passenger baggage items",
+          "permitted goods"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        4513,
+        10526
+      ],
+      "source_file": "customs_sros_OCR/20250602_228-AIN_2025_50_Customs/20250602_228-AIN_2025_50_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।—দেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্য হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value free of all duties and taxes, regardless of their duration of stay abroad.",
+          "This duty-free import privilege is restricted to a maximum of three occurrences per calendar year for each passenger."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3193",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "duties",
+          "taxes",
+          "duty-free import privilege"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        30,
+        47,
+        171,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ],
+  "num_static_replicated_objects": 6,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a designated maximum monetary limit, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1319",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "maximum monetary limit"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2394
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a specified maximum value limit.",
+          "This duty-free allowance applies to passengers regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1379",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "maximum value limit"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2394
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value without the payment of any customs duties or taxes, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1641",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশ অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪ (চার) শত মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্য হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value free of all duties and taxes, regardless of the duration of their stay abroad.",
+          "This duty-free concession for land-based passengers is subject to a frequency limitation, allowing it to be availed no more than a specified number of times within a single calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2711",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "duties",
+          "taxes",
+          "duty-free concession",
+          "calendar year"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        30,
+        47,
+        171,
+        1933,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পদর্ আগত যাত্রীর জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পদর্ আগত যাত্রীর জন্য সুববধা।- ববদেদশ অবস্থাদনর বময়াে বনববদথশদষ স্থলপদর্ আগত একজন যাত্রী সদবাথচ্চ ৪ (চার) শত মাবকথন র্লার মূদের ব্যাদগজ সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন:\nতবে শতথর্াদক বয, উিরূপ সুববধা একজন যাত্রী এক পবিকা বৎসদর ৩ (বতন) বাদরর অবধক প্রাপ্য হইদবন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a defined maximum value, regardless of the duration of their stay abroad.",
+          "This duty-free import facility is subject to a specific frequency limit, restricting passengers to a maximum number of claims within a single calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1058",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "claims"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        1022
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।—দেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্য হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value free of all duties and taxes, regardless of their duration of stay abroad.",
+          "This duty-free import privilege is restricted to a maximum of three occurrences per calendar year for each passenger."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3193",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "duties",
+          "taxes",
+          "duty-free import privilege"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        30,
+        47,
+        171,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ]
+}

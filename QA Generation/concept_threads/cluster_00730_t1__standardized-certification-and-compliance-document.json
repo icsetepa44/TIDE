@@ -1,0 +1,479 @@
+{
+  "cluster_id": 730,
+  "cluster_label": "transport documents",
+  "thread_index": 1,
+  "thread_id": "cluster_00730_t1",
+  "title": "Standardized Certification and Compliance Documentation",
+  "summary": "This thread represents the static, repetitive use of transport documents as a mandatory field in various industry-specific certification templates for tax exemptions and import permits.",
+  "evolution": {
+    "structure": "The format remains identical across different industrial sectors (textiles, energy, agriculture)."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Various Metadata/Appendices",
+      "change": "Standardized inclusion of transport document references in regulatory compliance forms.",
+      "clause_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_61",
+        "metadata_2",
+        "metadata_2",
+        "metadata_2",
+        "metadata_4",
+        "metadata_4",
+        "metadata_4"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 7,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_61",
+      "clause_title": "Power to require production of documents and ask questions",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_61",
+      "resolved_text": "48. Power to require production of documents and ask questions.- (1) When an import manifest is presented, the person-in-charge of a conveyance or his duly authorised agent, if required so to do by the appropriate officer, shall deliver to the officer the bill of lading or the bill of freight or a copy thereof for every part of cargo or goods laden or board, journey log-book and any port clearance, docket or other paper granted in respect of such conveyance at the place from which it is stated to have come, and shall answer all such questions relating to the conveyance, goods, crew7[, passengers] and voyage or journey as are put to him by such officer.\n(2) The appropriate officer may, if any requisition or question made or put by him under this section is not complied with or answered, refuse to grant permission to a vessel to break bulk and to other conveyance to land the imported goods, as the case may be.",
+      "entity_concepts": {
+        "Import Manifest": [
+          "The presentation of an import manifest triggers the authority of customs officers to request specific documents and information from the person in charge of a conveyance."
+        ],
+        "Person in Charge of Conveyance": [
+          "The person in charge of a conveyance or their authorized agent is legally obligated to produce transport documents and answer questions regarding the cargo, crew, passengers, and journey upon request by an appropriate officer of customs."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer of customs has the authority to demand production of shipping documents and to pose questions to the person in charge of a conveyance.",
+          "The officer is empowered to refuse permission for a vessel to break bulk or for other conveyances to land imported goods if their requisitions for documents or answers to questions are not satisfied."
+        ],
+        "Bill of Lading": [
+          "The person in charge of a conveyance must deliver the bill of lading or a copy thereof for the cargo upon the request of an appropriate officer of customs."
+        ],
+        "Port Clearance": [
+          "The person in charge of a conveyance must produce port clearance and other related papers issued at the point of origin when required by an appropriate officer of customs."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_388",
+      "entity_sub_entities": {
+        "Import Manifest": [
+          "import manifest",
+          "documents",
+          "information"
+        ],
+        "Person in Charge of Conveyance": [
+          "person in charge of a conveyance",
+          "authorized agent",
+          "transport documents",
+          "cargo",
+          "crew",
+          "passengers",
+          "journey"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer of customs",
+          "shipping documents",
+          "vessel",
+          "conveyances",
+          "imported goods"
+        ],
+        "Bill of Lading": [
+          "bill of lading",
+          "cargo"
+        ],
+        "Port Clearance": [
+          "port clearance",
+          "related papers"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        17,
+        59,
+        71,
+        80,
+        113,
+        135,
+        148,
+        172,
+        268,
+        280,
+        294,
+        357,
+        431,
+        730,
+        836,
+        883,
+        2118,
+        11388
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট - ১",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট - ১\nপ্রত্যয়নপত্র\n[শর্ত (১) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, মেসার্স ............................................................. একটি প্রতিষ্ঠিত রপ্তানিকারী/নতুন রপ্তানিমুখী শিল্প প্রতিষ্ঠান। এই প্রতিষ্ঠান উহার উৎপাদিত সমুদয় পণ্যের নূন্যপক্ষে ৮০% (আশি শতাংশ) রপ্তানি করে/করিবে। এই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ...................... তারিখ ......... এর আওতায় ইনভয়েস নং ........................ তারিখ .................. বিল অব লেডিং/ এয়ারওয়ে বিল/ট্রাক রিসিট নং .......................... তারিখ ......... এ উল্লিখিত বিবরণ, পরিমাণ, মূল্য অনুযায়ী যন্ত্রপাতি ........................ (স্থান) স্থাপিত হইবে এবং এইগুলি প্রতিষ্ঠিত শিল্পের সুষমকরণ, আধুনিকীকরণ, প্রতিস্থাপন ও সম্প্রসারণ (বি এম আর ই)/ একটি নতুন রপ্তানিমুখী শিল্প স্থাপনে ব্যবহার হইবে। আমদানিকৃত যন্ত্রপাতি বা যন্ত্রাংশ বা উভয়ের দ্বারা উৎপাদিত সমুদয় পণ্যের নূন্যপক্ষে ৮০% (আশি শতাংশ) রপ্তানি করা হইবে।\n\nতারিখ : \nনাম : \nপদবী : \nসীল :",
+      "entity_concepts": {
+        "Export-Oriented Industrial Enterprise": [
+          "The enterprise must certify that it is an established or new export-oriented industry that exports at least a specified minimum percentage of its total production.",
+          "The enterprise is required to utilize imported machinery and parts specifically for the balancing, modernization, replacement, and expansion (BMRE) of existing facilities or for the establishment of new export-oriented industrial units."
+        ],
+        "Imported Machinery and Parts": [
+          "Machinery and parts imported by an export-oriented industry must be documented with specific reference to letters of credit, invoices, and transport documents like bills of lading or airway bills.",
+          "The imported equipment must be installed at a designated location and used exclusively for the industrial purposes of export-oriented production."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_340",
+      "entity_sub_entities": {
+        "Export-Oriented Industrial Enterprise": [
+          "export-oriented industry",
+          "total production",
+          "imported machinery",
+          "parts",
+          "existing facilities",
+          "new export-oriented industrial units"
+        ],
+        "Imported Machinery and Parts": [
+          "Machinery",
+          "parts",
+          "letters of credit",
+          "invoices",
+          "transport documents",
+          "bills of lading",
+          "airway bills",
+          "imported equipment"
+        ]
+      },
+      "clause_clusters": [
+        33,
+        54,
+        177,
+        325,
+        463,
+        595,
+        626,
+        641,
+        730,
+        1005,
+        1068,
+        2719,
+        7866,
+        10059,
+        12872
+      ],
+      "source_file": "customs_sros_OCR/20120607_157-AIN_2012_2385-Customs/20120607_157-AIN_2012_2385-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট-১\n[শর্ত (১) দ্রষ্টব্য]\n\nপ্রত্যয়নপত্র\n\nপ্রত্যয়ন করা হইতেছে যে, বাংলাদেশ-ইন্ডিয়া ফ্রেন্ডশিপ পাওয়ার কোঃ (প্রাঃ) লিঃ (বিআইএফপিসিএল) সরকারি বা বেসরকারি খাতে বিদ্যুৎ উৎপাদন কেন্দ্র স্থাপনের লক্ষ্যে বাংলাদেশ সরকারের সহিত চুক্তিবদ্ধ একটি প্রতিষ্ঠান। প্রতিষ্ঠানটি এখনও বাণিজ্যিক উৎপাদনে যায় নাই। প্রত্যয়নাধীন যন্ত্রপাতি প্লান্ট ও ইকুইপমেন্ট বিদ্যুৎ উৎপাদনের সহিত সরাসরি সম্পর্কিত এবং সম্পাদিত চুক্তির কেবল বিদ্যুৎ উৎপাদনের নিমিত্ত বিদ্যুৎ কেন্দ্র স্থাপনের জন্য আমদানিকৃত। উক্ত প্রতিষ্ঠান কর্তৃক ইনভয়েস নং ....................................... তারিখ ......................... বিল অব লেডিং/এয়ারওয়ে বিল/ট্রাক রিসিপ্ট নং ............................... তারিখ ........................ এ উল্লিখিত বিবরণ, পরিমাণ ও মূল্য অনুযায়ী আমদানিকৃত প্লান্ট ও ইকুইপমেন্ট উক্ত কেন্দ্রে ব্যবহৃত হইবে।\n\nতারিখ:\n\nস্বাক্ষর :.................................................\nনাম :.................................................\nপদবি :.................................................\nসীল :................................................",
+      "entity_concepts": {
+        "Bangladesh-India Friendship Power Company (Pvt.) Ltd.": [
+          "This entity is identified as a company contracted with the Bangladesh government for the establishment of power generation plants in either the public or private sector.",
+          "The company is confirmed to be in a pre-commercial production phase and is importing specific equipment strictly for the purpose of power generation as per the terms of their agreement."
+        ],
+        "Imported Plant and Equipment": [
+          "These items are certified as being directly related to power generation and are exclusively intended for use in the designated power plant project.",
+          "The importation of these goods is subject to verification against commercial documents such as invoices and transport documents including bills of lading or truck receipts."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1081",
+      "entity_sub_entities": {
+        "Bangladesh-India Friendship Power Company (Pvt.) Ltd.": [
+          "company",
+          "Bangladesh government",
+          "power generation plants",
+          "equipment"
+        ],
+        "Imported Plant and Equipment": [
+          "power generation items",
+          "power plant project",
+          "commercial documents",
+          "invoices",
+          "transport documents",
+          "bills of lading",
+          "truck receipts"
+        ]
+      },
+      "clause_clusters": [
+        72,
+        325,
+        626,
+        691,
+        730,
+        1216,
+        1953,
+        2939,
+        3161,
+        3499,
+        4552,
+        5910,
+        10810
+      ],
+      "source_file": "customs_sros_OCR/20210603_126-AIN_2021_15_Customs/20210603_126-AIN_2021_15_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১ প্রত্যয়নপত্র",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট-১\nপ্রত্যয়নপত্র\n[শর্তাবলির দফা (১) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, .............................................. কর্তৃক ইনভয়েস নং .................. তারিখঃ ..................., এল/সি নং .................... তারিখঃ ..............., বিল অব লেডিং/ এয়ারওয়ে বিল/ট্রাক রিসিট নং- ............................ তারিখঃ .............. এর মাধ্যমে আমদানিকৃত পণ্য কৃষিকার্যে ব্যবহার্য কীটনাশক ও উহার মোড়ক সামগ্রী জ্তরীর কাঁচামাল হিসাবে ব্যবহার করা হইবে এবং উল্লিখিত প্রতিষ্ঠান কৃষি মন্ত্রণালয় কর্তৃক অনুমোদিত কৃষিকার্যে ব্যবহার্য কীটনাশক প্রস্তুতকারী একটি প্রতিষ্ঠান।\n\nতারিখ: ----------------------\nস্বাক্ষর:-------------------------------------\nনাম:---------------------------------------\nপদবি:--------------------------------------\nসীল;---------------------------------------",
+      "entity_concepts": {
+        "Import Documentation": [
+          "The declaration requires validation of specific commercial documents including invoice, letter of credit, and transport documents such as bill of lading, airway bill, or truck receipt for imported goods."
+        ],
+        "Agricultural Pesticides": [
+          "Imported agricultural pesticides and their packaging materials are eligible for specific treatment when intended to be used as raw materials in agricultural production processes.",
+          "The importer must be a recognized entity specifically authorized by the Ministry of Agriculture to manufacture agricultural pesticides."
+        ],
+        "Ministry of Agriculture": [
+          "The Ministry of Agriculture acts as the regulatory authority responsible for officially recognizing and authorizing institutions engaged in the manufacturing of agricultural pesticides."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1588",
+      "entity_sub_entities": {
+        "Import Documentation": [
+          "invoice",
+          "letter of credit",
+          "transport documents",
+          "bill of lading",
+          "airway bill",
+          "truck receipt"
+        ],
+        "Agricultural Pesticides": [
+          "imported agricultural pesticides",
+          "packaging materials",
+          "raw materials",
+          "importer"
+        ],
+        "Ministry of Agriculture": [
+          "Ministry of Agriculture"
+        ]
+      },
+      "clause_clusters": [
+        12,
+        39,
+        268,
+        409,
+        572,
+        601,
+        730,
+        1232,
+        1321,
+        2445,
+        2916,
+        3160,
+        8896
+      ],
+      "source_file": "customs_sros_OCR/20250602_199-AIN_2025_21_Customs/20250602_199-AIN_2025_21_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-১\nপ্রত্যয়নপত্র\n[শর্ত (১) দ্রষ্টব্য]\n\nপ্রত্যয়ন করা যাইতেছে যে, (প্রতিষ্ঠানের নাম, ঠিকানা)........................ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনার জন্য অনুমোদিত একটি প্রতিষ্ঠান। প্রত্যয়নাধীন যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনা সংক্রান্ত কার্যক্রমের সহিত সম্পর্কিত এবং কেবল সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনার নিমিত্ত প্রজ্ঞাপনের শর্ত প্রতিপালনপূর্বক আমদানিকৃত। উক্ত প্রতিষ্ঠান কর্তৃক ইনভয়েস নং.................. তারিখ,....................... বিল অব লেডিং/এয়ারওয়ে বিল/ট্রাক রিসিপ্ট নং...................তারিখ,....................এ উল্লিখিত বিবরণ, পরিমাণ ও মূল্য অনুযায়ী আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনায় ব্যবহৃত হইবে।\n\nস্বাক্ষর :.................................................\nনাম :.................................................\nতারিখ: পদবি :.................................................\nসীল :.................................................",
+      "entity_concepts": {
+        "CNG Filling Station": [
+          "This entity represents an authorized establishment for the installation and operation of Compressed Natural Gas filling activities. The document confirms that specific machinery and spare parts imported by such establishments are exclusively for the purpose of maintaining these operations in compliance with established notification conditions."
+        ],
+        "LPG Filling Station": [
+          "This entity represents an authorized establishment for the installation and operation of Liquefied Petroleum Gas filling activities. The document confirms that specific machinery and spare parts imported by such establishments are exclusively for the purpose of maintaining these operations in compliance with established notification conditions."
+        ],
+        "Imported Machinery and Parts": [
+          "The certification confirms that all machinery and spare parts imported under specific invoices and transport documents are verified for use in authorized gas filling station operations. These goods must be imported in strict adherence to the conditions set forth in the relevant regulatory notification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1154",
+      "entity_sub_entities": {
+        "CNG Filling Station": [
+          "machinery",
+          "spare parts"
+        ],
+        "LPG Filling Station": [
+          "machinery",
+          "spare parts"
+        ],
+        "Imported Machinery and Parts": [
+          "machinery",
+          "spare parts",
+          "invoices",
+          "transport documents"
+        ]
+      },
+      "clause_clusters": [
+        33,
+        110,
+        325,
+        730,
+        1068,
+        1349,
+        2844
+      ],
+      "source_file": "customs_sros_OCR/20220609_127-AIN_2022_75_Customs/20220609_127-AIN_2022_75_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১ প্রত্যয়নপত্র",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-১\nপ্রত্যয়নপত্র\n[শর্ত (১) দ্রষ্টব্য]\n\nপ্রত্যয়ন করা যাইতেছে যে, (প্রতিষ্ঠানের নাম, ঠিকানা)........................ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনার জন্য অনুমোদিত একটি প্রতিষ্ঠান। প্রত্যয়নাধীন যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনা সংক্রান্ত কার্যক্রমের সহিত সম্পর্কিত এবং কেবল সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনার নিমিত্ত প্রজ্ঞাপনের শর্ত প্রতিপালনপূর্বক আমদানিকৃত। উক্ত প্রতিষ্ঠান কর্তৃক ইনভয়েস নং.................. তারিখ:....................... বিল অব লেডিং/এয়ারওয়ে বিল/ট্রাক রসিপ্ট নং...................তারিখ:....................এ উল্লিখিত বিবরণ, পরিমাণ ও মূল্য অনুযায়ী আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনায় ব্যবহৃত হইবে।\n\nস্বাক্ষর :.................................................\nনাম :.................................................\nতারিখ: পদবি :.................................................\nসীল :.................................................",
+      "entity_concepts": {
+        "Certificate of Certification": [
+          "This certificate serves as a formal declaration for a business entity engaged in CNG and LPG station setup and operational activities. It confirms that the imported machinery and parts are exclusively related to these activities and are compliant with notification requirements."
+        ],
+        "CNG Filling Station": [
+          "The document mandates that machinery and equipment imported under this certification must be used specifically for the establishment and operation of CNG filling stations."
+        ],
+        "LPG Filling Station": [
+          "The document mandates that machinery and equipment imported under this certification must be used specifically for the establishment and operation of LPG filling stations."
+        ],
+        "Imported Goods": [
+          "The certified goods, verified by invoice and transport documents like bills of lading or airway bills, must correspond to the declared description, quantity, and value, and their usage is restricted to the purposes outlined in the certificate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1414",
+      "entity_sub_entities": {
+        "Certificate of Certification": [
+          "machinery",
+          "parts"
+        ],
+        "CNG Filling Station": [
+          "machinery",
+          "equipment"
+        ],
+        "LPG Filling Station": [
+          "machinery",
+          "equipment"
+        ],
+        "Imported Goods": [
+          "certified goods",
+          "invoice",
+          "transport documents",
+          "bills of lading",
+          "airway bills"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        33,
+        54,
+        72,
+        572,
+        626,
+        730,
+        1005,
+        1349,
+        2844,
+        6258,
+        6292
+      ],
+      "source_file": "customs_sros_OCR/20240606_174-AIN_2024_26_Customs/20240606_174-AIN_2024_26_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট [শর্ত (৩) দ্রষ্টব্য] অঙ্গীকারনামা",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট\n[শর্ত (৩) দ্রষ্টব্য]\nঅঙ্গীকারনামা\nআমি ------------------------------------ মালিক/প্রধান নির্বাহী কর্মকর্তা/ ব্যবস্থাপনা পরিচালক, মেসার্স ----------------------------------------------------------- (সমিতি/প্রতিষ্ঠানের নাম ও সম্পূর্ণ ঠিকানা) এই মর্মে অঙ্গীকার করিতেছি যে, আমার সমিতি/ প্রতিষ্ঠানটি তাঁত বোর্ড কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর .......................)। আমি ঋণপত্র নং---------------------------------------, তারিখঃ--------------, ইনভয়েস নং------------------------------, তারিখঃ --------------------, বি এল/এয়ারওয়ে বিল/ট্রাক রিসিট নং ---------------------- তারিখঃ ----------------- এর মাধ্যমে আমদানিকৃত উপকরণ তাঁত বস্ত্র উৎপাদনে ব্যবহার করিব এবং উহার কোন ব্যত্যয় হইলে আমদানিকৃত উক্ত পণ্যের উপর প্রযোজ্য হারে শুল্ক-কর পরিশোধ ছাড়াও কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর অধীন শুল্ক কর্তৃপক্ষ কর্তৃক গৃহীত অন্য যে কোন শাস্তিমূলক ব্যবস্থা মানিয়া লইতে বাধ্য থাকিব।\n\nস্বাক্ষর: ........................................................\nতারিখ: মালিক/ প্রধান নির্বাহী কর্মকর্তা/ব্যবস্থাপনা পরিচালকের নাম: ....\nপ্রতিষ্ঠানের নাম ও ঠিকানা: ................................. ।\n\nরাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This Act provides the legal framework under which customs authorities can impose penalties for the misuse of imported goods.",
+          "Importers are legally bound to accept any punitive measures taken by customs authorities under the provisions of this Act if the conditions of the import undertaking are violated."
+        ],
+        "Customs Duty and Taxes": [
+          "The undertaking mandates that importers must pay all applicable duties and taxes on imported goods if those goods are not used for their intended purpose in the production of handloom textiles."
+        ],
+        "Handloom Board": [
+          "The entity acts as the regulatory body responsible for the registration of business firms and institutions engaged in the handloom sector."
+        ],
+        "Import Process": [
+          "The import process involves an undertaking by the business owner to use imported raw materials exclusively for the production of handloom textiles.",
+          "The importer must formally declare the details of the letter of credit, invoice, and bill of lading or transport documents as part of the customs compliance requirement."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1452",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "legal framework",
+          "penalties",
+          "imported goods",
+          "Importers",
+          "punitive measures",
+          "customs authorities",
+          "import undertaking"
+        ],
+        "Customs Duty and Taxes": [
+          "duties",
+          "taxes",
+          "imported goods",
+          "handloom textiles"
+        ],
+        "Handloom Board": [
+          "regulatory body",
+          "business firms",
+          "institutions",
+          "handloom sector"
+        ],
+        "Import Process": [
+          "undertaking",
+          "business owner",
+          "imported raw materials",
+          "handloom textiles",
+          "importer",
+          "letter of credit",
+          "invoice",
+          "bill of lading",
+          "transport documents",
+          "customs compliance requirement"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        13,
+        19,
+        30,
+        39,
+        45,
+        46,
+        79,
+        132,
+        268,
+        400,
+        572,
+        598,
+        601,
+        634,
+        648,
+        730,
+        793,
+        1100,
+        2791,
+        3554,
+        4099,
+        4149,
+        6107,
+        6876,
+        8610,
+        8611
+      ],
+      "source_file": "customs_sros_OCR/20240606_200-AIN_2024_52_Customs/20240606_200-AIN_2024_52_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

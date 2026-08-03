@@ -1,0 +1,48 @@
+{
+  "group_id": "cluster_00018_t0__X__cluster_00191_t0",
+  "entities": [
+    "Authorized Economic Operator",
+    "recommendations"
+  ],
+  "cluster_ids": [
+    18,
+    191
+  ],
+  "thread_ids": [
+    "cluster_00018_t0",
+    "cluster_00191_t0"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How did the role of the AEO Committee regarding 'recommendations' for Authorized Economic Operator status evolve from the 2018 regulations to the 2025 procedures?",
+      "answer": "In 2018, the Committee was directly responsible for formulating recommendations regarding the granting, suspension, or cancellation of AEO status [1]. By 2025, the process became more specialized, requiring the Committee to review recommendations received from the 'AEO Center' (which now includes specific evaluation team inputs), consider intelligence and risk data, and then notify the Center of their decision [2, 3, 4].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "recommendations"
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the structural difference between the liaison group's recommendations and the AEO Center's recommendations for Authorized Economic Operators?",
+      "answer": "The liaison group established in 2018 provided recommendations to the relevant Board member regarding practical implementation steps [0]. In contrast, the 2025 framework utilizes the AEO Center to generate formalized recommendations using standardized templates for status applications and class upgrades, which include distinct sections for evaluation team inputs and Center-level assessments [2, 3].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "recommendations"
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170"
+      ]
+    }
+  ]
+}

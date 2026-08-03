@@ -1,0 +1,163 @@
+{
+  "thread_id": "cluster_00013_t0",
+  "cluster_id": 13,
+  "cluster_label": "taxes",
+  "title": "Baggage Allowance and Duty Exemption",
+  "source_num_member_objects": 22,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the policy governing land passenger baggage allowance evolved regarding monetary limits and frequency constraints since 2010?",
+      "answer": "The policy for land passengers initially established a $300 USD duty-free allowance in 2010, which was later increased to $400 USD in the 2016 Baggage Rules. To prevent abuse of this concession, a frequency limit was introduced in the 2023 Baggage Rules, restricting passengers to a maximum of three duty-free imports per calendar year.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What specific provisions were introduced over time to address the needs of vulnerable passengers regarding baggage duty?",
+      "answer": "While the 2011 Baggage Rules introduced a full duty exemption for the baggage of deceased Bangladeshi citizens, the 2024 Baggage Rules expanded support for vulnerable individuals by granting duty-free clearance for medical equipment and wheelchairs used by sick, disabled, or elderly passengers arriving by air, sea, or land.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_4",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the regulatory framework change in 2025 regarding the adjudication of excess baggage?",
+      "answer": "The 2025 Baggage Rules standardized the declaration process and introduced formal procedures for the adjudication of customs offences. Under these rules, passengers may import goods exceeding standard baggage allowances or those outside defined schedules, provided they obtain a clearance certificate from the Chief Controller of Imports and Exports and pay all applicable duties, taxes, fines, and penalties.",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_10",
+        "20250603_._._._০২ জুন, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the role of the schedules referenced in the baggage declaration forms in the context of customs assessment?",
+      "answer": "The schedules serve as the regulatory framework for categorizing goods to determine duty liability. Schedule-2 lists items that are subject to customs duties and taxes, such as commercial quantities or excess baggage, while Schedule-3 provides a list of items eligible for duty-free entry, both of which are used by passengers to accurately complete the mandatory baggage declaration form upon arrival.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_4",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_4",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_9",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the regulatory authorities introduce frequency caps for land-based passengers in 2023?",
+      "answer": "The frequency limit of three times per calendar year was introduced in the 2023 Baggage Rules specifically to regulate the usage of the duty-free concession and prevent the abuse of the land-based baggage allowance policy.",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger who frequently traveled by land in 2010 was accustomed to the $300 USD duty-free allowance. After a long hiatus, they resumed their travel in 2024.",
+      "question": "How has the passenger's duty-free entitlement changed in terms of value and frequency conditions between their 2010 travel and their 2024 travel?",
+      "answer": "The duty-free allowance increased from $300 USD (2010 rules) to $400 USD (2024 rules), but the passenger is now subject to a new frequency limitation, restricting the benefit to a maximum of 3 times per calendar year.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In 2010, the duty-free baggage allowance for land passengers was set at $300 USD. How did this specific allowance value change six years later?",
+      "answer": "Six years later, on 2016-04-08, the baggage rules were updated to increase the duty-free allowance for land passengers from $300 USD to $400 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "seven years later",
+      "question": "Regarding the land passenger baggage allowance established in 2016, what regulatory constraint was introduced seven years later?",
+      "answer": "Seven years later, on 2023-06-01, the baggage rules were amended to introduce a frequency limit, restricting passengers to availing the duty-free allowance no more than 3 times per calendar year.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The duty-free allowance for passengers arriving by land is increased to four hundred USD.",
+        "A specific duty exemption is granted for the baggage of Bangladeshi citizens who pass away while abroad.",
+        "A frequency cap is introduced, restricting the duty-free baggage allowance to a maximum of three times per calendar year for land passengers.",
+        "The duty-free allowance for passengers arriving by land is established at three hundred USD."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The duty-free allowance for passengers arriving by land is established at three hundred USD.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "A specific duty exemption is granted for the baggage of Bangladeshi citizens who pass away while abroad.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The duty-free allowance for passengers arriving by land is increased to four hundred USD.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "A frequency cap is introduced, restricting the duty-free baggage allowance to a maximum of three times per calendar year for land passengers.",
+          "date": "2023-06-01"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+        "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00013_t0__baggage-allowance-and-duty-exemption.json"
+    }
+  ]
+}

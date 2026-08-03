@@ -1,0 +1,112 @@
+{
+  "thread_id": "cluster_00569_t0",
+  "cluster_id": 569,
+  "cluster_label": "warehouses",
+  "title": "Regulatory Oversight and Operational Control of Warehouses",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument formally introduced audit responsibilities for warehouse operations, including inventory verification and security assessments?",
+      "options": [
+        "Customs Act 2023",
+        "NBR Directive dated 2021-12-20",
+        "Customs Rules 2024",
+        "Administrative Order of 2022"
+      ],
+      "answer_index": 1,
+      "answer": "NBR Directive dated 2021-12-20",
+      "explanation": "The NBR Directive dated 2021-12-20 introduced formal audit responsibilities for warehouse operations, focusing on security, record-keeping, and inventory verification.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_27",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary focus of the NBR Directive issued on 2021-12-20 regarding warehouse management?",
+      "options": [
+        "Defining the Customs Act 2023",
+        "Establishing bonded institution classifications",
+        "Formalizing audit responsibilities and security verification",
+        "Setting storage periods for domestic consumption"
+      ],
+      "answer_index": 2,
+      "answer": "Formalizing audit responsibilities and security verification",
+      "explanation": "The 2021-12-20 NBR Directive focused on audit responsibilities, record-keeping, and security verification, shifting from passive control to active audit-based oversight.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_27"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When were the formal definitions regarding 'Warehouse Storage Period' and 'Bonded Enterprise for Domestic Consumption' introduced?",
+      "options": [
+        "2021-12-20",
+        "2023-01-01",
+        "2024-06-06",
+        "2024-12-20"
+      ],
+      "answer_index": 2,
+      "answer": "2024-06-06",
+      "explanation": "The Customs Rules 2024, issued on 2024-06-06, formalized definitions regarding warehouse storage periods and bonded institution classifications under the Customs Act 2023.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_27",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the Customs Rules 2024, what does the term 'Act' refer to?",
+      "options": [
+        "The NBR Directive of 2021",
+        "The Customs Act 2023",
+        "The Warehouse Security Act",
+        "The Customs Audit Regulation"
+      ],
+      "answer_index": 1,
+      "answer": "The Customs Act 2023",
+      "explanation": "According to the Customs Rules 2024 (dated 2024-06-06), the term 'Act' is defined as the Customs Act 2023 for the purpose of those rules.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_27",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A warehouse operator has been maintaining records and security protocols according to the 2021 NBR Directive. In 2024, they are now reviewing their operational compliance under the new Customs Rules 2024 to ensure they meet the updated regulatory framework.",
+      "question": "How has the regulatory scope for the warehouse operator changed from the 2021 directive to the 2024 rules regarding the governance of their operations?",
+      "answer": "The regulatory scope shifted from a focus on audit-based operational responsibilities—such as security, record-keeping, and inventory verification—to a more formal legal framework defined by the Customs Act 2023, which now includes specific classifications for bonded enterprises and codified storage periods.",
+      "clauses_involved": [
+        "2021-12-20",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_27",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-12-20",
+      "relative_offset": "two and a half years later",
+      "question": "In the NBR Directive issued on 2021-12-20, the focus was on auditor responsibilities for inventory verification; what significant change occurred two and a half years later regarding the regulatory framework for warehouse storage?",
+      "answer": "On 2024-06-06, the Customs Rules 2024 were introduced, which formalized definitions for warehouse storage periods and bonded institution classifications under the Customs Act 2023.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_27",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    }
+  ]
+}

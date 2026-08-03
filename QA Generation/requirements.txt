@@ -1,0 +1,4 @@
+# Python 3.10+ recommended
+google-genai>=1.0.0      # Gemini SDK: from google import genai
+numpy>=1.24             # embeddings / cosine similarity (clustering stage)
+tqdm>=4.65              # progress bars

@@ -1,0 +1,166 @@
+{
+  "thread_id": "cluster_00772_t0",
+  "cluster_id": 772,
+  "cluster_label": "fiscal year",
+  "title": "Fiscal Year-Based Import Entitlement Allocation",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which NBR directive first established the fiscal year 2021-2022 import entitlement for a duty-free shop at Hazrat Shah Amanat International Airport?",
+      "options": [
+        "The directive dated 2022-06-06",
+        "The directive dated 2022-05-23",
+        "The directive dated 2022-06-02",
+        "The directive dated 2022-02-13"
+      ],
+      "answer_index": 1,
+      "answer": "The directive dated 2022-05-23",
+      "explanation": "The NBR directive dated 2022-05-23 (src=20220523_output.json) formalized the import entitlement for Mesers Bellagio Ltd for the 2021-2022 fiscal year.",
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When did the NBR first apply the fiscal year import entitlement model to a diplomatic bonded warehouse for the 2022-2023 period?",
+      "options": [
+        "2022-05-23",
+        "2022-06-06",
+        "2022-06-02",
+        "2022-08-02"
+      ],
+      "answer_index": 2,
+      "answer": "2022-06-02",
+      "explanation": "According to the directive dated 2022-06-02 (src=20220602_output.json), the NBR applied the entitlement model to Eastern Diplomatic Services Ltd for the 2022-2023 fiscal year.",
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which entity received an import entitlement of 12.45 lakh USD for the 2022-2023 fiscal year under the 2022-06-06 NBR directive?",
+      "options": [
+        "Mesers Bellagio Ltd",
+        "Eastern Diplomatic Services Ltd",
+        "Saber Traders Ltd",
+        "Hazrat Shah Amanat International Airport"
+      ],
+      "answer_index": 2,
+      "answer": "Saber Traders Ltd",
+      "explanation": "The NBR directive dated 2022-06-06 (src=20220606_output.json) specified an import entitlement of 12.45 lakh USD for Mesers Saber Traders Ltd for the 2022-2023 fiscal year.",
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under which legal authority do the NBR directives from May and June 2022 set annual import quotas for bonded warehouse entities?",
+      "options": [
+        "Section 13(2) of the Customs Act, 1969",
+        "Section 12 of the Customs Act, 1969",
+        "Section 13(2) of the Customs Act, 1982",
+        "Section 15 of the Customs Act, 1969"
+      ],
+      "answer_index": 0,
+      "answer": "Section 13(2) of the Customs Act, 1969",
+      "explanation": "All provided documents (2022-05-23, 2022-06-02, and 2022-06-06) cite Section 13(2) of the Customs Act, 1969 as the source of authority for determining import eligibility and quotas.",
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An operator managing a duty-free shop at an international airport received their annual import entitlement under the NBR directive on 2022-05-23. Subsequently, in early June 2022, the NBR issued new directives on 2022-06-02 and 2022-06-06 regarding bonded warehouse establishments.",
+      "question": "How did the scope of the NBR's Section 13(2) import entitlement determinations evolve between the 2022-05-23 directive and the directives issued on 2022-06-02 and 2022-06-06?",
+      "answer": "The scope expanded from specifically authorizing an annual import quota for a duty-free shop at an international airport (2022-05-23) to applying the fiscal year entitlement model to diplomatic bonded warehouse establishments (2022-06-02 and 2022-06-06).",
+      "clauses_involved": [
+        "2022-05-23",
+        "2022-06-02",
+        "2022-06-06"
+      ],
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-05-23",
+      "relative_offset": "10 days later",
+      "question": "In the NBR directive issued 10 days after the May 23, 2022, initial formalization for a duty-free shop, how did the scope of the fiscal year entitlement model expand?",
+      "answer": "The NBR directive on 2022-06-02 expanded the application of the fiscal year entitlement model to diplomatic bonded warehouse facilities, specifically authorizing the annual import quota for M/S Eastern Diplomatic Services Ltd for the 2022-2023 fiscal year.",
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-02",
+      "relative_offset": "4 days later",
+      "question": "Following the directive issued on June 2, 2022, what occurred 4 days later regarding the NBR's authority over bonded warehouse import entitlements?",
+      "answer": "On 2022-06-06, the NBR continued the application of the fiscal year entitlement model by issuing a specific annual import entitlement for another diplomatic bonded warehouse establishment, M/S Saber Traders Ltd, for the 2022-2023 fiscal year.",
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The National Board of Revenue establishes an annual import entitlement for a diplomatic bonded warehouse entity.",
+        "The National Board of Revenue sets an annual import quota for a specific duty-free shop operating at an international airport.",
+        "The National Board of Revenue authorizes an annual import entitlement for a different diplomatic bonded warehouse entity."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The National Board of Revenue sets an annual import quota for a specific duty-free shop operating at an international airport.",
+          "date": "2022-05-23"
+        },
+        {
+          "event": "The National Board of Revenue establishes an annual import entitlement for a diplomatic bonded warehouse entity.",
+          "date": "2022-06-02"
+        },
+        {
+          "event": "The National Board of Revenue authorizes an annual import entitlement for a different diplomatic bonded warehouse entity.",
+          "date": "2022-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20220523_২২ মে, ২০২২_clause_1",
+        "20220602_২৬ মে, ২০২২_clause_1",
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20220523/20220523_output.json",
+        "customs_gos_OCR/20220602/20220602_output.json",
+        "customs_gos_OCR/20220606/20220606_output.json"
+      ],
+      "thread_source_file": "cluster_00772_t0__fiscal-year-based-import-entitlement-allocation.json"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "group_id": "cluster_00008_t0__X__cluster_00010_t1",
+  "entities": [
+    "imported goods",
+    "Customs Duty"
+  ],
+  "cluster_ids": [
+    8,
+    10
+  ],
+  "thread_ids": [
+    "cluster_00008_t0",
+    "cluster_00010_t1"
+  ],
+  "num_shared_clauses": 8,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under the Customs Act, 1969, how is the 'Minimum Value' or 'Tariff Value' utilized when assessing Customs Duty for imported goods?",
+      "answer": "For the purpose of imposing Customs Duty on imported goods, the established minimum value or tariff value is considered the assessable value of the goods, as authorized under section 25(3) of the Customs Act, 1969.",
+      "entities_involved": [
+        "imported goods",
+        "Customs Duty"
+      ],
+      "clause_text_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_2",
+        "20210603_133-AIN_2021_22_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the government manage the transition of 'Minimum Value' notifications for imported goods subject to Customs Duty?",
+      "answer": "The government manages the valuation of imported goods by issuing new notifications under section 25(3) of the Customs Act, 1969, which explicitly repeal previous notifications (such as SROs 190-AIN/2010, 159-AIN/2011, 159-AIN/2012, and 146-AIN/2013) to set updated tariff values for Customs Duty purposes.",
+      "entities_involved": [
+        "imported goods",
+        "Customs Duty"
+      ],
+      "clause_text_ids": [
+        "20110609_159-AIN_2011_2346-Customs_2011-06-09_clause_1",
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_159-AIN_2012_2387-Customs_07 June, 2012_clause_1",
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1"
+      ]
+    }
+  ]
+}

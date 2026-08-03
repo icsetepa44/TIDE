@@ -1,0 +1,126 @@
+{
+  "thread_id": "cluster_00057_t1",
+  "cluster_id": 57,
+  "cluster_label": "materials",
+  "title": "Rules of Origin and Valuation for Materials",
+  "source_num_member_objects": 8,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 5,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2022-10-18 D-8 PTA rules, the cumulative origin criteria for materials used in a finished product requires that the aggregate D-8 Contracting Members originating content must be at least 60% of the final product's value to be eligible for preferential treatment.",
+      "question": "What is the correct cumulative value threshold for D-8 Contracting Members originating content under the 2022-10-18 Rules of Origin?",
+      "conflict": "The misaligned context incorrectly states the threshold is 60%, whereas the actual policy establishes a 40% threshold.",
+      "answer": "According to the 2022-10-18 Rules of Origin for the Preferential Trade Agreement (PTA) among D-8 member states (Rule 5), the aggregate D-8 Contracting Members originating content on the final product must be not less than 40%.",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2022-10-18 TPS-OIC Rules, indirect materials used in the manufacturing process must be included in the calculation of the origin of goods because they form part of the final product.",
+      "question": "Are indirect materials included in the origin determination of goods under the 2022-10-18 rules?",
+      "conflict": "The misaligned context claims indirect materials are included, contradicting the rule that they are excluded because they do not remain in the final goods.",
+      "answer": "No. Under Rule 10 of the 2022-10-18 TPS-OIC Rules, indirect materials—defined as materials used in the manufacturing process that do not remain in the goods or form part of the goods—are not taken into account for the purpose of determining the origin of goods.",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of 2022-10-18, the valuation of non-originating materials must be based exclusively on the earliest ascertainable price paid within the territory of the processing party, as the CIF value at the time of importation is no longer considered a valid method.",
+      "question": "What are the valid methods for determining the value of non-originating materials under the 2022-10-18 rules?",
+      "conflict": "The misaligned context incorrectly asserts that the CIF value method is no longer valid, when it is actually a primary method.",
+      "answer": "Under Rule 9 of the 2022-10-18 Customs output, the value of non-originating materials is determined by either the Cost, Insurance and Freight (CIF) value at the time of importation (where provable) or the earliest ascertainable price paid for the materials of undetermined origin in the territory where the processing takes place.",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2022-10-18 regulations, the origin of power, fuel, plant, equipment, machines, and tools used in the production process must be established and documented to verify the originating status of the final product.",
+      "question": "Is it necessary to establish the origin of production tools, power, and fuel to determine the originating status of a final product under the 2022-10-18 rules?",
+      "conflict": "The misaligned context claims origin must be established, whereas the rule explicitly states it is not necessary.",
+      "answer": "No. According to Rule 9(b) of the 2022-10-18 Customs output, it is not necessary to establish whether the power, fuel, plant, equipment, machines, and tools used to obtain a product originate in third countries to determine if the final product originated in the territory of a Party.",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "The 2022-10-18 rules mandate that for a product to be considered sufficiently processed, the final product must be classified in the same heading at the four-digit level of the Harmonized System as all non-originating materials used in its manufacture.",
+      "question": "What is the requirement for a product to be considered 'sufficiently worked or processed' regarding its classification under the 2022-10-18 rules?",
+      "conflict": "The misaligned context states the classification must be the same, while the rule requires it to be different.",
+      "answer": "Under Rule 7 of the 2022-10-18 Customs output, a product is considered sufficiently worked or processed if the final product is classified in a heading at the four-digit level of the Harmonized System differently from those in which all the non-originating materials used in its manufacture are classified.",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer in a D-8 member state produces a finished good. During the production process, they utilize indirect materials (such as lubricants and cleaning agents that do not remain in the final product) and non-originating raw materials imported from a third country. The manufacturer is preparing their origin certification for the D-8 PTA.",
+      "question": "How should the manufacturer treat the indirect materials versus the non-originating raw materials when calculating if the final product meets the cumulative origin criteria under the 2022-10-18 rules?",
+      "answer": "The manufacturer must exclude indirect materials from the origin calculation entirely, while non-originating materials must be valued using their CIF value at the time of importation (or the earliest ascertainable price if CIF is unavailable) to determine if the product meets the transformation or value-added criteria.",
+      "clauses_involved": [
+        "2022-10-18 | Rule 10 Treatment of Indirect Materials",
+        "2022-10-18 | Rule 9: Method for Valuation of Non-Originating Material",
+        "2022-10-18 | Rule 5 Cumulative Rule of Origin"
+      ],
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_5",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_13",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_14",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_4",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_8",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_10",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_12",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_17"
+      ]
+    }
+  ]
+}

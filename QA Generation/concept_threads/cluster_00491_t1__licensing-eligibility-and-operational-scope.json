@@ -1,0 +1,131 @@
+{
+  "cluster_id": 491,
+  "cluster_label": "licensees",
+  "thread_index": 1,
+  "thread_id": "cluster_00491_t1",
+  "title": "Licensing Eligibility and Operational Scope",
+  "summary": "The criteria for obtaining and maintaining a license have evolved to provide more flexibility for experienced operators while tightening the procedural requirements for expanding operations to new customs stations.",
+  "evolution": {
+    "eligibility": "Shifted from rigid educational standards to experience-based exemptions.",
+    "operational_scope": "Created a formal mechanism for multi-station operational expansion."
+  },
+  "timeline": [
+    {
+      "date": "2011-06-09",
+      "instrument": "SRO/Clause",
+      "change": "Relaxed educational requirements for licensees with 10 years of satisfactory experience.",
+      "clause_ids": [
+        "20110609_161-AIN_2011_2348-Customs_০৯ জুন, ২০১১_clause_2"
+      ]
+    },
+    {
+      "date": "2015-07-01",
+      "instrument": "SRO/Clause",
+      "change": "Established a formal procedure for licensees to operate at additional customs stations via application and fee.",
+      "clause_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "বিধি ১২ এর প্রান্তস্থিত দাড়ির পরিবর্তে নিম্নরূপ কমা (,), শব্দগুলি, সংখ্যা, বন্ধনী ও দাড়ি প্রতিস্থাপিত হইবে",
+      "text_id": "20110609_161-AIN_2011_2348-Customs_০৯ জুন, ২০১১_clause_2",
+      "resolved_text": "২। বিধি ১২ এর প্রান্তস্থিত দাড়ির পরিবর্তে নিম্নরূপ কমা (,), শব্দগুলি, সংখ্যা, বন্ধনী ও দাড়ি প্রতিস্থাপিত হইবে, যথা :-\n\n“, তবে অনুরূপ ক্ষেত্রে লাইসেন্সির ন্যূনতম ১০ (দশ) বৎসরের সন্তোষজনক কার্যক্রম করিবার অভিজ্ঞতা থাকিলে বিধি ৫(৩) এ বর্ণিত শিক্ষাগত যোগ্যতার বিধান প্রযোজ্য হইবে না।”",
+      "entity_concepts": {
+        "Customs Licensing Rules": [
+          "This amendment modifies the existing rule to include an exemption for licensees who possess a specified period of satisfactory operational experience. When such experience criteria are met, the educational requirements for obtaining a license as specified in the relevant sub-rule are waived."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1303",
+      "entity_sub_entities": {
+        "Customs Licensing Rules": [
+          "licensees",
+          "operational experience",
+          "educational requirements",
+          "license",
+          "sub-rule"
+        ]
+      },
+      "clause_clusters": [
+        84,
+        491,
+        904,
+        1782,
+        4452,
+        7602
+      ],
+      "source_file": "customs_sros_OCR/20110609_161-AIN_2011_2348-Customs/20110609_161-AIN_2011_2348-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+      "resolved_text": "(৩) বিধি ৮ এর-\n(ক) উপ-বিধি (২) এর পরিবর্তে নিম্নরূপ উপ-বিধি (২) প্রতিস্থাপিত হইবে, যথা:\n\n“(২) উপ-বিধি (১) এ যাহা কিছুই থাকুক না কেন, একজন লাইসেন্সি লাইসেন্সে উল্লিখিত কাস্টম হাউস বা কাস্টমস স্টেশন ব্যতীত অন্য কোন কাস্টমস স্টেশনে কার্যক্রম পরিচালনা করিতে চাহিলে, তাহাকে ১০ (দশ) হাজার টাকার ট্রেজারি চালান অথবা ব্যাংক ড্রাফট অথবা পে-অর্ডারসহ সংশ্লিষ্ট কাস্টমস স্টেশনের লাইসেন্সিং কর্তৃপক্ষের নিকট লিখিতভাবে আবেদন করিতে হইবে এবং লাইসেন্সিং কর্তৃপক্ষ আবেদন যাচাই করিয়া তালিকাভুক্তি যোগ্য মনে করিলে ফরম ‘গ’ অনুযায়ী তাহাকে মূল লাইসেন্সের মেয়াদকালে উক্ত কাস্টম হাউস বা কাস্টমস স্টেশনের জন্য একজন লাইসেন্সি হিসাবে তালিকাভুক্ত করিবেন;”;\n\n(খ) উপ-বিধি (৪) বিলুপ্ত হইবে;\n(গ) উপ-বিধি (৫) এ উল্লিখিত “২ (দুই)” সংখ্যা, বন্ধনী ও শব্দের পরিবর্তে “৪ (চার)” সংখ্যা, বন্ধনী ও শব্দ প্রতিস্থাপিত হইবে;",
+      "entity_concepts": {
+        "Customs House Licensing": [
+          "Licensees wishing to operate at a customs station or customs house other than the one specified in their original license must submit a formal application to the respective licensing authority.",
+          "The application requires the submission of a specified fee paid via treasury challan, bank draft, or pay order, and the licensing authority will evaluate the applicant's eligibility for inclusion in a list for that location.",
+          "Upon approval, the licensee will be registered for the additional customs house or station for the remaining duration of the original license, subject to the prescribed application form."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is responsible for verifying applications from licensees who wish to operate at secondary customs stations and for registering them accordingly."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1551",
+      "entity_sub_entities": {
+        "Customs House Licensing": [
+          "license",
+          "customs station",
+          "customs house",
+          "formal application",
+          "licensing authority",
+          "fee",
+          "treasury challan",
+          "bank draft",
+          "pay order",
+          "applicant",
+          "list",
+          "licensee",
+          "application form"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "applications",
+          "licensees",
+          "secondary customs stations"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        43,
+        60,
+        68,
+        84,
+        104,
+        190,
+        331,
+        486,
+        491,
+        672,
+        771,
+        2181,
+        2836,
+        3503,
+        6926,
+        11919
+      ],
+      "source_file": "customs_sros_OCR/20150701_206-AIN_2015_43-Customs/20150701_206-AIN_2015_43-Customs_output.json",
+      "clause_date": "2015-07-01"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

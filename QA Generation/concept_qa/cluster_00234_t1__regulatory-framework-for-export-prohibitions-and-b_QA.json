@@ -1,0 +1,185 @@
+{
+  "thread_id": "cluster_00234_t1",
+  "cluster_id": 234,
+  "cluster_label": "export",
+  "title": "Regulatory Framework for Export Prohibitions and Bonded Warehousing",
+  "source_num_member_objects": 15,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2023-01-04 amendment (SRO 368-Law/2022), the National Board of Revenue explicitly permits the export of all goods, while restricting the import of yarn and potatoes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "restricting the import of yarn and potatoes",
+      "correct_fact": "restricting the import of yarn (excluding bonded yarn) and milk powder",
+      "answer": "The statement is inaccurate. According to SRO 368-Law/2022 dated 2023-01-04, the prohibited categories for import are yarn (excluding yarn imported by 100% export-oriented industries under bond license) and milk powder, not potatoes.",
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, the owner of warehoused goods must provide at least ten days' prior written notice to the Commissioner of Customs (Bond) before carrying out manufacturing processes in a warehouse.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "ten days' prior written notice",
+      "correct_fact": "fifteen days' prior written notice",
+      "answer": "The statement is inaccurate. Section 95 of the Customs Act 1969 requires that the owner of warehoused goods provide fifteen days' prior written notice to the Commissioner of Customs (Bond) or other authorized Commissioner before commencing manufacturing operations.",
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_120",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_134",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_141",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_29",
+        "customs-act-1969-english_8th March, 1969_clause_121",
+        "customs-act-1969-english_8th March, 1969_clause_123",
+        "customs-act-1969-english_8th March, 1969_clause_125",
+        "customs-act-1969-english_8th March, 1969_clause_140",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_158",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_48",
+        "customs-act-1969-english_8th March, 1969_clause_51"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Government of Bangladesh holds the legal authority under the Customs Act 1969 to prohibit or regulate the import and export of specific goods via air, sea, or land routes through notifications in the official gazette.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Section 16 of the Customs Act 1969 empowers the government to issue notifications in the official gazette to prohibit or restrict the movement of goods into or out of Bangladesh via air, sea, or land.",
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_120",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_134",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_141",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_29",
+        "customs-act-1969-english_8th March, 1969_clause_121",
+        "customs-act-1969-english_8th March, 1969_clause_123",
+        "customs-act-1969-english_8th March, 1969_clause_125",
+        "customs-act-1969-english_8th March, 1969_clause_140",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_158",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_48",
+        "customs-act-1969-english_8th March, 1969_clause_51"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "When a private warehouse license is cancelled, the owner of the stored goods has thirty days to remove the goods or clear them for home-consumption or export.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "thirty days",
+      "correct_fact": "ten days",
+      "answer": "The statement is inaccurate. According to Section 98A of the Customs Act 1969, following the cancellation of a private warehouse license, owners must remove or clear their goods within ten days of the notice, unless an extended period is granted by the appropriate officer.",
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_120",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_134",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_141",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_29",
+        "customs-act-1969-english_8th March, 1969_clause_121",
+        "customs-act-1969-english_8th March, 1969_clause_123",
+        "customs-act-1969-english_8th March, 1969_clause_125",
+        "customs-act-1969-english_8th March, 1969_clause_140",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_158",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_48",
+        "customs-act-1969-english_8th March, 1969_clause_51"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Domestic goods manufactured in Bangladesh may be exported as stores for vehicles traveling to foreign ports without the imposition of customs duty or value added tax, provided the quantity is deemed reasonable by the appropriate officer.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Section 24 of the Customs Act 1969 allows for the export of domestic goods as ship or aircraft stores without customs duty or VAT, subject to the approval of the appropriate officer based on vehicle size and journey duration.",
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_120",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_134",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_141",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_29",
+        "customs-act-1969-english_8th March, 1969_clause_121",
+        "customs-act-1969-english_8th March, 1969_clause_123",
+        "customs-act-1969-english_8th March, 1969_clause_125",
+        "customs-act-1969-english_8th March, 1969_clause_140",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_158",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_48",
+        "customs-act-1969-english_8th March, 1969_clause_51"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The maximum drawback of customs duties repayable upon the exportation of imported goods is limited to nine-tenths of the duties originally paid.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "nine-tenths",
+      "correct_fact": "seven-eighths",
+      "answer": "The statement is inaccurate. Section 35 of the Customs Act 1969 specifies that the drawback repayment for imported goods subsequently exported is limited to a maximum of seven-eighths of the duties originally paid.",
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_120",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_134",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_141",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_29",
+        "customs-act-1969-english_8th March, 1969_clause_121",
+        "customs-act-1969-english_8th March, 1969_clause_123",
+        "customs-act-1969-english_8th March, 1969_clause_125",
+        "customs-act-1969-english_8th March, 1969_clause_140",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_158",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_48",
+        "customs-act-1969-english_8th March, 1969_clause_51"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2023-01-04 SRO 368-Law/2022, all types of yarn and milk powder are strictly prohibited for export from Bangladesh to ensure domestic supply stability.",
+      "question": "Does the 2023-01-04 SRO 368-Law/2022 prohibit the export of yarn and milk powder as stated?",
+      "conflict": "The misaligned context incorrectly identifies yarn and milk powder as export-restricted items, whereas the SRO actually restricts their import under specific customs bond licenses.",
+      "answer": "No. The 2023-01-04 SRO 368-Law/2022 (amending the earlier notification) specifies that 'all goods' are permitted for export. The restrictions mentioned regarding yarn and milk powder apply specifically to their import under customs bond licenses, not their export.",
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A bonded warehouse owner received a notification of license cancellation. They are currently planning to move their goods, which include items that were subject to specific import/export restrictions updated by the National Board of Revenue in early 2023.",
+      "question": "Under the existing regulatory framework, what is the mandatory timeframe for the owner to remove the goods following the notice of license cancellation, and does the 2023 amendment to the scope of goods permitted under bond licenses change this removal deadline?",
+      "answer": "The owner must remove the goods within ten days of receiving the notice or within an extended timeframe allowed by the officer. The 2023 amendment (SRO 368-Law/2022) relates to the scope of permitted goods under bond licenses and does not alter the mandatory removal timeframe prescribed for license cancellations.",
+      "clauses_involved": [
+        "2023-01-04",
+        "98A. Goods to be removed if licence is cancelled."
+      ],
+      "clause_text_ids": [
+        "20230104_368-Act_2022_139_Customs_২১ ডিসেম্বর ২০২২_clause_1"
+      ]
+    }
+  ]
+}

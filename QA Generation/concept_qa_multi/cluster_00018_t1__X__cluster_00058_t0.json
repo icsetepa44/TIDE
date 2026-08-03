@@ -1,0 +1,47 @@
+{
+  "group_id": "cluster_00018_t1__X__cluster_00058_t0",
+  "entities": [
+    "Authorized Economic Operator",
+    "application"
+  ],
+  "cluster_ids": [
+    18,
+    58
+  ],
+  "thread_ids": [
+    "cluster_00018_t1",
+    "cluster_00058_t0"
+  ],
+  "num_shared_clauses": 20,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the role of an application in the process of an entity obtaining Authorized Economic Operator (AEO) status according to the 2024 regulations?",
+      "answer": "Under the 2024 regulations, an applicant must submit an application on 'Form-Ka' to the Director General of the AEO Center [8]. Upon receipt, the Center initiates an evaluation process to determine the applicant's eligibility, which includes the formation of specialized evaluation teams to verify the application and assess compliance with the required conditions [9]. The outcome of this evaluation results in either the issuance of an AEO recognition certificate [3, 6] or a formal notification of rejection [4].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "application"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_28",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_30",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_36",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does a change in the legal entity status of an existing Authorized Economic Operator (AEO) affect the requirements for their application?",
+      "answer": "If an existing Authorized Economic Operator undergoes a change in its legal entity status, the new entity is required to submit an application to the AEO Center for the modification of its recognition certificate under Rule 13(6). The Center will then review the application and, if deemed appropriate, cancel the previous certificate and issue a new one to the new legal entity [10].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "application"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_131"
+      ]
+    }
+  ]
+}

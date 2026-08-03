@@ -1,0 +1,228 @@
+{
+  "thread_id": "cluster_00001_t3",
+  "cluster_id": 1,
+  "cluster_label": "goods",
+  "title": "Pre-Shipment Inspection (PSI) Framework",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 17,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer is finalizing the logistics for a shipment arriving in Bangladesh during 2010. The goods in question are classified under a specific H.S. Code that carries a zero percent import duty rate according to the First Schedule of the Customs Act 1969. As the importer prepares the documentation, they are uncertain about the regulatory requirements for clearance. Are these goods subject to mandatory pre-shipment inspection?",
+      "question": "Are these goods subject to mandatory pre-shipment inspection?",
+      "answer": "No, goods with a zero percent import duty rate are exempted from mandatory pre-shipment inspection under SRO 193/2010.",
+      "date_or_instrument": "2010-06-10 | SRO 193/2010",
+      "clause_text_ids": [
+        "20100610_193-AIN_2010_2311-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A representative from a government department is coordinating the procurement of essential supplies from abroad in 2011. Given the nature of the entity as a government body, the procurement officer is reviewing the standard customs clearance procedures to ensure full compliance. They are specifically examining the rules surrounding the mandatory pre-shipment inspection protocols for state-led imports. Are these goods exempt from mandatory pre-shipment inspection?",
+      "question": "Are these goods exempt from mandatory pre-shipment inspection?",
+      "answer": "Yes, goods imported by government, semi-government, sector corporations, or autonomous bodies are exempt from mandatory pre-shipment inspection as per SRO 158/2011.",
+      "date_or_instrument": "2011-06-09 | SRO 158/2011",
+      "clause_text_ids": [
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2012, a pharmaceutical importer is preparing to bring in a consignment of specialized medical supplies. The goods are included on a specific block list that has been officially approved by the Directorate General of Drug Administration. The importer is now reviewing the latest customs guidelines to determine if their status on this list affects their inspection requirements. Are these goods eligible for exemption from pre-shipment inspection?",
+      "question": "Are these goods eligible for exemption from pre-shipment inspection?",
+      "answer": "Yes, goods specified within the value and quantity limits of the block list approved by the Directorate General of Drug Administration are exempt from mandatory pre-shipment inspection following the amendment in SRO 235/2012.",
+      "date_or_instrument": "2012-06-27 | SRO 235/2012",
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer is processing a shipment of industrial materials in 2013 that fall under the 'Block-C' category for customs purposes. As part of the regulatory framework for pre-shipment inspection, the importer is calculating the necessary costs to ensure all financial obligations are met before the goods arrive at the port. They need to determine the applicable fee structure based on the Cost, Insurance, and Freight (CIF) value. What is the pre-shipment inspection fee rate for these goods based on their CIF value?",
+      "question": "What is the pre-shipment inspection fee rate for these goods based on their CIF value?",
+      "answer": "The pre-shipment inspection fee rate for Block-C is 0.275% of the CIF value as per SRO 151/2013.",
+      "date_or_instrument": "2013-06-06 | SRO 151/2013",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer is in the middle of opening a Letter of Credit (L/C) in 2013 to facilitate the import of goods that are subject to mandatory pre-shipment inspection. They are currently filling out the banking documentation and need to ensure that all procedural requirements concerning the oversight of the shipment are correctly addressed during this initial phase. What is the responsibility of the importer regarding the inspection agency during this process?",
+      "question": "What is the responsibility of the importer regarding the inspection agency during this process?",
+      "answer": "The importer must specify the name of the chosen inspection agency at the time of opening the Letter of Credit (L/C) as per the updated regulations in SRO 151/2013.",
+      "date_or_instrument": "2013-06-06 | SRO 151/2013",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer is arranging for a 2011 shipment of goods that are subject to a five percent import duty rate. While reviewing the latest customs notifications, the importer is weighing the benefits of having their cargo examined before it leaves the country of origin versus waiting for inspection upon arrival. They are curious about whether the regulations strictly enforce this process or if they have flexibility in their decision. Is the importer required to undergo pre-shipment inspection?",
+      "question": "Is the importer required to undergo pre-shipment inspection?",
+      "answer": "No, while goods subject to a five percent import duty rate are generally exempted, the importer has the option to voluntarily undergo pre-shipment inspection if they choose to do so.",
+      "date_or_instrument": "2011-06-09 | SRO 158/2011",
+      "clause_text_ids": [
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the regulatory framework for Pre-Shipment Inspection (PSI) exemptions evolve between 2010 and 2012 regarding the inclusion of specific goods?",
+      "answer": "The framework evolved by maintaining a consistent core of exemptions—such as zero-duty items, government imports, and duty-waived goods—while progressively expanding its scope. By 2012, under SRO 235/2012, the policy specifically integrated items approved under the block list by the Directorate General of Drug Administration, demonstrating a move toward incorporating specialized regulatory approvals into the PSI exemption criteria.",
+      "clause_text_ids": [
+        "20100610_193-AIN_2010_2311-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What shift occurred in the administrative approach to PSI fees and importer responsibilities in 2013?",
+      "answer": "In 2013, the policy shifted from general oversight to a more structured operational model defined in SRO 156/2013. This included the formalization of a tiered PSI fee structure based on CIF value percentages and the assignment of inspection blocks, alongside the codification of specific importer obligations, such as naming an inspection agency during Letter of Credit issuance.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2011 policy regarding five percent import duty goods reflect the voluntary nature of the PSI system?",
+      "answer": "As established in SRO 158/2011, while many categories were exempt from mandatory PSI, goods subject to a five percent import duty rate were granted an exemption that allowed importers the flexibility to choose whether or not to undergo pre-shipment inspection. This indicates that the policy design balanced mandatory compliance with voluntary options for specific duty-rated commodities.",
+      "clause_text_ids": [
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the legal basis for the National Board of Revenue's authority to regulate PSI exemptions and procedures?",
+      "answer": "The National Board of Revenue derives its authority to designate goods as exempt from PSI and to issue administrative orders from the proviso to section 25B of the Customs Act, 1969. This legal foundation has been consistently cited across multiple SROs, including SRO 193/2010, SRO 158/2011, and SRO 178/2012, to authorize changes to the PSI framework.",
+      "clause_text_ids": [
+        "20100610_193-AIN_2010_2311-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the implications for importers regarding dispute resolution under the 2013 PSI regulations?",
+      "answer": "Under the updated regulations from 2013, importers are explicitly required to follow established laws and regulatory frameworks when resolving disputes concerning inspection certification. Additionally, they are tasked with coordinating with the National Board of Revenue or the Federation of Bangladesh Chambers of Commerce and Industry to remain informed about inspection procedures.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How is the PSI fee structure determined for imported goods as of the 2013 updates?",
+      "answer": "According to the 2013 regulations, PSI fees are calculated as a percentage of the CIF value of the goods, with the specific rate determined by the assigned 'inspection block' (ranging from Block-A at 0.10% to Block-E at 0.550%). Importers are responsible for bearing the cost of these fees and obtaining the necessary certification from the inspection agency at the time of import.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer is planning to import goods in mid-2012. Under the rules established in SRO 178-AIN/2012 (June 2012), their goods do not fall under the general exemptions. However, on June 27, 2012, the government issues SRO 235/2012, which amends the previous notification by replacing clause sixteen.",
+      "question": "How does the amendment in SRO 235/2012 change the scope of pre-shipment inspection exemptions for an importer whose goods were previously not exempt under SRO 178/2012?",
+      "answer": "SRO 235/2012 expands the exemption criteria by including goods that fall within the value and quantity limits specified in the block list approved by the Directorate General of Drug Administration or those covered under SRO 161-AIN/2012.",
+      "clauses_involved": [
+        "2012-06-07 | SRO 178/2012",
+        "2012-06-27 | SRO 235/2012"
+      ],
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "one year later",
+      "question": "Starting from the initial PSI exemption list established in 2010-06-10, what change occurred one year later regarding the exemption list?",
+      "answer": "One year later, on 2011-06-09, SRO 158/2011 was issued to formally update the list of goods exempted from mandatory pre-shipment inspection requirements.",
+      "clause_text_ids": [
+        "20100610_193-AIN_2010_2311-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "twenty days later",
+      "question": "Following the issuance of SRO 178/2012 on 2012-06-07, what specific regulatory update took place twenty days later?",
+      "answer": "Twenty days later, on 2012-06-27, SRO 235/2012 was issued, which amended the previous notification to include block-list items in the PSI exemptions.",
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-27",
+      "relative_offset": "one year later",
+      "question": "What significant revisions to PSI fee structures and importer responsibilities were introduced one year after the 2012-06-27 amendment?",
+      "answer": "One year later, on 2013-06-06, SRO 151/2013 was issued, revising the PSI fee structures based on CIF value and updating the responsibilities of importers, including the requirement to specify an inspection agency when opening a Letter of Credit.",
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government mandates that importers must specify their chosen inspection agency when opening a Letter of Credit and obtain certification from the inspection agency at their own expense.",
+        "The list of exemptions from mandatory pre-shipment inspection is established to include goods with zero import duty rates, goods exempted under section 20 of the Customs Act, and goods imported by government or autonomous institutions.",
+        "The exemption list for mandatory pre-shipment inspection is expanded to include goods approved by the Directorate General of Drug Administration or specified within block-list quantity and value limits.",
+        "The fee structure for pre-shipment inspection is defined by assigning specific percentage rates based on the CIF value of goods categorized into different inspection blocks."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The list of exemptions from mandatory pre-shipment inspection is established to include goods with zero import duty rates, goods exempted under section 20 of the Customs Act, and goods imported by government or autonomous institutions.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The exemption list for mandatory pre-shipment inspection is expanded to include goods approved by the Directorate General of Drug Administration or specified within block-list quantity and value limits.",
+          "date": "2012-06-27"
+        },
+        {
+          "event": "The fee structure for pre-shipment inspection is defined by assigning specific percentage rates based on the CIF value of goods categorized into different inspection blocks.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The government mandates that importers must specify their chosen inspection agency when opening a Letter of Credit and obtain certification from the inspection agency at their own expense.",
+          "date": "2013-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_193-AIN_2010_2311-Customs_১০ জুন, ২০১০_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_193-AIN_2010_2311-Customs/20100610_193-AIN_2010_2311-Customs_output.json",
+        "customs_sros_OCR/20120627_235-AIN_2012_2416-Customs/20120627_235-AIN_2012_2416-Customs_output.json",
+        "customs_sros_OCR/20130606_156-AIN_2013_2443-Customs/20130606_156-AIN_2013_2443-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t3__pre-shipment-inspection-psi-framework.json"
+    }
+  ]
+}

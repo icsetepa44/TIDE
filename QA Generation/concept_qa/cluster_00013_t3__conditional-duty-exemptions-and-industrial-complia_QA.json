@@ -1,0 +1,117 @@
+{
+  "thread_id": "cluster_00013_t3",
+  "cluster_id": 13,
+  "cluster_label": "taxes",
+  "title": "Conditional Duty Exemptions and Industrial Compliance",
+  "source_num_member_objects": 54,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "What significant compliance requirement was formalized by the authorities on June 2, 2025?",
+      "options": [
+        "The introduction of a mandatory digital-only declaration system",
+        "The requirement for undertakings and physical examination for temporary imports and sub-contracting",
+        "The abolition of all bonded warehouse duties",
+        "The mandatory use of electronic bank transfers for all customs duties"
+      ],
+      "answer_index": 1,
+      "answer": "The requirement for undertakings and physical examination for temporary imports and sub-contracting",
+      "explanation": "According to the timeline provided in the context, SRO/Directives dated 2025-06-02 formalized the requirement for undertakings and physical examination for temporary imports and sub-contracting.",
+      "clause_text_ids": [
+        "20250602_199-AIN_2025_21_Customs_২৯ মে, ২০২৫_clause_2",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_3",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_4",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_11",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which specific requirement was introduced for pesticide manufacturers under the 2025-06-02 directive (SRO 199-AIN/2025)?",
+      "options": [
+        "A certificate from the Ministry of Finance",
+        "A notarized undertaking on non-judicial stamp paper regarding exclusive use for pesticide manufacturing",
+        "A mandatory pre-payment of 50% of the total customs duty",
+        "A requirement to export 100% of the finished pesticide products"
+      ],
+      "answer_index": 1,
+      "answer": "A notarized undertaking on non-judicial stamp paper regarding exclusive use for pesticide manufacturing",
+      "explanation": "The 2025-06-02 directive (src=20250602_199-AIN_2025_21_Customs_output) mandates that pesticide manufacturers must provide a notarized undertaking on non-judicial stamp paper affirming that imported materials will only be used for agricultural pesticide manufacturing.",
+      "clause_text_ids": [
+        "20250602_199-AIN_2025_21_Customs_২৯ মে, ২০২৫_clause_2",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_3",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_4",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_11",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Regarding the legal status of 'Advance Rulings', what was established by the directive dated 2025-06-02?",
+      "options": [
+        "They are optional guidelines for importers",
+        "They are only valid for the specific importer who applied for them",
+        "They are mandatory for the ruling holder and all customs stations",
+        "They must be renewed every six months"
+      ],
+      "answer_index": 2,
+      "answer": "They are mandatory for the ruling holder and all customs stations",
+      "explanation": "As per the 2025-06-02 directive (src=20250602_229-AIN_2025_51_Customs_output), compliance with an advance ruling is mandatory for the person who obtained the ruling and for all customs stations.",
+      "clause_text_ids": [
+        "20250602_199-AIN_2025_21_Customs_২৯ মে, ২০২৫_clause_2",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_3",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_4",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_11",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2015-07-01 notification (SRO 213-AIN/2015/50/Customs), which entities were granted fiscal exemptions for imported vehicles?",
+      "options": [
+        "All private manufacturing companies",
+        "Industrial institutions established within high-tech parks under the Bangladesh Hi-Tech Park Authority Act 2010",
+        "Oil and gas exploration companies",
+        "Shipbuilding and dredging establishments"
+      ],
+      "answer_index": 1,
+      "answer": "Industrial institutions established within high-tech parks under the Bangladesh Hi-Tech Park Authority Act 2010",
+      "explanation": "The 2015-07-01 notification specifically grants fiscal exemptions for imports into high-tech parks established under the Bangladesh Hi-Tech Park Authority Act 2010.",
+      "clause_text_ids": [
+        "20250602_199-AIN_2025_21_Customs_২৯ মে, ২০২৫_clause_2",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_3",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_4",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_11",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A pesticide manufacturing company has been importing materials for years under general declarations. In June 2025, the company intends to clear a new shipment of pesticide production inputs. The company's manager asks if the previous standard practice of simple declaration is sufficient for this new shipment.",
+      "question": "How has the requirement for pesticide manufacturing imports evolved as of 2025-06-02 compared to prior general practices, and what specific documentation must the company now provide to the Commissioner of Customs?",
+      "answer": "The requirement has shifted from simple declarations to a mandatory formal process; the company must now submit a certificate issued by an official from the Ministry of Agriculture (at least at the rank of Joint Secretary) confirming the exclusive use of the goods for pesticide production and packaging.",
+      "clauses_involved": [
+        "2025-06-02",
+        "EVOLUTION: compliance"
+      ],
+      "clause_text_ids": [
+        "20250602_199-AIN_2025_21_Customs_২৯ মে, ২০২৫_clause_2",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_3",
+        "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_4",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_11",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_2"
+      ]
+    }
+  ]
+}

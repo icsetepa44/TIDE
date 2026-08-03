@@ -1,0 +1,152 @@
+{
+  "thread_id": "cluster_00482_t0",
+  "cluster_id": 482,
+  "cluster_label": "clothing",
+  "title": "Baggage Allowance for Crew and Mariners",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the duty-free baggage allowance for Bangladeshi airline crew evolved in comparison to that of mariners between 2010 and 2025?",
+      "answer": "Between 2010 and 2025, the duty-free allowance for mariners remained constant at $300. In contrast, the allowance for airline crew fluctuated: it started at $100 in 2010, increased to $300 in 2016, and was subsequently adjusted downward to $150 in 2025.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What does the 2016 baggage rule update reveal about the parity between airline crew and mariner duty-free allowances?",
+      "answer": "The 2016 Baggage Rules (effective 2016-06-02) established parity between the two groups by increasing the airline crew allowance from $100 to $300, matching the $300 allowance that had been granted to mariners since at least 2010.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the 2025 policy change affect the baggage allowance for Bangladeshi airline crew compared to the 2016 regulations?",
+      "answer": "The 2025 Baggage Rules reduced the duty-free allowance for airline crew from the $300 limit established in 2016 to $150, marking a departure from the previously achieved parity with mariner allowances.",
+      "clause_text_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Are there differences in the tax treatment for mariners who sign off from their duties compared to those who are simply arriving from a foreign port?",
+      "answer": "Yes, according to the Baggage Rules (consistent from 2010 through 2025), mariners arriving from foreign ports are permitted a duty-free allowance of $300. However, if a mariner signs off from their duty, they are permitted to import baggage up to a higher limit of $2,000, subject to the payment of all applicable duties and taxes.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What personal items are explicitly mentioned as duty-free imports for international passenger bus drivers and stewards across the provided timeline?",
+      "answer": "Across the timeline from 2010 to 2025, the regulations consistently specify that drivers and stewards of international passenger buses are permitted to import personal items including clothing, bedding, and cooked food, along with additional personal or household goods up to a specified monetary limit, free of all duties and taxes.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi airline crew member returned from a flight abroad in 2012, and another crew member returned from a similar flight in 2026.",
+      "question": "How did the duty-free baggage allowance for these two crew members differ based on the rules applicable at the time of their respective arrivals?",
+      "answer": "The crew member arriving in 2012 was entitled to a $100 duty-free allowance under the 2011 rules, whereas the crew member arriving in 2026 was entitled to a $150 duty-free allowance under the 2025 rules.",
+      "clauses_involved": [
+        "2011-06-09",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi mariner and an airline crew member both arrived in Bangladesh from abroad in 2015. In 2026, a mariner and an airline crew member again arrived from abroad.",
+      "question": "Compare the evolution of the duty-free baggage allowance for the mariner versus the airline crew member between 2015 and 2026.",
+      "answer": "Between 2015 and 2026, the mariner's duty-free allowance remained constant at $300, while the airline crew member's allowance fluctuated, increasing from $100 in 2015 (under 2011 rules) to $300 in 2016, and subsequently decreasing to $150 by 2026.",
+      "clauses_involved": [
+        "2011-06-09",
+        "2016-06-02",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In 2010, the duty-free baggage allowance for airline crew was set at $100. What change occurred to this allowance six years later?",
+      "answer": "In the 2016-06-02 Baggage Rules, the duty-free allowance for airline crew was increased from $100 to $300.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "nine years later",
+      "question": "Following the 2016 increase of the airline crew baggage allowance to $300, what adjustment was made to this limit nine years later?",
+      "answer": "In the 2025-06-03 Baggage Rules, the airline crew allowance was adjusted downward from $300 to $150.",
+      "clause_text_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events regarding baggage allowance for airline crew in chronological order.",
+      "events_shuffled": [
+        "The airline crew duty-free baggage allowance is set at a maximum value of 300 US dollars.",
+        "The airline crew duty-free baggage allowance is set at a maximum value of 100 US dollars.",
+        "The airline crew duty-free baggage allowance is adjusted to a maximum value of 150 US dollars."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The airline crew duty-free baggage allowance is set at a maximum value of 100 US dollars.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The airline crew duty-free baggage allowance is set at a maximum value of 300 US dollars.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The airline crew duty-free baggage allowance is adjusted to a maximum value of 150 US dollars.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00482_t0__baggage-allowance-for-crew-and-mariners.json"
+    }
+  ]
+}

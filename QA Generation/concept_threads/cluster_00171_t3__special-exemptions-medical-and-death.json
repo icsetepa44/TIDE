@@ -1,0 +1,792 @@
+{
+  "cluster_id": 171,
+  "cluster_label": "Passenger Baggage Allowance",
+  "thread_index": 3,
+  "thread_id": "cluster_00171_t3",
+  "title": "Special Exemptions (Medical and Death)",
+  "summary": "Provisions for sick/disabled passengers and deceased citizens have remained largely static in substance, serving as humanitarian exemptions within the customs framework.",
+  "evolution": {
+    "legal_basis": "Remains a full exemption for medical equipment and deceased baggage."
+  },
+  "timeline": [],
+  "num_member_objects": 14,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।— আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving by air, sea, or land are permitted to import their essential medical equipment and wheelchairs free of all duties and taxes.",
+          "This exemption is granted to facilitate the movement of essential assistive devices for passengers requiring specific medical or physical support."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1279",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "essential medical equipment",
+          "wheelchairs",
+          "essential assistive devices"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        984,
+        3918,
+        7791
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their personal baggage is fully exempt from all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1283",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal baggage"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        785
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।- আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via air, water, or land routes who are elderly, sick, or disabled are permitted to import medical equipment and wheelchairs free of all duties and taxes.",
+          "This provision serves as a special concession for passengers requiring mobility aids or medical assistance to clear these specific items without customs charges."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1320",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs",
+          "mobility aids"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984,
+        9920
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।- এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their baggage is granted a full exemption from all applicable customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1324",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।— আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Medical equipment and wheelchairs used by sick, disabled, or elderly passengers arriving by air, water, or land routes are exempt from all import duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1380",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "Medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The baggage of a Bangladeshi citizen who passes away while abroad is exempt from the payment of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1384",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "Bangladeshi citizen",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2502
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।- আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers who are sick, disabled, or elderly are granted the privilege to import their medical equipment and wheelchairs free of all duties and taxes.",
+          "This exemption applies to such essential mobility and medical items regardless of the mode of transport, including air, water, or land routes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_994",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs",
+          "essential mobility items",
+          "medical items"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984,
+        2860,
+        7798
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।- এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাঁহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their personal baggage is granted a complete exemption from all duties and taxes, regardless of any other provisions contained in these rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_998",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal baggage"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        785
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা।— আকাশপথ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving by air, sea, or land are entitled to import medical equipment and wheelchairs for their personal use without payment of any customs duties or taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1642",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোনো বাাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their baggage is granted a full exemption from all applicable duties and taxes upon arrival."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2518",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুববধা।- আকাশপর্, জলপর্ বা স্থলপদর্ আগত একজন অসুস্থ, পঙ্গু অর্বা বৃদ্ধ যাত্রীর ব্যবহায থবচবকৎসা যন্ত্রপাবত ও হুইল বচয়ার সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক খালাস করা যাইদব।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving via air, sea, or land routes are permitted to clear their medical equipment and wheelchairs free of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1059",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যবির বক্ষদত্র অব্যাহবত",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_9",
+      "resolved_text": "৯। মৃত ব্যবির বক্ষদত্র অব্যাহবত।- এই বববধমালায় যাহা বকছুই র্াকুক না বকন, বকাদনা বাাংলাদেনশ নাগবরক ববদেদশ মৃত্যযবরণ কবরদল তাহার ব্যাদগজ সকল প্রকার শুল্ক ও কর প্রদান হইদত অব্যাহবত পাইদব।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The baggage of a Bangladeshi citizen who passes away while abroad is exempt from all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1063",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "Bangladeshi citizen"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        2502
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা।—আকাশপথ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via air, water, or land routes who are infirm, disabled, or elderly are permitted to import their personal medical equipment and wheelchairs free of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3194",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        984,
+        10640
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।—এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোনো বাংলাদেশি নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their personal baggage is exempt from all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3198",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal baggage"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        785
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ],
+  "num_static_replicated_objects": 14,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।— আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving by air, sea, or land are permitted to import their essential medical equipment and wheelchairs free of all duties and taxes.",
+          "This exemption is granted to facilitate the movement of essential assistive devices for passengers requiring specific medical or physical support."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1279",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "essential medical equipment",
+          "wheelchairs",
+          "essential assistive devices"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        984,
+        3918,
+        7791
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their personal baggage is fully exempt from all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1283",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal baggage"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        785
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।- আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via air, water, or land routes who are elderly, sick, or disabled are permitted to import medical equipment and wheelchairs free of all duties and taxes.",
+          "This provision serves as a special concession for passengers requiring mobility aids or medical assistance to clear these specific items without customs charges."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1320",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs",
+          "mobility aids"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984,
+        9920
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।- এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their baggage is granted a full exemption from all applicable customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1324",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।— আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Medical equipment and wheelchairs used by sick, disabled, or elderly passengers arriving by air, water, or land routes are exempt from all import duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1380",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "Medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The baggage of a Bangladeshi citizen who passes away while abroad is exempt from the payment of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1384",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "Bangladeshi citizen",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2502
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।- আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers who are sick, disabled, or elderly are granted the privilege to import their medical equipment and wheelchairs free of all duties and taxes.",
+          "This exemption applies to such essential mobility and medical items regardless of the mode of transport, including air, water, or land routes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_994",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs",
+          "essential mobility items",
+          "medical items"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984,
+        2860,
+        7798
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।- এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাঁহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their personal baggage is granted a complete exemption from all duties and taxes, regardless of any other provisions contained in these rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_998",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal baggage"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        785
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা।— আকাশপথ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving by air, sea, or land are entitled to import medical equipment and wheelchairs for their personal use without payment of any customs duties or taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1642",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোনো বাাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their baggage is granted a full exemption from all applicable duties and taxes upon arrival."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2518",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুববধা।- আকাশপর্, জলপর্ বা স্থলপদর্ আগত একজন অসুস্থ, পঙ্গু অর্বা বৃদ্ধ যাত্রীর ব্যবহায থবচবকৎসা যন্ত্রপাবত ও হুইল বচয়ার সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক খালাস করা যাইদব।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving via air, sea, or land routes are permitted to clear their medical equipment and wheelchairs free of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1059",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যবির বক্ষদত্র অব্যাহবত",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_9",
+      "resolved_text": "৯। মৃত ব্যবির বক্ষদত্র অব্যাহবত।- এই বববধমালায় যাহা বকছুই র্াকুক না বকন, বকাদনা বাাংলাদেনশ নাগবরক ববদেদশ মৃত্যযবরণ কবরদল তাহার ব্যাদগজ সকল প্রকার শুল্ক ও কর প্রদান হইদত অব্যাহবত পাইদব।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The baggage of a Bangladeshi citizen who passes away while abroad is exempt from all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1063",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "Bangladeshi citizen"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        2502
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা।—আকাশপথ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via air, water, or land routes who are infirm, disabled, or elderly are permitted to import their personal medical equipment and wheelchairs free of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3194",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        984,
+        10640
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।—এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোনো বাংলাদেশি নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their personal baggage is exempt from all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3198",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "personal baggage"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        785
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ]
+}

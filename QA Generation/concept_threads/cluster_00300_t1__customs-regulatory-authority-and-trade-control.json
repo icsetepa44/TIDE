@@ -1,0 +1,304 @@
+{
+  "cluster_id": 300,
+  "cluster_label": "Bangladesh",
+  "thread_index": 1,
+  "thread_id": "cluster_00300_t1",
+  "title": "Customs Regulatory Authority and Trade Control",
+  "summary": "This thread covers the foundational legal powers of the government to regulate, prohibit, or restrict the movement of goods across Bangladesh's borders. These powers remain largely static as they form the core legal basis of the Customs Act, 1969.",
+  "evolution": {
+    "legal_basis": "Remains consistent as the primary legislative authority for customs control."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Customs Act, 1969",
+      "change": "Establishment of core sovereign powers to control imports/exports and port clearances.",
+      "clause_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "সংক্ষিপ্ত শিরোনাম, ব্যাপ্তি ও প্রবর্তন",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+      "resolved_text": "১। সংক্ষিপ্ত শিরোনাম, ব্যাপ্তি ও প্রবর্তন।— (১) এই আইন কাস্টমস আইন, ১৯৬৯ নামে অভিহিত হইবে।\n\n(২) ইহা সমগ্র বাংলাদেশে কার্যকর হইবে।\n\n(৩) সরকার, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, যে তারিখ নির্ধারণ করিবে সেই তারিখে ইহা বলবৎ হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act is officially designated as the Customs Act 1969.",
+          "The act extends its jurisdiction across the entirety of Bangladesh.",
+          "The act shall come into force on a date determined and specified by the government through a notification published in the official gazette."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_5",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "Bangladesh",
+          "government",
+          "notification",
+          "official gazette"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        6,
+        20,
+        112,
+        300
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_16",
+      "clause_title": "পণ্য আমদানি এবং রপ্তানি নিষিদ্ধ অথবা নিয়ন্ত্রণ করার ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+      "resolved_text": "১৬। পণ্য আমদানি এবং রপ্তানি নিষিদ্ধ অথবা নিয়ন্ত্রণ করার ক্ষমতা।— সরকার, সময়ে সময়ে, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, কোন নির্দিষ্ট বর্ণনার পণ্য বিমান, সমুদ্র অথবা স্থলপথে বাংলাদেশের অভ্যন্তরে আনা অথবা বাংলাদেশের বাহিরে নেওয়া নিষিদ্ধ অথবা নিয়ন্ত্রণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is empowered under this Act to issue notifications in the official gazette to prohibit or regulate the import and export of specific goods via air, sea, or land routes into or out of Bangladesh."
+        ],
+        "Import and Export Control": [
+          "The Government has the authority to restrict or regulate the cross-border movement of specified goods, provided such measures are announced through the official gazette."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_20",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Government",
+          "official gazette",
+          "import",
+          "export",
+          "goods",
+          "air routes",
+          "sea routes",
+          "land routes",
+          "Bangladesh"
+        ],
+        "Import and Export Control": [
+          "Government",
+          "cross-border movement",
+          "specified goods",
+          "official gazette"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        6,
+        112,
+        234,
+        300,
+        401,
+        594,
+        727,
+        3393,
+        6779,
+        8829,
+        11888
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_16",
+      "clause_title": "Power to prohibit or restrict importation and exportation of goods",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_16",
+      "resolved_text": "16. Power to prohibit or restrict importation and exportation of goods.- The 2[Government] may, from time to time, by notification in the official Gazette, prohibit or restrict the bringing into or taking out of 3[Bangladesh] of any goods of specified description by air, sea or land.",
+      "entity_concepts": {
+        "Government": [
+          "The Government is empowered to issue notifications in the official Gazette to prohibit or restrict the import or export of specific types of goods."
+        ],
+        "Importation": [
+          "The Government has the legal authority to restrict or prohibit the bringing of specific goods into Bangladesh by air, sea, or land."
+        ],
+        "Export": [
+          "The Government has the legal authority to restrict or prohibit the taking of specific goods out of Bangladesh by air, sea, or land."
+        ],
+        "Goods": [
+          "The Government may regulate the movement of goods into or out of the country by issuing notifications that specify descriptions of goods subject to prohibition or restriction."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_343",
+      "entity_sub_entities": {
+        "Government": [
+          "Government",
+          "notifications",
+          "official Gazette",
+          "goods"
+        ],
+        "Importation": [
+          "goods",
+          "Bangladesh",
+          "air",
+          "sea",
+          "land"
+        ],
+        "Export": [
+          "goods",
+          "Bangladesh",
+          "air",
+          "sea",
+          "land"
+        ],
+        "Goods": [
+          "goods",
+          "notifications"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        6,
+        28,
+        112,
+        234,
+        300,
+        651,
+        1405,
+        1770,
+        3387
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_68",
+      "clause_title": "Power to refuse port-clearance to vessels or permission for departure to other conveyance",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_68",
+      "resolved_text": "55. Power to refuse port-clearance to vessels or permission for departure to other conveyance.- (1) The appropriate officer may refuse to give port-clearance to a vessel or permission for departure to any other conveyance until-\n(a) the provisions of section 53 or section 54, as the case may be, have been complied with;\n(b) all station or port dues and other charges and penalties payable in respect of such vessel or by the owner or master thereof, or in respect of such other conveyance by the owner or person-in- charge thereof, and all taxes, duties and other dues payable in respect of any goods loaded therein, have been duly paid, or their payment secured by such guarantee, or by such deposit at such rate, as such officer directs;\n(c) where export goods have been loaded without payment or securing payment as aforesaid of all taxes, duties and other dues payable in respect thereof or in contravention of any provision of this Act or the rules or of any other law for the time being in force relating to export of goods-\n(i) such goods have been unloaded, or\n(ii) where the appropriate officer is satisfied that it is not practicable to unload such goods, the person-in-charge or his duly authorised agent has given an undertaking, secured by such guarantee or deposit of such amount as the appropriate officer may direct, for bringing back the goods to 1[Bangladesh];\n(d) the agent, if any, delivers to the appropriate officer a declaration in writing to the effect that he will be liable for any penalty imposed under clause 24 of the Table under sub-section (1) of the section 156 and furnishes security for the discharge of the same;\n(e) the agent, if any, delivers to the appropriate officer a declaration in writing to the effect that such agent is answerable for the discharge of all claims for damage or short delivery which may be established by the owner of any goods comprised in the import cargo in respect of such goods.\n(2) An agent delivering a declaration under clause (d) of sub-section (1) shall be liable to all penalties which might be imposed on the person-in-charge of such conveyance under clause 24 of the Table under sub-section (1) of section 156 and an agent delivering a declaration under clause (e) of the sub-section (1) shall be bound to discharge all claims referred to in such declaration.",
+      "entity_concepts": {
+        "Port Clearance": [
+          "The appropriate officer of customs has the authority to refuse port clearance to a vessel or permission for departure to other conveyances until all relevant legal requirements and payments are satisfied."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer is empowered to demand security, guarantees, or deposits to ensure the payment of dues, taxes, and penalties before granting departure permission to a conveyance.",
+          "The officer may require the unloading of goods exported in violation of the law or, if unloading is impractical, demand an undertaking and security for bringing the goods back to Bangladesh."
+        ],
+        "Conveyance": [
+          "Departure permission for any conveyance may be withheld until all port dues, charges, and penalties applicable to the conveyance or its person-in-charge have been settled."
+        ],
+        "Vessel": [
+          "Port clearance for a vessel may be withheld until all applicable port dues, penalties, and taxes related to the vessel, its master, or its cargo have been paid or secured."
+        ],
+        "Agent": [
+          "An agent may provide a written declaration assuming liability for specific penalties and furnish security, thereby becoming responsible for such discharge.",
+          "An agent may provide a written declaration assuming responsibility for claims regarding damage or short delivery of imported goods, becoming legally bound to discharge those claims."
+        ],
+        "Person in Charge": [
+          "The person-in-charge of a conveyance is responsible for the payment of all dues, taxes, and penalties related to the conveyance or its cargo before departure is permitted."
+        ],
+        "Export Goods": [
+          "If export goods are loaded without paying required taxes or duties, or in violation of law, they must be unloaded or the agent must provide an undertaking and security to bring the goods back to Bangladesh."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_395",
+      "entity_sub_entities": {
+        "Port Clearance": [
+          "vessel",
+          "conveyances",
+          "legal requirements",
+          "payments"
+        ],
+        "Appropriate Officer of Customs": [
+          "security",
+          "guarantees",
+          "deposits",
+          "dues",
+          "taxes",
+          "penalties",
+          "conveyance",
+          "goods",
+          "undertaking",
+          "Bangladesh"
+        ],
+        "Conveyance": [
+          "port dues",
+          "charges",
+          "penalties",
+          "person-in-charge"
+        ],
+        "Vessel": [
+          "port dues",
+          "penalties",
+          "taxes",
+          "master",
+          "cargo"
+        ],
+        "Agent": [
+          "written declaration",
+          "penalties",
+          "security",
+          "claims",
+          "damage",
+          "short delivery",
+          "imported goods"
+        ],
+        "Person in Charge": [
+          "dues",
+          "taxes",
+          "penalties",
+          "conveyance",
+          "cargo"
+        ],
+        "Export Goods": [
+          "taxes",
+          "duties",
+          "law",
+          "undertaking",
+          "security",
+          "Bangladesh"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        13,
+        17,
+        30,
+        46,
+        56,
+        71,
+        94,
+        113,
+        115,
+        172,
+        209,
+        222,
+        228,
+        256,
+        280,
+        300,
+        400,
+        703,
+        1022,
+        1063,
+        1190,
+        1224,
+        1703,
+        1734,
+        3819,
+        4539,
+        12181,
+        13422
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,34 @@
+{
+  "group_id": "cluster_00406_t0__X__cluster_00548_t1",
+  "entities": [
+    "factory inspection report",
+    "Customs Agents Licensing Rules 2016"
+  ],
+  "cluster_ids": [
+    406,
+    548
+  ],
+  "thread_ids": [
+    "cluster_00406_t0",
+    "cluster_00548_t1"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the factory inspection report requirements for industrial capacity verification align with the standardized data collection practices observed in regulatory compliance procedures like the Customs Agents Licensing Rules 2016?",
+      "answer": "The factory inspection report [0], [1], [2], [3] functions as a standardized instrument that requires specific identifying information, including the entity's name and address, VAT Registration Number (BIN), and Taxpayer Identification Number (TIN), which mirrors the procedural mandate for standardized forms and legal accountability found in the Customs Agents Licensing Rules 2016.",
+      "entities_involved": [
+        "factory inspection report",
+        "Customs Agents Licensing Rules 2016"
+      ],
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4",
+        "metadata_7"
+      ]
+    }
+  ]
+}

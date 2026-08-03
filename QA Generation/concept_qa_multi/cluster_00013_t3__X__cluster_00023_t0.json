@@ -1,0 +1,36 @@
+{
+  "group_id": "cluster_00013_t3__X__cluster_00023_t0",
+  "entities": [
+    "taxes",
+    "Customs Authority"
+  ],
+  "cluster_ids": [
+    13,
+    23
+  ],
+  "thread_ids": [
+    "cluster_00013_t3",
+    "cluster_00023_t0"
+  ],
+  "num_shared_clauses": 6,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Customs Authority verify the eligibility of tax exemptions for imported industrial equipment and power generation materials?",
+      "answer": "The Customs Authority mandates that importers provide an 'Angikarnama' (undertaking), as specified in [0], [1], [2], [3], [4], and [5]. This formal declaration requires the owner or managing director to certify specific import details—such as the invoice number, bill of entry/lading, and letter of credit—and attest that the imported goods are directly related to the specified industrial purpose, such as power generation, to qualify for the conditional tax exemptions.",
+      "entities_involved": [
+        "taxes",
+        "Customs Authority"
+      ],
+      "clause_text_ids": [
+        "metadata_14",
+        "metadata_3",
+        "metadata_5",
+        "metadata_6",
+        "metadata_7",
+        "metadata_9"
+      ]
+    }
+  ]
+}

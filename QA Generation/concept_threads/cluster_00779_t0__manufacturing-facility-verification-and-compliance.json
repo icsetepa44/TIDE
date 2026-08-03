@@ -1,0 +1,499 @@
+{
+  "cluster_id": 779,
+  "cluster_label": "manufacturing facilities",
+  "thread_index": 0,
+  "thread_id": "cluster_00779_t0",
+  "title": "Manufacturing Facility Verification and Compliance Procedures",
+  "summary": "The regulatory approach to verifying manufacturing facilities has evolved from simple periodic inspections by local VAT officials to a more structured, multi-agency committee-based verification process. While the core requirement of physical site inspection remains, the documentation and oversight mechanisms have become more standardized and rigorous over time.",
+  "evolution": {
+    "oversight_mechanism": "Shifted from unilateral VAT department oversight to a multi-agency committee approach.",
+    "standardization": "Moved from informal reporting to standardized, industry-specific inspection templates (Perishistha-1)."
+  },
+  "timeline": [
+    {
+      "date": "2017-06-01",
+      "instrument": "SRO 132-AIN/2017",
+      "change": "Established the initial requirement for periodic (6-month) physical inspection by local VAT officials to verify production compliance.",
+      "clause_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5"
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "instrument": "SRO 2023",
+      "change": "Formalized the inspection reporting structure with standardized templates (Perishistha-1) for specific industries like switches/sockets.",
+      "clause_ids": [
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 173-AIN/2024",
+      "change": "Introduced a multi-agency committee (Customs, VAT, and Ministry of Industry) for site verification and reporting prior to granting duty concessions.",
+      "clause_ids": [
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 7,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20170601_133-AIN__২০১৭-০৬-০১_clause_5",
+      "resolved_text": "৪। এই প্রজ্ঞাপনের আওতাধীন উপকরণ “পরিশিষ্ট” অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক মোল্ড উৎপাদন করা হইতেছে কিনা তাহা সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার তাহার অধীনস্থ সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার মাধ্যমে প্রতি ৬ (ছয়) মাস অন্তর সরেজমিনে পরিদর্শন করিয়া নিশ্চিত করিবেন।",
+      "entity_concepts": {
+        "Commissioner of Value Added Tax": [
+          "The Commissioner of Value Added Tax is responsible for ensuring that imported materials listed in the annex are being used according to the approved input-output coefficients to manufacture molds.",
+          "The Commissioner must conduct, or direct their subordinate departmental officers to conduct, on-site physical inspections every six months to verify compliance."
+        ],
+        "Value Added Tax Departmental Officer": [
+          "This officer acts as the representative of the Commissioner of Value Added Tax to perform periodic on-site inspections of manufacturing facilities to verify the proper use of imported materials."
+        ],
+        "Input-Output Coefficient": [
+          "This metric serves as the authorized standard against which the actual production of molds is measured to ensure that imported materials are being utilized correctly."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1756",
+      "entity_sub_entities": {
+        "Commissioner of Value Added Tax": [
+          "imported materials",
+          "annex",
+          "input-output coefficients",
+          "molds",
+          "subordinate departmental officers",
+          "on-site physical inspections"
+        ],
+        "Value Added Tax Departmental Officer": [
+          "Commissioner of Value Added Tax",
+          "on-site inspections",
+          "manufacturing facilities",
+          "imported materials"
+        ],
+        "Input-Output Coefficient": [
+          "authorized standard",
+          "production of molds",
+          "imported materials"
+        ]
+      },
+      "clause_clusters": [
+        105,
+        137,
+        138,
+        632,
+        779,
+        2869,
+        3407,
+        4448,
+        5834,
+        10272,
+        11019,
+        12514,
+        13172
+      ],
+      "source_file": "customs_sros_OCR/20170601_133-AIN_/20170601_133-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "কারখানা পরিদর্শন প্রতিবেদন ফরম ও সুপারিশ",
+      "text_id": "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+      "resolved_text": "আমরা নিম্নস্বাক্ষরকারীগণ বিগত ------------বি তারিখ-------------------- নামীয় সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী শিল্প কারখানা সরজমিনে পরিদর্শন করি। পরিদর্শনে প্রাপ্ত তথ্যাবে নিম্নরূপ, যথা:-\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। মূসক নিবন্ধন নম্বর (BIN) :\n৩। মালিক/স্বত্বাধিকারীর নাম ও ঠিকানা (বর্তমান/স্থায়ী) :\n৪। আয়কর সনদ নম্বর (TIN) :\n৫। জমি ও ভবনের বিবরণ :\n(ক) জমি ও ভবন নিজস্ব কিনা :\n(খ) মোট জমির পরিমাণ :\n(গ) কারখানা ভবনের (ওয়্যারহাউসসহ) আয়তন:\n(ঘ) কারখানা ভবনের প্রকৃতি : (পাকা/সেমি পাকা/অন্যান্য) :\n(ঙ) অফিস ভবনের আয়তন :\n(চ) বিদ্যুৎ সংযোগ আছে কিনা :\n৬। কারখানা ভবন ভাড়া হইলে ভাড়া চুক্তির কপি:\n৭। স্থাপিত যন্ত্রপাতির বিবরণ :\n৮। স্থাপিত যন্ত্রপাতি দ্বারা উৎপাদনযোগ্য পণ্যের বিবরণ :\n৯। উৎপাদনযোগ্য পণ্যের উপকরণ-উৎপাদ সহগ সংশ্লিষ্ট ভ্যাট কমিশনারেটে দাখিল ও অনুমোদন করা হইয়াছে কিনা :\n\nউপর্যুক্ত তথ্যাদি পর্যালোচনায় প্রতীয়মান হয় যে, বর্ণিত প্রতিষ্ঠানটি স্থানীয়ভাবে সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনের লক্ষ্যে প্রাথমিক প্রস্তুতি সম্পন্ন করিয়াছে। প্রতিষ্ঠানটিকে প্রজ্ঞাপন এস.আর.ও. নং ১২০-আইন/২০২৩/১৬৪/কাস্টমস, তারিখ: ২১ মে, ২০২৩ খ্রিষ্টাব্দ এর আওতায় প্রজ্ঞাপনে উল্লিখিত পণ্য/যন্ত্রাংশ/উপকরণ রেয়াতি সুবিধায় আমদানির অনুমোদন প্রদানের সুপারিশ করা হইল এবং প্রতিষ্ঠানটিকে এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে, সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী প্রতিষ্ঠান হিসাবে তালিকাভুক্ত করা হইল।\n\nসংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর\nতারিখ:\n\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:",
+      "entity_concepts": {
+        "Business Identification Number": [
+          "The factory inspection report requires the mandatory inclusion of the Business Identification Number to identify the manufacturing facility."
+        ],
+        "Tax Identification Number": [
+          "The factory inspection report requires the mandatory inclusion of the Tax Identification Number for the owner or proprietor of the manufacturing facility."
+        ],
+        "S.R.O. 120-AIN/2023": [
+          "This order provides concessional import facilities for raw materials, parts, or equipment used in the local production of electrical components such as switches, sockets, lamp holders, dimmers, and plugs.",
+          "Manufacturing facilities must be verified and recommended for inclusion under this regulatory order to avail the permitted customs duty concessions."
+        ],
+        "Manufacturing Facility Inspection": [
+          "An inspection process is required to verify infrastructure, ownership, machinery, and production capacity of factories intending to produce electrical items.",
+          "The inspection report serves as the basis for recommending a facility's eligibility for import duty concessions and its formal registration as a recognized manufacturer under the relevant regulatory order."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is responsible for overseeing the regulatory compliance and documentation through its designated representatives during the factory inspection and recommendation process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2477",
+      "entity_sub_entities": {
+        "Business Identification Number": [
+          "Business Identification Number",
+          "manufacturing facility"
+        ],
+        "Tax Identification Number": [
+          "Tax Identification Number",
+          "owner",
+          "proprietor",
+          "manufacturing facility"
+        ],
+        "S.R.O. 120-AIN/2023": [
+          "raw materials",
+          "parts",
+          "equipment",
+          "electrical components",
+          "switches",
+          "sockets",
+          "lamp holders",
+          "dimmers",
+          "plugs",
+          "Manufacturing facilities",
+          "customs duty concessions"
+        ],
+        "Manufacturing Facility Inspection": [
+          "infrastructure",
+          "ownership",
+          "machinery",
+          "production capacity",
+          "factories",
+          "electrical items",
+          "inspection report",
+          "import duty concessions",
+          "recognized manufacturer"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "regulatory compliance",
+          "documentation",
+          "designated representatives",
+          "factory inspection",
+          "recommendation process"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        33,
+        35,
+        54,
+        63,
+        72,
+        91,
+        120,
+        509,
+        559,
+        779,
+        780,
+        838,
+        949,
+        1052,
+        1223,
+        1241,
+        1259,
+        1277,
+        1376,
+        1619,
+        1738,
+        2086,
+        2220,
+        2277,
+        2723,
+        3829,
+        4731,
+        7621,
+        9729,
+        11249,
+        11254
+      ],
+      "source_file": "customs_sros_OCR/20230601_120-AIN_2023_164_Customs/20230601_120-AIN_2023_164_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লিখিত উপকরণ ‘‘পরিশিষ্ট’’ অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক মোন্ড (Mould) বা ডাই (Die) উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার তার অধীনস্থ সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার মাধ্যমে প্রতি ৬ (ছয়) মাস অন্তর সরেজমিনে পরিদর্শন করিয়া নিশ্চিত করিবেন।",
+      "entity_concepts": {
+        "Industrial Mould": [
+          "The importation of production materials must be verified against approved input-output coefficients to ensure compliance in the manufacturing of moulds or dies.",
+          "The Commissioner of the relevant VAT Commissionerate is mandated to conduct physical inspections every six months to confirm the proper utilization of imported inputs for mould or die production."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of the relevant VAT Commissionerate is responsible for ensuring oversight of production processes through periodic physical inspections of the manufacturing facilities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2483",
+      "entity_sub_entities": {
+        "Industrial Mould": [
+          "production materials",
+          "input-output coefficients",
+          "moulds",
+          "dies",
+          "imported inputs"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of the relevant VAT Commissionerate",
+          "manufacturing facilities"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        138,
+        229,
+        779,
+        857,
+        968,
+        1194,
+        1581,
+        2876
+      ],
+      "source_file": "customs_sros_OCR/20230601_121-AIN_2023_165_Customs/20230601_121-AIN_2023_165_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "(২) এয়ারকন্ডিশনার উৎপাদনকারী শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে হইবে এবং উক্ত আবেদন বিবেচনার ক্ষেত্রে দ্বিতীয় সচিব (কাস্টমস নীতি) জাতীয় রাজস্ব বোর্ড, সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনকারী প্রতিষ্ঠান সরেজমিন পরিদর্শন ও যাচাইপূর্বক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস নীতি ও আইসিটি) বরাবর পরিশিষ্ট-১ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন। উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদনপত্রের ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে;",
+      "entity_concepts": {
+        "Air Conditioner Manufacturing Industry": [
+          "Manufacturing units must apply to the National Board of Revenue to receive concessional duty benefits on the import of raw materials and components.",
+          "Applicants are subject to an on-site inspection and verification process by a designated committee to confirm the status of their industrial operations before approval is granted.",
+          "Upon receiving approval, the entity must submit a copy of the authorization document with their bill of entry for each shipment during the customs clearance process."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for reviewing and approving applications for concessional import facilities for air conditioner manufacturing industries.",
+          "A committee formed by the National Board of Revenue, including representatives from relevant VAT and industrial departments, oversees the physical inspection and verification of manufacturing facilities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2586",
+      "entity_sub_entities": {
+        "Air Conditioner Manufacturing Industry": [
+          "manufacturing units",
+          "National Board of Revenue",
+          "concessional duty benefits",
+          "raw materials",
+          "components",
+          "designated committee",
+          "authorization document",
+          "bill of entry",
+          "shipment"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "concessional import facilities",
+          "air conditioner manufacturing industries",
+          "committee",
+          "VAT department",
+          "industrial department",
+          "manufacturing facilities"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        27,
+        42,
+        102,
+        359,
+        636,
+        779,
+        809,
+        1590,
+        1715,
+        1844,
+        1960,
+        5764,
+        9017
+      ],
+      "source_file": "customs_sros_OCR/20240606_167-AIN_2024_19_Customs/20240606_167-AIN_2024_19_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_3",
+      "resolved_text": "পরিশিষ্ট-১\n\nকারখানা পরিদর্শন প্রতিবেদন\n[শর্ত ৩ দ্রষ্টব্য]\n\nআমরা নিম্নস্বাক্ষরকারীগণ বিগত ------------খ্রিঃ তারিখ--------------------\nনামীয় মোটর সাইকেল উৎপাদনকারী/মোটর সাইকেলের পার্টস উৎপাদনকারী শিল্প\nকারখানা সরেজমিনে পরিদর্শন করি। পরিদর্শনে প্রাপ্ত তথ্যাদি নিম্নরূপ, যথা:-\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। মূসক নিবন্ধন নম্বর (BIN) :\n৩। মালিক/স্বত্বাধিকারীর নাম ও ঠিকানা (বর্তমান/স্থায়ী) :\n৪। আয়কর সনদ নম্বর (TIN) :\n৫। জমি ও ভবনের বিবরণ :\n(ক) জমি ও ভবন নিজস্ব কিনা :\n(খ) মোট জমির পরিমাণ :\n(গ) কারখানা ভবনের (ওয়ারহাউসসহ) আয়তন:\n(ঘ) কারখানা ভবনের প্রকৃতি : (পাকা/সেমি পাকা/অন্যান্য) :\n(ঙ) অফিস ভবনের আয়তন :\n(চ) বিদ্যুৎ সংযোগ আছে কিনা :\n৬। কারখানা ভবন ভাড়া হইলে ভাড়া চুক্তির kopi:\n৭। স্থাপিত যন্ত্রপাতির বিবরণ :\n৮। স্থাপিত যন্ত্রপাতি দ্বারা উৎপাদনযোগ্য পণ্যের বিবরণ :\n৯। উৎপাদনযোগ্য পণ্যের উপকরণ-উৎপাদ সহগ সংশ্লিষ্ট ভ্যাট কমিশনারেটে দাখিল\nও অনুমোদন করা হইয়াছে কিনা :\n\nউপর্যুক্ত তথ্যাদি পর্যালোচনায় প্রতীয়মান হয় যে, বর্ণিত প্রতিষ্ঠানটি স্থানীয়ভাবে\nমোটর সাইকেল উৎপাদন/মোটর সাইকেলের পার্টস উৎপাদনের লক্ষ্যে প্রাথমিক প্রস্তুতি\nসম্পন্ন করিয়াছে। প্রতিষ্ঠানটিকে প্রজ্ঞাপন এস.আর.ও. নং -----------------------\nতারিখ: ------------------ এর আওতায় প্রজ্ঞাপনে উল্লিখিত পণ্য/যন্ত্রাংশ/উপকরণ\nরেয়াতি সুবিধায় আমদানির অনুমোদন প্রদানের সুপারিশ করা হইল।\n\nসংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর\nতারিখ ঃ\n\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ ঃ\n\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ ঃ",
+      "entity_concepts": {
+        "Business Identification Number": [
+          "The factory inspection report requires the submission of the Business Identification Number to identify the industrial entity being inspected."
+        ],
+        "Tax Identification Number": [
+          "The factory inspection report mandates the inclusion of the Tax Identification Number of the owner or proprietor for regulatory verification."
+        ],
+        "National Board of Revenue": [
+          "The factory inspection process involves oversight from a representative of the National Board of Revenue, who must sign the final inspection report."
+        ],
+        "Manufacturing Inspection Report": [
+          "This form serves as an official inspection report for motorcycle and motorcycle parts manufacturing facilities to verify their readiness and infrastructure. It documents key operational details including property information, machinery, and compliance with local tax and production standards to support applications for concessionary import facilities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_837",
+      "entity_sub_entities": {
+        "Business Identification Number": [
+          "Business Identification Number"
+        ],
+        "Tax Identification Number": [
+          "Tax Identification Number"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "representative"
+        ],
+        "Manufacturing Inspection Report": [
+          "motorcycle",
+          "motorcycle parts",
+          "manufacturing facilities",
+          "property information",
+          "machinery",
+          "tax standards",
+          "production standards",
+          "concessionary import facilities"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        33,
+        35,
+        91,
+        377,
+        779,
+        1235,
+        2850,
+        2875,
+        4590,
+        6611,
+        11070,
+        12692
+      ],
+      "source_file": "customs_sros_OCR/20170601_155-AIN_/20170601_155-AIN__output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_3",
+      "resolved_text": "পরিশিষ্ট-১\n[শর্ত (২) দ্রষ্টব্য]\nকারখানা পরিদর্শন প্রতিবেদন\n\nআমরা নিম্নস্বাক্ষরকারীগণ বিগত ------------খ্রি. তারিখ--------------------- নামীয় রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী/রেফ্রিজারেটর ও ফ্রিজার এর পার্টস উৎপাদনকারী শিল্প কারখানা সরেজমিন পরিদর্শন করি। পরিদর্শনে প্রাপ্ত তথ্যাদি নিম্নরূপ, যথা:-\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। মূসক নিবন্ধন নম্বর (BIN) :\n৩। মালিক/স্বত্বাধিকারীর নাম ও ঠিকানা (বর্তমান/স্থায়ী) :\n৪। আয়কর সনদ নম্বর (TIN) :\n৫। জমি ও ভবনের বিবরণ :\n(ক) জমি ও ভবন নিজস্ব কিনা :\n(খ) মোট জমির পরিমাণ :\n(গ) কারখানা ভবনের (ওয়্যারহাউসসহ) আয়তন :\n(ঘ) কারখানা ভবনের প্রকৃতি : (পাকা/আধাপাকা/অন্যান্য) :\n(ঙ) অফিস ভবনের আয়তন :\n(চ) বিদ্যুৎ সংযোগ আছে কিনা :\n৬। কারখানা ভবন ভাড়া হইলে ভাড়া চুক্তির কপি:\n৭। স্থাপিত যন্ত্রপাতির বিবরণ :\n৮। স্থাপিত যন্ত্রপাতি দ্বারা উৎপাদনযোগ্য পণ্যের বিবরণ :\n৯। উৎপাদনযোগ্য পণ্যের উপকরণ-উৎপাদ সহগ সংশ্লিষ্ট ভ্যাট কমিশনারেটে দাখিল ও অনুমোদন করা হইয়াছে কিনা :\n\nউপর্যুক্ত তথ্যাদি পর্যালোচনায় প্রতীয়মান হয় যে, বর্ণিত প্রতিষ্ঠানটি স্থানীয়ভাবে রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী/রেফ্রিজারেটর ও ফ্রিজার এর পার্টস উৎপাদনের লক্ষ্যে প্রাথমিক প্রস্তুতি সম্পন্ন করিয়াছে। প্রতিষ্ঠানটিকে প্রজ্ঞাপন এস.আর.ও. নং ১৯৪-আইন/২০২৪/৪৬/কাস্টমস, তারিখ: ২৯ মে, ২০২৪ খ্রিষ্টাব্দ এর আওতায় প্রজ্ঞাপনে উল্লিখিত পণ্য/যন্ত্রাংশ/উপকরণ রেয়াতি সুবিধায় আমদানির অনুমোদন প্রদানের সুপারিশ করা হইল এবং প্রতিষ্ঠানটিকে এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে, রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১/রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২/ভেন্ডর হিসাবে তালিকাভুক্ত করা হইল।\n\nসংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর\nতারিখ:\n\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:",
+      "entity_concepts": {
+        "Business Identification Number": [
+          "The factory inspection report requires the submission of the Business Identification Number to verify the industrial facility's registration status."
+        ],
+        "Tax Identification Number": [
+          "The factory inspection report mandates the provision of the Tax Identification Number for the owner or proprietor of the industrial facility."
+        ],
+        "S.R.O. 194-AIN/2024": [
+          "This notification provides the legal framework under which refrigerator and freezer manufacturing facilities or their parts manufacturers may be granted concessionary import benefits for raw materials and components.",
+          "The inspection report serves as the basis for recommending that a facility be granted import privileges under this notification upon being categorized as a qualified manufacturer or vendor."
+        ],
+        "National Board of Revenue": [
+          "Representatives of the National Board of Revenue are required to certify and sign the factory inspection report to validate the findings and recommendations for concessionary benefits."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1442",
+      "entity_sub_entities": {
+        "Business Identification Number": [
+          "Business Identification Number"
+        ],
+        "Tax Identification Number": [
+          "Tax Identification Number"
+        ],
+        "S.R.O. 194-AIN/2024": [
+          "refrigerator",
+          "freezer",
+          "manufacturing facilities",
+          "parts manufacturers",
+          "raw materials",
+          "components"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        35,
+        42,
+        91,
+        779,
+        877,
+        2058,
+        3033,
+        10517
+      ],
+      "source_file": "customs_sros_OCR/20240606_194-AIN_2024_66_Customs/20240606_194-AIN_2024_66_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_7",
+      "resolved_text": "পরিশিষ্ট-১\nকারখানা পরিদর্শন প্রতিবেদন\n[শর্ত (২) দ্রষ্টব্য]\n\nআমরা নিম্নস্বাক্ষরকারীগণ বিগত . . . . . . . . . . . . . - খ্রিঃ তারিখ . . . . . . . . . . . . . . . . . . . . . . .\nনামীয় এয়ারকন্ডিশনার উৎপাদনকারী বা সংযোজনকারী শিল্প কারখানা সরেজমিন পরিদর্শন করি। পরিদর্শনে প্রাপ্ত তথ্যাদি নিম্নরূপ, যথা:-\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। মূসক নিবন্ধন নম্বর (BIN) :\n৩। মালিক/স্বত্বাধিকারীর নাম ও ঠিকানা\n(বর্তমান/স্থায়ী) :\n৪। আয়কর সনদ নম্বর (TIN) :\n৫। জমি ও ভবনের বিবরণ:\n(ক) জমি ও ভবন নিজস্ব কিনা:\n(খ) মোট জমির পরিমাণ:\n(গ) কারখানা ভবনের\n(ওয়্যারহাউসসহ) আয়তন:\n(ঘ) কারখানা ভবনের প্রকৃতি: (পাকা/সেমি পাকা/অন্যান্য):\n(ঙ) অফিস ভবনের আয়তন:\n(চ) বিদ্যুৎ সংযোগ আছে কিনা:\n৬। কারখানা ভবন ভাড়া হইলে ভাড়া চুক্তির কপি:\n৭। স্থাপিত যন্ত্রপাতির বিবরণ:\n৮। স্থাপিত যন্ত্রপাতি দ্বারা উৎপাদনযোগ্য পণ্যের বিবরণ:\n৯। উৎপাদনযোগ্য পণ্যের উপকরণ-উৎপাদ সহগ\nসংশ্লিষ্ট ভ্যাট কমিশনারেটে দাখিল ও\nঅনুমোদন করা হইয়াছে কিনা :\n\nউপর্যুক্ত তথ্যাদি পর্যালোচনায় প্রতীয়মান হয় যে, বর্ণিত প্রতিষ্ঠানটি স্থানীয়ভাবে এয়ারকন্ডিশনার উৎপাদনের লক্ষ্যে প্রাথমিক প্রস্তুতি সম্পন্ন করিয়াছে। প্রতিষ্ঠানটিকে প্রজ্ঞাপন [এস,আর,ও নং ২০০-আইন/২০২২/১০৮/কাস্টমস, তারিখ: ২৮ জুন, ২০২২ খ্রিষ্টাব্দ] এর আওতায় প্রজ্ঞাপনে উল্লিখিত পণ্য বা যন্ত্রাংশ বা উপকরণ রেয়াতি সুবিধায় আমদানির অনুমোদন প্রদানের সুপারিশ করা হইল।",
+      "entity_concepts": {
+        "Business Identification Number": [
+          "The factory inspection report requires the submission of the Business Identification Number to verify the registration status of the air conditioner manufacturing or assembly facility."
+        ],
+        "Tax Identification Number": [
+          "The factory inspection report requires the provision of the Tax Identification Number as part of the formal documentation for industrial site verification."
+        ],
+        "S.R.O. 200-AIN/2022/108/CUSTOMS": [
+          "This Statutory Regulatory Order provides the legal framework under which manufacturing facilities can be recommended for concessional import privileges for specified goods, parts, or raw materials used in air conditioner production."
+        ],
+        "Value Added Tax": [
+          "The inspection process confirms whether the manufacturing facility has submitted and obtained approval for their input-output coefficients from the relevant Value Added Tax Commissionerate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1279",
+      "entity_sub_entities": {
+        "Business Identification Number": [
+          "Business Identification Number",
+          "air conditioner manufacturing facility",
+          "assembly facility"
+        ],
+        "Tax Identification Number": [
+          "Tax Identification Number",
+          "industrial site"
+        ],
+        "S.R.O. 200-AIN/2022/108/CUSTOMS": [
+          "manufacturing facilities",
+          "goods",
+          "parts",
+          "raw materials",
+          "air conditioner"
+        ],
+        "Value Added Tax": [
+          "input-output coefficients",
+          "Value Added Tax Commissionerate"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        9,
+        12,
+        35,
+        54,
+        91,
+        138,
+        199,
+        543,
+        779,
+        3440,
+        5419,
+        9048,
+        11751
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

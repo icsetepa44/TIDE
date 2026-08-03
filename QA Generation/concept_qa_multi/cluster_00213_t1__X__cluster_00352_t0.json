@@ -1,0 +1,53 @@
+{
+  "group_id": "cluster_00213_t1__X__cluster_00352_t0",
+  "entities": [
+    "Assistant Commissioner",
+    "Deputy Commissioner"
+  ],
+  "cluster_ids": [
+    213,
+    352
+  ],
+  "thread_ids": [
+    "cluster_00213_t1",
+    "cluster_00352_t0"
+  ],
+  "num_shared_clauses": 12,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Regarding the supervision of customs clearance and the verification of compliance conditions, what shared role do the Assistant Commissioner and the Deputy Commissioner play in the approval process?",
+      "answer": "Both the Assistant Commissioner and the Deputy Commissioner serve as the supervising authority responsible for approving customs clearances after the customs officer has verified that all relevant conditions (such as import and taxation requirements) have been met, as stated in clauses [0], [2], [3], [4], [5], [6], [7], [8], [9], [10], and [11].",
+      "entities_involved": [
+        "Assistant Commissioner",
+        "Deputy Commissioner"
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How are the Assistant Commissioner and the Deputy Commissioner expected to coordinate with VAT offices to ensure efficient customs clearance?",
+      "answer": "To avoid delays in customs clearance, both the Assistant Commissioner and the Deputy Commissioner are authorized to communicate with the Deputy Commissioner or Assistant Commissioner of the relevant VAT area via phone, fax, or email to verify the accuracy of information regarding compliance conditions, as specified in clause [1].",
+      "entities_involved": [
+        "Assistant Commissioner",
+        "Deputy Commissioner"
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6"
+      ]
+    }
+  ]
+}

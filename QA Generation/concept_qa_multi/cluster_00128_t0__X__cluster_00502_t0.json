@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00128_t0__X__cluster_00502_t0",
+  "entities": [
+    "Third Schedule",
+    "sections"
+  ],
+  "cluster_ids": [
+    128,
+    502
+  ],
+  "thread_ids": [
+    "cluster_00128_t0",
+    "cluster_00502_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the National Board of Revenue utilize the relationship between specific sections of the Customs Act, 1969 and the Third Schedule to exercise its rule-making authority?",
+      "answer": "The National Board of Revenue exercises its regulatory authority by reading specific sections (such as 207, 219, 37, or 39) of the Customs Act, 1969 in conjunction with relevant items of the Third Schedule to issue or amend customs rules, as evidenced in clauses [0], [2], and [3].",
+      "entities_involved": [
+        "Third Schedule",
+        "sections"
+      ],
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1",
+        "metadata_2",
+        "metadata_3"
+      ]
+    }
+  ]
+}

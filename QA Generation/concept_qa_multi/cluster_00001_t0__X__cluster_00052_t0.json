@@ -1,0 +1,48 @@
+{
+  "group_id": "cluster_00001_t0__X__cluster_00052_t0",
+  "entities": [
+    "goods",
+    "import duty"
+  ],
+  "cluster_ids": [
+    1,
+    52
+  ],
+  "thread_ids": [
+    "cluster_00001_t0",
+    "cluster_00052_t0"
+  ],
+  "num_shared_clauses": 7,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under the regulatory framework established by the SROs such as [6], how does the government grant relief to specific goods regarding import duty?",
+      "answer": "The government, in the public interest and in consultation with the National Board of Revenue, exercises its power under section 19(1) of the Customs Act, 1969, to grant exemptions for specific goods. For instance, per clause [6], this authority is used to provide exemptions from import duty exceeding 5% for goods identified by their respective Heading and H.S. Code in the First Schedule.",
+      "entities_involved": [
+        "goods",
+        "import duty"
+      ],
+      "clause_text_ids": [
+        "20151021_306-AIN_2015_0-Customs_২০১৫-১০-২১_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What legal basis allows the government to grant import duty exemptions for specific goods listed in the First Schedule of the Customs Act, 1969?",
+      "answer": "The government grants these exemptions by exercising powers under section 19(1) of the Customs Act, 1969, and section 14(1) of the Value Added Tax Act, 1991, in consultation with the National Board of Revenue, as cited across clauses [0], [1], [2], [3], [4], and [5].",
+      "entities_involved": [
+        "goods",
+        "import duty"
+      ],
+      "clause_text_ids": [
+        "20120607_157-AIN_2012_2385-Customs_07 June, 2012_clause_1",
+        "20130606_151-AIN_2013_2438-Customs_২০১৩-০৬-০৬_clause_1",
+        "20140605_136-AIN_2014_2500-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20150604_145-AIN_2015_25-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_146-AIN_2015_26-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150701_203-AIN_2015_40-Customs_১ জুলাই, ২০১৫_clause_1"
+      ]
+    }
+  ]
+}

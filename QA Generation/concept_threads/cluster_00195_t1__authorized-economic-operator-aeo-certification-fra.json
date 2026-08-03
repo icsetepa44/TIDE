@@ -1,0 +1,559 @@
+{
+  "cluster_id": 195,
+  "cluster_label": "certification",
+  "thread_index": 1,
+  "thread_id": "cluster_00195_t1",
+  "title": "Authorized Economic Operator (AEO) Certification Framework",
+  "summary": "This thread covers the formalization of the AEO program, evolving from a basic application process to a structured regulatory framework involving renewal, audit, and suspension protocols.",
+  "evolution": {
+    "structure": "Transitioned from a static recognition status to a dynamic, time-bound certification requiring periodic renewal and audit.",
+    "governance": "Introduced formal risk-based monitoring and automated notification systems for status changes."
+  },
+  "timeline": [
+    {
+      "date": "2025-01-21",
+      "instrument": "AEO Regulations 2024",
+      "change": "Established risk management and suspension/cancellation protocols for AEO status.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "AEO Regulations 2024",
+      "change": "Defined specific timelines for renewal, audit, and formal notification of status changes.",
+      "clause_ids": [
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    }
+  ],
+  "num_member_objects": 8,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_104",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+      "resolved_text": "১৫. স্বীকৃতি সনদপ্রাপ্ত কোনো প্রতিষ্ঠানের যে কোনো পণ্যচালানই বিশ্বাসযোগ্য গোয়েন্দা তথ্যের ভিত্তিতে যথোপযুক্ত কাস্টমস কর্মকর্তা কায়িক পরীক্ষা বা ক্ষেত্র মতো পরিদর্শন বা শুল্কায়ন করতে পারবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Consignments belonging to an authorized entity may still be subject to physical examination or inspection by customs officials if credible intelligence information is received.",
+          "The certification held by an institution does not preclude customs authorities from performing standard assessment or inspection duties when specific intelligence warrants such action."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer is empowered to conduct physical examination, inspection, or assessment of goods belonging to certified institutions based on credible intelligence reports."
+        ],
+        "Customs Clearance": [
+          "This process, including physical inspection and assessment, remains applicable to certified entities whenever credible intelligence suggests the need for such intervention."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_894",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "consignments",
+          "authorized entity",
+          "customs officials",
+          "credible intelligence information",
+          "certification",
+          "institution"
+        ],
+        "Appropriate Officer of Customs": [
+          "officer",
+          "goods",
+          "certified institutions",
+          "credible intelligence reports"
+        ],
+        "Customs Clearance": [
+          "physical inspection",
+          "assessment",
+          "certified entities",
+          "credible intelligence"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        18,
+        51,
+        87,
+        114,
+        195,
+        219,
+        461,
+        466,
+        750,
+        825,
+        1520,
+        1941,
+        2542,
+        3695
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_141",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+      "resolved_text": "২. কোনো স্বীকৃতি সনদ স্থগিত বা বাতিল বা শ্রেণি অবনমন করা হলে সেন্টার উক্ত বাতিল বা অবনমনের সিদ্ধান্ত তাৎক্ষণিকভাবে পরিশিষ্ট- ৬.৬ মোতাবেক সকল কাস্টমস স্টেশন, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট, বোর্ডের কাস্টমস অটোমেশন শাখা, সিস্টেমস ম্যানেজার এবং প্রযোজ্য অন্যান্য দপ্তরকে অবহিত করবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The Center is mandated to immediately notify all relevant customs offices regarding the suspension, cancellation, or downgrading of an authorized economic operator's certification.",
+          "Notification procedures must follow the specific operational template defined in the relevant appendix of the standing order."
+        ],
+        "National Board of Revenue": [
+          "The Customs Automation Branch of the Board is a primary recipient of information regarding the status of entity certifications to ensure system-wide coordination."
+        ],
+        "Customs Risk Management": [
+          "The Customs Risk Management Commissionerate must be immediately updated whenever an entity's status is revoked or downgraded to maintain accurate risk profiles."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The Systems Manager is responsible for updating the customs automation infrastructure based on notifications regarding changes to operator status."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_931",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "customs offices",
+          "certification",
+          "operational template",
+          "appendix",
+          "standing order"
+        ],
+        "National Board of Revenue": [
+          "Customs Automation Branch",
+          "entity certifications"
+        ],
+        "Customs Risk Management": [
+          "Customs Risk Management Commissionerate",
+          "risk profiles"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Systems Manager",
+          "customs automation infrastructure",
+          "operator status"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        18,
+        66,
+        141,
+        167,
+        195,
+        259,
+        389,
+        976,
+        1177,
+        1364,
+        1758,
+        3711,
+        4456,
+        7750,
+        10360
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_43",
+      "clause_title": "ফরম-ন",
+      "text_id": "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+      "resolved_text": "ফরম-ন\n[বিধি ২০(৩) দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅথরাইজড ইকোনমিক অপারেটর সেন্টার\n\nনথি নং- তারিখ:---------------\n\nবিষয়: বিদ্যমান অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে স্বীকৃতি প্রাপ্ত প্রতিষ্ঠান হিসাবে প্রযোজ্য শর্তাবলি পূরণের সময় বর্ধিতকরণ।\n\nসূত্র: ১। [প্রতিষ্ঠানের আবেদন (ফরম-ধ)]\n\nউপর্যুক্ত বিষয় ও সূত্রের আলোকে জানানো যাইতেছে যে, আপনার/আপনাদের প্রতিষ্ঠানের (প্রতিষ্ঠানের নাম, ঠিকানা, সনদ নং- -------------, তারিখ: -----------------) অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ এর বিধি ২০(৩) এর আওতায় বিদ্যমান অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে স্বীকৃতি প্রাপ্ত প্রতিষ্ঠান হিসাবে প্রযোজ্য শর্তাবলি পূরণের সময়সীমা আগামী --------------- তারিখ (সর্বোচ্চ ৬ মাস) পর্যন্ত বর্ধিত করা হইল।\n\nউক্ত সময়সীমার মধ্যে প্রযোজ্য শর্তাবলি পরিপালনে ব্যর্থ হইলে আপনার/আপনাদের প্রতিষ্ঠানের স্বীকৃতি সনদ স্থগিত বা বাতিলের উদ্যোগ গ্রহণ করা হইবে।\n\nমহাপরিচালক/দায়িত্বপ্রাপ্ত কর্মকর্তা\nঅথরাইজড ইকোনমিক অপারেটর (AEO) সেন্টার\n\n(প্রতিষ্ঠানের নাম, ঠিকানা, সনদ নং, তারিখ)",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The Authorized Economic Operator Center allows for an extension of the time limit for existing certified entities to fulfill applicable operational conditions.",
+          "The maximum duration for this extension is set to a specific period, and failure to comply with the required conditions within this timeframe will result in the suspension or cancellation of the entity's certification.",
+          "This authority is responsible for issuing official extensions regarding the fulfillment of conditions for recognized Authorized Economic Operators and holds the power to suspend or revoke certifications upon non-compliance."
+        ],
+        "Authorized Economic Operator (Recognition and Management) Rules 2024": [
+          "Rule 20(3) of these rules provides the legal framework under which the Authorized Economic Operator Center may grant extensions for meeting certification requirements."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1108",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "Authorized Economic Operator Center",
+          "certified entities",
+          "operational conditions",
+          "time limit",
+          "certification",
+          "Authorized Economic Operators"
+        ],
+        "Authorized Economic Operator (Recognition and Management) Rules 2024": [
+          "Rule 20(3)",
+          "Authorized Economic Operator Center",
+          "certification requirements"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        86,
+        124,
+        195,
+        545,
+        1490,
+        1940,
+        1941,
+        2165,
+        2236
+      ],
+      "source_file": "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+      "clause_date": "2025-02-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "অথরাইজড ইকোনমিক অপারেটর (AEO) সনদ এর মেয়াদ, নবায়ন ও পরিবর্তন",
+      "text_id": "20250217_2024_2024-06-06_clause_13",
+      "resolved_text": "১৩। অথরাইজড ইকোনমিক অপারেটর (AEO) সনদ এর মেয়াদ, নবায়ন ও পরিবর্তন।—(১) অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি সনদের মেয়াদ হইবে ১ (এক) বৎসর।\n(২) অথরাইজড ইকোনমিক অপারেটর সনদপ্রাপ্ত কোনো প্রতিষ্ঠান তাহার অথরাইজড ইকোনমিক অপারেটরের সুবিধা অব্যাহত রাখিতে চাহিলে তাহাকে উপ-বিধি (১) এর আওতায় বর্ণিত মেয়াদ অতিক্রান্তের ৩০ (ত্রিশ) দিনের মধ্যে সনদ নবায়নের জন্য পরিশিষ্ট-৪ অনুযায়ী প্রয়োজনীয় হালনাগাদ দলিলাদিসহ সেন্টার বরাবর আবেদন করিতে হইবে।\n(৩) প্রয়োজনীয় দলিলাদিসহ আবেদন প্রাপ্তির পরে সেন্টার উহা যাচাই-বাছাই ও প্রয়োজনীয় অনসাইট খালাসোত্তর নিরীক্ষা সম্পন্নপূর্বক যথাযথ প্রাপ্তি সাপেক্ষে ৬০ (ষাট) দিনের মধ্যে সনদ নবায়ন করিবেন এবং প্রতি মাসের দশ তারিখের মধ্যে পূর্ববর্তী মাসের সকল নবায়নের হালনাগাদ তথ্য কমিটিকে অবহিত করিবে।\n(৪) অথরাইজড ইকোনমিক অপারেটরের সুবিধাপ্রাপ্ত কোনো প্রতিষ্ঠান যথাসময়ে নবায়নের আবেদন না করিলে অথরাইজড ইকোনমিক অপারেটর সুবিধা সাময়িক স্থগিত করা যাইবে:\nতবে শর্ত থাকে যে, নবায়নের আবেদন দাখিলের জন্য প্রযোজ্য ৩০ (ত্রিশ) দিবস এবং পূর্ণাঙ্গ আবেদন দাখিলের পরে সেন্টার কর্তৃক উহা যাচাই-বাছাই ও অনসাইট খালাসোত্তর নিরীক্ষা কার্যক্রমের জন্য প্রযোজ্য ৬০ (ষাট) দিবস সময় এবং নিরীক্ষাকারী দপ্তরের অনিবার্য কোনো কারণে নিরীক্ষায় বিলম্ব ঘটিলে প্রতিষ্ঠানের জন্য প্রযোজ্য অথরাইজড ইকোনমিক অপারেটরের সুবিধা অব্যাহত রাখা যাইবে।\n(৫) অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি সনদপ্রাপ্ত প্রতিষ্ঠানকে উহার স্বীকৃতি প্রাপ্তির আবশ্যকীয় শর্তাবলি বা মানদণ্ড বজায় রাখিতে হইবে এবং ব্যবসায়িক নিম্নবর্ণিত পরিবর্তনের তথ্য সেন্টারকে ফরম-ণ অনুযায়ী অবহিত করিতে হইবে, যথা:—\n(ক) প্রতিষ্ঠানের আইনি সত্তার কোনো পরিবর্তন;\n(খ) ব্যবসায়ের নাম বা ঠিকানা পরিবর্তনের তথ্য;\n(গ) ব্যবসায়ের প্রকৃতি পরিবর্তনে তথ্য (যেমন—উৎপাদনকারী, রপ্তানিকারক, বাণিজ্যিক বিক্রয়কারী, প্রভৃতি);\n(ঘ) প্রতিষ্ঠানের হিসাব পদ্ধতি বা কম্পিউটার সিস্টেমের কোনো পরিবর্তন;\n(ঙ) কাস্টমস সংশ্লিষ্ট কার্যে জড়িত ঊর্ধ্বতন কোনো কর্মকর্তার পরিবর্তন;\n(চ) ব্যবসায়ের স্থানের পরিবর্তন (যেমন— নতুন স্থান যুক্তকরণ বা শাখা খোলা বা পুরাতন কোনো স্থান বাতিল বা শাখা বন্ধকরণ, প্রভৃতি);\n(ছ) পণ্য মজুত রাখার স্থানের কোনো পরিবর্তন (যেমন— সম্প্রসারণ, সংযোজন, বিয়োজন অথবা নতুন মজুত স্থান যুক্তকরণ বা পুরাতন মজুত স্থান বিয়োজন, প্রভৃতি); এবং\n(জ) অন্য কোনো গুরুতর পরিবর্তন।\n(৬) উপ-বিধি (৫) এ উল্লিখিত পরিবর্তন সংঘটিত হইলে প্রতিষ্ঠান কর্তৃপক্ষ উক্ত ঘটনা সংঘটনের ৭ (সাত) দিনের মধ্যে সেন্টারকে অবহিত করিবে:\nতবে শর্ত থাকে যে, প্রতিষ্ঠানের আইনগত সত্তার পরিবর্তন ঘটিলে উক্ত নতুন সত্তা কর্তৃক অথরাইজড ইকোনমিক অপারেটরের সনদ পরিবর্তনের জন্য সেন্টার বরাবর আবেদন করিতে হইবে এবং উক্ত আবেদন পর্যালোচনামূলক যথাযথ বিবেচিত হইলে এবং নতুন আইনগত সত্তা কর্তৃক যাবতীয় আইনানুগ শর্ত ও আনুষ্ঠানিকতা পরিপালন করা হইলে পূর্বের সনদ বাতিলপূর্বক নতুন আইনগত সত্তার অনুকূলে নতুন স্বীকৃতি সনদ জারি করা যাইবে।\n(৭) সনদপ্রাপ্ত কোনো প্রতিষ্ঠান কর্তৃক কাস্টমস সংক্রান্ত কোনো ত্রুটি উদ্ঘাটিত হইলে উহা অবিলম্বে সেন্টারকে এবং, প্রযোজ্য ক্ষেত্রে, সংশ্লিষ্ট কাস্টমস স্টেশনের অথরাইজড ইকোনমিক অপারেটরের দায়িত্বপ্রাপ্ত কর্মকর্তাকে ফরম-ত অনুসারে অবহিত করিতে হইবে:\nতবে শর্ত থাকে যে, স্বতঃপ্রণোদিত অবহিতকরণ হিসাবে উক্ত ত্রুটির জন্য অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতিতে উহা কোনো প্রভাব ফেলিবে না:\nআরও শর্ত থাকে যে, উক্ত ত্রুটির ফলে গুরুতর অপরাধ (যেমন— শুল্ক-কর ফাঁকি বা চোরাচালান) সংঘটিত হইলে প্রতিষ্ঠানের অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি সনদ স্থগিতসহ অপরাপর আইনানুগ ব্যবস্থা যথানিয়মে প্রযোজ্য হইবে।\n(৮) উপ-বিধি (৭) এর আওতায় কোনো ত্রুটি উদ্ঘাটিত হইলে সনদপ্রাপ্ত প্রতিষ্ঠানকে উহার যথাযথ কারণ পর্যালোচনা করিতে হইবে এবং উহার পুনরাবৃত্তি রোধকল্পে প্রয়োজনীয় নিরাপত্তামূলক ব্যবস্থা গ্রহণ করিতে হইবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The recognition certificate for an Authorized Economic Operator is valid for a period of one year.",
+          "An Authorized Economic Operator must maintain the mandatory standards and criteria required for the certification at all times.",
+          "The certification or benefits provided to an Authorized Economic Operator may be temporarily suspended if the renewal application is not submitted within the specified timeframe.",
+          "An Authorized Economic Operator is required to report any identified customs-related errors to the designated center and relevant customs station immediately, though self-reported errors will not negatively impact the certification status unless they involve serious offences like duty evasion or smuggling.",
+          "Upon identifying a customs error, an Authorized Economic Operator must investigate the root cause and implement preventative measures to ensure it does not recur.",
+          "The Authorized Economic Operator (AEO) Center is responsible for receiving renewal applications, which must be submitted within a specific number of days following the expiry of the current certification.",
+          "The center must conduct verification and onsite post-clearance audits within a defined period upon receiving a complete renewal application to process the certification renewal.",
+          "Entities must report significant business changes, such as legal status, address, business nature, or management structure, to the center using the prescribed format.",
+          "The center must be notified within a specific time period if there is a change in the legal entity of the Authorized Economic Operator, at which point the center may cancel the old certificate and issue a new one if all legal requirements are met."
+        ],
+        "Authorized Economic Operator (AEO) Committee": [
+          "The Authorized Economic Operator (AEO) Center is required to provide updated information regarding all renewals to the Authorized Economic Operator (AEO) Committee by the tenth day of every month."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1126",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "recognition certificate",
+          "mandatory standards",
+          "criteria",
+          "certification",
+          "benefits",
+          "renewal application",
+          "customs-related errors",
+          "designated center",
+          "customs station",
+          "duty evasion",
+          "smuggling",
+          "root cause",
+          "preventative measures",
+          "AEO Center",
+          "onsite post-clearance audits",
+          "legal status",
+          "address",
+          "business nature",
+          "management structure",
+          "legal entity",
+          "old certificate",
+          "new certificate"
+        ],
+        "Authorized Economic Operator (AEO) Committee": [
+          "AEO Center",
+          "renewals",
+          "Authorized Economic Operator (AEO) Committee"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        25,
+        124,
+        139,
+        174,
+        195,
+        211,
+        278,
+        392,
+        541,
+        587,
+        1267,
+        1617,
+        2144,
+        2625,
+        2825,
+        2827,
+        2904,
+        4451,
+        4569,
+        4680,
+        6116,
+        9672,
+        9696,
+        11597
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_75",
+      "clause_title": "অথরাইজড ইকোনমিক অপারেটর (AEO) স্বীকৃতি বাতিল/পুনর্বহালের বিষয় অবহিতকরণ",
+      "text_id": "20250217_2024_2024-06-06_clause_75",
+      "resolved_text": "ফরম-দ\n[বিধি ১৭(৬) দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅথরাইজড ইকোনমিক অপারেটর সেন্টার\n\nনথি নং- --------------------\nতারিখ:-------------------\n\nবিষয়: অথরাইজড ইকোনমিক অপারেটর (AEO) স্বীকৃতি বাতিল/পুনর্বহালের বিষয় অবহিতকরণ।\n\nসূত্র: ১। [স্থগিত ও কারণ দর্শানো নোটিশের সূত্র]\n২। [কারণ দর্শানো নোটিশের জবাব (যদি থাকে)]\n\nউপর্যুক্ত বিষয়ের আলোকে জানানো যাইতেছে যে, আপনার/আপনাদের প্রতিষ্ঠানের (প্রতিষ্ঠানের নাম, ঠিকানা, সনদ নং, তারিখ) অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ এর আওতায় প্রদত্ত স্বীকৃতি সনদ একই বিধিমালার বিধি ১৭(১) অনুসারে নিম্নবর্ণিত অভিযোগ বা কারণের ভিত্তিতে ----------- তারিখে স্থগিত করা হইয়াছিল, যথা :—\n১। ........................\n২। ........................\n৩। ........................\n\nউক্ত অভিযোগ/কারণের বিষয়ে আপনাকে/আপনাদেরকে উপযুক্ত জবাব প্রেরণের জন্য সূত্রোক্ত ১ নং পত্রের মাধ্যমে অবহিত করা হইয়াছিল। উক্ত অভিযোগ/কারণের বিষয়ে আপনি/আপনারা কোনো জবাব প্রেরণ করেন নাই/ সূত্রোক্ত ২ নং পত্রের মাধ্যমে সন্তোষজনক ব্যাখ্যা প্রদান করিতে পারেন নাই/ সন্তোষজনক জবাব প্রদান করিয়াছেন।\n\nউপর্যুক্ত বিষয়াদি পর্যালোচনামূলক অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ বিধি ১৭(১) অনুসারে আনীত অভিযোগ বা কারণ প্রমাণিত হওয়ায়/ না হওয়ায় অথরাইজড ইকোনমিক অপারেটর কমিটির বিধিমালার বিধি ১৭(৫) অনুযায়ী গৃহীত সিদ্ধান্ত মোতাবেক আপনার/আপনাদের স্বীকৃতি সনদ (নম্বর ও তারিখ) এতদ্বারা স্থায়ীভাবে বাতিল/ অথরাইজড ইকোনমিক অপারেটর (AEO) শ্রেণি অবনমন/ স্বীকৃতি সনদ পুনর্বহাল করা হইল।\n\nমহাপরিচালক/দায়িত্বপ্রাপ্ত কর্মকর্তা\nঅথরাইজড ইকোনমিক অপারেটর (AEO) সেন্টার\n\n(প্রতিষ্ঠানের নাম, ঠিকানা, সনদ নং, তারিখ)",
+      "entity_concepts": {
+        "Authorized Economic Operator (AEO) Rules 2024": [
+          "These rules establish the procedural framework for issuing, suspending, and cancelling Authorized Economic Operator certification.",
+          "The rules define the specific conditions under which a certification may be suspended, reviewed, and either permanently cancelled, downgraded, or reinstated by the designated committee."
+        ],
+        "Authorized Economic Operator": [
+          "This authority is responsible for issuing official notifications regarding the status of an Authorized Economic Operator, including notices of suspension, cancellation, or reinstatement.",
+          "An operator facing suspension must be provided with a show-cause notice and an opportunity to provide a satisfactory explanation for the alleged violations before a final decision is made.",
+          "The certification of an operator may be subject to permanent cancellation, downgrading, or reinstatement depending on the findings of the review process."
+        ],
+        "Authorized Economic Operator (AEO) Committee": [
+          "This committee is empowered to review evidence and explanations provided by operators regarding alleged violations and to make final decisions on the status of their certification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1188",
+      "entity_sub_entities": {
+        "Authorized Economic Operator (AEO) Rules 2024": [
+          "Authorized Economic Operator certification",
+          "designated committee"
+        ],
+        "Authorized Economic Operator": [
+          "official notifications",
+          "notices of suspension",
+          "cancellation",
+          "reinstatement",
+          "show-cause notice",
+          "certification"
+        ],
+        "Authorized Economic Operator (AEO) Committee": [
+          "evidence",
+          "explanations",
+          "certification"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        174,
+        195,
+        263,
+        301,
+        378,
+        577,
+        636,
+        756,
+        1639,
+        2224,
+        2489,
+        10124
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "অধ্যায়-১০: অথরাইজড ইকোনমিক অপারেটর-সনদ নবায়ন, পরিবর্তন, নিরীক্ষা ও মূল্যায়ন",
+      "text_id": "metadata_15",
+      "resolved_text": "অধ্যায়-১০\nঅথরাইজড ইকোনমিক অপারেটর-সনদ নবায়ন, পরিবর্তন, নিরীক্ষা ও মূল্যায়ন\nঅথরাইজড ইকোনমিক অপারেটর-এর স্বীকৃতি সনদ নবায়ন, পরিবর্তন, নিরীক্ষা ও মূল্যায়ন সংক্রান্ত কর্মপন্থা নিম্নরূপ হবে:",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "This chapter establishes the operational procedures for the renewal, modification, audit, and evaluation of the status of an Authorized Economic Operator.",
+          "Customs leadership is instructed to follow these prescribed administrative steps when managing the certification and compliance review of recognized entities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_127",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "renewal",
+          "modification",
+          "audit",
+          "evaluation",
+          "status",
+          "Customs leadership",
+          "administrative steps",
+          "certification",
+          "compliance review",
+          "recognized entities"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        195,
+        681,
+        1115,
+        1444,
+        2617,
+        2701,
+        4372,
+        5362,
+        6561,
+        11432
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "ফরম-ক",
+      "text_id": "metadata_2",
+      "resolved_text": "ফরম-ক\n[বিধি ৬ দ্রষ্টব্য]\n\nবরাবর\nকমিশনার\nকাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট\n\nবিষয়: অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে স্বীকৃতি সনদ প্রাপ্তির আবেদন।\n\nমহোদয়,\n\nআমি/আমরা অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান) বিধিমালা, ২০১৮ এর বিধি ৬ এর বিধান অনুসারে অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে স্বীকৃতি সনদ প্রাপ্তির জন্য আবেদন করিতেছি।\n\nউল্লিখিত বিধিমালার ‘পরিশিষ্ট’ অনুসারে Self-Assessment Questionnaire (SAQ) পূরণ করতঃ উহার স্বপক্ষে সকল কাগজ ও দলিলাদি এতদসঙ্গে সংযুক্ত করা হইল।\n\nআমি/আমরা এই মর্মে ঘোষণা করিতেছি যে, উপরে বর্ণিত তথ্য সত্য এবং সম্পূর্ণ সঠিক।\n\nআবেদনকারীর বিস্তারিত তথ্যাদি:\nঠিকানা:\nমূসক নিবন্ধন নং:\nআয়কর সনদ নং:\n\nআপনার বিশ্বস্ত,\n\n(আবেদনকারীর নাম, স্বাক্ষর ও দাপ্তরিক সিল)",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "This form is the prescribed application document used for obtaining certification as an Authorized Economic Operator.",
+          "Applicants must adhere to the formal requirements set out in the Authorised Economic Operator (Certification) Rules 2018 when submitting their application to the Commissioner."
+        ],
+        "Self-Assessment Questionnaire": [
+          "The application for Authorized Economic Operator status requires the submission of a completed Self-Assessment Questionnaire.",
+          "Applicants are required to attach all necessary supporting documentation along with the completed questionnaire to validate their application."
+        ],
+        "Commissioner of Customs": [
+          "The application for Authorized Economic Operator status is formally addressed to the Commissioner of the relevant Customs Assessment and Internal Audit Commissionerate."
+        ],
+        "Authorised Economic Operator (Certification) Rules 2018": [
+          "These rules establish the legal framework and procedure for applying for and obtaining Authorized Economic Operator status."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_912",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "application document",
+          "certification",
+          "Applicants",
+          "Authorised Economic Operator (Certification) Rules 2018",
+          "application",
+          "Commissioner"
+        ],
+        "Self-Assessment Questionnaire": [
+          "application",
+          "Authorized Economic Operator status",
+          "Self-Assessment Questionnaire",
+          "Applicants",
+          "supporting documentation"
+        ],
+        "Commissioner of Customs": [
+          "application",
+          "Authorized Economic Operator status",
+          "Commissioner",
+          "Customs Assessment and Internal Audit Commissionerate"
+        ],
+        "Authorised Economic Operator (Certification) Rules 2018": [
+          "legal framework",
+          "procedure",
+          "Authorized Economic Operator status"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        18,
+        58,
+        64,
+        159,
+        181,
+        195,
+        230,
+        231,
+        598,
+        1831,
+        3466,
+        4581,
+        6837
+      ],
+      "source_file": "customs_sros_OCR/20180628_214-AIN_2018_37_Customs/20180628_214-AIN_2018_37_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "ফরম-খ",
+      "text_id": "metadata_3",
+      "resolved_text": "ফরম-খ\n[বিধি ৮(২) দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nকাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট, ঢাকা\n\nঅথরাইজড ইকোনমিক অপারেটর (AEO) স্বীকৃতি সনদ\n\nসনদ নং:------------- তারিখ:---------------\n\nএই মর্মে প্রত্যায়ন করা যাইতেছে যে, জাতীয় রাজস্ব বোর্ড কর্তৃক জারীকৃত অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান) বিধিমালা, ২০১৮ এর বিধি ৬ এর অধীন প্রাপ্ত আবেদন অথরাইজড ইকোনমিক অপারেটর (AEO) কমিটির নিকট যথাযথ বিবেচিত হইয়াছে।\n\nসেই মোতাবেক উপরি-উল্লিখিত বিধিমালার বিধি ৮ এর উপ-বিধি (২) এর বিধান অনুযায়ী ------------------- ঠিকানা-----------------, মূসক নিবন্ধন নং --------------, করদাতা সনাক্তকরণ নং (TIN)------------------কে অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে এতদ্বারা স্বীকৃতি সনদ প্রদান করা হইল।\n\nকমিশনার\n(কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট)",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "This form serves as an official certification for an entity granted the status of an Authorized Economic Operator.",
+          "The certification process is conducted in accordance with the application and committee evaluation procedures established under the relevant regulatory rules."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for issuing the rules that govern the recognition and certification of Authorized Economic Operators."
+        ],
+        "Authorized Economic Operator (Recognition) Rules 2018": [
+          "These rules establish the legal framework for the application, committee evaluation, and issuance of recognition certificates for Authorized Economic Operators."
+        ],
+        "Tax Identification Number": [
+          "A Tax Identification Number is a required detail for identifying the entity receiving the Authorized Economic Operator status on the official recognition certificate."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs, representing the Customs Valuation and Internal Audit Commissionerate, is the official signatory authorized to issue the recognition certificate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_913",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "official certification",
+          "application",
+          "committee evaluation procedures",
+          "regulatory rules"
+        ],
+        "National Board of Revenue": [
+          "rules",
+          "recognition",
+          "certification",
+          "Authorized Economic Operators"
+        ],
+        "Authorized Economic Operator (Recognition) Rules 2018": [
+          "legal framework",
+          "application",
+          "committee evaluation",
+          "recognition certificates",
+          "Authorized Economic Operators"
+        ],
+        "Tax Identification Number": [
+          "Tax Identification Number",
+          "entity",
+          "Authorized Economic Operator status",
+          "official recognition certificate"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Customs Valuation and Internal Audit Commissionerate",
+          "official signatory",
+          "recognition certificate"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        18,
+        29,
+        58,
+        86,
+        91,
+        123,
+        139,
+        181,
+        195,
+        289,
+        337,
+        365,
+        598,
+        749,
+        878,
+        1101,
+        2894,
+        6499,
+        6500,
+        10236
+      ],
+      "source_file": "customs_sros_OCR/20180628_214-AIN_2018_37_Customs/20180628_214-AIN_2018_37_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

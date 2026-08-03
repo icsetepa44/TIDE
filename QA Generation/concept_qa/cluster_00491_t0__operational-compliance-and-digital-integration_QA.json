@@ -1,0 +1,185 @@
+{
+  "thread_id": "cluster_00491_t0",
+  "cluster_id": 491,
+  "cluster_label": "licensees",
+  "title": "Operational Compliance and Digital Integration",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When were licensees first mandated to perform an annual audit of their institution?",
+      "options": [
+        "2011-06-09",
+        "2024-06-06",
+        "2025-02-17",
+        "2023-01-01"
+      ],
+      "answer_index": 0,
+      "answer": "2011-06-09",
+      "explanation": "The 2011-06-09 SRO/Clause (src=20110609_162-AIN_2011_2349) explicitly introduced the requirement for licensees to undergo an annual audit.",
+      "clause_text_ids": [
+        "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the mandate for licensees to conduct all financial transactions exclusively through an authorized lien bank?",
+      "options": [
+        "Customs Directive 2025",
+        "Warehouse Licensing Rules 2024",
+        "SRO 2011-06-09",
+        "Customs Computerised System Act 2023"
+      ],
+      "answer_index": 1,
+      "answer": "Warehouse Licensing Rules 2024",
+      "explanation": "The Warehouse Licensing Rules 2024 (src=20240606_213-AIN_2024_65) mandated that licensees must conduct all transactions through an authorized lien bank.",
+      "clause_text_ids": [
+        "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What digital requirement was introduced for licensees under the Warehouse Licensing Rules 2024?",
+      "options": [
+        "Mandatory annual physical site inspections only",
+        "Integration with Customs Computer Systems using User ID, Password, and ESPIN",
+        "Requirement to submit paper-based customs declarations",
+        "Requirement to maintain manual ledger books for all tax payments"
+      ],
+      "answer_index": 1,
+      "answer": "Integration with Customs Computer Systems using User ID, Password, and ESPIN",
+      "explanation": "The Warehouse Licensing Rules 2024 (src=20240606_207-AIN_2024_59) mandated digital integration via User ID, Password, and ESPIN for cargo declaration and duty payments.",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "As of the 2025-02-17 Customs Directive, what is a consequence for a licensee who fails to meet operational infrastructure requirements?",
+      "options": [
+        "A mandatory 5-year suspension of the license",
+        "Immediate deactivation of system access credentials and ESPIN without prior notice",
+        "A requirement to pay a flat fine of 10,000 BDT",
+        "Automatic conversion of their license to a manual processing status"
+      ],
+      "answer_index": 1,
+      "answer": "Immediate deactivation of system access credentials and ESPIN without prior notice",
+      "explanation": "The 2025-02-17 Customs Directive states that the authority has the power to suspend or deactivate credentials and ESPIN without prior notice if operational requirements are not met.",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2011-06-09 SRO, licensees were required to integrate their financial transactions exclusively through authorized lien banks and obtain an ESPIN to access the Customs Computer System for cargo declaration.",
+      "question": "Does the 2011-06-09 SRO mandate the use of lien banks and ESPINs for licensees? Explain.",
+      "conflict": "The context attributes 2024 digital and financial requirements to a 2011 regulatory instrument.",
+      "answer": "No. According to the Warehouse Licensing Rules 2024 (dated 2024-06-06), the requirements for lien bank transaction mandates and ESPIN/digital system integration were introduced in 2024. The 2011-06-09 SRO only mandated annual audits and established a two-year license validity period.",
+      "clause_text_ids": [
+        "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A licensee has been operating since 2010. While they have consistently performed their mandatory annual audits as required since 2011, they now wish to modernize their operations and ensure they are fully compliant with the latest financial and digital requirements established in 2024.",
+      "question": "Beyond the annual audit requirement introduced in 2011, what two major operational compliance obligations must this licensee now fulfill under the 2024 Warehouse Licensing Rules to maintain their status?",
+      "answer": "The licensee must now integrate with the Customs Computer System using a mandatory User ID, password, and ESPIN, and they must conduct all financial transactions exclusively through an authorized lien bank.",
+      "clauses_involved": [
+        "2011-06-09",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "nearly 13 years later",
+      "question": "In 2011, mandatory annual audits were introduced for licensees; what significant shift in operational compliance occurred nearly 13 years later?",
+      "answer": "In the 2024-06-06 Warehouse Licensing Rules, the compliance framework shifted from manual audits to mandatory digital system integration, requiring licensees to obtain a user ID, password, and ESPIN, while also mandating that all financial transactions be conducted exclusively through authorized lien banks.",
+      "clause_text_ids": [
+        "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "the following year",
+      "question": "Following the 2024 mandate for digital system integration, what specific refinement was introduced to the licensee access requirements the following year?",
+      "answer": "On 2025-02-17, a Customs Directive was issued that refined digital access requirements, specifically tasking the Customs Authority with issuing user IDs, passwords, and the Express Service Providers Identification Number (ESPIN), and mandating verification of infrastructure, equipment, and staffing standards before granting access.",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Licensees are mandated to conduct all their transactions exclusively through an authorized lien bank.",
+        "Licensees are required to undergo an annual audit of their relevant institution.",
+        "Licensees must obtain a user ID, password, and identification number from the Customs Authority to perform operations through the Customs Computerised System.",
+        "The Customs Authority is responsible for verifying that licensees meet specific infrastructure, equipment, and staffing standards to interact with the Customs Computerised Entry Processing System."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Licensees are required to undergo an annual audit of their relevant institution.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "Licensees are mandated to conduct all their transactions exclusively through an authorized lien bank.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Licensees must obtain a user ID, password, and identification number from the Customs Authority to perform operations through the Customs Computerised System.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The Customs Authority is responsible for verifying that licensees meet specific infrastructure, equipment, and staffing standards to interact with the Customs Computerised Entry Processing System.",
+          "date": "2025-02-17"
+        }
+      ],
+      "clause_text_ids": [
+        "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+        "customs_sros_OCR/20110609_162-AIN_2011_2349-Customs/20110609_162-AIN_2011_2349-Customs_output.json",
+        "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+        "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00491_t0__operational-compliance-and-digital-integration.json"
+    }
+  ]
+}

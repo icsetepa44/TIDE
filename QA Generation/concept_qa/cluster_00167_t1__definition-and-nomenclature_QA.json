@@ -1,0 +1,90 @@
+{
+  "thread_id": "cluster_00167_t1",
+  "cluster_id": 167,
+  "cluster_label": "Customs Risk Management Commissionerate",
+  "title": "Definition and Nomenclature",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs officer is diligently studying the updated 2025 Customs Risk Management Rules to ensure full compliance in their daily operations. While navigating the updated regulatory text, they encounter a specific term regarding the new oversight body. The officer needs to determine the precise point in time when the formal legal identity and the corresponding abbreviation for this unit were officially established.",
+      "question": "When was the formal legal definition and abbreviation of the Customs Risk Management Commissionerate standardized?",
+      "answer": "The formal definition and abbreviation were standardized in the 2025 rules and metadata.",
+      "date_or_instrument": "2025-03-10",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer preparing a large shipment of industrial machinery is reviewing the latest set of customs guidelines released in January 2025. They notice a new entity mentioned in the documentation but find the terminology slightly unfamiliar. To ensure their paperwork is filed correctly in the automated system, the importer needs to clarify the standardized abbreviation used for the Customs Risk Management Commissionerate.",
+      "question": "What is the official abbreviation for the Customs Risk Management Commissionerate?",
+      "answer": "The official abbreviation is CRMC.",
+      "date_or_instrument": "2025-01-21",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A legal researcher specializing in Bangladeshi trade law is conducting a deep dive into the regulatory framework as it stands in March 2025. They are analyzing the structural hierarchy of the newly formed Customs Risk Management Commissionerate to understand its operational mandate. The researcher aims to identify the foundational statute that provides the legal authority and basis for this specific commissionerate.",
+      "question": "What is the primary legislation that provides the legal basis for the Customs Risk Management Commissionerate?",
+      "answer": "The Customs Act 2023 serves as the primary legislation governing the rules and the existence of the Customs Risk Management Commissionerate.",
+      "date_or_instrument": "2025-03-10",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs official is training junior staff on the intricacies of the automated selectivity system introduced under the latest rules. They are explaining the different processing channels that determine how a shipment is handled upon arrival at the port. The official pauses to clarify the specific procedural function assigned to the 'yellow lane' and what it implies for the assessment process.",
+      "question": "How is the 'yellow lane' defined in the Customs Risk Management Rules?",
+      "answer": "The yellow lane is a selectivity lane in the automated system designated for reviewing documents without requiring physical examination of the goods.",
+      "date_or_instrument": "2025-03-10",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A policy analyst is drafting a comprehensive report on the evolving landscape of border security and trade compliance in Bangladesh. They are focusing specifically on the broad spectrum of threats that the Customs Risk Management Commissionerate is tasked with mitigating. The analyst needs to articulate the specific scope of 'economic risk' as defined by the latest 2025 regulations to ensure their report is accurate.",
+      "question": "According to the 2025 Customs Risk Management Rules, what does 'economic risk' encompass?",
+      "answer": "It encompasses risks related to money laundering, terror financing, proceeds of crime, illegal financial activities, evasion of customs duties and taxes, and trans-national organized economic crime.",
+      "date_or_instrument": "2025-03-10",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "During a technical briefing, a senior customs officer is mentoring a trainee on the modern tools used to detect illicit trade activities. They are discussing how the department leverages information to stay ahead of sophisticated evasion tactics. To provide a clear understanding of their operational methodology, the officer explains the formal definition of 'data analytics' as it is outlined in the current Customs Risk Management Rules.",
+      "question": "How is 'data analytics' defined within the context of the Customs Risk Management Rules?",
+      "answer": "It is defined as a method involving the collection, examination, audit, cleansing, and modeling of digital or analog data for the purpose of risk identification and decision-making.",
+      "date_or_instrument": "2025-03-10",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2023 Customs Act framework, the Customs Risk Management Commissionerate was formally established and its abbreviation 'CRMC' was standardized in the 2024 Customs Risk Management Rules.",
+      "question": "When was the Customs Risk Management Commissionerate formally defined and its abbreviation standardized according to the official policy evolution?",
+      "conflict": "The misaligned context incorrectly cites 2024 as the year for the Customs Risk Management Rules and the standardization of the entity's definition.",
+      "answer": "The Customs Risk Management Commissionerate was formally defined and its abbreviation (CRMC) was standardized in the 2025 Customs Risk Management Rules, specifically dated 2025-03-10, as established under the Customs Act 2023 framework.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    }
+  ]
+}

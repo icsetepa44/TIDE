@@ -1,0 +1,142 @@
+{
+  "thread_id": "cluster_00397_t0",
+  "cluster_id": 397,
+  "cluster_label": "official orders",
+  "title": "Delegated Authority via Official Orders",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the functional scope of 'official orders' evolved within the NBR's regulatory framework from 2021 to 2024?",
+      "answer": "The scope of official orders has expanded from a narrow procedural mechanism for prioritizing pre-arrival processing of manifest data in August 2021, to a broader institutional and regulatory tool. By 2024, these orders were utilized to formally constitute Rapid Response Teams in March and to define eligibility criteria for self-assessment schemes in June.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_4",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way has the legal application of official orders transitioned regarding the NBR's authority?",
+      "answer": "The legal basis for official orders shifted from being a procedural tool used to manage operational prioritization, as seen in the 2021-08-29 clause, to serving as a formal regulatory instrument. By 2024, the NBR began using these orders as the direct legal foundation to delegate Board authority for forming specialized teams and selecting entities for regulatory exemptions like self-assessment.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_4",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What does the evolution of official orders suggest about the NBR's approach to administrative flexibility?",
+      "answer": "The evolution suggests that the NBR has moved toward a more centralized yet flexible administrative model where official orders serve as a primary instrument for rapid regulatory adaptation. This is evidenced by the transition from using orders for simple manifest prioritization in 2021 to using them for complex tasks like defining the responsibilities of Rapid Response Teams and establishing eligibility for self-assessment in 2024.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_4",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Compare the role of official orders in the 2021 manifest processing context versus the 2024 self-assessment context.",
+      "answer": "In the 2021-08-29 clause, official orders functioned as a mechanism to grant priority to manifest data during pre-arrival processing. By contrast, in the 2024-06-06 clause, the role of official orders was elevated to act as a selection mechanism for identifying specific entities eligible for self-assessment, demonstrating a shift toward using the instrument for regulatory qualification rather than just operational sequencing.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_4",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do official orders facilitate the NBR's operational response to incidents in the 2024 framework?",
+      "answer": "According to the 2024-03-31 clause, official orders provide the legal authority for the Board to constitute Rapid Response Teams. These teams are then empowered to take immediate legal action in response to incidents such as the misuse of seals and locks or damage to goods caused by accidents or natural disasters.",
+      "clause_text_ids": [
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs official notes that 'official orders' were initially used in 2021 to prioritize manifest processing for perishable goods. By 2024, they observe the NBR issuing official orders to create Rapid Response Teams and later to designate specific entities eligible for self-assessment schemes.",
+      "question": "How has the regulatory function of 'official orders' evolved from their 2021 usage to their 2024 application?",
+      "answer": "Official orders evolved from a procedural mechanism for prioritizing manifest processing (2021) into a formal regulatory instrument used for institutional formation, such as constituting Rapid Response Teams (March 2024), and for selecting entities eligible for self-assessment schemes (June 2024).",
+      "clauses_involved": [
+        "2021-08-29",
+        "2024-03-31",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_4",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-08-29",
+      "relative_offset": "about two and a half years later",
+      "question": "In 2021-08-29, official orders were established for manifest data prioritization; what new institutional function was assigned to official orders about two and a half years later?",
+      "answer": "On 2024-03-31, official orders were expanded to serve as the legal basis for the National Board of Revenue to constitute and define the responsibilities of Rapid Response Teams.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_4",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-03-31",
+      "relative_offset": "the following amendment",
+      "question": "Following the 2024-03-31 order regarding Rapid Response Teams, what was the next regulatory expansion of official orders?",
+      "answer": "On 2024-06-06, the scope of official orders was expanded to function as a selection mechanism for identifying entities eligible for self-assessment schemes.",
+      "clause_text_ids": [
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Official orders are utilized as a selection mechanism for identifying entities eligible for self-assessment schemes.",
+        "Official orders are established as a mechanism for prioritizing pre-arrival processing of manifest data.",
+        "Official orders serve as the legal basis for the Board to constitute and define the responsibilities of Rapid Response Teams."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Official orders are established as a mechanism for prioritizing pre-arrival processing of manifest data.",
+          "date": "2021-08-29"
+        },
+        {
+          "event": "Official orders serve as the legal basis for the Board to constitute and define the responsibilities of Rapid Response Teams.",
+          "date": "2024-03-31"
+        },
+        {
+          "event": "Official orders are utilized as a selection mechanism for identifying entities eligible for self-assessment schemes.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_4",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_13",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_output.json",
+        "customs_sros_OCR/20240331_._./20240331_._._output.json",
+        "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00397_t0__delegated-authority-via-official-orders.json"
+    }
+  ]
+}

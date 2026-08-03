@@ -1,0 +1,68 @@
+{
+  "thread_id": "cluster_00751_t0",
+  "cluster_id": 751,
+  "cluster_label": "Bangladesh Export Processing Zones Authority",
+  "title": "Import Permit Substitution for IRC",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 2,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A BEPZA-governed industrial unit was importing mannequins under the 2020 regulatory regime, which specifically mandated obtaining an Import Permit from BEPZA and submitting a non-judicial stamp undertaking to customs. In 2024, the unit continues its operations and seeks to understand if the requirement to submit an authority-issued import permit has been replaced or if it still functions as the primary compliance document for IRC-exempt units.",
+      "question": "How did the regulatory requirement for an import permit for BEPZA-governed units evolve between 2020 and 2024 in terms of its legal purpose?",
+      "answer": "In 2020, the import permit was a specific commodity-based requirement for items like mannequins. By 2024, the regulation transitioned to a standardized framework where the authority-issued import permit serves as a formal substitute for the Industrial Consumer Import Registration Certificate (IRC) for all IRC-exempt industrial units.",
+      "clauses_involved": [
+        "2020-06-11",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20200611_134-AIN_2019_85_Customs_৩ জুন, ২০২০ খ্রিষ্টাব্দ_clause_2",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Industrial enterprises under the control of authorities like the Bangladesh Export Processing Zones Authority, Bangladesh Economic Zones Authority, or Bangladesh Hi-Tech Park Authority that are exempt from the Industrial Consumer Import Registration Certificate obligation must submit an authority-issued import permit.",
+        "Importation of mannequins or tailor's dummies by entities under the Bangladesh Export Processing Zones Authority requires obtaining an Import Permit from that authority along with specific quantity limitations and compliance undertakings.",
+        "The policy framework requiring industrial enterprises under the control of authorities like the Bangladesh Export Processing Zones Authority, Bangladesh Economic Zones Authority, or Bangladesh Hi-Tech Park Authority to submit an authority-issued import permit in lieu of the Industrial Consumer Import Registration Certificate is reaffirmed."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Importation of mannequins or tailor's dummies by entities under the Bangladesh Export Processing Zones Authority requires obtaining an Import Permit from that authority along with specific quantity limitations and compliance undertakings.",
+          "date": "2020-06-11"
+        },
+        {
+          "event": "Industrial enterprises under the control of authorities like the Bangladesh Export Processing Zones Authority, Bangladesh Economic Zones Authority, or Bangladesh Hi-Tech Park Authority that are exempt from the Industrial Consumer Import Registration Certificate obligation must submit an authority-issued import permit.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The policy framework requiring industrial enterprises under the control of authorities like the Bangladesh Export Processing Zones Authority, Bangladesh Economic Zones Authority, or Bangladesh Hi-Tech Park Authority to submit an authority-issued import permit in lieu of the Industrial Consumer Import Registration Certificate is reaffirmed.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20200611_134-AIN_2019_85_Customs_৩ জুন, ২০২০ খ্রিষ্টাব্দ_clause_2",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_7",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_7"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20200611_134-AIN_2019_85_Customs/20200611_134-AIN_2019_85_Customs_output.json",
+        "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json",
+        "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00751_t0__import-permit-substitution-for-irc.json"
+    }
+  ]
+}

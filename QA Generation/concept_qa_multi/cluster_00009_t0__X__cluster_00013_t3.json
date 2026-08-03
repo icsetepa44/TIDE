@@ -1,0 +1,48 @@
+{
+  "group_id": "cluster_00009_t0__X__cluster_00013_t3",
+  "entities": [
+    "Value Added Tax",
+    "taxes"
+  ],
+  "cluster_ids": [
+    9,
+    13
+  ],
+  "thread_ids": [
+    "cluster_00009_t0",
+    "cluster_00013_t3"
+  ],
+  "num_shared_clauses": 11,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the requirement for VAT registration (as part of VAT compliance) interact with the declaration of imported raw materials for industrial tax exemptions?",
+      "answer": "Industrial importers seeking duty exemptions (taxes) are required to provide their 13-digit VAT registration number (BIN) in official declarations, such as those for cellular phone components, LED lamps, air conditioners, and bio-hygiene equipment, as evidenced in the standardized appendices [2], [5], [6], [8], and [10].",
+      "entities_involved": [
+        "Value Added Tax",
+        "taxes"
+      ],
+      "clause_text_ids": [
+        "metadata_14",
+        "metadata_4",
+        "metadata_5",
+        "metadata_7",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What role does the VAT registration status play in the certification process for entities claiming industrial tax concessions?",
+      "answer": "For an entity to be certified for concessional tax rates on imported raw materials, it must be a VAT-registered manufacturing establishment, and this status is verified through documentation that confirms the entity's registration and its compliance history regarding VAT returns and payments [1], [7].",
+      "entities_involved": [
+        "Value Added Tax",
+        "taxes"
+      ],
+      "clause_text_ids": [
+        "metadata_11",
+        "metadata_6"
+      ]
+    }
+  ]
+}

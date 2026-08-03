@@ -1,0 +1,522 @@
+{
+  "cluster_id": 483,
+  "cluster_label": "customs clearance process",
+  "thread_index": 0,
+  "thread_id": "cluster_00483_t0",
+  "title": "Customs Clearance Verification and Approval Procedures",
+  "summary": "This thread tracks the evolution of administrative verification and approval protocols for customs clearance. It shifts from manual inter-departmental communication and physical document submission to digital verification, risk-based management, and automated system-driven clearance.",
+  "evolution": {
+    "verification_method": "From manual communication to digital system validation to automated risk-based selectivity.",
+    "institutional_involvement": "Increased integration between Customs, VAT, and Intelligence units."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "SRO 2016",
+      "change": "Introduced manual verification via phone/email between customs and VAT officials.",
+      "clause_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6"
+      ]
+    },
+    {
+      "date": "2022-07-17",
+      "instrument": "SRO 2022",
+      "change": "Transitioned to digital verification using Customs/VAT online systems and website-based BIN validation.",
+      "clause_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 2024",
+      "change": "Streamlined the verification requirement to focus on compliance with specific clauses and formal approval by DC/AC level officers.",
+      "clause_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "instrument": "Customs Rules 2025",
+      "change": "Shifted to an automated risk management system (ARMS) using selectivity criteria (Red/Yellow/Blue/Green lanes) for clearance.",
+      "clause_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+      "resolved_text": "(৫) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে ফোন, ফ্যাক্স বা ই-মেইলে সংশ্লিষ্ট মূসক এলাকার ডেপুটি কমিশনার বা সহকারী কমিশনারগণের সহিত যোগাযোগ করিয়া ১, ২ ও ৩ নং শর্তের তথ্য ও সঠিকতা যাচাই করিয়া লইবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs official overseeing the assessment process is mandated to communicate with their counterparts in the relevant Value Added Tax area to verify information and ensure the accuracy of conditions related to the shipment.",
+          "This administrative measure is implemented specifically to prevent unnecessary delays during the customs clearance process."
+        ],
+        "Deputy Commissioner of Customs": [
+          "The Deputy Commissioner is tasked with coordinating with the corresponding Value Added Tax authorities via digital or telephonic means to facilitate the verification of documentation and conditions."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The Assistant Commissioner is authorized to liaise with the relevant Value Added Tax officials to confirm the accuracy of specific regulatory conditions, thereby ensuring operational efficiency."
+        ],
+        "Value Added Tax": [
+          "The respective authorities managing Value Added Tax are required to cooperate with customs officials to verify data and conditions to expedite the customs assessment procedure."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1595",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "customs official",
+          "Value Added Tax area",
+          "shipment",
+          "customs clearance process"
+        ],
+        "Deputy Commissioner of Customs": [
+          "Deputy Commissioner",
+          "Value Added Tax authorities",
+          "documentation",
+          "conditions"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner",
+          "Value Added Tax officials",
+          "regulatory conditions"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "authorities",
+          "customs officials",
+          "data",
+          "conditions",
+          "customs assessment procedure"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        51,
+        63,
+        78,
+        87,
+        99,
+        213,
+        270,
+        318,
+        352,
+        359,
+        457,
+        483,
+        615,
+        682,
+        721,
+        5110,
+        6839,
+        13170
+      ],
+      "source_file": "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ ক্রমিক (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন;\n\n(গ) এই প্রজ্ঞাপনের আওতায় খালাসকৃত প্রতিটি পণ্য চালানের তথ্য শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার কর্তৃক সংশ্লিষ্ট মূসক বিভাগে পত্রের মাধ্যমে জানাইতে হইবে এবং আমদানিকৃত উপকরণ বা কাঁচামাল শর্ত (১) এর দফা (খ) মোতাবেক এয়ারকন্ডিশনার উৎপাদন কাজে ব্যবহৃত হইবে মর্মে সংশ্লিষ্ট আমদানিকারককে অঙ্গীকারনামা প্রদান করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The appropriate officer must verify compliance with all established conditions regarding the import and customs clearance process.",
+          "Customs clearance must be approved by the relevant Deputy Commissioner or Assistant Commissioner."
+        ],
+        "Business Identification Number": [
+          "Customs officials must verify the authenticity of the Business Identification Number using authorized customs or VAT online systems and official government websites to avoid processing delays."
+        ],
+        "National Board of Revenue": [
+          "The official website of the National Board of Revenue is designated as a source for verifying taxpayer registration information during the customs clearance process."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system is used by customs officials to verify taxpayer information and ensure regulatory compliance during the import process."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The website of the VAT Commissionerate is an authorized portal for the verification of taxpayer registration documents."
+        ],
+        "Importation of Goods": [
+          "Details of every consignment cleared under this notification must be formally communicated to the relevant VAT authorities.",
+          "Importers are required to provide a formal undertaking stating that the imported raw materials or components will be utilized specifically for the manufacturing of air conditioners."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2357",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "import process",
+          "customs clearance process",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Business Identification Number": [
+          "Business Identification Number",
+          "customs online systems",
+          "VAT online systems",
+          "official government websites"
+        ],
+        "National Board of Revenue": [
+          "official website",
+          "taxpayer registration information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs Computerised Entry Processing System",
+          "taxpayer information"
+        ],
+        "Value Added Tax Commissionerate": [
+          "website",
+          "VAT Commissionerate",
+          "taxpayer registration documents"
+        ],
+        "Importation of Goods": [
+          "consignment",
+          "VAT authorities",
+          "imported raw materials",
+          "components",
+          "air conditioners"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        35,
+        42,
+        51,
+        66,
+        132,
+        162,
+        199,
+        213,
+        296,
+        308,
+        352,
+        376,
+        483,
+        981,
+        1128,
+        1150,
+        1184,
+        3128,
+        4149,
+        4156,
+        10214,
+        12720,
+        12722
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ",
+      "text_id": "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ দফা (১) ও (২) এ উল্লিখিত শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs official must verify that all specified import and customs-related conditions are met before proceeding with clearance. This process ensures that compliance requirements are strictly followed prior to the approval of any importation."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer responsible for customs clearance is mandated to perform a thorough verification of the conditions associated with the import, ensuring compliance with relevant legal provisions."
+        ],
+        "Deputy Commissioner of Customs": [
+          "The Deputy Commissioner or the Assistant Commissioner is responsible for the final supervision and approval of the customs clearance process, ensuring that the verification conducted by the customs official is correct."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The Assistant Commissioner is authorized to oversee and grant the necessary approval for customs clearance, providing a supervisory layer to ensure that all procedural and import conditions are satisfied."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2575",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "import conditions",
+          "customs-related conditions",
+          "compliance requirements"
+        ],
+        "Appropriate Officer of Customs": [
+          "officer",
+          "import conditions",
+          "legal provisions"
+        ],
+        "Deputy Commissioner of Customs": [
+          "Deputy Commissioner",
+          "Assistant Commissioner",
+          "customs clearance process"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner",
+          "customs clearance",
+          "procedural conditions",
+          "import conditions"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        51,
+        78,
+        114,
+        130,
+        213,
+        352,
+        457,
+        483,
+        775,
+        1352,
+        1742,
+        3780
+      ],
+      "source_file": "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট ব্যতীত বোর্ডের অন্যান্য দপ্তর কর্তৃক ঝুঁকি ব্যবস্থাপনা পদ্ধতি",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+      "resolved_text": "৪। কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট ব্যতীত বোর্ডের অন্যান্য দপ্তর কর্তৃক ঝুঁকি ব্যবস্থাপনা পদ্ধতি।—(১) বোর্ডের অধীন কাস্টমস স্টেশন, মূসক কমিশনারেট, কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর, সেন্ট্রাল ইন্টেলিজেন্স সেল, কাস্টমস বন্ড কমিশনারেটসমূহ কোনো পণ্যচালানের বিষয়ে শুল্কায়নের পূর্বে ঝুঁকি সংক্রান্ত আগাম তথ্য প্রাপ্ত হইলে উহা এআরএমএস সফটওয়্যারে এন্ট্রি করিবে।\n(২) পণ্যচালানের শুল্কায়ন সম্পন্ন হইবার পর উপ-বিধি (১) এ বর্ণিত কোনো তথ্য প্রাপ্ত হইলে সংশ্লিষ্ট কাস্টমস স্টেশন বা কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর বা সেন্ট্রাল ইন্টেলিজেন্স সেল তাৎক্ষণিকভাবে প্রতিরোধমূলক প্রয়োজনীয় ব্যবস্থা গ্রহণ করিবে এবং উক্ত ব্যবস্থার ফলাফল এআরএমএস সফটওয়্যারে এন্ট্রি করিবে।\n(৩) যাত্রী সংশ্লিষ্ট ঝুঁকি সংক্রান্ত কোনো তথ্য প্রাপ্ত হইলে সংশ্লিষ্ট কাস্টমস স্টেশন বা কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর বা সেন্ট্রাল ইন্টেলিজেন্স সেল তাৎক্ষণিকভাবে প্রতিরোধমূলক প্রয়োজনীয় সকল ব্যবস্থা গ্রহণ করিবে এবং উক্ত ব্যবস্থার ফলাফল এআরএমএস সফটওয়্যারে এন্ট্রি করিবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Board oversees various departments that are responsible for implementing risk management procedures regarding customs consignments and passengers."
+        ],
+        "ARMS Software": [
+          "This software serves as the central platform for recording risk-related information for cargo consignments and the outcomes of preventive actions taken by customs offices.",
+          "Customs offices and investigation units must input the results of any preventive measures taken regarding cargo or passengers directly into the ARMS software."
+        ],
+        "Customs Risk Management": [
+          "Various customs departments, including customs stations, VAT commissionerates, intelligence cells, and bonding commissionerates, must document pre-clearance risk information in the designated system.",
+          "Upon identifying risk-related information after the customs clearance process for goods, the relevant departments are mandated to take immediate preventive actions and update the system accordingly.",
+          "In cases where risk-related information concerning passengers is discovered, the authorized customs departments must execute immediate preventive measures and record the results in the risk management software."
+        ],
+        "Customs Station": [
+          "These stations are tasked with inputting advance risk information into the risk management software and carrying out preventive measures for both goods and passengers when necessary."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "This directorate is responsible for entering risk data into the software and initiating preventive actions against identified risks related to goods or passengers."
+        ],
+        "Central Intelligence Cell": [
+          "The cell is required to record risk information regarding cargo and passengers in the risk management software and implement necessary preventive steps when such risks are identified."
+        ],
+        "Customs Commissioner": [
+          "This office is mandated to input advance risk information concerning cargo consignments into the designated customs risk management system."
+        ],
+        "Value Added Tax Commissionerate": [
+          "This department is responsible for recording advance risk information related to cargo consignments into the authorized risk management system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1226",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "departments",
+          "risk management procedures",
+          "customs consignments",
+          "passengers"
+        ],
+        "ARMS Software": [
+          "risk-related information",
+          "cargo consignments",
+          "outcomes of preventive actions",
+          "customs offices",
+          "investigation units",
+          "cargo",
+          "passengers"
+        ],
+        "Customs Risk Management": [
+          "customs stations",
+          "VAT commissionerates",
+          "intelligence cells",
+          "bonding commissionerates",
+          "pre-clearance risk information",
+          "goods",
+          "risk-related information",
+          "customs clearance process",
+          "preventive actions",
+          "passengers",
+          "risk management software"
+        ],
+        "Customs Station": [
+          "advance risk information",
+          "risk management software",
+          "preventive measures",
+          "goods",
+          "passengers"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "risk data",
+          "software",
+          "preventive actions",
+          "goods",
+          "passengers"
+        ],
+        "Central Intelligence Cell": [
+          "risk information",
+          "cargo",
+          "passengers",
+          "risk management software",
+          "preventive steps"
+        ],
+        "Customs Commissioner": [
+          "advance risk information",
+          "cargo consignments",
+          "customs risk management system"
+        ],
+        "Value Added Tax Commissionerate": [
+          "advance risk information",
+          "cargo consignments",
+          "authorized risk management system"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        25,
+        113,
+        118,
+        135,
+        199,
+        224,
+        389,
+        405,
+        483,
+        920,
+        1112,
+        1364,
+        1843,
+        1847,
+        1872,
+        2235,
+        2416,
+        2527,
+        3816,
+        4570,
+        4571,
+        5630,
+        6059,
+        6880,
+        6990,
+        9136,
+        9261,
+        10432,
+        10894,
+        13209
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "সিলেক্টভিটি নির্ণায়ক",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9",
+      "resolved_text": "৯। সিলেক্টভিটি নির্ণায়ক।—কাস্টমস কম্পিউটার সিস্টেম নিম্নরূপ সিলেক্টভিটি নির্ণায়ক ব্যবহার করিবে, যথা:—\n(ক) এক বা একাধিক নির্ধারিত ঝুঁকি নির্দেশকের বিপরীতে ঘোষণার উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য উপাত্তসমূহ তুলনা করিয়া সম্ভাব্য ঝুঁকি নিরূপণের লক্ষ্যে একটি স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি প্রতিষ্ঠা করা হইবে;\n(খ) ঝুঁকি ব্যবস্থাপনার মাধ্যমে ঝুঁকি নিরসনের লক্ষ্যে পণ্যচালান কাস্টমস কম্পিউটার সিস্টেমে রেড লেন, ইয়েলো লেন, ব্লু লেন ও গ্রিন লেন হিসেবে চিহ্নিত হইবে এবং আগত যাত্রী এর ক্ষেত্রে রেড চ্যানেল ও গ্রিন চ্যানেলের মাধ্যমে ব্যবস্থিত হইবে;\n(গ) এআরএমএস এ রক্ষিত পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত কোনো পণ্যচালান অথবা যাত্রী এর তথ্য-উপাত্ত হুবহু মিলিয়া যাক অথবা না যাক, পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত সাদৃশ্যের মাত্রার সাপেক্ষে ঝুঁকির আপেক্ষিক মাত্রা নির্ধারণ করা হইবে;\n(ঘ) এক বা একাধিক পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত ঘোষণার তথ্য-উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য তথ্য উপাত্তসমূহ তুলনা এবং তথ্য প্রক্রিয়াকরণের মাধ্যমে সম্ভাব্য ঝুঁকি চিহ্নিতকরণের লক্ষ্যে ঝুঁকিপূর্ণ আমদানিকারক, রপ্তানিকারক, এজেন্ট, যাত্রী এর জন্য ঝুঁকি ব্যবস্থাপনা সিস্টেমের মধ্যে প্রোফাইল প্রতিষ্ঠা করা হইবে;\n(ঙ) স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি কাস্টমস রেকর্ড ও দলিল-দস্তাবেজ, বিভিন্ন উৎস হইতে প্রাপ্ত তথ্য, গোয়েন্দা তথ্য, কৃত্রিম বুদ্ধিমত্তা ব্যবহার করিয়া প্রাপ্তর উপাত্ত বিশ্লেষণ পদ্ধতি (Advanced Data Analytics), মেশিন লার্নিং এবং অন্যান্য উপযোগী পদ্ধতি ব্যবহার ও প্রয়োগ করিয়া ঝুঁকি নির্দেশক নির্ধারণ করিবে।",
+      "entity_concepts": {
+        "Automated System for Customs Data": [
+          "The system uses selectivities to determine processing channels for cargo and passengers. It establishes an automated risk management framework to evaluate shipment risks based on pre-defined indicators.",
+          "The system classifies consignments into red, yellow, blue, and green lanes, and passengers into red and green channels for customs clearance. It also assigns risk scores based on the degree of similarity to established risk indicators.",
+          "It creates profiles for importers, exporters, agents, and passengers to identify potential risks through data processing. The system incorporates historical records, intelligence data, and advanced analytical methods to refine its risk assessment indicators."
+        ],
+        "Data Analytics": [
+          "Advanced data analytics, machine learning, and artificial intelligence are utilized to process customs documentation and records. These methodologies serve as the technical foundation for identifying and setting risk indicators within the automated management framework."
+        ],
+        "Manifest Data": [
+          "Consignment information and related data are compared against established risk indicators to determine potential security or compliance threats during the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1231",
+      "entity_sub_entities": {
+        "Automated System for Customs Data": [
+          "selectivities",
+          "processing channels",
+          "cargo",
+          "passengers",
+          "automated risk management framework",
+          "shipment risks",
+          "risk indicators",
+          "consignments",
+          "red lane",
+          "yellow lane",
+          "blue lane",
+          "green lane",
+          "red channel",
+          "green channel",
+          "customs clearance",
+          "risk scores",
+          "profiles",
+          "importers",
+          "exporters",
+          "agents",
+          "historical records",
+          "intelligence data",
+          "analytical methods"
+        ],
+        "Data Analytics": [
+          "advanced data analytics",
+          "machine learning",
+          "artificial intelligence",
+          "customs documentation",
+          "records",
+          "risk indicators",
+          "automated management framework"
+        ],
+        "Manifest Data": [
+          "consignment information",
+          "risk indicators",
+          "security threats",
+          "compliance threats",
+          "customs clearance process"
+        ]
+      },
+      "clause_clusters": [
+        51,
+        79,
+        113,
+        131,
+        135,
+        157,
+        219,
+        394,
+        439,
+        481,
+        483,
+        487,
+        696,
+        1103,
+        1262,
+        1500,
+        1916,
+        1927,
+        2636,
+        2847,
+        3438,
+        4214,
+        5374,
+        5493,
+        5858,
+        5862,
+        6562,
+        6638,
+        8737,
+        9648,
+        10981,
+        11037,
+        11575,
+        12068,
+        12089,
+        12169
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

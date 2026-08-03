@@ -1,0 +1,331 @@
+{
+  "thread_id": "cluster_00235_t0",
+  "cluster_id": 235,
+  "cluster_label": "HS codes",
+  "title": "HS Code Classification and Tariff Adjustment",
+  "source_num_member_objects": 8,
+  "num_qa_pairs": 23,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 5,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics manager at a major construction firm in Dhaka is finalizing documentation for a large shipment of industrial metal pipes arriving at the Chittagong port in late 2010. He is meticulous about his paperwork, wanting to avoid any classification disputes with the customs authorities. Upon reviewing the latest regulatory updates, he notices that the specific classification he previously used for these pipes is no longer listed in the current schedule. He needs to confirm the updated code that superseded the old entry to ensure his bill of entry matches the latest notification.",
+      "question": "Which HS code replaced '7305.31.10' for metal pipes according to the 2010 notification?",
+      "answer": "The HS code '7305.31.10' was replaced by '7305.31.00'.",
+      "date_or_instrument": "SRO 183-Law/2010 (2010-10-30)",
+      "clause_text_ids": [
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An industrial manufacturer in Gazipur is preparing to import a new batch of essential machine parts to sustain their production line during the 2013 fiscal year. As they review their cost projections, the procurement officer carefully examines the recent government notification issued in June regarding tariff adjustments. There is uncertainty regarding whether the tax burden on these specific components has shifted and if any new provisions now exclude certain items from the standard duty framework. He needs to clarify the exact change in the duty rate and the status of the specific exclusion criteria mentioned in the latest SRO.",
+      "question": "What change was made to the duty rate and exclusion criteria for machine parts in 2013?",
+      "answer": "The duty rate was reduced from 3% to 2%, and a specific exclusion was added for H.S. Code 8503.00.20.",
+      "date_or_instrument": "SRO 145-Law/2013 (2013-06-06)",
+      "clause_text_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "At the Dhaka Custom House in July 2024, an assessing officer is reviewing a fresh consignment of imported bovine meat. To ensure the government's revenue interests are protected, he must apply the most recent valuation guidelines issued by the National Board of Revenue. He double-checks the latest SRO to confirm the mandatory floor price for these goods. What is the minimum value per kg for imported fresh or chilled bovine meat as of July 2024?",
+      "question": "What is the minimum value per kg for imported fresh or chilled bovine meat as of July 2024?",
+      "answer": "The minimum value is 5.00 USD per kg.",
+      "date_or_instrument": "SRO 2024/07/08 (2024-07-08)",
+      "clause_text_ids": [
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A food processing distributor is clearing a large shipment of high-quality milk powder in retail packaging at the port in July 2024. The customs broker is cautious, knowing that the authorities have recently updated the minimum customs valuation thresholds for various food commodities. To avoid under-invoicing penalties, the broker needs to verify the exact valuation floor currently required for this specific product category. What is the minimum value per kg for milk powder in retail packs?",
+      "question": "What is the minimum value per kg for milk powder in retail packs?",
+      "answer": "The minimum value is 4.25 USD per kg.",
+      "date_or_instrument": "SRO 2024/07/08 (2024-07-08)",
+      "clause_text_ids": [
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A veteran customs broker is navigating the complexities of the recently implemented Customs Act, 2023, while preparing a declaration for a client's imported cargo. During a meeting with a customs official, a debate arises regarding the precise legal basis for the current tariff and minimum value determinations being enforced. The broker wants to ensure his compliance strategy is aligned with the latest statutory authority. Under which legal authority are tariff values and minimum values for imported goods currently determined?",
+      "question": "Under which legal authority are tariff values and minimum values for imported goods currently determined?",
+      "answer": "They are determined under Section 27(5) of the Customs Act, 2023.",
+      "date_or_instrument": "SRO 202-Law/2024 (2024-06-06)",
+      "clause_text_ids": [
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A quality control manager at a metal processing plant is reviewing the HS code classifications for their industrial raw materials to prepare for the June 2025 customs audit. While cross-referencing their inventory list against the latest government notification, he notices a discrepancy regarding the classification for heading 74.11. He needs to confirm the administrative correction made to the coding structure to avoid any issues during the upcoming clearance process. How was the HS code for heading 74.11 corrected in the 2025 notification?",
+      "question": "How was the HS code for heading 74.11 corrected in the 2025 notification?",
+      "answer": "The HS code '7411.10.90' was replaced by '7411.10.00'.",
+      "date_or_instrument": "SRO 212-Law/2025 (2025-06-02)",
+      "clause_text_ids": [
+        "20250602_195-AIN_2025_17_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the legal framework governing HS code classification and tariff management evolved in Bangladesh from 2010 to 2025?",
+      "answer": "The legal framework transitioned from being primarily rooted in the Customs Act 1969, as seen in SRO 183-Law/2010 and SRO 145-Law/2013, to the Customs Act 2023, which now formalizes tariff value and customs duty structures under SRO 202-Law/2024 and subsequent 2025 notifications.",
+      "clause_text_ids": [
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1",
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3",
+        "20250602_195-AIN_2025_17_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What shift in regulatory objectives is observed in the evolution of customs instruments from simple code substitutions to the current valuation regime?",
+      "answer": "Initially, instruments like SRO 183-Law/2010 focused on direct HS code substitutions for industrial headings. Over time, the scope expanded to include complex tariff value determinations and minimum import values for a wide range of commodities, as formalized in SRO 134-Law/2023 and SRO 202-Law/2024.",
+      "clause_text_ids": [
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the role of the National Board of Revenue (NBR) been reflected in the process of amending customs notifications?",
+      "answer": "The NBR has consistently acted as the consultative body for the government. Regulatory instruments from 2013 (SRO 145-Law/2013) through 2025 (SRO 212-Law/2025) explicitly state that the government exercises its power to amend customs and tax-related notifications in consultation with the National Board of Revenue.",
+      "clause_text_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1",
+        "20250602_195-AIN_2025_17_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way did the introduction of minimum value tables change the nature of customs duty assessment for imported goods?",
+      "answer": "The introduction of minimum values, beginning with SRO 134-Law/2023 and expanded by SRO 2024/07/08, established a baseline for calculating ad valorem Customs Duty. This moved the system beyond simple code classification into a comprehensive valuation regime that sets specific US dollar values per unit for commodities like bovine meat, milk powder, and construction materials.",
+      "clause_text_ids": [
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2024-07-08 SRO demonstrate the evolving nature of customs valuation for specific commodities?",
+      "answer": "The 2024-07-08 SRO expanded the scope of minimum value tables to include broader categories of bovine meat and milk powder, while also introducing market-based valuation mechanisms. For instance, it mandates the use of internationally recognized price sources like Platts for furnace oil and manufacturer-published pricing for cellular telephones to ensure accurate dutiable value assessment.",
+      "clause_text_ids": [
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What does the 2025-06-02 SRO 212-Law/2025 indicate about the ongoing maintenance of HS code classifications?",
+      "answer": "The 2025-06-02 SRO 212-Law/2025 demonstrates that the administrative process remains iterative, focusing on the correction and refinement of HS code entries for industrial raw materials such as steel and metal products. This shows that even under the Customs Act 2023, the government continues to actively update specific headings to maintain the accuracy of the customs tariff schedule.",
+      "clause_text_ids": [
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20250602_195-AIN_2025_17_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under SRO 183-Law/2010, the government utilized the Customs Act 1969 to replace specific HS codes related to metal pipes, cables, and electrical machinery.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 183-Law/2010, issued on 2010-10-30 under the Customs Act 1969, modified tariff entries by replacing specific HS codes for metal pipes, cables, and electrical machinery.",
+      "clause_text_ids": [
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 134-Law/2023, issued on 2023-06-01, introduced minimum tariff values for bovine meat and milk powder to assist in customs duty assessment.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "SRO 134-Law/2023",
+      "correct_fact": "SRO 2024/07/08",
+      "answer": "The statement is inaccurate. While SRO 134-Law/2023 did introduce minimum values, the specific expansion to include broader categories of bovine meat and milk powder occurred via SRO 2024/07/08.",
+      "clause_text_ids": [
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 202-Law/2024 formalized tariff value and customs duty structures under the authority of the Customs Act 1969.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Act 1969",
+      "correct_fact": "Customs Act 2023",
+      "answer": "The statement is inaccurate. SRO 202-Law/2024 was issued under the authority of the Customs Act 2023, not the Customs Act 1969.",
+      "clause_text_ids": [
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 212-Law/2025, issued on 2025-06-02, corrected specific HS code entries for industrial raw materials such as steel and metal products.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 212-Law/2025 updated HS code entries for items under headings like 72.12 and 74.11, which pertain to metal products.",
+      "clause_text_ids": [
+        "20250602_195-AIN_2025_17_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to SRO 145-Law/2013, the duty rate for specific industrial inputs was adjusted from 2% to 3%.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "from 2% to 3%",
+      "correct_fact": "from 3% to 2%",
+      "answer": "The statement is inaccurate. SRO 145-Law/2013, dated 2013-06-06, adjusted the duty rate from 3% to 2%.",
+      "clause_text_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been importing bovine meat products since 2023. Under the initial regulatory framework established in June 2023, they were subject to specific minimum value requirements for these goods. By July 2024, the government updated the minimum value tables for these categories.",
+      "question": "How did the regulatory framework for bovine meat valuation evolve between the introduction of SRO 134-Law/2023 and the issuance of the July 2024 order?",
+      "answer": "While SRO 134-Law/2023 initially established the minimum value baseline for bovine meat, the July 2024 order replaced the existing TABLE-2 to expand the minimum value tables to include broader categories, specifically adding edible offal of bovine animals to the existing fresh, chilled, and frozen meat classifications.",
+      "clauses_involved": [
+        "2023-06-01 | SRO 134-Law/2023",
+        "2024-07-08 | SRO 2024/07/08"
+      ],
+      "clause_text_ids": [
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer of metal products has been tracking HS code classifications for their raw materials. In 2010, they were required to substitute specific HS codes for metal pipes under the Customs Act 1969. In 2025, they are reviewing their compliance under the Customs Act 2023 regarding similar metal raw materials.",
+      "question": "What is the fundamental difference in the legal basis and the scope of HS code management between the 2010 substitution and the 2025 updates?",
+      "answer": "The 2010 substitution was issued under the Customs Act 1969 and focused on direct code replacement, whereas the 2025 updates are issued under the Customs Act 2023, which reflects a shift toward comprehensive tariff value management and industrial input regulation alongside continuous HS code refinement.",
+      "clauses_involved": [
+        "2010-10-30 | SRO 183-Law/2010",
+        "2025-06-02 | SRO 212-Law/2025"
+      ],
+      "clause_text_ids": [
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20250602_195-AIN_2025_17_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-06-06",
+      "relative_offset": "10 years later",
+      "question": "In 2013-06-06, SRO 145-Law/2013 adjusted percentage-based duty rates; what significant change regarding HS code valuation occurred exactly 10 years later?",
+      "answer": "10 years later, on 2023-06-01, SRO 134-Law/2023 was issued, which introduced the determination of minimum value (tariff value) for specific HS codes for the purpose of assessing Customs Duty.",
+      "clause_text_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1",
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "one year later",
+      "question": "Following the introduction of minimum tariff value determinations in 2023-06-01, what regulatory shift occurred one year later regarding the formalization of these structures?",
+      "answer": "One year later, on 2024-06-06, SRO 202-Law/2024 was issued, which formalized the tariff value and customs duty structures under the new Customs Act, 2023.",
+      "clause_text_ids": [
+        "20230601_124-AIN_2023_168_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one month later",
+      "question": "After the formalization of tariff value structures in 2024-06-06, what expansion to the minimum value tables occurred one month later?",
+      "answer": "One month later, on 2024-07-08, the government expanded the minimum value tables to include broader categories of bovine meat and milk powder.",
+      "clause_text_ids": [
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government established minimum import values for specific goods to be used for assessing customs duty.",
+        "The government formalized tariff value and customs duty structures under the authority of the Customs Act.",
+        "The government expanded minimum value tables to include broader categories of bovine meat and milk powder.",
+        "The government performed a direct substitution of specific HS codes for industrial headings."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government performed a direct substitution of specific HS codes for industrial headings.",
+          "date": "2010-10-30"
+        },
+        {
+          "event": "The government established minimum import values for specific goods to be used for assessing customs duty.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The government formalized tariff value and customs duty structures under the authority of the Customs Act.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The government expanded minimum value tables to include broader categories of bovine meat and milk powder.",
+          "date": "2024-07-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20101030_183-AIN_2010_2301-Customs/20101030_183-AIN_2010_2301-Customs_output.json",
+        "customs_sros_OCR/20230601_134-AIN_2023_178_Customs/20230601_134-AIN_2023_178_Customs_output.json",
+        "customs_sros_OCR/20240606_202-AIN_2024_54_Customs/20240606_202-AIN_2024_54_Customs_output.json",
+        "customs_sros_OCR/20240708_238-_2024_80/20240708_238-_2024_80_output.json"
+      ],
+      "thread_source_file": "cluster_00235_t0__hs-code-classification-and-tariff-adjustment.json"
+    }
+  ]
+}

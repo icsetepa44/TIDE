@@ -1,0 +1,55 @@
+{
+  "group_id": "cluster_00013_t2__X__cluster_00023_t0",
+  "entities": [
+    "taxes",
+    "Customs Authority"
+  ],
+  "cluster_ids": [
+    13,
+    23
+  ],
+  "thread_ids": [
+    "cluster_00013_t2",
+    "cluster_00023_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 3,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Customs Authority facilitate the payment of taxes and duties under the modernized digital framework?",
+      "answer": "The Customs Authority facilitates the payment of taxes and duties by providing licensees with a user ID, password, and agent number to operate within the customs computer system. This system allows for the submission of cargo declarations, assessment, and the payment of customs duties and taxes for imported shipments [0].",
+      "entities_involved": [
+        "taxes",
+        "Customs Authority"
+      ],
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What requirement does the Customs Authority impose regarding taxes to mitigate revenue risks during transit or transshipment?",
+      "answer": "To mitigate revenue risks and prevent irregularities during transit or transshipment, the Customs Authority requires an unconditional and continuous bank guarantee from a scheduled bank in Bangladesh, equivalent to the amount of applicable customs duties and taxes [1].",
+      "entities_involved": [
+        "taxes",
+        "Customs Authority"
+      ],
+      "clause_text_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_10"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What limitation is placed on challenging the Customs Authority's decisions regarding the imposition or collection of taxes in civil courts?",
+      "answer": "No civil suit or legal proceedings can be filed in any civil court to determine the validity or appropriateness of any order or decision made by a customs official, the Board, or the Government concerning the assessment, imposition, exemption, or collection of customs duties or taxes [2].",
+      "entities_involved": [
+        "taxes",
+        "Customs Authority"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_312"
+      ]
+    }
+  ]
+}

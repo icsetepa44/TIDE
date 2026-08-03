@@ -1,0 +1,107 @@
+{
+  "thread_id": "cluster_00436_t0",
+  "cluster_id": 436,
+  "cluster_label": "written application",
+  "title": "Licensing Duplicate Issuance Procedure",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 5,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A busy customs agent based at the Chattogram port realized in August 2016 that their official license document had gone missing during a relocation of their office. Concerned about their ability to continue clearing shipments, they immediately initiated the process to request a duplicate copy from the authorities. As they prepare their formal request, they need to verify the specific financial requirement mandated by the current licensing framework. What fee must the customs agent pay to obtain a duplicate license under the 2016 rules?",
+      "question": "What fee must the customs agent pay to obtain a duplicate license under the 2016 rules?",
+      "answer": "The customs agent must pay a fee of 2,500 BDT.",
+      "date_or_instrument": "2016-06-02 | Customs Agents Licensing Rules 2016",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "While organizing paperwork for an upcoming audit in 2016, a customs agent discovered that their original license was nowhere to be found. They are now drafting a formal written application to the licensing authority to request a replacement for the lost document. Beyond the payment of the prescribed fee, they are reviewing the regulatory requirements to ensure their submission is complete and compliant. Besides the written application and fee, what additional document must the customs agent submit according to the 2016 rules?",
+      "question": "Besides the written application and fee, what additional document must the customs agent submit according to the 2016 rules?",
+      "answer": "The customs agent must submit a copy of a General Diary (GD) filed with the police regarding the loss of the license.",
+      "date_or_instrument": "2016-06-02 | Customs Agents Licensing Rules 2016",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An Express Service Provider operating out of Dhaka faced a setback in July 2024 when their original license was misplaced during a busy peak season. Realizing the document is essential for their ongoing operations, they are preparing to formally request a duplicate copy from the appropriate customs authority. As they gather their administrative files, they must determine the exact cost associated with this replacement process. What is the prescribed fee for obtaining a duplicate license under the Express Service Provider Rules 2024?",
+      "question": "What is the prescribed fee for obtaining a duplicate license under the Express Service Provider Rules 2024?",
+      "answer": "The prescribed fee is 10,000 BDT.",
+      "date_or_instrument": "2024-06-06 | Express Service Provider Rules 2024",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "After misplacing their license in 2024, an Express Service Provider is diligently following the official protocol to secure a duplicate copy. They have drafted their application and are now ready to finalize the required payment to the government treasury. They want to ensure they comply with the specific digital payment mandates introduced under the latest regulatory updates. What specific payment method is mandated for the duplicate license fee under the 2024 rules?",
+      "question": "What specific payment method is mandated for the duplicate license fee under the 2024 rules?",
+      "answer": "The payment must be made through the e-Challan system.",
+      "date_or_instrument": "2024-06-06 | Express Service Provider Rules 2024",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics firm is conducting a historical compliance review, comparing the administrative costs of maintaining their operational credentials over the last decade. They are looking specifically at the regulatory changes regarding the replacement of lost licenses between the 2016 Customs Agents Licensing Rules and the 2024 Express Service Provider Rules. They need to calculate the exact adjustment in the government-mandated charges for issuing a duplicate document. How much did the fee for a duplicate license increase between the 2016 Customs Agents Licensing Rules and the 2024 Express Service Provider Rules?",
+      "question": "How much did the fee for a duplicate license increase between the 2016 Customs Agents Licensing Rules and the 2024 Express Service Provider Rules?",
+      "answer": "The fee increased from 2,500 BDT to 10,000 BDT.",
+      "date_or_instrument": "2016-06-02 and 2024-06-06",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the Express Service Provider Rules 2024, an express service provider seeking a duplicate license is required to pay a fee of 2,500 BDT and submit a copy of a General Diary (GD) to the licensing authority.",
+      "question": "What is the correct fee and payment procedure for an Express Service Provider seeking a duplicate license according to the 2024 regulations?",
+      "conflict": "The misaligned context incorrectly applies the 2016 fee (2,500 BDT) and the GD requirement to the 2024 Express Service Provider Rules.",
+      "answer": "According to the Express Service Provider Rules 2024 (dated 2024-06-06), the fee for a duplicate license is 10,000 BDT, and the payment must be made via the e-Challan system, not through the 2016-era 2,500 BDT fee or GD requirement.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A logistics operator who obtained their license under the 2016 Customs Agents Licensing Rules lost their license in 2024. They are now preparing to apply for a duplicate copy and are reviewing the requirements for the application fee and payment method compared to the rules that were in effect when they first obtained their license.",
+      "question": "How have the financial requirements and payment procedures for obtaining a duplicate license changed for this operator between the 2016 rules and the 2024 rules?",
+      "answer": "The fee has increased from 2,500 BDT to 10,000 BDT, and the payment method has shifted from a general fee payment to a mandatory e-challan.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "eight years later",
+      "question": "In 2016-06-02, the Customs Agents Licensing Rules established a 2,500 BDT fee for a duplicate license. How did the fee and payment method change eight years later?",
+      "answer": "Eight years later, in the Express Service Provider Rules 2024, the fee was increased to 10,000 BDT and the payment method was shifted to mandatory e-challan.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ]
+}

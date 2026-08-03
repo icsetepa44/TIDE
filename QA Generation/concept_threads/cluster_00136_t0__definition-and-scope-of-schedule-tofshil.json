@@ -1,0 +1,733 @@
+{
+  "cluster_id": 136,
+  "cluster_label": "schedule",
+  "thread_index": 0,
+  "thread_id": "cluster_00136_t0",
+  "title": "Definition and Scope of 'Schedule' (Tofshil)",
+  "summary": "The definition of 'Schedule' (তফসিল) remains legally static across various rules, consistently defined as any schedule attached to the respective rules. While the definition itself does not evolve in substance, it serves as a foundational legal anchor for baggage declarations and warehouse inventory procedures.",
+  "evolution": {
+    "legal_basis": "Remains consistent as a reference to appended schedules within the specific rule set."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Rules",
+      "change": "Initial definition established.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2"
+      ]
+    },
+    {
+      "date": "2016-04-08",
+      "instrument": "Rules",
+      "change": "Reiteration of definition.",
+      "clause_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2"
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "instrument": "Rules",
+      "change": "Reiteration of definition.",
+      "clause_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Rules",
+      "change": "Reiteration of definition in updated 2024 context.",
+      "clause_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 6,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(ক) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী অথবা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(খ) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী;\n(গ) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল।",
+      "entity_concepts": {
+        "Baggage": [
+          "Baggage is defined as a reasonable quantity of food items, apparel, household goods, or other personal effects imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as any person arriving from abroad."
+        ],
+        "Schedule": [
+          "A schedule is defined as any schedule attached to these rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1276",
+      "entity_sub_entities": {
+        "Baggage": [
+          "food items",
+          "apparel",
+          "household goods",
+          "personal effects"
+        ],
+        "Passenger": [
+          "person"
+        ],
+        "Schedule": [
+          "schedule"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        70,
+        136,
+        257,
+        283,
+        465,
+        521,
+        1325
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(১) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল;\n(২) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(৩) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term Schedule is defined as any schedule appended to these rules."
+        ],
+        "Baggage": [
+          "Baggage is defined as a reasonable quantity of food items, apparel, household goods, or other personal effects imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as any individual arriving from abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_991",
+      "entity_sub_entities": {
+        "Schedule": [
+          "schedule"
+        ],
+        "Baggage": [
+          "food items",
+          "apparel",
+          "household goods",
+          "personal effects"
+        ],
+        "Passenger": [
+          "individual"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        136,
+        257,
+        283,
+        465,
+        521,
+        710,
+        1325
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায় -\n(১) ‘‘তফসিল’’ অর্থ এই বিধিমালার কোনো তফসিল;\n(২) ‘‘ব্যাগেজ’’ অর্থ কোনো যাত্রী কর্তৃক আমদানিকৃত যুক্তিসঙ্গত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী, যার প্রতিটি আইটেমের ওজন ১৫ কেজির অধিক নহে; এবং\n(৩) ‘‘যাত্রী’’ অর্থ বিদেশ হইতে আগত কোনো যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term is defined as any schedule specifically contained within these rules."
+        ],
+        "Baggage": [
+          "Baggage refers to food items, clothing, household goods, or other personal effects imported by a passenger in reasonable quantities. Each individual item of baggage must not exceed a specified weight threshold."
+        ],
+        "Passenger": [
+          "A passenger is defined as any individual arriving from abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2511",
+      "entity_sub_entities": {
+        "Schedule": [
+          "schedule"
+        ],
+        "Baggage": [
+          "food items",
+          "clothing",
+          "household goods",
+          "personal effects",
+          "individual item of baggage"
+        ],
+        "Passenger": [
+          "individual"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        136,
+        257,
+        283,
+        465,
+        482,
+        521,
+        710,
+        9001
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়,—\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “কমিশারিয়াট” অর্থ ওয়ারহাউস লাইসেন্সের আওতায় আমদানিকৃত খাদ্যদ্রব্য, সিগারেট, লিকার এবং অন্যান্য পানীয় দ্রব্যাদি কেবল রপ্তানি প্রক্রিয়াকরণ অঞ্চলের বিদেশি বিনিয়োগকারী, বিদেশি কর্মী ও বিদেশি কারিগরদের নিকট বিক্রয়ের অনুমোদিত প্রতিষ্ঠান;\n(গ) “ডিউটি পেইড বন্ড প্রতিষ্ঠান” অর্থ বাংলাদেশে আগত বা অবস্থানরত বিদেশি নাগরিকদের নিকট বন্ড সুবিধার আওতায় আমদানিকৃত পণ্য শুল্ককর আদায় সাপেক্ষে বৈদেশিক মুদ্রার বিনিময়ে বিক্রয়কারী প্রতিষ্ঠান;\n(ঘ) “ডিউটি ফ্রি বন্ড প্রতিষ্ঠান” অর্থ বিদেশগামী বা বিদেশ হইতে আগত কোনো যাত্রীর নিকট বন্ড সুবিধার আওতায় আমদানিকৃত পণ্য শুল্কমুক্তভাবে বৈদেশিক মুদ্রার বিনিময়ে বিক্রয়কারী প্রতিষ্ঠান;\n(ঙ) “ডিপ্লোমেটিক বন্ড প্রতিষ্ঠান” অর্থ কূটনৈতিক বা বিশেষ সুবিধাতোভেগী বিদেশি নাগরিকদের নিকট বন্ড সুবিধার আওতায় আমদানিকৃত পণ্য শুল্কমুক্তভাবে বৈদেশিক মুদ্রার বিনিময়ে বিক্রয়কারী প্রতিষ্ঠান;\n(চ) “তফবসল” অর্থ এই বিধিমালার কোনো তফসিল;\n(ছ) “প্রচ্ছন্ন রপ্তানিমুখী শিল্প প্রতিষ্ঠান” অর্থ বৈদেশিক মুদ্রায় স্থাপিত ব্যাক টু ব্যাক ঋণপত্র (BBLC) এর বিপরীতে পশ্চাৎসংযোগ শিল্প হিসাবে শতকরা শতভাগ রপ্তানিমুখী শিল্প প্রতিষ্ঠানে সরবরাহতব্য আনুষঙ্গিক দ্রব্যাদি উৎপাদন ও সরবরাহকারী শিল্প প্রতিষ্ঠান;\n(জ) “ফরম” অর্থ এই বিধিমালার ফরম;\n(ঝ) যুগপৎ প্রচ্ছন্ন ও সরাসরি রপ্তানিমুখী শিল্প প্রতিষ্ঠান: অর্থ এমন কোনো শিল্প প্রতিষ্ঠান যাহা কর্তৃক প্রস্তুতকৃত ও উৎপাদিত আংশিক পণ্য সরাসরি বিদেশে এবং আংশিক পণ্য বৈদেশিক মুদ্রায় স্থাপিত ব্যাক টু ব্যাক ঋণপত্র (BBLC) এর বিপরীতে পশ্চাৎসংযোগ শিল্প হিসাবে সরাসরি রপ্তানিকারককে সরবরাহ করে;\n(ঞ) “লাইসেন্স” অর্থ আইনের ধারা ১২ এর অধীন প্রদত্ত ওয়ারহাউস লাইসেন্স;\n(ট) “লাইসেন্সি” অর্থ এই বিধিমালার অধীন লাইসেন্সপ্রাপ্ত কোনো ব্যক্তি, প্রতিষ্ঠান বা কোম্পানি;\n(ঠ) “লাইসেন্সিং কর্তৃপক্ষ” অর্থ বিধি ৩ এ উল্লিখিত লাইসেন্সিং কর্তৃপক্ষ;\n(ড) “লিয়েন ব্যাংক” অর্থ লাইসেন্সিং কর্তৃপক্ষ কর্তৃক অনুমোদিত ব্যাংক, যাহার মাধ্যমে লাইসেন্সিকে যাবতীয় আমদানি, রপ্তানি ও ব্যবসায়িক কার্যক্রম পরিচালনা করিতে হইবে;\n(ঢ) “শিল্প প্রতিষ্ঠান” অর্থ দেশীয় অথবা আমদানিকৃত কাঁচামাল ব্যবহার করিয়া উৎপাদন প্রক্রিয়ার মাধ্যমে দেশীয় ভোগের জন্য অথবা রপ্তাবনর জন্য পণ্য উৎপাদনকারী শিল্প প্রতিষ্ঠান;\n(ণ) “সরাসরি রপ্তানিমুখী শিল্প প্রতিষ্ঠান” অর্থ এমন কোনো শিল্প প্রতিষ্ঠান যাহা কর্তৃক প্রস্তুতকৃত বা উৎপাদিত সমুদয় পণ্য দেশের ভৌগোলিক সীমানার বাহিরে বা বিদেশে বৈদেশিক মুদ্রার বিনিময়ে রপ্তানি করে; এবং\n(ত) “সাধারণ বন্ড” বা “জেনারেল বন্ড” অর্থ আইনের ধারা ১২ এর উপ ধারা (৩) ও ধারা ১০৯ এর উদ্দেশ্য পূরণকল্পে লাইসেন্সি কর্তৃক গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের সহিত সম্পাদিত একটি বন্ড, যাহা লাইসেন্সি কর্তৃক বন্ডের আওতায় আমদানিকৃত পণ্য খালাস, অনুমোদিত ওয়ারহাউস সংরক্ষণ ও ব্যবহারের জন্য নির্দেশিত অংকের অর্থ পরিশোধের নিশ্চয়তা প্রদান করিয়া থাকে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This law is formally defined as the Customs Act 2023."
+        ],
+        "Commissariat": [
+          "A commissariat is an authorized establishment that sells food, cigarettes, liquor, and other beverages to foreign investors, workers, and technicians within export processing zones."
+        ],
+        "Duty Paid Bonded Warehouse": [
+          "This refers to an establishment that sells bonded imported goods to foreign citizens residing or present in Bangladesh, subject to the payment of applicable duties and taxes in foreign currency."
+        ],
+        "Duty Free Bonded Warehouse": [
+          "This refers to an establishment that sells bonded imported goods duty-free to arriving or departing passengers in exchange for foreign currency."
+        ],
+        "Diplomatic Bonded Warehouse": [
+          "This refers to an establishment that sells bonded imported goods duty-free to diplomats or foreign citizens enjoying special privileges in exchange for foreign currency."
+        ],
+        "Schedule": [
+          "This term refers to any schedule contained within these rules."
+        ],
+        "Deemed Export-Oriented Industrial Unit": [
+          "This refers to an industrial unit that produces and supplies auxiliary materials to fully export-oriented industries through back-to-back letters of credit as a backward linkage industry."
+        ],
+        "Form": [
+          "This term refers to any form prescribed within these rules."
+        ],
+        "Combined Deemed and Direct Export-Oriented Industrial Unit": [
+          "This refers to an industrial unit that exports a portion of its products directly abroad and supplies the remaining portion as backward linkage to direct exporters via back-to-back letters of credit."
+        ],
+        "Warehouse License": [
+          "This license is granted under Section 12 of the Customs Act 2023."
+        ],
+        "Licensee": [
+          "This refers to any person, institution, or company that has been granted a license under these rules."
+        ],
+        "Licensing Authority": [
+          "This refers to the licensing authority designated under Rule 3 of these rules."
+        ],
+        "Lien Bank": [
+          "This refers to a bank approved by the licensing authority through which the licensee must conduct all import, export, and business operations."
+        ],
+        "Industrial Unit": [
+          "This refers to an entity that processes raw materials, whether domestic or imported, to manufacture products for domestic consumption or for export."
+        ],
+        "Direct Export-Oriented Industrial Unit": [
+          "This refers to an industrial unit that exports all of its produced or manufactured goods outside the geographical boundaries of the country in exchange for foreign currency."
+        ],
+        "General Bond": [
+          "A general bond is an agreement executed by the licensee with the Government of Bangladesh for the purposes of Section 12(3) and Section 109 of the Act. It serves as a guarantee for the payment of prescribed amounts regarding the clearance, storage, and use of imported bonded goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2774",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Customs Act 2023"
+        ],
+        "Commissariat": [
+          "food",
+          "cigarettes",
+          "liquor",
+          "beverages",
+          "foreign investors",
+          "workers",
+          "technicians"
+        ],
+        "Duty Paid Bonded Warehouse": [
+          "bonded imported goods",
+          "foreign citizens",
+          "duties",
+          "taxes",
+          "foreign currency"
+        ],
+        "Duty Free Bonded Warehouse": [
+          "bonded imported goods",
+          "arriving passengers",
+          "departing passengers",
+          "foreign currency"
+        ],
+        "Diplomatic Bonded Warehouse": [
+          "bonded imported goods",
+          "diplomats",
+          "foreign citizens",
+          "foreign currency"
+        ],
+        "Schedule": [
+          "schedule"
+        ],
+        "Deemed Export-Oriented Industrial Unit": [
+          "industrial unit",
+          "auxiliary materials",
+          "fully export-oriented industries",
+          "back-to-back letters of credit"
+        ],
+        "Form": [
+          "form"
+        ],
+        "Combined Deemed and Direct Export-Oriented Industrial Unit": [
+          "industrial unit",
+          "products",
+          "backward linkage",
+          "direct exporters",
+          "back-to-back letters of credit"
+        ],
+        "Warehouse License": [
+          "Section 12",
+          "Customs Act 2023"
+        ],
+        "Licensee": [
+          "person",
+          "institution",
+          "company"
+        ],
+        "Licensing Authority": [
+          "Rule 3"
+        ],
+        "Lien Bank": [
+          "bank",
+          "licensing authority"
+        ],
+        "Industrial Unit": [
+          "raw materials",
+          "products"
+        ],
+        "Direct Export-Oriented Industrial Unit": [
+          "industrial unit",
+          "produced goods",
+          "manufactured goods",
+          "foreign currency"
+        ],
+        "General Bond": [
+          "licensee",
+          "Government of Bangladesh",
+          "Section 12(3)",
+          "Section 109",
+          "imported bonded goods"
+        ]
+      },
+      "clause_clusters": [
+        12,
+        13,
+        19,
+        30,
+        32,
+        43,
+        70,
+        83,
+        136,
+        190,
+        246,
+        309,
+        353,
+        393,
+        461,
+        647,
+        691,
+        711,
+        923,
+        1106,
+        1166,
+        1204,
+        1334,
+        1467,
+        1707,
+        1925,
+        2007,
+        2474,
+        2510,
+        2658,
+        2848,
+        2951,
+        3008,
+        3050,
+        3488,
+        3845,
+        4013,
+        5874,
+        6460,
+        6477,
+        7168,
+        7199,
+        7351,
+        7530,
+        7533,
+        8229,
+        8362,
+        8902,
+        12747,
+        13406
+      ],
+      "source_file": "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়,—\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “আমদানি প্রাপ্যতা” অর্থ অনুমোদিত মেশিনের বার্ষিক উৎপাদন ক্ষমতা অনুযায়ী এবং কাঁচামাল ব্যবহারের পরিমাণ বিবেচনায়পূর্বক ওয়্যারহাউসিং সুবিধায় আমদানিযোগ্য কাঁচামালের পরিমাণ;\n(গ) “ইউটিলাইজেশন পারমিশন (ইউপি)” অর্থ আইনের ধারা ১১৭ ও ধারা ১১৮ এর উদ্দেশ্য পূরণকল্পে, ওয়্যারহাউস পদ্ধতির আওতায় শুল্কমুক্তভাবে আমদানিকৃত ও যথাযথ প্রক্রিয়ায় ইন্টু-বন্ডকৃত কাঁচামাল দ্বারা পণ্য উৎপাদনের লক্ষ্যে কাস্টমস কর্তৃপক্ষ কর্তৃক প্রদত্ত অনুমতিপত্র;\n(ঘ) “কাঁচামাল” অর্থ রপ্তানির লক্ষ্যে পণ্য উৎপাদনের জন্য আমদানিকৃত ও বিদ্যমান বিধি-বিধান অনুযায়ী স্থানীয় উৎস হইতে সংগৃহীত কাঁচামাল;\n(ঙ) “তফসিল” অর্থ এই বিধিমালার কোনো তফসিল;\n(চ) “পরিদপ্তর” অর্থ শুল্ক রেয়াত ও প্রত্যর্পণ পরিদপ্তর; এবং\n(ছ) “সহগ” অর্থ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামালের বর্ণনা ও পরিমাণ সম্পর্কিত উপযুক্ত কর্তৃপক্ষ কর্তৃক অনুমোদিত ঘোষণাপত্র।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "The term Act is defined as the Customs Act 2023 for the purposes of these rules."
+        ],
+        "Import Eligibility": [
+          "Import eligibility is defined as the quantity of raw materials that may be imported under warehousing facilities, determined based on the approved annual production capacity of machinery and the projected consumption of raw materials."
+        ],
+        "Utilization Permission": [
+          "Utilization Permission is defined as the authorization issued by the customs authorities to produce goods using duty-free raw materials imported under the warehousing system and properly bonded, in accordance with the provisions of the Customs Act."
+        ],
+        "Raw Materials": [
+          "Raw materials are defined as those imported or locally procured in accordance with existing regulations for the purpose of producing goods for export."
+        ],
+        "Schedule": [
+          "The term Schedule is defined as any schedule contained within these rules."
+        ],
+        "Directorate": [
+          "The term Directorate is defined as the Directorate of Customs Duty Exemption and Drawback."
+        ],
+        "Input-Output Coefficient": [
+          "The term Coefficient refers to a declaration approved by the appropriate authority detailing the description and quantity of raw materials required to produce a single unit of finished goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2813",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Act",
+          "Customs Act 2023"
+        ],
+        "Import Eligibility": [
+          "raw materials",
+          "warehousing facilities",
+          "approved annual production capacity",
+          "machinery",
+          "projected consumption"
+        ],
+        "Utilization Permission": [
+          "authorization",
+          "customs authorities",
+          "goods",
+          "duty-free raw materials",
+          "warehousing system",
+          "Customs Act"
+        ],
+        "Raw Materials": [
+          "raw materials",
+          "goods",
+          "export"
+        ],
+        "Schedule": [
+          "schedule"
+        ],
+        "Directorate": [
+          "Directorate of Customs Duty Exemption and Drawback"
+        ],
+        "Input-Output Coefficient": [
+          "Coefficient",
+          "declaration",
+          "appropriate authority",
+          "raw materials",
+          "finished goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        12,
+        19,
+        33,
+        37,
+        45,
+        136,
+        137,
+        144,
+        234,
+        242,
+        470,
+        514,
+        593,
+        737,
+        1159,
+        1675,
+        3199,
+        3847,
+        5618,
+        7379,
+        7567,
+        11051,
+        13342
+      ],
+      "source_file": "customs_sros_OCR/20240606_212-AIN_2024_64_Customs/20240606_212-AIN_2024_64_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে এই বিধিমালায়,-\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “ইউটিলাইজেশন ডিক্লারেশন (ইউডি)” অর্থ আইনের ধারা ১১৭ এর উপ-ধারা (১) ও ধারা ১১৮ এর অধীন ওয়্যারহাউস পদ্ধতির আওতায় শুল্কমুক্তভাবে আমদানিকৃত ও যথাযথ প্রক্রিয়ায় ইন্টু-বন্ডকৃত কাঁচামাল দ্বারা পণ্য উৎপাদনের লক্ষ্যে বন্ডদাতা কর্তৃক নির্ধারিত ফরমে দাখিলকৃত এবং কাস্টমস কর্তৃপক্ষের নিকট হইতে অনুমতিপ্রাপ্ত কোনো ব্যবসায় সংঘ কর্তৃক প্রত্যায়িত ঘোষণাপত্র, যাহাতে রপ্তানিকারক, আমদানিকারক, রপ্তানিতব্য পণ্য, রপ্তানি চুক্তি বা ঋণপত্র, রপ্তানিতব্য পণ্যের উৎপাদনে প্রয়োজনীয় কাঁচামালের বর্ণনা ও পরিমাণ, কনজাম্পশন, রপ্তানি চুক্তি বা ঋণপত্রের অধীন সকল ব্যাক টু ব্যাক ঋণপত্র (BBLC), জাহাজীকরণের তারিখ সম্পর্কিত বিস্তারিত বিবরণ থাকে;\n(গ) “কাঁচামাল” অর্থ রপ্তানির লক্ষ্যে পণ্য উৎপাদনের জন্য আমদানিকৃত কাঁচামাল ও মধ্যবর্তী পণ্য;\n(ঘ) “তফসিল” অর্থ এই বিধিমালার কোনো তফসিল;\n(ঙ) “পণ্যের স্বত্বাধিকারী” অর্থ কোনো শিল্প প্রতিষ্ঠানের স্বত্বাধিকারী বা ব্যবস্থাপনাকারী কোনো ব্যক্তি, ব্যবসায় প্রতিষ্ঠান, ব্যক্তি সংঘ বা সমিতি;\n(চ) “বন্ডদাতা” অর্থ আইনের ধারা ১০৯ এর অধীন বন্ডদাতা;\n(ছ) “লাইসেন্স” অর্থ আইনের ধারা ১২ এর অধীন কোনো শিল্প প্রতিষ্ঠানকে প্রদত্ত ওয়্যারহাউস লাইসেন্স;\n(জ) “লিয়েন ব্যাংক” অর্থ লাইসেন্সিং কর্তৃপক্ষ কর্তৃক অনুমোদিত বাণিজ্যিক ব্যাংক যাহার মাধ্যমে বন্ড লাইসেন্সধারী প্রতিষ্ঠান তাহার সকল প্রকার আমদানি-রপ্তানি কার্যক্রম ও লেনদেন সম্পাদন করিবে;\n(ঝ) “শিল্প প্রতিষ্ঠান” অর্থ সম্পূর্ণ রপ্তানিমুখী কোনো শিল্প প্রতিষ্ঠান, যাহা পণ্য প্রস্তুত ও রপ্তানির লক্ষ্যে প্রয়োজনীয় কাঁচামাল আমদানি করে; এবং\n(ঞ) “সরাসরি রপ্তানিমুখী শিল্প প্রতিষ্ঠান” অর্থ এইরূপ কোনো শিল্প প্রতিষ্ঠান যাহা তৎকর্তৃক প্রস্তুতকৃত বা উৎপাদিত সকল পণ্য বিদেশে রপ্তানি করে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This law is officially referred to as the Act within these rules."
+        ],
+        "Utilization Declaration": [
+          "Defined as a document submitted by the bonded warehouse licensee to customs authorities and certified by a recognized business association, it specifies details such as imported raw materials, production processes, and export contracts under the bonded warehouse system.",
+          "It serves as a mandatory declaration of raw materials to be used in production for export under specific sections of the Customs Act."
+        ],
+        "Raw Materials": [
+          "These are defined as inputs and intermediate goods imported specifically for the purpose of manufacturing products for export."
+        ],
+        "Schedule": [
+          "Refers to any schedule appended to these rules."
+        ],
+        "Product Owner": [
+          "Defined as any individual, business entity, group of persons, or association that owns or manages an industrial enterprise."
+        ],
+        "Bonded Warehouse License": [
+          "Refers to the party responsible for the bonded facility as defined under the relevant section of the Customs Act."
+        ],
+        "Warehouse License": [
+          "Defined as the license granted to an industrial enterprise under the Customs Act for operating a bonded warehouse."
+        ],
+        "Lien Bank": [
+          "A commercial bank approved by the licensing authority through which a bonded warehouse licensee conducts all its import-export activities and financial transactions."
+        ],
+        "Industrial Enterprise": [
+          "Defined as an export-oriented entity that imports necessary raw materials for the production and export of finished goods."
+        ],
+        "Direct Export-Oriented Industrial Enterprise": [
+          "An industrial enterprise that exports its entire production of goods to foreign markets."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2828",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Act"
+        ],
+        "Utilization Declaration": [
+          "document",
+          "bonded warehouse licensee",
+          "customs authorities",
+          "business association",
+          "imported raw materials",
+          "production processes",
+          "export contracts",
+          "bonded warehouse system",
+          "raw materials",
+          "production",
+          "export",
+          "Customs Act"
+        ],
+        "Raw Materials": [
+          "inputs",
+          "intermediate goods",
+          "products",
+          "export"
+        ],
+        "Schedule": [
+          "schedule"
+        ],
+        "Product Owner": [
+          "individual",
+          "business entity",
+          "group of persons",
+          "association",
+          "industrial enterprise"
+        ],
+        "Bonded Warehouse License": [
+          "bonded facility",
+          "Customs Act"
+        ],
+        "Warehouse License": [
+          "license",
+          "industrial enterprise",
+          "Customs Act",
+          "bonded warehouse"
+        ],
+        "Lien Bank": [
+          "commercial bank",
+          "licensing authority",
+          "bonded warehouse licensee",
+          "import-export activities",
+          "financial transactions"
+        ],
+        "Industrial Enterprise": [
+          "export-oriented entity",
+          "raw materials",
+          "production",
+          "export",
+          "finished goods"
+        ],
+        "Direct Export-Oriented Industrial Enterprise": [
+          "industrial enterprise",
+          "production",
+          "goods",
+          "foreign markets"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        12,
+        19,
+        37,
+        43,
+        45,
+        83,
+        84,
+        106,
+        132,
+        136,
+        144,
+        146,
+        234,
+        251,
+        309,
+        386,
+        446,
+        489,
+        593,
+        710,
+        711,
+        733,
+        790,
+        1562,
+        2480,
+        2511,
+        2953,
+        3535,
+        3929,
+        3990,
+        4152,
+        6100,
+        6465,
+        7360,
+        7943,
+        8231,
+        8563,
+        9157,
+        11003
+      ],
+      "source_file": "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 2,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(ক) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী অথবা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(খ) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী;\n(গ) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল।",
+      "entity_concepts": {
+        "Baggage": [
+          "Baggage is defined as reasonable quantities of food, clothing, household, or other personal items imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as any person arriving from abroad."
+        ],
+        "Schedule": [
+          "The term schedule refers to any schedule attached to these rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1317",
+      "entity_sub_entities": {
+        "Baggage": [
+          "food",
+          "clothing",
+          "household items",
+          "personal items"
+        ],
+        "Passenger": [
+          "person"
+        ],
+        "Schedule": [
+          "schedule"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        70,
+        136,
+        257,
+        427,
+        482,
+        525,
+        1204
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(১) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল;\n(২) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(৩) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term Schedule refers to any schedule contained within these rules."
+        ],
+        "Baggage": [
+          "Baggage is defined as a reasonable quantity of food items, clothing, household goods, or other personal effects imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as an individual arriving from abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1377",
+      "entity_sub_entities": {
+        "Schedule": [
+          "schedule"
+        ],
+        "Baggage": [
+          "food items",
+          "clothing",
+          "household goods",
+          "personal effects"
+        ],
+        "Passenger": [
+          "individual"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        136,
+        257,
+        283,
+        465,
+        482,
+        521,
+        710
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    }
+  ]
+}

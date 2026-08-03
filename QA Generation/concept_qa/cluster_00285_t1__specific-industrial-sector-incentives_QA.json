@@ -1,0 +1,150 @@
+{
+  "thread_id": "cluster_00285_t1",
+  "cluster_id": 285,
+  "cluster_label": "industrial raw materials",
+  "title": "Specific Industrial Sector Incentives",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the regulatory approach to industrial raw material incentives evolved from 2017 to 2023 in terms of scope and specificity?",
+      "answer": "The regulatory scope has evolved from a singular focus on industrial molds in 2017 (SRO 133-AIN/2017) to a broader, more complex framework covering compressors in 2020 (SRO 131-AIN/2020) and electrical components like switches and sockets by 2023 (SRO 120-AIN/2023). This progression reflects a shift toward incentivizing a wider range of high-value industrial manufacturing sectors while maintaining strict local production goals.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20200611_131-AIN_2019_82_Customs_৩ জুন, ২০২০_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What common legal foundation and regulatory mechanism have consistently underpinned the duty concessions for industrial raw materials since 2017?",
+      "answer": "Across all three periods (2017, 2020, and 2023), the government has consistently utilized Section 19(1) of the Customs Act 1969 as the legal authority to grant duty and tax exemptions. Furthermore, each SRO requires the National Board of Revenue to be consulted, ensuring that the concessions remain aligned with the public interest and local manufacturing objectives.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20200611_131-AIN_2019_82_Customs_৩ জুন, ২০২০_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the procedural requirement for manufacturers change as the scope of industrial incentives expanded to include compressor manufacturing in 2020?",
+      "answer": "With the introduction of SRO 131-AIN/2020 for compressor manufacturing, the procedural requirements became more rigorous than the initial 2017 mold production incentives. Manufacturers are now required to hold a valid Industrial IRC, maintain VAT compliance, undergo physical inspections by a committee involving the National Board of Revenue and the Ministry of Industries, and obtain approval for input-output coefficients from the VAT commissionerate.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20200611_131-AIN_2019_82_Customs_৩ জুন, ২০২০_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the implications for manufacturers who fail to adhere to the conditions set forth in the 2023 incentive policy for electrical components?",
+      "answer": "According to SRO 120-AIN/2023, any violation of the prescribed conditions that results in revenue loss will subject the manufacturer to penalties and legal action as provided under the Customs Act 1969. This emphasizes that while the government provides tax concessions to support local production, it enforces strict accountability to prevent the misuse of these facilities.",
+      "clause_text_ids": [
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way does the duty structure for imported industrial materials differ between the 2017 mold production incentives and the 2023 electrical component incentives?",
+      "answer": "The duty structure reflects varying levels of support based on the specific industry; the 2017 SRO 133-AIN/2017 capped the customs duty for industrial molds at 1% of the value-based rate. In contrast, the 2023 SRO 120-AIN/2023 for electrical switches and sockets provides a higher duty cap, exempting the portion of customs duty exceeding 5% of the value-based rate.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer began producing industrial molds in 2017 under SRO 133-AIN/2017, benefiting from a 1% duty cap. In 2023, the same manufacturer expands their facility to also produce electrical switches and sockets, seeking similar fiscal support for these new components.",
+      "question": "How does the duty concession rate for the manufacturer's new electrical components (2023) compare to the duty cap they were granted for their industrial molds (2017)?",
+      "answer": "The duty cap for industrial molds (2017) was 1%, whereas the duty cap for the new electrical components (2023) is 5%.",
+      "clauses_involved": [
+        "2017-06-01 | SRO 133-AIN/2017",
+        "2023-06-01 | SRO 120-AIN/2023"
+      ],
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company has been manufacturing compressors since 2020 under the facility provided by SRO 131-AIN/2020. They are now considering adding a production line for electrical switches and sockets under the 2023 incentive scheme.",
+      "question": "Regarding customs duty, how does the 2020 compressor manufacturing incentive differ from the 2023 electrical components incentive in terms of the number of duty tiers applied to raw materials?",
+      "answer": "The 2020 compressor incentive utilized two duty tiers (1% and 5% for different tables), while the 2023 electrical components incentive provides a single duty cap of 5%.",
+      "clauses_involved": [
+        "2020-06-11 | SRO 131-AIN/2020",
+        "2023-06-01 | SRO 120-AIN/2023"
+      ],
+      "clause_text_ids": [
+        "20200611_131-AIN_2019_82_Customs_৩ জুন, ২০২০_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "three years later",
+      "question": "Following the introduction of the 1% duty cap for industrial molds in 2017-06-01, what specific duty concessions were introduced three years later for local industrial manufacturing?",
+      "answer": "In 2020-06-11 (SRO 131-AIN/2020), the government introduced specific duty concessions for the import of industrial raw materials and components used by local compressor manufacturing establishments.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20200611_131-AIN_2019_82_Customs_৩ জুন, ২০২০_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2020-06-11",
+      "relative_offset": "three years later",
+      "question": "Building upon the 2020-06-11 SRO regarding compressor manufacturing, what new industrial sector received duty and tax exemptions three years later?",
+      "answer": "In 2023-06-01 (SRO 120-AIN/2023), the government extended duty and tax exemptions to the import of specific industrial raw materials used for the local production of electrical switches, sockets, and related components.",
+      "clause_text_ids": [
+        "20200611_131-AIN_2019_82_Customs_৩ জুন, ২০২০_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these industrial duty concession events in chronological order.",
+      "events_shuffled": [
+        "Incentives are provided for the local production of electrical switches, sockets, and related components with a duty cap.",
+        "Duty concessions are established for the import of raw materials used in local compressor manufacturing.",
+        "A one percent duty cap is introduced for the local production of industrial molds."
+      ],
+      "answer_ordered": [
+        {
+          "event": "A one percent duty cap is introduced for the local production of industrial molds.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "Duty concessions are established for the import of raw materials used in local compressor manufacturing.",
+          "date": "2020-06-11"
+        },
+        {
+          "event": "Incentives are provided for the local production of electrical switches, sockets, and related components with a duty cap.",
+          "date": "2023-06-01"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20200611_131-AIN_2019_82_Customs_৩ জুন, ২০২০_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_133-AIN_/20170601_133-AIN__output.json",
+        "customs_sros_OCR/20200611_131-AIN_2019_82_Customs/20200611_131-AIN_2019_82_Customs_output.json",
+        "customs_sros_OCR/20230601_120-AIN_2023_164_Customs/20230601_120-AIN_2023_164_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00285_t1__specific-industrial-sector-incentives.json"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "group_id": "cluster_00002_t0__X__cluster_00005_t0",
+  "entities": [
+    "Customs Act 1969",
+    "H.S. Code"
+  ],
+  "cluster_ids": [
+    2,
+    5
+  ],
+  "thread_ids": [
+    "cluster_00002_t0",
+    "cluster_00005_t0"
+  ],
+  "num_shared_clauses": 25,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the National Board of Revenue utilize the powers granted under the Customs Act 1969 to modify the H.S. Code entries within existing customs notifications?",
+      "answer": "Under the Customs Act 1969 (specifically section 21(b)), the National Board of Revenue is empowered to issue orders that amend existing notifications by replacing specific H.S. Code entries in the tables of those notifications, such as replacing '2903.61.00' with '2903.91.00'.",
+      "entities_involved": [
+        "Customs Act 1969",
+        "H.S. Code"
+      ],
+      "clause_text_ids": [
+        "20120607_0-AIN_2012_315-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "In the context of the Customs Act 1969, how are H.S. Code classifications treated when the government amends previous notifications via S.R.O.s?",
+      "answer": "The government, exercising powers under sections 18, 19, and 20 of the Customs Act 1969, amends previous notifications by modifying the entries or headings listed in the columns of the tables attached to those notifications, which directly affects the H.S. Code classification and duty treatment of goods.",
+      "entities_involved": [
+        "Customs Act 1969",
+        "H.S. Code"
+      ],
+      "clause_text_ids": [
+        "20100610_173-AIN_2010_2291-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_171-AIN_2011_2358-Customs_০৯ জুন, ২০১১_clause_1",
+        "20110609_172-AIN_2011_2359-Customs_০৯ জুন, ২০১১ খ্রিষ্টাব্দ_clause_1"
+      ]
+    }
+  ]
+}

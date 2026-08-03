@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00018_t2__X__cluster_00750_t0",
+  "entities": [
+    "Authorized Economic Operator",
+    "authorized entity"
+  ],
+  "cluster_ids": [
+    18,
+    750
+  ],
+  "thread_ids": [
+    "cluster_00018_t2",
+    "cluster_00750_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the audit and investigative framework apply to both an Authorized Economic Operator and an authorized entity when credible intelligence or serious allegations arise?",
+      "answer": "For both an Authorized Economic Operator and an authorized entity, if there is credible intelligence or specific serious allegations of customs violations or smuggling, the Center or an authorized customs office can conduct necessary audits, investigations, and other legal actions at any time, as per clause [2]. Additionally, based on credible intelligence, customs officials may physically inspect or examine any consignment belonging to these accredited entities, as per clause [0].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "authorized entity"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_135"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the requirement for verifying compliance standards for both an Authorized Economic Operator and an authorized entity during audit procedures?",
+      "answer": "For both an Authorized Economic Operator and an authorized entity, customs authorities must verify through risk-based random audits whether the entity is properly maintaining its mandatory conditions or standards for accreditation. These audits must clearly document the items verified (according to Appendix-8) and the results obtained in a formal report, as stated in clause [1].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "authorized entity"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_118"
+      ]
+    }
+  ]
+}

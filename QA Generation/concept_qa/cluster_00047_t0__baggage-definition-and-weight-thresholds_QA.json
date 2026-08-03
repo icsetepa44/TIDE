@@ -1,0 +1,215 @@
+{
+  "thread_id": "cluster_00047_t0",
+  "cluster_id": 47,
+  "cluster_label": "baggage",
+  "title": "Baggage Definition and Weight Thresholds",
+  "source_num_member_objects": 9,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 3,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "In which year were Baggage Rules first updated to include a specific weight limit of 15kg per individual item?",
+      "options": [
+        "2010",
+        "2012",
+        "2016",
+        "2023"
+      ],
+      "answer_index": 2,
+      "answer": "2016",
+      "explanation": "The 15kg weight limit per individual item was introduced in the Baggage Rules 2016, dated 2016-06-02.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Prior to the introduction of the 15kg weight limit in 2016, how was the quantity of baggage defined in the 2010-2012 period?",
+      "options": [
+        "By a maximum weight of 20kg",
+        "As a reasonable quantity of items",
+        "By the total value of the goods",
+        "By the number of suitcases allowed"
+      ],
+      "answer_index": 1,
+      "answer": "As a reasonable quantity of items",
+      "explanation": "According to the Baggage Rules of 2010, 2011, and 2012, baggage was qualitatively defined as a 'reasonable quantity' of food, apparel, household goods, or personal effects.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the initial definition of baggage in the provided timeline?",
+      "options": [
+        "Baggage Rules 2010",
+        "Customs Act 2023",
+        "Baggage Rules 2016",
+        "Baggage Rules 2024"
+      ],
+      "answer_index": 0,
+      "answer": "Baggage Rules 2010",
+      "explanation": "The timeline and clauses confirm that the initial definition of baggage was established in the Baggage Rules 2010, dated 2010-06-10.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What change regarding the definition of a 'passenger' was introduced in the 2024-06-06 legal framework?",
+      "options": [
+        "Passengers were no longer required to declare goods",
+        "The definition was expanded to include all tourists",
+        "The definition was narrowed to 'non-tourist' (অপর্যটক) individuals",
+        "The definition was removed from the rules"
+      ],
+      "answer_index": 2,
+      "answer": "The definition was narrowed to 'non-tourist' (অপর্যটক) individuals",
+      "explanation": "The Baggage Rules 2024 (dated 2024-06-06) explicitly defined a passenger as any non-tourist (Non-Tourist) arriving from abroad.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the Baggage Rules 2010, the definition of baggage was strictly limited to items weighing no more than 15kg per individual item to ensure clarity in customs assessment.",
+      "question": "Does the 15kg weight limit for baggage apply to the Baggage Rules 2010 as stated in the context above?",
+      "conflict": "The 15kg weight limit was introduced in the Baggage Rules 2016, not the Baggage Rules 2010.",
+      "answer": "No, the 15kg weight limit does not apply to the Baggage Rules 2010. The Baggage Rules 2010 initially defined baggage only as a reasonable quantity of personal effects without specifying a weight threshold. The 15kg weight limit per individual item was only introduced later, starting with the Baggage Rules 2016 (2016-06-02).",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the Baggage Rules 2016, passengers were defined as any person arriving from abroad, and the definition of baggage had no mention of weight restrictions for individual items.",
+      "question": "Is the assertion that the Baggage Rules 2016 lacked weight restrictions correct?",
+      "conflict": "The Baggage Rules 2016 explicitly introduced the 15kg weight limit per item.",
+      "answer": "No, that assertion is incorrect. The Baggage Rules 2016 (2016-06-02) specifically introduced a technical constraint stating that baggage must not exceed 15kg per individual item.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "The Baggage Rules 2024 removed the 15kg weight limit per item that had been in place since 2016, reverting to the qualitative 'reasonable quantity' definition used in 2010.",
+      "question": "Did the Baggage Rules 2024 remove the 15kg weight threshold?",
+      "conflict": "The Baggage Rules 2024 maintained the 15kg threshold established in 2016.",
+      "answer": "No, the Baggage Rules 2024 (2024-06-06) did not remove the threshold; they explicitly maintained the 15kg per item weight limit established in the 2016 framework.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A traveler arrived in Bangladesh with a personal item weighing 14kg in 2012. They returned in 2016 with a similar personal item also weighing 14kg. They want to know if the definition of baggage and the constraints applied to their items have changed in a way that affects their status under customs rules.",
+      "question": "How did the definition of baggage change between 2012 and 2016 regarding the constraints on individual items?",
+      "answer": "In 2012, baggage was defined only by a 'reasonable quantity' of personal effects. By 2016, the definition was expanded to include a specific quantitative constraint, requiring that no individual item exceed a weight limit of 15kg.",
+      "clauses_involved": [
+        "2012-06-07",
+        "2016-06-02"
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In the Baggage Rules 2010, the definition of baggage was limited to reasonable quantities of personal effects. How did the definition change six years later in the subsequent rules?",
+      "answer": "In the Baggage Rules 2016 (June 2, 2016), the definition was updated to include a quantitative constraint: no individual item of baggage could exceed a weight limit of 15kg.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "seven years later",
+      "question": "The Baggage Rules 2016 introduced a 15kg weight limit per individual item. What was the status of this threshold seven years later?",
+      "answer": "In the Baggage Rules 2023 (June 1, 2023), the 15kg per item weight threshold was reaffirmed and maintained as part of the baggage definition.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The definition of baggage is updated to specify that a passenger is classified as a non-tourist arriving from abroad and includes a weight limit of fifteen kilograms per item.",
+        "The definition of baggage is explicitly linked to the Customs Act, while maintaining the weight threshold of fifteen kilograms for each individual item.",
+        "The definition of baggage is established as a reasonable quantity of food items, apparel, household goods, or other personal effects imported by a passenger, without any specific weight restriction per item.",
+        "A weight limit is introduced stipulating that the baggage definition is restricted to items where each individual piece does not exceed fifteen kilograms."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The definition of baggage is established as a reasonable quantity of food items, apparel, household goods, or other personal effects imported by a passenger, without any specific weight restriction per item.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "A weight limit is introduced stipulating that the baggage definition is restricted to items where each individual piece does not exceed fifteen kilograms.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The definition of baggage is updated to specify that a passenger is classified as a non-tourist arriving from abroad and includes a weight limit of fifteen kilograms per item.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The definition of baggage is explicitly linked to the Customs Act, while maintaining the weight threshold of fifteen kilograms for each individual item.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+        "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00047_t0__baggage-definition-and-weight-thresholds.json"
+    }
+  ]
+}

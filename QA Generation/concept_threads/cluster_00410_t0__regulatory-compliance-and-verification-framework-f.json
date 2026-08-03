@@ -1,0 +1,580 @@
+{
+  "cluster_id": 410,
+  "cluster_label": "manufacturing entities",
+  "thread_index": 0,
+  "thread_id": "cluster_00410_t0",
+  "title": "Regulatory Compliance and Verification Framework for Manufacturing Entities",
+  "summary": "The regulatory framework for manufacturing entities has evolved from basic VAT registration requirements to a more rigorous, multi-layered verification process. Over time, the requirements have shifted from simple site inspections to include mandatory formal undertakings on non-judicial stamp paper and detailed disclosures regarding co-located business entities.",
+  "evolution": {
+    "verification_depth": "Increased from basic registration to site-specific physical verification and detailed business site disclosures.",
+    "legal_formality": "Shifted from simple application to mandatory notarized/stamp-paper undertakings.",
+    "classification": "Introduced granular categorization of manufacturers based on operational scale and compliance status."
+  },
+  "timeline": [
+    {
+      "date": "2019-05-30",
+      "instrument": "SRO/Clause",
+      "change": "Established the initial requirement for site inspection and verification by VAT officials and NBR for import approval.",
+      "clause_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4"
+      ]
+    },
+    {
+      "date": "2022-06-09",
+      "instrument": "SRO/Clause",
+      "change": "Introduced specific categorization (Category-1 and Category-2) for manufacturing entities based on VAT compliance and raw material sourcing.",
+      "clause_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "Policy Directive",
+      "change": "Expanded disclosure requirements to include details of other business entities operating within the same premises.",
+      "clause_ids": [
+        "20250217_2024_2024-06-06_clause_23"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO/Clause",
+      "change": "Formalized the requirement for a legal undertaking on a 300-taka non-judicial stamp paper as a prerequisite for tax exemption.",
+      "clause_ids": [
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4",
+      "resolved_text": "৩। উৎপাদনকারী শিল্প প্রতিষ্ঠান কর্তৃক এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় উপকরণ আমদানির অনুমোদনের জন্য চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর আবেদন করিতে হইবে এবং আবেদনটি বিবেচনার জন্য দ্বিতীয় সচিব (কাস্টমস নীতি), জাতীয় রাজস্ব বোর্ড এবং সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা কর্তৃক আবেদনকারী প্রতিষ্ঠানটি সরেজমিনে পরিদর্শন ও যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর “পরিশিষ্ট-১” অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Manufacturing industrial establishments seeking duty concession benefits must submit an application directly to the Chairman of the National Board of Revenue."
+        ],
+        "Manufacturing Industrial Establishment": [
+          "Manufacturing entities must undergo a physical on-site inspection and verification process by authorized customs and VAT officials before their application for concessional import benefits can be considered."
+        ],
+        "Duty Concession": [
+          "Industrial producers are required to follow a formal application and verification process to obtain approval for importing raw materials at concessional rates under this notification."
+        ],
+        "Customs Verification Report": [
+          "Following an on-site inspection, the designated customs and VAT officials must submit a verification report to the Chairman of the National Board of Revenue according to the prescribed appendix format."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1945",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Chairman of the National Board of Revenue"
+        ],
+        "Manufacturing Industrial Establishment": [
+          "Manufacturing entities",
+          "authorized customs and VAT officials"
+        ],
+        "Duty Concession": [
+          "Industrial producers",
+          "raw materials"
+        ],
+        "Customs Verification Report": [
+          "on-site inspection",
+          "customs and VAT officials",
+          "verification report",
+          "Chairman of the National Board of Revenue",
+          "prescribed appendix format"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        201,
+        410,
+        1198,
+        1846,
+        2162,
+        3188,
+        6829,
+        7028,
+        9042,
+        10863
+      ],
+      "source_file": "customs_sros_OCR/20190530_159-AIN_2019_28_Customs/20190530_159-AIN_2019_28_Customs_output.json",
+      "clause_date": "2019-05-30"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "১। (ক) আমদানিকারক প্রতিষ্ঠানকে...",
+      "text_id": "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2",
+      "resolved_text": "১। (ক) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান অথবা ভেন্ডর হইতে হইবে।\n\nব্যাখ্যা।- এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে-\n(অ) Industrial IRC holder VAT compliant রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান বলিতে ‘‘রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১’’ অথবা ‘‘রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২’’ কে বুঝাইবে:\n(i) ‘‘রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১’’ অর্থ মূল্য সংগ্রহ ও কর নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত বা আমদানিকৃত কাঁচামাল দ্বারা রেফ্রিজারেটর ও ফ্রিজার এর সকল অংশ নিজে প্রস্তুত করিয়া অথবা প্রধান অংশসমূহ ও এক বা একাধিক গুরুত্বপূর্ণ অংশ নিজে প্রস্তুত করিয়া এবং অবশিষ্ট অংশ বা অংশসমূহ স্থানীয় ভেন্ডর হইতে সংগ্রহ বা আমদানি করিয়া রেফ্রিজারেটর ও ফ্রিজার উৎপাদন করে;\n(ii) ‘‘রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২’’ অর্থ মূল্য সংযোজন কর নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত বা আমদানিকৃত বা স্থানীয় ভেন্ডর হইতে সংগৃহীত ক্ষুদ্র অংশ বা অংশবিশেষ দ্বারা Body Cabinet এবং স্থানীয়ভাবে সংগৃহীত বা আমদানিকৃত বা স্থানীয় ভেন্ডর হইতে সংগৃহীত ক্ষুদ্র অংশ বা অংশবিশেষ দ্বারা দুই বা ততোধিক প্রধান অংশ (Body Cabinet ব্যতীত) বা গুরুত্বপূর্ণ অংশ সংযোজন করিয়া এবং অবশিষ্ট অংশসমূহ স্থানীয় ভেন্ডর হইতে সংগ্রহ করিয়া বা আমদানি করিয়া সংযোজন এর মাধ্যমে রেফ্রিজারেটর ও ফ্রিজার উৎপাদন করে:\nতবে শর্ত থাকে যে, যে সকল প্রতিষ্ঠান তৈরী Body Cabinet এবং অন্যান্য অংশসমূহ সম্পূর্ণ বিযুক্ত অবস্থায় রেফ্রিজারেটর ও ফ্রিজার আমদানি করিয়া স্থানীয়ভাবে সংযোজন করে তাহারা ইহার আওতাভুক্ত হইবে না;\n\n(আ) ‘‘ভেন্ডর’’ অর্থ মূসক নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত অথবা আমদানিকৃত কাঁচামাল দ্বারা রেফ্রিজারেটর ও ফ্রিজার এর যন্ত্রাংশ প্রস্তুতপূর্বক রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠানকে সুনির্দিষ্ট বিক্রয় চুক্তির আওতায় অথবা স্থানীয়ভাবে সরবরাহ করিয়া থাকে;\n\n(ই) (i) ‘‘প্রধান অংশ (Main Part)’’ অর্থ Body Cabinet, Door ও Gasket।\n(ii) ‘‘গুরুত্বপূর্ণ অংশ’’ অর্থ Compressor, Evaporator, Printed Circuit Board (PCB), ABS (Acrylonitrile-butadiene-Styrene) sheet, Shrinkable Tube ও Temperature Sensor (Thermostat)।\n\n(খ) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নিকৃত শিল্প ভোক্তা আইআরসি রহিয়াছে এবং ১৩ ডিজিট সম্বলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী মাসের অথবা প্রযোজ্য ক্ষেত্রে প্রয়োজনীয় সংখ্যক মূসক দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে:\n\nতবে শর্ত থাকে যে, কোনো দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হয় তবে সেই ক্ষেত্রে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবে:\n\nতবে আরও শর্ত থাকে যে, বাংলাদেশ রপ্তানি প্রক্রিয়াকরণ অঞ্চল কর্তৃপক্ষ (BEPZA), বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ (BEZA), বাংলাদেশ হাইটেক পার্ক কর্তৃপক্ষ অথবা আইন বলে প্রতিষ্ঠিত অন্য যে কোনো কর্তৃপক্ষের নিয়ন্ত্রণাধীন শিল্প প্রতিষ্ঠান যাহাদের জন্য শিল্প ভোক্তা আইআরসি গ্রহণের বাধ্যবাধকতা নাই সেইরূপ ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষ কর্তৃক ইস্যুকৃত আমদানি অনুমতিপত্র দাখিল করিতে হইবে।\n\n(গ) এই প্রজ্ঞাপনের রেয়াত সুবিধায় রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১ TABLE-I ও TABLE-II এর অন্তর্ভুক্ত পণ্য এবং রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২ TABLE-II ও TABLE-III এর অন্তর্ভুক্ত পণ্য এবং ভেন্ডরগণ TABLE-I এর পণ্য আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "To qualify for the benefits of this notification, an importing enterprise must be an Industrial IRC holder and compliant with Value Added Tax regulations.",
+          "The entity must provide evidence of a valid, renewed Industrial Import Registration Certificate and proof of submission of recent Value Added Tax returns, which must be verifiable through the customs, VAT online, or National Board of Revenue electronic systems."
+        ],
+        "Refrigerator and Freezer Manufacturing Category-1": [
+          "This category is defined as a Value Added Tax registered manufacturing entity that produces refrigerators and freezers by manufacturing all parts in-house or by producing all major and critical components in-house while sourcing or importing the remaining parts.",
+          "Entities in this category are eligible to import goods listed under Table-I and Table-II under the concessionary rates provided by this notification."
+        ],
+        "Refrigerator and Freezer Manufacturing Category-2": [
+          "This category is defined as a Value Added Tax registered manufacturing entity that produces refrigerators and freezers by assembling the body cabinet and at least two other major or critical components from locally sourced or imported parts, with the remaining components also sourced or imported.",
+          "Entities that only import fully disassembled body cabinets and other parts for assembly do not qualify for this category.",
+          "Entities in this category are eligible to import goods listed under Table-II and Table-III under the concessionary rates provided by this notification."
+        ],
+        "Vendor": [
+          "A vendor is defined as a Value Added Tax registered manufacturing entity that produces refrigerator and freezer parts using locally sourced or imported raw materials and supplies them to refrigerator and freezer manufacturing enterprises under a specific sales contract.",
+          "Vendors are eligible to import goods listed under Table-I under the concessionary rates provided by this notification."
+        ],
+        "Industrial Consumer": [
+          "Industrial enterprises are required to hold a valid, renewed Industrial Import Registration Certificate (Industrial IRC) to import and clear goods under this notification."
+        ],
+        "Bangladesh Export Processing Zones Authority": [
+          "Industrial units operating under the jurisdiction of the Bangladesh Export Processing Zones Authority that are exempt from holding an Industrial Import Registration Certificate must instead submit an import permit issued by the respective authority."
+        ],
+        "Bangladesh Economic Zones Authority": [
+          "Industrial units operating under the jurisdiction of the Bangladesh Economic Zones Authority that are exempt from holding an Industrial Import Registration Certificate must instead submit an import permit issued by the respective authority."
+        ],
+        "High-Tech Park Industrial Units": [
+          "Industrial units operating under the jurisdiction of the Bangladesh High-Tech Park Authority that are exempt from holding an Industrial Import Registration Certificate must instead submit an import permit issued by the respective authority."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue maintains the electronic systems, including the VAT online system and its website, where compliance data for import eligibility must be verifiable."
+        ],
+        "Commissioner of Customs": [
+          "In cases where electronic data is unavailable due to force majeure or logical reasons, the Commissioner of Customs has the authority to record the reasons and proceed with the necessary customs clearance."
+        ],
+        "Value Added Tax": [
+          "Manufacturing entities and vendors must be 13-digit Value Added Tax registered entities to qualify under the provisions of this notification."
+        ],
+        "TABLE-I": [
+          "This table lists specific goods that are eligible for import by Refrigerator and Freezer Manufacturing Category-1 entities and authorized vendors under this notification."
+        ],
+        "TABLE-II": [
+          "This table lists specific goods that are eligible for import by both Refrigerator and Freezer Manufacturing Category-1 and Category-2 entities under this notification."
+        ],
+        "TABLE-III": [
+          "This table lists specific goods that are eligible for import by Refrigerator and Freezer Manufacturing Category-2 entities under this notification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2178",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "importing enterprise",
+          "Industrial Import Registration Certificate",
+          "Value Added Tax returns",
+          "customs",
+          "VAT online system",
+          "National Board of Revenue electronic systems"
+        ],
+        "Refrigerator and Freezer Manufacturing Category-1": [
+          "Value Added Tax registered manufacturing entity",
+          "refrigerators",
+          "freezers",
+          "parts",
+          "major and critical components",
+          "Table-I",
+          "Table-II"
+        ],
+        "Refrigerator and Freezer Manufacturing Category-2": [
+          "Value Added Tax registered manufacturing entity",
+          "refrigerators",
+          "freezers",
+          "body cabinet",
+          "major or critical components",
+          "Table-II",
+          "Table-III"
+        ],
+        "Vendor": [
+          "Value Added Tax registered manufacturing entity",
+          "refrigerator and freezer parts",
+          "raw materials",
+          "sales contract",
+          "Table-I"
+        ],
+        "Industrial Consumer": [
+          "Industrial enterprises",
+          "Industrial Import Registration Certificate"
+        ],
+        "Bangladesh Export Processing Zones Authority": [
+          "Industrial units",
+          "import permit"
+        ],
+        "Bangladesh Economic Zones Authority": [
+          "Industrial units",
+          "import permit"
+        ],
+        "High-Tech Park Industrial Units": [
+          "Industrial units",
+          "Bangladesh High-Tech Park Authority",
+          "import permit"
+        ],
+        "National Board of Revenue": [
+          "VAT online system",
+          "website"
+        ],
+        "Commissioner of Customs": [
+          "customs clearance"
+        ],
+        "Value Added Tax": [
+          "Manufacturing entities",
+          "vendors"
+        ],
+        "TABLE-I": [
+          "goods"
+        ],
+        "TABLE-II": [
+          "goods"
+        ],
+        "TABLE-III": [
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        9,
+        12,
+        21,
+        51,
+        54,
+        101,
+        133,
+        134,
+        143,
+        154,
+        185,
+        330,
+        354,
+        410,
+        413,
+        490,
+        556,
+        568,
+        685,
+        751,
+        891,
+        1120,
+        1150,
+        1314,
+        2215,
+        2216,
+        2508,
+        3180,
+        4125,
+        4168,
+        4640,
+        5911,
+        9662,
+        9663,
+        10012
+      ],
+      "source_file": "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_23",
+      "clause_title": "",
+      "text_id": "20250217_2024_2024-06-06_clause_23",
+      "resolved_text": "5.3.4 Details of other entities, co-located at the same premises / site as the EO, should be provided by the EO.",
+      "entity_concepts": {
+        "Manufacturing Entities": [
+          "The manufacturing entity is required to disclose the details of any other business entities that are operating within the same premises or site location."
+        ],
+        "Site Inspection": [
+          "The oversight of a site involves the identification and documentation of all different entities sharing the same physical location to ensure proper administrative or regulatory compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1136",
+      "entity_sub_entities": {
+        "Manufacturing Entities": [
+          "business entities",
+          "premises",
+          "site location"
+        ],
+        "Site Inspection": [
+          "entities",
+          "physical location"
+        ]
+      },
+      "clause_clusters": [
+        305,
+        366,
+        410,
+        580,
+        2929,
+        3084,
+        12219
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_3",
+      "resolved_text": "২। এই প্রজ্ঞাপনে উল্লেখিত অব্যাহতির সুযোগ গ্রহণের জন্য সংশ্লিষ্ট পণ্য উৎপাদনকারী প্রতিষ্ঠানকে অনুচ্ছেদ ১ এ উল্লিখিত শর্তাবলী পরিপালন করিতে হইবে এবং তদানুযায়ী প্রজ্ঞাপনে বর্ণিত উৎপাদন কার্যক্রম সম্পন্ন হইবে মর্মে ৩০০(তিনশত) টাকার নন-জুডিশিয়াল স্ট্যাম্পে অঙ্গীকারনামা প্রদান পূর্বক আনুষাঙ্গিক দলিলাদিসহ জাতীয় রাজস্ব বোর্ডের নিকট আবেদন দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Manufacturing entities seeking to avail of the duty exemptions specified in this notification must submit a formal application to the National Board of Revenue.",
+          "The application must be accompanied by supporting documents and a formal undertaking on non-judicial stamp paper affirming compliance with the stipulated manufacturing conditions."
+        ],
+        "Manufacturing Entities": [
+          "Manufacturing entities are required to fulfill specific conditions and adhere to prescribed manufacturing processes as a prerequisite for claiming tax exemptions under this notification.",
+          "They must provide a formal undertaking on non-judicial stamp paper and submit necessary documentation to the tax authorities to initiate the application process."
+        ],
+        "Customs Duty Exemption": [
+          "The exemption benefits granted under this notification are contingent upon strict adherence to specified operational conditions and the submission of a formal undertaking by the beneficiary."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3011",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "formal application",
+          "supporting documents",
+          "formal undertaking",
+          "non-judicial stamp paper"
+        ],
+        "Manufacturing Entities": [
+          "manufacturing processes",
+          "formal undertaking",
+          "non-judicial stamp paper",
+          "documentation",
+          "tax authorities"
+        ],
+        "Customs Duty Exemption": [
+          "exemption benefits",
+          "operational conditions",
+          "formal undertaking"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        63,
+        374,
+        410,
+        459,
+        486,
+        565,
+        1121,
+        1180,
+        1714,
+        2165,
+        7857
+      ],
+      "source_file": "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 3,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_2",
+      "resolved_text": "১। এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধাপ্রাপ্ত প্রতিষ্ঠানকে মূল্য সংযোজন কর আইন, ১৯৯১ এর অধীন পাদুকা প্রস্তুতকারক প্রতিষ্ঠান হিসাবে নিবন্ধিত হইতে হইবে।",
+      "entity_concepts": {
+        "Value Added Tax Act 1991": [
+          "This act serves as the legal framework under which manufacturing entities must be registered to qualify for specific fiscal benefits."
+        ],
+        "Footwear Manufacturer": [
+          "Institutions seeking to avail themselves of concessional benefits under this notification must be formally registered as a footwear manufacturer under the relevant Value Added Tax law."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1943",
+      "entity_sub_entities": {
+        "Value Added Tax Act 1991": [
+          "manufacturing entities",
+          "fiscal benefits"
+        ],
+        "Footwear Manufacturer": [
+          "concessional benefits",
+          "footwear manufacturer",
+          "Value Added Tax law"
+        ]
+      },
+      "clause_clusters": [
+        34,
+        410,
+        1025,
+        1289,
+        2731,
+        4011
+      ],
+      "source_file": "customs_sros_OCR/20190530_159-AIN_2019_28_Customs/20190530_159-AIN_2019_28_Customs_output.json",
+      "clause_date": "2019-05-30"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "শর্তাবলি\n(১) (ক) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান অথবা ভেন্ডর হইতে হইবে।\nব্যাখ্যা।- এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে,-\n(অ) Industrial IRC holder VAT compliant রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান বলিতে “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১” অথবা “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২” কে বুঝাইবে:\n(i) “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১” অর্থ মূল্য সংযোজন কর নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত অথবা আমদানিকৃত কাঁচামাল দ্বারা রেফ্রিজারেটর ও ফ্রিজার এর সকল অংশ নিজে প্রস্তুত করিয়া অথবা প্রধান অংশসমূহ ও এক বা একাধিক গুরুত্বপূর্ণ অংশ নিজে প্রস্তুত করিয়া এবং অবশিষ্ট অংশ বা অংশসমূহ স্থানীয় ভেন্ডর হইতে সংগ্রহ বা আমদানি করিয়া রেফ্রিজারেটর ও ফ্রিজার উৎপাদন করে;\n(ii) “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২” অর্থ মূল্য সংযোজন কর নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত অথবা আমদানিকৃত কাঁচামাল বা ক্ষুদ্র অংশ দ্বারা অথবা স্থানীয় ভেন্ডর হইতে সংগৃহীত ক্ষুদ্র অংশ বা অংশবিশেষ দ্বারা Body Cabinet নিজে প্রস্তুত করিয়া এবং স্থানীয়ভাবে সংগৃহীত বা আমদানিকৃত বা স্থানীয় ভেন্ডর হইতে সংগৃহীত ক্ষুদ্র অংশ বা অংশবিশেষ দ্বারা Body Cabinet ব্যতিরেকে অন্যান্য দুই বা ততোধিক প্রধান অংশ বা গুরুত্বপূর্ণ অংশ সংযোজন করিয়া এবং অবশিষ্ট অংশসমূহ স্থানীয় ভেন্ডর হইতে সংগ্রহ করিয়া বা আমদানি করিয়া সংযোজন (assemble) এর মাধ্যমে রেফ্রিজারেটর ও ফ্রিজার উৎপাদন করে:\nতবে শর্ত থাকে যে, ক্যাটাগরি-২ ভুক্ত হইবার ক্ষেত্রে প্রয়োজনীয় পূর্ণ প্রাকযোগ্যতা এখনো অর্জিত হয় নাই, অথচ উৎপাদনকারী হিসাবে নিবন্ধিত রহিয়াছে এইরূপ প্রতিষ্ঠান TABLE-4 এর পণ্য উক্ত TABLE এর কলাম (4) ও (5) এ বর্ণিত শুল্ক-কর পরিশোধ সাপেক্ষে আমদানি করিতে পারিবে;\nআরো শর্ত থাকে যে, উৎপাদনকারী হিসাবে নিবন্ধিত উক্তরূপ প্রতিষ্ঠানকে প্রজ্ঞাপন জারির ২ (দুই) বৎসর সময়ের মধ্যে Body Cabinet উৎপাদন সংশ্লিষ্ট মেশিনারিজ স্থাপন করিয়া রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২ ভুক্ত হইবার লক্ষ্যে সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে হইবে এবং আবেদন প্রাপ্তির পর শর্ত (২) এ বর্ণিত পরিদর্শন কমিটি কর্তৃক সরেজমিনে পরিদর্শনক্রমে উক্ত প্রতিষ্ঠানের Body Cabinet উৎপাদনের সক্ষমতা নিশ্চিত না হইলে উক্ত প্রতিষ্ঠান এই প্রজ্ঞাপনের আওতায় রেয়াতি সুবিধা প্রাপ্ত হইবে না;\n(আ) “ভেন্ডর” অর্থ মূসক নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত অথবা আমদানিকৃত কাঁচামাল দ্বারা রেফ্রিজারেটর ও ফ্রিজার এর যন্ত্রাংশ প্রস্তুতপূর্বক রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠানকে সুনির্দিষ্ট বিক্রয় চুক্তির আওতায় অথবা স্থানীয়ভাবে সরবরাহ করিয়া থাকে;\n(ই) (i) “প্রধান অংশ” অর্থ Body Cabinet, Door ও Gasket;\n(ii) “গুরুত্বপূর্ণ অংশ” অর্থ Compressor, Evaporator, Printed Circuit Board (PCB), ABS (Acrylonitrile-butadiene-Styrene) sheet, Shrinkable Tube ও Temperature Sensor (Thermostat);",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "To benefit from this notification, the importing entity must be a VAT-compliant refrigerator and freezer manufacturing company or a registered vendor."
+        ],
+        "VAT Compliant": [
+          "Manufacturing entities and vendors are required to be registered for Value Added Tax to be eligible under the terms of this notification."
+        ],
+        "TABLE-4": [
+          "This table specifies the duty and tax rates applicable to manufacturing entities that have registered but have not yet fully achieved the capacity requirements for Category-2 status."
+        ],
+        "Refrigerator and Freezer Manufacturing Industry": [
+          "The regulations define two distinct categories of refrigerator and freezer manufacturing industries based on their local manufacturing capacity of major and critical components.",
+          "Category-1 manufacturers produce all or major portions of the appliance internally using local or imported raw materials, while Category-2 manufacturers focus on body cabinet production and the assembly of other critical components.",
+          "Manufacturers currently categorized as Category-2 without full capacity must install body cabinet production machinery within a specified timeframe and undergo a site inspection to remain eligible for duty concessions."
+        ],
+        "Vendor": [
+          "A vendor is defined as a VAT-registered manufacturing entity that produces refrigerator and freezer components using local or imported raw materials and supplies them to manufacturers under specific sales agreements."
+        ],
+        "Industrial Goods": [
+          "These are classified into 'major parts' such as body cabinets, doors, and gaskets, and 'critical parts' which include compressors, evaporators, PCBs, specific plastic sheets, tubes, and sensors."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2296",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "refrigerator manufacturing company",
+          "freezer manufacturing company",
+          "registered vendor"
+        ],
+        "VAT Compliant": [
+          "Manufacturing entities",
+          "vendors"
+        ],
+        "TABLE-4": [
+          "duty rates",
+          "tax rates",
+          "manufacturing entities",
+          "Category-2 status"
+        ],
+        "Refrigerator and Freezer Manufacturing Industry": [
+          "Category-1 manufacturers",
+          "Category-2 manufacturers",
+          "local raw materials",
+          "imported raw materials",
+          "body cabinet",
+          "critical components",
+          "body cabinet production machinery"
+        ],
+        "Vendor": [
+          "VAT-registered manufacturing entity",
+          "refrigerator components",
+          "freezer components",
+          "local raw materials",
+          "imported raw materials",
+          "sales agreements"
+        ],
+        "Industrial Goods": [
+          "body cabinets",
+          "doors",
+          "gaskets",
+          "compressors",
+          "evaporators",
+          "PCBs",
+          "plastic sheets",
+          "tubes",
+          "sensors"
+        ]
+      },
+      "clause_clusters": [
+        129,
+        132,
+        133,
+        134,
+        320,
+        330,
+        355,
+        410,
+        415,
+        1138,
+        1288,
+        1314,
+        1353,
+        1517,
+        1623,
+        1793,
+        2217,
+        2508,
+        2840,
+        3698,
+        4499,
+        4645,
+        6002,
+        6003,
+        6214,
+        7818,
+        8340,
+        8341,
+        8376,
+        10718,
+        11297,
+        11298,
+        12119
+      ],
+      "source_file": "customs_sros_OCR/20220628_199-_2022_107/20220628_199-_2022_107_output.json",
+      "clause_date": "2022-06-28"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপনে উল্লেখিত অব্যাহতির সুযোগ গ্রহণের জন্য সংশ্লিষ্ট পণ্য উৎপাদনকারী প্রতিষ্ঠানকে অনুচ্ছেদ ১ এ উল্লেখিত শর্তাবলী পরিপালন করিতে হইবে এবং তদানুযায়ী প্রজ্ঞাপনে বর্ণিত উৎপাদন কার্যক্রম সম্পন্ন হইবে মর্মে ৩০০ (তিনশত) টাকার নন-জুডিসিয়াল স্ট্যাম্পে অঙ্গীকারনামা প্রদান পূর্বক আনুষাঙ্গিক দলিলাদিসহ জাতীয় রাজস্ব বোর্ডের নিকট আবেদন দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Manufacturing entities seeking to benefit from the tax exemptions specified in this order must submit a formal application to the National Board of Revenue.",
+          "The application must be accompanied by supporting documentation and a formal undertaking on a non-judicial stamp paper of a specified value, ensuring compliance with the prescribed production conditions."
+        ],
+        "Tax Exemption": [
+          "Eligibility for the tax exemption described in this order is strictly conditional upon the manufacturer adhering to the stipulated production terms and fulfilling all documentation requirements."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3019",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Manufacturing entities",
+          "formal application",
+          "supporting documentation",
+          "formal undertaking",
+          "non-judicial stamp paper",
+          "prescribed production conditions"
+        ],
+        "Tax Exemption": [
+          "manufacturer",
+          "stipulated production terms",
+          "documentation requirements"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        95,
+        230,
+        374,
+        410,
+        459,
+        486,
+        701,
+        3120,
+        10872,
+        12454
+      ],
+      "source_file": "customs_sros_OCR/20250602_194-AIN_2025_16_Customs/20250602_194-AIN_2025_16_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ]
+}

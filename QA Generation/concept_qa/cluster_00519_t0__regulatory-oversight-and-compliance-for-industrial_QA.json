@@ -1,0 +1,95 @@
+{
+  "thread_id": "cluster_00519_t0",
+  "cluster_id": 519,
+  "cluster_label": "facility",
+  "title": "Regulatory Oversight and Compliance for Industrial Facilities",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the regulatory approach to facility approval for industrial duty concessions changed between 2017 and 2024?",
+      "answer": "The regulatory approach shifted from a manual, inspection-heavy process to a more structured, document-based regime. Under the 2017-06-01 notification, approval relied on on-site physical verification by ICT and VAT officials, whereas the 2024-06-06 framework introduced standardized licensing application forms and mandatory post-installation reporting requirements for machinery.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role did the National Board of Revenue play in the 2017 regulatory framework compared to the licensing authority's role in 2024?",
+      "answer": "In the 2017-06-01 framework, the Chairman of the National Board of Revenue was the primary authority responsible for receiving applications and reviewing reports from on-site physical inspections. By 2024-06-06, the process evolved toward a structured licensing authority model where applicants submit prescribed forms and documentation to specific officials, such as Deputy or Assistant Commissioners, for machinery installation and license inclusion.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the documentation burden for industrial facilities evolved regarding machinery and raw materials from 2017 to 2024?",
+      "answer": "The documentation burden has become significantly more granular and standardized by 2024. While the 2017 requirements focused on general factory setup and physical verification, the 2024-06-06 regulations mandate detailed technical documentation, including HS codes, commercial descriptions, investment permission documents from BEPZA or BEZA, and international surveyor certificates for older machinery, shifting the focus toward rigorous document-based compliance.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the implications of the 2024-06-06 regulations regarding the verification of business and utility records for facility licensing?",
+      "answer": "The 2024-06-06 regulations impose a stricter verification standard by requiring that all accompanying documentation, such as business registration and utility records, be authenticated by the lien bank. This represents a transition toward institutionalized oversight where financial and regulatory entities verify the legitimacy of the facility before the licensing authority grants approval.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the administrative requirements for machinery installation shift to include post-installation reporting in 2024?",
+      "answer": "The shift to post-installation reporting, as outlined in the 2024-06-06 notification, serves to ensure that machinery is correctly installed according to submitted documentation and technical specifications. By requiring submission of import documents and certifications within 15 working days of installation, the authority ensures ongoing compliance and verification of the facility's operational status under the new licensing regime.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturing facility owner applied for duty concessions in 2018, undergoing a physical site inspection by ICT and VAT officials. In 2024, the owner seeks to expand their facility and install new machinery under the current regulatory framework.",
+      "question": "How has the administrative burden for the facility owner changed regarding the approval process for machinery installation between their 2018 application and their 2024 expansion?",
+      "answer": "The process has shifted from a manual, inspection-heavy requirement involving ICT and VAT officials to a document-based compliance regime requiring standardized licensing application forms, bank-verified supporting documents, and mandatory post-installation reporting within 15 working days.",
+      "clauses_involved": [
+        "2017-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "seven years later",
+      "question": "In 2017-06-01, the approval process for industrial facilities required physical site verification by ICT and VAT officials. How did the regulatory oversight change seven years later?",
+      "answer": "In 2024-06-06, the regulatory focus shifted from manual, inter-departmental site verification to a structured, document-based licensing regime where applicants must submit prescribed forms, verified supporting documents, and fulfill criteria regarding facility size and financial stability.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    }
+  ]
+}

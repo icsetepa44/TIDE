@@ -1,0 +1,812 @@
+{
+  "cluster_id": 485,
+  "cluster_label": "finished products",
+  "thread_index": 0,
+  "thread_id": "cluster_00485_t0",
+  "title": "Standardization of Input-Output Coefficient Declarations",
+  "summary": "The NBR evolved a standardized reporting framework for manufacturers to declare input-output coefficients for finished products. This moved from general procedural requirements to specific, industry-tailored templates that mandate the disclosure of waste percentages and raw material consumption per unit of finished product.",
+  "evolution": {
+    "structure": "Transitioned from general regulatory compliance to highly specific, product-category-based reporting templates.",
+    "scope": "Expanded from basic industrial goods to complex electronic and mechanical finished products."
+  },
+  "timeline": [
+    {
+      "date": "2022-06-09",
+      "instrument": "NBR Directive",
+      "change": "Introduction of standardized industry-specific declaration templates for pre-fabricated buildings and motorcycles.",
+      "clause_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_9",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_11"
+      ]
+    },
+    {
+      "date": "2022-07-17",
+      "instrument": "NBR Directive",
+      "change": "Expansion of the standardized declaration template to include electronics like air conditioners, ATMs, and CCTV cameras.",
+      "clause_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_12"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "NBR Directive",
+      "change": "Further expansion of the standardized declaration template to include lift manufacturing.",
+      "clause_ids": [
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা",
+      "text_id": "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_9",
+      "resolved_text": "প্রি-ফ্যাব্রিকেটেড বিল্ডিং স্ট্রাকচার তৈরীর উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা \n| ক্রঃ নং | পণ্যের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয়ের শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ",
+      "entity_concepts": {
+        "Prefabricated Building Structure Raw Materials": [
+          "This clause provides a standardized framework for declaring raw materials and inputs used in the production of prefabricated building structures.",
+          "The declaration requires detailed information including the item names, H.S. Codes, unit specifications, and specific quantities of materials used both with and without waste percentage calculations.",
+          "The documentation must be validated through the countersignature of the relevant Value Added Tax Commissioner and the signature of the establishment's management authority."
+        ],
+        "H.S. Code": [
+          "The declaration requires the mandatory inclusion of the H.S. Code for both the finished products and all individual raw materials or inputs used in the manufacturing process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2196",
+      "entity_sub_entities": {
+        "Prefabricated Building Structure Raw Materials": [
+          "raw materials",
+          "inputs",
+          "item names",
+          "H.S. Codes",
+          "unit specifications",
+          "quantities of materials",
+          "waste percentage calculations",
+          "Value Added Tax Commissioner",
+          "establishment's management authority"
+        ],
+        "H.S. Code": [
+          "finished products",
+          "raw materials",
+          "inputs"
+        ]
+      },
+      "clause_clusters": [
+        5,
+        12,
+        31,
+        106,
+        485,
+        737,
+        979,
+        4246,
+        4563,
+        7805,
+        13094,
+        13352
+      ],
+      "source_file": "customs_sros_OCR/20220609_122-AIN_2022_70_Customs/20220609_122-AIN_2022_70_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "পরিশিষ্ট-২",
+      "text_id": "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_11",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত ৩ ও ৪ দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nমোটরসাইকেল অথবা মোটরসাইকেলের যন্ত্রাংশ তৈরীর উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রঃ নং | পণ্যের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয়ের শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority under which this declaration format is prescribed."
+        ],
+        "Motorcycle Manufacturing Inputs": [
+          "This appendix provides a standardized declaration form for manufacturers to report the raw materials and components used in the production of motorcycles or their spare parts.",
+          "Manufacturers are required to disclose detailed information regarding the specific inputs, their quantities including waste percentages, and the corresponding H.S. Code for each item used in the production process."
+        ],
+        "H.S. Code": [
+          "The H.S. Code is a mandatory requirement for identifying both the finished products and the raw materials used in the production process for customs and tax assessment purposes."
+        ],
+        "Value Added Tax Registration": [
+          "The manufacturer must provide their Value Added Tax registration number as part of the formal declaration process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2249",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "regulatory authority"
+        ],
+        "Motorcycle Manufacturing Inputs": [
+          "raw materials",
+          "components",
+          "motorcycles",
+          "spare parts",
+          "inputs",
+          "quantities",
+          "waste percentages",
+          "H.S. Code"
+        ],
+        "H.S. Code": [
+          "finished products",
+          "raw materials"
+        ],
+        "Value Added Tax Registration": [
+          "Value Added Tax registration number"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        12,
+        42,
+        106,
+        110,
+        218,
+        326,
+        342,
+        485,
+        499,
+        537,
+        895,
+        9972
+      ],
+      "source_file": "customs_sros_OCR/20220609_139-AIN_2022_87_Customs/20220609_139-AIN_2022_87_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "পরিশিষ্ট-২",
+      "text_id": "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৩) ও (৪) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা\nএয়ারকন্ডিশনার তৈরির উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণাঃ\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর :\n\n\n| ক্রমিক নং (১) | পণ্যের নাম ও H.S. Code (২) | একক (৩) | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) (৪) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) (৫) | অপচয় ব্যতীত প্রতি (৬) | ক্রমিক নং (৭) |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for the customs documentation requirements related to the manufacturing of air conditioners."
+        ],
+        "H.S. Code": [
+          "The declaration process requires the identification of finished products and their constituent raw materials by their specific classification codes."
+        ],
+        "Value Added Tax Registration Number": [
+          "A Value Added Tax registration number must be provided as part of the formal declaration process for manufacturing inputs."
+        ],
+        "Manufacturing Input Declaration": [
+          "This form mandates that manufacturers declare specific details regarding raw materials used in the production of air conditioners, including required quantities with and without wastage allowances."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2360",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "customs documentation requirements",
+          "air conditioners"
+        ],
+        "H.S. Code": [
+          "finished products",
+          "raw materials",
+          "classification codes"
+        ],
+        "Value Added Tax Registration Number": [
+          "Value Added Tax registration number",
+          "manufacturing inputs"
+        ],
+        "Manufacturing Input Declaration": [
+          "raw materials",
+          "air conditioners",
+          "required quantities",
+          "wastage allowances"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        12,
+        218,
+        296,
+        474,
+        485,
+        737,
+        952,
+        4330,
+        6893
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "পরিশিষ্ট-২",
+      "text_id": "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_12",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত দফা (৩) ও (৪) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা\n\nAutomated Teller Machine (ATM) এবং Closed Circuit Camera তৈরির উপকরণ/ কাঁচামাল সম্পর্কিত ঘোষণাঃ\n\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর :\n\n\n| ক্রমিক নং\n(১) | পণ্যের নাম ও H.S. Code\n(২) | একক\n(৩) | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ)\n(৪) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি)\n(৫) | অপচয় ব্যতীত প্রতি\n(৬) | ক্রমিক নং\n(৭) |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\n\nআবু হেনা মোঃ রহমতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "This instrument provides a declaration format for manufacturers of Automated Teller Machines regarding their production inputs and raw materials.",
+          "Manufacturers are required to document the specific quantities of raw materials used for production, accounting for waste."
+        ],
+        "Closed Circuit Camera Production": [
+          "This instrument provides a declaration format for manufacturers of Closed Circuit Cameras regarding their production inputs and raw materials.",
+          "Manufacturers are required to document the specific quantities of raw materials used for production, accounting for waste."
+        ],
+        "H.S. Code": [
+          "The declaration requires the specification of H.S. Codes for both the finished products and the raw materials used in the manufacturing process."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue issues this declaration form to regulate and monitor the production inputs utilized by manufacturers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2372",
+      "entity_sub_entities": {
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "Automated Teller Machines",
+          "production inputs",
+          "raw materials",
+          "quantities of raw materials",
+          "waste"
+        ],
+        "Closed Circuit Camera Production": [
+          "Closed Circuit Cameras",
+          "production inputs",
+          "raw materials",
+          "quantities of raw materials",
+          "waste"
+        ],
+        "H.S. Code": [
+          "H.S. Codes",
+          "finished products",
+          "raw materials"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "declaration form",
+          "production inputs"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        12,
+        31,
+        391,
+        485,
+        538,
+        608,
+        827,
+        924,
+        1013,
+        1023,
+        4614
+      ],
+      "source_file": "customs_sros_OCR/20220717_202-_2022_110/20220717_202-_2022_110_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "পরিশিষ্ট-২",
+      "text_id": "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৪) ও (৫) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\nলিফট তৈরীর উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n| ক্রঃ নং\n(১) | পণ্যের নাম ও H.S. Code\n(২) | একক\n(৩) | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ)\n(৪) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি)\n(৫) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি)\n(৬) | অপচয়ের শতকরা হার\n(৭) |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue mandates the use of a formal declaration form for the import or use of raw materials and components specifically for elevator manufacturing."
+        ],
+        "Manufacturing Declaration Form": [
+          "This appendix provides a standardized declaration template for elevator manufacturers to document their registration, address, and Value Added Tax registration number.",
+          "The form requires a detailed breakdown of raw materials or components used in production, specifying quantities required both with and without waste percentages, alongside relevant H.S. Code classifications."
+        ],
+        "H.S. Code": [
+          "The declaration form requires the mandatory inclusion of the H.S. Code for both the finished products being manufactured and the specific raw materials or components utilized in the production process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2690",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "declaration form",
+          "raw materials",
+          "components",
+          "elevator manufacturing"
+        ],
+        "Manufacturing Declaration Form": [
+          "registration",
+          "address",
+          "Value Added Tax registration number",
+          "raw materials",
+          "components",
+          "quantities",
+          "waste percentages",
+          "H.S. Code classifications"
+        ],
+        "H.S. Code": [
+          "finished products",
+          "raw materials",
+          "components"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        12,
+        42,
+        218,
+        391,
+        398,
+        485,
+        499,
+        541,
+        895,
+        1668,
+        7696,
+        9727
+      ],
+      "source_file": "customs_sros_OCR/20240606_198-AIN_2024_50_Customs/20240606_198-AIN_2024_50_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 7,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট-২\n[অনুচ্ছেদ ৫ ও ৬ দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nলিথিয়াম/গ্রাফিন ব্যাটারি তৈরির উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রঃ নং | পণ্যের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয়ের শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা/স্বত্বাধিকারীর নাম, স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for this regulatory order concerning the reporting requirements for battery manufacturing materials."
+        ],
+        "H.S. Code": [
+          "The regulatory form requires manufacturers to disclose the Harmonized System Code for both the finished products and the raw materials used in the production process."
+        ],
+        "Manufacturing Input Declaration": [
+          "Manufacturers are required to provide a detailed declaration including their business address, VAT registration, and specific consumption rates for raw materials used in the production of lithium or graphene batteries."
+        ],
+        "Value Added Tax": [
+          "The declaration requires validation through a countersignature from the relevant Value Added Tax Commissioner to verify the manufacturing data provided by the entity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1577",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue"
+        ],
+        "H.S. Code": [
+          "Harmonized System Code",
+          "finished products",
+          "raw materials"
+        ],
+        "Manufacturing Input Declaration": [
+          "business address",
+          "VAT registration",
+          "consumption rates",
+          "raw materials",
+          "lithium batteries",
+          "graphene batteries"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax Commissioner",
+          "manufacturing data"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        9,
+        12,
+        485,
+        674,
+        952,
+        979,
+        2075,
+        2517,
+        2769,
+        2838,
+        3675,
+        4326
+      ],
+      "source_file": "customs_sros_OCR/20250602_194-AIN_2025_16_Customs/20250602_194-AIN_2025_16_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_3",
+      "resolved_text": "সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর\nতারিখ:\n\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nপরিশিষ্ট-২\n[অনুচ্ছেদ ৫ ও ৬ দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nই-বাইক/ই-বাইক এক্সেসরিজ উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রঃ নং | পণ্যের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরদণর প্রতিটির পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরদণর প্রতিটির পরিমাণ (কেজি) | অপচদয়র শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা/স্বত্বাধিকারীর নাম, স্বাক্ষর ও তারিখ\n\n\nরাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for this regulatory instrument regarding the declaration of raw materials and inputs for the production of electric bikes and accessories.",
+          "The document requires the signature and date of the representative from the National Board of Revenue to formalize the declaration of inputs and waste percentages."
+        ],
+        "H.S. Code": [
+          "The regulation requires the formal declaration of H.S. Code for both the finished products, such as electric bikes and accessories, and the raw materials used in their production."
+        ],
+        "Value Added Tax": [
+          "The document mandates the inclusion of the Value Added Tax registration number for industrial entities involved in the production of specified goods.",
+          "The relevant Value Added Tax departmental officer and the Commissioner are required to provide authentication and signatures for the declared manufacturing details."
+        ],
+        "Ministry of Industries": [
+          "A representative from the Ministry of Industries must provide their name, signature, and the date of declaration to certify the production materials used by the industrial entity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1575",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "issuing authority",
+          "representative"
+        ],
+        "H.S. Code": [
+          "finished products",
+          "electric bikes",
+          "accessories",
+          "raw materials"
+        ],
+        "Value Added Tax": [
+          "registration number",
+          "industrial entities",
+          "departmental officer",
+          "Commissioner"
+        ],
+        "Ministry of Industries": [
+          "representative",
+          "production materials",
+          "industrial entity"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        9,
+        12,
+        64,
+        107,
+        295,
+        377,
+        485,
+        610,
+        645,
+        769,
+        781,
+        856,
+        968,
+        7605
+      ],
+      "source_file": "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২ [শর্ত ৩ ও ৪ দ্রষ্টব্য]",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত ৩ ও ৪ দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nরেফ্রিজারেটর ও ফ্রিজার অথবা রেফ্রিজারেটর ও ফ্রিজার এর যন্ত্রাংশ তৈরির উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রঃ নং (১) | পণ্যের নাম ও H.S. Code (২) | একক (৩) | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) (৪) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটি পরিমাণ (কেজি) (৫) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটি পরিমাণ (কেজি) (৬) | অপচয়ের শতকরা হার (৭) |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue issues this form as part of the regulatory framework for refrigerator and freezer manufacturing."
+        ],
+        "Value Added Tax": [
+          "The document requires the disclosure of a Value Added Tax registration number for entities involved in the manufacturing of refrigerators and freezers."
+        ],
+        "H.S. Code": [
+          "The document mandates the declaration of H.S. Codes for both the finished products and the raw materials used in the production process.",
+          "Manufacturers must track and report these codes to align with the standardized classification system for goods."
+        ],
+        "Manufacturing Input Declaration": [
+          "This form serves as a formal declaration for manufacturers to report raw materials, unit quantities, and wastage percentages involved in producing refrigerators and freezers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1129",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "refrigerator",
+          "freezer"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax registration number",
+          "refrigerators",
+          "freezers"
+        ],
+        "H.S. Code": [
+          "finished products",
+          "raw materials",
+          "goods"
+        ],
+        "Manufacturing Input Declaration": [
+          "raw materials",
+          "unit quantities",
+          "wastage percentages",
+          "refrigerators",
+          "freezers"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        5,
+        9,
+        12,
+        218,
+        413,
+        474,
+        485,
+        556,
+        877,
+        952,
+        2058,
+        13093
+      ],
+      "source_file": "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৪) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nএলইডি ল্যাম্প ও এনার্জি সেভিং ল্যাম্প তৈরীর উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রঃ নং | পণ্যের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) | অপচয়ের শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n\n\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ\n\nসংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার প্রতিস্বাক্ষর ও তারিখ",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue issues the regulatory framework for the declaration of raw materials and inputs used in the domestic manufacturing of LED lamps and energy-saving lamps."
+        ],
+        "H.S. Code": [
+          "Manufacturers are required to specify the Harmonized System codes for both the finished products and the individual raw materials or inputs utilized in the production process.",
+          "The H.S. Code is an essential component of the regulatory reporting requirement for industrial input declarations."
+        ],
+        "Value Added Tax": [
+          "Entities engaged in the production of lamps are mandated to provide their Value Added Tax registration number as part of the declaration process.",
+          "The declaration documentation requires the counter-signature of the relevant Value Added Tax divisional officer to ensure compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1234",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "regulatory framework",
+          "raw materials",
+          "inputs",
+          "LED lamps",
+          "energy-saving lamps"
+        ],
+        "H.S. Code": [
+          "Harmonized System codes",
+          "finished products",
+          "raw materials",
+          "inputs",
+          "industrial input declarations"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax registration number",
+          "declaration documentation",
+          "Value Added Tax divisional officer"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        9,
+        12,
+        106,
+        218,
+        237,
+        485,
+        1395,
+        1496,
+        1699,
+        1838,
+        2695,
+        7146
+      ],
+      "source_file": "customs_sros_OCR/20220628_201-_2022_109/20220628_201-_2022_109_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৩) ও (৪) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nরেফ্রিজারেটর ও ফ্রিজার অথবা রেফ্রিজারেটর ও ফ্রিজার এর যন্ত্রাংশ তৈরির উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রঃ নং | পত্রের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটিরি পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটিরি পরিমাণ (কেজি) | অপচয়ের শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা/স্বত্বাধিকারীর নাম, স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for this regulatory instrument regarding the declaration of raw materials used in manufacturing.",
+          "The document serves as a formal declaration template mandated by the board for industrial reporting purposes."
+        ],
+        "Refrigerator and Freezer": [
+          "This instrument mandates a formal declaration for raw materials and components used in the manufacturing of refrigerators and freezers.",
+          "Manufacturers are required to report input-output ratios, including wastage percentages, for components used in the production of these specific cooling appliances."
+        ],
+        "H.S. Code": [
+          "The declaration requires the specification of HS Codes for both the finished products and the raw materials used in their production to ensure proper classification."
+        ],
+        "Value Added Tax Registration Number": [
+          "Manufacturing entities must provide their Value Added Tax registration number as part of the mandatory declaration process for raw material utilization."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1443",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "regulatory instrument",
+          "declaration template"
+        ],
+        "Refrigerator and Freezer": [
+          "raw materials",
+          "components",
+          "refrigerators",
+          "freezers",
+          "input-output ratios",
+          "wastage percentages",
+          "cooling appliances"
+        ],
+        "H.S. Code": [
+          "HS Codes",
+          "finished products",
+          "raw materials"
+        ],
+        "Value Added Tax Registration Number": [
+          "Value Added Tax registration number"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        12,
+        42,
+        218,
+        235,
+        413,
+        474,
+        485,
+        556,
+        661,
+        2414,
+        2585,
+        3802,
+        4200
+      ],
+      "source_file": "customs_sros_OCR/20240606_194-AIN_2024_66_Customs/20240606_194-AIN_2024_66_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_9",
+      "resolved_text": "পরিশিষ্ট-২\n[শতফেফা (৩) ও (৪) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা\n\nএয়ারকন্ডিশনার তৈরীর উপকরণ/ কাঁচামাল সম্পর্কিত ঘোষণাঃ\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর :\n\n[Table Header: ক্রমিক নং | পণ্যের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরদণের প্রতিটির পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি | ক্রমিক নং]\n[(১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭)]\n\n-----------------------------\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\n-----------------------------\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for this regulatory form regarding the declaration of raw materials and inputs for air conditioner production."
+        ],
+        "Value Added Tax": [
+          "The registration number for Value Added Tax is a mandatory requirement for businesses declaring inputs for the manufacturing of air conditioners."
+        ],
+        "H.S. Code": [
+          "The declaration form requires the specification of H.S. Code for both the finished products and the individual raw materials or inputs used in the production process."
+        ],
+        "Commissioner of Customs": [
+          "The relevant Commissioner of Customs is required to provide a countersignature on the declaration form submitted by the manufacturing entity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1133",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "regulatory form",
+          "raw materials",
+          "inputs",
+          "air conditioner"
+        ],
+        "Value Added Tax": [
+          "registration number",
+          "inputs",
+          "air conditioners"
+        ],
+        "H.S. Code": [
+          "declaration form",
+          "finished products",
+          "raw materials",
+          "inputs"
+        ],
+        "Commissioner of Customs": [
+          "declaration form"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        7,
+        9,
+        12,
+        106,
+        296,
+        391,
+        485,
+        543,
+        610,
+        11364
+      ],
+      "source_file": "customs_sros_OCR/20220609_121-AIN_2022_69_Customs/20220609_121-AIN_2022_69_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_9",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৫) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nসুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ তৈরির উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রমিক\nনাং | পণ্যের\nনাম ও\nH.S.\nCode | একক | পণ্য উৎপাদনে\nব্যবহার্য\nকাঁচামাল বা\nউপকরণ এর\nনাম (H.S.\nCode সহ) | অপচয়সহ প্রতি একক\nপণ্য উৎপাদনে\nপ্রয়োজনীয় কাঁচামাল\nবা উপকরণের\nপ্রতিটির পরিমাণ\n(কেজি) | অপচয় ব্যতীত প্রতি\nএকক পণ্য উৎপাদনে\nপ্রয়োজনীয় কাঁচামাল\nবা উপকরণের\nপ্রতিটির পরিমাণ\n(কেজি) | অপচয়ের\nশতকরা\nহার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা/স্বত্বাধিকারীর নাম, স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority overseeing the declaration process for raw materials used in the manufacture of electrical accessories.",
+          "The Board prescribes the standardized documentation for reporting production inputs and waste percentages for such manufacturing entities."
+        ],
+        "Value Added Tax Registration Number": [
+          "A mandatory requirement for manufacturers to disclose their official registration number when submitting declarations regarding production materials and waste."
+        ],
+        "H.S. Code": [
+          "The classification code is required for both the finished products and the raw materials used in the production process to ensure accurate customs and tax tracking."
+        ],
+        "Manufacturing Input Declaration": [
+          "This instrument establishes a formal reporting framework for manufacturers to track production inputs, specify consumption quantities per unit, and account for waste percentages."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1411",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "regulatory authority",
+          "raw materials",
+          "electrical accessories",
+          "standardized documentation",
+          "production inputs",
+          "waste percentages",
+          "manufacturing entities"
+        ],
+        "Value Added Tax Registration Number": [
+          "official registration number",
+          "production materials",
+          "waste"
+        ],
+        "H.S. Code": [
+          "classification code",
+          "finished products",
+          "raw materials",
+          "production process"
+        ],
+        "Manufacturing Input Declaration": [
+          "formal reporting framework",
+          "production inputs",
+          "consumption quantities",
+          "waste percentages"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        12,
+        218,
+        342,
+        410,
+        485,
+        538,
+        608,
+        875,
+        895,
+        952,
+        968,
+        1504,
+        2686,
+        6668,
+        8298,
+        12390
+      ],
+      "source_file": "customs_sros_OCR/20240606_172-AIN_2024_24_Customs/20240606_172-AIN_2024_24_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

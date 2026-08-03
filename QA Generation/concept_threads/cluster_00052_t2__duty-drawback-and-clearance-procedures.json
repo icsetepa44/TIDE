@@ -1,0 +1,843 @@
+{
+  "cluster_id": 52,
+  "cluster_label": "import duty",
+  "thread_index": 2,
+  "thread_id": "cluster_00052_t2",
+  "title": "Duty Drawback and Clearance Procedures",
+  "summary": "This thread defines the procedural framework for duty drawbacks on exported goods and the general requirements for clearing goods for home consumption or export.",
+  "evolution": {
+    "procedure": "Shifted from manual documentation to digital system-based declarations and automated duty payment verification."
+  },
+  "timeline": [
+    {
+      "date": "2021-08-16",
+      "instrument": "SRO 2021",
+      "change": "Defined 'Import Duty' in the context of duty drawback and established application procedures.",
+      "clause_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_2",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_3",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_4",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO 2025",
+      "change": "Introduced special provisions for cargo declaration and duty payment in the digital system.",
+      "clause_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    }
+  ],
+  "num_member_objects": 11,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— (১) বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায়—\n(ক) “আইন” অর্থ Customs Act, 1969 (Act No. IV of 1969);\n(খ) “আমদানি শুল্ক” অর্থ রপ্তানিকৃত পণ্য প্রস্তুতি বা উৎপাদনে ব্যবহৃত উপকরণের বিপরীতে আমদানি পর্যায়ে পরিশোধিত কাস্টমস ডিউটি ও রেগুলেটরি ডিউটি;\n(গ) “উপকরণ-উৎপাদ সম্পর্ক (input-output co-efficient)” অর্থ প্রতি একক রপ্তানিকৃত পণ্য উৎপাদনে ব্যবহৃত উপকরণসমূহের অপচয়সহ মোট পরিমাণ;\n(ঘ) “প্রকৃত হার” অর্থ কোনো নির্দিষ্ট পণ্য প্রতি একক রপ্তানিকৃত পণ্য উৎপাদনের জন্য প্রস্তুতকারী প্রতিষ্ঠানকে অপচয়সহ ব্যবহৃত আমদানিকৃত উপকরণের বিপরীতে পরিশোধিত সমপরিমাণ আমদানি শুল্ক;\n(ঙ) “প্রচ্ছন্ন রপ্তানি” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ২ এর দফা (৬২) এ সংজ্ঞায়িত প্রচ্ছন্ন রপ্তানি;\n(চ) “বন্ডেড প্রতিষ্ঠান” অর্থ Customs Act, 1969 এর section 13 এর অধীন বেসরকারি ওয়ারহাউসের জন্য লাইসেন্সপ্রাপ্ত প্রতিষ্ঠান;\n(ছ) “বিল অব এক্সপোর্ট” অর্থ Customs Act, 1969 এর section 2 এর clause (d) এ সংজ্ঞায়িত বিল অব এক্সপোর্ট;\n(জ) “বোর্ড” অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর Article 3 এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ঝ) “মহাপরিচালক (শুল্ক রেয়াত ও প্রত্যর্পণ)” অর্থ Customs Act, 1969 এর section 3 এর clause (g) এ উল্লিখিত মহাপরিচালক (শুল্ক রেয়াত ও প্রত্যর্পণ);\n(ঞ) “রপ্তানি” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর ধারা ২ এর দফা (৮২) এ সংজ্ঞায়িত এবং Customs Act, 1969 এ উল্লিখিত রপ্তানি;\n(ট) “রপ্তানিকারক” অর্থ এইরূপ কোনো ব্যক্তি বা প্রতিষ্ঠান যিনি বা যে—\n(অ) তাহার উৎপাদিত পণ্য অথবা অন্যভাবে সংগৃহীত পণ্য সরকার কর্তৃক, সময় সময়, জারিকৃত রপ্তানি নীতিতে বর্ণিত শর্তাবলি এবং বাংলাদেশ ব্যাংক কর্তৃক, সময় সময়, জারিকৃত বৈদেশিক মুদ্রা সংক্রান্ত বিধি-বিধান পরিপালন করিয়া সরাসরি রপ্তানি প্রক্রিয়াকরণ এলাকায় অথবা বাংলাদেশের বাহিরে রপ্তানি করেন; বা\n(আ) প্রচ্ছন্ন রপ্তানি কার্যক্রম সম্পাদন করেন;\n(ঠ) “রপ্তানির তারিখ” অর্থ Customs Act, 1969 এর section 131 এর অধীন রপ্তানির উদ্দেশ্যে যে তারিখে বিল অব এক্সপোর্ট দাখিল করা হয় সেই তারিখ; এবং\n(ড) “সমহার” অর্থ কোনো প্রতিষ্ঠান বা সমজাতীয় অন্য কোনো প্রতিষ্ঠান কর্তৃক একই ধরনের উপকরণ ব্যবহার করিয়া অভিন্ন বা সমজাতীয় পণ্য উৎপাদনপূর্বক প্রতি একক রপ্তানিকৃত পণ্যের বিপরীতে নির্ধারিত হারের পরিমাণে আমদানি শুল্ক।\n(২) এই বিধিমালায় যে সকল শব্দ বা অভিব্যক্তি ব্যবহৃত হইয়াছে কিন্তু সংজ্ঞা প্রদান করা হয় নাই, সেই সকল শব্দ বা অভিব্যক্তি আইনে যে অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The term Act is defined as the Customs Act 1969 for the purpose of these rules.",
+          "It serves as the parent legal instrument for interpreting terms not specifically defined within this regulation."
+        ],
+        "Import Duty": [
+          "This is defined as the customs duty and regulatory duty paid at the import stage against materials used in the production or manufacturing of exported goods."
+        ],
+        "Input-Output Coefficient": [
+          "It refers to the total quantity of inputs, including wastage, consumed in the production of one unit of exported goods."
+        ],
+        "Actual Rate": [
+          "This refers to the amount of import duty paid on imported materials, including wastage, used by a manufacturer to produce one unit of a specific exported product."
+        ],
+        "Deemed Export": [
+          "This is defined as per the meaning assigned in the Value Added Tax and Supplementary Duty Act 2012."
+        ],
+        "Bonded Institution": [
+          "This refers to an establishment licensed to operate as a private warehouse under the provisions of the Customs Act 1969."
+        ],
+        "Bill of Export": [
+          "The term refers to the document as defined under the relevant clauses of the Customs Act 1969."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the authority established under the National Board of Revenue Order 1972."
+        ],
+        "Director General (Duty Exemption and Drawback)": [
+          "This refers to the official designated under the Customs Act 1969 as responsible for matters concerning duty exemption and drawback."
+        ],
+        "Export": [
+          "This refers to the act of exporting as defined under the Value Added Tax and Supplementary Duty Act 2012 and the Customs Act 1969."
+        ],
+        "Exporter": [
+          "An exporter is defined as a person or institution that exports goods either directly to locations outside Bangladesh or to export processing zones, or performs deemed export activities while complying with export policies and central bank regulations."
+        ],
+        "Date of Export": [
+          "This is defined as the date on which the bill of export is submitted for the purpose of exportation in accordance with the Customs Act 1969."
+        ],
+        "Average Rate": [
+          "This refers to a fixed rate of import duty determined per unit of exported goods produced by a firm or similar firms using the same types of inputs for identical or similar products."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2144",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Customs Act 1969"
+        ],
+        "Import Duty": [
+          "customs duty",
+          "regulatory duty",
+          "materials",
+          "exported goods"
+        ],
+        "Input-Output Coefficient": [
+          "inputs",
+          "wastage",
+          "exported goods"
+        ],
+        "Actual Rate": [
+          "import duty",
+          "imported materials",
+          "wastage",
+          "exported product"
+        ],
+        "Deemed Export": [
+          "Value Added Tax and Supplementary Duty Act 2012"
+        ],
+        "Bonded Institution": [
+          "private warehouse",
+          "Customs Act 1969"
+        ],
+        "Bill of Export": [
+          "Bill of Export",
+          "Customs Act 1969"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue Order 1972"
+        ],
+        "Director General (Duty Exemption and Drawback)": [
+          "Customs Act 1969"
+        ],
+        "Export": [
+          "Value Added Tax and Supplementary Duty Act 2012",
+          "Customs Act 1969"
+        ],
+        "Exporter": [
+          "person",
+          "institution",
+          "goods",
+          "Bangladesh",
+          "export processing zones",
+          "deemed export",
+          "export policies",
+          "central bank regulations"
+        ],
+        "Date of Export": [
+          "bill of export",
+          "Customs Act 1969"
+        ],
+        "Average Rate": [
+          "import duty",
+          "exported goods",
+          "inputs",
+          "products"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        10,
+        22,
+        52,
+        57,
+        70,
+        75,
+        77,
+        83,
+        90,
+        105,
+        106,
+        137,
+        142,
+        234,
+        288,
+        300,
+        461,
+        810,
+        846,
+        1372,
+        2000,
+        2143,
+        3358,
+        3797,
+        5879,
+        6040,
+        6241,
+        7921,
+        7959
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "শুল্ক প্রত্যর্পণ গ্রহণের আবেদনপত্র দাখিলের পদ্ধতি",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_3",
+      "resolved_text": "৩। শুল্ক প্রত্যর্পণ গ্রহণের আবেদনপত্র দাখিলের পদ্ধতি।— রপ্তানিকারক আমদানি শুল্ক প্রত্যর্পণ গ্রহণের জন্য উক্ত পণ্য রপ্তানি হইবার ৬ (ছয়) মাসের মধ্যে রপ্তানির প্রমাণস্বরূপ সংশ্লিষ্ট দলিলাদিসহ ফরম-ক অনুযায়ী আবেদনপত্র দাখিল করিবেন।",
+      "entity_concepts": {
+        "Customs Duty Drawback": [
+          "Exporters must submit an application to claim a refund of import duties paid on goods.",
+          "The application for duty drawback must be filed within a specified timeframe following the exportation of the goods, supported by relevant export documentation.",
+          "The application must be submitted in the prescribed format known as Form-Ka."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2145",
+      "entity_sub_entities": {
+        "Customs Duty Drawback": [
+          "application",
+          "refund",
+          "import duties",
+          "goods",
+          "export documentation",
+          "Form-Ka"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        52,
+        58,
+        660,
+        697,
+        845,
+        2740
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "আমদানি শুল্কের পরিমাণ ও সমহার নির্ধারণ",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_4",
+      "resolved_text": "৪। আমদানি শুল্কের পরিমাণ ও সমহার নির্ধারণ।— (১) বোর্ড, সরকারি গেজেটে আদেশ দ্বারা, সমহার ভিত্তিতে রপ্তানি পণ্যের ক্ষেত্রে প্রত্যর্পণযোগ্য আমদানি শুল্কের পরিমাণ নির্ধারণ করিতে পারিবে, তবে যে সকল ক্ষেত্রে একাধিক প্রতিষ্ঠান একই প্রকার উপকরণ ব্যবহার করিয়া সমজাতীয় পণ্য উৎপাদনপূর্বক রপ্তানি করে সেই সকল সমজাতীয় পণ্য রপ্তানির ক্ষেত্রে বোর্ড রপ্তানিকৃত পণ্যে ব্যবহৃত আমদানিকৃত উপকরণের আমদানি শুল্ক প্রত্যর্পণ প্রদানের জন্য, আদেশ দ্বারা, সমহার নির্ধারণপূর্বক সরকারি গেজেটে উহা প্রকাশ করিবে।\n(২) যেক্ষেত্রে কোনো রপ্তানিকারক কোনো অর্থবৎসরে নিয়মিতভাবে অভিন্ন উপকরণসমূহ ব্যবহার করিয়া একই রপ্তানি পণ্য উৎপাদনপূর্বক রপ্তানি করিবেন সেইক্ষেত্রে কেবল উক্ত রপ্তানিকারকের জন্য আমদানি শুল্ক প্রত্যর্পণ প্রদানের উদ্দেশ্যে বোর্ড সমহার নির্ধারণপূর্বক সরকারি গেজেটে উহা প্রকাশ করিতে পারিবে।\n(৩) উপ-বিধি (১) ও (২) অনুযায়ী সমহার আদেশ জারি করিবার পর শুল্ক রেয়াত ও প্রত্যর্পণ পরিদপ্তর নিয়মিতভাবে রপ্তানিযোগ্য পণ্যে ব্যবহার্য আমদানিকৃত উপকরণের মূল্য, আমদানি শুল্কহার ও প্রতিষ্ঠানের উৎপাদন প্রক্রিয়া পর্যালোচনা করিবে এবং কোনোরূপ পরিবর্তন পরিলক্ষিত হইলে পরিদপ্তরের সুপারিশের পরিপ্রেক্ষিতে বোর্ড পরবর্তীতে সংশোধিত সমহার আদেশ গেজেটের মাধ্যমে জারি করিবে, অন্যথায় অব্যবহিত পূর্ববর্তী নির্ধারিত সমহার আদেশ বহাল থাকিবে।\n(৪) সমহার নির্ধারণের জন্য উপকরণ-উৎপাদ সম্পর্ক, নির্দিষ্ট অর্থবৎসরের আমদানি শুল্কহার এবং বিগত অর্থবৎসরের ১২ (বারো) মাসের আমদানি মূল্যের প্রতিনিধিত্বমূলক গড় মূল্য বিবেচনায় নেয়া হইবে।\n(৫) এই বিধিতে উল্লিখিত সমহার শুধু বাংলাদেশের ভৌগোলিক সীমার বাহিরে রপ্তানির বিপরীতে প্রত্যর্পণ গ্রহণের ক্ষেত্রে প্রযোজ্য হইবে।\n(৬) যে সকল পণ্যে সমহার আদেশ জারি করা সম্ভব নহে সেই সকল পণ্যের ক্ষেত্রে প্রকৃতহারে প্রত্যর্পণ প্রদান করা হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to determine and publish standard duty drawback rates for export products through official gazette notifications.",
+          "It maintains the authority to review and revise these standard rates periodically based on recommendations from the Duty Exemption and Drawback Office.",
+          "The Board determines these rates by evaluating input-output relationships, import duty rates for the specific fiscal year, and the average import value over the preceding year."
+        ],
+        "Duty Exemption and Drawback Office": [
+          "This office is responsible for regularly reviewing the value of imported inputs, customs duty rates, and production processes associated with exportable goods.",
+          "It provides recommendations to the National Board of Revenue regarding the modification of standard duty drawback rates when changes in production or cost factors are observed."
+        ],
+        "Customs Duty Drawback": [
+          "Customs duty drawback refers to the refund of import duties paid on inputs used in the production of export goods, which can be applied via standard rates for common industry practices or specific rates for individual exporters.",
+          "These drawback provisions apply exclusively to products exported beyond the geographical boundaries of Bangladesh.",
+          "In instances where a standard drawback rate cannot be established for a specific product, the refund shall be granted based on the actual amount of duty paid."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2146",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "standard duty drawback rates",
+          "official gazette notifications",
+          "Duty Exemption and Drawback Office",
+          "input-output relationships",
+          "import duty rates",
+          "average import value"
+        ],
+        "Duty Exemption and Drawback Office": [
+          "imported inputs",
+          "customs duty rates",
+          "production processes",
+          "exportable goods",
+          "National Board of Revenue",
+          "standard duty drawback rates",
+          "production factors",
+          "cost factors"
+        ],
+        "Customs Duty Drawback": [
+          "import duties",
+          "inputs",
+          "export goods",
+          "standard rates",
+          "specific rates",
+          "individual exporters",
+          "Bangladesh",
+          "actual amount of duty paid"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        52,
+        106,
+        228,
+        229,
+        300,
+        697,
+        706,
+        763,
+        867,
+        1373,
+        1674,
+        2419,
+        2953,
+        4929,
+        5295,
+        5877,
+        6745,
+        9000,
+        9099,
+        11013,
+        12382
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "সমহার ভিত্তিক প্রত্যর্পণ গ্রহণ পদ্ধতি",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5",
+      "resolved_text": "৫। সমহার ভিত্তিক প্রত্যর্পণ গ্রহণ পদ্ধতি।— (১) সমহারে প্রত্যর্পণ গ্রহণে ইচ্ছুক রপ্তানিকারক বিধি ৩ এর অধীন আবেদনপত্র দাখিলের পূর্বে ফরম-খ অনুযায়ী উপকরণ-উৎপাদ সম্পর্ক গ্রহণের জন্য প্রয়োজনীয় দলিলাদি ও তথ্যসহ আবেদন করিবেন।\n(২) সমহার আদেশ দ্বারা নির্ধারিত সমহারের আওতায় প্রত্যর্পণ আবেদন নিষ্পত্তির ক্ষেত্রে আবেদনকারী প্রতিষ্ঠানকে উপকরণ আমদানি সংক্রান্ত দলিলাদি দাখিল করিতে হইবে না।\n(৩) যেক্ষেত্রে রপ্তানিকারক সরাসরি উপকরণ আমদানি করেন না, বরং বাংলাদেশের অভ্যন্তরে আমদানিকৃত উপকরণ স্থানীয়ভাবে ক্রয়নের মাধ্যমে সংগ্রহ করিয়া পণ্য উৎপাদনপূর্বক রপ্তানি করেন, সেইক্ষেত্রে তৎকর্তৃক ক্রয়কৃত উপকরণ মূল্যের মধ্যে পরিশোধিত আমদানি শুল্ক অন্তর্ভুক্ত থাকে বিবেচনায় প্রত্যর্পণ আবেদনের সহিত তাহাকে উপকরণ আমদানির দলিলাদি বা স্থানীয়ভাবে ক্রয়নের দলিলাদি দাখিল করিতে হইবে না।",
+      "entity_concepts": {
+        "Duty Drawback": [
+          "Exporters opting for the flat-rate duty drawback system must submit required documentation and data regarding input-output coefficients using the prescribed form before filing an application.",
+          "Applicants under the flat-rate duty drawback system are exempted from the requirement to submit import-related documentation for their inputs.",
+          "In cases where exporters procure inputs locally that contain embedded import duties, they are not required to submit documentation for either the original import or the local purchase when applying for the drawback."
+        ],
+        "Exporter": [
+          "Exporters are responsible for providing all necessary documentation and information to justify input-output coefficients prior to submitting their application for flat-rate duty drawback.",
+          "Exporters who procure inputs locally are entitled to apply for duty drawback without submitting individual import or purchase documents, based on the assumption that the purchase price includes paid import duties."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2147",
+      "entity_sub_entities": {
+        "Duty Drawback": [
+          "flat-rate duty drawback system",
+          "documentation",
+          "data",
+          "input-output coefficients",
+          "prescribed form",
+          "application",
+          "import-related documentation",
+          "inputs",
+          "import duties",
+          "original import",
+          "local purchase"
+        ],
+        "Exporter": [
+          "documentation",
+          "information",
+          "input-output coefficients",
+          "application",
+          "flat-rate duty drawback",
+          "inputs",
+          "import documents",
+          "purchase documents",
+          "purchase price",
+          "import duties"
+        ]
+      },
+      "clause_clusters": [
+        52,
+        58,
+        63,
+        77,
+        106,
+        138,
+        148,
+        270,
+        527,
+        590,
+        776,
+        4610,
+        8189,
+        8190,
+        8885,
+        9582,
+        10413,
+        11125
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "বিশেষ বিধান",
+      "text_id": "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+      "resolved_text": "১২। বিশেষ বিধান।─ (১) কাস্টমস আইন, ২০২৩ এর ধারা ৯৬ এর উদ্দেশ্যপূরণকল্পে, যেই সকল পণ্যচালানের কার্গো ঘোষণা এককভাবে কাস্টমস কম্পিউটার সিস্টেমে দাখিল বা প্রেরণ করা সম্ভবপর নহে, সেই সকল পণ্যচালানের বিল অব লেডিং বা এয়ারওয়ে বিল বা ট্রাক রিসিপ্ট বা রেল কার্গোরিসিপ্ট, যেই ক্ষেত্রে যেইটি প্রযোজ্য, এর ভিত্তিতে পণ্যের ঘোষণা দাখিলের সুযোগ প্রদান করা যাইবে এবং এইক্ষেত্রে ঝুঁকি ব্যবস্থাপনার আওতায় কায়িক পরীক্ষার জন্য নির্বাচিত চালান ব্যতীত, দাখিলকৃত পণ্যের ঘোষণা, সত্যতা প্রতিপাদন এবং ছাড়ের জন্য শুল্ক ও কর পরিশোধের সুযোগ পাইবে।\n(২) ক্ষমতাপ্রাপ্ত ব্যক্তি বা এজেন্ট কর্তৃক দাখিলকৃত কার্গো ঘোষণা ও পণ্যের ঘোষণা তথ্যের সহিত পরিপূরক যাচাই সাপেক্ষে, এক্সিট নম্বর প্রদান ও পোর্ট রিলিজ নিশ্চিত করিতে হইবে।\n(৩) উক্তরূপ চালান সহজে সনাক্তকরণে কাস্টমস কম্পিউটার সিস্টেমে ভিন্নভাবে চিহ্নিতকরণ [যেমন, IM Code (Import Code)] ব্যবহার করা যাইবে এবং প্রচলিত পদ্ধতিতে একাধিক কার্গোঘোষণা সৃষ্টি হইলে উহার এক্সিট নম্বর প্রদানের পূর্বেই অতিরিক্ত কার্গো ঘোষণা অবলোপন (write off) করিবার জন্য দপ্তরসমূহ প্রয়োজনীয় ব্যবস্থা গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This clause provides specific provisions to facilitate the fulfillment of the objectives stated under Section 96 of the Customs Act 2023."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "For shipments where cargo declaration cannot be filed electronically as a single entry, the system allows for the submission of declarations based on transport documents like bills of lading, airway bills, or transport receipts.",
+          "The system may be used to uniquely flag shipments using specific import codes and is responsible for providing exit numbers and ensuring port release after data verification.",
+          "Except for shipments selected for physical inspection under risk management, the system facilitates the verification of declarations and the payment of duties and taxes for clearance."
+        ],
+        "Import Clearance": [
+          "Clearance is granted for shipments based on transport documents when standard electronic cargo declaration is not feasible, provided the goods are not selected for physical examination under risk management."
+        ],
+        "Risk Management": [
+          "Shipments are subjected to risk assessment, where physical examination remains mandatory for those selected by the system, while others may proceed based on the authenticity of the submitted declarations."
+        ],
+        "Import Duty": [
+          "The clause stipulates that duties and taxes must be paid to enable the clearance of goods that have had their declarations and authenticity verified."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3148",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Section 96"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "cargo declaration",
+          "bills of lading",
+          "airway bills",
+          "transport receipts",
+          "import codes",
+          "exit numbers",
+          "duties",
+          "taxes"
+        ],
+        "Import Clearance": [
+          "transport documents",
+          "goods"
+        ],
+        "Risk Management": [
+          "shipments",
+          "declarations"
+        ],
+        "Import Duty": [
+          "duties",
+          "taxes",
+          "goods",
+          "declarations"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        19,
+        30,
+        52,
+        66,
+        220,
+        240,
+        247,
+        363,
+        626,
+        730,
+        1005,
+        1400,
+        2709,
+        4146,
+        12011,
+        13000
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_132",
+      "clause_title": "রপ্তানির জন্য ওয়্যারহাউসকৃত পণ্যের খালাস",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_132",
+      "resolved_text": "১০৫। রপ্তানির জন্য ওয়্যারহাউসকৃত পণ্যের খালাস।— ওয়্যারহাউসকৃত পণ্যের কোন মালিক ধারা ৯৮ এর অধীন ওয়্যারহাউসিং মেয়াদের মধ্যে যে কোন সময়ে উক্ত পণ্য উহাদের উপর প্রদেয় পূর্বোল্লিখিত সকল ভাড়া, অর্থদণ্ড, সুদ এবং অন্যান্য চার্জসমূহ পরিশোধপূর্বক, Ze উহাদের উপর কোন আমদানি শুল্ক পরিশোধ ব্যতীত, বাংলাদেশের বাহিরে রপ্তানি করিতে পারিবেন :\nতবে শর্ত থাকে যে, সরকারের যদি মনে হয় যে কোন নির্দিষ্ট বর্ণনার পণ্য চোরাচালানপূর্বক বাংলাদেশে ফেরত আসার সম্ভাবনা রহিয়াছে, তাহা হইলে সরকার, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, নির্দেশ দিতে পারিবে যে শুল্ক পরিশোধ ব্যতিরেক উক্ত পণ্য বাংলাদেশের বাহিরে রপ্তানি করা যাইবে না অথবা প্রজ্ঞাপনে নির্ধারিত নিয়ন্ত্রণ এবং শর্তাবলী সাপেক্ষে, উহাদের রপ্তানির অনুমতি প্রদান করিতে পারিবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The owner of warehoused goods is permitted to export them outside of Bangladesh before the expiration of the storage period, provided all relevant rent, fines, interest, and charges are paid.",
+          "Such exported goods are exempt from the payment of import duties under standard conditions."
+        ],
+        "Government of Bangladesh": [
+          "The government retains the authority to restrict the export of specific goods without duty payment if there is a risk of such goods being smuggled back into the country.",
+          "This authority is exercised through official notifications in the government gazette, which may impose specific conditions or controls on the export process."
+        ],
+        "Import Duty": [
+          "Goods kept in a bonded warehouse may generally be exported outside of Bangladesh without the payment of import duties, subject to specific regulatory exceptions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_136",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "warehoused goods",
+          "rent",
+          "fines",
+          "interest",
+          "charges",
+          "exported goods"
+        ],
+        "Government of Bangladesh": [
+          "specific goods",
+          "official notifications",
+          "government gazette"
+        ],
+        "Import Duty": [
+          "Goods",
+          "import duties"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        32,
+        52,
+        61,
+        89,
+        115,
+        142,
+        245,
+        263,
+        324,
+        529,
+        532,
+        1208
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_104",
+      "clause_title": "Clearance for home-consumption",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_104",
+      "resolved_text": "83. Clearance for home-consumption.- 3[1] When the owner of any goods entered for home-consumption and assessed under section 80 has paid the import duty and other charges, if any in respect of the same, the appropriate officer, if he is satisfied that the import of the goods is not prohibited or in breach of any restrictions or conditions applying to the importer of such goods, may make an order for the clearance of the same.\n3[(2) Notwithstanding anything contained in sub-section (1) the importer or a class of importers for any goods, notified under section 80(3), shall be allowed clearance without any formal order under sub-section(1) of this section and such goods shall be deemed to have been duly allowed to pass.]\n25[(3) The Board may, by special order, in the public interest, allow any government or semi-government organization or statutory public authority to take clearance of goods without paying the import duty and other charges on submission of a guarantee that such duty and charges shall be paid within specific period to be determined by the Board.]",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The appropriate officer may authorize the clearance of goods for home-consumption once all applicable import duties and charges have been paid and the officer is satisfied that the importation complies with all legal restrictions.",
+          "Specific categories of importers notified under the law may be granted clearance without requiring a formal order, with such goods deemed to have been duly authorized for entry.",
+          "The National Board of Revenue has the authority to issue special orders allowing government or statutory bodies to clear goods without immediate payment of duties, provided a guarantee is submitted to ensure payment within a set timeframe."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer is responsible for verifying the compliance of imported goods and issuing the formal clearance order once duties are settled and import conditions are met."
+        ],
+        "Importer": [
+          "The importer is responsible for the payment of import duties and charges for goods entered for home-consumption.",
+          "Certain classes of importers may be exempted from the requirement of a formal clearance order for their goods as specified by law."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the power to permit government and statutory organizations to defer duty payments for imported goods through special orders in the public interest."
+        ],
+        "Import Duty": [
+          "Import duties and other applicable charges must be paid by the owner of goods entered for home-consumption before a clearance order can be issued.",
+          "The Board may authorize exemptions or deferrals for specific public sector organizations under a guarantee scheme."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_431",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "goods",
+          "import duties",
+          "charges",
+          "formal order",
+          "special orders",
+          "guarantee"
+        ],
+        "Appropriate Officer of Customs": [
+          "imported goods",
+          "formal clearance order",
+          "duties"
+        ],
+        "Importer": [
+          "import duties",
+          "charges",
+          "goods",
+          "formal clearance order"
+        ],
+        "National Board of Revenue": [
+          "government organizations",
+          "statutory organizations",
+          "imported goods",
+          "special orders"
+        ],
+        "Import Duty": [
+          "import duties",
+          "charges",
+          "clearance order",
+          "exemptions",
+          "deferrals",
+          "public sector organizations",
+          "guarantee scheme"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        8,
+        17,
+        30,
+        39,
+        51,
+        52,
+        115,
+        163,
+        417,
+        1062,
+        2070,
+        4030,
+        4035,
+        4941,
+        6413,
+        7175,
+        8569,
+        11112
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_132",
+      "clause_title": "Clearance of warehoused goods for export",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_132",
+      "resolved_text": "105. Clearance of warehoused goods for export.- Any owner of warehoused goods may, at any time within the period of their warehousing under section 98, clear such goods for export out of 2[Bangladesh] on payment of all rent, penalties, interest and other charges payable as aforesaid but without paying any import duty thereon:\nProvide that, if the 3[Government] is of the opinion that warehoused goods of any specified description are likely to be smuggled back into 2[Bangladesh], it may, by notification in the official Gazette, direct that such goods shall not be exported to any place outside 2[Bangladesh] without payment of duty or allow them to be exported subject to such restrictions and conditions as may be specified in the notification.",
+      "entity_concepts": {
+        "Owner of Warehoused Goods": [
+          "The owner of warehoused goods is permitted to clear their goods for export at any time during the authorized warehousing period.",
+          "Export clearance is conditional upon the full payment of all relevant rent, interest, penalties, and associated charges."
+        ],
+        "Warehoused Goods": [
+          "These goods may be cleared for export without the payment of import duty.",
+          "The government reserves the right to restrict the export of specific goods if there is a risk that they may be smuggled back into the country.",
+          "The government may mandate the payment of duty or impose specific conditions and restrictions on the export of certain warehoused goods via an official notification."
+        ],
+        "Government": [
+          "The government has the authority to issue notifications in the official Gazette to restrict the export of certain goods if it determines that such goods are prone to being smuggled back into the country."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_459",
+      "entity_sub_entities": {
+        "Owner of Warehoused Goods": [
+          "warehoused goods",
+          "rent",
+          "interest",
+          "penalties",
+          "associated charges"
+        ],
+        "Warehoused Goods": [
+          "goods",
+          "import duty",
+          "specific goods",
+          "certain warehoused goods"
+        ],
+        "Government": [
+          "notifications",
+          "official Gazette",
+          "certain goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        6,
+        28,
+        46,
+        52,
+        89,
+        112,
+        324,
+        412,
+        529,
+        532,
+        2479,
+        6249,
+        6250
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_133",
+      "clause_title": "Clearance of warehoused goods for export as provisions, on a conveyance proceeding to foreign destination",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_133",
+      "resolved_text": "106. Clearance of warehoused goods for export as provisions, on a conveyance proceeding to foreign destination.- Any warehoused provisions and stores may be exported within the period of their warehousing under section 98 without payment of import duty for use on board any conveyance proceeding to a foreign territory.",
+      "entity_concepts": {
+        "Warehoused Goods": [
+          "Warehoused provisions and stores may be exported directly from a warehouse without payment of import duty, provided they are intended for use on board a conveyance departing for a foreign destination. This export process must be completed within the time limits prescribed for warehousing under the Act."
+        ],
+        "Conveyance": [
+          "A conveyance intended for a foreign destination may take on warehoused stores and provisions as duty-free goods for use during its journey."
+        ],
+        "Import Duty": [
+          "Import duty is waived for warehoused goods that are exported for use as provisions or stores on vessels or vehicles bound for a foreign territory."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_460",
+      "entity_sub_entities": {
+        "Warehoused Goods": [
+          "provisions",
+          "stores"
+        ],
+        "Conveyance": [
+          "vessel",
+          "vehicle"
+        ],
+        "Import Duty": [
+          "import duty"
+        ]
+      },
+      "clause_clusters": [
+        52,
+        56,
+        67,
+        71,
+        89,
+        161,
+        399
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_155",
+      "clause_title": "Transit of goods across Bangladesh to a foreign territory",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_155",
+      "resolved_text": "129. Transit of goods across 1[Bangladesh] to a foreign territory.- Where any goods are entered for transit across 1[Bangladesh] to a destination outside 1[Bangladesh], the appropriate officer may, subject to the provisions of the rules, allow the goods to be so transited without payment of the duties which would otherwise be chargeable on such goods. 30[]",
+      "entity_concepts": {
+        "Transit Goods": [
+          "Goods entered for transit across Bangladesh to a foreign destination may be permitted to pass through the territory under the authority of the appropriate customs officer.",
+          "The transit of these goods is permitted without the payment of import or export duties that would normally be applicable under the Customs Act."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer has the discretionary power to allow the transit of goods across Bangladesh subject to the provisions of the established rules."
+        ],
+        "Rules": [
+          "The transit of goods across the country is subject to compliance with the relevant rules established under the Customs Act."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_482",
+      "entity_sub_entities": {
+        "Transit Goods": [
+          "goods",
+          "import duties",
+          "export duties"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer"
+        ],
+        "Rules": [
+          "rules",
+          "Customs Act"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        29,
+        37,
+        52,
+        69,
+        345,
+        3932
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_164",
+      "clause_title": "Frustrated cargo and other than frustrated cargo how dealt with",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_164",
+      "resolved_text": "138. Frustrated cargo 31[and other than frustrated cargo] how dealt with.- (1) Where any goods are brought into a customs-station by reason of inadvertence, mis-direction or untraceability of the consignee, the 1[Commissioner of Customs] may, on application by the person-in-charge of the conveyance which brought such goods or of the consignor of such goods and subject to rules, allow export of such goods without payment of any duties (whether of import or export) chargeable thereon, provided that such goods have remained and are exported under the custody of an officer of customs.\n32[(1A) Where any goods are brought into a customs-station by a reason other than the reasons mentioned in sub-section (1), the Commissioner of Customs may, with prior approval of the Board, allow re-exportation of such goods without payment of any duties chargeable thereon.]\n(2) All expenses attending to such custody shall be borne by the applicant.",
+      "entity_concepts": {
+        "Frustrated Cargo": [
+          "Frustrated cargo refers to goods brought into a customs station due to inadvertence, misdirection, or the untraceability of the consignee. The Commissioner of Customs may permit the export of such goods without payment of import or export duties, provided the goods remain under customs custody until their departure."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is authorized to approve the export of frustrated cargo upon application by the person in charge of the conveyance or the consignor, subject to established rules and the condition of maintaining customs custody.",
+          "For goods brought into a customs station under circumstances other than those classified as frustrated cargo, the Commissioner of Customs may authorize re-exportation without duty payment, provided prior approval from the National Board of Revenue is obtained."
+        ],
+        "Customs Station": [
+          "A customs station serves as the designated location for the management and handling of frustrated cargo and other goods eligible for re-exportation."
+        ],
+        "Person in Charge of Conveyance": [
+          "The person in charge of a conveyance that brought goods into a customs station may apply to the Commissioner of Customs for the export of frustrated cargo without payment of duties."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue must provide prior approval before the Commissioner of Customs can authorize the re-exportation of goods that do not meet the legal criteria for frustrated cargo."
+        ],
+        "Customs Custody": [
+          "Goods designated for export as frustrated cargo must remain under the continuous custody of an officer of customs throughout the process to qualify for duty exemptions.",
+          "All expenses incurred while goods are held in customs custody must be paid by the applicant who requested the export or re-exportation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_491",
+      "entity_sub_entities": {
+        "Frustrated Cargo": [
+          "goods",
+          "import duties",
+          "export duties"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "frustrated cargo",
+          "conveyance",
+          "consignor",
+          "goods",
+          "National Board of Revenue"
+        ],
+        "Customs Station": [
+          "customs station",
+          "frustrated cargo",
+          "goods"
+        ],
+        "Person in Charge of Conveyance": [
+          "person in charge of a conveyance",
+          "customs station",
+          "Commissioner of Customs",
+          "frustrated cargo",
+          "duties"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "Commissioner of Customs",
+          "goods"
+        ],
+        "Customs Custody": [
+          "goods",
+          "frustrated cargo",
+          "officer of customs",
+          "expenses",
+          "applicant"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        25,
+        30,
+        52,
+        56,
+        97,
+        104,
+        357,
+        431,
+        585,
+        1047,
+        1057,
+        2606,
+        3932
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

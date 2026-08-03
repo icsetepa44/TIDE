@@ -1,0 +1,84 @@
+{
+  "thread_id": "cluster_00145_t1",
+  "cluster_id": 145,
+  "cluster_label": "amendments",
+  "title": "Institutional and Procedural Frameworks",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 4,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the Authorized Economic Operator (AEO) committee formally established under the Customs Act 2023?",
+      "options": [
+        "29 May 2024",
+        "13 June 2024",
+        "5 June 2014",
+        "15 Jaistha 1431"
+      ],
+      "answer_index": 1,
+      "answer": "13 June 2024",
+      "explanation": "According to the timeline and the source 20240613_217-_2024_67_output.json, the AEO committee was formally established on 13 June 2024.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under which legal instrument was the National Board of Revenue empowered to amend the Freight Forwarders (Licensing and Operations) Rules 2008?",
+      "options": [
+        "Customs Act 2023",
+        "Warehouse Licensing Rules 2024",
+        "Customs Act 1969",
+        "AEO Committee Charter 2024"
+      ],
+      "answer_index": 2,
+      "answer": "Customs Act 1969",
+      "explanation": "The source 20140605_139-AIN_2014_2503-Customs_outpu states that the Board used powers under the Customs Act 1969 (Act No. IV of 1969) to amend the Freight Forwarders (Licensing and Operations) Rules 2008.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which legislation provides the government the authority to amend the Warehouse Licensing Rules 2024 in consultation with the National Board of Revenue?",
+      "options": [
+        "Customs Act 1969",
+        "Customs Act 2023",
+        "Freight Forwarders Rules 2008",
+        "AEO Committee Regulations 2024"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Act 2023",
+      "explanation": "The undated source 20250602_231-AIN_2025_53_Customs_output specifies that the government is empowered under the Customs Act 2023 to amend the Warehouse Licensing Rules 2024.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What is a primary responsibility of the Authorized Economic Operator (AEO) committee established on 13 June 2024?",
+      "options": [
+        "Drafting the national budget",
+        "Licensing all freight forwarders in Bangladesh",
+        "Submitting an annual report on program activities to the head of the National Board of Revenue",
+        "Directly managing warehouse operations"
+      ],
+      "answer_index": 2,
+      "answer": "Submitting an annual report on program activities to the head of the National Board of Revenue",
+      "explanation": "Source 20240613_217-_2024_67_output.json explicitly states that the committee shall provide policy advice and submit an annual report on program activities to the head of the National Board of Revenue.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_4"
+      ]
+    }
+  ]
+}

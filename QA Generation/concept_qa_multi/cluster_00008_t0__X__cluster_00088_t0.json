@@ -1,0 +1,32 @@
+{
+  "group_id": "cluster_00008_t0__X__cluster_00088_t0",
+  "entities": [
+    "imported goods",
+    "TABLE-2"
+  ],
+  "cluster_ids": [
+    8,
+    88
+  ],
+  "thread_ids": [
+    "cluster_00008_t0",
+    "cluster_00088_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the government exercise its authority under Section 25(3) of the Customs Act, 1969 to regulate imported goods in relation to tariff values found in tables like TABLE-2?",
+      "answer": "Under Section 25(3) of the Customs Act, 1969, the government is empowered to set tariff values for imported goods to be used for the assessment of customs duty, as evidenced by the issuance of SROs like 133-AIN/2021 and 147-AIN/2022 which mandate the application of specific tariff values listed in tables for imported goods falling under designated HS Codes.",
+      "entities_involved": [
+        "imported goods",
+        "TABLE-2"
+      ],
+      "clause_text_ids": [
+        "20210603_133-AIN_2021_22_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    }
+  ]
+}

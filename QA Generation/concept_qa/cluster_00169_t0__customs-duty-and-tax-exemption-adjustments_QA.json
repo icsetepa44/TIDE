@@ -1,0 +1,246 @@
+{
+  "thread_id": "cluster_00169_t0",
+  "cluster_id": 169,
+  "cluster_label": "customs matters",
+  "title": "Customs Duty and Tax Exemption Adjustments",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 16,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the legislative framework governing customs duty and tax exemptions in Bangladesh evolved from 2012 to 2024?",
+      "answer": "The legal foundation transitioned from the Customs Act, 1969 and the Value Added Tax Act, 1991, which were used for regulatory orders like SRO 175-Law/2012, to the Customs Act, 2023 and the VAT and Supplementary Duty Act, 2012. This shift is evidenced by SRO 249-Law/2024, which explicitly cites these newer acts as the authority for amending customs notifications.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role does the National Board of Revenue play in the modification of customs duty exemptions according to the provided SROs?",
+      "answer": "Across all cited SROs, from SRO 175-Law/2012 to SRO 249-Law/2024, the National Board of Revenue serves as the mandatory consultative body. The government exercises its legal powers to amend customs and tax notifications only after consulting with this board and acting in the public interest.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the scope of duty and tax applications changed in the context of import-related regulatory orders?",
+      "answer": "The scope has been refined over time to clarify which duties are subject to exemption or modification. For instance, SRO 149-Law/2015 moved away from a broad 'total import duty' terminology to a more specific definition that includes import duty exceeding five percent ad valorem, alongside regulatory duty and value added tax.",
+      "clause_text_ids": [
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way has the amendment process been used to manage HS Code classifications?",
+      "answer": "The amendment process is used to continuously update HS Code entries and descriptions to reflect current tax policy requirements. Examples include SRO 150-Law/2016, which updated computer-related goods under heading 84.71, and SRO 149-Law/2018, which specifically amended entries for heading 85.23.",
+      "clause_text_ids": [
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20160602_150-AIN_2016_12-Customs_২ জুন, ২০১৬_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the legal authority for issuing regulatory orders regarding customs duties change between 2012 and 2024?",
+      "answer": "In 2012, orders were issued under Section 19(1) of the Customs Act, 1969 and Section 14(1) of the VAT Act, 1991. By 2024, as seen in SRO 249-Law/2024, the authority shifted to Section 25(1) of the Customs Act, 2023 and Section 126(1) of the VAT and Supplementary Duty Act, 2012.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The legal framework for customs duty exemptions in Bangladesh transitioned from the Customs Act, 1969 and the VAT Act, 1991 to the Customs Act, 2023 and the VAT and Supplementary Duty Act, 2012, as evidenced by SRO 249-Law/2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the context, SRO 249-Law/2024 formally reflects the transition to the legal framework of the Customs Act, 2023 and the VAT and Supplementary Duty Act, 2012.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 175-Law/2012, issued on June 7, 2012, served as the initial modification of duty tables under the Customs Act, 1969 and the VAT Act, 1991.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 175-Law/2012, dated June 7, 2012, is identified in the timeline as the initial modification of duty tables under the 1969/1991 Acts.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 150-Law/2016, issued on June 2, 2016, provided specific amendments to HS Code entries, including updates for computer-related goods under Heading 84.71.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 150-Law/2016 updated HS Code entries and descriptive text for computer-related goods under Heading 84.71.",
+      "clause_text_ids": [
+        "20160602_150-AIN_2016_12-Customs_২ জুন, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 149-Law/2015, issued on June 4, 2015, redefined the scope of import duty and regulatory duty, specifically replacing the clause for 'total import duty' with one covering import duty exceeding 10 percent ad valorem.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "10 percent",
+      "correct_fact": "5 percent",
+      "answer": "The statement is inaccurate. SRO 149-Law/2015 redefined the scope to cover import duty exceeding 5 percent ad valorem, not 10 percent.",
+      "clause_text_ids": [
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 149-Law/2018, issued on June 7, 2018, focused on amendments to HS Code 85.23 entries related to data processing and magnetic media.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 149-Law/2018 specifically updated Heading 85.23 entries regarding data processing and magnetic media.",
+      "clause_text_ids": [
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under SRO 249-Law/2024, the government is empowered to amend customs notifications by acting in consultation with the Ministry of Finance.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Ministry of Finance",
+      "correct_fact": "National Board of Revenue",
+      "answer": "The statement is inaccurate. According to the context for SRO 249-Law/2024, the government is mandated to consult with the National Board of Revenue, not the Ministry of Finance.",
+      "clause_text_ids": [
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been tracking the legal basis for customs duty exemptions since 2012. They noted that early notifications from 2012 through 2018 consistently cited the Customs Act, 1969 and the Value Added Tax Act, 1991 as the source of authority for regulatory orders. In 2024, they encountered a new SRO that references different primary legislation for the same type of duty adjustments.",
+      "question": "How did the legal framework governing the government's power to grant customs duty exemptions evolve between 2012 and 2024?",
+      "answer": "The legal basis transitioned from the Customs Act, 1969 and the Value Added Tax Act, 1991 (used in SROs from 2012–2018) to the Customs Act, 2023 and the Value Added Tax and Supplementary Duty Act, 2012 (as seen in SRO 249-Law/2024).",
+      "clauses_involved": [
+        "2012-06-07 | SRO 175-Law/2012",
+        "2018-06-07 | SRO 149-Law/2018",
+        "2024-07-08 | SRO 249-Law/2024"
+      ],
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An official reviewing duty exemptions observes that the scope of duties subject to exemption has been redefined over time. Specifically, a 2015 SRO changed how import duty was calculated in relation to regulatory duty and VAT, and a 2024 SRO further modified the scope of 'Customs Duty' applicable under its provisions.",
+      "question": "Regarding the scope of customs duty exemptions, how did the 2024 amendment in SRO 249-Law/2024 alter the application of 'Customs Duty' compared to previous language that limited exemptions to amounts exceeding a specific percentage?",
+      "answer": "While previous notifications (such as those amended in 2015 and 2024) often limited exemptions to duty amounts exceeding a certain percentage (e.g., 5% or 1%), the 2024 amendment replaced restrictive language with a provision encompassing 'all' (samuday) Customs Duty.",
+      "clauses_involved": [
+        "2015-06-04 | SRO 149-Law/2015",
+        "2024-07-08 | SRO 249-Law/2024"
+      ],
+      "clause_text_ids": [
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2018-06-07",
+      "relative_offset": "six years later",
+      "question": "Given the framework established by SRO 149-Law/2018, what significant transition occurred in the legal basis for duty exemptions six years later?",
+      "answer": "Six years later, on 2024-07-08, SRO 249-Law/2024 was issued, marking a transition from the Customs Act, 1969 and VAT Act, 1991 to the Customs Act, 2023 and the VAT and Supplementary Duty Act, 2012.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "three years later",
+      "question": "Starting from the baseline of SRO 175-Law/2012, how did the regulatory scope change three years later?",
+      "answer": "Three years later, on 2015-06-04, SRO 149-Law/2015 was issued, which focused on the refinement of terminology regarding the scope of import duty and regulatory duty.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government updates the HS Code entries and descriptions specifically for Heading 84.71.",
+        "The government replaces the table of duty exemptions under the Customs Act and the Value Added Tax Act for iron or non-alloy steel products.",
+        "The government amends the regulatory notification to refine the terminology and scope regarding import duty and regulatory duty.",
+        "The government updates the legal framework for issuing customs notifications by transitioning to the Customs Act and the Value Added Tax and Supplementary Duty Act.",
+        "The government modifies the entries for Heading 85.23 within the existing table of customs duties."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government replaces the table of duty exemptions under the Customs Act and the Value Added Tax Act for iron or non-alloy steel products.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The government amends the regulatory notification to refine the terminology and scope regarding import duty and regulatory duty.",
+          "date": "2015-06-04"
+        },
+        {
+          "event": "The government updates the HS Code entries and descriptions specifically for Heading 84.71.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The government modifies the entries for Heading 85.23 within the existing table of customs duties.",
+          "date": "2018-06-07"
+        },
+        {
+          "event": "The government updates the legal framework for issuing customs notifications by transitioning to the Customs Act and the Value Added Tax and Supplementary Duty Act.",
+          "date": "2024-07-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20160602_150-AIN_2016_12-Customs_২ জুন, ২০১৬_clause_1",
+        "20180607_149-AIN_2018_15_Customs_২৯ মে, ২০১৮_clause_1",
+        "20240708_249-_2024_85_২৭ জুন, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_175-AIN_2012_2403-Customs/20120607_175-AIN_2012_2403-Customs_output.json",
+        "customs_sros_OCR/20150604_149-AIN_2015_29-Customs/20150604_149-AIN_2015_29-Customs_output.json",
+        "customs_sros_OCR/20160602_150-AIN_2016_12-Customs/20160602_150-AIN_2016_12-Customs_output.json",
+        "customs_sros_OCR/20180607_149-AIN_2018_15_Customs/20180607_149-AIN_2018_15_Customs_output.json",
+        "customs_sros_OCR/20240708_249-_2024_85/20240708_249-_2024_85_output.json"
+      ],
+      "thread_source_file": "cluster_00169_t0__customs-duty-and-tax-exemption-adjustments.json"
+    }
+  ]
+}

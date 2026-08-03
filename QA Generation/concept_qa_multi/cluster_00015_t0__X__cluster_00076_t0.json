@@ -1,0 +1,38 @@
+{
+  "group_id": "cluster_00015_t0__X__cluster_00076_t0",
+  "entities": [
+    "Statutory Regulatory Order",
+    "date"
+  ],
+  "cluster_ids": [
+    15,
+    76
+  ],
+  "thread_ids": [
+    "cluster_00015_t0",
+    "cluster_00076_t0"
+  ],
+  "num_shared_clauses": 8,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do Statutory Regulatory Orders (SROs) define their operational lifespan and effective date under current legal practice?",
+      "answer": "SROs define their operational lifespan by specifying both a commencement date and an expiry date, such as in [0] and [1], where the SROs are effective from June 6, 2024, and remain valid until June 30, 2025, and June 30, 2028, respectively. Alternatively, SROs may be issued with a retrospective effective date, as shown in [2], [3], [4], [5], [6], and [7], which are deemed to have been effective from June 6, 2024.",
+      "entities_involved": [
+        "Statutory Regulatory Order",
+        "date"
+      ],
+      "clause_text_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_183-AIN_2024_35_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240708_227-_2024_69_২৬ জুন, ২০২৪_clause_2",
+        "20240708_227-_2024_69_২৬ জুন, ২০২৪_clause_4",
+        "20240708_231-_2024_73_২৬ জুন, ২০২৪_clause_2",
+        "20240708_232-_2024_74_২৬ জুন, ২০২৪_clause_2",
+        "20240708_234-_2024_76_২৬ জুন, ২০২৪_clause_2",
+        "20240708_252-_2024_88_২৭ জুন, ২০২৪_clause_2"
+      ]
+    }
+  ]
+}

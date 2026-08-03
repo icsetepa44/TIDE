@@ -1,0 +1,196 @@
+{
+  "cluster_id": 771,
+  "cluster_label": "fee",
+  "thread_index": 2,
+  "thread_id": "cluster_00771_t2",
+  "title": "Licensing and Renewal Fees",
+  "summary": "This thread tracks the evolution of fees associated with customs agent licensing, specifically the introduction of tiered renewal fees based on the type of customs station and the requirement for additional fees for operational expansion.",
+  "evolution": {
+    "rate_structure": "Shifted from a flat fee for expansion to a location-based tiered structure for renewals.",
+    "eligibility": "Linked to specific operational scopes (Customs House vs. Land Station)."
+  },
+  "timeline": [
+    {
+      "date": "2015-07-01",
+      "instrument": "Customs Agent Licensing Rules",
+      "change": "Introduced a 10,000 BDT fee for operational expansion to additional customs stations.",
+      "clause_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    },
+    {
+      "date": "2016-06-05",
+      "instrument": "Customs Agent Licensing Rules",
+      "change": "Differentiated renewal fees: 10,000 BDT for Customs Houses vs. 5,000 BDT for land customs stations.",
+      "clause_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+      "resolved_text": "(৩) বিধি ৮ এর-\n(ক) উপ-বিধি (২) এর পরিবর্তে নিম্নরূপ উপ-বিধি (২) প্রতিস্থাপিত হইবে, যথা:\n\n“(২) উপ-বিধি (১) এ যাহা কিছুই থাকুক না কেন, একজন লাইসেন্সি লাইসেন্সে উল্লিখিত কাস্টম হাউস বা কাস্টমস স্টেশন ব্যতীত অন্য কোন কাস্টমস স্টেশনে কার্যক্রম পরিচালনা করিতে চাহিলে, তাহাকে ১০ (দশ) হাজার টাকার ট্রেজারি চালান অথবা ব্যাংক ড্রাফট অথবা পে-অর্ডারসহ সংশ্লিষ্ট কাস্টমস স্টেশনের লাইসেন্সিং কর্তৃপক্ষের নিকট লিখিতভাবে আবেদন করিতে হইবে এবং লাইসেন্সিং কর্তৃপক্ষ আবেদন যাচাই করিয়া তালিকাভুক্তি যোগ্য মনে করিলে ফরম ‘গ’ অনুযায়ী তাহাকে মূল লাইসেন্সের মেয়াদকালে উক্ত কাস্টম হাউস বা কাস্টমস স্টেশনের জন্য একজন লাইসেন্সি হিসাবে তালিকাভুক্ত করিবেন;”;\n\n(খ) উপ-বিধি (৪) বিলুপ্ত হইবে;\n(গ) উপ-বিধি (৫) এ উল্লিখিত “২ (দুই)” সংখ্যা, বন্ধনী ও শব্দের পরিবর্তে “৪ (চার)” সংখ্যা, বন্ধনী ও শব্দ প্রতিস্থাপিত হইবে;",
+      "entity_concepts": {
+        "Customs House Licensing": [
+          "Licensees wishing to operate at a customs station or customs house other than the one specified in their original license must submit a formal application to the respective licensing authority.",
+          "The application requires the submission of a specified fee paid via treasury challan, bank draft, or pay order, and the licensing authority will evaluate the applicant's eligibility for inclusion in a list for that location.",
+          "Upon approval, the licensee will be registered for the additional customs house or station for the remaining duration of the original license, subject to the prescribed application form."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is responsible for verifying applications from licensees who wish to operate at secondary customs stations and for registering them accordingly."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1551",
+      "entity_sub_entities": {
+        "Customs House Licensing": [
+          "license",
+          "customs station",
+          "customs house",
+          "formal application",
+          "licensing authority",
+          "fee",
+          "treasury challan",
+          "bank draft",
+          "pay order",
+          "applicant",
+          "list",
+          "licensee",
+          "application form"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "applications",
+          "licensees",
+          "secondary customs stations"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        43,
+        60,
+        68,
+        84,
+        104,
+        190,
+        331,
+        486,
+        491,
+        672,
+        771,
+        2181,
+        2836,
+        3503,
+        6926,
+        11919
+      ],
+      "source_file": "customs_sros_OCR/20150701_206-AIN_2015_43-Customs/20150701_206-AIN_2015_43-Customs_output.json",
+      "clause_date": "2015-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "লাইসেন্স নবায়ন",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9",
+      "resolved_text": "৯। লাইসেন্স নবায়ন।— (১) লাইসেন্সের মেয়াদ অতিক্রান্ত হইবার ৪৫ (পঁয়তাল্লিশ) কার্যদিবস পূর্বে লাইসেন্সিং কর্তৃপক্ষের নিকট কাস্টম হাউসের ক্ষেত্রে ১০ (দশ) হাজার টাকা এবং স্থল কাস্টমস স্টেশনের ক্ষেত্রে ৫ (পাঁচ) হাজার টাকা নবায়ন ফি পরিশোধপূর্বক কাস্টমস এজেন্টকে লাইসেন্স নবায়নের জন্য নিম্নবর্ণিত দলিলাদিসহ আবেদন করিতে হইবে, যথা :-\n(ক) মূল লাইসেন্সের কপি;\n(খ) হালনাগাদ ট্রেড লাইসেন্সের কপি;\n(গ) হালনাগাদ আয়কর সনদের কপি;\n(ঘ) হালনাগাদ অফিস ভাড়ার চুক্তিপত্র এবং উক্তরূপ ভাড়ার বিপরীতে পরিশোধিত মূসক চালানের কপি (প্রযোজ্য ক্ষেত্রে) ;\n(ঙ) নবায়ন ফি ও উহার উপর প্রযোজ্য মূসক পরিশোধের চালানের কপি; এবং\n(চ) স্ব-স্ব দপ্তর সংশ্লিষ্ট ক্লিয়ারিং এন্ড ফরোয়ার্ডিং (সিএন্ডএফ) এসোসিয়েশন এর সদস্যভুক্তির সনদপত্র।\n(২) কাস্টমস এজেন্ট উপ-বিধি (১) এ উল্লিখিত সময়ের মধ্যে আবেদন করিতে ব্যর্থ হইলে উপযুক্ত কারণ উল্লেখপূর্বক লাইসেন্সিং কর্তৃপক্ষের নিকট সময়বৃদ্ধির আবেদন করিতে পারিবে এবং লাইসেন্সিং কর্তৃপক্ষ উক্ত কারণ যাচাই-বাছাইপূর্বক সন্তুষ্ট হইয়া দুই দফায় প্রতিবার ১৫ (পনের) দিন করিয়া সর্বমোট ৩০ (ত্রিশ) দিন সময় বৃদ্ধি করিতে পারিবে।\n(৩) লাইসেন্সিং কর্তৃপক্ষ উপ-বিধি (১) এর অধীন প্রাপ্ত দলিলাদি এবং সংশ্লিষ্ট কাস্টমস এজেন্ট এর বিগত মেয়াদের কার্যক্রম যাচাই-বাছাইপূর্বক আবেদন প্রাপ্তির তারিখ হইতে ২০ (বিশ) কার্যদিবসের মধ্যে পরবর্তী ৫(পাঁচ) বৎসর মেয়াদে লাইসেন্সটি নবায়ন করিবে।\n(৪) লাইসেন্স নবায়নের ক্ষেত্রে রেফারেন্স লাইসেন্স হিসাবে অন্য কাস্টম হাউসের কার্যক্রম বিবেচনা করা যাইবে।\n(৫) লাইসেন্সিং কর্তৃপক্ষ নিম্নবর্ণিত কারণে লাইসেন্স নবায়ন করিবে না, যথা :-\n(ক) কাস্টমস এজেন্ট এর কার্যক্রম সন্তোষজনক না হইলে;\n(খ) লাইসেন্সী Customs Act, 1969 এর আওতায় মিথ্যা ঘোষণাসহ আইন বহির্ভূত চালান খালাসের সহিত সংশ্লিষ্ট হইয়া উচ্চ ঝুঁকির কাস্টমস এজেন্ট হিসাবে পরিগণিত হইলে;\n(গ) Customs Act, 1969, মূল্য সংযোজন কর আইন, ১৯৯১, আমদানি ও রপ্তানি নীতি এবং শুল্কায়ন প্রক্রিয়া সম্পর্কে কাস্টমস এজেন্ট এর বাস্তব অভিজ্ঞতা সন্তোষজনক না হইলে; বা\n(ঘ) কাস্টমস এজেন্ট এর বিরুদ্ধে শুল্কায়ন সংক্রান্ত কোন মামলা অথবা সরকারী পাওনা বকেয়া থাকিলে।\n(৬) লাইসেন্সিং কর্তৃপক্ষ উপ-বিধি (৫) এ উল্লিখিত কোন একটি কারণে লাইসেন্স নবায়ন না করিবার সিদ্ধান্ত গ্রহণ করিলে কাস্টমস এজেন্টকে আবেদন প্রাপ্তির ২০ (বিশ) কার্যদিবসের মধ্যে লিখিতভাবে অবহিত করিবে।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A Customs Agent must apply for license renewal at least a specified number of working days before the current license expires.",
+          "The application for renewal requires payment of a specific fee, submission of various documents such as trade licenses and tax certificates, and proof of association membership.",
+          "If a Customs Agent fails to apply within the mandatory timeframe, they may request an extension from the licensing authority by providing valid reasons, which can be granted for a limited total period.",
+          "Renewal of a license is contingent upon the Customs Agent's past performance, legal compliance, and absence of outstanding government dues or customs-related cases.",
+          "The licensing authority may refuse to renew a license if the agent is deemed high-risk due to involvement in unlawful shipments or false declarations, or if their knowledge of tax and customs regulations is found to be unsatisfactory."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is responsible for receiving renewal applications, verifying documents, and assessing the past performance of the Customs Agent.",
+          "The authority has the discretion to grant limited extensions for renewal applications if the agent fails to apply on time and provides a satisfactory explanation.",
+          "Upon approval, the licensing authority must renew the license for a period of five years within a set timeframe after receiving the application.",
+          "If the licensing authority decides not to renew a license based on non-compliance or unsatisfactory performance, it must formally notify the Customs Agent in writing within a specified number of working days."
+        ],
+        "Customs Act 1969": [
+          "The Customs Act 1969 serves as the legal framework for identifying high-risk agents, particularly those found to be involved in illegal clearances or the submission of false declarations."
+        ],
+        "Value Added Tax Act 1991": [
+          "The licensing authority evaluates the Customs Agent's practical experience and compliance with the Value Added Tax Act 1991 as part of the criteria for license renewal."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1026",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "license renewal",
+          "application",
+          "fee",
+          "trade licenses",
+          "tax certificates",
+          "proof of association membership",
+          "extension",
+          "licensing authority",
+          "government dues",
+          "customs-related cases",
+          "unlawful shipments",
+          "false declarations",
+          "tax and customs regulations"
+        ],
+        "Licensing Authority": [
+          "renewal applications",
+          "documents",
+          "past performance",
+          "Customs Agent",
+          "extensions",
+          "license",
+          "five years",
+          "non-compliance"
+        ],
+        "Customs Act 1969": [
+          "high-risk agents",
+          "illegal clearances",
+          "false declarations"
+        ],
+        "Value Added Tax Act 1991": [
+          "practical experience",
+          "compliance",
+          "license renewal"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        34,
+        43,
+        58,
+        59,
+        84,
+        92,
+        321,
+        771,
+        834,
+        906,
+        987,
+        1384,
+        1704,
+        1720,
+        1754,
+        2409,
+        2734,
+        3779,
+        3956,
+        4495,
+        4599,
+        8709,
+        8814,
+        10822,
+        12648,
+        13098
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

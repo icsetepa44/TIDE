@@ -1,0 +1,105 @@
+{
+  "thread_id": "cluster_00491_t1",
+  "cluster_id": 491,
+  "cluster_label": "licensees",
+  "title": "Licensing Eligibility and Operational Scope",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 5,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2011-06-09 amendment, licensees with 5 years of satisfactory operational experience are exempt from the educational requirements for obtaining a license.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "5 years",
+      "correct_fact": "10 years",
+      "answer": "The statement is inaccurate. According to the 2011-06-09 SRO/Clause, the exemption from educational requirements applies to licensees with 10 years of satisfactory operational experience, not 5 years.",
+      "clause_text_ids": [
+        "20110609_161-AIN_2011_2348-Customs_০৯ জুন, ২০১১_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2015-07-01 policy, licensees wishing to operate at an additional customs station must submit a formal application along with a fee of 10,000 Taka.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "10,000 Taka",
+      "answer": "The statement is accurate. The 2015-07-01 SRO/Clause established that licensees must pay a 10,000 Taka fee via treasury challan, bank draft, or pay order to apply for operational expansion to additional customs stations.",
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2015-07-01 amendment introduced a formal procedure for licensees to expand their operations to additional customs stations using application form 'B'.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "form 'B'",
+      "correct_fact": "form 'গ' (Ga)",
+      "answer": "The statement is inaccurate. According to the 2015-07-01 SRO/Clause, the licensing authority registers the licensee for additional customs stations based on form 'গ' (Ga), not form 'B'.",
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2011-06-09 amendment modified the Customs Licensing Rules to allow for the waiver of educational requirements for experienced licensees.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "Customs Licensing Rules",
+      "answer": "The statement is accurate. The 2011-06-09 SRO/Clause specifically modified the Customs Licensing Rules to include an exemption for licensees with 10 years of satisfactory experience.",
+      "clause_text_ids": [
+        "20110609_161-AIN_2011_2348-Customs_০৯ জুন, ২০১১_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "When a licensee is approved to operate at a secondary customs station under the 2015-07-01 policy, the registration is valid for a new 5-year term.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "a new 5-year term",
+      "correct_fact": "the remaining duration of the original license",
+      "answer": "The statement is inaccurate. Per the 2015-07-01 SRO/Clause, upon approval for an additional customs station, the licensee is registered only for the remaining duration of the original license.",
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs agent who initially struggled to meet educational requirements for licensure finally qualified in 2012 due to their 10 years of experience. By 2016, this agent wants to expand their operations to a second customs station.",
+      "question": "What specific requirements must the agent satisfy in 2016 to expand their operations, and did their 2012 qualification path impact the procedural requirements for this expansion?",
+      "answer": "In 2016, the agent must submit a formal application and pay a 10,000 Taka fee via treasury challan, bank draft, or pay order as established by the 2015 clause. The 2011 educational exemption does not affect these procedural requirements for multi-station expansion.",
+      "clauses_involved": [
+        "2011-06-09",
+        "2015-07-01"
+      ],
+      "clause_text_ids": [
+        "20110609_161-AIN_2011_2348-Customs_০৯ জুন, ২০১১_clause_2",
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "four years later",
+      "question": "Following the 2011 amendment that relaxed educational requirements for experienced licensees, what change occurred four years later regarding the operational scope of licensees?",
+      "answer": "In 2015-07-01, a formal procedure was established allowing licensees to operate at additional customs stations by submitting a formal application and paying a fee.",
+      "clause_text_ids": [
+        "20110609_161-AIN_2011_2348-Customs_০৯ জুন, ২০১১_clause_2",
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    }
+  ]
+}

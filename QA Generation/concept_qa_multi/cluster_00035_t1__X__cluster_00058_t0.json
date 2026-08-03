@@ -1,0 +1,37 @@
+{
+  "group_id": "cluster_00035_t1__X__cluster_00058_t0",
+  "entities": [
+    "Business Identification Number",
+    "application"
+  ],
+  "cluster_ids": [
+    35,
+    58
+  ],
+  "thread_ids": [
+    "cluster_00035_t1",
+    "cluster_00058_t0"
+  ],
+  "num_shared_clauses": 9,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Business Identification Number (BIN) relate to the formal inspection reporting process for manufacturing entities, and what is the role of the 'application' process within the Authorized Economic Operator (AEO) framework under the 2024 regulations?",
+      "answer": "The Business Identification Number (BIN) is a required field in factory inspection reports for manufacturing facilities, as indicated in [8]. Meanwhile, the 'application' process for AEO status is governed by the 2024 regulations, where applications submitted under Rule 6(1) undergo verification and evaluation by the AEO Center to grant recognition or temporary certificates, as referenced in [0], [1], [2], [3], [5], and [6].",
+      "entities_involved": [
+        "Business Identification Number",
+        "application"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_28",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_36",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_28",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_29",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_36",
+        "20250217_2024_2024-06-06_clause_63",
+        "metadata_3"
+      ]
+    }
+  ]
+}

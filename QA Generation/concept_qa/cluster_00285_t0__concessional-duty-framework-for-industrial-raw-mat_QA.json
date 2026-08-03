@@ -1,0 +1,155 @@
+{
+  "thread_id": "cluster_00285_t0",
+  "cluster_id": 285,
+  "cluster_label": "industrial raw materials",
+  "title": "Concessional Duty Framework for Industrial Raw Materials",
+  "source_num_member_objects": 10,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the regulatory framework established by SRO 146-AIN/2015, the government officially transitioned the management of industrial raw material duty concessions to the Customs Act, 2023, requiring all VAT-compliant manufacturers to align their imports with the new 2023 legislative standards.",
+      "question": "Why is the statement regarding the transition to the Customs Act, 2023 in the provided context chronologically inaccurate?",
+      "conflict": "The context incorrectly attributes the transition to the Customs Act, 2023 to the 2015 SRO, whereas the Customs Act, 2023 was only implemented in 2024.",
+      "answer": "The statement is inaccurate because the transition to the Customs Act, 2023 framework for managing industrial raw material duty concessions was formally established by SRO 164-AIN/2024, dated 2024-06-06, not by SRO 146-AIN/2015.",
+      "clause_text_ids": [
+        "20150604_146-AIN_2015_26-Customs_৪ জুন, ২০১৫_clause_1",
+        "20230601_115-AIN_2023_159_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2016, the National Board of Revenue issued SRO 148-AIN/2016, which explicitly stated that all duty concessions for industrial raw materials were governed by the Value Added Tax and Supplementary Duty Act, 2012.",
+      "question": "What is the factual error regarding the legal basis for duty concessions in the 2016 SRO?",
+      "conflict": "The context claims the 2016 SRO was governed by the VAT and Supplementary Duty Act, 2012, but the 2016 instrument actually cited the older 1991 VAT law.",
+      "answer": "The 2016 SRO (148-AIN/2016) was issued under the authority of the Value Added Tax Act, 1991, not the Value Added Tax and Supplementary Duty Act, 2012. Formal alignment with the 2012 Act occurred later, specifically via SRO 122-AIN/2020, dated 2020-06-11.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_219-AIN_2016_46-Customs_০১ জুলাই, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20200611_122-AIN_2020_73_Customs_৩ জুন, ২০২০_clause_1",
+        "20201012_S.R.O_2020-10-05_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial manufacturer has been importing raw materials under the duty concession framework since 2018. They have consistently operated under the Customs Act 1969. In mid-2024, they are preparing their annual import documentation and notice that the legal basis for their duty exemption notifications has shifted from the previous Customs Act 1969 to the Customs Act 2023.",
+      "question": "How has the primary legal authority for granting industrial raw material duty concessions changed for this manufacturer between 2020 and 2024?",
+      "answer": "The legal authority shifted from Section 19(1) of the Customs Act 1969 (as seen in SRO 122-AIN/2020) to Section 25(1) of the Customs Act 2023 (as seen in SRO 164-AIN/2024).",
+      "clauses_involved": [
+        "2020-06-11 | SRO 122-AIN/2020",
+        "2024-06-06 | SRO 164-AIN/2024"
+      ],
+      "clause_text_ids": [
+        "20200611_122-AIN_2020_73_Customs_৩ জুন, ২০২০_clause_1",
+        "20201012_S.R.O_2020-10-05_clause_1",
+        "20230601_115-AIN_2023_159_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A tiles manufacturing company has been utilizing duty concessions for 'China clays' under Table-2 of the customs schedule. While they were eligible for these concessions in previous years, they observed that in 2022, the specific description for the H.S. Code 2507.00.11 was updated to include a broader range of products, specifically adding 'Ceramic or Tableware production' to the existing 'Tiles or Sanitary' manufacturing criteria.",
+      "question": "How did the eligibility criteria for the industrial raw material 'China clays' (H.S. Code 2507.00.11) evolve in the 2022 notification compared to the prior framework?",
+      "answer": "The 2022 notification expanded the eligibility criteria for 'China clays' from just 'Tiles or Sanitary' manufacturing to include 'Ceramic or Tableware production' for VAT-compliant industrial IRC holders.",
+      "clauses_involved": [
+        "2016-06-02 | SRO 148-AIN/2016",
+        "2022-06-28 | Notification regarding Table-2"
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_219-AIN_2016_46-Customs_০১ জুলাই, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20220628_205-_2022_113_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2015-06-04",
+      "relative_offset": "one year later",
+      "question": "One year after the introduction of the specific duty reduction mechanism in 2015, how did the duty concession framework for industrial raw materials evolve in terms of its structure?",
+      "answer": "In 2016, specifically via SRO 148-AIN/2016, the duty concession framework expanded from general exemptions into a structured system consisting of multiple tables (1-6) categorized by different industrial sectors.",
+      "clause_text_ids": [
+        "20150604_146-AIN_2015_26-Customs_৪ জুন, ২০১৫_clause_1",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_219-AIN_2016_46-Customs_০১ জুলাই, ২০১৬ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "four years later",
+      "question": "Four years after the 2016 expansion of the duty concession framework, what significant change occurred regarding the legal basis for aligning these concessions with domestic tax laws?",
+      "answer": "In 2020, SRO 122-AIN/2020 was issued, which formally aligned the industrial raw material duty concessions with the Value Added Tax and Supplementary Duty Act, 2012.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_219-AIN_2016_46-Customs_০১ জুলাই, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20200611_122-AIN_2020_73_Customs_৩ জুন, ২০২০_clause_1",
+        "20201012_S.R.O_2020-10-05_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2020-06-11",
+      "relative_offset": "four years later",
+      "question": "Four years after the alignment with the VAT and Supplementary Duty Act in 2020, what major transition occurred in the legal framework governing customs duty concessions for industrial raw materials?",
+      "answer": "In 2024, the framework transitioned to the Customs Act, 2023, as evidenced by SRO 164-AIN/2024, which utilizes Section 25(1) of the new Act to manage duty exemptions.",
+      "clause_text_ids": [
+        "20200611_122-AIN_2020_73_Customs_৩ জুন, ২০২০_clause_1",
+        "20201012_S.R.O_2020-10-05_clause_1",
+        "20230601_115-AIN_2023_159_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The regulatory framework for industrial raw material duty concessions is formally aligned with the Value Added Tax and Supplementary Duty Act.",
+        "The duty concession framework is expanded into a multi-table classification system covering six distinct industrial categories.",
+        "The legal basis for managing industrial raw material duty concessions transitions to the Customs Act.",
+        "A specific duty reduction mechanism for industrial inputs is introduced based on H.S. codes."
+      ],
+      "answer_ordered": [
+        {
+          "event": "A specific duty reduction mechanism for industrial inputs is introduced based on H.S. codes.",
+          "date": "2015-06-04"
+        },
+        {
+          "event": "The duty concession framework is expanded into a multi-table classification system covering six distinct industrial categories.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The regulatory framework for industrial raw material duty concessions is formally aligned with the Value Added Tax and Supplementary Duty Act.",
+          "date": "2020-06-11"
+        },
+        {
+          "event": "The legal basis for managing industrial raw material duty concessions transitions to the Customs Act.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20150604_146-AIN_2015_26-Customs_৪ জুন, ২০১৫_clause_1",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_1",
+        "20200611_122-AIN_2020_73_Customs_৩ জুন, ২০২০_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20150604_146-AIN_2015_26-Customs/20150604_146-AIN_2015_26-Customs_output.json",
+        "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+        "customs_sros_OCR/20200611_122-AIN_2020_73_Customs/20200611_122-AIN_2020_73_Customs_output.json",
+        "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00285_t0__concessional-duty-framework-for-industrial-raw-mat.json"
+    }
+  ]
+}

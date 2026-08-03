@@ -1,0 +1,43 @@
+{
+  "group_id": "cluster_00008_t1__X__cluster_00079_t1",
+  "entities": [
+    "imported goods",
+    "importers"
+  ],
+  "cluster_ids": [
+    8,
+    79
+  ],
+  "thread_ids": [
+    "cluster_00008_t1",
+    "cluster_00079_t1"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What monitoring responsibilities do authorities have regarding imported goods and the importers who bring them in for use in poultry or dairy farms?",
+      "answer": "The Department of Livestock and the relevant VAT Commissioner are responsible for monitoring whether the imported goods were properly used in the poultry or dairy farms and if the animal feed produced from these inputs was supplied to the respective farms, as per the conditions set for the importers [2].",
+      "entities_involved": [
+        "imported goods",
+        "importers"
+      ],
+      "clause_text_ids": [
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_7"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What are the consequences for an importer if an institutional monitoring report reveals that the imported goods were used in violation of the prescribed conditions?",
+      "answer": "If the monitoring report indicates that the importer violated the conditions of the notification, resulting in a loss of revenue, legal action will be taken against the importer under the provisions of the Customs Act and the Value Added Tax Act [3].",
+      "entities_involved": [
+        "imported goods",
+        "importers"
+      ],
+      "clause_text_ids": [
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_9"
+      ]
+    }
+  ]
+}

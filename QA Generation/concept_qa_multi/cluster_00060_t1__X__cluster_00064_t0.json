@@ -1,0 +1,31 @@
+{
+  "group_id": "cluster_00060_t1__X__cluster_00064_t0",
+  "entities": [
+    "Customs House",
+    "Commissioner"
+  ],
+  "cluster_ids": [
+    60,
+    64
+  ],
+  "thread_ids": [
+    "cluster_00060_t1",
+    "cluster_00064_t0"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the Customs House and the Commissioner cooperate in the annual estimation process for imported materials as per the regulations?",
+      "answer": "According to clause [3], manufacturers must estimate the annual quantity of materials based on previous year's production, production capacity, and annual production plans, and submit this calculation statement to both the Commissioner of the relevant Customs House (or Customs Station) and the Commissioner of the relevant Customs, Excise and VAT Commissionerate by January of each year.",
+      "entities_involved": [
+        "Customs House",
+        "Commissioner"
+      ],
+      "clause_text_ids": [
+        "20240606_169-AIN_2024_21_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    }
+  ]
+}

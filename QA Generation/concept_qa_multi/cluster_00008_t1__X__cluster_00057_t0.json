@@ -1,0 +1,32 @@
+{
+  "group_id": "cluster_00008_t1__X__cluster_00057_t0",
+  "entities": [
+    "imported goods",
+    "materials"
+  ],
+  "cluster_ids": [
+    8,
+    57
+  ],
+  "thread_ids": [
+    "cluster_00008_t1",
+    "cluster_00057_t0"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the regulatory framework ensure that imported goods and materials used for cellular phone manufacturing comply with the granted duty concessions?",
+      "answer": "According to [3] and [4], the concessional duty benefits are applicable only to manufacturers or assemblers who comply with all conditions of the notification. To ensure compliance, the Commissioner of the relevant VAT commissionerate must conduct an on-site inspection every six months through their subordinate officers to verify that the imported goods, parts, or materials are being used to manufacture computers according to the approved input-output coefficient.",
+      "entities_involved": [
+        "imported goods",
+        "materials"
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_8",
+        "20170601_132-AIN__2017-06-01_clause_2"
+      ]
+    }
+  ]
+}

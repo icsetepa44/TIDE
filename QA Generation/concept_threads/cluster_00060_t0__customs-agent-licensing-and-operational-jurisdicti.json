@@ -1,0 +1,966 @@
+{
+  "cluster_id": 60,
+  "cluster_label": "Customs House",
+  "thread_index": 0,
+  "thread_id": "cluster_00060_t0",
+  "title": "Customs Agent Licensing and Operational Jurisdiction",
+  "summary": "The regulatory framework for Customs Agent licensing evolved from basic authorization to a structured system involving NBR approval, specific jurisdictional licensing, and formal renewal procedures. Over time, the role of the Customs House shifted from a simple administrative office to a central hub for licensing, oversight, and the management of agent conduct.",
+  "evolution": {
+    "structure": "Moved from general authorization to a rigid, jurisdiction-specific licensing model.",
+    "oversight": "Increased NBR involvement in vetting and approving new licenses."
+  },
+  "timeline": [
+    {
+      "date": "2015-07-01",
+      "instrument": "Customs Agent Licensing Rules",
+      "change": "Introduced formal procedures for licensing in multiple Customs Houses and established a renewal process for listed licenses.",
+      "clause_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_5"
+      ]
+    },
+    {
+      "date": "2016-06-05",
+      "instrument": "Customs Agent Licensing Rules",
+      "change": "Formalized the composition of the Licensing Authority within the Customs House and mandated NBR prior approval for new licenses.",
+      "clause_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_4"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Customs Agent Licensing Rules",
+      "change": "Clarified that licenses are strictly tied to the jurisdiction of the specific Customs House or station.",
+      "clause_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    }
+  ],
+  "num_member_objects": 11,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+      "resolved_text": "(৩) বিধি ৮ এর-\n(ক) উপ-বিধি (২) এর পরিবর্তে নিম্নরূপ উপ-বিধি (২) প্রতিস্থাপিত হইবে, যথা:\n\n“(২) উপ-বিধি (১) এ যাহা কিছুই থাকুক না কেন, একজন লাইসেন্সি লাইসেন্সে উল্লিখিত কাস্টম হাউস বা কাস্টমস স্টেশন ব্যতীত অন্য কোন কাস্টমস স্টেশনে কার্যক্রম পরিচালনা করিতে চাহিলে, তাহাকে ১০ (দশ) হাজার টাকার ট্রেজারি চালান অথবা ব্যাংক ড্রাফট অথবা পে-অর্ডারসহ সংশ্লিষ্ট কাস্টমস স্টেশনের লাইসেন্সিং কর্তৃপক্ষের নিকট লিখিতভাবে আবেদন করিতে হইবে এবং লাইসেন্সিং কর্তৃপক্ষ আবেদন যাচাই করিয়া তালিকাভুক্তি যোগ্য মনে করিলে ফরম ‘গ’ অনুযায়ী তাহাকে মূল লাইসেন্সের মেয়াদকালে উক্ত কাস্টম হাউস বা কাস্টমস স্টেশনের জন্য একজন লাইসেন্সি হিসাবে তালিকাভুক্ত করিবেন;”;\n\n(খ) উপ-বিধি (৪) বিলুপ্ত হইবে;\n(গ) উপ-বিধি (৫) এ উল্লিখিত “২ (দুই)” সংখ্যা, বন্ধনী ও শব্দের পরিবর্তে “৪ (চার)” সংখ্যা, বন্ধনী ও শব্দ প্রতিস্থাপিত হইবে;",
+      "entity_concepts": {
+        "Customs House Licensing": [
+          "Licensees wishing to operate at a customs station or customs house other than the one specified in their original license must submit a formal application to the respective licensing authority.",
+          "The application requires the submission of a specified fee paid via treasury challan, bank draft, or pay order, and the licensing authority will evaluate the applicant's eligibility for inclusion in a list for that location.",
+          "Upon approval, the licensee will be registered for the additional customs house or station for the remaining duration of the original license, subject to the prescribed application form."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is responsible for verifying applications from licensees who wish to operate at secondary customs stations and for registering them accordingly."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1551",
+      "entity_sub_entities": {
+        "Customs House Licensing": [
+          "license",
+          "customs station",
+          "customs house",
+          "formal application",
+          "licensing authority",
+          "fee",
+          "treasury challan",
+          "bank draft",
+          "pay order",
+          "applicant",
+          "list",
+          "licensee",
+          "application form"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "applications",
+          "licensees",
+          "secondary customs stations"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        43,
+        60,
+        68,
+        84,
+        104,
+        190,
+        331,
+        486,
+        491,
+        672,
+        771,
+        2181,
+        2836,
+        3503,
+        6926,
+        11919
+      ],
+      "source_file": "customs_sros_OCR/20150701_206-AIN_2015_43-Customs/20150701_206-AIN_2015_43-Customs_output.json",
+      "clause_date": "2015-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_5",
+      "resolved_text": "(৫) বিধি ৯ এর পর নিম্নরূপ নতুন বিধি ৯ক সংযোজিত হইবে, যথা:\n\n“৯ক। তালিকাভুক্ত লাইসেন্স নবায়ন।- (১) মূল লাইসেন্সের মালিককে তালিকাভুক্ত লাইসেন্স এর নবায়ন এর জন্য মূল লাইসেন্স এর নবায়নের কপি, ৫ (পাঁচ) হাজার টাকা নবায়ন ফি এবং উহার উপর প্রদেয় মূল্য সংযোজন কর এর সমপরিমাণ অর্থের ট্রেজারি চালান অথবা ব্যাংক ড্রাফট অথবা পে-অর্ডারসহ সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশনের লাইসেন্সিং কর্তৃপক্ষের নিকট লিখিতভাবে আবেদন করিতে হইবে।\n\n(২) উপ-বিধি (১) এর অধীন প্রাপ্ত আবেদন বিবেচনা করিয়া কাস্টম হাউস বা কাস্টমস স্টেশনের লাইসেন্সিং কর্তৃপক্ষ মূল লাইসেন্সের মেয়াদকালের জন্য তালিকাভুক্ত লাইসেন্স নবায়ন করিতে পারিবেন।”; এবং",
+      "entity_concepts": {
+        "Customs Licensing Authority": [
+          "The licensing authority at a Customs House or Customs Station is empowered to process and grant renewal applications for listed licenses.",
+          "The authority exercises discretion to renew a listed license for a duration equivalent to the validity period of the primary license."
+        ],
+        "Listed License": [
+          "The renewal process for a listed license requires the license holder to submit a formal application along with the renewal copy of the primary license.",
+          "Applicants must pay a specified renewal fee and the applicable Value Added Tax through treasury challan, bank draft, or pay order to finalize the renewal process."
+        ],
+        "Value Added Tax": [
+          "Value Added Tax must be paid on the prescribed renewal fee as part of the financial requirements for renewing a listed license."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1553",
+      "entity_sub_entities": {
+        "Customs Licensing Authority": [
+          "licensing authority",
+          "Customs House",
+          "Customs Station",
+          "listed licenses"
+        ],
+        "Listed License": [
+          "listed license",
+          "renewal application",
+          "renewal copy",
+          "primary license",
+          "renewal fee",
+          "Value Added Tax",
+          "treasury challan",
+          "bank draft",
+          "pay order"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "renewal fee"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        25,
+        43,
+        60,
+        672,
+        1267,
+        1984,
+        2181,
+        2226,
+        2947,
+        3503,
+        4296,
+        9532,
+        11433
+      ],
+      "source_file": "customs_sros_OCR/20150701_206-AIN_2015_43-Customs/20150701_206-AIN_2015_43-Customs_output.json",
+      "clause_date": "2015-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়-\n\n(ক) “আইন” অর্থ, Customs Act, 1969 (Act No. IV of 1969);\n(খ) “কাস্টমস এজেন্ট” অর্থ আইনের section 207 এর উদ্দেশ্য পূরণকল্পে কাস্টমস স্টেশনে নিজস্ব পণ্য পরিবহনের জন্য হউক বা না হউক, কোন যানবাহনের প্রবেশ বা প্রস্থান অথবা কোন পণ্য বা ব্যাগেজের আমদানি বা রপ্তানি সংশ্লিষ্ট কাজ সম্পাদনকারী ব্যক্তি বা প্রতিষ্ঠান;\n(গ) “কাস্টমস সরকার” অর্থ বিধি ১৭ এর অধীন নিযুক্ত কাস্টমস সরকার;\n(ঘ) “কাস্টমস স্টেশন” অর্থ আইনের section 2(k) তে সংজ্ঞায়িত কাস্টমস স্টেশন;\n(ঙ) “কাস্টম হাউস” অর্থ আইনের section 9(e) অনুসারে ঘোষিত কাস্টম হাউস;\n(চ) “কোম্পানি” অর্থ কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এর ধারা ২(ঘ) তে সংজ্ঞায়িত কোম্পানি;\n(ছ) “গ্রাহক” অর্থ এমন ব্যক্তি বা প্রতিষ্ঠান যিনি বিদেশ হইতে কোন পণ্য আমদানি বা বিদেশে কোন পণ্য রপ্তানি করেন;\n(জ) “ফরম” অর্থ এই বিধিমালার সহিত সংযোজিত ফরম;\n(ঝ) “ফার্ম” অর্থ Partnership Act, 1932 (Act No. IX of 1932) এর section 4 এ সংজ্ঞায়িত ফার্ম;\n(ঞ) “বোর্ড” অর্থ আইনের section 2 (e) এ সংজ্ঞায়িত জাতীয় রাজস্ব বোর্ড;\n(ট) “রেফারেন্স লাইসেন্স” অর্থ বিধি ১১ এর অধীন প্রদত্ত রেফারেন্স লাইসেন্স;\n(ঠ) “লাইসেন্স” অর্থ কাস্টমস এজেন্ট হিসাবে কার্য সম্পাদনের জন্য বিধি ৫ এর অধীন প্রদত্ত লাইসেন্স; এবং\n(ড) “লাইসেন্সিং কর্তৃপক্ষ” অর্থ বিধি ৩ এর অধীন গঠিত লাইসেন্সিং কর্তৃপক্ষ।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This law is defined as the Customs Act, 1969 (Act No. IV of 1969) for the purposes of these rules."
+        ],
+        "Customs Agent": [
+          "A Customs Agent is defined as a person or institution performing tasks related to the import or export of goods or baggage, or the entry or exit of vehicles at a customs station, as per the objectives of section 207 of the Customs Act."
+        ],
+        "Customs Government": [
+          "This term refers to the customs authority or official appointed under rule 17 of these regulations."
+        ],
+        "Customs Station": [
+          "This refers to the definition of a customs station as specified in section 2(k) of the Customs Act."
+        ],
+        "Customs House": [
+          "This refers to a custom house declared according to section 9(e) of the Customs Act."
+        ],
+        "Company": [
+          "This refers to a company as defined in section 2(d) of the Companies Act, 1994."
+        ],
+        "Customer": [
+          "This refers to a person or institution that imports goods from abroad or exports goods to a foreign country."
+        ],
+        "Form": [
+          "This refers to the forms annexed to these rules for official use."
+        ],
+        "Firm": [
+          "This refers to a firm as defined in section 4 of the Partnership Act, 1932."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the National Board of Revenue, as specified in section 2(e) of the Customs Act."
+        ],
+        "Reference License": [
+          "This refers to a license granted under the provisions of rule 11 of these regulations."
+        ],
+        "Licensee": [
+          "This refers to a license granted under rule 5 which authorizes an entity to function as a Customs Agent."
+        ],
+        "Licensing Authority": [
+          "This refers to the authority constituted under rule 3 for the purposes of managing and issuing customs agent licenses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1658",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Customs Act, 1969",
+          "Act No. IV of 1969"
+        ],
+        "Customs Agent": [
+          "person",
+          "institution",
+          "goods",
+          "baggage",
+          "vehicles",
+          "customs station",
+          "section 207 of the Customs Act"
+        ],
+        "Customs Government": [
+          "customs authority",
+          "official",
+          "rule 17"
+        ],
+        "Customs Station": [
+          "customs station",
+          "section 2(k) of the Customs Act"
+        ],
+        "Customs House": [
+          "custom house",
+          "section 9(e) of the Customs Act"
+        ],
+        "Company": [
+          "company",
+          "section 2(d) of the Companies Act, 1994"
+        ],
+        "Customer": [
+          "person",
+          "institution",
+          "goods"
+        ],
+        "Form": [
+          "forms"
+        ],
+        "Firm": [
+          "firm",
+          "section 4 of the Partnership Act, 1932"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "National Board of Revenue",
+          "section 2(e) of the Customs Act"
+        ],
+        "Reference License": [
+          "license",
+          "rule 11"
+        ],
+        "Licensee": [
+          "license",
+          "rule 5",
+          "Customs Agent"
+        ],
+        "Licensing Authority": [
+          "authority",
+          "rule 3",
+          "customs agent licenses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        23,
+        25,
+        43,
+        47,
+        60,
+        70,
+        84,
+        92,
+        93,
+        190,
+        223,
+        246,
+        311,
+        339,
+        453,
+        461,
+        643,
+        691,
+        719,
+        1355,
+        1649,
+        2237,
+        2429,
+        2592,
+        3008,
+        4722,
+        6921,
+        11614,
+        11961,
+        11962,
+        11963,
+        11971,
+        11986,
+        12005
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "লাইসেন্স প্রদানে বোর্ডের পূর্বানুমতি",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_4",
+      "resolved_text": "৪। লাইসেন্স প্রদানে বোর্ডের পূর্বানুমতি।— (১) লাইসেন্সিং কর্তৃপক্ষ লাইসেন্স প্রদান করিবার পূর্বে সংশ্লিষ্ট কাস্টমস স্টেশনের বিদ্যমান লাইসেন্স সংখ্যা, বিগত ৫ (পাঁচ) বৎসরের আমদানি-রপ্তানির পরিসংখ্যান এবং নূতন লাইসেন্স প্রদানের যৌক্তিকতা উল্লেখপূর্বক অনুমতি গ্রহণের জন্য বোর্ডে লিখিতভাবে আবেদন করিবে।\n\n(২) বোর্ড উপ-বিধি (১) এর অধীন আবেদন প্রাপ্তির পর উহা যাচাই-বাছাইপূর্বক লাইসেন্স প্রদানের যৌক্তিকতা বিবেচনা করিয়া সংশ্লিষ্ট কাস্টম হাউসকে লাইসেন্স প্রদানের অনুমতি প্রদান করিবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for granting prior approval for the issuance of new licenses.",
+          "Upon receiving a written application, the Board evaluates the necessity of new licenses based on existing license counts and recent trade statistics before granting permission to the customs house."
+        ],
+        "Licensing Authority": [
+          "The Licensing Authority must submit a formal written application to the National Board of Revenue before issuing any new licenses.",
+          "This application must include justification for the new license, the current number of active licenses at the customs station, and trade statistics from the previous five years."
+        ],
+        "Customs House": [
+          "The Customs House receives the authority to grant new licenses only after the National Board of Revenue has reviewed the application and provided formal permission."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1660",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "authority",
+          "new licenses",
+          "written application",
+          "existing license counts",
+          "trade statistics",
+          "permission",
+          "customs house"
+        ],
+        "Licensing Authority": [
+          "formal written application",
+          "new licenses",
+          "justification",
+          "active licenses",
+          "customs station",
+          "trade statistics"
+        ],
+        "Customs House": [
+          "new licenses",
+          "application",
+          "formal permission"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        25,
+        43,
+        58,
+        60,
+        311,
+        436,
+        1222,
+        1246,
+        1719,
+        2745,
+        2746,
+        5054,
+        5293,
+        7869
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালাতে-\n(ক) “আইন” অর্থ, Customs Act, 1969 (Act No. IV of 1969);\n(খ) “কাস্টমস এজেন্ট” অর্থ আইনের section 207 এর উদ্দেশ্য পূরণকল্পে কাস্টমস স্টেশনে নিজস্ব পণ্য পরিবহনের জন্য হউক বা না হউক, কোন যানবাহনের প্রবেশ বা প্রস্থান অথবা কোন পণ্য বা ব্যাগেজের আমদানি বা রপ্তানি সংশ্লিষ্ট কাজ সম্পাদনকারী ব্যক্তি বা প্রতিষ্ঠান;\n(গ) “কাস্টমস সরকার” অর্থ বিধি ১৭ এর অধীন নিযুক্ত কাস্টমস সরকার;\n(ঘ) “কাস্টমস স্টেশন” অর্থ আইনের section 2(k) তে সংজ্ঞায়িত কাস্টমস স্টেশন;\n(ঙ) “কাস্টম হাউস” অর্থ আইনের section 9(e) অনুসারে ঘোষিত কাস্টম হাউস;\n(চ) “কোম্পানি” অর্থ কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এর ধারা ২(ঘ) তে সংজ্ঞায়িত কোম্পানি;\n(ছ) “গ্রাহক” অর্থ এমন ব্যক্তি বা প্রতিষ্ঠান যিনি বিদেশ হইতে কোন পণ্য আমদানি বা বিদেশে কোন পণ্য রপ্তানি করেন;\n(জ) “ফরম” অর্থ এই বিধিমালার সহিত সংযোজিত ফরম;\n(ঝ) “ফার্ম” অর্থ Partnership Act, 1932 (Act No. IX of 1932) এর section 4 এ সংজ্ঞায়িত ফার্ম;\n(ঞ) “বোর্ড” অর্থ আইনের section 2 (e) এ সংজ্ঞায়িত জাতীয় রাজস্ব বোর্ড;\n(ট) “রেফারেন্স লাইসেন্স” অর্থ বিধি ১১ এর অধীন প্রদত্ত রেফারেন্স লাইসেন্স;\n(ঠ) “লাইসেন্স” অর্থ কাস্টমস এজেন্ট হিসাবে কার্য সম্পাদনের জন্য বিধি ৫ এর অধীন প্রদত্ত লাইসেন্স; এবং\n(ড) “লাইসেন্সিং কর্তৃপক্ষ” অর্থ বিধি ৩ এর অধীন গঠিত লাইসেন্সিং কর্তৃপক্ষ।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This law is formally referred to as the Act within these rules, establishing the legal framework for customs administration in Bangladesh."
+        ],
+        "Customs Agent": [
+          "A customs agent is defined as any person or organization that performs tasks related to the entry or exit of vehicles, or the import or export of goods and baggage at a customs station, as intended under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Broker": [
+          "Refers to the formal role defined under these rules, which governs those authorized to handle customs-related documentation and procedures on behalf of others."
+        ],
+        "Customs Station": [
+          "A customs station is defined in accordance with the specific definition provided under the Customs Act 1969."
+        ],
+        "Customs House": [
+          "A custom house is defined as an facility declared and authorized under the relevant section of the Customs Act 1969."
+        ],
+        "Company": [
+          "Refers to a business entity as defined under the specific section of the Companies Act 1994."
+        ],
+        "Importer and Exporter": [
+          "Defined as a person or institution involved in the importation of goods from abroad or the exportation of goods to other countries."
+        ],
+        "Form": [
+          "Refers to the official documents appended to these rules that must be utilized for procedural compliance."
+        ],
+        "Partnership Act 1932": [
+          "This Act provides the legal definition for a firm for the purposes of these licensing rules."
+        ],
+        "National Board of Revenue": [
+          "Identified as the Board within these rules, as defined under the Customs Act 1969."
+        ],
+        "Reference License": [
+          "A license issued under the specific rule of this framework to provide authorization for designated customs-related activities."
+        ],
+        "Licensee": [
+          "Authorization granted under these rules to an entity enabling them to operate as a customs agent."
+        ],
+        "Licensing Authority": [
+          "The body constituted under these rules responsible for the issuance and oversight of customs agent licenses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1019",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Act"
+        ],
+        "Customs Agent": [
+          "person",
+          "organization",
+          "vehicles",
+          "goods",
+          "baggage",
+          "customs station"
+        ],
+        "Customs Broker": [
+          "customs-related documentation",
+          "procedures"
+        ],
+        "Customs Station": [
+          "customs station"
+        ],
+        "Customs House": [
+          "custom house"
+        ],
+        "Company": [
+          "business entity",
+          "Companies Act 1994"
+        ],
+        "Importer and Exporter": [
+          "person",
+          "institution",
+          "goods"
+        ],
+        "Form": [
+          "official documents"
+        ],
+        "Partnership Act 1932": [
+          "firm"
+        ],
+        "National Board of Revenue": [
+          "Board"
+        ],
+        "Reference License": [
+          "license",
+          "customs-related activities"
+        ],
+        "Licensee": [
+          "authorization",
+          "customs agent"
+        ],
+        "Licensing Authority": [
+          "customs agent licenses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        25,
+        43,
+        47,
+        60,
+        70,
+        84,
+        92,
+        93,
+        144,
+        150,
+        190,
+        223,
+        246,
+        386,
+        453,
+        461,
+        514,
+        691,
+        716,
+        719,
+        1430,
+        1601,
+        1649,
+        1868,
+        1991,
+        2092,
+        2567,
+        3778
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "লাইসেন্সিং কর্তৃপক্ষ",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+      "resolved_text": "৩। লাইসেন্সিং কর্তৃপক্ষ।— (১) লাইসেন্সিং কর্তৃপক্ষ কাস্টমস এজেন্ট লাইসেন্স প্রদান করিবে।\n(২) উপ-বিধি (১) এর উদ্দেশ্যপূরণকল্পে নিম্নবর্ণিত কর্মকর্তাগণের সমন্বয়ে লাইসেন্সিং কর্তৃপক্ষ গঠিত হইবে, যথা:-\n(ক) কাস্টম হাউসে কর্মরত একজন অতিরিক্ত কমিশনার এবং একজন ডেপুটি কমিশনার; অথবা\n(খ) কাস্টম হাউসে অতিরিক্ত কমিশনার না থাকিলে একজন যুগ্ম কমিশনার এবং একজন সহকারী কমিশনার।\n(৩) উপ-বিধি (২) এর দফা (ক) এর ক্ষেত্রে অতিরিক্ত কমিশনার সভাপতি ও ডেপুটি কমিশনার সদস্য-সচিব হইবেন এবং দফা (খ) এর ক্ষেত্রে যুগ্ম-কমিশনার সভাপতি এবং সহকারী কমিশনার সদস্য-সচিব হইবেন।",
+      "entity_concepts": {
+        "Licensing Authority": [
+          "The Licensing Authority is responsible for the issuance of Customs Agent licenses.",
+          "The composition of the Licensing Authority is structured based on the available customs officers at the customs house, consisting of a combination of either an Additional Commissioner and a Deputy Commissioner or a Joint Commissioner and an Assistant Commissioner.",
+          "The Licensing Authority functions with the senior officer serving as the chairperson and the junior officer serving as the member-secretary."
+        ],
+        "Customs Agent License": [
+          "A license required for the operation of customs agents is issued by the designated Licensing Authority."
+        ],
+        "Customs House": [
+          "The Customs House serves as the administrative location where the Licensing Authority is constituted and operates from."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1020",
+      "entity_sub_entities": {
+        "Licensing Authority": [
+          "Customs Agent licenses",
+          "customs officers",
+          "Additional Commissioner",
+          "Deputy Commissioner",
+          "Joint Commissioner",
+          "Assistant Commissioner",
+          "chairperson",
+          "member-secretary"
+        ],
+        "Customs Agent License": [
+          "license",
+          "Licensing Authority"
+        ],
+        "Customs House": [
+          "Customs House",
+          "Licensing Authority"
+        ]
+      },
+      "clause_clusters": [
+        43,
+        60,
+        84,
+        111,
+        213,
+        223,
+        262,
+        352,
+        581,
+        744,
+        2132
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "লাইসেন্স প্রদানে বোর্ডের পূর্বানুমতি",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_4",
+      "resolved_text": "৪। লাইসেন্স প্রদানে বোর্ডের পূর্বানুমতি।— (১) লাইসেন্সিং কর্তৃপক্ষ লাইসেন্স প্রদান করিবার পূর্বে সংশ্লিষ্ট কাস্টমস স্টেশনের বিদ্যমান লাইসেন্স সংখ্যা, বিগত ৫ (পাঁচ) বৎসরের আমদানি-রপ্তানির পরিসংখ্যান এবং নূতন লাইসেন্স প্রদানের যৌক্তিকতা উল্লেখপূর্বক অনুমতি গ্রহণের জন্য বোর্ডে লিখিতভাবে আবেদন করিবে।\n(২) বোর্ড উপ-বিধি (১) এর অধীন আবেদন প্রাপ্তির পর উহা যাচাই-বাছাইপূর্বক লাইসেন্স প্রদানের যৌক্তিকতা বিবেচনা করিয়া সংশ্লিষ্ট কাস্টম হাউসকে লাইসেন্স প্রদানের অনুমতি প্রদান করিবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for reviewing and granting prior approval for the issuance of new licenses based on official requests.",
+          "Upon receiving a request from the licensing authority, the Board must evaluate the justification and statistics provided to determine whether to authorize the issuance of a new license."
+        ],
+        "Customs Agent License": [
+          "The licensing authority is required to obtain prior written approval from the National Board of Revenue before issuing new licenses.",
+          "The application for approval must include details such as the existing number of licenses at the relevant customs station, import and export statistics from the preceding five-year period, and a justification for the new license."
+        ],
+        "Customs House": [
+          "The Customs House receives the authorization from the National Board of Revenue to proceed with the issuance of a license after the Board has vetted the justification for the request."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1021",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "new licenses",
+          "official requests",
+          "licensing authority",
+          "justification",
+          "statistics"
+        ],
+        "Customs Agent License": [
+          "licensing authority",
+          "prior written approval",
+          "National Board of Revenue",
+          "new licenses",
+          "application",
+          "existing number of licenses",
+          "customs station",
+          "import statistics",
+          "export statistics",
+          "five-year period",
+          "justification"
+        ],
+        "Customs House": [
+          "Customs House",
+          "authorization",
+          "National Board of Revenue",
+          "license",
+          "justification",
+          "request"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        25,
+        43,
+        58,
+        60,
+        84,
+        223,
+        514,
+        1222,
+        1719,
+        2228,
+        7870,
+        7933,
+        8172,
+        8867,
+        10243,
+        10936,
+        12416
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "লাইসেন্সের অধিক্ষেত্র ও মেয়াদ",
+      "text_id": "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_8",
+      "resolved_text": "৮। লাইসেন্সের অধিক্ষেত্র ও মেয়াদ।— (১) লাইসেন্স উহার অধিক্ষেত্রে অবস্থিত কাস্টম হাউস বা কাস্টমস স্টেশনের জন্য প্রযোজ্য হইবে এবং উক্ত প্রযোজ্যতার বিষয়টি সুনির্দিষ্টভাবে লাইসেন্সে উল্লেখ করিতে হইবে।\n(২) বিধি ৬ এর অধীন প্রদত্ত লাইসেন্সের মেয়াদ হইবে লাইসেন্স প্রদানের তারিখ হইতে পরবর্তী ৫ (পাঁচ) বৎসর।",
+      "entity_concepts": {
+        "Customs License": [
+          "A customs license is valid only for the specific customs house or customs station defined within its jurisdiction, and this scope must be explicitly stated on the license itself.",
+          "The standard validity period for a license granted under the rules is five years from the date of its issuance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2747",
+      "entity_sub_entities": {
+        "Customs License": [
+          "customs house",
+          "customs station",
+          "jurisdiction",
+          "license",
+          "validity period",
+          "date of issuance"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        60,
+        84,
+        567,
+        635,
+        1367,
+        1697
+      ],
+      "source_file": "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "লাইসেন্সের অধিক্ষেত্র ও মেয়াদ",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_8",
+      "resolved_text": "৮। লাইসেন্সের অধিক্ষেত্র ও মেয়াদ।— (১) লাইসেন্স উহার অধিক্ষেত্রে অবস্থিত কাস্টম হাউস বা কাস্টমস স্টেশনের জন্য প্রযোজ্য হইবে এবং উক্ত প্রযোজ্যতার বিষয়টি সুনির্দিষ্টভাবে লাইসেন্সে উল্লেখ করিতে হইবে।\n(২) বিধি ৬ এর অধীন প্রদত্ত লাইসেন্সের মেয়াদ হইবে লাইসেন্স প্রদানের তারিখ হইতে পরবর্তী ৫ (পাঁচ) বৎসর।",
+      "entity_concepts": {
+        "Customs License": [
+          "A license is restricted to the specific customs house or customs station for which it was granted, and this jurisdiction must be clearly stated on the document.",
+          "The validity period for a license granted under the relevant rules is set to a fixed number of years starting from the date of issuance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1203",
+      "entity_sub_entities": {
+        "Customs License": [
+          "customs house",
+          "customs station",
+          "jurisdiction",
+          "validity period",
+          "date of issuance"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        60,
+        567,
+        635,
+        1367,
+        1697
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "“ফরম-চ” কাস্টমস এজেন্ট লাইসেন্স",
+      "text_id": "metadata_7",
+      "resolved_text": "“ফরম-চ”\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n.................... কাস্টম হাউস/কমিশনারেট\nকাস্টমস এজেন্ট লাইসেন্স\n[(বিধি ৫(৭) দ্রষ্টব্য]\n\nCustoms Act, 1969 (Act No. IV of 1969) এর section 207 এর আওতায় ------------------------- কাস্টম হাউস/কাস্টমস স্টেশনে ক্লিয়ারিং ফরোয়ার্ডিং ও শিপিং এজেন্ট হিসাবে ব্যবসা পরিচালনার জন্য কাস্টমস এজেন্টস লাইসেন্সিং বিধিমালা, ২০১৬ এর বিধি ৫(৭) মোতাবেক এই লাইসেন্স প্রদান করা হইল।\n\nলাইসেন্স নম্বর : --------------------\nব্যক্তি/ প্রতিষ্ঠানের নাম : --------------------\nঠিকানা : --------------------\nটেলিফোন / ফ্যাক্স / ই-মেইল : --------------------\n\nএই লাইসেন্সটি হস্তান্তরযোগ্য নয় এবং বিধিমালায় বর্ণিত কোন কারণে বাতিল, সাময়িকভাবে স্থগিত বা নবায়ন করা না হইলে ইস্যুর তারিখ হইতে ৫ (পাঁচ) বৎসরের জন্য বহাল থাকিবে।\n\n২। এই লাইসেন্স ............................. কাস্টম হাউস/কাস্টমস স্টেশনের জন্য প্রযোজ্য হইবে।\n\nতারিখ :\nপূর্ণ ঠিকানা :\n\n(লাইসেন্সিং কর্তৃপক্ষের স্বাক্ষর ও সীল)\n\nলাইসেন্স নবায়ন-\n....................হইতে .................................পর্যন্ত\n\nকর্তৃপক্ষের স্বাক্ষর",
+      "entity_concepts": {
+        "Customs Agents Licensing Rules 2016": [
+          "This set of rules establishes the regulatory framework for granting, renewing, suspending, or cancelling licenses for clearing, forwarding, and shipping agents. It mandates the specific form and procedural requirements under which these operations must be conducted at customs houses or customs stations."
+        ],
+        "Customs Act 1969": [
+          "Section 207 of this Act provides the primary legal authority for the licensing and regulation of customs agents in Bangladesh."
+        ],
+        "Customs Agent License": [
+          "This license is issued under the authority of the Customs Agents Licensing Rules 2016 for conducting clearing, forwarding, and shipping agency business at a designated customs house or station.",
+          "The license is non-transferable and remains valid for a fixed duration of five years from the date of issue, provided it is not cancelled, suspended, or denied renewal for regulatory violations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_175",
+      "entity_sub_entities": {
+        "Customs Agents Licensing Rules 2016": [
+          "licenses",
+          "clearing agents",
+          "forwarding agents",
+          "shipping agents",
+          "customs houses",
+          "customs stations"
+        ],
+        "Customs Act 1969": [
+          "Section 207",
+          "customs agents"
+        ],
+        "Customs Agent License": [
+          "Customs Agents Licensing Rules 2016",
+          "clearing agency business",
+          "forwarding agency business",
+          "shipping agency business",
+          "customs house",
+          "customs station"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        25,
+        60,
+        118,
+        223,
+        248,
+        281,
+        338,
+        454,
+        548,
+        1109,
+        1825,
+        1948,
+        6418,
+        8319,
+        8321
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "ফরম-চ: কাস্টমস এজেন্ট লাইসেন্স [বিধি ৫(৭) দ্রষ্টব্য]",
+      "text_id": "metadata_7",
+      "resolved_text": "“ফরম-চ”\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n.................... কাস্টম হাউস/কমিশনারেট\n\nকাস্টমস এজেন্ট লাইসেন্স\n[(বিধি ৫(৭) দ্রষ্টব্য]\n\nCustoms Act, 1969 (Act No. IV of 1969) এর section 207 এর আওতায় ------------------------- কাস্টম হাউস/কাস্টমস স্টেশনে ক্লিয়ারিং ফরোয়ার্ডিং ও শিপিং এজেন্ট হিসাবে ব্যবসা পরিচালনার জন্য কাস্টমস এজেন্টস লাইসেন্সিং বিধিমালা, ২০১৬ এর বিধি ৫(৭) মোতাবেক এই লাইসেন্স প্রদান করা হইল।\n\nলাইসেন্স নম্বর :\nব্যক্তি/ প্রতিষ্ঠানের নাম :\nঠিকানা :\nটেলিফোন / ফ্যাক্স / ই-মেইল :\n\nএই লাইসেন্সটি হস্তান্তরযোগ্য নয় এবং বিধিমালায় বর্ণিত কোন কারণে বাতিল, সাময়িকভাবে স্থগিত বা নবায়ন করা না হইলে ইস্যুর তারিখ হইতে ৫ (পাঁচ) বৎসরের জন্য বহাল থাকিবে।\n\n২। এই লাইসেন্স ............................. কাস্টম হাউস/কাস্টমস স্টেশনের জন্য প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 207 of this Act provides the primary legal authority for the issuance of customs agent licenses."
+        ],
+        "Customs Agent License": [
+          "This license authorizes a person or entity to conduct clearing, forwarding, and shipping business at a specified customs house or station.",
+          "The license is non-transferable and remains valid for a set number of years from the date of issuance, provided it is not cancelled, suspended, or denied renewal under the relevant rules.",
+          "The scope of the license is geographically limited to the specific customs house or customs station indicated on the document."
+        ],
+        "Customs Agents Licensing Rules 2016": [
+          "Rule 5(7) of these rules governs the issuance, regulatory framework, and validity period of customs agent licenses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_743",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 207",
+          "customs agent licenses"
+        ],
+        "Customs Agent License": [
+          "person",
+          "entity",
+          "clearing business",
+          "forwarding business",
+          "shipping business",
+          "customs house",
+          "customs station"
+        ],
+        "Customs Agents Licensing Rules 2016": [
+          "Rule 5(7)",
+          "customs agent licenses"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        25,
+        60,
+        70,
+        223,
+        337,
+        548,
+        1109,
+        1825,
+        11619
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 2,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "“ফরম-চ” কাস্টমস এজেন্ট লাইসেন্স",
+      "text_id": "metadata_7",
+      "resolved_text": "“ফরম-চ”\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n.................... কাস্টম হাউস/কমিশনারেট\nকাস্টমস এজেন্ট লাইসেন্স\n[(বিধি ৫(৭) দ্রষ্টব্য]\n\nCustoms Act, 1969 (Act No. IV of 1969) এর section 207 এর আওতায় ------------------------- কাস্টম হাউস/কাস্টমস স্টেশনে ক্লিয়ারিং ফরোয়ার্ডিং ও শিপিং এজেন্ট হিসাবে ব্যবসা পরিচালনার জন্য কাস্টমস এজেন্টস লাইসেন্সিং বিধিমালা, ২০১৬ এর বিধি ৫(৭) মোতাবেক এই লাইসেন্স প্রদান করা হইল।\n\nলাইসেন্স নম্বর : --------------------\nব্যক্তি/ প্রতিষ্ঠানের নাম : --------------------\nঠিকানা : --------------------\nটেলিফোন / ফ্যাক্স / ই-মেইল : --------------------\n\nএই লাইসেন্সটি হস্তান্তরযোগ্য নয় এবং বিধিমালায় বর্ণিত কোন কারণে বাতিল, সাময়িকভাবে স্থগিত বা নবায়ন করা না হইলে ইস্যুর তারিখ হইতে ৫ (পাঁচ) বৎসরের জন্য বহাল থাকিবে।\n\n২। এই লাইসেন্স ............................. কাস্টম হাউস/কাস্টমস স্টেশনের জন্য প্রযোজ্য হইবে।\n\nতারিখ :\nপূর্ণ ঠিকানা :\n\n(লাইসেন্সিং কর্তৃপক্ষের স্বাক্ষর ও সীল)\n\nলাইসেন্স নবায়ন-\n....................হইতে .................................পর্যন্ত\n\nকর্তৃপক্ষের স্বাক্ষর",
+      "entity_concepts": {
+        "Customs Agents Licensing Rules 2016": [
+          "This set of rules establishes the regulatory framework for granting, renewing, suspending, or cancelling licenses for clearing, forwarding, and shipping agents. It mandates the specific form and procedural requirements under which these operations must be conducted at customs houses or customs stations."
+        ],
+        "Customs Act 1969": [
+          "Section 207 of this Act provides the primary legal authority for the licensing and regulation of customs agents in Bangladesh."
+        ],
+        "Customs Agent License": [
+          "This license is issued under the authority of the Customs Agents Licensing Rules 2016 for conducting clearing, forwarding, and shipping agency business at a designated customs house or station.",
+          "The license is non-transferable and remains valid for a fixed duration of five years from the date of issue, provided it is not cancelled, suspended, or denied renewal for regulatory violations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_175",
+      "entity_sub_entities": {
+        "Customs Agents Licensing Rules 2016": [
+          "licenses",
+          "clearing agents",
+          "forwarding agents",
+          "shipping agents",
+          "customs houses",
+          "customs stations"
+        ],
+        "Customs Act 1969": [
+          "Section 207",
+          "customs agents"
+        ],
+        "Customs Agent License": [
+          "Customs Agents Licensing Rules 2016",
+          "clearing agency business",
+          "forwarding agency business",
+          "shipping agency business",
+          "customs house",
+          "customs station"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        25,
+        60,
+        118,
+        223,
+        248,
+        281,
+        338,
+        454,
+        548,
+        1109,
+        1825,
+        1948,
+        6418,
+        8319,
+        8321
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "ফরম-চ: কাস্টমস এজেন্ট লাইসেন্স [বিধি ৫(৭) দ্রষ্টব্য]",
+      "text_id": "metadata_7",
+      "resolved_text": "“ফরম-চ”\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n.................... কাস্টম হাউস/কমিশনারেট\n\nকাস্টমস এজেন্ট লাইসেন্স\n[(বিধি ৫(৭) দ্রষ্টব্য]\n\nCustoms Act, 1969 (Act No. IV of 1969) এর section 207 এর আওতায় ------------------------- কাস্টম হাউস/কাস্টমস স্টেশনে ক্লিয়ারিং ফরোয়ার্ডিং ও শিপিং এজেন্ট হিসাবে ব্যবসা পরিচালনার জন্য কাস্টমস এজেন্টস লাইসেন্সিং বিধিমালা, ২০১৬ এর বিধি ৫(৭) মোতাবেক এই লাইসেন্স প্রদান করা হইল।\n\nলাইসেন্স নম্বর :\nব্যক্তি/ প্রতিষ্ঠানের নাম :\nঠিকানা :\nটেলিফোন / ফ্যাক্স / ই-মেইল :\n\nএই লাইসেন্সটি হস্তান্তরযোগ্য নয় এবং বিধিমালায় বর্ণিত কোন কারণে বাতিল, সাময়িকভাবে স্থগিত বা নবায়ন করা না হইলে ইস্যুর তারিখ হইতে ৫ (পাঁচ) বৎসরের জন্য বহাল থাকিবে।\n\n২। এই লাইসেন্স ............................. কাস্টম হাউস/কাস্টমস স্টেশনের জন্য প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 207 of this Act provides the primary legal authority for the issuance of customs agent licenses."
+        ],
+        "Customs Agent License": [
+          "This license authorizes a person or entity to conduct clearing, forwarding, and shipping business at a specified customs house or station.",
+          "The license is non-transferable and remains valid for a set number of years from the date of issuance, provided it is not cancelled, suspended, or denied renewal under the relevant rules.",
+          "The scope of the license is geographically limited to the specific customs house or customs station indicated on the document."
+        ],
+        "Customs Agents Licensing Rules 2016": [
+          "Rule 5(7) of these rules governs the issuance, regulatory framework, and validity period of customs agent licenses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_743",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 207",
+          "customs agent licenses"
+        ],
+        "Customs Agent License": [
+          "person",
+          "entity",
+          "clearing business",
+          "forwarding business",
+          "shipping business",
+          "customs house",
+          "customs station"
+        ],
+        "Customs Agents Licensing Rules 2016": [
+          "Rule 5(7)",
+          "customs agent licenses"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        25,
+        60,
+        70,
+        223,
+        337,
+        548,
+        1109,
+        1825,
+        11619
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

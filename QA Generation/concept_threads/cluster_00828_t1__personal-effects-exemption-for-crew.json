@@ -1,0 +1,70 @@
+{
+  "cluster_id": 828,
+  "cluster_label": "bedding",
+  "thread_index": 1,
+  "thread_id": "cluster_00828_t1",
+  "title": "Personal Effects Exemption for Crew",
+  "summary": "This thread covers the specific exemption for personal items, including bedding, for crew members of transport vehicles (containers, trucks, ships) during their stay in Bangladesh.",
+  "evolution": {
+    "scope": "Remains a static provision for personal use items during the duration of stay."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Baggage Rules 2010",
+      "change": "Initial provision allowing duty-free import of personal effects including bedding for transport crew.",
+      "clause_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 1,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "ক্রু/নাবিকদের ব্যক্তিগত ব্যবহার্য সামগ্রী ও পরিবহন সংশ্লিষ্ট সামগ্রী",
+      "text_id": "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_9",
+      "resolved_text": "৯। ক্রু/নাবিকদের ব্যক্তিগত ব্যবহার্য সামগ্রী ও পরিবহন সংশ্লিষ্ট সামগ্রী।— (১) পণ্য বহনকারী কন্টেইনার ট্রেইলার, কাভার্ড ট্রাক বা জাহাজের ক্রু/নাবিক বাংলাদেশে অবস্থানকালীন সময়ের জন্য প্রয়োজনীয় ব্যক্তিগত ব্যবহার্য দ্রব্য, যেমন পরিধেয় বস্ত্র, বিছানাপত্র এবং রান্না করা খাদ্য দ্রব্য শুল্ক-কর ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) পণ্য বহনকারী যানের সাপ্লাই ট্যাংকে বোঝাইকৃত জ্বালানি, পণ্য বহনকারী যানের জরুরী মেরামতের জন্য প্রয়োজনীয় স্পেয়ার পার্টস্ এবং টুলস শুল্ক-কর মুক্ত হইবে, তবে এক্ষেত্রে এন্ট্রি পয়েন্টের কাস্টমস্ স্টেশনে উহার তালিকা বা বিবরণ দাখিল করিতে হইবে এবং এক্সিট পয়েন্টের কাস্টমস্ স্টেশনে তা পরীক্ষিত ও যাচাইকৃত হইতে হইবে।",
+      "entity_concepts": {
+        "Crew Personal Effects": [
+          "Crew members of goods-carrying containers, trailers, covered trucks, or ships are permitted to import essential personal items, such as clothing, bedding, and cooked food, free of duties and taxes during their stay in Bangladesh."
+        ],
+        "Transport Vehicle Supplies": [
+          "Fuel contained in the supply tanks of goods-carrying vehicles, as well as spare parts and tools necessary for emergency repairs, are exempt from duties and taxes.",
+          "To qualify for this exemption, a list or description of these items must be submitted at the customs station at the entry point and must be verified and checked at the customs station at the exit point."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1256",
+      "entity_sub_entities": {
+        "Crew Personal Effects": [
+          "clothing",
+          "bedding",
+          "cooked food"
+        ],
+        "Transport Vehicle Supplies": [
+          "fuel",
+          "supply tanks",
+          "spare parts",
+          "tools"
+        ]
+      },
+      "clause_clusters": [
+        110,
+        482,
+        828,
+        903,
+        1803,
+        2061,
+        6772,
+        12578,
+        13004
+      ],
+      "source_file": "customs_sros_OCR/20100610_182-AIN_2010_2300-Customs/20100610_182-AIN_2010_2300-Customs_output.json",
+      "clause_date": "2010-06-10"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

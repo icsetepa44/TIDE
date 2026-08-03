@@ -1,0 +1,1147 @@
+{
+  "cluster_id": 60,
+  "cluster_label": "Customs House",
+  "thread_index": 1,
+  "thread_id": "cluster_00060_t1",
+  "title": "Post-Clearance Audit and Compliance Monitoring",
+  "summary": "The concept of post-clearance audit evolved from simple document submission to a sophisticated risk-based system. Customs Houses transitioned from passive receivers of compliance reports to active participants in transaction-based audits and enforcement actions.",
+  "evolution": {
+    "methodology": "Shifted from manual verification of annual plans to automated risk-based selection and transaction-level auditing.",
+    "institutional_role": "Customs Houses now act as enforcement nodes for audit findings and revenue recovery."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "SRO/Directive",
+      "change": "Established the requirement for annual production plans and audit reports to be submitted to the Customs House.",
+      "clause_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_6",
+        "20160602_160-AIN_2016_22-Customs_২ জুন, ২০১৬_clause_2"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "Audit Policy",
+      "change": "Introduced a formal system-based and transaction-based audit structure involving Customs Houses and the Risk Management Commissionerate.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_14",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_25"
+      ]
+    }
+  ],
+  "num_member_objects": 15,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_5",
+      "resolved_text": "(৪) বিগত বৎসরের উৎপাদন, উৎপাদন ক্ষমতা অনুযায়ী আমদানি বৎসরের উৎপাদন পরিকল্পনা, ইত্যাদি বিবেচনায় নিয়ে TABLE এ উল্লিখিত উপকরণের বাৎসরিক প্রয়োজনীয়তার পরিমাণ প্রাক্কলন করিয়া প্রত্যেক বৎসরের জানুয়ারি মাসের মধ্যেই একটি হিসাবপত্র আমদানি সংশ্লিষ্ট কাস্টম হাউস/স্টেশন এর কমিশনার এবং কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট এর কমিশনারের নিকট দাখিল করিতে হইবে। কাস্টম হাউস/স্টেশনের কমিশনার দাখিলকৃত হিসাবের ভিত্তিতে আমদানিকৃত উপকরণ খালাস দিবেন। কমিশনার, কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট প্রতি ৬ (ছয়) মাস পর পর উক্ত প্রতিষ্ঠানের আমদানিকৃত উপকরণ সংশ্লিষ্ট প্রতিষ্ঠানের পণ্য উৎপাদনে ব্যবহার করা হইয়াছে কিনা-তাহা সরেজমিনে নিরীক্ষা করিবেন।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table serves as the reference document for estimating the annual requirements of production inputs based on previous year production data and current year production plans."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs at the relevant customs house or station receives the annual input requirement statements by January of each year. Based on these statements, the Commissioner authorizes the clearance of imported inputs for the applicant entity."
+        ],
+        "Commissioner, Customs Valuation and Internal Audit Commissionerate": [
+          "The Commissioner of this office receives the annual input requirement statements by January of each year. They are also responsible for conducting physical audits every six months to verify that imported inputs have been utilized in the actual production of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1607",
+      "entity_sub_entities": {
+        "TABLE": [
+          "reference document",
+          "annual requirements",
+          "production inputs",
+          "previous year production data",
+          "current year production plans"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "customs house",
+          "customs station",
+          "annual input requirement statements",
+          "imported inputs",
+          "applicant entity"
+        ],
+        "Commissioner, Customs Valuation and Internal Audit Commissionerate": [
+          "Commissioner, Customs Valuation and Internal Audit Commissionerate",
+          "annual input requirement statements",
+          "imported inputs",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        25,
+        26,
+        60,
+        229,
+        608,
+        1501,
+        3251,
+        3318,
+        3412,
+        3420,
+        3632,
+        11287
+      ],
+      "source_file": "customs_sros_OCR/20160602_152-AIN_2016_14-Customs/20160602_152-AIN_2016_14-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_6",
+      "resolved_text": "(৫) কমিশনার, কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট যথাসম্ভব স্বল্পতম সময়ে নিরীক্ষা সমাপ্ত করিয়া নিরীক্ষা সমাপ্তির ১ (এক) মাসের মধ্যে পরিশিষ্ট-৩ মোতাবেক একটি বস্তুনিষ্ঠ প্রতিবেদন জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি) এর নিকট এবং এর অনুলিপি সংশ্লিষ্ট কাস্টম হাউস/স্টেশন কর্তৃপক্ষ বরাবরে প্রেরণ করিবেন। নিরীক্ষায় রেয়াতি হারে আমদানিকৃত উপকরণের ধর্তব্যযোগ্য অপব্যবহার পাওয়া গেলে Customs Act এর section 156 এর sub-section (1) এর Table এর item 10A অনুযায়ী ব্যবস্থা নিতে কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট আমদানি সংশ্লিষ্ট কাস্টমস কমিশনারকে অনুরোধ করিবেন। প্রতিবেদন প্রাপ্তির পর যদি দেখা যায় যে, আমদানিকৃত উপকরণ আমদানিকারকের প্রতিষ্ঠানে ব্যবহৃত হইয়াছে তাহা হইলে অঙ্গীকারনামা ফেরতযোগ্য হইবে।",
+      "entity_concepts": {
+        "Commissioner of Customs Valuation and Internal Audit": [
+          "The Commissioner is responsible for conducting audits within the shortest possible time and submitting an objective report according to the specified format within one month of completion.",
+          "The Commissioner must submit this report to the member of the National Board of Revenue (Customs: Policy) and provide copies to the relevant Customs House or station authorities.",
+          "In cases where misused imported inputs are identified during an audit, the Commissioner shall request the concerned Customs Commissioner to initiate legal action under the Customs Act."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue, specifically the member responsible for customs policy, is the designated recipient of the audit report generated by the audit commissionerate."
+        ],
+        "Customs Act 1969": [
+          "The Act serves as the legal basis for initiating enforcement actions against the misuse of duty-free or concessionary imported inputs as specified in the relevant penalty table."
+        ],
+        "Bonded Warehouse Operation": [
+          "If an audit confirms that imported inputs were utilized correctly at the importer's establishment, the bond or undertaking provided by the importer shall be returned."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1608",
+      "entity_sub_entities": {
+        "Commissioner of Customs Valuation and Internal Audit": [
+          "audit report",
+          "member of the National Board of Revenue (Customs: Policy)",
+          "Customs House",
+          "station authorities",
+          "misused imported inputs",
+          "Customs Commissioner",
+          "Customs Act"
+        ],
+        "National Board of Revenue": [
+          "member responsible for customs policy",
+          "audit report",
+          "audit commissionerate"
+        ],
+        "Customs Act 1969": [
+          "duty-free imported inputs",
+          "concessionary imported inputs",
+          "penalty table"
+        ],
+        "Bonded Warehouse Operation": [
+          "imported inputs",
+          "importer's establishment",
+          "bond",
+          "undertaking",
+          "importer"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        37,
+        39,
+        60,
+        61,
+        187,
+        224,
+        229,
+        297,
+        400,
+        2564,
+        4500,
+        4935,
+        5712,
+        6612,
+        7563,
+        8942,
+        9831,
+        9834,
+        9909
+      ],
+      "source_file": "customs_sros_OCR/20160602_152-AIN_2016_14-Customs/20160602_152-AIN_2016_14-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "শর্ত",
+      "text_id": "20160602_160-AIN_2016_22-Customs_২ জুন, ২০১৬_clause_2",
+      "resolved_text": "শর্ত\n\n(১) আমদানিকারককে শতকরা ভাগ রপ্তানিমুখী শিল্প প্রতিষ্ঠান হিসেবে বন্ড লাইসেন্সধারী অথবা মূল্য সংযোজন কর নিবন্ধিত হইতে হইবে।\n\n(২) আমদানিকারক প্রতিষ্ঠান যে এসোসিয়েশনের সদস্যভুক্ত সেই এসোসিয়েশন হইতে “পরিশিষ্ট-১” মোতাবেক একটি প্রত্যয়নপত্র পণ্য শুল্কায়নকালে সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশনে দাখিল করিতে হইবে।\n\n(৩) আমদানিকৃত পণ্য সংশ্লিষ্ট শিল্প প্রতিষ্ঠানে ব্যবহার করা না হইলে সেই ক্ষেত্রে প্রযোজ্য শুল্ক-কর উক্ত প্রতিষ্ঠান কর্তৃপক্ষের নিকট হইতে আদায়যোগ্য হইবে।\n\n(৪) আমদানিকৃত পণ্য আমদানিকারক শিল্প প্রতিষ্ঠানে স্থাপন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশন কর্তৃপক্ষকে সংশ্লিষ্ট কাস্টমস বন্ড কমিশনারেট অথবা মূল্য সংযোজন কর কমিশনারেট এর মাধ্যমে সরজমিন যাচাইপূর্বক নিশ্চিত হইতে হইবে।\n\n(৫) শর্ত (৪) বাস্তবায়নের লক্ষ্যে সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশন কর্তৃপক্ষ পণ্যচালান খালাসপূর্বক লিখিতভাবে অথবা ই-মেইল যোগে সংশ্লিষ্ট বন্ড কমিশনারেট অথবা মূল্য সংযোজন কর কমিশনারেটকে অবহিত করিবেন।\n\n(৬) শর্ত (৪) এর উদ্দেশ্যে পূরণকল্পে কাস্টম হাউস বা কাস্টমস স্টেশন হইতে পত্র বা ই-মেইল প্রাপ্তির পর সংশ্লিষ্ট বন্ড কমিশনারেট অথবা মূল্য সংযোজন কর কমিশনারেট আমদানিকারক শিল্প প্রতিষ্ঠান সরজমিন পরিদর্শনপূর্বক “পরিশিষ্ট ২” মোতাবেক একটি প্রত্যয়নপত্র সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশনে প্রেরণ করিবেন।",
+      "entity_concepts": {
+        "Importer": [
+          "The importer must be a bonded warehouse licensee as an export-oriented industrial establishment or be registered under Value Added Tax.",
+          "The importer must submit a certificate from their relevant trade association to the customs house or customs station during the customs clearance process.",
+          "The importer is responsible for the payment of applicable duties and taxes if the imported goods are not utilized within the industrial establishment as intended."
+        ],
+        "Value Added Tax": [
+          "Importers are required to maintain registration under this tax system as a mandatory condition for the import process."
+        ],
+        "Customs House": [
+          "The customs house or customs station authority is responsible for verifying that imported goods are installed in the industrial facility, either directly or through coordination with other tax commissionerates.",
+          "Upon release of the goods, the customs authority must notify the relevant bond or VAT commissionerate via written letter or email to initiate the verification process.",
+          "The customs house receives a physical verification certificate from the bond or VAT commissionerate to finalize the compliance requirements."
+        ],
+        "Customs Commissioner": [
+          "This authority is responsible for conducting on-site inspections of the importer's industrial establishment to confirm the installation and use of imported goods.",
+          "Following the inspection, this authority must provide a formal certificate to the relevant customs house or customs station verifying the status of the goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1634",
+      "entity_sub_entities": {
+        "Importer": [
+          "bonded warehouse licensee",
+          "export-oriented industrial establishment",
+          "Value Added Tax",
+          "certificate",
+          "trade association",
+          "customs house",
+          "customs station",
+          "duties",
+          "taxes",
+          "imported goods",
+          "industrial establishment"
+        ],
+        "Value Added Tax": [
+          "registration"
+        ],
+        "Customs House": [
+          "customs house",
+          "customs station",
+          "imported goods",
+          "industrial facility",
+          "tax commissionerates",
+          "bond commissionerate",
+          "VAT commissionerate",
+          "written letter",
+          "email",
+          "physical verification certificate"
+        ],
+        "Customs Commissioner": [
+          "industrial establishment",
+          "imported goods",
+          "formal certificate",
+          "customs house",
+          "customs station"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        9,
+        13,
+        25,
+        30,
+        39,
+        60,
+        188,
+        224,
+        308,
+        398,
+        671,
+        947,
+        1124,
+        1686,
+        2353,
+        2509,
+        2511,
+        2743,
+        7947,
+        12654,
+        13427
+      ],
+      "source_file": "customs_sros_OCR/20160602_160-AIN_2016_22-Customs/20160602_160-AIN_2016_22-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "২। সংশ্লিষ্ট মূল্য সংযোজন কর কর্তৃপক্ষ এই প্রজ্ঞাপনের অধীন আমদানিকৃত পণ্য যথাযথ উদ্দেশ্যে ব্যবহার করা হইয়াছে কিনা তাহা যাচাইপূর্বক পণ্যচালান আমদানির ৬ (ছয়) মাসের মধ্যে সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশন এর কমিশনার বরাবর একটি প্রতিবেদন প্রেরণ করিবেন।",
+      "entity_concepts": {
+        "Value Added Tax Authorities": [
+          "The Value Added Tax Authority is responsible for verifying that goods imported under this order are utilized for the intended purpose.",
+          "They must submit a verification report to the concerned Commissioner of Customs or Customs Station within a specific timeframe following the import of the consignment."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs at the relevant Customs House or Customs Station acts as the recipient of the verification reports prepared by the Value Added Tax Authority regarding the end-use of imported goods."
+        ],
+        "Customs House": [
+          "Customs Houses serve as the designated offices to which the Value Added Tax Authority must submit reports confirming the appropriate use of imported goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2083",
+      "entity_sub_entities": {
+        "Value Added Tax Authorities": [
+          "goods",
+          "verification report",
+          "Commissioner of Customs",
+          "Customs Station",
+          "consignment"
+        ],
+        "Commissioner of Customs": [
+          "Customs House",
+          "Customs Station",
+          "verification reports",
+          "Value Added Tax Authority",
+          "imported goods"
+        ],
+        "Customs House": [
+          "Value Added Tax Authority",
+          "reports",
+          "imported goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        25,
+        60,
+        162,
+        274,
+        615,
+        2305,
+        2425,
+        3188
+      ],
+      "source_file": "customs_sros_OCR/20210603_119-AIN_2021_08_Customs/20210603_119-AIN_2021_08_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "(৪)",
+      "text_id": "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লিখিত যন্ত্রাংশ বা উপকরণ ‘‘পরিশিষ্ট-২’’ অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক রেফ্রিজারেটর ও ফ্রিজার বা উহার যন্ত্রাংশ উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন; গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন; দাখিলকৃত প্রতিবেদনের সাথে আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোন অসঙ্গতি থাকিলে তাহা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে; ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন যথার্থতা যাচাই সাপেক্ষে পুনঃশুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Value Added Tax Commissionerate": [
+          "The Commissioner of the relevant Value Added Tax Commissionerate is mandated to form a committee to verify that imported components are being utilized in accordance with the authorized input-output coefficients for manufacturing refrigerators and freezers.",
+          "The committee, consisting of a Joint Commissioner and a Divisional Officer, must conduct biannual on-site inspections and submit findings to the Commissioner."
+        ],
+        "Customs House": [
+          "Customs Houses are responsible for receiving notifications regarding discrepancies in the usage of imported goods identified during the inspection process.",
+          "Based on reports received from the Value Added Tax Commissionerate, the Customs House must verify the findings and initiate necessary actions for re-assessment of duties."
+        ],
+        "Customs Station": [
+          "Customs Stations are required to be notified of any irregularities regarding the use of imported goods as determined by the inspection committee.",
+          "Upon receiving reports of such discrepancies, the Customs Station must take appropriate measures to re-assess the customs duties after verifying the facts."
+        ],
+        "Manufacturing Input-Output Coefficient": [
+          "The authorized manufacturing input-output coefficient serves as the benchmark against which the actual utilization of imported parts and materials is audited."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2181",
+      "entity_sub_entities": {
+        "Value Added Tax Commissionerate": [
+          "Commissioner",
+          "committee",
+          "imported components",
+          "authorized input-output coefficients",
+          "refrigerators",
+          "freezers",
+          "Joint Commissioner",
+          "Divisional Officer"
+        ],
+        "Customs House": [
+          "notifications",
+          "imported goods",
+          "reports",
+          "duties"
+        ],
+        "Customs Station": [
+          "imported goods",
+          "inspection committee",
+          "reports",
+          "customs duties"
+        ],
+        "Manufacturing Input-Output Coefficient": [
+          "authorized manufacturing input-output coefficient",
+          "imported parts",
+          "materials"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        14,
+        25,
+        28,
+        30,
+        57,
+        60,
+        64,
+        102,
+        199,
+        262,
+        274,
+        370,
+        395,
+        413,
+        556,
+        616,
+        938,
+        1911,
+        4329,
+        5818
+      ],
+      "source_file": "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লিখিত যন্ত্রাংশ বা উপকরণ “পরিশিষ্ট-২” অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক প্রি-ফ্যাব্রিকেটেড বিল্ডিং উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন; গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন; দাখিলকৃত প্রতিবেদনের সাথে আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোন অসঙ্গতি থাকিলে তাহা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে; ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন যথার্থতা যাচাই সাপেক্ষে পুন:শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Prefabricated Building": [
+          "The manufacturing of prefabricated buildings using imported parts or materials is subject to periodic monitoring to ensure compliance with the authorized input-output coefficient."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of the relevant Value Added Tax Commissionerate is tasked with forming a committee comprising a Joint Commissioner and a divisional officer to verify the usage of imported goods."
+        ],
+        "Customs House": [
+          "Upon receiving reports from the Value Added Tax Commissionerate regarding discrepancies in the usage of imported goods, the Customs House or Customs Station is required to perform verification and take necessary action for re-assessment of duties."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The Value Added Tax Commissionerate is responsible for overseeing the physical inspection of manufacturing sites every six months and submitting compliance reports to the Commissioner."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2192",
+      "entity_sub_entities": {
+        "Prefabricated Building": [
+          "prefabricated buildings",
+          "imported parts",
+          "materials",
+          "input-output coefficient"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of the relevant Value Added Tax Commissionerate",
+          "committee",
+          "Joint Commissioner",
+          "divisional officer",
+          "imported goods"
+        ],
+        "Customs House": [
+          "Value Added Tax Commissionerate",
+          "imported goods",
+          "Customs House",
+          "Customs Station",
+          "duties"
+        ],
+        "Value Added Tax Commissionerate": [
+          "Value Added Tax Commissionerate",
+          "manufacturing sites",
+          "compliance reports",
+          "Commissioner"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        8,
+        25,
+        30,
+        57,
+        60,
+        64,
+        102,
+        137,
+        199,
+        262,
+        370,
+        619,
+        938,
+        1586,
+        3631,
+        9742
+      ],
+      "source_file": "customs_sros_OCR/20220609_122-AIN_2022_70_Customs/20220609_122-AIN_2022_70_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লিখিত যন্ত্রাংশ বা উপকরণ “পরিশিষ্ট-২” অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক রেফ্রিজারেটর ও ফ্রিজার বা যন্ত্রাংশ উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন। গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন। আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোনো অসঙ্গতি থাকিলে তাহা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে। ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন যথার্থতা যাচাই সাপেক্ষে পুনঃশুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Verification Committee": [
+          "The Commissioner of the concerned Value Added Tax Commissionerate shall form a committee consisting of a Joint Commissioner and a Divisional Officer to verify if imported components or materials are being utilized according to the approved input-output coefficients for refrigerator and freezer manufacturing.",
+          "The committee is required to conduct physical inspections every six months and submit reports to the Commissioner regarding their findings."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The Commissioner of the relevant Value Added Tax Commissionerate is responsible for monitoring compliance with input-output coefficients for manufacturing and forming committees for site inspections."
+        ],
+        "Customs House": [
+          "Customs Houses and Customs Stations must be notified of any irregularities or misuse of imported goods identified during inspections.",
+          "Upon receiving reports of irregularities from the Value Added Tax Commissionerate, the Customs House or Customs Station is required to verify the findings and take necessary actions for reassessment of duties."
+        ],
+        "Input-Output Coefficient": [
+          "This serves as the benchmark against which the authorized usage of imported components or materials for the production of refrigerators and freezers is measured."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2299",
+      "entity_sub_entities": {
+        "Verification Committee": [
+          "Joint Commissioner",
+          "Divisional Officer",
+          "imported components",
+          "materials",
+          "input-output coefficients",
+          "refrigerator",
+          "freezer",
+          "physical inspections",
+          "reports"
+        ],
+        "Value Added Tax Commissionerate": [
+          "Commissioner",
+          "input-output coefficients",
+          "committees",
+          "site inspections"
+        ],
+        "Customs House": [
+          "Customs Houses",
+          "Customs Stations",
+          "imported goods",
+          "reports of irregularities",
+          "duties"
+        ],
+        "Input-Output Coefficient": [
+          "imported components",
+          "materials",
+          "refrigerators",
+          "freezers"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        30,
+        57,
+        60,
+        64,
+        118,
+        137,
+        138,
+        199,
+        262,
+        274,
+        395,
+        413,
+        454,
+        556,
+        717,
+        833,
+        877,
+        938,
+        1130,
+        2058,
+        2265,
+        11464
+      ],
+      "source_file": "customs_sros_OCR/20220628_199-_2022_107/20220628_199-_2022_107_output.json",
+      "clause_date": "2022-06-28"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লিখিত যন্ত্রাংশ বা উপকরণ “পরিশিষ্ট-২” অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক এয়ারকন্ডিশনার উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন। গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন। দাখিলকৃত প্রতিবেদনের সহিত আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোনো অসঙ্গতি থাকিলে তাহা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে। ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন যথার্থতা যাচাই সাপেক্ষে পুনঃশুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Verification Committee": [
+          "The Commissioner of the concerned Value Added Tax Commissionerate is required to form a committee comprising a Joint Commissioner and a Divisional Officer to verify the production of air conditioners.",
+          "The committee must conduct physical inspections every six months and submit findings to the Commissioner."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The Commissionerate oversees the monitoring of imported parts and materials to ensure they are used in accordance with approved input-output coefficients."
+        ],
+        "Customs House": [
+          "Upon receiving reports from the Value Added Tax Commissionerate regarding discrepancies in the usage of imported goods, the Customs House must evaluate the findings and initiate necessary reassessment or corrective customs procedures."
+        ],
+        "Input-Output Coefficient": [
+          "This serves as the regulatory standard for determining the legitimate consumption of imported components during the manufacturing process of air conditioners."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2355",
+      "entity_sub_entities": {
+        "Verification Committee": [
+          "Commissioner",
+          "Joint Commissioner",
+          "Divisional Officer",
+          "air conditioners"
+        ],
+        "Value Added Tax Commissionerate": [
+          "imported parts",
+          "materials",
+          "input-output coefficients"
+        ],
+        "Customs House": [
+          "imported goods",
+          "customs procedures"
+        ],
+        "Input-Output Coefficient": [
+          "imported components",
+          "air conditioners"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        57,
+        60,
+        64,
+        137,
+        138,
+        199,
+        225,
+        262,
+        296,
+        370,
+        395,
+        938,
+        1130
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লেখিত যন্ত্রাংশ বা উপকরণ “পরিশিষ্ট-২” অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন। গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন। দাখিলকৃত প্রতিবেদনের সহিত আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোনো অসঙ্গতি থাকিলে তাহা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে। ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন যথার্থতা যাচাই সাপেক্ষে পুনঃশুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "The VAT Commissioner is required to verify that the manufacturing process for these products adheres to the authorized input-output coefficient."
+        ],
+        "Closed Circuit Camera Production": [
+          "The VAT Commissioner is required to verify that the production process for these products adheres to the authorized input-output coefficient."
+        ],
+        "Customs Authority": [
+          "A committee formed by the VAT Commissioner must conduct semi-annual inspections and report any discrepancies in the usage of imported materials. Based on these reports, the Customs House or Customs Station is responsible for verifying the findings and undertaking necessary re-assessment of duties."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2365",
+      "entity_sub_entities": {
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "manufacturing process",
+          "authorized input-output coefficient"
+        ],
+        "Closed Circuit Camera Production": [
+          "production process",
+          "authorized input-output coefficient"
+        ],
+        "Customs Authority": [
+          "committee",
+          "VAT Commissioner",
+          "imported materials",
+          "Customs House",
+          "Customs Station",
+          "duties"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        25,
+        30,
+        60,
+        102,
+        105,
+        712,
+        875,
+        1013,
+        1023,
+        1290,
+        1333
+      ],
+      "source_file": "customs_sros_OCR/20220717_202-_2022_110/20220717_202-_2022_110_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_14",
+      "clause_title": "২.৪ অডিট টিমের সাংগঠনিক কাঠামো",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_14",
+      "resolved_text": "২.৪ অডিট টিমের সাংগঠনিক কাঠামো—সিস্টেম বেইজড অডিট কার্যক্রমের মূল তদারকি ও বাস্তবায়নে থাকবে কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট। এছাড়া, সকল কাস্টম হাউস এবং কাস্টমস এক্সাইজ ও ভ্যাট কমিশনারেট ট্রানজেকশন বেইজড পোস্ট ক্লিয়ারেন্স অডিট পরিচালনা করবেন। এ উদ্দেশ্যে সংশ্লিষ্ট দপ্তরসমূহ নিম্নবর্ণিত অডিট টিম গঠন করবেন: \n| ক্রমিক | পদবী | কমিটিতে অবস্থান |\n| --- | --- | --- |\n| ১. | কমিশনার | অডিট অনুমোদনকারী |\n| ২. | অতিরিক্ত কমিশনার/যুগ্ম কমিশনার | তত্ত্বাবধানকারী |\n| ৩. | ডেপুটি কমিশনার/সহকারী কমিশনার | দলনেতা |\n| ৪. | রাজস্ব কর্মকর্তা | সদস্য (এক বা একাধিক) |\n| ৫. | সহকারী রাজস্ব কর্মকর্তা | সদস্য (এক বা একাধিক) |\n\n\nপণ্যচালান বা প্রতিষ্ঠানের সংবেদনশীলতা বিবেচনায় কমিশনার প্রয়োজনে যুগ্ম কমিশনারকে দলনেতা হিসেবে মনোনয়ন দিতে পারবেন।",
+      "entity_concepts": {
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "This office is designated as the primary entity responsible for overseeing and implementing system-based audit activities."
+        ],
+        "Customs House": [
+          "Custom houses are tasked with the responsibility of conducting transaction-based post-clearance audits."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "These offices are mandated to perform transaction-based post-clearance audits as part of the organizational audit structure."
+        ],
+        "Audit Team": [
+          "The audit team is composed of various officials including the Commissioner as the approving authority, additional or joint commissioners for supervision, deputy or assistant commissioners as team leaders, and revenue or assistant revenue officers as members.",
+          "The Commissioner has the authority to appoint a Joint Commissioner as the team leader based on the sensitivity of the consignment or the organization being audited."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_685",
+      "entity_sub_entities": {
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "system-based audit activities"
+        ],
+        "Customs House": [
+          "transaction-based post-clearance audits"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "transaction-based post-clearance audits"
+        ],
+        "Audit Team": [
+          "Commissioner",
+          "additional commissioners",
+          "joint commissioners",
+          "deputy commissioners",
+          "assistant commissioners",
+          "revenue officers",
+          "assistant revenue officers",
+          "team leader",
+          "consignment",
+          "organization"
+        ]
+      },
+      "clause_clusters": [
+        60,
+        64,
+        162,
+        269,
+        277,
+        365,
+        716,
+        1141,
+        1546,
+        1616,
+        2230,
+        4984,
+        5307,
+        5680,
+        9320,
+        12727
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_25",
+      "clause_title": "৪.১.১ অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন ও অডিট বাস্তবায়নকারী দপ্তরসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_25",
+      "resolved_text": "৪.১.১ অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন ও অডিট বাস্তবায়নকারী দপ্তরসমূহ—কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট নিজস্ব রিস্ক ম্যানেজমেন্ট সফটওয়্যারের মাধ্যমে স্বয়ংক্রিয় কম্পিউটারাইজড পদ্ধতিতে বা সুনির্দিষ্ট অভিযোগ বা তথ্যের ভিত্তিতে পোস্ট ক্লিয়ারেন্স অডিটের জন্য সূচক নির্ধারণের পাশাপাশি প্রতিষ্ঠান বা পণ্য চালান নির্বাচন করবেন। কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট নির্বাচিত প্রতিষ্ঠান সিস্টেম বেইজড পিসিএ কার্যক্রম সম্পন্ন করার জন্য শুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেটে প্রেরণ করবেন এবং নির্বাচিত বিল অব এন্ট্রি/চালান ট্র্যানজ্যাকশন বেইজড পিসিএ কার্যক্রম সম্পন্ন করার জন্য সংশ্লিষ্ট কাস্টম হাউস বা কমিশনারেট এ প্রেরণ করবেন।\n\nশুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট সকল সিস্টেম বেইজড অডিট পরিচালনা করবেন; তবে, প্রয়োজনে অডিট কার্যক্রম পরিচালনার জন্য বিভিন্ন কাস্টম হাউস বা কমিশনারেট এবং/অথবা কাস্টমস গোয়েন্দা ও তদন্ত পরিদপ্তর থেকে প্রয়োজনীয় সংখ্যক কর্মকর্তা অডিট কমিটিতে অন্তর্ভুক্ত করতে পারবেন। সিস্টেম বেইজড অডিটের ক্ষেত্রে অডিট পরবর্তী সকল কার্যক্রম যেমনঃ শুল্ক-করাদি নিরূপণ, প্রযোজ্য ক্ষেত্রে জরিমানা আরোপ, কারণ দর্শানো নোটিশ, দাবীনামা জারী, বকেয়া রাজস্ব আদায় ও প্রয়োজনীয় আইনগত পদক্ষেপসমূহ স্ব স্ব কাস্টম হাউস কর্তৃক পরিচালিত হবে। শুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর নির্ধারিত প্রতিষ্ঠানের পাশাপাশি তাদের নিজস্ব রিস্ক ম্যানেজমেন্ট এর আওতায় নির্বাচিত প্রতিষ্ঠানের সিস্টেম বেইজড PCA এবং পণ্যচালানের ক্ষেত্রে ট্র্যানজ্যাকশন বেইজড অডিট সম্পাদন করিতে পারিবেন। কাস্টম হাউস/কাস্টমস স্টেশন, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর নির্ধারিত পণ্যচালানের পাশাপাশি তাদের নিজস্ব রিস্ক ম্যানেজমেন্ট এর আওতায় নির্বাচিত পণ্য চালানের ট্র্যানজ্যাকশন বেইজড PCA সম্পাদন করবেন।",
+      "entity_concepts": {
+        "Customs Risk Management Commissionerate": [
+          "This office is responsible for selecting individuals and entities for Post Clearance Audit using both automated risk management software and specific intelligence or complaints.",
+          "It acts as the central hub for determining audit indicators and forwarding selected cases to the appropriate customs authority for further audit processing."
+        ],
+        "Post Clearance Audit": [
+          "Post Clearance Audit is categorized into system-based audits and transaction-based audits to ensure compliance after the clearance of goods.",
+          "The audit process involves risk-based selection of entities and specific consignments for subsequent examination and revenue verification."
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "This authority is tasked with conducting all system-based audits and has the power to form audit committees that may include officers from various custom houses or the Customs Intelligence and Investigation Directorate.",
+          "Beyond cases referred by the Customs Risk Management Commissionerate, this office may initiate its own system-based and transaction-based audits based on independent risk assessments."
+        ],
+        "Customs House": [
+          "Custom Houses are responsible for the legal and administrative follow-up of system-based audits, including the determination of duties and taxes, issuance of show-cause notices, and recovery of outstanding revenue.",
+          "Each Custom House also performs transaction-based audit activities for selected consignments, either as designated by the Customs Risk Management Commissionerate or through its own internal risk management processes."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "Officers from this directorate may be included in audit committees to assist the Customs Valuation and Internal Audit Commissionerate in carrying out audit activities when necessary."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_696",
+      "entity_sub_entities": {
+        "Customs Risk Management Commissionerate": [
+          "individuals",
+          "entities",
+          "Post Clearance Audit",
+          "automated risk management software",
+          "intelligence",
+          "complaints",
+          "audit indicators",
+          "selected cases",
+          "customs authority"
+        ],
+        "Post Clearance Audit": [
+          "system-based audits",
+          "transaction-based audits",
+          "goods",
+          "entities",
+          "consignments",
+          "revenue"
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "system-based audits",
+          "audit committees",
+          "officers",
+          "custom houses",
+          "Customs Intelligence and Investigation Directorate",
+          "Customs Risk Management Commissionerate",
+          "transaction-based audits",
+          "risk assessments"
+        ],
+        "Customs House": [
+          "system-based audits",
+          "duties",
+          "taxes",
+          "show-cause notices",
+          "outstanding revenue",
+          "transaction-based audit activities",
+          "consignments",
+          "Customs Risk Management Commissionerate",
+          "internal risk management processes"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "officers",
+          "audit committees",
+          "Customs Valuation and Internal Audit Commissionerate",
+          "audit activities"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        23,
+        30,
+        60,
+        167,
+        219,
+        236,
+        273,
+        276,
+        365,
+        366,
+        405,
+        612,
+        726,
+        777,
+        1024,
+        1118,
+        1141,
+        1456,
+        1547,
+        2484,
+        3700,
+        4472,
+        5720,
+        5864,
+        9187,
+        12087
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লেখিত যন্ত্রাংশ বা উপকরণ পরিশিষ্ট-২ অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক এয়ারকন্ডিশনার উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন। গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন। দাখিলকৃত প্রতিবেদনের সহিত আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোনো অসংগতি থাকিলে তাহা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে। ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন যথার্থতা যাচাই সাপেক্ষে পুনঃশুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে;",
+      "entity_concepts": {
+        "Verification Committee": [
+          "The Commissioner of the relevant VAT Commissionerate is required to form a committee consisting of a Joint Commissioner and a Divisional Officer to verify whether imported parts or materials are being used according to the approved input-output coefficient for manufacturing air conditioners.",
+          "The committee must conduct physical inspections every six months and submit reports to the Commissioner regarding their findings."
+        ],
+        "Customs House": [
+          "Upon receiving a report from the VAT Commissionerate, the Customs House or Customs Station must evaluate the findings to determine if any discrepancies exist regarding the use of imported goods.",
+          "If discrepancies are identified, the Customs House or Customs Station is responsible for initiating necessary reassessment actions for the imported products."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The VAT Commissionerate is responsible for supervising the inspection process and submitting reports to the Customs authorities regarding the utilization of imported inputs by manufacturers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2588",
+      "entity_sub_entities": {
+        "Verification Committee": [
+          "Commissioner",
+          "Joint Commissioner",
+          "Divisional Officer",
+          "imported parts",
+          "materials",
+          "input-output coefficient",
+          "air conditioners",
+          "physical inspections",
+          "reports"
+        ],
+        "Customs House": [
+          "VAT Commissionerate",
+          "Customs Station",
+          "imported goods",
+          "imported products"
+        ],
+        "Value Added Tax Commissionerate": [
+          "inspection process",
+          "reports",
+          "Customs authorities",
+          "imported inputs",
+          "manufacturers"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        25,
+        45,
+        57,
+        60,
+        64,
+        137,
+        149,
+        199,
+        229,
+        262,
+        274,
+        296,
+        308,
+        370,
+        717,
+        938,
+        1130,
+        1682,
+        9111
+      ],
+      "source_file": "customs_sros_OCR/20240606_167-AIN_2024_19_Customs/20240606_167-AIN_2024_19_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20240606_169-AIN_2024_21_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। বিগত বৎসরের উৎপাদন, উৎপাদন ক্ষমতা অনুযায়ী আমদানি, বৎসরের উৎপাদন পরিকল্পনা, ইত্যাদি বিবেচনাপূর্বক TABLE-2 এবং TABLE-3 এ উল্লিখিত উপকরণের বাৎসরিক পরিমাণ প্রাক্কলন করিয়া প্রত্যেক বৎসরের জানুয়ারি মাসের মধ্যেই একটি হিসাবপত্র আমদানি সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশন এর কমিশনার এবং সংশ্লিষ্ট কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট এর কমিশনারের নিকট দাখিল করিতে হইবে; কাস্টম হাউস বা কাস্টমস স্টেশনের কমিশনার দাখিলকৃত হিসাবের ভিত্তিতে আমদানিকৃত উপকরণ খালাস দিবেন এবং কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট প্রতি ৬ (ছয়) মাস পরপর উক্ত প্রতিষ্ঠানের আমদানিকৃত উপকরণ সংশ্লিষ্ট প্রতিষ্ঠানের পণ্য উৎপাদনে ব্যবহার করা হইয়াছে কিনা তা সরেজমিন নিরীক্ষা করিবেন।",
+      "entity_concepts": {
+        "TABLE-2": [
+          "This table provides the specified categories and annual quantity limits for imported inputs required for production planning. The annual amount of inputs must be estimated based on previous year's production and production capacity as referenced in these tables."
+        ],
+        "TABLE-3": [
+          "This table serves as a reference for estimating the annual quantity of inputs required by a manufacturing entity. The estimates derived from this table must be submitted annually by the start of the calendar year to the relevant customs and VAT authorities."
+        ],
+        "Customs House": [
+          "The Commissioner of the respective Customs House or Customs Station is responsible for receiving the annual production and import input estimates from the entity. Based on these verified estimates, the Commissioner facilitates the clearance of the imported inputs."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "The Commissioner of the Customs, Excise and VAT Commissionerate must receive the annual input estimate reports. Furthermore, the office is mandated to conduct on-site audits every six months to verify that the imported inputs were utilized in the production of the entity's goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2598",
+      "entity_sub_entities": {
+        "TABLE-2": [
+          "categories",
+          "annual quantity limits",
+          "imported inputs",
+          "production planning",
+          "annual amount of inputs",
+          "previous year's production",
+          "production capacity"
+        ],
+        "TABLE-3": [
+          "annual quantity of inputs",
+          "manufacturing entity",
+          "annual input estimates",
+          "customs authorities",
+          "VAT authorities"
+        ],
+        "Customs House": [
+          "Commissioner",
+          "Customs Station",
+          "annual production estimates",
+          "import input estimates",
+          "imported inputs"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "Commissioner",
+          "annual input estimate reports",
+          "on-site audits",
+          "imported inputs",
+          "entity's goods"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        45,
+        60,
+        64,
+        88,
+        133,
+        212,
+        229,
+        269,
+        1128,
+        1259,
+        1346,
+        1501,
+        3251,
+        3318,
+        5520,
+        5526,
+        7755,
+        8848,
+        10270
+      ],
+      "source_file": "customs_sros_OCR/20240606_169-AIN_2024_21_Customs/20240606_169-AIN_2024_21_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লিখিত যন্ত্রাংশ বা উপকরণ পরিশিষ্ট-২ অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক রেফ্রিজারেটর ও ফ্রিজার বা উহার যন্ত্রাংশ উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন। গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন। দাখিলকৃত প্রতিবেদনের সহিত আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোনো অসঙ্গতি থাকিলে তাহারা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে। ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন হয়তো যাচাই সাপেক্ষে পুনঃশুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে;",
+      "entity_concepts": {
+        "Verification Committee": [
+          "The Commissioner of the concerned Value Added Tax Commissionerate shall form a committee consisting of a Joint Commissioner and a divisional officer.",
+          "The committee's purpose is to verify whether the imported parts or materials are being used in the production of refrigerators and freezers in accordance with the authorized input-output coefficient."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The Commissioner of the Value Added Tax Commissionerate receives bi-annual field inspection reports from the verification committee regarding the utilization of imported goods."
+        ],
+        "Customs House": [
+          "If inspection reports reveal discrepancies in the usage of imported goods, the Customs House must be notified accordingly.",
+          "The Customs House is responsible for reviewing such reports and, if necessary, initiating reassessment proceedings for the imported items."
+        ],
+        "Customs Station": [
+          "Similar to a Customs House, a Customs Station acts upon notifications of usage discrepancies to perform verification and potentially undertake necessary reassessment activities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2669",
+      "entity_sub_entities": {
+        "Verification Committee": [
+          "Commissioner",
+          "Joint Commissioner",
+          "divisional officer",
+          "imported parts",
+          "materials",
+          "refrigerators",
+          "freezers",
+          "authorized input-output coefficient"
+        ],
+        "Value Added Tax Commissionerate": [
+          "Commissioner",
+          "bi-annual field inspection reports",
+          "imported goods"
+        ],
+        "Customs House": [
+          "inspection reports",
+          "imported goods",
+          "imported items"
+        ],
+        "Customs Station": [
+          "usage discrepancies",
+          "reassessment activities"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        25,
+        57,
+        60,
+        64,
+        199,
+        262,
+        369,
+        370,
+        413,
+        556,
+        938,
+        1071,
+        1130,
+        1333,
+        5959,
+        11225,
+        13124
+      ],
+      "source_file": "customs_sros_OCR/20240606_194-AIN_2024_66_Customs/20240606_194-AIN_2024_66_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_6",
+      "resolved_text": "৬। কোনো আমদানিকারক এই প্রজ্ঞাপনে প্রদত্ত রেয়াতী সুবিধার অপব্যবহার করিয়াছেন বা করিতেছেন মর্মে অনুচ্ছেদ ৫ এ উল্লিখিত কর্তৃপক্ষ হইতে সুনির্দিষ্ট প্রামাণিক তথ্য সংবলিত অভিযোগ পাওয়া গেলে সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশন কর্তৃপক্ষ উক্ত অভিযোগের নিষ্পত্তি না হওয়া পর্যন্ত উক্ত আমদানিকারকগণকে এই প্রজ্ঞাপনের অধীন রেয়াতী সুবিধা প্রদান স্থগিত রাখিবে।",
+      "entity_concepts": {
+        "Customs Authority": [
+          "The customs authority is empowered to receive and act upon evidence-based complaints concerning the misuse of duty concessions granted under this order.",
+          "Upon receiving such information, the authority is responsible for ensuring that the importer's concessionary privileges are suspended until the allegations are formally resolved."
+        ],
+        "Importer": [
+          "Importers are subject to the suspension of duty concessionary benefits if they are found to be misusing the facilities provided under this notification.",
+          "The suspension remains in effect for the importer until the pending complaints regarding misuse are settled by the relevant customs house or station."
+        ],
+        "Customs Duty Concession": [
+          "The duty concessionary benefits provided by this order are subject to suspension if there is verified evidence that an importer has misused them.",
+          "The grant of these benefits remains frozen for the accused importer until the underlying complaint is fully investigated and disposed of by the customs authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3004",
+      "entity_sub_entities": {
+        "Customs Authority": [
+          "customs authority",
+          "evidence-based complaints",
+          "duty concessions",
+          "importer's concessionary privileges",
+          "customs house",
+          "station"
+        ],
+        "Importer": [
+          "importers",
+          "duty concessionary benefits",
+          "facilities",
+          "notification",
+          "complaints",
+          "customs house",
+          "station"
+        ],
+        "Customs Duty Concession": [
+          "duty concessionary benefits",
+          "order",
+          "complaint",
+          "customs authorities"
+        ]
+      },
+      "clause_clusters": [
+        20,
+        23,
+        39,
+        45,
+        53,
+        60,
+        79,
+        189,
+        435,
+        848,
+        1024,
+        1034,
+        3643,
+        3869,
+        7828,
+        8940
+      ],
+      "source_file": "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

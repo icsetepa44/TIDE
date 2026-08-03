@@ -1,0 +1,182 @@
+{
+  "thread_id": "cluster_00091_t0",
+  "cluster_id": 91,
+  "cluster_label": "Tax Identification Number",
+  "title": "Standardization of TIN in Regulatory Compliance",
+  "source_num_member_objects": 8,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the role of the Tax Identification Number (TIN) evolved in the context of customs and regulatory compliance from 2016 to 2024?",
+      "answer": "The TIN evolved from a basic documentation requirement for customs agent licensing in 2016 to a primary identifier for system-based audits by 2023. By 2024, the requirement expanded to include specific compliance for foreign directors under the Income Tax Act 2023 and the mandatory submission of 'updated' TINs in formal corporate profile affidavits.",
+      "clause_text_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What does the shift toward requiring an 'updated' TIN in formal affidavits suggest about the regulatory approach to tax compliance?",
+      "answer": "The transition from static document submission to the mandatory reporting of 'updated' TINs in formal affidavits, as seen in the 2024 directives, reflects a move toward more rigorous, system-based audit and verification processes. This shift ensures that regulatory authorities maintain current and accurate data for oversight and compliance monitoring.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the TIN considered a critical component for the National Board of Revenue's system-based audit strategy?",
+      "answer": "According to the 2023 System-Based Audit Directive, the TIN serves as the primary identifier used by audit teams to retrieve and process transaction records. This allows authorities to conduct structured data analysis and build detailed business profiles to inform their audit strategy.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the scope of TIN usage change regarding the oversight of industrial facilities between 2021 and 2024?",
+      "answer": "In 2021, the TIN was integrated into factory inspection reports for concessional import benefits to verify production eligibility. By 2024, the scope further broadened to include mandatory TIN submission for foreign directors of institutions, regardless of their residency status, as part of broader tax compliance measures.",
+      "clause_text_ids": [
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the relationship between the Income Tax Act 2023 and the regulatory requirements for foreign directors in customs-related licensing?",
+      "answer": "The Income Tax Act 2023 provides the legal basis for tax compliance and identification for foreign directors. As established in the 2024 license application processes, these directors must submit their TIN to satisfy regulatory obligations, regardless of whether they are physically present in the country.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the requirement for centralized registration affect the reporting of identification numbers in corporate affidavits?",
+      "answer": "Under the 2024 and 2025 regulatory requirements for corporate profile affidavits, entities with central registration must provide their updated TIN and Business Identification Number (BIN). Additionally, they are required to attach a separate list containing the addresses, email addresses, and phone numbers for every branch office associated with these identifiers.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_45",
+        "20250217_2024_2024-06-06_clause_79"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs agent obtained their initial license in 2016 by submitting a standard e-TIN certificate. In 2024, the agent is now preparing a firm profile summary affidavit to maintain their regulatory standing.",
+      "question": "How has the requirement for the Tax Identification Number (TIN) changed for this agent between their initial 2016 licensing and the 2024 affidavit process?",
+      "answer": "The requirement evolved from a simple submission of an e-TIN certificate for initial licensing in 2016 to a mandatory submission of an 'updated' TIN as part of a formal firm profile summary affidavit in 2024.",
+      "clauses_involved": [
+        "2016-06-05",
+        "2024-06-13"
+      ],
+      "clause_text_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_5",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial entity established in 2021 was required to provide their TIN during the factory inspection process for concessional import benefits. By late 2023, the entity is undergoing a system-based audit.",
+      "question": "How did the function of the TIN change for this entity between the 2021 factory inspection and the 2023 audit directive?",
+      "answer": "In 2021, the TIN was submitted as part of mandatory documentation for factory assessment and inspection. By 2023, it was established as a primary identifier used by audit teams to retrieve and process transaction records for the entity.",
+      "clauses_involved": [
+        "2021-06-03",
+        "2023-09-27"
+      ],
+      "clause_text_ids": [
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-06-03",
+      "relative_offset": "two years later",
+      "question": "Two years after the integration of TIN into factory inspection reports for concessional imports, what major directive was issued regarding the role of TIN in regulatory audits?",
+      "answer": "On 2023-09-27, the System-Based Audit Directive was issued, establishing the TIN as a primary identifier for system-based audit and transaction retrieval.",
+      "clause_text_ids": [
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one week later",
+      "question": "One week after the Income Tax Act 2023 compliance mandate for foreign directors, what specific requirement was introduced for formal firm profile affidavits?",
+      "answer": "On 2024-06-13, the Corporate Profile Affidavit was introduced, which mandated the requirement of an 'updated' TIN in formal firm profile affidavits.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Tax Identification Number is required for foreign directors regardless of their residency status.",
+        "The Tax Identification Number is integrated into factory inspection reports for concessional import benefits.",
+        "The Tax Identification Number is established as a primary identifier for system-based audit and transaction retrieval.",
+        "The Tax Identification Number is mandated for submission as part of customs agent licensing.",
+        "The requirement for an updated Tax Identification Number is formalized within firm profile affidavits."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Tax Identification Number is mandated for submission as part of customs agent licensing.",
+          "date": "2016-06-05"
+        },
+        {
+          "event": "The Tax Identification Number is integrated into factory inspection reports for concessional import benefits.",
+          "date": "2021-06-03"
+        },
+        {
+          "event": "The Tax Identification Number is established as a primary identifier for system-based audit and transaction retrieval.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "The Tax Identification Number is required for foreign directors regardless of their residency status.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The requirement for an updated Tax Identification Number is formalized within firm profile affidavits.",
+          "date": "2024-06-13"
+        }
+      ],
+      "clause_text_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_5",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_16",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_45"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+        "customs_sros_OCR/20210603_125-AIN_2021_14_Customs/20210603_125-AIN_2021_14_Customs_output.json",
+        "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json",
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00091_t0__standardization-of-tin-in-regulatory-compliance.json"
+    }
+  ]
+}

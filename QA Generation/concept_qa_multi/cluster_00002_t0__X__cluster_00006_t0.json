@@ -1,0 +1,62 @@
+{
+  "group_id": "cluster_00002_t0__X__cluster_00006_t0",
+  "entities": [
+    "Customs Act 1969",
+    "Government"
+  ],
+  "cluster_ids": [
+    2,
+    6
+  ],
+  "thread_ids": [
+    "cluster_00002_t0",
+    "cluster_00006_t0"
+  ],
+  "num_shared_clauses": 35,
+  "num_qa_pairs": 3,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under what specific legislative authority does the Government exercise its power to cancel or modify customs duty notifications within the framework of the Customs Act 1969?",
+      "answer": "The Government exercises its authority to cancel, modify, or amend customs duty notifications by invoking powers granted under section 18(2) and section 19(1) of the Customs Act 1969, typically in the public interest and in consultation with the National Board of Revenue, as evidenced in clauses [0], [1], [2], and [6].",
+      "entities_involved": [
+        "Customs Act 1969",
+        "Government"
+      ],
+      "clause_text_ids": [
+        "20100610_170-AIN_2010_2288-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_171-AIN_2010_2289-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_173-AIN_2010_2291-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Government integrate the Customs Act 1969 and the Value Added Tax Act 1991 when issuing notifications to amend previous customs duty exemptions?",
+      "answer": "The Government uses the combined authority granted under section 19(1) of the Customs Act 1969 and section 14(1) of the Value Added Tax Act 1991 to issue or amend notifications regarding customs duty exemptions and related fiscal adjustments, as demonstrated in clauses [3], [4], [5], and [10].",
+      "entities_involved": [
+        "Customs Act 1969",
+        "Government"
+      ],
+      "clause_text_ids": [
+        "20100610_177-AIN_2010_2295-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_180-AIN_2010_2298-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_171-AIN_2011_2358-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the role of the Government in managing the sunset clauses or expiry dates of customs notifications issued under the Customs Act 1969?",
+      "answer": "The Government acts to extend or update the validity period of existing notifications (such as amending the expiry date mentioned in condition 'kha') by exercising its powers under section 19(1) of the Customs Act 1969, as seen in the periodic revisions of notifications like SRO 325-AIN/2000, referenced in clauses [7] and [9].",
+      "entities_involved": [
+        "Customs Act 1969",
+        "Government"
+      ],
+      "clause_text_ids": [
+        "20100610_189-AIN_2010_2307-Custom_১০ জুন, ২০১০_clause_1",
+        "20110609_166-AIN_2011_2353-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    }
+  ]
+}

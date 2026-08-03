@@ -1,0 +1,68 @@
+{
+  "group_id": "cluster_00066_t0__X__cluster_00167_t0",
+  "entities": [
+    "Customs Computerised Entry Processing System",
+    "Customs Risk Management Commissionerate"
+  ],
+  "cluster_ids": [
+    66,
+    167
+  ],
+  "thread_ids": [
+    "cluster_00066_t0",
+    "cluster_00167_t0"
+  ],
+  "num_shared_clauses": 8,
+  "num_qa_pairs": 4,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the Customs Risk Management Commissionerate and the Customs Computerised Entry Processing System interact when an irregularity or tax evasion is detected by customs authorities?",
+      "answer": "Upon becoming aware of irregularities or tax evasion, the Customs Risk Management Commissionerate or the Customs Automation Branch must immediately suspend Green Lane facilities centrally within the Automated Risk Management System or the Customs Computerised Entry Processing System for all customs stations.",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "Customs Risk Management Commissionerate"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_100"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What roles do the Customs Risk Management Commissionerate and the Customs Computerised Entry Processing System play when a recognition certificate is suspended, cancelled, or downgraded?",
+      "answer": "When a certificate is suspended, cancelled, or downgraded, the Customs Risk Management Commissionerate (in coordination with relevant customs stations, the Customs Automation Branch, or the Systems Manager) is responsible for making the necessary changes within the Customs Computerised Entry Processing System to reflect the updated status and adjust the entity's applicable benefits accordingly.",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "Customs Risk Management Commissionerate"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_142",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_143"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Customs Risk Management Commissionerate utilize the Customs Computerised Entry Processing System for Green Lane clearance?",
+      "answer": "According to the rules, the Customs Risk Management Commissionerate applies risk management procedures to enable automatic duty assessment and clearance (Green Lane) within the Customs Computerised Entry Processing System based on the declarations of recognized importers or exporters.",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "Customs Risk Management Commissionerate"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_93"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How is data collection and analysis managed between the Customs Computerised Entry Processing System and the Customs Risk Management Commissionerate?",
+      "answer": "Relevant data for risk management is collected from the Customs Computerised Entry Processing System by the Customs Risk Management Commissionerate, which then analyzes this data—along with other sources—to use as determinants for risk management.",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "Customs Risk Management Commissionerate"
+      ],
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "cluster_id": 562,
+  "cluster_label": "Second Schedule",
+  "thread_index": 1,
+  "thread_id": "cluster_00562_t1",
+  "title": "Status of Second Schedule",
+  "summary": "This thread tracks the formal status of the Second Schedule, noting its eventual repeal in certain contexts.",
+  "evolution": {
+    "validity": "Transitioned from an active legal instrument to a repealed status."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Metadata",
+      "change": "Declaration of the schedule as repealed.",
+      "clause_ids": [
+        "metadata_24"
+      ]
+    }
+  ],
+  "num_member_objects": 1,
+  "member_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিলসমূহ",
+      "text_id": "metadata_24",
+      "resolved_text": "প্রথম তফসিল\n( বাংলাদেশ কাস্টমস ট্যারিফ )\n\nদ্বিতীয় তফসিল\n(বিলুপ্ত)\n\nতৃতীয় তফসিল",
+      "entity_concepts": {
+        "First Schedule": [
+          "This schedule contains the Bangladesh Customs Tariff, which serves as the foundational classification for goods under the Customs Act."
+        ],
+        "Second Schedule": [
+          "This schedule has been repealed and is no longer in effect."
+        ],
+        "Third Schedule": [
+          "This schedule forms part of the administrative structure of the Customs Act."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The Bangladesh Customs Tariff is established under the First Schedule of the Customs Act."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_26",
+      "entity_sub_entities": {
+        "First Schedule": [
+          "Bangladesh Customs Tariff",
+          "Customs Act"
+        ],
+        "Second Schedule": [],
+        "Third Schedule": [
+          "Customs Act"
+        ],
+        "Bangladesh Customs Tariff": [
+          "First Schedule",
+          "Customs Act"
+        ]
+      },
+      "clause_clusters": [
+        37,
+        38,
+        98,
+        128,
+        562
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

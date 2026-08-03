@@ -1,0 +1,186 @@
+{
+  "thread_id": "cluster_00505_t0",
+  "cluster_id": 505,
+  "cluster_label": "statutory order",
+  "title": "Regulatory and Tariff Adjustment Mechanism via Statutory Orders",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 5,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 146-AIN/2013, issued on June 6, 2013, established the legal framework for imposing Regulatory Duty (RD) on specific H.S. Codes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "SRO 146-AIN/2013",
+      "correct_fact": "SRO 157-AIN/2017",
+      "answer": "The statement is inaccurate. SRO 146-AIN/2013 was used to set tariff values for customs duty assessment, whereas the application of SRO for the imposition of Regulatory Duty (RD) on specific H.S. Codes was introduced by SRO 157-AIN/2017 on June 1, 2017.",
+      "clause_text_ids": [
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1",
+        "20170601_157-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 107-AIN/2022, issued on May 23, 2022, refined Regulatory Duty rates by replacing tables within existing SROs.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 107-AIN/2022, issued on May 23, 2022, utilized Section 18(2) of the Customs Act to refine RD rates through the targeted replacement of tables within existing SROs.",
+      "clause_text_ids": [
+        "20220523_107-_2022_63_২৩ মে, ২০২২_clause_1",
+        "20220609_137-AIN_2022_85_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 140-AIN/2015 expanded the scope of SROs to include amendments to existing tax exemption notifications under the authority of Section 25(3) of the Customs Act.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Section 25(3)",
+      "correct_fact": "Section 19(1) of the Customs Act and Section 14(1) of the Value Added Tax Act, 1991",
+      "answer": "The statement is inaccurate. While SRO 140-AIN/2015 did expand the scope to include amendments to existing tax exemptions, the legal basis was Section 19(1) of the Customs Act read with Section 14(1) of the Value Added Tax Act, 1991, not Section 25(3).",
+      "clause_text_ids": [
+        "20150604_140-AIN_2015_20-Customs_৪ জুন, ২০১৫_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 137-AIN/2022 was issued on June 9, 2022, to amend previous exemption notifications by modifying specific H.S. Code entries.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 137-AIN/2022, issued on June 9, 2022, utilized Section 19(1) of the Customs Act and Section 126(1) of the Value Added Tax and Supplementary Duty Act 2012 to amend previous notifications by modifying specific H.S. Code entries.",
+      "clause_text_ids": [
+        "20220523_107-_2022_63_২৩ মে, ২০২২_clause_1",
+        "20220609_137-AIN_2022_85_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The initial use of an SRO to set tariff values for customs duty assessment occurred on June 6, 2013, via SRO 146-AIN/2013.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 146-AIN/2013, issued on June 6, 2013, established tariff values for customs duty assessment under the authority of Section 25(3) of the Customs Act 1969.",
+      "clause_text_ids": [
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2013, the government utilized SRO 146-AIN/2013 to impose Regulatory Duty (RD) on specific H.S. Codes, marking the first time the Customs Act 1969 was used for dynamic rate adjustments on commodities like sandstone and fly ash.",
+      "question": "Why is the statement regarding the purpose of SRO 146-AIN/2013 factually incorrect based on the provided history?",
+      "conflict": "The context misattributes the application of Regulatory Duty (RD) to the 2013 instrument, whereas RD application was introduced later.",
+      "answer": "SRO 146-AIN/2013 (dated 2013-06-06) was used for setting tariff values and minimum valuation thresholds for customs duty assessment, not for Regulatory Duty. The application of Regulatory Duty (RD) on specific H.S. Codes was first established by SRO 157-AIN/2017 on 2017-06-01.",
+      "clause_text_ids": [
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1",
+        "20170601_157-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been operating under the regulatory framework of the Customs Act since 2013. In 2013, they were subject to tariff value assessments under Section 25(3). By 2017, the government issued a new order applying Regulatory Duty (RD) under Section 18(2), and by 2022, they issued further orders to refine those specific RD rates by replacing tables within existing notifications.",
+      "question": "How did the legal mechanism for adjusting the importer's duty obligations evolve from 2013 to 2022 regarding the scope of the Statutory Regulatory Orders (SROs)?",
+      "answer": "The mechanism evolved from the initial use of SROs to set static tariff values under Section 25(3) in 2013, to the imposition of specific Regulatory Duty rates under Section 18(2) by 2017, and finally to the dynamic refinement of those rates through the targeted replacement of tables within existing SROs by 2022.",
+      "clauses_involved": [
+        "2013-06-06 | SRO 146-AIN/2013",
+        "2017-06-01 | SRO 157-AIN/2017",
+        "2022-05-23 | SRO 107-AIN/2022"
+      ],
+      "clause_text_ids": [
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1",
+        "20170601_157-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1",
+        "20220523_107-_2022_63_২৩ মে, ২০২২_clause_1",
+        "20220609_137-AIN_2022_85_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-06-06",
+      "relative_offset": "two years later",
+      "question": "In 2013-06-06, SRO 146-AIN/2013 was issued to set tariff values. Two years later, how did the scope of SROs evolve regarding tax exemption notifications?",
+      "answer": "Two years later, in 2015-06-04, SRO 140-AIN/2015 expanded the scope of SROs to include amendments to existing tax exemption notifications, utilizing the combined authority of the Customs Act section 19(1) and the Value Added Tax Act, 1991.",
+      "clause_text_ids": [
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1",
+        "20150604_140-AIN_2015_20-Customs_৪ জুন, ২০১৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2015-06-04",
+      "relative_offset": "two years later",
+      "question": "Following the issuance of SRO 140-AIN/2015, what new application for SROs was introduced two years later?",
+      "answer": "Two years later, in 2017-06-01, SRO 157-AIN/2017 was issued, which applied the SRO mechanism for the imposition of Regulatory Duty (RD) on specific H.S. Codes under Section 18(2) of the Customs Act.",
+      "clause_text_ids": [
+        "20150604_140-AIN_2015_20-Customs_৪ জুন, ২০১৫_clause_1",
+        "20170601_157-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "five years later",
+      "question": "Five years after the introduction of Regulatory Duty imposition via SRO 157-AIN/2017, how was the mechanism for adjusting these rates refined?",
+      "answer": "Five years later, in 2022-05-23, SRO 107-AIN/2022 refined Regulatory Duty rates by replacing specific tables within existing SROs with new tables containing updated rates.",
+      "clause_text_ids": [
+        "20170601_157-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1",
+        "20220523_107-_2022_63_২৩ মে, ২০২২_clause_1",
+        "20220609_137-AIN_2022_85_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government uses a notification to impose Regulatory Duty on specific H.S. Codes listed in the tariff schedule.",
+        "The government utilizes a notification to set tariff values for the purpose of levying customs duty on imported goods.",
+        "The scope of regulatory notifications expands to include amendments to existing tax exemption notifications.",
+        "Regulatory Duty rates are refined by replacing specific tables within existing notifications."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government utilizes a notification to set tariff values for the purpose of levying customs duty on imported goods.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The scope of regulatory notifications expands to include amendments to existing tax exemption notifications.",
+          "date": "2015-06-04"
+        },
+        {
+          "event": "The government uses a notification to impose Regulatory Duty on specific H.S. Codes listed in the tariff schedule.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "Regulatory Duty rates are refined by replacing specific tables within existing notifications.",
+          "date": "2022-05-23"
+        }
+      ],
+      "clause_text_ids": [
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1",
+        "20150604_140-AIN_2015_20-Customs_৪ জুন, ২০১৫_clause_1",
+        "20170601_157-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1",
+        "20220523_107-_2022_63_২৩ মে, ২০২২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130606_146-AIN_2013_2433-Customs/20130606_146-AIN_2013_2433-Customs_output.json",
+        "customs_sros_OCR/20150604_140-AIN_2015_20-Customs/20150604_140-AIN_2015_20-Customs_output.json",
+        "customs_sros_OCR/20170601_157-AIN_/20170601_157-AIN__output.json",
+        "customs_sros_OCR/20220523_107-_2022_63/20220523_107-_2022_63_output.json"
+      ],
+      "thread_source_file": "cluster_00505_t0__regulatory-and-tariff-adjustment-mechanism-via-sta.json"
+    }
+  ]
+}

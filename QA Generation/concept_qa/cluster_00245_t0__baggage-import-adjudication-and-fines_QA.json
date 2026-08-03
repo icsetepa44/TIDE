@@ -1,0 +1,183 @@
+{
+  "thread_id": "cluster_00245_t0",
+  "cluster_id": 245,
+  "cluster_label": "fines",
+  "title": "Baggage Import Adjudication and Fines",
+  "source_num_member_objects": 7,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the explicit exclusion for controlled or prohibited goods first introduced into the baggage adjudication process?",
+      "options": [
+        "2010-06-10",
+        "2016-04-08",
+        "2023-06-01",
+        "2025-06-03"
+      ],
+      "answer_index": 1,
+      "answer": "2016-04-08",
+      "explanation": "The Baggage Rules Amendment dated 2016-04-08 added the explicit exclusion for goods controlled or prohibited under import policy orders to the adjudication clause.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_10",
+        "20250603_._._._০২ জুন, ২০২৫_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument refined the terminology of the clause to specifically refer to 'baggage facility excess'?",
+      "options": [
+        "2010-06-10 Baggage Rules",
+        "2016-06-02 Customs output",
+        "2024-06-06 SRO-203",
+        "2025-06-03 Baggage Rules Amendment"
+      ],
+      "answer_index": 3,
+      "answer": "2025-06-03 Baggage Rules Amendment",
+      "explanation": "The 2025-06-03 amendment updated the title and phrasing of the clause to clarify the scope of 'baggage facility excess' (ব্যাগেজ সুবিধার অতিরিক্ত পরিমাণ পণ্য).",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_10",
+        "20250603_._._._০২ জুন, ২০২৫_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the status of controlled or prohibited goods regarding the adjudication process in the 2010-06-10 Baggage Rules?",
+      "options": [
+        "They were explicitly excluded from the process.",
+        "They were allowed only with a higher fine.",
+        "The rules did not explicitly mention their exclusion from the process.",
+        "They were prohibited from being imported by passengers entirely."
+      ],
+      "answer_index": 2,
+      "answer": "The rules did not explicitly mention their exclusion from the process.",
+      "explanation": "The 2010-06-10 rules contained the initial provision for adjudication but did not include the explicit exclusion for controlled or prohibited goods, which was only added in the 2016-04-08 amendment.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "According to the 2025-06-03 amendment, what is a prerequisite for clearing baggage that exceeds standard allowances?",
+      "options": [
+        "Only the payment of fines.",
+        "Presentation of a clearance certificate from the Chief Controller of Imports and Exports and adjudication.",
+        "A simple declaration to the customs officer at the port.",
+        "Approval from the Ministry of Finance."
+      ],
+      "answer_index": 1,
+      "answer": "Presentation of a clearance certificate from the Chief Controller of Imports and Exports and adjudication.",
+      "explanation": "The 2025-06-03 amendment maintains that clearance is contingent upon the presentation of a clearance certificate from the Chief Controller of Imports and Exports and the completion of the adjudication process.",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger arrives in Bangladesh in 2015 with goods exceeding the permitted baggage schedules. They attempt to clear these goods through the formal adjudication process. Later, in 2017, another passenger attempts to clear goods that are explicitly prohibited under the Import Policy Order using the same adjudication mechanism.",
+      "question": "How did the legal eligibility for clearing excess baggage through adjudication change between the 2010 rule and the post-2016 amendments for these two passengers?",
+      "answer": "Under the 2010 rules, there was no explicit exclusion for prohibited goods, whereas, following the 2016 amendment, goods controlled or prohibited under the Import Policy Order were explicitly excluded from the adjudication and clearance process.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2016-04-08"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger is reviewing the baggage rules in 2024 to understand the process for clearing commercial quantities of goods. They notice the terminology used to describe the scenario. In 2025, the rules are updated again, specifically changing the title of the relevant clause.",
+      "question": "What is the primary difference in the titling of the clause governing excess baggage clearance between the 2024 and 2025 versions?",
+      "answer": "The 2024 version titled the clause 'Commercial Baggage Import' (বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানি), whereas the 2025 amendment refined the title to 'Baggage Facility Excess' (ব্যাগেজ সুবিধার অতিরিক্ত পরিমাণ পণ্য আমদানি) to clarify the scope.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_10",
+        "20250603_._._._০২ জুন, ২০২৫_clause_10"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "Six years later, what major restriction was added to the baggage import adjudication process established in 2010?",
+      "answer": "In the 2016-04-08 Baggage Rules Amendment, an explicit exclusion was added to the adjudication process, stating that goods controlled or prohibited under import policy orders or other laws could no longer be cleared through this mechanism.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "nine years later",
+      "question": "Nine years later, how did the terminology regarding the baggage import adjudication provision evolve?",
+      "answer": "In the 2025-06-03 Baggage Rules Amendment, the title of the clause was refined from a general reference to commercial quantities to 'Baggage facility excess' (ব্যাগেজ সুবিধার অতিরিক্ত পরিমাণ পণ্য আমদানির ক্ষেত্রে শুল্ক ও কর) to provide greater clarity on the scope of the provision.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20250603_._._._০২ জুন, ২০২৫_clause_10"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The provision for clearing excess baggage via adjudication and fines is introduced for passengers importing goods outside of specified schedules.",
+        "The legal provision is updated to specifically refer to 'baggage facility excess' in its title and refines the phrasing regarding the adjudication process.",
+        "An explicit exclusion is added to the adjudication process for goods that are controlled or prohibited under import policy orders or other laws."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The provision for clearing excess baggage via adjudication and fines is introduced for passengers importing goods outside of specified schedules.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "An explicit exclusion is added to the adjudication process for goods that are controlled or prohibited under import policy orders or other laws.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "The legal provision is updated to specifically refer to 'baggage facility excess' in its title and refines the phrasing regarding the adjudication process.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20250603_._._._০২ জুন, ২০২৫_clause_10"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00245_t0__baggage-import-adjudication-and-fines.json"
+    }
+  ]
+}

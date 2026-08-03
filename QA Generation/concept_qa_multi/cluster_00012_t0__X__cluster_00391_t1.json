@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00012_t0__X__cluster_00391_t1",
+  "entities": [
+    "raw materials",
+    "declaration form"
+  ],
+  "cluster_ids": [
+    12,
+    391
+  ],
+  "thread_ids": [
+    "cluster_00012_t0",
+    "cluster_00391_t1"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the declaration form facilitate the regulatory requirement for raw materials used in production, specifically regarding wastage and identification?",
+      "answer": "The declaration form requires manufacturers to provide detailed information on raw materials, including the product name, H.S. code for both the final product and the raw materials used, and the specific unit of wastage involved in the production process, as outlined in the standardized declaration format.",
+      "entities_involved": [
+        "raw materials",
+        "declaration form"
+      ],
+      "clause_text_ids": [
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under what specific conditions can ship or dredger manufacturing industries import raw materials duty-free, and how does this relate to the declaration of materials?",
+      "answer": "Under the Customs Act 2023, section 12, and the second schedule, warehouse-licensed ship or dredger building industries are permitted to import raw materials duty-free if the supply order is obtained through international tender and paid for in foreign currency, subject to the conditions specified in the declaration of materials required for production.",
+      "entities_involved": [
+        "raw materials",
+        "declaration form"
+      ],
+      "clause_text_ids": [
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12",
+        "metadata_2"
+      ]
+    }
+  ]
+}

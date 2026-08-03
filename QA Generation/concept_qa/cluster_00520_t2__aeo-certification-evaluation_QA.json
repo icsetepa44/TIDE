@@ -1,0 +1,85 @@
+{
+  "thread_id": "cluster_00520_t2",
+  "cluster_id": 520,
+  "cluster_label": "findings",
+  "title": "AEO Certification Evaluation",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 5,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the January 21, 2026 AEO Guidelines, the AEO Center is required to use a standardized template to report recommendations regarding AEO status applications.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "January 21, 2026",
+      "correct_fact": "January 21, 2025",
+      "answer": "The statement is inaccurate. The AEO Guidelines that formalized the reporting of evaluation findings were issued on January 21, 2025, not 2026.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the January 21, 2025 guidelines, the AEO Center must provide a clear justification if their final recommendation regarding an applicant differs from the initial assessment made by the evaluation team.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. Per the January 21, 2025 source, the center is required to document its recommendations and provide a clear justification if they diverge from the evaluation team's initial assessment.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Risk Management Committee reviews recommendations from the Director General of the Central Intelligence Unit after considering intelligence reports and risk assessments as per the 2025-01-21 guidelines.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The committee reviews the Director General's recommendations in light of intelligence and risk assessments, as established in the procedures documented on January 21, 2025.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The evaluation findings template allows the AEO Center to recommend either full recognition, denial, conditional temporary recognition, or the requirement for corrective actions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The template defined in the January 21, 2025 guidelines includes these specific statuses for applicant evaluation.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the January 21, 2025 guidelines, the committee notifies the relevant center of its findings using the reporting format specified in Appendix 4.6.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Appendix 4.6",
+      "correct_fact": "Appendix 4.7",
+      "answer": "The statement is inaccurate. While Appendix 4.6 relates to the center's recommendations, the committee notifies the center of its findings using the format in Appendix 4.7, as per the January 21, 2025 guidelines.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41"
+      ]
+    }
+  ]
+}

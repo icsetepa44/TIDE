@@ -1,0 +1,42 @@
+{
+  "group_id": "cluster_00010_t0__X__cluster_00054_t0",
+  "entities": [
+    "Customs Duty",
+    "parts"
+  ],
+  "cluster_ids": [
+    10,
+    54
+  ],
+  "thread_ids": [
+    "cluster_00010_t0",
+    "cluster_00054_t0"
+  ],
+  "num_shared_clauses": 16,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How have the legal instruments for providing Customs Duty exemptions on industrial parts and machinery evolved from the Customs Act, 1969 to the Customs Act, 2023?",
+      "answer": "The legal framework for Customs Duty exemptions on parts and machinery has transitioned from utilizing section 19 of the Customs Act, 1969 [0-7] to utilizing section 25(1) of the Customs Act, 2023 [8-11], often in conjunction with section 126(1) of the Value Added Tax and Supplementary Duty Act, 2012, to facilitate local production of specific goods.",
+      "entities_involved": [
+        "Customs Duty",
+        "parts"
+      ],
+      "clause_text_ids": [
+        "20100610_176-AIN_2010_2294-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_157-AIN_2011_2343-Customs_2011-06-09_clause_1",
+        "20120607_160-AIN_2012_2388-Customs_০৭ জুন, ২০১২_clause_1",
+        "20150604_145-AIN_2015_25-Customs_৪ জুন, ২০১৫_clause_1",
+        "20200611_126-AIN_2020_77_Customs_৩ জুন, ২০২০ খ্রিষ্টাব্দ_clause_1",
+        "20220609_118-AIN_2022_66_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_124-AIN_2022_72_Customs_১ জুন, ২০২২_clause_1",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_174-AIN_2024_26_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_182-AIN_2024_34_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    }
+  ]
+}

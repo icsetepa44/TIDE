@@ -1,0 +1,139 @@
+{
+  "thread_id": "cluster_00546_t0",
+  "cluster_id": 546,
+  "cluster_label": "bonds",
+  "title": "Transit and Transshipment Guarantee Framework",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the initial definition of an 'authorized person' for transit and transshipment operations in Bangladesh?",
+      "options": [
+        "The Customs Rules of 2025",
+        "The Customs Directive of 2023-04-25",
+        "The National Board of Revenue Order 1972",
+        "The Customs Act 1969 amendment of 2024"
+      ],
+      "answer_index": 1,
+      "answer": "The Customs Directive of 2023-04-25",
+      "explanation": "The 2023-04-25 Customs Directive defined 'authorized persons' as clearing and forwarding agents licensed to submit customs declarations, guarantees, or bonds.",
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_4",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What requirement for transit and transshipment financial security was introduced by the Customs Rules on 2025-05-18?",
+      "options": [
+        "A mandatory, unconditional bank guarantee from a scheduled bank",
+        "A simple letter of intent from the operator",
+        "A cash deposit equivalent to 50% of the customs duty",
+        "A requirement for insurance coverage only"
+      ],
+      "answer_index": 0,
+      "answer": "A mandatory, unconditional bank guarantee from a scheduled bank",
+      "explanation": "According to the 2025-05-18 Customs Rules, transit or transshipment shipments require an unconditional and continuous bank guarantee from a scheduled bank to mitigate revenue risk.",
+      "clause_text_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Regarding the timeline of transit policy, what was the status of 'customs bonds' as of the 2025-05-18 Customs Rules?",
+      "options": [
+        "They were abolished entirely in favor of cash payments.",
+        "They were recognized as valid forms of security alongside bank guarantees.",
+        "They were only permitted for domestic transit, not international.",
+        "They were replaced by personal undertakings."
+      ],
+      "answer_index": 1,
+      "answer": "They were recognized as valid forms of security alongside bank guarantees.",
+      "explanation": "The 2025-05-18 Customs Rules explicitly state that customs bonds, letters of guarantee, or undertakings remain valid forms of security, though the bank guarantee is the primary instrument.",
+      "clause_text_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "How did the definition of an 'authorized person' evolve between the 2023-04-25 Directive and the 2025-05-18 Rules?",
+      "options": [
+        "It was narrowed to only include port authorities.",
+        "It was expanded to include shipping agents and freight forwarders in addition to clearing and forwarding agents.",
+        "It was removed from the legal framework.",
+        "It was restricted to government-owned entities only."
+      ],
+      "answer_index": 1,
+      "answer": "It was expanded to include shipping agents and freight forwarders in addition to clearing and forwarding agents.",
+      "explanation": "The 2025-05-18 Customs Rules updated the definition of 'authorized person' to include shipping agents and freight forwarders, whereas the 2023-04-25 Directive focused primarily on clearing and forwarding agents.",
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_4",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2023-04-25 Customs Directive, transit operators are required to submit an unconditional and continuous bank guarantee from a scheduled bank for every shipment to mitigate revenue risk.",
+      "question": "Is the requirement for an unconditional bank guarantee as the primary security instrument a feature of the 2023 directive, or did it emerge later?",
+      "conflict": "The 2023 directive focused on defining 'authorized persons' and procedural requirements, whereas the mandatory requirement for unconditional bank guarantees was only formalized in the 2025-05-18 Customs Rules.",
+      "answer": "The requirement for an unconditional bank guarantee was not part of the 2023-04-25 Customs Directive. It was formalized later in the 2025-05-18 Customs Rules, which established this as the primary security instrument to mitigate revenue risk.",
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_4",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A logistics operator who was registered as an 'Authorized Person' under the 2023-04-25 Customs Directive intends to process a new transit shipment in June 2025. They are reviewing their financial security obligations to ensure compliance with the current regulatory framework.",
+      "question": "How has the requirement for financial security for their transit shipment changed compared to the rules established in the 2023 directive?",
+      "answer": "While the 2023 directive allowed for various customs bonds or letters of guarantee, the 2025 rules mandate an unconditional and continuous bank guarantee from a scheduled bank in Bangladesh as the primary requirement for every transit or transshipment shipment to mitigate revenue risks.",
+      "clauses_involved": [
+        "2023-04-25 | Customs Directive",
+        "2025-05-18 | Customs Rules"
+      ],
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_4",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-04-25",
+      "relative_offset": "two years later",
+      "question": "Starting from the 2023 Customs Directive that defined authorized persons, what major change occurred regarding security instruments for transit and transshipment two years later?",
+      "answer": "In the 2025-05-18 Customs Rules, the policy shifted to mandate an unconditional and continuous bank guarantee from a scheduled bank in Bangladesh for every transit or transshipment shipment, whereas the 2023 directive primarily focused on defining authorized persons and procedural requirements.",
+      "clause_text_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_4",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_5",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2"
+      ]
+    }
+  ]
+}

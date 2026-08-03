@@ -1,0 +1,203 @@
+{
+  "thread_id": "cluster_00810_t0",
+  "cluster_id": 810,
+  "cluster_label": "wastage",
+  "title": "Standardization of Input-Output Coefficient (Wastage) Approval Procedure",
+  "source_num_member_objects": 9,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The wastage reporting framework, established in 2017, was extended to include e-bike and battery manufacturing sectors on June 2, 2026.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 2, 2026",
+      "correct_fact": "June 2, 2025",
+      "answer": "The statement is inaccurate. According to the 2025-06-02 directive, the wastage reporting framework was extended to e-bike and battery manufacturing sectors on June 2, 2025, not 2026.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_6",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2022-07-17 directive, manufacturers of air conditioners, ATMs, and CCTV cameras are required to submit their input-output coefficient documentation to the Member (Customs Policy and ICT) of the National Board of Revenue.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "submit their input-output coefficient documentation to the Member (Customs Policy and ICT)",
+      "correct_fact": "submit their input-output coefficient documentation to the relevant VAT Commissioner",
+      "answer": "The statement is inaccurate. While the documentation is eventually forwarded to the Member (Customs Policy and ICT), the manufacturer is required to submit the documentation to the relevant VAT Commissioner for approval and counter-signature.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The initial establishment of the Appendix-2 format for reporting wastage in computer manufacturing occurred on June 1, 2017.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate based on the 2017-06-01 SRO/Directive.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In the 2019-05-30 directive, compressor manufacturers were required to submit the Input-Output Coefficient documentation in four copies to the VAT Commissioner.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "four copies",
+      "correct_fact": "three copies",
+      "answer": "The statement is inaccurate. The 2019-05-30 directive requires compressor manufacturers to submit the documentation in three (3) copies, not four.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2021-06-03 directive expanded the wastage reporting procedure to cover computer accessories and washing machine manufacturing.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate according to the directives dated 2021-06-03.",
+      "clause_text_ids": [
+        "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_4",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Manufacturers are required to attach a certified photocopy of the approved Appendix-2 to the Bill of Entry during the customs clearance process for every shipment of goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate and consistent with the procedures outlined in the directives from 2019 through 2025.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_4",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_6",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the 2017-06-01 directive, manufacturers of e-bikes and batteries were required to submit their Appendix-2 wastage declarations to the Member (Customs Policy and ICT) of the National Board of Revenue to initiate the standardized approval framework.",
+      "question": "Is the statement regarding the inclusion of e-bike and battery manufacturing in the 2017-06-01 framework correct, and who is the primary recipient for the initial submission of these declarations?",
+      "conflict": "The context misaligns the 2025-06-02 expansion (e-bikes/batteries) with the 2017-06-01 initial framework and incorrectly identifies the recipient of the initial submission.",
+      "answer": "No, the statement is incorrect. The wastage reporting framework for e-bike and battery manufacturing was only extended in the 2025-06-02 directives (src=20250602_193-AIN_2025_15_Customs_output and src=20250602_194-AIN_2025_16_Customs_output). Furthermore, according to these directives, the initial submission must be made to the Commissioner of the relevant VAT Commissionerate, not directly to the Member (Customs Policy) of the National Board of Revenue.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_6",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer began producing computer accessories in early 2021 and was required to submit their input-output coefficient (wastage) report in triplicate to the VAT Commissionerate. In 2025, the same manufacturer diversified their business to start producing e-bikes.",
+      "question": "Does the manufacturer need to adopt a new reporting format or change the submission authority to comply with the 2025 regulations for their new e-bike production line compared to their existing computer accessories operations?",
+      "answer": "No. The manufacturer continues to use the same 'Appendix-2' format and must submit the report in triplicate to the relevant VAT Commissionerate, consistent with the standardized framework established for previous sectors.",
+      "clauses_involved": [
+        "2021-06-03",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_4",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_3",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_6",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "two years later",
+      "question": "Starting from the initial establishment of the Appendix-2 format for computer manufacturing in 2017-06-01, what change occurred two years later regarding the wastage reporting procedure?",
+      "answer": "Two years later, on 2019-05-30, the wastage reporting procedure was formalized for compressor manufacturers, requiring them to submit information regarding material quantities and potential wastage in the Appendix-2 format to the VAT Commissioner before importing goods.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "two years later",
+      "question": "Following the 2019-05-30 formalization of the process for compressor manufacturers, what expansion to the wastage approval regime took place two years later?",
+      "answer": "Two years later, on 2021-06-03, the wastage reporting framework was expanded to include computer accessories and washing machine manufacturing, requiring these producers to submit the Appendix-2 declaration to the Commissioner of Customs.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_4",
+        "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_4",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-07-17",
+      "relative_offset": "three years later",
+      "question": "Considering the inclusion of air conditioners, ATMs, and CCTV cameras under the approval regime on 2022-07-17, what was the scope of the framework three years later?",
+      "answer": "Three years later, on 2025-06-02, the wastage reporting framework was extended to cover the e-bike and battery manufacturing sectors, requiring these manufacturers to submit input-output coefficient documentation in the Appendix-2 format to the relevant VAT Commissioner.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_4",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_6",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The wastage reporting framework is extended to include e-bike and battery manufacturing sectors.",
+        "The wastage approval procedure is formalized specifically for compressor manufacturers.",
+        "The wastage reporting requirement is introduced for computer manufacturing and assembly.",
+        "The standardized approval regime is expanded to include air conditioners, ATMs, and CCTV cameras."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The wastage reporting requirement is introduced for computer manufacturing and assembly.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The wastage approval procedure is formalized specifically for compressor manufacturers.",
+          "date": "2019-05-30"
+        },
+        {
+          "event": "The standardized approval regime is expanded to include air conditioners, ATMs, and CCTV cameras.",
+          "date": "2022-07-17"
+        },
+        {
+          "event": "The wastage reporting framework is extended to include e-bike and battery manufacturing sectors.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_4",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json",
+        "customs_sros_OCR/20190530_158-AIN_2019_27_Customs/20190530_158-AIN_2019_27_Customs_output.json",
+        "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+        "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00810_t0__standardization-of-input-output-coefficient-wastag.json"
+    }
+  ]
+}

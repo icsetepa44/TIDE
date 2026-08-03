@@ -1,0 +1,226 @@
+{
+  "thread_id": "cluster_00352_t0",
+  "cluster_id": 352,
+  "cluster_label": "Deputy Commissioner",
+  "title": "Customs Clearance Supervision and Verification Authority",
+  "source_num_member_objects": 13,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2016-06-02 SRO, the Deputy Commissioner was required to verify BIN authenticity through the NBR's centralized online portal.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2016-06-02 SRO",
+      "correct_fact": "2022-06-09 SRO",
+      "answer": "The statement is inaccurate. In 2016, verification was performed manually via phone, fax, or email with VAT offices. Digital verification of the BIN via NBR/VAT online systems was only introduced in the 2022-06-09 SRO.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2020-10-03 SRO, the responsibility for verification was shifted from the VAT area Deputy Commissioner/Assistant Commissioner to the VAT Divisional Officer.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 2020-10-03 SRO explicitly replaced the 'VAT area Deputy Commissioner or Assistant Commissioner' with the 'VAT Divisional Officer' for these verification duties.",
+      "clause_text_ids": [
+        "20201003_S.R.O_৩০ জুন, ২০২০_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-06-06 SRO established the requirement for the Deputy Commissioner to conduct 50% random checks on consignments.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "50%",
+      "correct_fact": "10%",
+      "answer": "The statement is inaccurate. The 2016-06-02 SRO established the requirement for 10% random checks, not 50%.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2025-06-02 SRO, the verification mandate was simplified to focus on general compliance with specified conditions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 2025-06-02 SRO simplified the verification mandate to focus on general compliance with specified conditions.",
+      "clause_text_ids": [
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2022-06-09 SRO introduced the use of the VAT online system to replace manual communication methods like phone and email for BIN verification.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 2022-06-09 SRO mandated the use of digital systems (NBR website, VAT online system) to avoid delays previously caused by manual communication.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-06-06 SRO removed the requirement for the Deputy Commissioner to approve customs clearance.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "removed the requirement",
+      "correct_fact": "maintained the requirement",
+      "answer": "The statement is inaccurate. The 2024-06-06 SRO continued to mandate that customs clearance must be approved at the level of the Deputy Commissioner or Assistant Commissioner.",
+      "clause_text_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer in 2016 is tasked with verifying a shipment's compliance. To avoid delays, they call the local VAT office. In 2024, a colleague handling a similar import needs to perform the same verification of the importer's BIN status.",
+      "question": "How has the method for the Deputy Commissioner to verify compliance and avoid customs delays changed from 2016 to 2024?",
+      "answer": "In 2016, the Deputy Commissioner verified information via manual communication methods like phone, fax, or email with VAT area officials. By 2024, the process shifted to digital verification using the customs computer system, VAT online system, or official NBR/VAT Commissionerate websites.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer processed goods in 2020 and had their compliance verified by a 'VAT Divisional Officer'. In 2025, they are importing again and notice the verification mandate has been simplified to focus on general compliance with specified conditions.",
+      "question": "Did the 2025 regulations maintain the specific 2020 requirement for the VAT Divisional Officer to perform the verification?",
+      "answer": "No. The 2025 regulation simplified the mandate to focus on general compliance verification by the customs officer, without explicitly retaining the 2020 requirement that specifically designated the 'VAT Divisional Officer' for this responsibility.",
+      "clauses_involved": [
+        "2020-10-03",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20201003_S.R.O_৩০ জুন, ২০২০_clause_1",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "six years later",
+      "question": "In 2016-06-02, the Deputy Commissioner was required to verify information via manual communication like phone or email. What change occurred six years later regarding this verification process?",
+      "answer": "Six years later, in SRO 2022 (2022-06-09), the process shifted from manual communication to digital verification of BIN via NBR/VAT online systems.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "three years later",
+      "question": "Following the introduction of digital BIN verification in 2022-06-09, what change was introduced three years later in the customs clearance mandate?",
+      "answer": "Three years later, in SRO 2025 (2025-06-02), the verification mandate was simplified to focus on general compliance with specified conditions.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "four years later",
+      "question": "Under the 2016-06-02 SRO, the Deputy Commissioner or Assistant Commissioner in the VAT area was responsible for verification. How did this responsibility shift four years later?",
+      "answer": "Four years later, in SRO 2020 (2020-10-03), the verification responsibility was shifted from the 'VAT area DC/AC' to the 'VAT Divisional Officer'.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20201003_S.R.O_৩০ জুন, ২০২০_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The supervising official is required to verify the Business Identification Number through centralized online systems to replace manual communication.",
+        "The responsibility for verification is transferred from the Deputy Commissioner or Assistant Commissioner to the VAT Divisional Officer.",
+        "The customs clearance supervision mandate is established, requiring manual verification through phone, fax, or email with VAT offices.",
+        "The verification mandate is simplified to focus on general compliance with specified conditions, removing the requirement for automated system checks."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The customs clearance supervision mandate is established, requiring manual verification through phone, fax, or email with VAT offices.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The responsibility for verification is transferred from the Deputy Commissioner or Assistant Commissioner to the VAT Divisional Officer.",
+          "date": "2020-10-03"
+        },
+        {
+          "event": "The supervising official is required to verify the Business Identification Number through centralized online systems to replace manual communication.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The verification mandate is simplified to focus on general compliance with specified conditions, removing the requirement for automated system checks.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20201003_S.R.O_৩০ জুন, ২০২০_clause_1",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+        "customs_sros_OCR/20201003_S.R.O/20201003_S.R.O_output.json",
+        "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+        "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00352_t0__customs-clearance-supervision-and-verification-aut.json"
+    }
+  ]
+}

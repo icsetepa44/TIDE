@@ -1,0 +1,315 @@
+{
+  "cluster_id": 115,
+  "cluster_label": "charges",
+  "thread_index": 0,
+  "thread_id": "cluster_00115_t0",
+  "title": "Digitalization of Payment and Collection Mechanisms",
+  "summary": "The concept of 'charges' has evolved from traditional manual banking and ledger-based accounting to a mandatory electronic payment system. This shift reflects a broader policy move toward automating customs clearance, integrating digital seals, and utilizing pre-paid accounts for service providers.",
+  "evolution": {
+    "payment_mode": "From manual/ledger-based to mandatory electronic/pre-paid systems.",
+    "institutional_scope": "Expanded to include express service providers and automated customs systems."
+  },
+  "timeline": [
+    {
+      "date": "2021-08-29",
+      "instrument": "SRO/Directive",
+      "change": "Mandated electronic payment methods for charges, with traditional banking as a fallback.",
+      "clause_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_6"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO/Directive",
+      "change": "Strict requirement for electronic payment systems for all charges and introduction of pre-payment accounts for express services.",
+      "clause_ids": [
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "SRO/Directive",
+      "change": "Reiteration and refinement of the pre-payment account system for express service providers.",
+      "clause_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_20"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "শুল্ক-কর, ফি, চার্জ, ইত্যাদি পরিশোধ",
+      "text_id": "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_6",
+      "resolved_text": "৬। শুল্ক-কর, ফি, চার্জ, ইত্যাদি পরিশোধ।—পণ্যচালানের বিপরীতে নিরূপিত শুল্ক-কর, ফি, চার্জ এবং প্রযোজ্য অন্যান্য কর বোর্ড কর্তৃক নির্ধারিত ইলেকট্রনিক পেমেন্ট পদ্ধতিতে পরিশোধ করিতে হইবে এবং ইলেকট্রনিক পেমেন্ট ব্যবস্থা সম্পূর্ণভাবে বাস্তবায়ন না হওয়া পর্যন্ত উক্ত শুল্ক-করাদি, চার্জ, ফি প্রভৃতি প্রচলিত ব্যাংকিং ব্যবস্থার মাধ্যমে পরিশোধ করা যাইবে।",
+      "entity_concepts": {
+        "Customs Duty and Taxes": [
+          "All applicable duties, taxes, fees, and charges on perishable goods must be paid through electronic payment systems designated by the National Board of Revenue.",
+          "Until the full implementation of electronic payment systems, payments may be processed through traditional banking channels."
+        ],
+        "National Board of Revenue": [
+          "The Board is responsible for determining the specific electronic payment methods for the settlement of duties, taxes, fees, and charges."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1046",
+      "entity_sub_entities": {
+        "Customs Duty and Taxes": [
+          "duties",
+          "taxes",
+          "fees",
+          "charges",
+          "perishable goods",
+          "electronic payment systems",
+          "traditional banking channels"
+        ],
+        "National Board of Revenue": [
+          "electronic payment methods",
+          "duties",
+          "taxes",
+          "fees",
+          "charges"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        13,
+        30,
+        115,
+        151,
+        158,
+        634,
+        3893,
+        7670,
+        12917
+      ],
+      "source_file": "customs_rules_OCR/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_output.json",
+      "clause_date": "2021-08-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "ইলেকট্রনিক দলিল ও পেমেন্ট নির্দিষ্টকরণ",
+      "text_id": "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "৩। ইলেকট্রনিক দলিল ও পেমেন্ট নির্দিষ্টকরণ।— (১) পণ্য ঘোষণা, শুল্কায়ন ও পুনঃশুল্কায়ন বিধিমালা, ২০২৪ এর বিধি ৪ এ উল্লিখিত সকল দলিল ইলেকট্রনিক মাধ্যমে গ্রহণ করা যাইবে।\n\n(২) আমদানি বা রপ্তানি পণ্য সংশ্লিষ্ট শুল্ক ও কর এবং সুদ ও চার্জসহ অন্যান্য ফি ইলেকট্রনিক পেমেন্ট সিস্টেমের মাধ্যমে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Declaration and Assessment Rules 2024": [
+          "These rules mandate that all documentation specified in Rule 4 shall be accepted via electronic means for the purpose of goods declaration, assessment, and reassessment."
+        ],
+        "Electronic Payment System": [
+          "All customs duties, taxes, interest, charges, and other associated fees related to the import or export of goods must be paid through this system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2721",
+      "entity_sub_entities": {
+        "Customs Declaration and Assessment Rules 2024": [
+          "documentation",
+          "goods declaration",
+          "assessment",
+          "reassessment"
+        ],
+        "Electronic Payment System": [
+          "customs duties",
+          "taxes",
+          "interest",
+          "charges",
+          "associated fees"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        63,
+        115,
+        324,
+        707,
+        825,
+        2975,
+        5688,
+        6888,
+        7669
+      ],
+      "source_file": "customs_sros_OCR/20240606_204-AIN_2024_56_Customs/20240606_204-AIN_2024_56_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_20",
+      "clause_title": "এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের প্রযোজ্য শুল্ক ও কর, অন্যান্য কর ও চার্জ পরিশোধ এবং খালাস",
+      "text_id": "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_20",
+      "resolved_text": "২০। এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের প্রযোজ্য শুল্ক ও কর, অন্যান্য কর ও চার্জ পরিশোধ এবং খালাস।— (১) শুল্কায়ন সম্পন্নের পর কোনো শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ প্রযোজ্য হইলে এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে প্রি-পেমেন্ট পদ্ধতিতে তাহার সোনালী ব্যাংক পিএলসিতে রক্ষিত হিসাব হইতে অথবা গ্রাহক বা তাহার মনোনীত এজেন্ট কর্তৃক ইলেকট্রনিক পেমেন্ট পদ্ধতি ব্যবহার করিয়া পরিশোধ করিতে হইবে।\n(২) প্রযোজ্য শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ পরিশোধ করিবার জন্য সংশ্লিষ্ট কাস্টমস স্টেশনের সোনালী ব্যাংক পিএলসি এর শাখায় এক্সপ্রেস সার্ভিস প্রতিষ্ঠানের নামে প্রি-পেইড হিসাব থাকিতে হইবে এবং উক্ত ব্যাংক হিসাবে শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ পরিশোধের পর্যাপ্ত অর্থের স্থিতি থাকিতে হইবে।\n(৩) প্রযোজ্য শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ পরিশোধিত হইলে কাস্টমস কম্পিউটার সিস্টেম হইতে রিলিজ অর্ডার এবং এক্সিট নোট ইস্যুর মাধ্যমে পণ্যচালান খালাস সম্পন্ন হইবে।\n(৪) কাস্টমস সংক্রান্ত আনুষ্ঠানিকতা সম্পন্নের পর যথাসম্ভব দ্রুততার সহিত পণ্যচালান এক্সপ্রেস সার্ভিস প্রতিষ্ঠান কর্তৃক কাস্টমস স্টেশন হইতে নিজস্ব ওয়্যারহাউসে লইয়া যাইতে হইবে এবং উক্ত ওয়্যারহাউস বা ডেলিভারি পয়েন্ট হইতে যথাশীঘ্র সম্ভব গ্রাহককে সরবরাহ করিতে হইবে।\n(৫) পণ্যচালান খালাসের পর গ্রাহক পর্যন্ত পৌঁছাইবার ক্ষেত্রে এক্সপ্রেস সার্ভিস প্রতিষ্ঠান দায়বদ্ধ থাকিবে।",
+      "entity_concepts": {
+        "Express Service Provider": [
+          "The provider is responsible for paying applicable duties, taxes, fees, and charges using a pre-payment method via a designated bank account or electronic payment by the customer or their agent.",
+          "The provider must maintain a pre-paid account with sufficient balance at the customs station's designated bank branch to cover all applicable charges.",
+          "The provider must move the goods promptly from the customs station to their own warehouse after formalities are completed and remains liable for the delivery of goods to the customer."
+        ],
+        "Customs Clearance": [
+          "Once all duties, taxes, and charges are paid, the customs clearance process is finalized through the issuance of a release order and exit note from the customs computerized system."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The system facilitates the finalization of goods clearance by issuing the necessary release order and exit note upon confirmation of payment of duties and taxes."
+        ],
+        "Sonali Bank PLC": [
+          "This bank acts as the designated financial institution where express service providers must maintain pre-paid accounts to facilitate the electronic payment of customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2759",
+      "entity_sub_entities": {
+        "Express Service Provider": [
+          "duties",
+          "taxes",
+          "fees",
+          "charges",
+          "pre-payment method",
+          "designated bank account",
+          "electronic payment",
+          "customer",
+          "agent",
+          "pre-paid account",
+          "customs station",
+          "designated bank branch",
+          "goods",
+          "warehouse"
+        ],
+        "Customs Clearance": [
+          "duties",
+          "taxes",
+          "charges",
+          "release order",
+          "exit note",
+          "customs computerized system"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "goods clearance",
+          "release order",
+          "exit note",
+          "duties",
+          "taxes"
+        ],
+        "Sonali Bank PLC": [
+          "designated financial institution",
+          "pre-paid accounts",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        25,
+        30,
+        51,
+        66,
+        74,
+        94,
+        115,
+        151,
+        271,
+        317,
+        1355,
+        1449,
+        2031,
+        2067,
+        2692,
+        3820,
+        4557,
+        4914,
+        7242,
+        7251,
+        10828,
+        10830
+      ],
+      "source_file": "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_20",
+      "clause_title": "এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের প্রযোজ্য শুল্ক ও কর, অন্যান্য কর ও চার্জ পরিশোধ এবং খালাস",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_20",
+      "resolved_text": "২০। এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের প্রযোজ্য শুল্ক ও কর, অন্যান্য কর ও চার্জ পরিশোধ এবং খালাস।— (১) শুল্কায়ন সম্পন্ন হইবার পর কোনো শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ প্রযোজ্য হইলে এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে প্রি-পেমেন্ট পদ্ধতিতে তাহার সোনালী ব্যাংক পিএলসিতে রক্ষিত হিসাব হইতে অথবা গ্রাহক বা তাহার মনোনীত এজেন্ট কর্তৃক ইলেকট্রনিক পেমেন্ট পদ্ধতি ব্যবহার করিয়া পরিশোধ করিতে হইবে।\n(২) প্রযোজ্য শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ পরিশোধ করিবার জন্য সংশ্লিষ্ট কাস্টমস স্টেশনের সোনালী ব্যাংক পিএলসি এর শাখায় এক্সপ্রেস সার্ভিস প্রতিষ্ঠানের নামে প্রি-পেইড হিসাব থাকিতে হইবে এবং উক্ত ব্যাংক হিসাবে শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ পরিশোধের পর্যাপ্ত অর্থের স্থিতি থাকিতে হইবে।\n(৩) প্রযোজ্য শুল্ক ও কর, অন্যান্য কর, ফি বা চার্জ পরিশোধিত হইলে কাস্টমস কম্পিউটার সিস্টেম হইতে রিলিজ অর্ডার এবং এক্সিট নোট ও রিলিজ অর্ডার ইস্যুর মাধ্যমে পণ্যচালান খালাস সম্পন্ন হইবে।\n(৪) কাস্টমস সংক্রান্ত আনুষ্ঠানিকতা সম্পন্ন হইবার পর যথাসম্ভব দ্রুততার সহিত পণ্যচালান এক্সপ্রেস সার্ভিস প্রতিষ্ঠান কর্তৃক কাস্টমস স্টেশন হইতে নিজস্ব ওয়্যারহাউসে লইয়া যাইতে হইবে এবং উক্ত ওয়্যারহাউস বা ডেলিভারি পয়েন্ট হইতে যথাশীঘ্র সম্ভব গ্রাহককে সরবরাহ করিতে হইবে।\n(৫) পণ্যচালান খালাসের পর গ্রাহক পর্যন্ত পৌঁছাইবার ক্ষেত্রে এক্সপ্রেস সার্ভিস প্রতিষ্ঠান দায়বদ্ধ থাকিবে।",
+      "entity_concepts": {
+        "Express Service Provider": [
+          "These entities are responsible for the payment of all applicable customs duties, taxes, fees, and charges using pre-payment accounts maintained at a designated bank or via electronic payment methods.",
+          "They are required to maintain a sufficient balance in a pre-paid account at the designated bank branch at the relevant customs station to facilitate tax and duty settlements.",
+          "Upon completion of customs formalities, the entity must promptly transport goods to their own warehouse and ensure delivery to the customer as quickly as possible.",
+          "The entity remains strictly liable for the goods from the point of customs clearance until final delivery to the customer."
+        ],
+        "Customs Clearance": [
+          "The clearance of goods is contingent upon the payment of all applicable duties, taxes, fees, and charges.",
+          "Once payment is confirmed, the process is finalized through the issuance of a release order and exit note from the customs computerized system."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system is utilized to generate the necessary release orders and exit notes required to authorize the release of goods from the customs station."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1215",
+      "entity_sub_entities": {
+        "Express Service Provider": [
+          "customs duties",
+          "taxes",
+          "fees",
+          "charges",
+          "pre-payment accounts",
+          "designated bank",
+          "electronic payment methods",
+          "pre-paid account",
+          "customs station",
+          "goods",
+          "warehouse",
+          "customer"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "duties",
+          "taxes",
+          "fees",
+          "charges",
+          "release order",
+          "exit note",
+          "customs computerized system"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "release orders",
+          "exit notes",
+          "goods",
+          "customs station"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        25,
+        30,
+        51,
+        66,
+        74,
+        115,
+        151,
+        271,
+        317,
+        1355,
+        1449,
+        2031,
+        3893,
+        4557,
+        7241,
+        7876,
+        10829,
+        11397
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,45 @@
+{
+  "group_id": "cluster_00167_t0__X__cluster_00795_t0",
+  "entities": [
+    "Customs Risk Management Commissionerate",
+    "Risk Analysis"
+  ],
+  "cluster_ids": [
+    167,
+    795
+  ],
+  "thread_ids": [
+    "cluster_00167_t0",
+    "cluster_00795_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Customs Risk Management Commissionerate utilize risk analysis to manage the clearance process for AEO-certified entities?",
+      "answer": "The Customs Risk Management Commissionerate applies risk management methods to determine the clearance path for AEO-certified entities. Specifically, it selects a limited number of shipments for physical examination or inspection via the Red Lane [0], or facilitates automated clearance through the Green Lane based on the importer or exporter's declaration [1].",
+      "entities_involved": [
+        "Customs Risk Management Commissionerate",
+        "Risk Analysis"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_90",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_93"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the role of the Customs Risk Management Commissionerate in governing the operational framework of risk analysis?",
+      "answer": "The Customs Risk Management Commissionerate is responsible for managing the overall risk management process, which includes formulating a confidential Standard Operating Procedure (SOP) for risk analysis operations [2]. Additionally, it is tasked with collecting, analyzing, and reviewing risk-related information to identify, classify, and select risk areas within the customs framework [3].",
+      "entities_involved": [
+        "Customs Risk Management Commissionerate",
+        "Risk Analysis"
+      ],
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_10",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_3"
+      ]
+    }
+  ]
+}

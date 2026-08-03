@@ -1,0 +1,137 @@
+{
+  "thread_id": "cluster_00482_t2",
+  "cluster_id": 482,
+  "cluster_label": "clothing",
+  "title": "Definition of Baggage",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the definition of 'baggage' evolved in terms of weight restrictions between 2011 and 2023?",
+      "answer": "In the 2011-06-09 and 2012-06-07 Baggage Rules, baggage was defined simply as 'reasonable quantities' of items without specific weight metrics. This changed on 2023-06-01, when the definition was updated to include a strict constraint that no individual item of baggage may exceed 15kg.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way did the classification of a 'passenger' change in the 2024 Baggage Rules compared to previous years?",
+      "answer": "Prior to 2024, the Baggage Rules defined a 'passenger' broadly as any person arriving from abroad. Starting with the 2024-06-06 Baggage Rules, the definition was refined to specify that a passenger is a 'non-tourist' (অপর্যটক) individual arriving from abroad.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the scope of baggage regulations expanded beyond the initial 2011 definition?",
+      "answer": "The definition of baggage has evolved from a simple qualitative description of 'reasonable quantities' of personal items to a more technical framework. By 2023-06-01, it incorporated quantitative weight limits (15kg per item), and by 2024-06-06, it added specific passenger status requirements (non-tourist) and definitions for related concepts like 'unaccompanied baggage' and 'gold jewelry'.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the significance of the 'non-tourist' status introduced in the 2024-06-06 Baggage Rules?",
+      "answer": "The introduction of the 'non-tourist' (অপর্যটক) status in the 2024-06-06 rules serves to narrow the definition of a passenger under the Baggage Rules. This distinction clarifies that the rules governing baggage, such as weight limits and item categories, are specifically applicable to non-tourist arrivals.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the regulatory approach to gold jewelry changed between the 2024 and 2025 Baggage Rules?",
+      "answer": "The 2024-06-06 rules defined gold jewelry as ornaments made of 22-karat gold or higher. The 2025-06-03 rules updated this definition to include ornaments made of 22-karat gold or lower, reflecting a change in the purity threshold for regulated gold items.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A traveler arrived in Bangladesh in 2012 with personal clothing items. A second traveler arrived in 2023 with similar personal clothing items, but each of their items weighed 18kg. A third traveler arrived in 2024, also carrying items weighing 18kg each, but this traveler was identified as a tourist.",
+      "question": "How did the regulatory requirements for 'baggage' classification evolve from 2012 to 2024 regarding individual item weight and passenger status?",
+      "answer": "In 2012, baggage was defined solely by 'reasonable quantity'. By 2023, a 15kg per-item weight limit was introduced. By 2024, the definition of 'passenger' was further restricted to include only non-tourists, meaning tourists no longer met the baggage definition criteria regardless of item weight.",
+      "clauses_involved": [
+        "2012-06-07",
+        "2023-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "11 years later",
+      "question": "In the Baggage Rules effective 11 years after the 2012 iteration, what specific quantitative restriction was introduced regarding the definition of baggage?",
+      "answer": "In the 2023-06-01 Baggage Rules, a weight limit was introduced, specifying that each individual item of baggage must not exceed 15kg.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "one year later",
+      "question": "Following the 2023 amendment, what significant addition regarding the definition of the 'Act' and baggage categories was introduced one year later?",
+      "answer": "In the 2024-06-06 Baggage Rules, the term 'Act' was defined as the Customs Act 2023, and the definition of 'unaccompanied baggage' (baggage not brought by the passenger) was formally included.",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The definition of baggage is established as reasonable quantities of food, clothing, household goods, or other personal effects imported by a passenger.",
+        "The definition of a passenger is refined to specifically exclude tourists, and the definition of gold jewelry is clarified regarding karat purity.",
+        "The definition of baggage is updated to include a constraint that each individual item must not exceed a weight of 15kg."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The definition of baggage is established as reasonable quantities of food, clothing, household goods, or other personal effects imported by a passenger.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The definition of baggage is updated to include a constraint that each individual item must not exceed a weight of 15kg.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The definition of a passenger is refined to specifically exclude tourists, and the definition of gold jewelry is clarified regarding karat purity.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+        "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+        "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00482_t2__definition-of-baggage.json"
+    }
+  ]
+}

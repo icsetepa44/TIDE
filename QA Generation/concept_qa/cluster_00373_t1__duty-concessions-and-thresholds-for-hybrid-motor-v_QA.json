@@ -1,0 +1,118 @@
+{
+  "thread_id": "cluster_00373_t1",
+  "cluster_id": 373,
+  "cluster_label": "motor vehicles",
+  "title": "Duty Concessions and Thresholds for Hybrid Motor Vehicles",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A car importer in Dhaka is finalizing their shipping manifest for a shipment of hybrid motor vehicles scheduled to arrive in early June 2012. They are carefully reviewing the latest government notifications to ensure they qualify for fiscal incentives. They need to confirm the upper limit for engine displacement that the authorities have set for these eco-friendly vehicles to receive duty concessions. What is the maximum engine capacity limit for hybrid vehicle duty concessions as of June 7, 2012?",
+      "question": "What is the maximum engine capacity limit for hybrid vehicle duty concessions as of June 7, 2012?",
+      "answer": "The threshold was increased to 2500cc.",
+      "date_or_instrument": "SRO 168-Law/2012",
+      "clause_text_ids": [
+        "20120607_168-AIN_2012_2396-Customs_২০১২-০৬-০৭_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A business owner specializing in eco-friendly transport solutions is preparing to import a new fleet of hybrid vehicles in July 2013. Upon consulting the latest policy updates, they discover that the regulatory landscape has shifted, introducing specific infrastructure obligations for importers. They need to clarify exactly what technical facility they are now required to maintain to remain compliant with the latest SRO. What new technical requirement must an importer possess for hybrid vehicles under SRO 218-Law/2013?",
+      "question": "What new technical requirement must an importer possess for hybrid vehicles under SRO 218-Law/2013?",
+      "answer": "The importer must possess their own battery charging facilities.",
+      "date_or_instrument": "SRO 218-Law/2013",
+      "clause_text_ids": [
+        "20130701_218-AIN_2013_2456-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs official at the Chittagong Port is processing documentation for a hybrid vehicle arrival in July 2013. They are cross-referencing the shipment details against the most recent fiscal policy changes that came into effect on the first of the month. The official must verify the updated engine capacity threshold to determine if the vehicle qualifies for the previously established duty concessions. To what level was the engine capacity threshold reduced in July 2013?",
+      "question": "To what level was the engine capacity threshold reduced in July 2013?",
+      "answer": "It was reduced from 2500cc to 1800cc.",
+      "date_or_instrument": "SRO 218-Law/2013",
+      "clause_text_ids": [
+        "20130701_218-AIN_2013_2456-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A car dealer in Dhaka has been scouting the international market for high-quality, pre-owned hybrid cars to meet the growing local demand for affordable green technology. As June 2016 approaches, the dealer wants to ensure that these specific vehicle units will benefit from the same duty concessions as their brand-new counterparts. They are reviewing the current SRO to determine if their business model involving used imports remains eligible for these financial benefits. Are reconditioned hybrid vehicles eligible for duty concessions under the policy effective June 2, 2016?",
+      "question": "Are reconditioned hybrid vehicles eligible for duty concessions under the policy effective June 2, 2016?",
+      "answer": "No, duty concessions are restricted to new CBU hybrid vehicles only, excluding all used or reconditioned units.",
+      "date_or_instrument": "SRO 156-Law/2016",
+      "clause_text_ids": [
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer is calculating the landed cost of a brand-new, CBU hybrid vehicle equipped with a 1400cc engine to provide a price quote to a prospective client in 2016. To ensure the accuracy of their quotation, they need to ascertain the applicable supplementary duty rate mandated by the government for this specific engine category. They are carefully checking the relevant SRO to avoid any miscalculations in their tax liability. What is the supplementary duty rate for a hybrid vehicle with up to 1500cc capacity under the 2016 policy?",
+      "question": "What is the supplementary duty rate for a hybrid vehicle with up to 1500cc capacity under the 2016 policy?",
+      "answer": "The supplementary duty is 30%.",
+      "date_or_instrument": "SRO 156-Law/2016",
+      "clause_text_ids": [
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A policy researcher is conducting an audit of the legislative framework supporting the government's push for hybrid vehicle adoption in 2012. They are examining the specific SRO issued on June 7, 2012, to trace its origins back to the primary tax legislation. The researcher needs to identify the exact section of the parent act that empowered the government to grant these duty concessions. Which Act provided the legal authority for the government to issue the amendment in SRO 168-Law/2012?",
+      "question": "Which Act provided the legal authority for the government to issue the amendment in SRO 168-Law/2012?",
+      "answer": "The Value Added Tax Act 1991, specifically Section 14(1).",
+      "date_or_instrument": "2012-06-07",
+      "clause_text_ids": [
+        "20120607_168-AIN_2012_2396-Customs_২০১২-০৬-০৭_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer planned to bring in a 2200cc hybrid vehicle in 2012, but delayed the shipment until 2013, and then finally considered importing a reconditioned 1700cc hybrid vehicle in 2016.",
+      "question": "How did the eligibility for duty concessions for this importer's vehicle change between 2012 and 2016 regarding engine capacity and vehicle condition?",
+      "answer": "In 2012, the 2200cc hybrid was eligible under the 2500cc threshold. By 2013, it became ineligible as the threshold dropped to 1800cc. By 2016, even if the vehicle met the 1800cc limit, it would be ineligible for concessions because the policy restricted benefits exclusively to new CBU vehicles, excluding all reconditioned units.",
+      "clauses_involved": [
+        "2012-06-07 | SRO 168-Law/2012",
+        "2013-07-01 | SRO 218-Law/2013",
+        "2016-06-02 | SRO 156-Law/2016"
+      ],
+      "clause_text_ids": [
+        "20120607_168-AIN_2012_2396-Customs_২০১২-০৬-০৭_clause_1",
+        "20130701_218-AIN_2013_2456-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "one year later",
+      "question": "Following the 2012-06-07 SRO that raised the hybrid engine capacity threshold to 2500cc, what change occurred one year later regarding these concessions?",
+      "answer": "In 2013-07-01 (SRO 218-Law/2013), the engine capacity threshold was reduced from 2500cc back to 1800cc, and new conditions regarding battery charging facilities were introduced.",
+      "clause_text_ids": [
+        "20120607_168-AIN_2012_2396-Customs_২০১২-০৬-০৭_clause_1",
+        "20130701_218-AIN_2013_2456-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-07-01",
+      "relative_offset": "three years later",
+      "question": "Starting from the 2013-07-01 amendment, what significant restriction was introduced to the hybrid vehicle duty concession policy three years later?",
+      "answer": "Three years later, in 2016-06-02 (SRO 156-Law/2016), the policy was amended to explicitly restrict duty concessions exclusively to new CBU hybrid vehicles, effectively excluding all used or reconditioned units.",
+      "clause_text_ids": [
+        "20130701_218-AIN_2013_2456-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1"
+      ]
+    }
+  ]
+}

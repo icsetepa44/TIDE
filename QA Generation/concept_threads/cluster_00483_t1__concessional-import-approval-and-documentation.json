@@ -1,0 +1,420 @@
+{
+  "cluster_id": 483,
+  "cluster_label": "customs clearance process",
+  "thread_index": 1,
+  "thread_id": "cluster_00483_t1",
+  "title": "Concessional Import Approval and Documentation",
+  "summary": "This thread covers the procedural requirements for industries to import goods at concessional rates. It evolves from simple submission of approval copies to more rigorous multi-agency inspection and reporting requirements.",
+  "evolution": {
+    "procedural_rigor": "Increased from simple document submission to mandatory multi-agency site verification.",
+    "institutional_oversight": "Shifted from internal customs approval to inter-ministerial committee oversight."
+  },
+  "timeline": [
+    {
+      "date": "2017-06-01",
+      "instrument": "SRO 2017",
+      "change": "Established the requirement to submit certified copies of approval letters with Bills of Entry.",
+      "clause_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_6",
+        "20170601_132-AIN__2017-06-01_clause_6"
+      ]
+    },
+    {
+      "date": "2021-06-03",
+      "instrument": "SRO 2021",
+      "change": "Reiteration of the submission requirement for concessional imports.",
+      "clause_ids": [
+        "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_3",
+        "20210603_127-AIN_2021_16_Customs_২০২১-০৫-২৪_clause_3"
+      ]
+    },
+    {
+      "date": "2022-07-17",
+      "instrument": "SRO 2022",
+      "change": "Introduced a formal committee (Customs, VAT, Industry Ministry) for site inspection and reporting prior to approval.",
+      "clause_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 2024",
+      "change": "Expanded the scope of the inspection committee and reporting mechanism for specific industrial sectors.",
+      "clause_ids": [
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20170601_131-AIN__১ জুন, ২০১৭_clause_6",
+      "resolved_text": "৫। “পরিশিষ্ট-১” অনুযায়ী প্রাপ্ত প্রতিবেদনে প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদন পত্রের সত্যায়িত ফটোকপি প্রতিটি আমদানি পণ্যচালান খালাসের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Industrial Import Concession": [
+          "Applicant enterprises whose industrial establishment activities are verified as satisfactory based on the report submitted per the prescribed schedule are eligible for customs duty concessions on imported goods.",
+          "A certified photocopy of the approval letter granting this concession must be submitted along with the bill of entry during the customs clearance process for every imported consignment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1733",
+      "entity_sub_entities": {
+        "Industrial Import Concession": [
+          "applicant enterprises",
+          "industrial establishment activities",
+          "report",
+          "customs duty concessions",
+          "imported goods",
+          "certified photocopy of the approval letter",
+          "bill of entry",
+          "customs clearance process",
+          "imported consignment"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        27,
+        382,
+        433,
+        483,
+        838,
+        1406,
+        1407,
+        2098,
+        5572
+      ],
+      "source_file": "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20170601_132-AIN__2017-06-01_clause_6",
+      "resolved_text": "৫। “পরিশিষ্ট-১” অনুযায়ী প্রাপ্ত প্রতিবেদনে প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে। উক্ত অনুমোদন পত্রের সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Concessional Duty Rate": [
+          "Qualified applicant enterprises may be granted approval to import goods at a concessional duty rate if their industrial setup activities are found satisfactory according to the report referenced in the first appendix of this order."
+        ],
+        "Bill of Entry": [
+          "A certified photocopy of the approval letter for the concessional duty rate must be submitted alongside the Bill of Entry during the customs clearance process for every shipment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1745",
+      "entity_sub_entities": {
+        "Concessional Duty Rate": [
+          "qualified applicant enterprises",
+          "goods",
+          "industrial setup activities",
+          "report",
+          "first appendix"
+        ],
+        "Bill of Entry": [
+          "certified photocopy of the approval letter",
+          "concessional duty rate",
+          "Bill of Entry",
+          "customs clearance process",
+          "shipment"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        27,
+        359,
+        382,
+        433,
+        483,
+        1145,
+        2729,
+        4187,
+        11137
+      ],
+      "source_file": "customs_sros_OCR/20170601_132-AIN_/20170601_132-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_3",
+      "resolved_text": "(২) এয়ারকন্ডিশনার উৎপাদনকারী শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে হইবে এবং উক্ত আবেদন বিবেচনার ক্ষেত্রে দ্বিতীয় সচিব (কাস্টমস নীতি) জাতীয় রাজস্ব বোর্ড, সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনকারী প্রতিষ্ঠান সরেজমিনে পরিদর্শন ও যাচাইপূর্বক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস নীতি ও আইসিটি) বরাবর “পরিশিষ্ট-১” অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন। উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদনপত্রের সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Air Conditioner Manufacturing Industry": [
+          "Manufacturing units are required to apply to the National Board of Revenue for authorization to import raw materials or components at concessional duty rates after establishing their factory.",
+          "Applicants must undergo a physical site inspection and verification process conducted by a specialized committee to assess their industrial setup before being granted import concessions."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs: Policy and ICT) is the authority responsible for receiving and processing applications for concessional import facilities for air conditioner manufacturers.",
+          "The Board provides the final approval for concessional imports based on the findings of a verification committee report."
+        ],
+        "Verification Committee": [
+          "A committee comprising the Second Secretary (Customs Policy), a VAT divisional official, and a representative from the Ministry of Industries is mandated to conduct physical inspections of applicant facilities.",
+          "The committee must submit a report following the prescribed format to the Member (Customs: Policy and ICT) regarding the adequacy of the applicant's industrial operations."
+        ],
+        "Bill of Entry": [
+          "A certified photocopy of the approval letter for concessional import facilities must be submitted alongside the Bill of Entry for every individual consignment during the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2353",
+      "entity_sub_entities": {
+        "Air Conditioner Manufacturing Industry": [
+          "manufacturing units",
+          "raw materials",
+          "components",
+          "factory",
+          "industrial setup"
+        ],
+        "National Board of Revenue": [
+          "Member (Customs: Policy and ICT)",
+          "applications",
+          "concessional import facilities",
+          "verification committee report"
+        ],
+        "Verification Committee": [
+          "Second Secretary (Customs Policy)",
+          "VAT divisional official",
+          "representative from the Ministry of Industries",
+          "physical inspections",
+          "applicant facilities",
+          "report",
+          "industrial operations"
+        ],
+        "Bill of Entry": [
+          "certified photocopy of the approval letter",
+          "concessional import facilities",
+          "consignment",
+          "customs clearance process"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        27,
+        42,
+        68,
+        162,
+        382,
+        433,
+        483,
+        604,
+        717,
+        849,
+        1130,
+        1715,
+        1844,
+        1960,
+        2227,
+        2425,
+        2802,
+        3047,
+        5574,
+        9036,
+        13215
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "(২) রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী বা ভেন্ডর শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে হইবে, উক্ত আবেদন বিবেচনার ক্ষেত্রে জাতীয় রাজস্ব বোর্ড এর দ্বিতীয় সচিব (কাস্টমস নীতি), সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনকারী প্রতিষ্ঠান সরেজমিন যাচাইপূর্বক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস নীতি) বরাবর পরিশিষ্ট-১ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন এবং উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে। উক্ত অনুমোদনপত্রের ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে;",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for receiving applications for concessionary import benefits from refrigerator and freezer manufacturing industries.",
+          "The Board oversees the committee responsible for physically verifying the manufacturing premises of applicants and provides final approval for import concessions based on the committee's report."
+        ],
+        "Refrigerator and Freezer Manufacturing Industry": [
+          "These industrial establishments must submit an application to the National Board of Revenue to receive concessionary benefits for importing raw materials and components.",
+          "Applicants are required to undergo a physical verification of their factory facilities by an expert committee before their eligibility for import concessions is determined."
+        ],
+        "Bill of Entry": [
+          "A copy of the formal import approval must be submitted along with the Bill of Entry during the customs clearance process for every shipment imported under these concessionary rates."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2667",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "authority",
+          "applications",
+          "concessionary import benefits",
+          "refrigerator and freezer manufacturing industries",
+          "committee",
+          "manufacturing premises",
+          "applicants",
+          "final approval",
+          "import concessions",
+          "committee's report"
+        ],
+        "Refrigerator and Freezer Manufacturing Industry": [
+          "industrial establishments",
+          "application",
+          "National Board of Revenue",
+          "concessionary benefits",
+          "raw materials",
+          "components",
+          "applicants",
+          "physical verification",
+          "factory facilities",
+          "expert committee",
+          "eligibility",
+          "import concessions"
+        ],
+        "Bill of Entry": [
+          "copy of the formal import approval",
+          "Bill of Entry",
+          "customs clearance process",
+          "shipment",
+          "concessionary rates"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        27,
+        42,
+        58,
+        68,
+        102,
+        231,
+        311,
+        359,
+        475,
+        483,
+        948,
+        2192,
+        2217,
+        2334,
+        2694,
+        3665,
+        3666,
+        3973,
+        6511,
+        6609,
+        7887,
+        8001,
+        9736,
+        11296
+      ],
+      "source_file": "customs_sros_OCR/20240606_194-AIN_2024_66_Customs/20240606_194-AIN_2024_66_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 2,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_3",
+      "resolved_text": "৩। “পরিশিষ্ট-১” অনুযায়ী প্রাপ্ত প্রতিবেদনে প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতী হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদন পত্রের সত্যায়িত ফটোকপি প্রতিটি আমদানি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Concessional Duty Rate": [
+          "The applicant organization is granted permission to import goods at a concessional rate of duty, provided the industrial establishment report specified in the appendix is deemed satisfactory."
+        ],
+        "Bill of Entry": [
+          "A certified copy of the import approval must be submitted along with the bill of entry during the customs clearance process for every individual consignment of goods."
+        ],
+        "Import Clearance": [
+          "The clearance of imported goods is subject to the condition of presenting valid documentary evidence of approval for the concessional duty rate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2070",
+      "entity_sub_entities": {
+        "Concessional Duty Rate": [
+          "applicant organization",
+          "goods",
+          "industrial establishment report",
+          "appendix"
+        ],
+        "Bill of Entry": [
+          "certified copy of the import approval",
+          "bill of entry",
+          "customs clearance process",
+          "consignment of goods"
+        ],
+        "Import Clearance": [
+          "imported goods",
+          "documentary evidence of approval",
+          "concessional duty rate"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        27,
+        141,
+        483,
+        1145,
+        1174,
+        1400,
+        2334,
+        2462,
+        7439,
+        9021
+      ],
+      "source_file": "customs_sros_OCR/20210603_116-AIN_2021_05_Customs/20210603_116-AIN_2021_05_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20210603_127-AIN_2021_16_Customs_২০২১-০৫-২৪_clause_3",
+      "resolved_text": "৩। পরিশিষ্ট-১ অনুযায়ী প্রাপ্ত প্রতিবেদনে প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদনপত্রের সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে;",
+      "entity_concepts": {
+        "Import Concessionary Rate": [
+          "Qualified applicant entities whose industrial establishment activities are found satisfactory according to the report specified in the appendix shall be granted approval to import goods at concessional duty rates under this order."
+        ],
+        "Bill of Entry": [
+          "A certified photocopy of the approval letter for concessional imports must be submitted along with the bill of entry during the customs clearance process for each consignment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2110",
+      "entity_sub_entities": {
+        "Import Concessionary Rate": [
+          "qualified applicant entities",
+          "industrial establishment activities",
+          "report",
+          "appendix",
+          "goods",
+          "concessional duty rates"
+        ],
+        "Bill of Entry": [
+          "certified photocopy",
+          "approval letter",
+          "concessional imports",
+          "bill of entry",
+          "customs clearance process",
+          "consignment"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        27,
+        141,
+        162,
+        382,
+        433,
+        483,
+        688,
+        1026,
+        1145,
+        1961,
+        2098,
+        11138
+      ],
+      "source_file": "customs_sros_OCR/20210603_127-AIN_2021_16_Customs/20210603_127-AIN_2021_16_Customs_output.json",
+      "clause_date": "2021-06-03"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00427_t0__X__cluster_00482_t2",
+  "entities": [
+    "household items",
+    "clothing"
+  ],
+  "cluster_ids": [
+    427,
+    482
+  ],
+  "thread_ids": [
+    "cluster_00427_t0",
+    "cluster_00482_t2"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How are 'household items' and 'clothing' categorized within the definition of 'baggage' according to the Customs baggage rules?",
+      "answer": "Under the baggage rules, both household items (গৃহস্থালী) and clothing (পরিধেয়) are classified as components of 'baggage', defined as a reasonable quantity of items imported by a passenger for personal use, as referenced in [0], [1], and [2].",
+      "entities_involved": [
+        "household items",
+        "clothing"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    }
+  ]
+}

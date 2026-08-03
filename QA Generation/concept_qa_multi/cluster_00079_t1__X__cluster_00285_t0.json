@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00079_t1__X__cluster_00285_t0",
+  "entities": [
+    "importers",
+    "industrial raw materials"
+  ],
+  "cluster_ids": [
+    79,
+    285
+  ],
+  "thread_ids": [
+    "cluster_00079_t1",
+    "cluster_00285_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under the regulatory frameworks established by SROs such as 146-AIN/2015, 122-AIN/2020, and 164-AIN/2024, what legal authority allows the government to grant duty concessions to importers for industrial raw materials?",
+      "answer": "The government grants these concessions for industrial raw materials to importers by exercising powers under section 19(1) of the Customs Act, 1969 (or section 25(1) of the Customs Act, 2023) in conjunction with section 14(1) of the VAT Act, 1991 or section 126(1) of the VAT and Supplementary Duty Act, 2012, in consultation with the National Board of Revenue and in the public interest.",
+      "entities_involved": [
+        "importers",
+        "industrial raw materials"
+      ],
+      "clause_text_ids": [
+        "20150604_146-AIN_2015_26-Customs_৪ জুন, ২০১৫_clause_1",
+        "20200611_122-AIN_2020_73_Customs_৩ জুন, ২০২০_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    }
+  ]
+}

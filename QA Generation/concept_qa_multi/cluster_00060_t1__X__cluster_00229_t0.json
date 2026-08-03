@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00060_t1__X__cluster_00229_t0",
+  "entities": [
+    "Customs House",
+    "imported inputs"
+  ],
+  "cluster_ids": [
+    60,
+    229
+  ],
+  "thread_ids": [
+    "cluster_00060_t1",
+    "cluster_00229_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What documentation must be submitted to the Customs House regarding imported inputs to ensure regulatory compliance, and by when?",
+      "answer": "According to [0] and [3], importers must estimate the annual requirement of imported inputs based on the previous year's production, production capacity, and the current year's production plan. This account statement must be submitted to the Commissioner of the relevant Customs House (or Customs Station) and the Commissioner of the relevant Customs, Excise, and VAT Commissionerate (or Customs Valuation and Internal Audit Commissionerate) by January of each year.",
+      "entities_involved": [
+        "Customs House",
+        "imported inputs"
+      ],
+      "clause_text_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_5",
+        "20240606_169-AIN_2024_21_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What role does the Customs House play in the audit process following the inspection of imported inputs?",
+      "answer": "As per [1], after the Commissioner of the Customs Valuation and Internal Audit Commissionerate completes an audit of imported inputs, they must send an objective report to the National Board of Revenue, with a copy provided to the relevant Customs House authorities. If an abuse of duty-concessioned imported inputs is discovered, action is taken under the Customs Act.",
+      "entities_involved": [
+        "Customs House",
+        "imported inputs"
+      ],
+      "clause_text_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_6"
+      ]
+    }
+  ]
+}

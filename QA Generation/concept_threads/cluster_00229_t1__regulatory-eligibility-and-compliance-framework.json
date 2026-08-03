@@ -1,0 +1,800 @@
+{
+  "cluster_id": 229,
+  "cluster_label": "imported inputs",
+  "thread_index": 1,
+  "thread_id": "cluster_00229_t1",
+  "title": "Regulatory Eligibility and Compliance Framework",
+  "summary": "This thread tracks the evolving conditions for claiming duty concessions on imported inputs. It transitioned from broad industry-based eligibility to specific, product-linked compliance requirements, including the management of production scrap and formal certification processes.",
+  "evolution": {
+    "eligibility_criteria": "Moved from general industrial categories to specific product-based concessions.",
+    "compliance_burden": "Increased requirement for formal site verification and specific scrap disposal taxation."
+  },
+  "timeline": [
+    {
+      "date": "2017-06-01",
+      "instrument": "SRO 2017",
+      "change": "Defined specific industry eligibility and established rules for the disposal of production scrap generated from imported inputs.",
+      "clause_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8"
+      ]
+    },
+    {
+      "date": "2021-06-03",
+      "instrument": "SRO 2021",
+      "change": "Introduced a committee-based site verification process for new industrial installations seeking duty concessions.",
+      "clause_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 2024",
+      "change": "Standardized the duty concession framework for specific high-tech products (ATM, Washing Machines) with explicit scrap disposal protocols.",
+      "clause_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    }
+  ],
+  "num_member_objects": 8,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+      "resolved_text": "১। এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধা শুধু সেই সকল উৎপাদনকারী বা সংযোজনকারী প্রতিষ্ঠান এর ক্ষেত্রে প্রযোজ্য হইবে, যাহারা এই প্রজ্ঞাপনে উল্লিখিত সকল শর্ত প্রতিপালনপূর্বক আমদানিকৃত উপকরণ ব্যবহার করিয়া ঔষধ অথবা ঔষধের কাঁচামাল উৎপাদনকারী, খাদ্য ও বেভারেজ শিল্পে ব্যবহৃত মানের (grade) পানি প্রস্তুতের প্রয়োজনীয় বায়োহাইজিন মেশিনারিজ বা ইকুইপমেন্ট স্থানীয়ভাবে উৎপাদন করিয়া থাকেন।",
+      "entity_concepts": {
+        "Concessional Customs Duty": [
+          "The concessional benefits under this notification are restricted to specific manufacturing or assembly units.",
+          "To qualify for these benefits, manufacturers must produce pharmaceuticals, pharmaceutical raw materials, or bio-hygiene machinery used in the food and beverage industry for water processing while complying with all stated conditions."
+        ],
+        "Manufacturing Industry": [
+          "Eligible manufacturers or assemblers are entitled to concessions on imported inputs used locally to produce pharmaceuticals or specific industrial machinery."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1761",
+      "entity_sub_entities": {
+        "Concessional Customs Duty": [
+          "manufacturing units",
+          "assembly units",
+          "pharmaceuticals",
+          "pharmaceutical raw materials",
+          "bio-hygiene machinery",
+          "water processing machinery"
+        ],
+        "Manufacturing Industry": [
+          "manufacturers",
+          "assemblers",
+          "imported inputs",
+          "pharmaceuticals",
+          "industrial machinery"
+        ]
+      },
+      "clause_clusters": [
+        149,
+        229,
+        371,
+        416,
+        824,
+        1713,
+        1715,
+        1958,
+        2189,
+        3441,
+        3523,
+        13358
+      ],
+      "source_file": "customs_sros_OCR/20170601_134-AIN_/20170601_134-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "",
+      "text_id": "20170601_155-AIN__1 June, 2017_clause_8",
+      "resolved_text": "৭। আমদানিকৃত যন্ত্রাংশ বা উপকরণ দ্বারা মোটরসাইকেল বা যন্ত্রাংশ উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে। এক্ষেত্রে উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Motorcycle Manufacturing": [
+          "The disposal of scrap generated from the production of motorcycles or components using imported inputs is permitted through local sale with the approval of the relevant departmental customs officer."
+        ],
+        "Value Added Tax": [
+          "The importer is required to pay the applicable rate of Value Added Tax on the value of scrap material generated from manufacturing processes when such scrap is sold locally."
+        ],
+        "Customs Duty": [
+          "Any applicable customs duties and other taxes must be paid by the importer upon the local sale of production scrap generated from imported parts or materials."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1805",
+      "entity_sub_entities": {
+        "Motorcycle Manufacturing": [
+          "scrap",
+          "motorcycles",
+          "components",
+          "imported inputs"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "scrap material"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "taxes",
+          "production scrap",
+          "imported parts",
+          "materials"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        13,
+        14,
+        42,
+        57,
+        229,
+        326,
+        370,
+        797,
+        1081,
+        1466,
+        2208
+      ],
+      "source_file": "customs_sros_OCR/20170601_155-AIN_/20170601_155-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "প্রজ্ঞাপন নং- ২১৮/২০১৮/কাস্টমস",
+      "text_id": "20180607_Special_৩০ মে, ২০১৮_clause_1",
+      "resolved_text": "প্রজ্ঞাপন নং- ২১৮/২০১৮/কাস্টমস ।- Customs Act, 1969 (Act No. IV of 1969) Gi section 21(b) G cÖ`Ë ¶gZve‡j, RvZxq ivR¯^ ‡evW© Dnvi 26 ˆPÎ, 1420 e½vã †gvZv‡eK 9 GwcÖj, 2014 wLª÷vã Zvwi‡Li we‡kl Av‡`k cÖÁvcb bs 28/2014/ïé iwnZ Kwiqv wkí `ßi I Jla cÖkvmb cwi`ßi KZ…©K Aby‡gvw`Z Jl‡ai KvuPvgvj cÖ¯‘ZKvix wkí cÖwZôvb‡K KuvPvgvj cÖ¯‘Z Kwievi Rb¨ wb‡¤œi TABLE-G ewY©Z RvZxq I Avš@R©vwZK gvbm¤•bœ ivmvqwbK †hŠMmg–n (Technical Grade/Chemically Pure) Avg`vwbi †¶‡Î wbæewY©Z k‡Z© mgy`q Avg`vwb ïé gIKzd Kwij, h_v t-\n\nশর্ত\n\n(১) এই আদেশের অধীন রেয়াতি সুবিধা শুধু সেইসব উৎপাদনকারী প্রতিষ্ঠান এর ক্ষেত্রে প্রযোজ্য হইবে, যাহারা এই আদেশে উল্লিখিত সকল শর্ত প্রতিপালনপূর্বক আমদানিকৃত উপকরণ ব্যবহার করিয়া নিজস্ব প্রতিষ্ঠানের জন্য অথবা বাণিজ্যিকভাবে বিক্রয়ের উদ্দেশ্যে স্থানীয়ভাবে Active Pharmaceutical Ingredient (API) উৎপাদন করিয়া থাকেন।\n(২) সংশ্লিষ্ট প্রতিষ্ঠানকে মূল্য সংযোজন কর আইন, ১৯৯১ এর অধীন উৎপাদক হিসাবে নিবন্ধিত হইতে হইবে।\n(৩) আমদানিকারককে ঔষধ প্রশাসন অধিদপ্তর কর্তৃক অনুমোদিত ঔষধের সক্রিয় কাঁচামাল (API) প্রস্তুতকারী শিল্প প্রতিষ্ঠান হিসেবে প্রত্যয়িত হইতে হইবে।\n(৪) আমদানিকৃত রাসায়নিক যৌগসমূহ ঔষধের কাঁচামাল প্রস্তুত করতে একইভাবে ব্যবহৃত হইবে- এই মর্মে মহাপরিচালক, ঔষধ প্রশাসন অধিদপ্তর কর্তৃক অনুমোদিত ও প্রত্যয়িত ব্লকলিস্টে উল্লিখিত মূল্যে ও পরিমাণে সংশ্লিষ্ট শিল্প প্রতিষ্ঠান আমদানি করিতে পারিবে।\n(৫) সংশ্লিষ্ট শিল্প প্রতিষ্ঠান তাহাদের আমদানিকৃত প্রতি চালানের রাসায়নিক যৌগসমূহ ঔষধের কাঁচামাল প্রস্তুতিতে যথাযথভাবে ব্যবহার করিয়াছেন মর্মে ঔষধ প্রশাসন অধিদপ্তর কর্তৃক প্রদত্ত প্রত্যয়নপত্র ট্যারিফ কমিশন ও সংশ্লিষ্ট কাস্টমস কমিশনার এবং ভ্যাট কমিশনারেটের কমিশনারের নিকট দাখিল করিবে।\n(৬) এই আদেশের আওতাধীন উপকরণ অনুমোদিত ব্লক লিস্ট অনুযায়ী আমদানি করিয়া Active Pharmaceutical Ingredient (API) উৎপাদন করা হইতেছে কিনা তাহা সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার তাহার অধীনস্থ সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার মাধ্যমে প্রতি ৬ (ছয়) মাস অন্তর সরেজমিনে পরিদর্শন করিয়া নিশ্চিত করিবেন।\n(৭) আমদানিকৃত উপকরণ বিক্রয় বা হস্তান্তর করা এবং ঔষধের সক্রিয় কাঁচামাল (API) উৎপাদন ব্যতিরেকে অন্য কোন কাজে ব্যবহার করা যাইবে না।\n(৮) কোন উৎপাদনকারী এই আদেশের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাহার বিরুদ্ধে Customs Act, 1969 ও মূল্য সংযোজন কর আইন, ১৯৯১ এর বিধান অনুযায়ী ও প্রযোজ্য ক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইন মোতাবেক প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।\n\nTABLE\n\n\n| Heading | H.S. Code | Description |\n| --- | --- | --- |\n| 12.11 | 1211.90.21 | Peppermint |\n| 13.01 | 1301.90.00 | Xanthan gum 1400 |\n| 17.01 | 1701.99.00 | Sucrose (Sugar) |\n| 22.07 | 2207.10.00 | Ethyl alcohol 98% Ethanol |\n| 25.01 | 2501.00.10 | Sodium Chloride |\n| 25.12 | 2512.00.00 | Kieselguhr (Hyflow Supercel) |\n| 25.19 | 2519.90.00 | Magnesium oxide |\n| 25.26 | 2526.20.10 | Purified talc |\n| 27.10 | 2710.19.19 | Petroleum Ether |\n| 28.01 | 2801.10.00 | Chlorine |\n|  | 2801.30.00 | Bromine |\n| 28.04 | 2804.30.00 | Liquid Nitrogen |\n| 28.05 | 2805.11.00 | Sodium Metal |\n| 28.06 | 2806.10.00 | Hydrochloric Acid |\n| 28.07 | 2807.00.00 | Sulphuric Acid |\n| 28.08 | 2808.00.00 | Nitric Acid |\n| 28.09 | 2809.20.00 | Ortho Phosphoric Acid |\n| 28.09 | 2809.20.00 | Phosphoric Acid |\n| 28.11 | 2811.19.00 | Perchloric Acid |\n|  | 2811.21.00 | Dry Ice |\n|  | 2811.22.00 | Aerosil |\n| 28.12 | 2812.12.00 | Phosphorous Oxy Chloride |\n|  | 2812.17.00 | Thionyl Chloride |\n|  | 2812.90.00 | Thionyl chloride |\n|  | 2812.90.00 | Tributyltin chloride |\n|  | 2812.90.00 | Valeroyl chloride |\n| 28.13 | 2813.10.00 | 4-Fluorobenzaldehyde |\n| 28.14 | 2814.10.00 | Ammonia Gas |\n|  | 2814.20.00 | Ammonia |\n|  | 2814.20.00 | Ammonia (25%) |\n|  | 2814.20.00 | Ammonia Liquor |\n|  | 2814.20.00 | Ammonia Solution |\n|  | 2814.20.00 | Ammonium Hydroxide |\n| 28.15 | 2815.11.00 | Caustic Soda (flakes)/sodium hydroxide |\n|  | 2815.20.00 | Potassium Hydroxide |\n| 28.18 | 2818.30.00 | Aluminium Hydrate |\n| 28.21 | 2821.10.00 | Cast Iron Powder (Reduction Grade) |\n| 28.23 | 2823.00.00 | Titanium dioxide |\n|  | 2823.00.00 | Titanium (IV) isopropoxide |\n| 28.25 | 2825.10.00 | Hydroxyl Amine |\n| 28.27 | 2827.20.00 | Calcium Chloride |\n|  | 2827.31.00 | Magnesium Chloride Hexahydrate |\n|  | 2827.32.00 | Aluminium Chloride (Anhydrous) |\n|  | 2827.39.00 | Chromic Chloride |\n|  | 2827.59.00 | Thiazolium Bromide |\n|  | 2827.60.00 | Cuprous iodide |\n|  | 2827.60.00 | Patassium Iodide |\n| 28.28 | 2828.10.00 | Hypo Cholorite Solution |\n|  | 2828.90.00 | Sodium Hypochlorite (5.25%) |\n| 28.30 | 2830.10.00 | Sodium Sulphide (Flakes)/ Sodium Sulphide (30%) |\n| 28.32 | 2832.10.00 | Sodium Hydrosulfite |\n|  | 2832.10.00 | Sodium Meta Bisulphite |\n|  | 2832.20.00 | Sodium Bisulphite |\n|  | 2832.20.00 | Sodium Hydrosulphate-min 92% |\n|  | 2832.20.00 | Sodium hydrosulphite (Hydrose) |\n|  | 2832.20.00 | Sodium Thiosulfate |\n| 28.33 | 2833.19.00 | Anhydrous Sodium Sulphate/ Sodium Sulphate |\n|  | 2833.19.00 | Potassium Hydrogen Sulphate |\n|  | 2833.19.00 | Sodium Lauryl Sulphate |\n|  | 2833.21.00 | Magnesium Sulphate |\n|  | 2833.21.00 | Magnesium Sulphate Heptahydrate |\n|  | 2833.24.00 | Nickle Sulphate |\n| 28.34 | 2834.10.00 | Sodium Nitrite-min 95% |\n| 28.35 | 2835.22.00 | Sodium dihydrogen phosphate |\n|  | 2835.24.00 | Di Potassium Hydrogen Phosphate |\n|  | 2835.29.00 | 2-Chloro-1,3-Bis(Dimethylamino Trimethinium Hexafluorophosphate (CDT-Salt) |\n| 28.36 | 2836.20.00 | Sodium Carbonate |\n|  | 2836.30.00 | Potassium Carbonate |\n|  | 2836.30.00 | Sodium Bicarbonate |\n|  | 2836.40.00 | Potassium Bicarbonate |\n|  | 2839.90.90 | Sodium metavandate Dihydrate |\n| 28.41 | 2841.61.00 | Potassium Permaganate |\n|  | 2841.70.00 | Ammonium Molibdate |\n|  | 2841.70.00 | Sodium Molibdate |\n|  | 2841.70.00 | Sodium Tungastate |\n| 28.42 | 2842.10.10 | Molecular Sieve 3A powder |\n|  | 2842.90.90 | Sodium Selenate Anhydrous |\n| 28.47 | 2847.00.00 | Hydrozen Peroxide |\n| 28.50 | 2850.00.00 | Sodium Azide |\n| 28.50 | 2850.00.00 | Sodium Brohydride |\n|  | 2850.00.00 | Sodium Hydride |\n| 29.01 | 2901.10.00 | Heptane |\n|  | 2901.10.00 | Hexane |\n|  | 2901.10.00 | n-Heptane |\n|  | 2901.10.00 | N-Hexane |\n|  | 2901.10.00 | n-Pentane |\n| 29.02 | 2902.11.00 | Cychlohexane |\n|  | 2902.20.00 | Benzene |\n|  | 2902.20.00 | Parachlorobenzophenone(4-Chlorobenzophenone) |\n|  | 2902.30.00 | P-toluenesulphonylurea (PTSU) |\n|  | 2902.30.00 | Toluene |\n|  | 2902.41.00 | Mix-Xylene |\n|  | 2902.41.00 | O-Xylene |\n|  | 2902.41.00 | Xylene |\n|  | 2902.90.90 | 4-bromomethyl-2-cyanobiphenyl(Bro-OTBN) |\n| 29.03 | 2903.12.00 | Methylene dichloride |\n|  | 2903.12.00 | Methylene dichloride |\n|  | 2903.13.00 | Chloroform |\n|  | 2903.15.00 | Dichloro Ethane |\n|  | 2903.15.00 | Ethylene Dichloride |\n|  | 2903.39.00 | 1-Acetoxyethylbromide (1-AEB) |\n|  | 2903.39.00 | Methyl Iodide |\n|  | 2903.91.00 | Chloro Benzene |\n|  | 2903.99.00 | 1,3 Dichloroflurobenzene |\n|  | 2903.99.00 | 1,3-Difluoro Benzene |\n| 29.04 | 2904.10.10 | Methane Sulfonic Acid |\n|  | 2904.10.90 | ParoToluene sulphonic Acid |\n|  | 2904.20.00 | Para Nitro Chlorobenzene-min 98% |\n|  | 2904.99.00 | Para toluene Sulphonyl Chloride |\n|  | 2904.99.00 | p-Toluenesulfonic Acid |\n|  | 2905.11.90 | Denatured Spirit (Industrial Methylated Sprit) |\n|  | 2905.11.90 | Methanol |\n|  | 2905.11.90 | Methanolic HCL |\n|  | 2905.12.10 | Iso propyl Alcohol (IPA) |\n|  | 2905.12.90 | Isopropanol |\n|  | 2905.12.90 | N-Butanol |\n|  | 2905.19.00 | Sodium Methoxide Solution (25%) |\n|  | 2905.19.00 | Titanium(IV) isopropoxide |\n|  | 2905.39.00 | Methyl Ethyl Glycol |\n|  | 2905.43.00 | Mannitol |\n|  | 2905.59.90 | Chloro Ethanol |\n| 29.07 | 2907.11.00 | Phenol-min 95% |\n|  | 2907.15.00 | B-Napthol |\n|  | 2907.19.00 | Chloro Compound |\n|  | 2907.29.00 | 5-(4'-(bromomethyl) (1,1'-biphenyl)-2-yl)-1-trityl-1h-tetraazole |\n| 29.09 | 2909.11.00 | Diethyl Ether |\n|  | 2909.19.00 | 1,2-Dimethoxy Ethane |\n|  | 2909.19.00 | Diisopropyl ether |\n|  | 2909.19.00 | Methyl Tert Butyl Ether (MTBE) |\n|  | 2909.60.00 | Cumene hydroperoxide |\n| 29.12 | 2912.11.00 | Formaldehyde |\n|  | 2912.11.00 | Formaldehyde (37% w/w) |\n|  | 2912.21.00 | Benzaldehyde |\n|  | 2912.49.00 | 3,4,5 TMBA (Trimethoxy Benzaldehyde) |\n|  | 2912.50.00 | Paraformaldehyde |\n| 29.13 | 2913.00.00 | O-Chloro- Benzaldehyde |\n| 29.14 | 2914.11.00 | Acetone |\n|  | 2914.12.00 | Methyl Ethyl Ketone (MEK) |\n|  | 2914.13.00 | Methyl Isobutyl Ketone |\n|  | 2914.22.00 | Cyclohexanone |\n|  | 2914.79.00 | 1-(2,4 Difluoro) - 1-H-1,2,4-Triazole-1-yl Acetophenone |\n|  | 2914.79.00 | 2,4 Dichoro-5-Flouro Acetophenone |\n|  | 2914.79.00 | 2,4-Difluoro-a-(1H-1,2,4-Triazolyl) Acetophenone |\n|  | 2914.79.00 | 4-Chloro Benzophenone |\n|  | 2914.79.00 | Parachlorobenzophenone |\n| 29.15 | 2915.11.00 | Formic Acid |\n|  | 2915.21.00 | Acetic Acid-min 92% |\n|  | 2915.21.00 | Glacial Acetic acid |\n|  | 2915.24.00 | Acetic Anhydride-min 98% |\n|  | 2915.29.10 | Sodium acetate |\n|  | 2915.29.90 | Ammonium Acetate |\n|  | 2915.29.90 | Calcium Acetate |\n|  | 2915.29.90 | (R)-(-)-3-(Carbamoylmethyl)-5-Methylhexanoic acid |\n|  | 2915.31.00 | Ethyl Acetate |\n|  | 2915.39.00 | (4R-Cis)-1,1-dimethylethyl-6(2-aminoethyl)-2,2-dimethyl-1,3-dioxane-4-acetate |\n|  | 2915.39.00 | 4-(t-Butyl Acetate)-6-(2-Aminoethyl)-2,2-Dimetyl 1,3-Dioxane |\n|  | 2915.39.00 | Isopropyl acetate |\n|  | 2915.39.00 | Methyl [4-(4-chloro-1-oxobutyl)]-a, a-dimethyl phenylacetate (or)2-[4-(4-chloro 1-oxobutyl)-phenyl]-2-methylpropionic acid methyl ester |\n|  | 2915.39.00 | Methyl Isobutyryl Acetate |\n|  | 2915.40.00 | 4-Chloro Ethyl Aceto Acetate |\n|  | 2915.40.00 | Methyl dichloro acetate |\n|  | 2915.40.00 | Sodium Chloro Acetate |\n|  | 2915.40.00 | Sodium Monochloro Acetic Acid |\n|  | 2915.50.90 | Pivalic Acid |\n|  | 2915.50.90 | Propionic anhydride |\n|  | 2915.70.10 | Stearic acid |\n|  | 2915.90.00 | 2 Ethyl Hexanoic Acid |\n|  | 2915.90.00 | 4-Chlorobutyryl Chloride |\n|  | 2915.90.00 | 5-chlorovaleroyl chloride |\n|  | 2915.90.00 | Chloro-Acetyl Chloride |\n|  | 2915.90.00 | Ethyl Chlorofomate |\n|  | 2915.90.00 | Pivaloyl chloride |\n|  | 2915.90.00 | Sodium-2-Ethyl Hexanoate |\n|  | 2916.13.00 | Methacrylic acid |\n| 29.16 | 2916.20.00 | Cyclopropyl quinoline acid [7-chloro-1-cyelopropyl-6-fluoro-1-, 4-dihydro-4-oxoquinoline-3-carboxylic acid] |\n|  | 2916.31.00 | Methyl Paraben |\n|  | 2916.32.00 | Benzoyl Chloride |\n|  | 2916.39.00 | 2-(4-(4-(4-(hydroxydiphenylmethyl)-1-piperidinyl)-1-oxobutyl) phenyl)-2, 2-dimethyl acetic acid methyl ester. (DN10) |\n|  | 2916.39.00 | 4-(cyclopropyl carbonyl)-a,a- dimethyl phenyl acetic acid |\n|  | 2916.39.00 | 4-[4-[4-(hydroxydiphenylmethyl)-1-piperidinyl]-1-hydroxybutyl]-α,α dimethylbenzeneacetic acid (Fexofenadine base- fex12) |\n|  | 2916.39.00 | a, a-Dimethyl-4-[4-[4-(hyldroxydiphenyl methyl)-1-piperidinyl]-1-oxobutyl] phenyl acetic acid methyl ester |\n|  | 2916.39.00 | Metachloro Perbenzonic Acid |\n| 29.17 | 2917.11.00 | Diethyl oxalate |\n|  | 2917.19.00 | Ethyl Succinyl Chloride |\n|  | 2917.35.00 | Phthatic Anhydride |\n|  | 2917.39.00 | Dibutyl phthalate |\n| 29.18 | 2918.12.00 | Di-p-tolyl-tartaric acid |\n|  | 2918.12.00 | L-tartaric Acid |\n|  | 2918.13.00 | (-)-Diethyl D-tartrate |\n|  | 2918.13.00 | D (-) diethyl tartrate |\n|  | 2918.16.00 | Calcium gluconate |\n|  | 2918.19.90 | Cesium carbonate |\n|  | 2918.19.90 | D (-) Mandelic Acid |\n|  | 2918.29.00 | Sulfosalicylic acid |\n|  | 2918.30.00 | Ethylacetoacetate |\n|  | 2918.30.00 | Methylacetoacetate |\n|  | 2918.30.00 | Sodium Methoxide |\n| 29.20 | 2920.90.90 | Dimethyl Carbonate |\n|  | 2920.90.90 | Dimethyl sulphate |\n| 29.21 | 2921.11.00 | Dimethyl Amine |\n|  | 2921.11.00 | Monomethyl Amine |\n|  | 2921.11.00 | N,N-Diisopropylethylamine |\n|  | 2921.11.00 | Triethyl amine |\n|  | 2921.19.00 | Diethyl amine |\n|  | 2921.19.00 | Ethylene Diamine |\n|  | 2921.19.00 | N-N-di Isopropyl ethyl amine |\n|  | 2921.29.00 | N-Amino-3-azabicyclo(3,3,0) octane hydrochloride(NAZA) |\n|  | 2921.30.00 | Cyclopropyl Amine |\n|  | 2921.41.00 | Aniline/Aniline Oil |\n|  | 2921.42.00 | N,N-Dimethylaniline |\n|  | 2921.42.00 | N-methylaniline |\n|  | 2921.49.00 | 1-[2-amino-l-(4- methoxyphenyl) ethyl] cyclohexanol |\n|  | 2921.49.00 | 1-[2-amino-l-(4- methoxyphenyl)ethyl] cyclohexanol hydrochloride |\n| 29.22 | 2922.11.00 | 2-Amino Ethanol |\n|  | 2922.15.00 | Triethanolamine |\n|  | 2922.19.90 | 2-Amino-1 (P-nitrophenyl) 1,3 Propanediol |\n|  | 2922.19.90 | 2-Amino-2-(hydroxymethyl)-1,3-propanediol (Tromethamine) |\n|  | 2922.19.90 | 3-Amino-1-adamantanol |\n|  | 2922.19.90 | 3-Amino-1-hydroxyadamantane |\n|  | 2922.19.90 | DL-2-(4-Chlorophenyl) Glycine |\n|  | 2922.19.90 | DL-2-(4-Chlorophenyl) Glycine Methyl Ester |\n|  | 2922.19.90 | Hydroxylnovoldiamine |\n|  | 2922.29.90 | P-Aminophenol Technical White/Slight Coloured |\n|  | 2922.49.00 | D-(-) alpha-phenylglycine |\n|  | 2922.49.00 | D-Alpha phenyl glycine chloride Hydrochloride |\n|  | 2922.49.00 | Di-Sodium EDTA |\n|  | 2922.49.00 | EDTA (Ethylene Diamine Tetra Acetic Acid) Di-Sodium Salt/Disodium Edetate |\n|  | 2922.50.00 | D(-) Alpha Dihydrophenyl Methyl Sodium Salt |\n|  | 2922.50.00 | D-(-) P Hydroxyphenyl glycine |\n|  | 2922.50.00 | D-Alpha Dihydro Phenyl Glycine Dane Salt (DHPG) Dane Salt |\n|  | 2922.50.00 | D-Alpha P-Hydroxy phenyl glycine Methyl potassium (HPG Dane salt) |\n|  | 2922.50.00 | L-Valine |\n|  | 2923.90.00 | TBAB (Tetra butylammonium bromide) |\n| 29.23 | 2923.90.00 | Tetrabutyl Ammonium Bromide |\n| 29.24 | 2924.19.00 | Acetamide |\n|  | 2924.19.00 | Dimethyl Acetamide |\n|  | 2924.19.00 | Dimethyl Formamide |\n|  | 2924.19.00 | N N Dimethyl acetamide |\n|  | 2924.29.00 | Dry A.S.C.(N-Acetyl sulphanilyl chloride) |\n| 29.25 | 2925.19.90 | N-Chlorosuccinamide |\n|  | 2925.29.90 | Boc-Linagliptin |\n|  | 2925.29.90 | Guanidine Nitrate |\n|  | 2925.29.90 | Tetra Methyl Guanidine |\n| 29.26 | 2926.10.00 | Acrylonitrile |\n|  | 2926.20.00 | Dicyanadimide |\n|  | 2926.90.90 | Acetonitrile |\n|  | 2926.90.90 | Benzyl Cyanide |\n|  | 2926.90.90 | Br-OTBN |\n| 29.28 | 2928.00.00 | (Z)-ethyl 2-chloro-2-(2-(4-methoxyphenyl) hydrazono) acetate |\n| 29.29 | 2929.10.00 | 4-Chloro-3-(trifluoromethyl)phenyl isocyanate |\n|  | 2929.10.00 | Trans-4-methyl cyclohexyl isocyanate |\n|  | 2929.90.00 | N-[(S)-(2,3,4,5,6-Pentafluorophenoxy) phenoxyphosphinyl]-L-alaninate. |\n| 29.30 | 2930.90.90 | Dimethyl sulphoxide |\n|  | 2930.90.90 | Tri methyl sulfoxoniumiodide (TMSI) |\n|  | 2930.90.90 | Trimethyl Sulfoxonum lodide |\n| 29.31 | 2931.90.00 | 1,3-Bis(trimethylsilyl)urea (BSU) |\n|  | 2931.90.00 | D-Alpha Phenyl Glycine Ethyl Aceto Acetate Potassium Salt |\n|  | 2931.90.00 | Dimethyl Dichloro silane |\n|  | 2931.90.00 | Hexamethyl dichlorosilane |\n|  | 2931.90.00 | Hexamethyl disilazane |\n|  | 2931.90.00 | Tetra Methyl Chloro Silane |\n|  | 2931.90.00 | Trimethyl chlorosilane |\n| 29.32 | 2932.11.00 | Tetrahydrofuran (THF) |\n|  | 2932.99.00 | 1,4-Dioxan |\n|  | 2932.99.00 | Dihydrophenyl Glycine Base |\n|  | 2932.99.00 | Maltol |\n|  | 2932.99.00 | Sucralose |\n| 29.33 | 2933.19.00 | (4R-Cis)-1, 1-dimethylethyl-6-[2-[(2-4-flurophenyl)-5-(1-methylethyl)-3-phenyl 4-[(phenylamino) carbonyl]-1H-pyrrol-1-yl] ethyl]-2, 2-dimethyl-1,3 dioxane-4-acetate |\n|  | 2933.19.00 | 5-(4-fluoropheynl)-2-(1-methylethyl)-1-(3-oxopropyl)-n,4-4-diphenyl-1H-pyrrole 3-carboxamide |\n|  | 2933.21.00 | 2-Butyl-4-Chloro-1-[2-(2-Trityl-2H tetrazole-5-yl) Biphenyl-4-yl-methyl-1H Imidazole-5-yl-Methanol |\n|  | 2933.21.00 | 2-Butyl-5-Chloro 1H-Imidazole-4-Carbaldehyde |\n|  | 2933.29.00 | (+/-)-5-benzoyl-2,3-dihydro-1H pyrrolizine-1-carboxylic acid (Ketorolac acid) |\n|  | 2933.29.00 | 2-Butyl-4-Chloro-5-formylimidazole |\n|  | 2933.29.00 | 2-Marcepto-5-difluoromethoxy benzimidazole |\n|  | 2933.29.00 | 2-n-butyt-4 chtoro-S-hydroxy methyl-2[3 cyano biphenyl] imidazole(BCFI) |\n|  | 2933.29.00 | Imidazole |\n|  | 2933.29.00 | Trityl Losartan (2-butyl-4 chloro-1'ft2 '(1H-tetrazole-S-yl)[1'1 -biphenyl]-4'yllmethyll-1H-imidazole' 5'methanol) |\n|  | 2933.31.00 | 2-chloromethyl-3,4-dimethoxy pyridine hydrochloride |\n|  | 2933.31.00 | Methyl ethyl 2-(2-aminoethoxymethyl)-4-(2-chlorophenyl)-6-methyl-1,4-dihydropyridine-3,5-dicarboxylate; Amlodipine base |\n|  | 2933.31.00 | Pyridine |\n|  | 2933.32.00 | (R)-3-Aminopiperidine dihydrochloride |\n|  | 2933.32.00 | Isonipecotic Acid (4-Piperidinecarboxylic Acid) |\n|  | 2933.32.00 | Ketosulfone; 1-(6-Methylpyridin-3-yl)-2-[4-(methylsulfonyl) phenyl] ethanone |\n|  | 2933.39.00 | [2-[4-(3-methoxy propoxy)-3-methyl pyridine-2yl]methyl sulfonyl] 1-H benzimidazole (Intermediate - 01) |\n|  | 2933.39.00 | [2-[4-(3-methoxy propoxy)-3-methyl pyridine-2yl]methyl thio] 1-H benzimidazole (Rebeprazole Sulfide) |\n|  | 2933.39.00 | [3aR- (3a , 4 , 6 , 6a )]-2- [ [6- [ [5-amino 6-chloro-2- (propylthio)-4- pyrimidinyl] amino] tetrahydro-2,2-dimethyl-3aH -cyclopenta [d] [1,3] dioxol-4yl] oxy] ethanol |\n|  | 2933.39.00 | 1,3-dioxane-4-acetic acid,6-[(1E)-2-[4-(4-fluoro phenyl)-6-(1-methyl ethyl)-2-[methyl(methyl sulfonyl) amino]-5-pyridinyl]-2,2-dimethyl-1,1- dimethyl ethyl ester (4R,6R). |\n|  | 2933.39.00 | 1-methyl-2-pyrrolidone |\n|  | 2933.39.00 | 2,6-Lutdine |\n|  | 2933.39.00 | 2-[4-[4-[4-(Hydroxydiphenylmethyl)-1-piperidinyl]-1-oxobutyl]phenyl]-2,2-dimethylacetic acid methyl ester |\n|  | 2933.39.00 | 2-Chloroethanol |\n|  | 2933.39.00 | 2-chloromethyl-3,4-dimethoxy pyridine hydrochloride |\n|  | 2933.39.00 | 2-Chloromethyl-3,5-dimethyl- 4-methoxy pyridine hydrochloride |\n|  | 2933.39.00 | 2-Chloromethyl-4-methoxy-3,5-dunethyl pyridine HCL |\n|  | 2933.39.00 | 2-mercapto-5-methoxy benzimidazole |\n|  | 2933.39.00 | 2-Methoxy propane |\n|  | 2933.39.00 | 4-(4-aminophenoxy)-N methylpicolinamide |\n|  | 2933.39.00 | 4-[1-(4-methyl piperazinyl)methyl] benzoic acid dihydrochloride |\n|  | 2933.39.00 | 5-difluromethoxy-2-{[(3,4-dimethoxy-2-pyridinyl)methyl]thio}-1H-benzimidazole |\n|  | 2933.39.00 | 5-difluromethoxy-2-{[(3,4-dimethoxy-2-pyridinyl)methyl]thio}-1H-benzimidazole |\n|  | 2933.39.00 | 5-Methoxy-2-(4-methoxy)-3,5-Dimethyl 2-Pyridinylmethyl) thio-1H Benzamidazole |\n|  | 2933.39.00 | 5-Methoxy-2-(4-methoxy)-3,5-Dimethyl 2-Pyridinylmethyl)thio-1H Benzamidazole (Omeprazole Sulphide) |\n|  | 2933.39.00 | Aza Cyclonol |\n|  | 2933.39.00 | Ethyl 1-(4-methoxyphenyl)-7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3-carboxylate |\n|  | 2933.39.00 | Fexofenadine Base |\n|  | 2933.39.00 | N-methyl pyrrolidone(NMP) |\n|  | 2933.39.00 | Pantoprazole Sulphide |\n|  | 2933.39.00 | Piperadine |\n|  | 2933.39.00 | Pyridine Hydrobromide |\n|  | 2933.39.00 | Sorafenib Base |\n|  | 2933.39.00 | α,α-Diphenyl-4-piperidinemethanol |\n|  | 2933.49.00 | 1-Cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-yl-quinoline-3-Carboxylic acid(Cipro base) |\n|  | 2933.49.00 | 4,7-dichloro Quinoline |\n|  | 2933.49.00 | 7-Chloro-1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxoquinoline-3-carboxylic acid/ Q-acid |\n|  | 2933.49.00 | Q-Acid (7-Chloro-6-Fluoro-4-Oxo-1-Cyclopropylamine 1,4 Dihydro Quinoline 3 Carbuxylic Acid) |\n|  | 2933.49.00 | Quinoline |\n|  | 2933.59.90 | 1-(4-Chlorobenzhydryl) Piperazine |\n|  | 2933.59.90 | 1,8-Diazabicyclo[5.4.0]undec-7-ene (DBU) |\n|  | 2933.59.90 | 2-(((3aR,4S,6R,6aS)-6-(5-chloro-7-(((1R,2S)-2-(3,4-difluorophenyl)cyclopropyl)amino)-5-(propylthio)-3H-[1,2,3]triazolo[4,5-d]pyrimidin-3-yl)-2,2-dimethyltetrahydro 3aH-cyclopenta[d][1,3]dioxol-4-yl)oxy)ethanol |\n|  | 2933.59.90 | 4-Chloro Benzhydryl Piperazine |\n|  | 2933.59.90 | Ethoxy carbonyl piperazine |\n|  | 2933.59.90 | Piperazine Acetate |\n|  | 2933.59.90 | Piperazine/ Piperazine Anhodrous |\n|  | 2933.79.90 | N-methyl pyrolidone |\n|  | 2933.99.00 | (1 R, 2S)-2-(3,4diflurophenyl) cyclopropyl amine HCI |\n|  | 2933.99.00 | (R)-3-(Boc-Amino)piperidine |\n|  | 2933.99.00 | [BOC-(R)-3-Amino-4-(2,4,5-trifluorophenyl butyric acid)] |\n|  | 2933.99.00 | 1-(3-Chloropropyl)-2-benzimidazolinone |\n|  | 2933.99.00 | 1-(4-Methoxyphenyl)-6-(4-iodophenyl)-7-oxo-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3-carboxylic acid ethyl ester |\n|  | 2933.99.00 | 1,1’-Carbonyl diimidazole |\n|  | 2933.99.00 | 1,2,4 Triazole |\n|  | 2933.99.00 | 1-[2-(2,4-Difluorophenyl)-2,3-Epoxy Propyl]-1H-1,2,4-Triazole Mesylate |\n|  | 2933.99.00 | 17α-acetoxypregn-4-ene-3, 20-dione. |\n|  | 2933.99.00 | 1H-1,2,4-Triazole |\n|  | 2933.99.00 | 2-(chloromethyl)-4-methylquinazoline |\n|  | 2933.99.00 | 2,4-Difluoro-alpha-(1H-1,2,4-triazolyl) acetophenone |\n|  | 2933.99.00 | 2-piperidone/δ-valarolactam |\n|  | 2933.99.00 | 3-(Trifluoromethyl)-5,6,7,8-tetrahydro-[1,2,4] triazolo [4,3 alpha] Pyrazine Hydrochloride |\n|  | 2933.99.00 | 3-Ethynylbenzenamine hydrochloride |\n|  | 2933.99.00 | 4-(4-Chloro-1-oxobutyl)-α,α dimethylbenzeneacetic Acid Methyl Ester |\n|  | 2933.99.00 | 4-[(4-methyl-1-piperazinyl)-methyl]-N-[4-methyl-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]phenyl]-benzamide(Imatinib free base) |\n|  | 2933.99.00 | 4-Amino-1,2,4 Triazole |\n|  | 2933.99.00 | 4-Bromomethyl-[2-(2-trityl 2H-Tetrazole-5-YL)] Biphenyl |\n|  | 2933.99.00 | 4-Chloro-6,7-bis(2-methoxyethoxy)-4(3H)-quinazoline |\n|  | 2933.99.00 | 4-Methyl-[2-(2-Trityl-2H-Tetrazole-5yl) Biphenyl |\n|  | 2933.99.00 | 5-chloro-1-(piperidin-4-yl)-2-benzimidazolinone |\n|  | 2933.99.00 | 6-chloro-3-[1-[3-(2-oxo-3H-benzimidazol 1-yl)propyl]-4-piperidyl]-1H benzimidazol-2-one (Domperidone base) |\n|  | 2933.99.00 | 8-Bromo-7-(2-butynyl)-3,7-dihydro-3-methyl-1H-purine-2,6-dione |\n|  | 2933.99.00 | Acetic acid, 2-chloro-2-[2-(4-methoxyphenyl)hydrazinylidene], ethyl ester |\n|  | 2933.99.00 | Benzimidazole |\n|  | 2933.99.00 | D-(+)-Methyl-alpha-(2-thienylethamino)(2-chlorophenyl)acetate hydrochloride |\n|  | 2933.99.00 | Indolinone Compound [1(2.6 Dichlorophenyl)-2-Indolinone] |\n|  | 2933.99.00 | Loratadine |\n|  | 2933.99.00 | Losartan Base |\n|  | 2933.99.00 | Losartan Trytile |\n|  | 2933.99.00 | Methane sulphonic acid |\n|  | 2933.99.00 | Methyl alpha-(4,5,6,7-tetrahydro thieno [2,3-c] pyrid-5-yl) (2-chlorophenyl) acetate hydrochloride. (Couple amine) |\n|  | 2933.99.00 | N-(2-methyl-5-aminophenyl)-4-(3-pyridyl)-2-pyrimidine amine |\n|  | 2933.99.00 | Omeprazole sulphide |\n|  | 2933.99.00 | Selectfluor |\n|  | 2933.99.00 | Sodium Salt 1,2,4 Triazole |\n| 29.34 | 2934.20.00 | S-2-Benzothiazolyl (Z) -2-(2-Aminothiazol-4-yl)-2-methoxycarbonyl Methoxyimino thioacetate (MICA Ester) |\n|  | 2934.99.90 | (2S)-1-(Chloroacetyl) pyrrolidine-2-Carbonitrile |\n|  | 2934.99.90 | (3-2-Chlorophenyl)-Methyl-Isoxazole-4-Carbonyl Chloride (CMIC Chloride) |\n|  | 2934.99.90 | (R)-4-oxo-4-[3-(trifluoromethyl)-5,6-dihydro[1,2,4]triazolo[4,3-a]pyrazin-7(8H)-yl]-1-(2,4,5-trifluorophenyl)butan-2-amine |\n|  | 2934.99.90 | (Z)-3-amino-1-(3-trifluoromethyl)-5,6-dihydro- [1,2,4]-trizolo[4,3-α]pyrazin -7(8H)-yl-4-(2,4,5-trifluorophenyl)but-2-en-1-one (Intermediate A) |\n|  | 2934.99.90 | 1-((2R, 3R, 4R, 5R)-3-fluoro-4-hydroxy 5-(hydroxymethyl)-3-methyltetrahydrofuran-2-yl)pyrimidine-2, 4(1H, 3H)-dione. |\n|  | 2934.99.90 | 1-(4-iodophenyl)-3-morpholino-5,6-dihydropyridin-2(1H)-one |\n|  | 2934.99.90 | 3-amino-1-(3-(trifluoromethyl)-5,6-dihydro-1,2,4 triazol (4,3-a) pyrazin-7(8H)-yl)-4-(2,4,5-trifluorophenyl)butan-1-one |\n|  | 2934.99.90 | 3-morpholino-1-(4-(2-oxopiperidin-1-yl)phenyl)-5,6-dihydropyridin-2(1H)-one |\n|  | 2934.99.90 | 6-Amino Penicillanic acid |\n|  | 2934.99.90 | 6α,9α-Difluoro-11β-hydroxy-16α-methyl 17α-propionyloxy-3-oxoandrosta-1,4-diene-17β-carbothioate |\n|  | 2934.99.90 | 7- Amino decetoxy cephalosporanic acid |\n|  | 2934.99.90 | 7-[(3R)-3-Amino-1-oxo-4-(2,4,5-trifluorophenyl) butyl] -5,6,7,8-tetrahydro 3-(trifluoromethyl) [1,2,4] trizolo[4,3-α]pyrazine-mandelate. |\n|  | 2934.99.90 | 8-Bromo-7-(2-butyn-1-yl)-3,7-dihydro-3-methyl-1-[(4-methyl-2-quinazolinyl)methyl]-1H-purine-2,6-dione |\n|  | 2934.99.90 | Azaerythromycin. |\n|  | 2934.99.90 | CMIC [3-(O-Chlorophenyl Isoxazole carboxylic acid] |\n|  | 2934.99.90 | FCMIC Chloride 3-(2 Chloro-6-Fluorophenyl-5-Methyl Isoxazole-4-Carbonyl Chloride) |\n|  | 2934.99.90 | Morpholine |\n|  | 2934.99.90 | N Methyl Morpholine |\n|  | 2934.99.90 | Thiophene-2-Ethanol |\n| 29.35 | 2935.90.00 | 4-[2-(Ethyl-4-methyl-2-carbonyl pyridine amido)ethyl] benzene sulfonamide |\n| 29.37 | 2937.23.91 | Medroxy progesterone Crude |\n| 29.38 | 2938.90.90 | N-[(1S)-2-[(1S,3S,5S)-3-cyano-2-azabicyclo[3.1.0]hex-2-yl]-1-(3-hydroxytricyclo[3.3.1.13,7]dec-1-yl)-2-oxoethyl]carbamic acid 1,1-dimethylethyl ester |\n|  | 2938.90.90 | Sitagliptin Base |\n|  | 2941.10.00 | (6R,7R)-3-{[(aminocarbonyl) oxy]methyl}-7-{[(2Z)-2-(2-furyl)-2-(methoxyimino) acetyl]amino}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid (Cefuroxime acid) |\n| 29.41 | 2941.10.00 | 7-Amino desacetoxycephalosporanic acid (7-ADCA) |\n|  | 2941.10.00 | 7-Amino-3-Vinyl-3-Cephem- 4-Carboxylic Acid (7-AVCA) |\n|  | 2941.10.00 | Penicillin G Potassium |\n|  | 2941.50.90 | Erythromycin thiocyanate |\n|  | 2941.90.90 | 9-Deoxo-9a-aza-9a-homoerythromycin A (Aza erythromycin) |\n| 29.42 | 2942.00.90 | (2S)-1-(Chloroacetyl)-2-pyrrolidinecarbonitrile |\n|  | 2942.00.90 | 1-(4-aminophenyl)-3-morpholino-5,6-dihydropyridin-2(1H)-one |\n| 31.02 | 3102.21.00 | Ammonium Sulphate-min 95% |\n| 34.02 | 3402.11.10 | Benzene Sulphonic acid |\n| 35.07 | 3507.90.90 | Acylase enzyme |\n| 38.02 | 3802.10.00 | Activated charcoal/Activated carbon |\n|  | 3802.90.00 | Hyflosupercel |\n| 38.08 | 3808.94.91 | Cetrimide |\n| 38.15 | 3815.12.00 | Platinum on Carbon |\n| 38.24 | 3824.99.90 | Methanolic Ammonia |\n|  | 3824.99.90 | Raney Nickel |\n| 39.07 | 3907.20.00 | Polysorbate-80 |\n| 39.12 | 3912.31.00 | Hydroxypropyl methyl cellulose (HPMC E-5) |\n| 39.13 | 3913.90.00 | Polacrilin Potassium |\n| 71.10 | 7110.19.00 | Palladium/carbon (type E101 N/W) |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 21(b) of the Act empowers the National Board of Revenue to grant exemptions from customs duties on the importation of specific industrial raw materials under prescribed conditions.",
+          "The Act serves as the legal framework for the enforcement of conditions and penalties related to the improper use or disposal of duty-free imported goods by manufacturing enterprises."
+        ],
+        "National Board of Revenue": [
+          "The Board is authorized under the Customs Act to issue notifications providing duty-free concessions for specific chemical raw materials used by approved pharmaceutical manufacturers.",
+          "The Board has repealed a previous order through this notification to streamline the regulatory framework for industrial raw material imports."
+        ],
+        "Pharmaceutical Raw Materials": [
+          "These materials, as detailed in the attached table, are eligible for a total customs duty exemption when imported by industrial units approved by the Directorate General of Drug Administration for the production of Active Pharmaceutical Ingredients (API).",
+          "The import of these specific chemical compounds is restricted to manufacturers who are VAT-registered and fully compliant with the conditions regarding the use of approved block lists and post-import certification requirements."
+        ],
+        "Active Pharmaceutical Ingredient (API)": [
+          "The duty-free import facility is strictly provided for the production of APIs by pharmaceutical manufacturing enterprises for either internal use or commercial sale.",
+          "Manufacturers must ensure that imported inputs are strictly utilized for API production, and the relevant VAT Commissionerate is tasked with conducting periodic inspections to verify this usage."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The table provides a comprehensive list of specific chemical raw materials and their corresponding H.S. Codes that are granted customs duty exemptions for the pharmaceutical industry."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1861",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 21(b)",
+          "National Board of Revenue",
+          "customs duties",
+          "industrial raw materials",
+          "duty-free imported goods",
+          "manufacturing enterprises"
+        ],
+        "National Board of Revenue": [
+          "Customs Act",
+          "duty-free concessions",
+          "chemical raw materials",
+          "pharmaceutical manufacturers",
+          "industrial raw material imports"
+        ],
+        "Pharmaceutical Raw Materials": [
+          "chemical compounds",
+          "industrial units",
+          "Directorate General of Drug Administration",
+          "Active Pharmaceutical Ingredients (API)",
+          "VAT-registered manufacturers",
+          "block lists",
+          "post-import certification requirements"
+        ],
+        "Active Pharmaceutical Ingredient (API)": [
+          "pharmaceutical manufacturing enterprises",
+          "imported inputs",
+          "VAT Commissionerate"
+        ],
+        "Bangladesh Customs Tariff": [
+          "chemical raw materials",
+          "H.S. Codes",
+          "pharmaceutical industry"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        14,
+        31,
+        37,
+        98,
+        143,
+        229,
+        285,
+        308,
+        416,
+        518,
+        613,
+        629,
+        814,
+        1305,
+        1882,
+        1944,
+        2680,
+        2849,
+        3881,
+        5294,
+        9044,
+        10659,
+        10661,
+        10662,
+        10777
+      ],
+      "source_file": "customs_sros_OCR/20180607_Special/20180607_Special_output.json",
+      "clause_date": "2018-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+      "resolved_text": "২। মোটরসাইকেল উৎপাদনকারী বা ভেন্ডর শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর আবেদন করিতে হইবে। উক্ত আবেদন বিবেচনার ক্ষেত্রে জাতীয় রাজস্ব বোর্ড, সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনিত প্রতিষ্ঠান সরেজমিন যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর “পরিশিষ্ট-১” অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন এবং উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে। উক্ত অনুমোদন পত্রের সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।\n\nপরিশিষ্ট-১\n[দফা ২ দ্রষ্টব্য]\nকারখানা পরিদর্শন প্রতিবেদন\n\nআমরা নিম্নস্বাক্ষরকারীগণ গত ------------খ্রিঃ তারিখ-------------------- নামীয় মোটর সাইকেল উৎপাদনকারী/মোটর সাইকেলের পার্টস উৎপাদনকারী শিল্প কারখানা সরেজমিনে পরিদর্শন করি। পরিদর্শনে প্রাপ্ত তথ্যাদি নিম্নরূপ, যথা:-\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। মূসক নিবন্ধন নম্বর (BIN) :\n৩। মালিক/স্বত্বাধিকারীর নাম ও ঠিকানা (বর্তমান/স্থায়ী) :\n৪। আয়কর সনদ নম্বর (TIN) :\n৫। জমি ও ভবনের বিবরণ :\n(ক) জমি ও ভবন নিজস্ব কি না :\n(খ) মোট জমির পরিমাণ :\n(গ) কারখানা ভবনের (ওয়্যারহাউসসহ) আয়তন:\n(ঘ) কারখানা ভবনের প্রকৃতি : (পাকা/সেমি পাকা/অন্যান্য) :\n(ঙ) অফিস ভবনের আয়তন :\n(চ) বিদ্যুৎ সংযোগ আছে কি না :\n৬। কারখানা ভবন ভাড়া হইলে ভাড়া চুক্তির কপি:\n৭। স্থাপিত যন্ত্রপাতির বিবরণ :\n৮। স্থাপিত যন্ত্রপাতি দ্বারা উৎপাদনযোগ্য পণ্যের বিবরণ :\n৯। উৎপাদনযোগ্য পণ্যের উপকরণ-উৎপাদ সহগ সংশ্লিষ্ট ভ্যাট কশিনারেন্টে দাখিল ও অনুমোদন করা হইয়াছে কি না :\n\nউপর্যুক্ত তথ্যাদি পর্যালোচনায় প্রতীয়মান হয় যে, বর্ণিত প্রতিষ্ঠানটি স্থানীয়ভাবে মোটর সাইকেল উৎপাদন/মোটর সাইকেলের পার্টস উৎপাদনের লক্ষ্যে প্রাথমিক প্রস্তুতি সম্পন্ন করিয়াছে। প্রতিষ্ঠানটিকে প্রজ্ঞাপন এস.আর.ও. নং ১২৮-আইন/২০আই/১৭/কাস্টমস্ তারিখ: ২৪ মে, ২০২১ খ্রিঃ এর আওতায় প্রজ্ঞাপনে উল্লিখিত পণ্য/যন্ত্রাংশ/উপকরণ রেয়াতি সুবিধায় আমদানির অনুমোদন প্রদানের সুপারিশ করা হইল এবং প্রতিষ্ঠানটিকে এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে, মোটরসাইকেল উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১/মোটরসাইকেল উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২/ভেন্ডর হিসাবে তালিকাভুক্ত করা হইল।\n\nসংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর (তারিখ)\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর (তারিখ)\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর (তারিখ)",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for receiving and reviewing applications from motorcycle manufacturers or vendor industrial enterprises seeking duty concessions on imported raw materials or spare parts.",
+          "A committee composed of representatives from the National Board of Revenue, the local Value Added Tax office, and the Ministry of Industries must inspect the applicant's factory and submit a report to the Board's Chairman before approval can be granted."
+        ],
+        "Business Identification Number": [
+          "Applicants are required to provide their Business Identification Number as part of the formal factory inspection and application process for import duty concessions."
+        ],
+        "Tax Identification Number": [
+          "Applicants must submit their Tax Identification Number as part of the mandatory documentation for factory assessment."
+        ],
+        "Bill of Entry": [
+          "A certified copy of the approval letter issued by the National Board of Revenue must be submitted along with the Bill of Entry at the time of customs clearance for every shipment of imported goods."
+        ],
+        "S.R.O. 128-AIN/2021": [
+          "This regulatory order outlines the requirements and procedures for motorcycle and motorcycle parts manufacturers to obtain duty concessions on imported inputs.",
+          "Industrial enterprises must be formally listed under specific categories according to this order to qualify for the specified import duty benefits."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2118",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "motorcycle manufacturers",
+          "vendor industrial enterprises",
+          "imported raw materials",
+          "spare parts",
+          "committee",
+          "local Value Added Tax office",
+          "Ministry of Industries",
+          "applicant's factory",
+          "report",
+          "Board's Chairman"
+        ],
+        "Business Identification Number": [
+          "Business Identification Number"
+        ],
+        "Tax Identification Number": [
+          "Tax Identification Number"
+        ],
+        "Bill of Entry": [
+          "approval letter",
+          "Bill of Entry",
+          "imported goods"
+        ],
+        "S.R.O. 128-AIN/2021": [
+          "motorcycle manufacturers",
+          "motorcycle parts manufacturers",
+          "imported inputs",
+          "Industrial enterprises"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        8,
+        27,
+        35,
+        91,
+        102,
+        110,
+        132,
+        229,
+        382,
+        433,
+        490,
+        781,
+        2142,
+        2332,
+        3304,
+        5578,
+        9974,
+        11658,
+        13258
+      ],
+      "source_file": "customs_sros_OCR/20210603_128-AIN_2021_17_Customs/20210603_128-AIN_2021_17_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১২০-আইন/২০২২/৬৮/কাস্টমস।—",
+      "text_id": "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_1",
+      "resolved_text": "এস,আর,ও নং ১২০-আইন/২০২২/৬৮/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, রেফ্রিজারেটর ও ফ্রিজার স্থানীয়ভাবে উৎপাদনের লক্ষ্যে নিম্নবর্ণিত শর্তসাপেক্ষে নিম্নে বিধৃত-\n\n(ক) উৎপাদনকারী ক্যাটাগরি-১ ভুক্ত প্রতিষ্ঠান কর্তৃক আমদানির ক্ষেত্রে:-\n(i) TABLE-I এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপনীয় আমদানি শুল্ক যেই পরিমাণ মূল্যভিত্তিক ৫ (পাঁচ) শতাংশের অতিরিক্ত হয়, সেই পরিমাণ;\n(ii) TABLE-II এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপনীয় আমদানি শুল্ক যেই পরিমাণ মূল্যভিত্তিক ১০ (দশ) শতাংশের অতিরিক্ত হয়, সেই পরিমাণ;\n\n(খ) ভেন্ডর কর্তৃক আমদানির ক্ষেত্রে TABLE-I এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপনীয় আমদানি শুল্ক যেই পরিমাণ মূল্যভিত্তিক ৫ (পাঁচ) শতাংশের অতিরিক্ত হয়, সেই পরিমাণ; এবং\n\n(গ) উৎপাদনকারী ক্যাটাগরি-২ ভুক্ত প্রতিষ্ঠান কর্তৃক আমদানির ক্ষেত্রে TABLE-II ও TABLE-III এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপনীয় আমদানি শুল্ক যেই পরিমাণ মূল্যভিত্তিক ১৫ (পনের) শতাংশের অতিরিক্ত হয়, সেই পরিমাণ;\n\nএবং উপরের দফা (ক), (খ) ও (গ) এ উল্লিখিত আমদানির সকল ক্ষেত্রেই সমুদয় রেগুলেটরি ডিউটি ও সম্পূরক শুল্ক, যদি থাকে, এতদ্দ্বারা অব্যাহতি প্রদান করিল, যথা:-\n\n\n| Heading (1) | H.S. Code (2) | Description (3) |\n| --- | --- | --- |\n| 28.11 | 2811.29.10 | Silica Gel |\n| 29.02 | 2902.19.10 | Cyclopentane |\n| 32.06 | 3206.19.20 | Mater Batch |\n| 34.03 | 3403.99.90 | Anti Corrosion Preparation |\n| 39.02 | 3902.10.00 | Polypropylene (PP) |\n|  | 3902.30.00 | Polypropylene Copolymer |\n| 39.03 | 3903.19.00 | Polystyrene (GPPS) |\n|  | 3903.30.90 | Acrylonitrile-butadiene-styrene(ABS) copolymers |\n| 39.04 | 3904.10.00 | Polyvinyl Chloride ( Resin PVC) |\n| 39.07 | 3907.20.00 | Other polyethers |\n| 39.09 | 3909.31.00 | Poly Methylene Phenyl Isocyanate (crude MDI, Polymeric MDI) |\n| 39.17 | 3917.23.10 | PVC Shrinkable Tube |\n| 39.20 | 3920.20.90 | Polymers of Propylene |\n| 72.10 | 7210.61.10 | Flat-rolled products of iron or non-alloy steel plated or coated with aluminium zinc alloys of a thickness of 0.25 mm or more |\n|  | 7210.70.10 | Flat-rolled products of iron or non-alloy steel painted, varnished or coated with plastics of a thickness of 0.3 mm or more |\n| 72.12 | 7212.20.10 | Flat rolled products of iron or non-alloy steel electrolytically plated or coated with zinc |\n|  | 7212.40.99 | Flat rolled products of iron or non-alloy steel of a width of less than 600 mm painted, varnished or coated with plastics |\n|  | 7212.50.10 | Steel plate of a thickness of 0.25 mm to 0.50 mm |\n| 74.11 | 7411.10.00 | Tubes and pipes of refined copper |\n| 79.01 | 7901.20.00 | Zinc alloys |\n| 84.14 | 8414.30.90 | Compressors of a kind used in refrigerating equipment |\n\n\n\n| Heading (1) | H.S. Code (2) | Description (3) |\n| --- | --- | --- |\n| 3403 | 3403.99.90 | Grease |\n| 3506 | 3506.99.00 | Adhesive |\n| 4016 | 4016.93.00 | Gaskets, washers and other seals |\n|  | 4016.99.90 | Other articles of vulcanized rubber |\n| 7210 | 7210.49.10 | Otherwise plated or coated with zinc other than corrugated of a thickness of 0.4 mm or more |\n|  | 7210.69.10 | Plated or coated with aluminium other than aluminium-zinc alloys of a thickness of 0.4 mm or more |\n| 7304 | 7304.39.00 | Tubes, pipes and hollow profiles |\n| 7307 | 7307.99.10 | Lock ring |\n| 7318 | 7318.15.90 | Screws and Bolts |\n|  | 7318.16.00 | Nuts |\n|  | 7318.23.90 | Rivets |\n| 7607 | 7607.20.99 | Aluminium foil |\n| 8302 | 8302.10.00 | Hinges |\n| 8418 | 8418.99.00 | Dryer |\n|  | 8418.99.00 | Evaporator for Freezer |\n|  | 8418.99.00 | Evaporator for Refrigerator |\n|  | 8418.99.00 | PCB Inverter |\n|  | 8418.99.00 | PCB Main |\n| 8505 | 8505.19.00 | Electro Magnets |\n| 8536 | 8531.20.00 | Indicator Panels Incorporating Liquid Crystal devices or LED |\n| 8536 | 8536.50.00 | Switch |\n| 8544 | 8544.42.00 | Power Cord |\n| 9032 | 9032.10.00 | Temperature Sensor |\n| 84.14 | 8414.30.20 | Compressors of a kind used in refrigerating equipment |\n\n\n\n| Heading (1) | H.S. Code (2) | Description (3) |\n| --- | --- | --- |\n| 84.15 | 8415.90.90 | Parts of Body Cabinet |\n|  | 8415.90.90 | Parts of Door |\n| 40.16 | 4016.93.00 | Gasket |\n| 84.14 | 8414.90.90 | Parts of Compressor |\n| 84.18 | 8418.99.00 | Parts of Evaporator |\n| 85.34 | 8534.00.00 | Printed Circuit Board (PCB) |\n| 39.21 | 3921.11.00 | ABS (Acrylonitrile-butadiene-Styrene) sheet |\n| 39.17 | 3917.23.10 | Shrinkable Tube |\n| 90.32 | 9032.90.00 | Parts of Temperature Sensor (Thermostat) |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This Act provides the legal authority for the government to issue notifications regarding customs duty exemptions and concessions.",
+          "Section 19(1) of this Act allows the government to grant exemptions from customs duties in the public interest."
+        ],
+        "Refrigerator": [
+          "The government has introduced fiscal measures to incentivize the local manufacturing of refrigerators and freezers."
+        ],
+        "TABLE-I": [
+          "This table lists specific goods, identified by H.S. Code, which are eligible for partial customs duty exemption when imported by specific categories of local manufacturers or vendors."
+        ],
+        "TABLE-II": [
+          "This table provides a list of industrial inputs and components that qualify for duty concessions when imported for the domestic production of refrigeration equipment."
+        ],
+        "TABLE-III": [
+          "This table outlines components and parts for refrigerating equipment that are eligible for specific duty relief when imported by defined categories of local manufacturers."
+        ],
+        "H.S. Code": [
+          "The H.S. Codes listed in the tables define the exact categories of imported inputs that qualify for duty reduction or exemption under this regulatory order."
+        ],
+        "Customs Duty": [
+          "This order restricts the chargeable import duty on specific industrial inputs to a maximum percentage of the value, effectively granting an exemption on the excess amount."
+        ],
+        "Regulatory Duty": [
+          "The order grants a total exemption from regulatory duty for all inputs listed in the relevant tables when imported for the purpose of local manufacturing."
+        ],
+        "Supplementary Duty": [
+          "The order provides a full exemption from supplementary duty on all qualifying imported inputs used for the local production of refrigerating equipment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2177",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "notifications",
+          "customs duty exemptions",
+          "concessions",
+          "Section 19(1)",
+          "customs duties"
+        ],
+        "Refrigerator": [
+          "refrigerators",
+          "freezers"
+        ],
+        "TABLE-I": [
+          "goods",
+          "H.S. Code",
+          "customs duty exemption",
+          "local manufacturers",
+          "vendors"
+        ],
+        "TABLE-II": [
+          "industrial inputs",
+          "components",
+          "duty concessions",
+          "refrigeration equipment"
+        ],
+        "TABLE-III": [
+          "components",
+          "parts",
+          "refrigerating equipment",
+          "duty relief",
+          "local manufacturers"
+        ],
+        "H.S. Code": [
+          "imported inputs",
+          "duty reduction",
+          "exemption"
+        ],
+        "Customs Duty": [
+          "import duty",
+          "industrial inputs",
+          "exemption"
+        ],
+        "Regulatory Duty": [
+          "inputs",
+          "exemption"
+        ],
+        "Supplementary Duty": [
+          "supplementary duty",
+          "imported inputs",
+          "refrigerating equipment"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        5,
+        10,
+        14,
+        16,
+        28,
+        36,
+        42,
+        52,
+        54,
+        75,
+        106,
+        154,
+        185,
+        189,
+        194,
+        229,
+        272,
+        330,
+        413,
+        556,
+        584,
+        877,
+        1120,
+        1149,
+        1180,
+        1379,
+        2017,
+        2413,
+        7541
+      ],
+      "source_file": "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+      "resolved_text": "সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, স্থানীয়ভবে Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনের লক্ষ্যে নিম্নে বিধৃত-\n\n(ক) TABLE-1 এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপণীয় উক্ত আইনের প্রথম তফসিলে উল্লিখিত কাস্টমস শুল্ক (Customs Duty), যেই পরিমাণে মূল্যভিত্তিক ৫ (পাঁচ) শতাংশ; এবং\n\n(খ) TABLE-2 এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপণীয় উক্ত আইনের প্রথম তফসিলে উল্লিখিত কাস্টমস শুল্ক (Customs Duty), যেই পরিমাণে মূল্যভিত্তিক ১০ (দশ) শতাংশ-\n\nএর অতিরিক্ত হয় সেই পরিমাণ এবং সমুদয় মূল্য সংযোজন কর বা ক্ষেত্রমত, রেগুলেটরি শুল্ক ও সম্পূরক শুল্ক, যদি থাকে, হইতে নিম্নলিখিত শর্তাধীনে অব্যাহতি প্রদান করিল, যথা:-\n\n\n| Heading (1) | H. S. Code (2) | Description (3) |\n| --- | --- | --- |\n| 39.26 | 3926.90.99 | A- cover; B- cover; C- cover; D- cover;Back Cover; Side Cover-Left; Side Cover- Right;[For Computer Monitor, Laptop Monitor, Tab, Keyboard, Camera & Mouse |\n| 58.06 | 5806.32.90 | Synthetic Cloth |\n| 71.11 | 7111.00.00 | Dome3-PCB Assy shield cover, SUN Shield |\n| 72.26 | 7226.99.90 | Processed plain metal- Alloy Sheet for NBR/DVR Housing; Decoration Steel Sheet for making NBR/DVR Body Casing |\n| 73.08 | 7308.90.99 | Frame |\n| 73.18 | 7318.15.90 | Screw |\n| 74.08 | 7408.11.00 | Coil |\n| 84.62 | 8462.90.00 | Turret5-Front Dome-JF, C-2190 466X352X278 Turret 3 1(36), Turret5-Fixing Ring-(STD), Turret5-Rear Dome(3.6mm/6mm)-JF, Back Box (Steel/Plastic), IR board, Front Box, C-3889 111x111x84 dome camera gift, Turret5-Fixing Shell, Enclosure |\n| 84.70 | 8470.10.00 | Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket issuing machines and similar machines, incorporating a calculating device, cash registers |\n| 84.73 | 8473.30.00 | CCD Lens Module; |\n|  | 8473.40.00 | ATM parts (Includes EPP/Midbox etc) |\n| 85.05 | 8505.19.00 | Magnet For Speaker, Magnet |\n| 85.17 | 8517.79.00 | Loaded Printed Circuit Board/ PCB Assembled/ Mother Board for Camera, PCB Assembled/ Mother Board for DVR/NBR |\n| 85.18 | 8518.90.00 | Parts & Components For Speaker, Woofer, Tweeter, Diafarm, Horn, Ntc, Crossover, Fm Moudle, Bt Moudle, Subwoofer |\n| 85.23 | 8523.59.10 | proximity cards and tags, Proximity Cards and tags |\n| 85.36 | 8536.50.00 | 1 Gang switch, 2 Gang Switch, 2 pic socket, 3 Gang switch, 3 pin Socket(13amp), 3 pin Socket(15amp), Calling Bell, Dish Point, DP Switch, Micro Dimmer (2nd Edition), Fan Dimmer, Telephone point, TV point, Switches, Telephone Switch, Push Button |\n|  | 8536.49.90 | Stereo Audio Connector, Ribon Connector |\n| 85.42 | 8542.31.10 | Processors & controllers, whet. or not comb.logic ckt, a, SIM module |\n| 85.43 | 8543.70.10 | REMOTE MEGMEET, ANTENNA, REMOTE |\n|  | 8543.90.00 | DS-23405 (V3.3)-12(40°)9-S2, DG454-200PC95-JN, SC-PA2×7-JMP, 720P TVI 238E5-EN(4IN1)(3.6mm), EVA-D13x21.5x10, SC-PA2×10-JMP, SC-T1M2×4, ST-S4×13.5-B2×5-F2×5-B, Drill Template |\n| 85.44 | 8544.19.90 | Flexible Flat Cable Motherboard to Audio Board; Flexible Flat Cable for power board to motherboard; Flexible Flat Cable Motherboard to audio Board; Ribbon Cables; Low Voltage Serial (LVS) Cable; Power Cord; Speaker Cable; USB Cable; Wire CableFor CCD D-MIC; Wire Cable For Lid,Loaded Printed Circuit Board/PCB Assembled/ Mother Board for Adapter |\n| 90.05 | 9005.90.00 | Turret5- Base, Mounting Base |\n| 90.06/ 85.41 | 9006.69.00/ 8541.49.00 | LED/ Flash Light, Light Emiting Diodes (LED) |\n\n\n\n| Heading (1) | H. S. Code (2) | Description (3) |\n| --- | --- | --- |\n| 32.08 | 3208.90.10 | Paint |\n| 39.23 | 3923.10.00 | Packing Materials |\n|  | 3923.21.00 | Computer software (Driver CD) Packing Materials |\n| 70.20 | 7020.00.90 | ATM Display |\n| 83.03 | 8303.00.00 | ATM Safe (alone) |\n| 84.71 | 8471.60.10 | Computer and computer accessories, Finger Print and Biometric Scanner |\n|  | 8471.60.10 | MiCR Cheque Scanner, Biometric Scanner , NFC Scanner, Biometric Scanner |\n|  | 8471.70.00 | Internal Hard Disk Drive (HDD); Internal Solid State Drive (SSD); |\n|  | 8471.70.00 | Internal Hard Disk Drive (HDD); Internal Solid State Drive (SSD); |\n| 84.72 | 8472.30.00 | Cash Deposit Machine, Cash Deposit Machine (CDM) |\n| 84.73 | 8473.30.00 | Fan Module |\n|  | 8473.40.00 | Safe assembled with Dispenser,Cosmetic Door |\n| 85.17 | 8517.62.30 | Modem; Ethernet interface card, Smart router, Network Equipment (Router, Switch etc), Internet point, Network Equipment (Router, Switch etc.) |\n|  | 8517.62.90 | HSM, Firewall |\n| 85.21 | 8521.90.10 | DVR (CKD) |\n| 85.23 | 8523.29.13 | Other Software for ATM Data Processing machines |\n| 85.26 | 8526.91.10 | GPS Vehicle tracking system |\n| 85.29 | 8529.90.90 | Assembling Spare Item |\n| 85.42 | 8542.39.10 | SIM Card, 32K Storage Capacity, 64K Storage Capacity, 128K Storage Capacity(native), 64K Storage Capacity(Java), 128K Storage Capacity (Java) |\n\n\nশর্তাবলি\n\n(১) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনকারী (Manufacturer) হইতে হইবে।\nব্যাখ্যা-\n(অ) “Industrial IRC holder” অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর অধীন নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান।\n\n(২) Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনকারী শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে হইবে এবং উক্ত আবেদন বিবেচনার ক্ষেত্রে প্রথম সচিব (কাস্টমস নীতি) জাতীয় রাজস্ব বোর্ড, সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনকারী প্রতিষ্ঠান সরেজমিনে পরিদর্শন ও যাচাইপূর্বক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর পরিশিষ্ট-১ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন। উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদনপত্রের ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।\n\n(৩) Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনকারী কর্তৃক প্রতি একক Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনের জন্য সম্ভাব্য বা যৌক্তিক অপচয়সহ কী কী উপকরণ কী পরিমাণে আবশ্যক (উপকরণ উৎপাদ সহগ) সে-সম্পর্কিত তথ্য পরিশিষ্ট-২ অনুযায়ী ৩ (তিন) কপি পণ্য আমদানির পূর্বে সংশ্লিষ্ট ভ্যাট কমিশনারেট এর কমিশনার বরাবর দাখিল করিতে হইবে এবং কমিশনার উক্ত উপকরণ-উৎপাদ সহগ অনুমোদনপূর্বক প্রতিস্বাক্ষর করিবেন এবং একটি কপি অফিসের রেকর্ডহিসাবে সংরক্ষণ করিবেন, দ্বিতীয় কপি জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবরে প্রেরণ করিবেন এবং অপর কপি প্রতিষ্ঠান কর্তৃপক্ষকে ফেরত দিবেন। পরিশিষ্ট-২ এর সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।\n\n(৪) এই প্রজ্ঞাপনে উল্লিখিত যন্ত্রাংশ বা উপকরণ পরিশিষ্ট-২ অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার একজন যুগ্ম কমিশনার ও সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার সমন্বয়ে একটি কমিটি গঠন করিবেন। গঠিত কমিটি প্রতি ৬ (ছয়) মাস অন্তর সরেজমিন পরিদর্শন করিয়া কমিশনারের নিকট প্রতিবেদন দাখিল করিবেন। দাখিলকৃত প্রতিবেদনের সহিত আমদানিকৃত পণ্যের ব্যবহারজনিত বা অন্য কোনো অসংগতি থাকিলে তাহা খালাসকারী কাস্টম হাউস বা কাস্টমস স্টেশনকে অবহিত করিতে হইবে। ভ্যাট কমিশনারেট হইতে প্রাপ্ত প্রতিবেদনের ভিত্তিতে কাস্টম হাউস বা কাস্টমস স্টেশন যথাযথতা যাচাই সাপেক্ষে পুনঃশুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিবে।\n\n(৫) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নকৃত শিল্প ভোক্তা আইআরসি রহিয়াছে এবং ১৩ ডিজিট সংবলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী মাসের মূসক দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে:\nতবে শর্ত থাকে যে, কোনো দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবে।\n\n(৬)\n(ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ ক্রমিক (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন;\n(গ) এই প্রজ্ঞাপনের আওতায় খালাসকৃত প্রতিটি পণ্য চালানের তথ্য শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার কর্তৃক সংশ্লিষ্ট মূসক বিভাগে পত্রের মাধ্যমে জানাইতে হইবে। আমদানিকৃত উপকরণ বা কাঁচামাল শর্ত (৩) মোতাবেক Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদন কাজে ব্যবহৃত হইবে মর্মে সংশ্লিষ্ট আমদানিকারককে অঙ্গীকারনামা প্রদান করিতে হইবে।\n\n(৭) আমদানিকৃত পণ্য বা যন্ত্রাংশ বা উপকরণ Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদন বা সংযোজন ব্যতীত অন্য কোনো কাজে ব্যবহার বা বিক্রয় বা অন্যবিধ হস্তান্তর করা যাইবে না।\n\n(৮) কোনো উৎপাদনকারী বা সংযোজনকারী এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেই ক্ষেত্রে তাহার বিরুদ্ধে কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর সংশ্লিষ্ট বিধান অনুযায়ী ও প্রযোজ্য ক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইনের বিধান অনুযায়ী প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।\n\nপরিশিষ্ট-১\nকারখানা পরিদর্শন প্রতিবেদন\n[শর্ত (২) দ্রষ্টব্য]\nআমরা নিম্নস্বাক্ষরকারীগণ বিগত ------------------ খ্রি. তারিখ -------------------------- নামীয় Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনকারী বা সংযোজনকারী শিল্প কারখানা সরেজমিন পরিদর্শন করি। পরিদর্শনে প্রাপ্ত তথ্যাদি নিম্নরূপ, যথা:-\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। মূসক নিবন্ধন নম্বর (BIN) :\n৩। মালিক/স্বত্বাধিকারীর নাম ও ঠিকানা (বর্তমান/স্থায়ী):\n৪। আয়কর সনদ নম্বর (TIN):\n৫। জমি ও ভবনের বিবরণ:\n(ক) জমি ও ভবন নিজস্ব কিনা:\n(খ) মোট জমির পরিমাণ:\n(গ) কারখানা ভবনের (ওয়্যারহাউসসহ) আয়তন:\n(ঘ) কারখানা ভবনের প্রকৃতি: (পাকা/সেমি পাকা/অন্যান্য):\n(ঙ) অফিস ভবনের আয়তন:\n(চ) বিদ্যুৎ সংযোগ আছে কিনা:\n৬। কারখানা ভবন ভাড়া হইলে ভাড়া চুক্তির কপি:\n৭। স্থাপিত যন্ত্রপাতির বিবরণ:\n৮। স্থাপিত যন্ত্রপাতি দ্বারা উৎপাদনযোগ্য পণ্যের বিবরণ:\n৯। উৎপাদনযোগ্য পণ্যের উপকরণ-উৎপাদ সহগ সংশ্লিষ্ট ভ্যাট কমিশনারেটে দাখিল ও অনুমোদন করা হইয়াছে কিনা:\nউপর্যুক্ত তথ্যাদি পর্যালোচনায় প্রতীয়মান হয় যে, বর্ণিত প্রতিষ্ঠানটি স্থানীয়ভাবে Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনের লক্ষ্যে প্রাথমিক প্রস্তুতি সম্পন্ন করিয়াছে। প্রতিষ্ঠানটিকে প্রজ্ঞাপন এস.আর.ও. নং ১৬৮-আইন/২০২৪/২০/কাস্টমস, তারিখ: ২৯ মে, ২০২৪ খ্রিষ্টাব্দ এর আওতায় প্রজ্ঞাপনে উল্লিখিত পণ্য/যন্ত্রাংশ/উপকরণ রেয়াতি সুবিধায় আমদানির অনুমোদন প্রদানের সুপারিশ করা হইল।\n\nসংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর\nতারিখ:\n\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nপরিশিষ্ট-২\n[শর্ত (৩) ও (৪) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা\nAutomated Teller Machine (ATM) এবং Closed Circuit Camera তৈরির উপকরণ/ কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n| ক্রমিক নং (১) | পণ্যের নাম ও H.S. Code (২) | একক (৩) | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) (৪) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) (৫) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি) (৬) | ক্রমিক নং (৭) |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue issues this order to grant concessional customs duty for the import of raw materials used in the local production of Automated Teller Machines and Closed Circuit Cameras.",
+          "The Board oversees the inspection, compliance, and approval processes for manufacturers seeking these fiscal benefits."
+        ],
+        "Customs Act 2023": [
+          "This Act provides the foundational legal authority for the Government to grant exemptions or concessions on customs duties for specific industrial purposes."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This Act provides the enabling legal framework for the government to manage VAT and supplementary duty regulations in conjunction with customs duty concessions for manufacturers."
+        ],
+        "Industrial Manufacturer": [
+          "To qualify for the concessional duty, an importer must be a VAT-compliant industrial manufacturer holding a valid Industrial Import Registration Certificate.",
+          "Manufacturers must undergo factory inspections and submit input-output coefficients to the relevant VAT Commissionerate to maintain eligibility for these concessions."
+        ],
+        "Customs Duty": [
+          "Concessional rates of customs duty are applied to specific imported raw materials and parts listed in the order's tables, intended for the production of ATMs and CCTV systems.",
+          "These concessions are subject to strict compliance with manufacturing conditions, and failure to use the goods as intended leads to legal action under existing customs and VAT laws."
+        ],
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "The order incentivizes the local production of ATMs by reducing duty burdens on imported components and raw materials.",
+          "Manufacturers must strictly adhere to authorized input-output ratios and undergo periodic monitoring by a designated committee to ensure compliance."
+        ],
+        "Closed Circuit Camera Production": [
+          "The order provides duty concessions for the import of specific inputs used in the local assembly and production of Closed Circuit Cameras.",
+          "Producers are required to provide an undertaking that imported materials will only be used for the production of these cameras and not diverted for other purposes."
+        ],
+        "TABLE-1": [
+          "This table lists specific HS codes and goods that qualify for a concessional customs duty rate of five percent when imported by eligible industrial manufacturers."
+        ],
+        "TABLE-2": [
+          "This table identifies categories of imported inputs for ATM and CCTV production that are subject to a concessional customs duty rate of ten percent."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2594",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "raw materials",
+          "Automated Teller Machines",
+          "Closed Circuit Cameras"
+        ],
+        "Customs Act 2023": [
+          "customs duties"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "VAT",
+          "supplementary duty",
+          "customs duty concessions"
+        ],
+        "Industrial Manufacturer": [
+          "VAT-compliant industrial manufacturer",
+          "Industrial Import Registration Certificate",
+          "factory inspections",
+          "input-output coefficients",
+          "VAT Commissionerate"
+        ],
+        "Customs Duty": [
+          "imported raw materials",
+          "parts",
+          "ATMs",
+          "CCTV systems",
+          "customs laws",
+          "VAT laws"
+        ],
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "ATMs",
+          "imported components",
+          "raw materials",
+          "input-output ratios",
+          "designated committee"
+        ],
+        "Closed Circuit Camera Production": [
+          "imported inputs",
+          "Closed Circuit Cameras"
+        ],
+        "TABLE-1": [
+          "HS codes",
+          "goods"
+        ],
+        "TABLE-2": [
+          "imported inputs",
+          "ATM",
+          "CCTV production"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        10,
+        12,
+        14,
+        19,
+        22,
+        36,
+        54,
+        88,
+        96,
+        101,
+        132,
+        133,
+        138,
+        197,
+        229,
+        235,
+        308,
+        395,
+        472,
+        636,
+        827,
+        838,
+        892,
+        924,
+        1013,
+        1023,
+        2100,
+        2482,
+        3237,
+        3450,
+        4200,
+        8006
+      ],
+      "source_file": "customs_sros_OCR/20240606_168-AIN_2024_20_Customs/20240606_168-AIN_2024_20_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৯৫-আইন/২০২৪/৪৭/কাস্টমস।– সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, স্থানীয়ভাবে ওয়াশিং মেশিন উৎপাদনের লক্ষ্যে নিম্নে বিধৃত-\n\n(ক) TABLE-I এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপণীয় প্রথম তফসিলে উল্লিখিত কাস্টমস শুল্ক (Customs Duty) যে পরিমাণ মূল্যভিত্তিক ৫ (পাঁচ) শতাংশ; এবং\n\n(খ) TABLE-II এর কলাম (1) এ উল্লিখিত Heading এর আওতাভুক্ত কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের উপর আরোপণীয় প্রথম তফসিলে উল্লিখিত কাস্টমস শুল্ক (Customs Duty) যে পরিমাণ মূল্যভিত্তিক ১০ (দশ) শতাংশ-\n\nএর অতিরিক্ত হয়, সেই পরিমাণ, এবং সমুদয় রেগুলেটরি শুল্ক, মূল্য সংযোজন কর ও সম্পূরক শুল্ক, যদি থাকে, হইতে, নিম্নবর্ণিত শর্তসাপেক্ষে, এতদ্দ্বারা অব্যাহতি প্রদান করিল, যথা:-\n\nTABLE-I\n\n| Heading\n(1) | H.S. code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 72.12 | 7212.30.00 | Flat-rolled products of iron or non-alloy steel, plated or coated with Zinc, width less than 600mm |\n| 72.20 | 7220.20.90 | Stainless Steel Sheet; Not further work than cold rolled; width less than 600mm; Thickness of more than 0.125 mm |\n| 85.01 | 8501.20.91 | Universal AC/DC Motors of an output not exceeding 37.5 W but not exceeding 750 W |\n| 85.32 | 8532.29.90 | Fixed electrical capacitors |\n\n\nTABLE-II\n\n| Heading\n(1) | H.S. code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 39.17 | 3917.23.90 | Tubes, Pipes and Hoses Of Polymers Of Vinyl Chloride |\n| 39.21 | 3921.13.00 | plates, sheets, film, foil and strip Of polyurethanes |\n| 72.10 | 7210.70.99 | Flat-rolled products of iron or non-alloy steel, painted, varnished or coated with plastic; width more than 600mm; thickness of less than 1.0 mm |\n| 73.20 | 7320.90.90 | Clip Springs; Suspension Springs |\n| 73.26 | 7326.90.90 | Spider Angel |\n| 85.38 | 8538.90.90 | Panel |\n| 85.44 | 8544.42.00 | Electric conductors for a voltage not exceeding 1,000 V, Fitted with Connector |\n\n\nশর্তাবলি\n\n(১) আমদানিকারক প্রতিষ্ঠানকে Industrial IRC holder VAT compliant ওয়াশিং মেশিন উৎপাদনকারী (Manufacturer) হইতে হইবে;\n\nব্যাখ্যা-\n(অ) “Industrial IRC holder” অর্থ এমন প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এমন উৎপাদনকারী প্রতিষ্ঠান;\n\n(২) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নকৃত শিল্প ভোক্তা আইআরসি রহিয়াছে এবং ১৩ ডিজিট সংবলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী মাসের মূসক দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কশিনারনেট এর ওয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে:\n\nতবে শর্ত থাকে যে, কোনো দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবে;\n\n(৩) ওয়াশিং মেশিন প্রস্তুতকারী শিল্প কারখানা কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতী সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর আবেদন করিতে হইবে এবং উক্ত আবেদন বিবেচনার ক্ষেত্রে প্রথম সচিব (কাস্টমস নীতি) জাতীয় রাজস্ব বোর্ড, সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনিত প্রতিষ্ঠান সরেজমিন পরিদর্শন ও যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর পরিশিষ্ট-১ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন। উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতী হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদনপত্রের ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে;\n\n(৪) ওয়াশিং মেশিন উৎপাদনকারী কর্তৃক প্রতি একক ওয়াশিং মেশিন উৎপাদনের জন্য সম্ভাব্য বা যৌক্তিক অপচয়সহ কি কি উপকরণ কি পরিমাণে আবশ্যক (উপকরণ-উৎপাদ সহগ) সে সম্পর্কিত তথ্য পরিশিষ্ট-২ অনুযায়ী ৩ (তিন) কপি পণ্য আমদানির পূর্বেই সংশ্লিষ্ট ভ্যাট কমিশনারেট এর কমিশনার বরাবর দাখিল করিতে হইবে এবং কমিশনার উক্ত উপকরণ-উৎপাদ সহগ অনুমোদনপূর্বক প্রতিস্বাক্ষর করিবেন এবং একটি কপি অফিসের রেকর্ড হিসাবে সংরক্ষণ করিবেন, দ্বিতীয় কপি জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস নীতি) বরাবরে প্রেরণ করিবেন এবং অপর কপি প্রতিষ্ঠান কর্তৃপক্ষকে ফেরত দিবেন। পরিশিষ্ট-২ এর সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act empowers the Government to grant customs duty exemptions in the public interest."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority for granting exemptions on value added tax and supplementary duty to support local industrial manufacturing."
+        ],
+        "National Board of Revenue": [
+          "The Board is the regulatory authority that oversees the granting of duty exemptions and manages the application and verification process for manufacturers.",
+          "It establishes the committee structure for physical inspections and approves the granting of duty concessions to industrial enterprises."
+        ],
+        "Customs Duty": [
+          "The order grants duty concessions on specific imported inputs for local washing machine manufacturing, capping the duty at five percent for items listed in TABLE-I and ten percent for items in TABLE-II.",
+          "Any duty exceeding these specified thresholds, along with regulatory duties, value added tax, and supplementary duties, is waived subject to compliance with prescribed conditions."
+        ],
+        "Industrial IRC Holder": [
+          "Defined as an entity possessing a valid industrial consumer import registration certificate issued by the Office of the Chief Controller of Imports and Exports."
+        ],
+        "VAT Compliant": [
+          "Defined as a manufacturer registered under the Value Added Tax and Supplementary Duty Act 2012 that regularly submits tax returns."
+        ],
+        "Manufacturer": [
+          "To qualify for duty exemptions, the manufacturer must be an Industrial IRC holder and VAT compliant entity engaged in the local production of washing machines."
+        ],
+        "Commissioner of Customs": [
+          "Has the authority to process duty exemptions even if electronic systems fail to display required tax data, provided that the reasons are documented and verified."
+        ],
+        "TABLE-I": [
+          "Lists specific iron, steel, electrical motor, and capacitor products eligible for a five percent capped customs duty rate when imported for local washing machine production."
+        ],
+        "TABLE-II": [
+          "Lists specific tubes, pipes, springs, panels, and electrical conductors eligible for a ten percent capped customs duty rate when imported for local washing machine production."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2676",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Section 25(1)",
+          "customs duty exemptions"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1)",
+          "value added tax",
+          "supplementary duty"
+        ],
+        "National Board of Revenue": [
+          "duty exemptions",
+          "committee structure",
+          "duty concessions"
+        ],
+        "Customs Duty": [
+          "imported inputs",
+          "washing machine",
+          "TABLE-I",
+          "TABLE-II",
+          "regulatory duties",
+          "value added tax",
+          "supplementary duties"
+        ],
+        "Industrial IRC Holder": [
+          "industrial consumer import registration certificate",
+          "Office of the Chief Controller of Imports and Exports"
+        ],
+        "VAT Compliant": [
+          "manufacturer",
+          "Value Added Tax and Supplementary Duty Act 2012",
+          "tax returns"
+        ],
+        "Manufacturer": [
+          "Industrial IRC holder",
+          "VAT compliant entity",
+          "washing machines"
+        ],
+        "Commissioner of Customs": [
+          "duty exemptions",
+          "electronic systems",
+          "tax data"
+        ],
+        "TABLE-I": [
+          "iron",
+          "steel",
+          "electrical motor",
+          "capacitor products"
+        ],
+        "TABLE-II": [
+          "tubes",
+          "pipes",
+          "springs",
+          "panels",
+          "electrical conductors"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        9,
+        10,
+        19,
+        22,
+        36,
+        44,
+        95,
+        101,
+        108,
+        127,
+        129,
+        134,
+        140,
+        153,
+        154,
+        185,
+        189,
+        194,
+        207,
+        229,
+        258,
+        534,
+        894,
+        940,
+        1221,
+        1288,
+        1435,
+        3200,
+        4927,
+        5004,
+        5116,
+        6146,
+        6509,
+        7616,
+        7623,
+        10483
+      ],
+      "source_file": "customs_sros_OCR/20240606_195-AIN_2024_47_Customs/20240606_195-AIN_2024_47_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4",
+      "resolved_text": "৪। আমদানিকৃত যন্ত্রাংশ বা উপকরণ দ্বারা ওয়াশিং মেশিন উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে এবং এইক্ষেত্রে উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Washing Machine Production": [
+          "Manufacturers producing washing machines using imported components are permitted to sell production-related scrap locally, subject to the approval of the relevant customs official."
+        ],
+        "Value Added Tax": [
+          "Importers must pay applicable Value Added Tax on the value of scrap material generated from imported parts used in local production when such scrap is sold domestically."
+        ],
+        "Customs Duty": [
+          "When scrap resulting from imported inputs for washing machine production is sold locally, the importer is required to pay all applicable customs duties and taxes on the value of the scrap."
+        ],
+        "Appropriate Officer of Customs": [
+          "The sale of scrap material generated from the production process requires the prior approval of the relevant departmental customs official."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2679",
+      "entity_sub_entities": {
+        "Washing Machine Production": [
+          "washing machines",
+          "imported components",
+          "production-related scrap",
+          "customs official"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "scrap material",
+          "imported parts"
+        ],
+        "Customs Duty": [
+          "scrap",
+          "imported inputs",
+          "washing machine production",
+          "customs duties",
+          "taxes"
+        ],
+        "Appropriate Officer of Customs": [
+          "scrap material",
+          "production process",
+          "departmental customs official"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        13,
+        14,
+        17,
+        229,
+        318,
+        370,
+        395,
+        797,
+        875,
+        894,
+        1466,
+        2321,
+        4593,
+        7205
+      ],
+      "source_file": "customs_sros_OCR/20240606_195-AIN_2024_47_Customs/20240606_195-AIN_2024_47_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

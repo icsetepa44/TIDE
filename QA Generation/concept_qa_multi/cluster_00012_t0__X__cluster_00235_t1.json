@@ -1,0 +1,32 @@
+{
+  "group_id": "cluster_00012_t0__X__cluster_00235_t1",
+  "entities": [
+    "raw materials",
+    "HS codes"
+  ],
+  "cluster_ids": [
+    12,
+    235
+  ],
+  "thread_ids": [
+    "cluster_00012_t0",
+    "cluster_00235_t1"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How are raw materials and their corresponding HS codes documented when importing goods under the bonded warehouse system?",
+      "answer": "Under the bonded warehouse system, raw materials must be included in the license and the Utilization Declaration (UD) along with their specific HS codes to be imported duty-free, as stipulated in clause [1]. Furthermore, for production-related declarations, the description of raw materials and their corresponding HS codes must be detailed in the specified format provided in clause [3].",
+      "entities_involved": [
+        "raw materials",
+        "HS codes"
+      ],
+      "clause_text_ids": [
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13"
+      ]
+    }
+  ]
+}

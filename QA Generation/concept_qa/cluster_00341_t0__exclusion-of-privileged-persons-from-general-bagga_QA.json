@@ -1,0 +1,72 @@
+{
+  "thread_id": "cluster_00341_t0",
+  "cluster_id": 341,
+  "cluster_label": "Privileged Persons (Customs Procedures) Rules 2003",
+  "title": "Exclusion of Privileged Persons from General Baggage Rules",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 3,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the definition of excluded passengers evolve between the 2010 and 2025 baggage rules in Bangladesh?",
+      "answer": "The evolution shows a shift from referencing specific legal instruments to identifying a status-based category. In the Passenger (Non-Tourist) Baggage (Import) Rules 2010, the exclusion was defined by referencing the 'Privileged Persons (Customs Procedures) Rules 2003', whereas the Passenger (Non-Tourist) Baggage Rules 2025 explicitly name 'Privileged Person' as a distinct category excluded from the scope of the regulations.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_1",
+        "20250603_._._._০২ জুন, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the primary difference in how the 2010 and 2025 baggage rules handle the exclusion of privileged persons?",
+      "answer": "The primary difference lies in the mechanism of exclusion. The 2010 rules relied on the 'Privileged Persons (Customs Procedures) Rules 2003' as a blanket legal reference to define the excluded passenger class, while the 2025 rules moved toward an explicit, direct naming of 'Privileged Person' as an excluded entity, reflecting a shift toward identifying the status of the individual rather than just the regulatory instrument.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_1",
+        "20250603_._._._০২ জুন, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the scope of application for non-tourist passenger baggage rules changed from 2010 to 2025 regarding specific passenger categories?",
+      "answer": "While the 2010 rules focused on excluding passengers covered under the 1981 Tourist Baggage Rules and the 2003 Privileged Persons Rules, the 2025 rules expanded the explicit list of exclusions. The 2025 Passenger (Non-Tourist) Baggage Rules now explicitly list tourist passengers, privileged persons, transit passengers, and crew as categories to which the rules do not apply.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_1",
+        "20250603_._._._০২ জুন, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A diplomat residing in Bangladesh has been subject to the Passenger (Non-Tourist) Baggage (Import) Rules 2010 since their arrival in 2020. With the introduction of the Passenger (Non-Tourist) Baggage Rules 2025, they are reviewing how their status as a 'Privileged Person' is legally framed compared to the previous 2010 regulations.",
+      "question": "How has the legal basis for the exclusion of a 'Privileged Person' from the Non-Tourist Baggage rules changed between the 2010 rules and the 2025 rules?",
+      "answer": "Under the 2010 rules, the exclusion was based on being covered by the 'Privileged Persons (Customs Procedures) Rules 2003', whereas the 2025 rules explicitly name 'Privileged Person' as a distinct category excluded from the scope of the baggage rules.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_1",
+        "20250603_._._._০২ জুন, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "fifteen years later",
+      "question": "In the Passenger (Non-Tourist) Baggage (Import) Rules 2010, the Privileged Persons (Customs Procedures) Rules 2003 were referenced as an exclusion. How did the scope of exclusion change fifteen years later in the 2025 rules?",
+      "answer": "In the 2025 rules, the regulation shifted from referencing the 2003 Rules as a legal instrument to explicitly naming 'Privileged Person' as a distinct category excluded from the scope of the baggage regulations.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_1",
+        "20250603_._._._০২ জুন, ২০২৫_clause_1"
+      ]
+    }
+  ]
+}

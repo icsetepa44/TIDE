@@ -1,0 +1,230 @@
+{
+  "cluster_id": 320,
+  "cluster_label": "duty rates",
+  "thread_index": 1,
+  "thread_id": "cluster_00320_t1",
+  "title": "Legal Determination of Duty Rates",
+  "summary": "This thread covers the foundational legal principles for determining when and how duty rates are applied to imported or exported goods, including the power to issue rulings.",
+  "evolution": {
+    "legal_basis": "Static statutory provisions defining the temporal application of duty rates.",
+    "scope": "Covers postal imports, exports, and the administrative power to issue rulings on tariff classification."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Customs Act, 1969",
+      "change": "Establishment of the date of determination for duty rates and the power to issue customs rulings.",
+      "clause_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_174",
+      "clause_title": "ডাকযোগে আমদানিকৃত অথবা রপ্তানিকৃত পণ্যের ক্ষেত্রে শুল্কের হার",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+      "resolved_text": "১৪৫। ডাকযোগে আমদানিকৃত অথবা রপ্তানিকৃত পণ্যের ক্ষেত্রে শুল্কের হার।— (১) ডাকযোগে আমদানিকৃত কোন পণ্যের উপর প্রযোজ্য শুল্কের হার হইবে উহার উপর শুল্ক নিরূপণের জন্য ধারা ১৪৪ এ উল্লেখিত ঘোষণা অথবা লেবেল যে তারিখ ডাক কর্তৃপক্ষ যথাযথ কর্মকর্তার নিকট উপস্থাপন করেন সেই তারিখে বলবৎ শুল্কহার।\n(২) ডাকযোগে রপ্তানিকৃত কোন পণ্যের উপর প্রযোজ্য শুল্কহার হইবে রপ্তানিকারক যে তারিখ উক্ত পণ্য রপ্তানির জন্য ডাক কর্তৃপক্ষের নিকট অর্পণ করেন সেই তারিখে বলবৎ শুল্কহার।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "The applicable rate of Customs Duty for goods imported by post is determined by the rate in effect on the date the declaration or label is presented by postal authorities to the proper officer.",
+          "For goods exported by post, the applicable rate of Customs Duty is the rate in force on the date the exporter delivers the goods to the postal authorities for export."
+        ],
+        "Customs Act 1969": [
+          "This clause sets the timing for determining applicable duty rates for postal imports and exports, referencing specific valuation declaration requirements."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_178",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "goods",
+          "declaration",
+          "label",
+          "postal authorities",
+          "proper officer"
+        ],
+        "Customs Act 1969": [
+          "duty rates",
+          "postal imports",
+          "postal exports",
+          "valuation declaration requirements"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        10,
+        242,
+        320,
+        1698,
+        2937,
+        4548,
+        4602,
+        10784,
+        13157
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_280",
+      "clause_title": "Power to make customs rulings",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_280",
+      "resolved_text": "4[219A. Power to make customs rulings.- (1) On an application by any person or on a reference by an officer of customs not below the rank of Commissioner or of its own motion, the Board may make customs rulings in respect of any matter specified in the application or reference, as the case may be, if the point raised in the application or reference relates to application of any provision of this Act or the rules to a specific situation or if such point relates to any tariff classification or duty rates or valuation of any goods for customs assessment purpose.\n(2) A customs ruling may be made within thirty working days of the receipt of the application or the reference, as the case may be.\n(3) The Board may decline to make a customs ruling on the ground of insufficient information furnished or in the absence of conclusive evidence provided in support of the contentions in the application or the reference.\n(4) The rulings made by the Board shall be binding upon the concerned persons and officers.\n(5) The Board may from time to time review and amend a customs ruling to correct any error contained in that ruling.]",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Board is empowered to issue customs rulings upon request by a person, a reference from a senior customs officer, or on its own motion.",
+          "The Board may decline to issue a ruling if the provided information or evidence is insufficient to support the contentions.",
+          "The Board has the authority to review and amend existing customs rulings to rectify any errors."
+        ],
+        "Customs Ruling": [
+          "A customs ruling may address matters related to the application of customs laws and rules, tariff classification, duty rates, or the valuation of goods.",
+          "A ruling must be issued within a specified timeframe after the receipt of the relevant application or reference.",
+          "Once issued, customs rulings are legally binding on both the concerned persons and the relevant customs officers."
+        ],
+        "Person": [
+          "Any person may submit an application to the Board to obtain a formal customs ruling regarding a specific situation."
+        ],
+        "Officer of Customs": [
+          "Officers of customs at or above the rank of Commissioner may make a reference to the Board for the issuance of a customs ruling.",
+          "Customs officers are bound by the customs rulings issued by the Board."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_607",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Board",
+          "customs rulings",
+          "information",
+          "evidence"
+        ],
+        "Customs Ruling": [
+          "customs laws",
+          "rules",
+          "tariff classification",
+          "duty rates",
+          "valuation of goods",
+          "application",
+          "reference",
+          "concerned persons",
+          "customs officers"
+        ],
+        "Person": [
+          "person",
+          "application",
+          "customs ruling"
+        ],
+        "Officer of Customs": [
+          "Officers of customs",
+          "Commissioner",
+          "reference",
+          "customs ruling",
+          "Board"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        29,
+        58,
+        64,
+        70,
+        97,
+        111,
+        148,
+        197,
+        301,
+        320,
+        566,
+        956,
+        1365,
+        2620,
+        2980,
+        5102,
+        6596
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_44",
+      "clause_title": "Date for determination of export duty",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_44",
+      "resolved_text": "3[31. Date for determination of export duty.- The rate of duty applicable to, and the rate of exchange for computation of the value of, any goods exported shall be the rate of duty or, as the case may be, the rate of exchange prevailing on the date of the delivery of the bill of export under section 131:\nProvided that where the export of any goods is permitted without a bill of export or in anticipation of the delivery of such a bill, the rate of duty applicable to, and the rate of exchange for the computation of the value of, such goods shall be the rate of duty or, as the case may be, the rate of exchange applicable on the date on which loading of the goods on the outgoing conveyance commences.]",
+      "entity_concepts": {
+        "Export Duty": [
+          "The applicable rate of duty for goods intended for export is determined based on the date of delivery of the bill of export.",
+          "In cases where export is permitted without a bill of export or prior to its delivery, the applicable rate of duty is determined based on the date when the loading of the goods onto the conveyance begins."
+        ],
+        "Exchange Rate": [
+          "The exchange rate used to calculate the value of exported goods is determined by the rate prevailing on the date the bill of export is submitted.",
+          "For exports allowed without a formal bill of export, the exchange rate is determined based on the date when the loading of goods onto the outgoing conveyance commences."
+        ],
+        "Bill of Export": [
+          "This document serves as the primary instrument for determining the date of applicability for duty rates and exchange rates for export goods.",
+          "When goods are exported without the prior delivery of this document, the legal date for determining fiscal rates shifts to the time loading onto the conveyance begins."
+        ],
+        "Conveyance": [
+          "The date on which the loading of goods commences on an outgoing vessel or vehicle determines the applicable duty and exchange rates when a bill of export is not submitted before loading."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_371",
+      "entity_sub_entities": {
+        "Export Duty": [
+          "goods",
+          "bill of export",
+          "loading of the goods",
+          "conveyance"
+        ],
+        "Exchange Rate": [
+          "exported goods",
+          "bill of export",
+          "loading of goods",
+          "outgoing conveyance"
+        ],
+        "Bill of Export": [
+          "duty rates",
+          "exchange rates",
+          "export goods",
+          "loading",
+          "conveyance"
+        ],
+        "Conveyance": [
+          "loading of goods",
+          "vessel",
+          "vehicle",
+          "bill of export"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        56,
+        71,
+        90,
+        142,
+        161,
+        228,
+        320,
+        640,
+        778,
+        1229,
+        1378,
+        1381,
+        9552,
+        10436
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

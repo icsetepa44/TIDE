@@ -1,0 +1,64 @@
+{
+  "group_id": "cluster_00018_t1__X__cluster_00068_t0",
+  "entities": [
+    "Authorized Economic Operator",
+    "applications"
+  ],
+  "cluster_ids": [
+    18,
+    68
+  ],
+  "thread_ids": [
+    "cluster_00018_t1",
+    "cluster_00068_t0"
+  ],
+  "num_shared_clauses": 15,
+  "num_qa_pairs": 3,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Authorized Economic Operator (AEO) Center handle the processing and evaluation of AEO applications?",
+      "answer": "The AEO Center, established by the National Board of Revenue, is responsible for receiving applications for AEO recognition and conducting their verification and evaluation [6]. Upon receiving a complete application, the Director General of the Center initiates the evaluation process by forming one or more evaluation teams consisting of the necessary number of officials to assess the applicant's eligibility and conditions [4].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "applications"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_7",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What are the formal outcomes or communications an applicant might receive from the AEO Center regarding their AEO status application?",
+      "answer": "Applicants may receive various formal communications from the AEO Center depending on the status of their application, including: an acknowledgment of receipt [9], a notification of missing information or documentation [0], a notice of rejection during the primary verification stage [10], a formal rejection notice for initial recognition [1, 11], or a formal rejection notice regarding an application for AEO tier promotion [2, 7].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "applications"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_30",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250217_2024_2024-06-06_clause_59",
+        "20250217_2024_2024-06-06_clause_61",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under what circumstances can an existing Authorized Economic Operator apply for a change in status, and who processes this request?",
+      "answer": "An existing AEO holding a Tier-1 or Tier-2 recognition certificate may apply to the Director General of the AEO Center to be recognized as a Tier-2 or Tier-3 institution, respectively, provided they meet the conditions and qualifications prescribed by the regulations [5]. The Center is responsible for receiving and evaluating these tier promotion applications [2, 7].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "applications"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_47",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33"
+      ]
+    }
+  ]
+}

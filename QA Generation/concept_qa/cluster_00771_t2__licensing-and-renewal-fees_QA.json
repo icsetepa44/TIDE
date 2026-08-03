@@ -1,0 +1,121 @@
+{
+  "thread_id": "cluster_00771_t2",
+  "cluster_id": 771,
+  "cluster_label": "fee",
+  "title": "Licensing and Renewal Fees",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to the Customs Agent Licensing Rules introduced on July 1, 2015, what was the fee required for a licensee to expand operations to an additional customs station?",
+      "options": [
+        "5,000 BDT",
+        "10,000 BDT",
+        "15,000 BDT",
+        "20,000 BDT"
+      ],
+      "answer_index": 1,
+      "answer": "10,000 BDT",
+      "explanation": "The 2015-07-01 Customs Agent Licensing Rules established a 10,000 BDT fee for operational expansion to additional customs stations.",
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2016-06-05 Customs Agent Licensing Rules, how did the renewal fee structure differ between a Customs House and a land customs station?",
+      "options": [
+        "Both required a flat fee of 10,000 BDT.",
+        "Customs Houses required 5,000 BDT, while land stations required 10,000 BDT.",
+        "Customs Houses required 10,000 BDT, while land stations required 5,000 BDT.",
+        "Both required a flat fee of 5,000 BDT."
+      ],
+      "answer_index": 2,
+      "answer": "Customs Houses required 10,000 BDT, while land stations required 5,000 BDT.",
+      "explanation": "The 2016-06-05 rules differentiated renewal fees, setting 10,000 BDT for Customs Houses and 5,000 BDT for land customs stations.",
+      "clause_text_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the requirement for a licensee to submit a formal application and fee to operate at a customs station other than the one specified in their original license?",
+      "options": [
+        "Customs Act 1969",
+        "Value Added Tax Act 1991",
+        "Customs Agent Licensing Rules (2015-07-01)",
+        "Customs Agent Licensing Rules (2016-06-05)"
+      ],
+      "answer_index": 2,
+      "answer": "Customs Agent Licensing Rules (2015-07-01)",
+      "explanation": "The 2015-07-01 Customs Agent Licensing Rules introduced the formal application process and the 10,000 BDT fee for expanding operations to additional stations.",
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What documentation was explicitly required for a license renewal application under the 2016-06-05 rules?",
+      "options": [
+        "Only the original license copy.",
+        "A copy of the original license, updated trade license, tax certificate, and association membership certificate.",
+        "Only proof of payment of the renewal fee.",
+        "A letter of recommendation from the Customs authority."
+      ],
+      "answer_index": 1,
+      "answer": "A copy of the original license, updated trade license, tax certificate, and association membership certificate.",
+      "explanation": "The 2016-06-05 rules mandated several documents for renewal, including the original license, updated trade license, income tax certificate, and C&F association membership certificate.",
+      "clause_text_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the Customs Agent Licensing Rules updated on 2015-07-01, the renewal fee structure was finalized as 10,000 BDT for Customs Houses and 5,000 BDT for land customs stations.",
+      "question": "Was the tiered renewal fee structure for Customs Houses and land customs stations established in the 2015-07-01 rules?",
+      "conflict": "The 2015-07-01 rules only introduced a 10,000 BDT fee for operational expansion, whereas the tiered renewal fee structure (10,000 BDT for Customs Houses and 5,000 BDT for land stations) was not introduced until the 2016-06-05 rules.",
+      "answer": "No. The 2015-07-01 Customs Agent Licensing Rules only established a 10,000 BDT fee for operational expansion to additional stations. The tiered renewal fee structure of 10,000 BDT for Customs Houses and 5,000 BDT for land customs stations was introduced later, in the 2016-06-05 Customs Agent Licensing Rules.",
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Customs Agent operating at a land customs station was required to pay a 10,000 BDT fee in 2015 to expand their operations to an additional customs station. In 2016, the agent now needs to renew their license for that same land customs station.",
+      "question": "How does the renewal fee for the land customs station in 2016 compare to the expansion fee the agent paid in 2015?",
+      "answer": "The 2016 renewal fee for a land customs station is 5,000 BDT, which is 5,000 BDT less than the 10,000 BDT expansion fee established in 2015.",
+      "clauses_involved": [
+        "2015-07-01",
+        "2016-06-05"
+      ],
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2015-07-01",
+      "relative_offset": "the following year",
+      "question": "In 2015-07-01, a 10,000 BDT fee was introduced for operational expansion. How did the fee structure for license renewals evolve the following year?",
+      "answer": "In the following year (2016-06-05), the Customs Agent Licensing Rules introduced a differentiated renewal fee structure: 10,000 BDT for Customs Houses and 5,000 BDT for land customs stations.",
+      "clause_text_ids": [
+        "20150701_206-AIN_2015_43-Customs_১ জুলাই, ২০১৫_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_9"
+      ]
+    }
+  ]
+}

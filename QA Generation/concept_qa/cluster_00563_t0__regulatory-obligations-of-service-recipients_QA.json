@@ -1,0 +1,131 @@
+{
+  "thread_id": "cluster_00563_t0",
+  "cluster_id": 563,
+  "cluster_label": "services",
+  "title": "Regulatory Obligations of Service Recipients",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to SRO 2018, service recipients were required to use electronic seals and locks for all cargo movements between the port and inland container depots.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "SRO 2018",
+      "correct_fact": "SRO 2024",
+      "answer": "The statement is inaccurate. The requirement for mandatory electronic seals and locks was introduced in SRO 2024 (dated 2024-03-31), not SRO 2018, which only covered notification and fee payment requirements.",
+      "clause_text_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the regulations updated on 2024-03-31, service recipients are responsible for paying service fees as well as applicable taxes, including Value Added Tax and Income Tax.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the 2024-03-31 instrument, the service recipient is responsible for timely payment of service fees and all applicable taxes, such as Value Added Tax and Income Tax.",
+      "clause_text_ids": [
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2018-06-26 SRO mandated that service recipients provide advance notification to the service provider regarding shipments of goods transferred between the port and off-dock facilities.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2018-06-26 SRO established the requirement for service recipients to provide advance notification to service providers for import and export goods transferred between the port and inland container depots or off-dock facilities.",
+      "clause_text_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2024-03-31 regulations, a service recipient is permitted to remove goods or vehicles even if they fail to comply with the National Board of Revenue's directives regarding electronic seals and locks.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "permitted to remove",
+      "correct_fact": "prohibited from removing",
+      "answer": "The statement is inaccurate. According to the 2024-03-31 instrument, the service recipient is prohibited from removing goods or vehicles if they fail to comply with the Board's directives regarding the use of electronic seals and locks.",
+      "clause_text_ids": [
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The scope of service recipient obligations evolved from simple notification and fee payment in 2018 to include technical security compliance and tax-related obligations by 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The evolution of the policy reflects an expansion from the basic requirements set in the 2018-06-26 SRO to the more stringent security and tax compliance measures mandated in the 2024-03-31 SRO.",
+      "clause_text_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In the 2018-06-26 SRO, the service recipient was explicitly required to ensure that all electronic locks were installed prior to transferring export goods to the port.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "electronic locks",
+      "correct_fact": "advance notification",
+      "answer": "The statement is inaccurate. The 2018-06-26 SRO only required advance notification and fee payment; the requirement for electronic seals and locks was not introduced until the 2024-03-31 SRO.",
+      "clause_text_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the regulations established in SRO 2018 (dated 2018-06-26), service recipients were strictly mandated to utilize electronic seals and locks for all cargo movements and were further required to ensure the timely payment of Value Added Tax and Income Tax alongside standard service fees.",
+      "question": "Does the SRO 2018 mandate the use of electronic seals and the payment of VAT/Income Tax for service recipients?",
+      "conflict": "The misaligned context incorrectly attributes 2024 regulatory requirements (electronic seals and tax payments) to the 2018 SRO.",
+      "answer": "No. According to the timeline, SRO 2018 (2018-06-26) only established requirements for advance notification of cargo movement and the payment of service fees. The mandatory use of electronic seals and locks, as well as the explicit obligation to pay Value Added Tax and Income Tax, were only introduced later in SRO 2024 (2024-03-31).",
+      "clause_text_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been moving cargo between the port and an inland container depot since 2017. In 2019, they were strictly following the requirement to provide advance notification to the service provider for every shipment. However, in mid-2024, they are planning a new movement of goods and are unsure if their existing notification practice is sufficient to meet current regulatory standards.",
+      "question": "How have the importer's obligations changed from their initial practice in 2018 to the requirements established in 2024?",
+      "answer": "While the requirement to provide advance notification remains, the 2024 rules added a new mandatory obligation: the importer must now ensure the use of electronic seals and locks for the movement of goods and vehicles if the Board has issued instructions for their use.",
+      "clauses_involved": [
+        "2018-06-26",
+        "2024-03-31"
+      ],
+      "clause_text_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2018-06-26",
+      "relative_offset": "six years later",
+      "question": "Starting from the requirements established in 2018-06-26, how did the regulatory obligations for service recipients change six years later regarding cargo security?",
+      "answer": "Six years later, in 2024-03-31 (SRO 2024), the obligations were expanded to include the mandatory use of electronic seals and locks for the movement of goods and vehicles, in addition to existing tax and VAT payment compliance.",
+      "clause_text_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7",
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "cluster_id": 293,
+  "cluster_label": "used motor vehicles",
+  "thread_index": 1,
+  "thread_id": "cluster_00293_t1",
+  "title": "Valuation Ceiling Enforcement",
+  "summary": "This thread governs the rule that if a declared value exceeds the calculated minimum value, the customs authority must assess duty based on the declared value rather than the calculated minimum, effectively setting a ceiling for the application of the depreciation formula.",
+  "evolution": {
+    "enforcement_logic": "Remained consistent across instruments, ensuring that the calculated minimum value acts as a floor for duty assessment, not a mandatory assessment value if the declared value is higher."
+  },
+  "timeline": [
+    {
+      "date": "2011-06-09",
+      "instrument": "SRO 167-Law/2011",
+      "change": "Initial establishment of the rule that declared values higher than the calculated minimum negate depreciation benefits.",
+      "clause_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_4"
+      ]
+    }
+  ],
+  "num_member_objects": 1,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_4",
+      "resolved_text": "৪। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য অনুচ্ছেদ ১ ও ২ এর পদ্ধতি অনুসরণে নিরূপিত ন্যূনতম মূল্য অপেক্ষা বেশী হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Imports": [
+          "For used, old, or reconditioned motor vehicles, the customs assessment must be based on the declared value if that value exceeds the established minimum valuation criteria.",
+          "In cases where the declared value is higher than the prescribed minimum, the depreciation allowance is denied, and customs duties are calculated on the full declared amount."
+        ],
+        "Customs Valuation": [
+          "The assessment of duties for used or reconditioned vehicles is subject to specific valuation procedures that prioritize the declared value when it surpasses the set minimum threshold."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1330",
+      "entity_sub_entities": {
+        "Motor Vehicle Imports": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "declared value",
+          "minimum valuation criteria",
+          "depreciation allowance",
+          "customs duties"
+        ],
+        "Customs Valuation": [
+          "used vehicles",
+          "reconditioned vehicles",
+          "declared value",
+          "minimum threshold"
+        ]
+      },
+      "clause_clusters": [
+        14,
+        233,
+        293,
+        484,
+        508,
+        1834,
+        2868,
+        3308,
+        4379
+      ],
+      "source_file": "customs_sros_OCR/20110609_167-AIN_2011_2354-Customs/20110609_167-AIN_2011_2354-Customs_output.json",
+      "clause_date": "2011-06-09"
+    }
+  ],
+  "num_static_replicated_objects": 3,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য অনুচ্ছেদ ১ ও ২ এর পদ্ধতি অনুসরণে নিরূপিত ন্যূনতম মূল্য অপেক্ষা বেশী হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicles": [
+          "For imported used, old, or reconditioned motor vehicles, if the declared value exceeds the determined minimum value calculated through established methods, the customs assessment must be conducted based on the declared value without applying depreciation benefits."
+        ],
+        "Customs Valuation": [
+          "The assessment process dictates that if the declared value of a used or reconditioned vehicle is higher than the minimum threshold established by standard procedures, the duty is to be calculated using the declared value rather than providing depreciation concessions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1357",
+      "entity_sub_entities": {
+        "Motor Vehicles": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "declared value",
+          "determined minimum value"
+        ],
+        "Customs Valuation": [
+          "declared value",
+          "used vehicle",
+          "reconditioned vehicle",
+          "minimum threshold",
+          "duty",
+          "depreciation concessions"
+        ]
+      },
+      "clause_clusters": [
+        109,
+        233,
+        293,
+        373,
+        484,
+        508,
+        1834,
+        2868,
+        3837
+      ],
+      "source_file": "customs_sros_OCR/20120607_162-AIN_2012_2390-Customs/20120607_162-AIN_2012_2390-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20130606_149-AIN_2013_2436-Customs_০৬ জুন, ২০১৩_clause_3",
+      "resolved_text": "৩। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য শর্ত ১ ও ২ এর পদ্ধতি অনুসরণে নিরূপিত ন্যূনতম মূল্য অপেক্ষা বেশী হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Importation": [
+          "For used, old, or reconditioned motor vehicles, if the declared value exceeds the determined minimum value, customs assessment must be conducted based on the declared value without applying any depreciation benefits."
+        ],
+        "Customs Valuation": [
+          "The assessment process requires comparing the declared value of imported used or reconditioned vehicles against a prescribed minimum value to determine the applicable tax base."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1417",
+      "entity_sub_entities": {
+        "Motor Vehicle Importation": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "declared value",
+          "determined minimum value",
+          "depreciation benefits"
+        ],
+        "Customs Valuation": [
+          "declared value",
+          "imported used vehicles",
+          "reconditioned vehicles",
+          "prescribed minimum value",
+          "tax base"
+        ]
+      },
+      "clause_clusters": [
+        233,
+        293,
+        484,
+        508,
+        1834,
+        2390,
+        3308,
+        3837,
+        4378,
+        5001
+      ],
+      "source_file": "customs_sros_OCR/20130606_149-AIN_2013_2436-Customs/20130606_149-AIN_2013_2436-Customs_output.json",
+      "clause_date": "2013-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_3",
+      "resolved_text": "৩। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য শর্ত ১ ও ২ এর পদ্ধতি অনুসরণক্রমে নিরূপিত ন্যূনতম মূল্য অপেক্ষা অধিক হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Valuation": [
+          "In cases where the declared value of imported used, old, or refurbished motor vehicles exceeds the minimum value determined by the specified conditions, the customs duty assessment must be based on the declared value without applying any depreciation benefits."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1823",
+      "entity_sub_entities": {
+        "Motor Vehicle Valuation": [
+          "imported used motor vehicles",
+          "old motor vehicles",
+          "refurbished motor vehicles",
+          "declared value",
+          "minimum value",
+          "customs duty assessment",
+          "depreciation benefits"
+        ]
+      },
+      "clause_clusters": [
+        293,
+        429,
+        484,
+        1834,
+        2390,
+        2874,
+        6898
+      ],
+      "source_file": "customs_sros_OCR/20170701_218-AIN_/20170701_218-AIN__output.json",
+      "clause_date": "2017-07-01"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "thread_id": "cluster_00357_t0",
+  "cluster_id": 357,
+  "cluster_label": "Person in Charge of Conveyance",
+  "title": "Digitalization of Cargo Declaration and Authorization",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 5,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the Conveyance and Cargo Declaration and Pre-arrival Processing Rule 2025, any request to amend a cargo declaration must be submitted within 48 hours of the declaration's registration.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "48 hours",
+      "correct_fact": "24 hours",
+      "answer": "The statement is inaccurate. Under the Conveyance and Cargo Declaration and Pre-arrival Processing Rule 2025 (dated 2025-06-02), the deadline for submitting an application for a cargo declaration amendment is 24 hours after the declaration's registration, not 48 hours.",
+      "clause_text_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-06-05 SRO mandated that the person in charge of a vessel arriving at sea or river ports must electronically submit a cargo declaration to the customs computerized system.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. As per the 2024-06-05 mandate, the master or person in charge of a vessel arriving at sea or river ports is required to electronically submit cargo declarations to the customs computerized system.",
+      "clause_text_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "To apply for a cargo declaration amendment under the 2025 rules, the applicant must pay a fee of 5,000 Taka via A-Challan.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "5,000 Taka",
+      "correct_fact": "2,000 Taka",
+      "answer": "The statement is inaccurate. According to the 2025-06-02 regulations, the application fee for a cargo declaration amendment or supplementary cargo declaration is 2,000 Taka, to be deposited via A-Challan (code no. 1441299).",
+      "clause_text_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 'Conveyance and Cargo Declaration and Pre-arrival Processing Rule 2025' introduced 'Form-K' as the standardized form for appointing an agent to submit declarations on behalf of the person in charge.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. Rule 6(2) of the 2025-06-02 rules mandates the use of 'Form-K' for the formal authorization of an agent to submit declarations for a conveyance or cargo.",
+      "clause_text_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2025 rules, freight forwarders are prohibited from acting as cargo declarants for sea and inland water transport routes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "prohibited",
+      "correct_fact": "formally recognized",
+      "answer": "The statement is inaccurate. The 2025-06-02 rules formally recognize freight forwarders as authorized entities to submit cargo declarations for sea and inland water transport routes when designated by the owner, operator, or person in charge of the vessel.",
+      "clause_text_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A shipping agent has been electronically submitting cargo declarations for a vessel arriving at a sea port since early 2024. In mid-2025, the agent needs to request an amendment to a cargo declaration that was registered 30 hours ago, following the new 2025 regulatory framework.",
+      "question": "Under the 2025 rules, is the agent's request for an amendment within the permitted timeframe, and what specific documentation or form is now required that was not explicitly mandated in the 2024 mandate?",
+      "answer": "No, the request is outside the 24-hour window established by the 2025 rules. Additionally, the agent must now use 'Form-G' for the application, a requirement introduced in 2025 that was not part of the 2024 electronic submission mandate.",
+      "clauses_involved": [
+        "2024-06-05",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-05",
+      "relative_offset": "one year later",
+      "question": "One year after the mandate for electronic cargo declaration submission was introduced, what specific standardized digital forms and amendment timeframes were established under the Conveyance and Cargo Declaration and Pre-arrival Processing Rule 2025?",
+      "answer": "In 2025-06-02, the Conveyance and Cargo Declaration and Pre-arrival Processing Rule 2025 introduced standardized digital forms (Form-G and Form-B) and established a 24-hour window for submitting cargo declaration amendments or supplementary cargo declarations following registration.",
+      "clause_text_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Standardized digital forms like Form-G are introduced for cargo declaration amendments, and route-based definitions for declarants are established.",
+        "Formal authorization via Form-B is mandated for appointing an agent to submit declarations for conveyance and cargo.",
+        "The master or person in charge of sea or river vessels is mandated to electronically submit cargo declarations to the customs computerized system."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The master or person in charge of sea or river vessels is mandated to electronically submit cargo declarations to the customs computerized system.",
+          "date": "2024-06-05"
+        },
+        {
+          "event": "Standardized digital forms like Form-G are introduced for cargo declaration amendments, and route-based definitions for declarants are established.",
+          "date": "2025-06-02"
+        },
+        {
+          "event": "Formal authorization via Form-B is mandated for appointing an agent to submit declarations for conveyance and cargo.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "metadata_7"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20240605/20240605_output.json",
+        "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00357_t0__digitalization-of-cargo-declaration-and-authorizat.json"
+    }
+  ]
+}

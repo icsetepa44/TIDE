@@ -1,0 +1,260 @@
+{
+  "thread_id": "cluster_00513_t0",
+  "cluster_id": 513,
+  "cluster_label": "AEO status",
+  "title": "AEO Status Lifecycle and Tier Management",
+  "source_num_member_objects": 10,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the AEO Rules 2024, the initial establishment of administrative forms for application deficiency, suspension, and cancellation occurred on 2025-06-13.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2025-06-13",
+      "correct_fact": "2024-06-13",
+      "answer": "The statement is inaccurate. The initial establishment of these administrative forms occurred on 2024-06-13, not 2025-06-13.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The NBR Directive issued on 2025-01-21 mandated the operationalization of AEO Centers and specialized customs teams to support status holders.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate as per the 2025-01-21 NBR Directive.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the AEO Rules 2024, the formalization of rejection criteria for tier promotion and cancellation due to non-compliance was introduced on 2025-02-17.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2025-02-17",
+      "correct_fact": "2025-02-16",
+      "answer": "The statement is inaccurate. The formalization of rejection criteria for tier promotion and cancellation was introduced on 2025-02-16, whereas 2025-02-17 focused on the introduction of explicit tier-based promotion and demotion mechanisms.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The AEO status framework allows for the promotion from Tier-1 to Tier-2, and Tier-2 to Tier-3, as formally introduced in the AEO Rules 2024 on 2025-02-17.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Explicit tier-based promotion and demotion mechanisms were introduced on 2025-02-17.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "When an AEO entity is promoted from Tier-1 to Tier-2, the existing Tier-1 certificate remains valid alongside the new Tier-2 certificate.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "the existing Tier-1 certificate remains valid alongside the new Tier-2 certificate",
+      "correct_fact": "the issuance of a Tier-2 certificate involves the formal cancellation of the entity's previous Tier-1 certificate",
+      "answer": "The statement is inaccurate. According to the 2025-02-17 update, the issuance of a Tier-2 certificate involves the formal cancellation of the entity's previous Tier-1 certificate.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Authorized Economic Operator Center is responsible for notifying applicants of deficiencies in documentation, requiring a response within 90 days as per the 2024-06-13 rules.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate based on the 2024-06-13 documentation.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company received its AEO status in mid-2024. By February 2025, the company intends to apply for a higher status tier. The management is reviewing whether the regulatory environment for status advancement has changed since their initial certification.",
+      "question": "How has the regulatory framework for AEO status advancement evolved between June 2024 and February 2025 regarding the structure of the status and the process for promotion?",
+      "answer": "In June 2024, the AEO framework focused on basic administrative procedures for application and suspension. By February 2025, the system evolved into a hierarchical Tier 1-3 structure with formal mechanisms for tier-based promotion (Tier 1 to 2, 2 to 3) and specific rejection criteria for advancement applications.",
+      "clauses_involved": [
+        "2024-06-13",
+        "2025-02-16",
+        "2025-02-17"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An AEO-certified entity is currently facing a compliance audit. The entity is concerned about the consequences of failing to meet the conditions of their status, specifically comparing the potential outcomes under the rules established in June 2024 versus the current provisions in February 2025.",
+      "question": "What new formal consequence for failing to meet status conditions was introduced by February 2025 that was not explicitly detailed in the initial 2024 administrative procedures?",
+      "answer": "While the 2024 rules established general suspension and cancellation procedures, the February 2025 updates introduced formal, specific documentation (Form-P) for the cancellation of an AEO certificate due to the failure to fulfill prescribed operational conditions and compliance requirements.",
+      "clauses_involved": [
+        "2024-06-13",
+        "2025-02-16"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-13",
+      "relative_offset": "approximately eight months later",
+      "question": "Starting from the initial establishment of AEO administrative forms in June 2024, what major structural change to the AEO status system was introduced approximately eight months later?",
+      "answer": "On February 17, 2025, the AEO Rules 2024 were updated to introduce an explicit, hierarchical tier-based system (Tier 1, 2, and 3), including formal mechanisms for promotion and demotion between these classes.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "nearly one month later",
+      "question": "Following the January 2025 directive regarding the operationalization of AEO Centers, what formal compliance-based regulatory mechanisms were added nearly one month later?",
+      "answer": "On February 16, 2025, the regulatory framework was expanded to formalize rejection criteria for tier promotion and established procedures for the cancellation of AEO status due to non-compliance.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_44",
+        "20250217_2024_2024-06-06_clause_66",
+        "20250217_2024_2024-06-06_clause_69",
+        "20250217_2024_2024-06-06_clause_71",
+        "20250217_2024_2024-06-06_clause_9"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The AEO Center formalizes rejection criteria for tier promotion and cancellation based on non-compliance.",
+        "The AEO Center introduces a hierarchical tier-based promotion and demotion mechanism.",
+        "The NBR operationalizes specialized AEO centers and customs teams to support status holders.",
+        "The AEO Center establishes administrative procedures for application deficiency, suspension, and cancellation."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The AEO Center establishes administrative procedures for application deficiency, suspension, and cancellation.",
+          "date": "2024-06-13"
+        },
+        {
+          "event": "The NBR operationalizes specialized AEO centers and customs teams to support status holders.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "The AEO Center formalizes rejection criteria for tier promotion and cancellation based on non-compliance.",
+          "date": "2025-02-16"
+        },
+        {
+          "event": "The AEO Center introduces a hierarchical tier-based promotion and demotion mechanism.",
+          "date": "2025-02-17"
+        }
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_8",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33",
+        "20250217_2024_2024-06-06_clause_66"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+        "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00513_t0__aeo-status-lifecycle-and-tier-management.json"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "thread_id": "cluster_00769_t0",
+  "cluster_id": 769,
+  "cluster_label": "departmental officer",
+  "title": "Procedural Role of Departmental Officer in Customs and Compliance",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 4,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the procedural role of the departmental officer evolved from 2021 to 2025 regarding their oversight responsibilities?",
+      "answer": "The role has evolved from a reactive authorizing agent to a proactive administrative node. While the 2021-06-03 SRO focused on the officer providing authorization for industrial scrap disposal, the 2025 mandates shifted their scope to actively nominating inspection teams, managing reporting timelines, and serving as a mandatory member of multi-agency regulatory committees.",
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What shift in the departmental officer's involvement in customs inspection processes is evident between the January 2025 and June 2025 policy updates?",
+      "answer": "By January 2025, the officer's role became more structured and managerial, specifically tasked with nominating physical examination officers within two working days and receiving formal reports. By June 2025, the scope expanded further to include high-level administrative oversight, where the officer is integrated into a multi-agency committee alongside representatives from the Ministry of Industries and public universities to review regulatory applications.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2025-06-02 policy change the nature of the departmental officer's decision-making compared to the 2021-06-03 authorization process?",
+      "answer": "In 2021-06-03, the departmental officer acted as an individual authority for specific tasks like scrap disposal approval. By 2025-06-02, the officer's decision-making power transitioned into a committee-based structure, where they must collaborate with other government and academic representatives to process regulatory applications, reflecting a move toward collective oversight.",
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the 2025-01-21 update significant for the departmental officer's administrative control over customs inspections?",
+      "answer": "The 2025-01-21 update is significant because it formalized the officer's role in managing the inspection lifecycle. It granted them the specific power to nominate physical examination officers upon request and established a structured reporting cycle, requiring them to receive physical examination reports within three working days of an officer's nomination.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A motorcycle manufacturer in Bangladesh was accustomed to obtaining direct approval from a departmental officer to sell industrial scrap in 2021. By 2025, the same manufacturer faces new regulatory requirements for their import/export operations, including a multi-agency committee process for specific applications.",
+      "question": "How has the departmental officer's role in the manufacturer's regulatory compliance evolved from 2021 to 2025 regarding decision-making authority?",
+      "answer": "The role evolved from being a sole authorizing agent for scrap disposal (2021) to becoming a mandatory member of a multi-agency committee for regulatory approvals (2025), shifting from individual authorization to committee-based oversight.",
+      "clauses_involved": [
+        "2021-06-03",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "In 2021, a customs officer managed scrap disposal authorizations independently. In early 2025, the officer's procedural duties expanded to include managing physical inspection teams for imported goods with specific reporting timelines.",
+      "question": "What new administrative procedure was introduced in 2025 that the officer did not have in 2021 regarding inspection management?",
+      "answer": "As of 2025, the officer gained the administrative power to proactively nominate physical examination officers within two working days of a request and receive formal inspection reports within three working days.",
+      "clauses_involved": [
+        "2021-06-03",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-06-03",
+      "relative_offset": "three years and seven months later",
+      "question": "Starting from the 2021 mandate where the departmental officer acted as an authorizing authority for scrap disposal, what administrative power was granted to this officer three years and seven months later?",
+      "answer": "On 2025-01-21, the officer gained the administrative power to nominate physical examination officers for imported or exported goods and was tasked with receiving inspection reports within strict timelines.",
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "the following amendment",
+      "question": "Following the 2025-01-21 procedure where the officer began nominating inspection teams, what change occurred in the following amendment regarding the officer's role in regulatory processes?",
+      "answer": "On 2025-06-02, the officer was integrated as a mandatory member of a multi-agency regulatory committee established by the National Board of Revenue to process applications.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The departmental officer is integrated as a mandatory member of a multi-agency committee for regulatory approvals.",
+        "The departmental officer acts as an authorizing authority for the disposal of industrial scrap.",
+        "The departmental officer gains administrative power to nominate physical inspection officers and receive inspection reports within strict timelines."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The departmental officer acts as an authorizing authority for the disposal of industrial scrap.",
+          "date": "2021-06-03"
+        },
+        {
+          "event": "The departmental officer gains administrative power to nominate physical inspection officers and receive inspection reports within strict timelines.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "The departmental officer is integrated as a mandatory member of a multi-agency committee for regulatory approvals.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_sros_OCR/20210603_128-AIN_2021_17_Customs/20210603_128-AIN_2021_17_Customs_output.json",
+        "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00769_t0__procedural-role-of-departmental-officer-in-customs.json"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00013_t3__X__cluster_00018_t4",
+  "entities": [
+    "taxes",
+    "Authorized Economic Operator"
+  ],
+  "cluster_ids": [
+    13,
+    18
+  ],
+  "thread_ids": [
+    "cluster_00013_t3",
+    "cluster_00018_t4"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the legal framework governing Authorized Economic Operator (AEO) transitions and post-importation declarations interact with the collection of taxes and penalties for false declarations under the Customs Act 2023?",
+      "answer": "Under the framework established by the Customs Act 2023, specifically referencing the transition metadata and appendices, the process for recovering taxes and duties resulting from reassessments or false declarations involves issuing formal demands (dabinama) under Section 91(3), as outlined in Appendices 2 and 3 [0], [1], [3].",
+      "entities_involved": [
+        "taxes",
+        "Authorized Economic Operator"
+      ],
+      "clause_text_ids": [
+        "metadata_11",
+        "metadata_13",
+        "metadata_15"
+      ]
+    }
+  ]
+}

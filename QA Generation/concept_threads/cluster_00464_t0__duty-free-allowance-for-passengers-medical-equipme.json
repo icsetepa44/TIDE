@@ -1,0 +1,211 @@
+{
+  "cluster_id": 464,
+  "cluster_label": "medical equipment",
+  "thread_index": 0,
+  "thread_id": "cluster_00464_t0",
+  "title": "Duty-Free Allowance for Passengers' Medical Equipment",
+  "summary": "This thread tracks the evolving policy for duty-free clearance of medical equipment carried by sick, disabled, or elderly passengers. While the core benefit remains consistent, the language has been refined over time to include 'elderly' passengers explicitly and to standardize the terminology across different transport modes.",
+  "evolution": {
+    "eligibility": "Expanded from sick/disabled to include elderly passengers.",
+    "scope": "Standardized terminology for transport modes (air, water, land)."
+  },
+  "timeline": [
+    {
+      "date": "2011-06-09",
+      "instrument": "SRO 2011",
+      "change": "Initial provision for duty-free clearance of medical equipment for sick and disabled passengers.",
+      "clause_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5"
+      ]
+    },
+    {
+      "date": "2016-06-02",
+      "instrument": "SRO 2016",
+      "change": "Expanded scope to explicitly include 'elderly' passengers and refined transport mode terminology.",
+      "clause_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।- আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via air, water, or land routes who are elderly, sick, or disabled are permitted to import medical equipment and wheelchairs free of all duties and taxes.",
+          "This provision serves as a special concession for passengers requiring mobility aids or medical assistance to clear these specific items without customs charges."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1320",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs",
+          "mobility aids"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984,
+        9920
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা।— আকাশপথ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving by air, sea, or land are entitled to import medical equipment and wheelchairs for their personal use without payment of any customs duties or taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1642",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 4,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।— আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Medical equipment and wheelchairs used by sick, disabled, or elderly passengers arriving by air, water, or land routes are exempt from all import duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1380",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "Medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।- আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers who are sick, disabled, or elderly are granted the privilege to import their medical equipment and wheelchairs free of all duties and taxes.",
+          "This exemption applies to such essential mobility and medical items regardless of the mode of transport, including air, water, or land routes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_994",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs",
+          "essential mobility items",
+          "medical items"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984,
+        2860,
+        7798
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা।- আকাশপথ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage": [
+          "A passenger arriving by air, sea, or land who is ill, disabled, or elderly is entitled to import medical equipment and wheelchairs for personal use.",
+          "Such medical items are exempt from the payment of all customs duties and taxes upon arrival."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2712",
+      "entity_sub_entities": {
+        "Passenger Baggage": [
+          "medical equipment",
+          "wheelchairs",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        178,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুববধা।- আকাশপর্, জলপর্ বা স্থলপদর্ আগত একজন অসুস্থ, পঙ্গু অর্বা বৃদ্ধ যাত্রীর ব্যবহায থবচবকৎসা যন্ত্রপাবত ও হুইল বচয়ার সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক খালাস করা যাইদব।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Sick, disabled, or elderly passengers arriving via air, sea, or land routes are permitted to clear their medical equipment and wheelchairs free of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1059",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "medical equipment",
+          "wheelchairs"
+        ]
+      },
+      "clause_clusters": [
+        171,
+        464,
+        984
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "thread_id": "cluster_00088_t0",
+  "cluster_id": 88,
+  "cluster_label": "TABLE-2",
+  "title": "Tariff Value and Minimum Value Determination",
+  "source_num_member_objects": 11,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the legal framework governing the determination of tariff and minimum values changed over the timeline provided?",
+      "answer": "The legal foundation for determining tariff and minimum values shifted from the Customs Act 1969 to the Customs Act 2023. Specifically, while earlier notifications were issued under Section 25(3) of the 1969 Act, the 2024 consolidation (SRO 202/2024) transitioned the authority to Section 27(5) of the Customs Act 2023.",
+      "clause_text_ids": [
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What evolution has occurred in the structure and methodology of Table-2 regarding customs valuation?",
+      "answer": "The structure of Table-2 evolved from simple list updates and specific deletions—such as the removal of Heading 17.01 in 2014 or Heading 90.04 in 2015—to a more comprehensive, sector-specific valuation framework. By 2024, SRO 230/2024 replaced the entire table with a structured schedule covering food and industrial goods, incorporating more sophisticated valuation criteria like manufacturer-published pricing for electronics.",
+      "clause_text_ids": [
+        "20140605_135-AIN_2014_2499-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20150604_142-AIN_2015_22-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "20170601_142-AIN__১ জুন, ২০১৭_clause_1",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the approach to defining valuation benchmarks for specific commodities like raw sugar change between 2014 and 2022?",
+      "answer": "The valuation of raw sugar (Heading 17.01) underwent several adjustments: it was initially removed from Table-2 in 2014 (SRO 135/2013), re-inserted with specific values in 2015 (SRO 378/2015), and eventually updated again in 2022 (SRO 203/2022) to reflect current customs duty assessment requirements.",
+      "clause_text_ids": [
+        "20140605_135-AIN_2014_2499-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20150604_142-AIN_2015_22-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "20170601_142-AIN__১ জুন, ২০১৭_clause_1",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_1",
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1",
+        "20220717_203-_2022_111_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What was the significance of the 2017 introduction of 'temporary' determination for minimum values?",
+      "answer": "The introduction of 'temporary' determination via SRO 142/2017 marked a shift in the regulatory language used for customs valuation. This change allowed the government to apply more flexible or time-bound valuation standards to goods under the existing SRO 165/2016 framework.",
+      "clause_text_ids": [
+        "20150604_142-AIN_2015_22-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "20160701_218-AIN_2016_45-Customs_01 জুলাই, 2016_clause_1",
+        "20170601_142-AIN__১ জুন, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2024 regulatory update (SRO 230/2024) reflect a more modern approach to customs valuation compared to earlier SROs?",
+      "answer": "The 2024 update (SRO 230/2024) reflects a modern, sector-specific approach by moving beyond static unit values. It incorporates specialized valuation methodologies, such as using internationally recognized price sources like Platts for commodities like furnace oil and relying on official manufacturer-published pricing for items like cellular telephones.",
+      "clause_text_ids": [
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the government maintain both Table-1 and Table-2 in its customs valuation notifications?",
+      "answer": "The government maintained both tables to distinguish between different valuation functions: Table-1 is utilized for establishing tariff values for goods subject to ad valorem customs duties, while Table-2 is used to define minimum values that serve as a baseline for duty assessment, as formalized in notifications such as SRO 135/2020 and SRO 133/2021.",
+      "clause_text_ids": [
+        "20140605_135-AIN_2014_2499-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_1",
+        "20210603_133-AIN_2021_22_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer of raw sugar (Heading 17.01) attempted to clear goods in early 2014, but found the items removed from Table-2. In late 2015, they observed new values being inserted for the same heading. By 2022, they noted further updates to these specific sugar values.",
+      "question": "How did the regulatory status of Heading 17.01 in Table-2 evolve between June 2014 and July 2022?",
+      "answer": "Heading 17.01 was removed from Table-2 in June 2014, re-inserted with new values in December 2015, and subsequently updated with revised tariff values in July 2022.",
+      "clauses_involved": [
+        "2014-06-05",
+        "2015-12-22",
+        "2022-07-17"
+      ],
+      "clause_text_ids": [
+        "20140605_135-AIN_2014_2499-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20150604_142-AIN_2015_22-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "20170601_142-AIN__১ জুন, ২০১৭_clause_1",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_1",
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1",
+        "20220717_203-_2022_111_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer has been applying valuation rules based on the Customs Act 1969 for years. In mid-2024, they are instructed to process imports under the new Customs Act 2023.",
+      "question": "What is the primary change in the legal basis for the consolidation of minimum value lists occurring in June 2024 compared to previous years?",
+      "answer": "The legal authority shifted from Section 25(3) of the Customs Act 1969 to Section 27(5) of the Customs Act 2023.",
+      "clauses_involved": [
+        "2022-06-09",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1",
+        "20220717_203-_2022_111_২৮ জুন, ২০২২_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "one month later",
+      "question": "Starting from the refinement of tariff value lists in June 2022, what specific update occurred one month later regarding raw sugar?",
+      "answer": "On 2022-07-17, SRO 203/2022 was issued, which provided updated tariff values specifically for raw sugar.",
+      "clause_text_ids": [
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1",
+        "20220717_203-_2022_111_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one month later",
+      "question": "Following the consolidation of minimum value lists under the new Customs Act 2023 in June 2024, what major change took place one month later?",
+      "answer": "On 2024-07-08, SRO 230/2024 was issued, which comprehensively replaced TABLE-2 with updated minimum values for food and industrial goods.",
+      "clause_text_ids": [
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government introduces a temporary determination mechanism for minimum values.",
+        "The government formally establishes minimum value lists for customs duty assessment.",
+        "The government replaces the entire minimum value schedule under the authority of the Customs Act.",
+        "The government removes specific entries related to Heading 17.01 from the minimum value table."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government removes specific entries related to Heading 17.01 from the minimum value table.",
+          "date": "2014-06-05"
+        },
+        {
+          "event": "The government introduces a temporary determination mechanism for minimum values.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The government formally establishes minimum value lists for customs duty assessment.",
+          "date": "2020-06-11"
+        },
+        {
+          "event": "The government replaces the entire minimum value schedule under the authority of the Customs Act.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20140605_135-AIN_2014_2499-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20170601_142-AIN__১ জুন, ২০১৭_clause_1",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_135-AIN_2014_2499-Customs/20140605_135-AIN_2014_2499-Customs_output.json",
+        "customs_sros_OCR/20170601_142-AIN_/20170601_142-AIN__output.json",
+        "customs_sros_OCR/20200611_135-AIN_2019_86_Customs/20200611_135-AIN_2019_86_Customs_output.json",
+        "customs_sros_OCR/20240606_202-AIN_2024_54_Customs/20240606_202-AIN_2024_54_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00088_t0__tariff-value-and-minimum-value-determination.json"
+    }
+  ]
+}

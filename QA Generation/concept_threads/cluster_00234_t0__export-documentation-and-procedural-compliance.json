@@ -1,0 +1,686 @@
+{
+  "cluster_id": 234,
+  "cluster_label": "export",
+  "thread_index": 0,
+  "thread_id": "cluster_00234_t0",
+  "title": "Export Documentation and Procedural Compliance",
+  "summary": "The procedural requirements for export have evolved from general statutory declarations to more granular, digitized, and audit-focused requirements. Over time, the focus has shifted from simple bill-of-export filings to the integration of electronic systems, specific utilization declarations (UD/UP), and mandatory electronic security measures for transit.",
+  "evolution": {
+    "procedure": "Shifted from manual declarations to digitized, audit-ready, and electronically sealed processes.",
+    "documentation": "Increased granularity in reporting raw material utilization and waste ratios."
+  },
+  "timeline": [
+    {
+      "date": "2021-08-16",
+      "instrument": "VAT and SD Rules",
+      "change": "Established foundational definitions for input-output coefficients and actual duty rates for export-oriented production.",
+      "clause_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Customs Rules 2024",
+      "change": "Formalized the requirement for specific supporting documents (L/C, invoices) and introduced standardized definitions for Utilization Permission (UP) and Utilization Declaration (UD) for bonded warehouse exports.",
+      "clause_ids": [
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "instrument": "NBR Directive",
+      "change": "Mandated the use of electronic seals and locks for export-bound containers to ensure supply chain security.",
+      "clause_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_12"
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "instrument": "NBR Form",
+      "change": "Introduced a standardized reporting form for raw material consumption and waste ratios specifically linked to export orders.",
+      "clause_ids": [
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12"
+      ]
+    }
+  ],
+  "num_member_objects": 6,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— (১) বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায়—\n(ক) “আইন” অর্থ Customs Act, 1969 (Act No. IV of 1969);\n(খ) “আমদানি শুল্ক” অর্থ রপ্তানিকৃত পণ্য প্রস্তুতি বা উৎপাদনে ব্যবহৃত উপকরণের বিপরীতে আমদানি পর্যায়ে পরিশোধিত কাস্টমস ডিউটি ও রেগুলেটরি ডিউটি;\n(গ) “উপকরণ-উৎপাদ সম্পর্ক (input-output co-efficient)” অর্থ প্রতি একক রপ্তানিকৃত পণ্য উৎপাদনে ব্যবহৃত উপকরণসমূহের অপচয়সহ মোট পরিমাণ;\n(ঘ) “প্রকৃত হার” অর্থ কোনো নির্দিষ্ট পণ্য প্রতি একক রপ্তানিকৃত পণ্য উৎপাদনের জন্য প্রস্তুতকারী প্রতিষ্ঠানকে অপচয়সহ ব্যবহৃত আমদানিকৃত উপকরণের বিপরীতে পরিশোধিত সমপরিমাণ আমদানি শুল্ক;\n(ঙ) “প্রচ্ছন্ন রপ্তানি” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ২ এর দফা (৬২) এ সংজ্ঞায়িত প্রচ্ছন্ন রপ্তানি;\n(চ) “বন্ডেড প্রতিষ্ঠান” অর্থ Customs Act, 1969 এর section 13 এর অধীন বেসরকারি ওয়ারহাউসের জন্য লাইসেন্সপ্রাপ্ত প্রতিষ্ঠান;\n(ছ) “বিল অব এক্সপোর্ট” অর্থ Customs Act, 1969 এর section 2 এর clause (d) এ সংজ্ঞায়িত বিল অব এক্সপোর্ট;\n(জ) “বোর্ড” অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর Article 3 এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ঝ) “মহাপরিচালক (শুল্ক রেয়াত ও প্রত্যর্পণ)” অর্থ Customs Act, 1969 এর section 3 এর clause (g) এ উল্লিখিত মহাপরিচালক (শুল্ক রেয়াত ও প্রত্যর্পণ);\n(ঞ) “রপ্তানি” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর ধারা ২ এর দফা (৮২) এ সংজ্ঞায়িত এবং Customs Act, 1969 এ উল্লিখিত রপ্তানি;\n(ট) “রপ্তানিকারক” অর্থ এইরূপ কোনো ব্যক্তি বা প্রতিষ্ঠান যিনি বা যে—\n(অ) তাহার উৎপাদিত পণ্য অথবা অন্যভাবে সংগৃহীত পণ্য সরকার কর্তৃক, সময় সময়, জারিকৃত রপ্তানি নীতিতে বর্ণিত শর্তাবলি এবং বাংলাদেশ ব্যাংক কর্তৃক, সময় সময়, জারিকৃত বৈদেশিক মুদ্রা সংক্রান্ত বিধি-বিধান পরিপালন করিয়া সরাসরি রপ্তানি প্রক্রিয়াকরণ এলাকায় অথবা বাংলাদেশের বাহিরে রপ্তানি করেন; বা\n(আ) প্রচ্ছন্ন রপ্তানি কার্যক্রম সম্পাদন করেন;\n(ঠ) “রপ্তানির তারিখ” অর্থ Customs Act, 1969 এর section 131 এর অধীন রপ্তানির উদ্দেশ্যে যে তারিখে বিল অব এক্সপোর্ট দাখিল করা হয় সেই তারিখ; এবং\n(ড) “সমহার” অর্থ কোনো প্রতিষ্ঠান বা সমজাতীয় অন্য কোনো প্রতিষ্ঠান কর্তৃক একই ধরনের উপকরণ ব্যবহার করিয়া অভিন্ন বা সমজাতীয় পণ্য উৎপাদনপূর্বক প্রতি একক রপ্তানিকৃত পণ্যের বিপরীতে নির্ধারিত হারের পরিমাণে আমদানি শুল্ক।\n(২) এই বিধিমালায় যে সকল শব্দ বা অভিব্যক্তি ব্যবহৃত হইয়াছে কিন্তু সংজ্ঞা প্রদান করা হয় নাই, সেই সকল শব্দ বা অভিব্যক্তি আইনে যে অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The term Act is defined as the Customs Act 1969 for the purpose of these rules.",
+          "It serves as the parent legal instrument for interpreting terms not specifically defined within this regulation."
+        ],
+        "Import Duty": [
+          "This is defined as the customs duty and regulatory duty paid at the import stage against materials used in the production or manufacturing of exported goods."
+        ],
+        "Input-Output Coefficient": [
+          "It refers to the total quantity of inputs, including wastage, consumed in the production of one unit of exported goods."
+        ],
+        "Actual Rate": [
+          "This refers to the amount of import duty paid on imported materials, including wastage, used by a manufacturer to produce one unit of a specific exported product."
+        ],
+        "Deemed Export": [
+          "This is defined as per the meaning assigned in the Value Added Tax and Supplementary Duty Act 2012."
+        ],
+        "Bonded Institution": [
+          "This refers to an establishment licensed to operate as a private warehouse under the provisions of the Customs Act 1969."
+        ],
+        "Bill of Export": [
+          "The term refers to the document as defined under the relevant clauses of the Customs Act 1969."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the authority established under the National Board of Revenue Order 1972."
+        ],
+        "Director General (Duty Exemption and Drawback)": [
+          "This refers to the official designated under the Customs Act 1969 as responsible for matters concerning duty exemption and drawback."
+        ],
+        "Export": [
+          "This refers to the act of exporting as defined under the Value Added Tax and Supplementary Duty Act 2012 and the Customs Act 1969."
+        ],
+        "Exporter": [
+          "An exporter is defined as a person or institution that exports goods either directly to locations outside Bangladesh or to export processing zones, or performs deemed export activities while complying with export policies and central bank regulations."
+        ],
+        "Date of Export": [
+          "This is defined as the date on which the bill of export is submitted for the purpose of exportation in accordance with the Customs Act 1969."
+        ],
+        "Average Rate": [
+          "This refers to a fixed rate of import duty determined per unit of exported goods produced by a firm or similar firms using the same types of inputs for identical or similar products."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2144",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Customs Act 1969"
+        ],
+        "Import Duty": [
+          "customs duty",
+          "regulatory duty",
+          "materials",
+          "exported goods"
+        ],
+        "Input-Output Coefficient": [
+          "inputs",
+          "wastage",
+          "exported goods"
+        ],
+        "Actual Rate": [
+          "import duty",
+          "imported materials",
+          "wastage",
+          "exported product"
+        ],
+        "Deemed Export": [
+          "Value Added Tax and Supplementary Duty Act 2012"
+        ],
+        "Bonded Institution": [
+          "private warehouse",
+          "Customs Act 1969"
+        ],
+        "Bill of Export": [
+          "Bill of Export",
+          "Customs Act 1969"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue Order 1972"
+        ],
+        "Director General (Duty Exemption and Drawback)": [
+          "Customs Act 1969"
+        ],
+        "Export": [
+          "Value Added Tax and Supplementary Duty Act 2012",
+          "Customs Act 1969"
+        ],
+        "Exporter": [
+          "person",
+          "institution",
+          "goods",
+          "Bangladesh",
+          "export processing zones",
+          "deemed export",
+          "export policies",
+          "central bank regulations"
+        ],
+        "Date of Export": [
+          "bill of export",
+          "Customs Act 1969"
+        ],
+        "Average Rate": [
+          "import duty",
+          "exported goods",
+          "inputs",
+          "products"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        10,
+        22,
+        52,
+        57,
+        70,
+        75,
+        77,
+        83,
+        90,
+        105,
+        106,
+        137,
+        142,
+        234,
+        288,
+        300,
+        461,
+        810,
+        846,
+        1372,
+        2000,
+        2143,
+        3358,
+        3797,
+        5879,
+        6040,
+        6241,
+        7921,
+        7959
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "পণ্য ঘোষণার সহিত দাখিলতব্য দলিলাদি",
+      "text_id": "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+      "resolved_text": "৪। পণ্য ঘোষণার সহিত দাখিলতব্য দলিলাদি।⎯ পণ্য ঘোষণার সহিত নিম্নবর্ণিত দলিলাদির মূল কপি ও অন্যান্য প্রাসঙ্গিক দলিলাদি দাখিল করিতে হইবে, যথা:-\n(ক) আমদানির ক্ষেত্রে⎯\n(অ) Bill of Lading বা, ক্ষেত্রমত, Air Way Bill বা Truck Receipt বা Railway Receipt;\n(আ) Invoice;\n(ই) Packing List;\n(ঈ) পণ্যের আমদানিযোগ্যতা এবং/অথবা দাবীকৃত শুল্ক ও কর রেয়াতের প্রাপ্যতা প্রমাণের জন্য প্রয়োজনীয় অন্যান্য প্রামাণিক দলিলাদি; এবং\n(উ) সরকার, বোর্ড এবং/অথবা সংশ্লিষ্ট সরকারি দপ্তর কর্তৃক, সময় সময়, জারিকৃত আদেশ মোতাবেক দাখিলযোগ্য প্রামাণিক দলিলাদি;\n(খ) রপ্তানির ক্ষেত্রে⎯\n(অ) Export Letter of Credit (L/C) বা export/sales contract বা Order;\n(আ) Invoice;\n(ই) Packing List;\n(ঈ) Certificate of Origin (C/O); এবং\n(উ) সরকার, বোর্ড এবং/অথবা সংশ্লিষ্ট সরকারি দপ্তর কর্তৃক, সময় সময়, জারিকৃত আদেশ মোতাবেক দাখিলযোগ্য প্রামাণিক দলিলাদি।",
+      "entity_concepts": {
+        "Bill of Lading": [
+          "This document is a mandatory requirement to be submitted along with the goods declaration during the import process."
+        ],
+        "Certificate of Origin": [
+          "This document is a mandatory requirement to be submitted along with the goods declaration during the export process."
+        ],
+        "National Board of Revenue": [
+          "The board, along with the government and other relevant departments, has the authority to issue orders from time to time specifying additional documentation requirements for both imports and exports."
+        ],
+        "Customs Invoice and Documentation": [
+          "General invoices and packing lists are required for both import and export declarations, along with specific transport documents for imports and commercial contracts for exports."
+        ],
+        "Export": [
+          "Exporters must provide specific supporting documents including sales contracts or letters of credit, invoices, packing lists, and certificates of origin during the customs declaration process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2736",
+      "entity_sub_entities": {
+        "Bill of Lading": [
+          "document",
+          "goods declaration"
+        ],
+        "Certificate of Origin": [
+          "document",
+          "goods declaration"
+        ],
+        "National Board of Revenue": [
+          "board",
+          "government",
+          "relevant departments",
+          "documentation requirements"
+        ],
+        "Customs Invoice and Documentation": [
+          "invoices",
+          "packing lists",
+          "transport documents",
+          "commercial contracts"
+        ],
+        "Export": [
+          "sales contracts",
+          "letters of credit",
+          "invoices",
+          "packing lists",
+          "certificates of origin"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        6,
+        208,
+        234,
+        251,
+        268,
+        325,
+        463,
+        701,
+        707,
+        730,
+        1242,
+        1606,
+        1939,
+        2225,
+        2246,
+        3623
+      ],
+      "source_file": "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়,—\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “আমদানি প্রাপ্যতা” অর্থ অনুমোদিত মেশিনের বার্ষিক উৎপাদন ক্ষমতা অনুযায়ী এবং কাঁচামাল ব্যবহারের পরিমাণ বিবেচনায়পূর্বক ওয়্যারহাউসিং সুবিধায় আমদানিযোগ্য কাঁচামালের পরিমাণ;\n(গ) “ইউটিলাইজেশন পারমিশন (ইউপি)” অর্থ আইনের ধারা ১১৭ ও ধারা ১১৮ এর উদ্দেশ্য পূরণকল্পে, ওয়্যারহাউস পদ্ধতির আওতায় শুল্কমুক্তভাবে আমদানিকৃত ও যথাযথ প্রক্রিয়ায় ইন্টু-বন্ডকৃত কাঁচামাল দ্বারা পণ্য উৎপাদনের লক্ষ্যে কাস্টমস কর্তৃপক্ষ কর্তৃক প্রদত্ত অনুমতিপত্র;\n(ঘ) “কাঁচামাল” অর্থ রপ্তানির লক্ষ্যে পণ্য উৎপাদনের জন্য আমদানিকৃত ও বিদ্যমান বিধি-বিধান অনুযায়ী স্থানীয় উৎস হইতে সংগৃহীত কাঁচামাল;\n(ঙ) “তফসিল” অর্থ এই বিধিমালার কোনো তফসিল;\n(চ) “পরিদপ্তর” অর্থ শুল্ক রেয়াত ও প্রত্যর্পণ পরিদপ্তর; এবং\n(ছ) “সহগ” অর্থ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামালের বর্ণনা ও পরিমাণ সম্পর্কিত উপযুক্ত কর্তৃপক্ষ কর্তৃক অনুমোদিত ঘোষণাপত্র।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "The term Act is defined as the Customs Act 2023 for the purposes of these rules."
+        ],
+        "Import Eligibility": [
+          "Import eligibility is defined as the quantity of raw materials that may be imported under warehousing facilities, determined based on the approved annual production capacity of machinery and the projected consumption of raw materials."
+        ],
+        "Utilization Permission": [
+          "Utilization Permission is defined as the authorization issued by the customs authorities to produce goods using duty-free raw materials imported under the warehousing system and properly bonded, in accordance with the provisions of the Customs Act."
+        ],
+        "Raw Materials": [
+          "Raw materials are defined as those imported or locally procured in accordance with existing regulations for the purpose of producing goods for export."
+        ],
+        "Schedule": [
+          "The term Schedule is defined as any schedule contained within these rules."
+        ],
+        "Directorate": [
+          "The term Directorate is defined as the Directorate of Customs Duty Exemption and Drawback."
+        ],
+        "Input-Output Coefficient": [
+          "The term Coefficient refers to a declaration approved by the appropriate authority detailing the description and quantity of raw materials required to produce a single unit of finished goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2813",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Act",
+          "Customs Act 2023"
+        ],
+        "Import Eligibility": [
+          "raw materials",
+          "warehousing facilities",
+          "approved annual production capacity",
+          "machinery",
+          "projected consumption"
+        ],
+        "Utilization Permission": [
+          "authorization",
+          "customs authorities",
+          "goods",
+          "duty-free raw materials",
+          "warehousing system",
+          "Customs Act"
+        ],
+        "Raw Materials": [
+          "raw materials",
+          "goods",
+          "export"
+        ],
+        "Schedule": [
+          "schedule"
+        ],
+        "Directorate": [
+          "Directorate of Customs Duty Exemption and Drawback"
+        ],
+        "Input-Output Coefficient": [
+          "Coefficient",
+          "declaration",
+          "appropriate authority",
+          "raw materials",
+          "finished goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        12,
+        19,
+        33,
+        37,
+        45,
+        136,
+        137,
+        144,
+        234,
+        242,
+        470,
+        514,
+        593,
+        737,
+        1159,
+        1675,
+        3199,
+        3847,
+        5618,
+        7379,
+        7567,
+        11051,
+        13342
+      ],
+      "source_file": "customs_sros_OCR/20240606_212-AIN_2024_64_Customs/20240606_212-AIN_2024_64_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে এই বিধিমালায়,-\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “ইউটিলাইজেশন ডিক্লারেশন (ইউডি)” অর্থ আইনের ধারা ১১৭ এর উপ-ধারা (১) ও ধারা ১১৮ এর অধীন ওয়্যারহাউস পদ্ধতির আওতায় শুল্কমুক্তভাবে আমদানিকৃত ও যথাযথ প্রক্রিয়ায় ইন্টু-বন্ডকৃত কাঁচামাল দ্বারা পণ্য উৎপাদনের লক্ষ্যে বন্ডদাতা কর্তৃক নির্ধারিত ফরমে দাখিলকৃত এবং কাস্টমস কর্তৃপক্ষের নিকট হইতে অনুমতিপ্রাপ্ত কোনো ব্যবসায় সংঘ কর্তৃক প্রত্যায়িত ঘোষণাপত্র, যাহাতে রপ্তানিকারক, আমদানিকারক, রপ্তানিতব্য পণ্য, রপ্তানি চুক্তি বা ঋণপত্র, রপ্তানিতব্য পণ্যের উৎপাদনে প্রয়োজনীয় কাঁচামালের বর্ণনা ও পরিমাণ, কনজাম্পশন, রপ্তানি চুক্তি বা ঋণপত্রের অধীন সকল ব্যাক টু ব্যাক ঋণপত্র (BBLC), জাহাজীকরণের তারিখ সম্পর্কিত বিস্তারিত বিবরণ থাকে;\n(গ) “কাঁচামাল” অর্থ রপ্তানির লক্ষ্যে পণ্য উৎপাদনের জন্য আমদানিকৃত কাঁচামাল ও মধ্যবর্তী পণ্য;\n(ঘ) “তফসিল” অর্থ এই বিধিমালার কোনো তফসিল;\n(ঙ) “পণ্যের স্বত্বাধিকারী” অর্থ কোনো শিল্প প্রতিষ্ঠানের স্বত্বাধিকারী বা ব্যবস্থাপনাকারী কোনো ব্যক্তি, ব্যবসায় প্রতিষ্ঠান, ব্যক্তি সংঘ বা সমিতি;\n(চ) “বন্ডদাতা” অর্থ আইনের ধারা ১০৯ এর অধীন বন্ডদাতা;\n(ছ) “লাইসেন্স” অর্থ আইনের ধারা ১২ এর অধীন কোনো শিল্প প্রতিষ্ঠানকে প্রদত্ত ওয়্যারহাউস লাইসেন্স;\n(জ) “লিয়েন ব্যাংক” অর্থ লাইসেন্সিং কর্তৃপক্ষ কর্তৃক অনুমোদিত বাণিজ্যিক ব্যাংক যাহার মাধ্যমে বন্ড লাইসেন্সধারী প্রতিষ্ঠান তাহার সকল প্রকার আমদানি-রপ্তানি কার্যক্রম ও লেনদেন সম্পাদন করিবে;\n(ঝ) “শিল্প প্রতিষ্ঠান” অর্থ সম্পূর্ণ রপ্তানিমুখী কোনো শিল্প প্রতিষ্ঠান, যাহা পণ্য প্রস্তুত ও রপ্তানির লক্ষ্যে প্রয়োজনীয় কাঁচামাল আমদানি করে; এবং\n(ঞ) “সরাসরি রপ্তানিমুখী শিল্প প্রতিষ্ঠান” অর্থ এইরূপ কোনো শিল্প প্রতিষ্ঠান যাহা তৎকর্তৃক প্রস্তুতকৃত বা উৎপাদিত সকল পণ্য বিদেশে রপ্তানি করে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This law is officially referred to as the Act within these rules."
+        ],
+        "Utilization Declaration": [
+          "Defined as a document submitted by the bonded warehouse licensee to customs authorities and certified by a recognized business association, it specifies details such as imported raw materials, production processes, and export contracts under the bonded warehouse system.",
+          "It serves as a mandatory declaration of raw materials to be used in production for export under specific sections of the Customs Act."
+        ],
+        "Raw Materials": [
+          "These are defined as inputs and intermediate goods imported specifically for the purpose of manufacturing products for export."
+        ],
+        "Schedule": [
+          "Refers to any schedule appended to these rules."
+        ],
+        "Product Owner": [
+          "Defined as any individual, business entity, group of persons, or association that owns or manages an industrial enterprise."
+        ],
+        "Bonded Warehouse License": [
+          "Refers to the party responsible for the bonded facility as defined under the relevant section of the Customs Act."
+        ],
+        "Warehouse License": [
+          "Defined as the license granted to an industrial enterprise under the Customs Act for operating a bonded warehouse."
+        ],
+        "Lien Bank": [
+          "A commercial bank approved by the licensing authority through which a bonded warehouse licensee conducts all its import-export activities and financial transactions."
+        ],
+        "Industrial Enterprise": [
+          "Defined as an export-oriented entity that imports necessary raw materials for the production and export of finished goods."
+        ],
+        "Direct Export-Oriented Industrial Enterprise": [
+          "An industrial enterprise that exports its entire production of goods to foreign markets."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2828",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Act"
+        ],
+        "Utilization Declaration": [
+          "document",
+          "bonded warehouse licensee",
+          "customs authorities",
+          "business association",
+          "imported raw materials",
+          "production processes",
+          "export contracts",
+          "bonded warehouse system",
+          "raw materials",
+          "production",
+          "export",
+          "Customs Act"
+        ],
+        "Raw Materials": [
+          "inputs",
+          "intermediate goods",
+          "products",
+          "export"
+        ],
+        "Schedule": [
+          "schedule"
+        ],
+        "Product Owner": [
+          "individual",
+          "business entity",
+          "group of persons",
+          "association",
+          "industrial enterprise"
+        ],
+        "Bonded Warehouse License": [
+          "bonded facility",
+          "Customs Act"
+        ],
+        "Warehouse License": [
+          "license",
+          "industrial enterprise",
+          "Customs Act",
+          "bonded warehouse"
+        ],
+        "Lien Bank": [
+          "commercial bank",
+          "licensing authority",
+          "bonded warehouse licensee",
+          "import-export activities",
+          "financial transactions"
+        ],
+        "Industrial Enterprise": [
+          "export-oriented entity",
+          "raw materials",
+          "production",
+          "export",
+          "finished goods"
+        ],
+        "Direct Export-Oriented Industrial Enterprise": [
+          "industrial enterprise",
+          "production",
+          "goods",
+          "foreign markets"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        12,
+        19,
+        37,
+        43,
+        45,
+        83,
+        84,
+        106,
+        132,
+        136,
+        144,
+        146,
+        234,
+        251,
+        309,
+        386,
+        446,
+        489,
+        593,
+        710,
+        711,
+        733,
+        790,
+        1562,
+        2480,
+        2511,
+        2953,
+        3535,
+        3929,
+        3990,
+        4152,
+        6100,
+        6465,
+        7360,
+        7943,
+        8231,
+        8563,
+        9157,
+        11003
+      ],
+      "source_file": "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "ইলেকট্রনিক সিল ও লক এর ব্যবহার",
+      "text_id": "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_12",
+      "resolved_text": "১২। ইলেকট্রনিক সিল ও লক এর ব্যবহার।—(১) কোনো অথরাইজড ইকোনমিক অপারেটরের caravan এর পণ্য খালাসের লক্ষ্যে আমদানি পণ্যবাহী কন্টেইনার অথবা উক্ত কন্টেইনার বা নৌযান বা অপর কোনো যানবাহন হইতে পণ্য নামাইয়া অন্য কোনো যানবাহনে স্থানান্তর করা হইলে উক্ত যানবাহনে অথবা রপ্তানির লক্ষ্যে বন্দরের উদ্দেশ্যে প্রেরিত পণ্যবাহী যানবাহনে বা, ক্ষেত্রমত, কন্টেইনারে জাতীয় রাজস্ব বোর্ড কর্তৃক জারীকৃত ইলেকট্রনিক সিল ও লক বিধিমালা অনুসারে ইলেকট্রনিক সিল ও লক আবশ্যিকভাবে ব্যবহার করিতে হইবে।\n(২) কোনো অনিবার্য কারণে উক্ত ইলেকট্রনিক সিল ও লক ব্যবস্থা কার্যকর না থাকিলে জাতীয় রাজস্ব বোর্ড লিখিত আদেশের মাধ্যমে উপ-বিধি (১) এর বিধান শিথিল করিতে পারিবে।\n(৩) ইলেকট্রনিক সিল ও লক ব্যবহারের ক্ষেত্রে কোনো ব্যত্যয় ঘটিতেছে কি না তাহা যথোপযুক্ত কাস্টমস কর্মকর্তা এবং অথরাইজড ইকোনমিক অপারেটর সনদপ্রাপ্ত caravan কর্তৃক নিয়মিতভাবে তদারকি করিতে হইবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "An Authorized Economic Operator must ensure the mandatory use of electronic seals and locks on containers or vehicles carrying import or export goods, as per the rules issued by the National Board of Revenue.",
+          "Authorized Economic Operators are responsible for regularly monitoring the electronic seal and lock system to detect any irregularities in its application."
+        ],
+        "Electronic Seal and Lock": [
+          "The use of electronic seals and locks is mandatory for containers and transport vehicles during the import, transshipment, or transport of goods to ports for export, subject to rules established by the National Board of Revenue.",
+          "The National Board of Revenue reserves the authority to issue written orders to temporarily relax the requirement for electronic seals and locks in unavoidable circumstances."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to issue rules governing the implementation and use of electronic seals and locks.",
+          "The board has the legal authority to grant written relaxations to the mandatory electronic seal and lock requirements when unavoidable conditions arise."
+        ],
+        "Appropriate Officer of Customs": [
+          "Appropriate customs officials are required to regularly supervise the use of electronic seals and locks to ensure there are no deviations from the prescribed compliance procedures."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2878",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "electronic seals",
+          "locks",
+          "containers",
+          "vehicles",
+          "import goods",
+          "export goods",
+          "National Board of Revenue",
+          "electronic seal and lock system"
+        ],
+        "Electronic Seal and Lock": [
+          "electronic seals",
+          "locks",
+          "containers",
+          "transport vehicles",
+          "import",
+          "transshipment",
+          "transport of goods",
+          "ports",
+          "export",
+          "National Board of Revenue",
+          "written orders"
+        ],
+        "National Board of Revenue": [
+          "rules",
+          "electronic seals",
+          "locks",
+          "written relaxations"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs officials",
+          "electronic seals",
+          "locks"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        17,
+        18,
+        29,
+        87,
+        93,
+        183,
+        196,
+        228,
+        234,
+        244,
+        442,
+        496,
+        594,
+        731,
+        844,
+        1293,
+        1402,
+        1634,
+        5070,
+        13432
+      ],
+      "source_file": "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json",
+      "clause_date": "2024-06-13"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "পরিশিষ্ট-১",
+      "text_id": "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড\nপরিশিষ্ট-১\n[শর্ত (ঙ) দ্রষ্টব্য]\n..........তারিখের রপ্তানি আদেশ নম্বর........ এর বিপরীতে সরবরাহের জন্য.........পণ্য উৎপাদন কাজে আবশ্যক উপকরণ সম্পর্কিত ঘোষণা।\n১। প্রতিষ্ঠানের নাম :\n২। ঠিকানা :\n৩। মূসক নিবন্ধন নম্বর :\n৪। বিস্তারিত বর্ণনা :\n\n| ক্রমিক নং | পণ্যের নাম ও এইচ. এস. কোড | একক | পণ্য উৎপাদনে ব্যবহার্য উপকরণের নাম (এইচ. এস. কোড) | অপচয়সহ একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ (একক) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ (একক) | অপচয় শতকরা হার (%) |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n\n\n........................................................\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ:\nকমিশনারের প্রতিস্বাক্ষর:\nদপ্তরের নাম:............",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue mandates this declaration form to be completed for the disclosure of raw materials required in the production of export goods.",
+          "This form serves as a standardized regulatory requirement to monitor input-output coefficients for export-oriented manufacturing."
+        ],
+        "Value Added Tax": [
+          "The declaration requires the disclosure of the Value Added Tax registration number for the manufacturing establishment to ensure compliance with tax administration procedures."
+        ],
+        "Export": [
+          "This form is associated with specific export orders and requires the declaration of all raw materials consumed in the production process to verify utilization and waste ratios."
+        ],
+        "Commissioner of Customs": [
+          "The declaration form requires countersignature by the Commissioner of Customs to formalize the approval of the declared input-output requirements for the manufacturer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3215",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "declaration form",
+          "raw materials",
+          "export goods",
+          "input-output coefficients",
+          "export-oriented manufacturing"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax registration number",
+          "manufacturing establishment"
+        ],
+        "Export": [
+          "export orders",
+          "raw materials",
+          "production process",
+          "utilization ratios",
+          "waste ratios"
+        ],
+        "Commissioner of Customs": [
+          "declaration form",
+          "input-output requirements",
+          "manufacturer"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        9,
+        12,
+        95,
+        133,
+        138,
+        218,
+        228,
+        234,
+        391,
+        474,
+        875,
+        2718,
+        7951,
+        9100,
+        13143
+      ],
+      "source_file": "customs_sros_OCR/20250929/20250929_output.json",
+      "clause_date": "2025-09-29"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

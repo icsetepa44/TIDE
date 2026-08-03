@@ -1,0 +1,322 @@
+{
+  "cluster_id": 371,
+  "cluster_label": "industrial machinery",
+  "thread_index": 1,
+  "thread_id": "cluster_00371_t1",
+  "title": "Standardized Compliance Documentation",
+  "summary": "This cluster represents the standardized templates (certificates and undertakings) used by importers to certify the use of machinery in industrial processes (BMR/BMRE). These documents remain functionally static as they serve as recurring administrative requirements for customs clearance.",
+  "evolution": {
+    "nature": "Administrative compliance templates."
+  },
+  "timeline": [
+    {
+      "date": "undated",
+      "instrument": "Metadata",
+      "change": "Standardized administrative templates for industrial machinery import certification.",
+      "clause_ids": [
+        "metadata_12",
+        "metadata_14",
+        "metadata_15",
+        "metadata_2",
+        "metadata_3"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 5,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_12",
+      "resolved_text": "পরিশিষ্ট-১\n\nপ্রত্যয়নপত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, মেসার্স ----------------------------------------- - \n----- (আমদানিকারকের সম্পূর্ণ ঠিকানা) বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত একটি টেক্সটাইল সংশ্লিষ্ট শিল্প প্রতিষ্ঠান যাহা এই Association এর সদস্য। এই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ---------- \n---------------- তারিখঃ ------------- ইনভয়েস নং ---------------------------- তারিখ ঃ ---\n----------- বি,এল/এয়ারওয়ে বিল/ট্রাক রিসিট নং --------------------------- তারিখ ঃ -------\n-------- এর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ উক্ত প্রতিষ্ঠানের উৎপাদন প্রক্রিয়ায় ব্যবহৃত হইবে। উক্ত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ এস,আর,ও নং ১৭৮-আইন/২০১০/২২৯৬/শুল্ক, তারিখ ঃ ১০/০৬/২০১০ খ্রিঃ অনুযায়ী রেয়াতি হারে শুল্কায়নের সুপারিশ করা হইল।\n\nস্বাক্ষর ঃ\nতারিখ ঃ\nনাম ঃ\nপদবী ঃ সভাপতি,\n............(সংশ্লিষ্ট এসোসিয়েশনের নাম ও ঠিকানা)\nসীল ঃ",
+      "entity_concepts": {
+        "Bangladesh Poultry Industries Association": [
+          "The association acts as an endorsing body by certifying that an industrial entity is a registered member and its imported goods are intended for production purposes.",
+          "The association provides formal recommendations to the customs authority for the application of concessional duty rates on imported machinery, parts, and materials based on the relevant statutory regulatory order."
+        ],
+        "S.R.O. 178-AIN/2010": [
+          "This statutory regulatory order provides the legal basis for granting concessional duty rates on the import of specific industrial machinery, equipment, and raw materials used in production processes."
+        ],
+        "Board of Investment": [
+          "The Board of Investment serves as the official registration authority for textile-related industrial enterprises seeking to avail of specified fiscal concessions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_236",
+      "entity_sub_entities": {
+        "Bangladesh Poultry Industries Association": [
+          "industrial entity",
+          "imported goods",
+          "machinery",
+          "parts",
+          "materials",
+          "statutory regulatory order"
+        ],
+        "S.R.O. 178-AIN/2010": [
+          "industrial machinery",
+          "equipment",
+          "raw materials"
+        ],
+        "Board of Investment": [
+          "textile-related industrial enterprises"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        12,
+        15,
+        33,
+        54,
+        57,
+        72,
+        371,
+        752,
+        856,
+        1461,
+        1923,
+        12797
+      ],
+      "source_file": "customs_sros_OCR/20100610_178-AIN_2010_2296-Customs/20100610_178-AIN_2010_2296-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_14",
+      "resolved_text": "পরিশিষ্ট-২\n\nঅঙ্গীকারনামা\n\nআমি ----------------------------- (নাম) মালিক/ব্যবস্থাপনা পরিচালক, মেসার্স ------ \n------------------------------------------------------------------------------------------\n------------------------ (প্রতিষ্ঠানের নাম ও সম্পূর্ণ ঠিকানা ) এই মর্মে অঙ্গীকার করিতেছি যে, \nঋণপত্র নং ----------------------- তারিখ ঃ ------------- ইনভয়েস নং ---------------------\nতারিখ ঃ -------------- বি এল/এয়ারওয়েজ বিল/ট্রাক রিসিট নং --------------- তারিখ ঃ --------\n----- এর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ উল্লিখিত শিল্পে স্থাপন/প্রতিস্থাপন/সুষমকরণ/ আধুনিকীকরণ/সম্প্রসারণ (বিএমআরই)-এর কাজে ব্যবহার করিব। অন্যথায় আমদানিকৃত উক্ত পণ্যের উপর প্রযোজ্য স্বাভাবিক হারের শুল্ক ও কর পরিশোধ ছাড়াও Customs Act, 1969 এর অধীনে শুল্ক authority কর্তৃক গৃহীত অন্য যেকোনো শাস্তি মানিয়া নিতে বাধ্য থাকিব।\n\nস্বাক্ষর ঃ ..................................................\nতারিখ ঃ\nমালিক/ব্যবস্থাপনা পরিচালকের নাম ঃ .....................\nপ্রতিষ্ঠানের নাম ও ঠিকানা ঃ .................................",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This legal instrument establishes the regulatory framework and penalties for the import of industrial machinery and equipment under specific operational conditions.",
+          "It mandates that in the event of misuse of imported goods, the importer is liable to pay standard duties and taxes and accept any additional penalties imposed by the Customs Authority under the Act."
+        ],
+        "Customs Authority": [
+          "This body is responsible for enforcing compliance and applying legal penalties to importers who fail to adhere to the stated conditions for the utilization of industrial machinery and equipment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_237",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "industrial machinery",
+          "equipment",
+          "imported goods",
+          "importer",
+          "standard duties",
+          "taxes",
+          "additional penalties",
+          "Customs Authority"
+        ],
+        "Customs Authority": [
+          "importers",
+          "industrial machinery",
+          "equipment"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        13,
+        23,
+        39,
+        72,
+        79,
+        371,
+        3095,
+        5319
+      ],
+      "source_file": "customs_sros_OCR/20100610_178-AIN_2010_2296-Customs/20100610_178-AIN_2010_2296-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩",
+      "text_id": "metadata_15",
+      "resolved_text": "পরিশিষ্ট-৩\n\nপ্রত্যয়নপত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, মেসার্স -----------------------------------------\n---------------------------------------------------------------------------- (সম্পূর্ণ \nঠিকানা দিতে হইবে) বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত একটি টেক্সটাইল সংশ্লিষ্ট শিল্প প্রতিষ্ঠান। এই \nশিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ----------------- তারিখ ঃ ------------------- ইনভয়েস নং ---\n------------------ তারিখ ঃ ------------------- বিল অব এন্ট্রি নং --------------------তারিখ \nঃ ------------------ এর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণের সম্পূর্ণ/আংশিক \nউল্লিখিত শিল্পের সুষমকরণ, আধুনিকীকরণ, প্রতিস্থাপন এবং/কিংবা সম্প্রসারণ (বিএমআরই) কাজে \nব্যবহার করা হইয়াছে। এমতাবস্থায়, বর্ণিত প্রতিষ্ঠান কর্তৃক দাখিলকৃত অঙ্গীকারনামা ফেরত প্রদানের \nসুপারিশ করা হইল।\n\nস্বাক্ষর ঃ . . . . . . . . . . . . . . . . . . . . . \nনাম ঃ . . . . . . . . . . . . . . . . . . . . . . \nতারিখ ঃ \nপদবী ঃ সভাপতি,\n..................(সংশ্লিষ্ট এসোসিয়েশনের নাম)\nসীল ঃ",
+      "entity_concepts": {
+        "Textile Industry": [
+          "A registered textile industry may import machinery, spare parts, and raw materials for the purpose of balancing, modernization, replacement, and expansion (BMRE) of their industrial units.",
+          "The industry must verify the use of imported goods through a formal certificate to justify the release or return of their submitted undertakings or bonds."
+        ],
+        "Board of Investment": [
+          "Industrial establishments involved in textile manufacturing must be registered with the Board of Investment to qualify for specific industrial import benefits."
+        ],
+        "Bill of Entry": [
+          "The import of industrial machinery and equipment is linked to specific customs documentation, such as the bill of entry, which serves as evidence of the imported goods used in industrial projects."
+        ],
+        "Balancing, Modernization, Replacement, and Expansion (BMRE)": [
+          "The BMRE process refers to the formal scheme under which industrial entities are permitted to upgrade their operational capacity through the import of machinery and spare parts."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_238",
+      "entity_sub_entities": {
+        "Textile Industry": [
+          "machinery",
+          "spare parts",
+          "raw materials",
+          "industrial units",
+          "imported goods",
+          "certificate",
+          "undertakings",
+          "bonds"
+        ],
+        "Board of Investment": [
+          "industrial establishments",
+          "textile manufacturing"
+        ],
+        "Bill of Entry": [
+          "industrial machinery",
+          "equipment",
+          "bill of entry",
+          "imported goods",
+          "industrial projects"
+        ],
+        "Balancing, Modernization, Replacement, and Expansion (BMRE)": [
+          "industrial entities",
+          "machinery",
+          "spare parts"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        12,
+        27,
+        33,
+        72,
+        110,
+        143,
+        188,
+        371,
+        546,
+        645,
+        752,
+        889,
+        948,
+        2800,
+        3493,
+        5031,
+        12795
+      ],
+      "source_file": "customs_sros_OCR/20100610_178-AIN_2010_2296-Customs/20100610_178-AIN_2010_2296-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট-২\n\nঅঙ্গীকারনামা\n\nআমি ----------------------------- (নাম) মালিক/ব্যবস্থাপনা পরিচালক, মেসার্স ------------------------------------------------------------------------\n------------------------------------------------ (প্রতিষ্ঠানের নাম ও সম্পূর্ণ ঠিকানা) এই মর্মে অঙ্গীকার করিতেছি যে, ঋণপত্র নং ----------------------- তারিখ : -------------\nইনভয়েস নং ---------------------তারিখ : --------------\nবিএল/এয়ারওয়ে বিল/ট্রাক রিসিট নং --------------- তারিখ ঃ --------------------\nএর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ উল্লিখিত শিল্পে স্থাপন/প্রতিস্থাপন/সুষমকরণ/আধুনিকীকরণ/সম্প্রসারণ (বিএমআরই)-এর কাজে ব্যবহার করিব।\n\nএর কোন ব্যত্যয় হইলে আমদানিকৃত উক্ত পণ্যের উপর প্রযোজ্য স্বাভাবিক হারের শুল্ক ও কর পরিশোধ ছাড়াও Customs Act, 1969 এর অধীনে কাস্টমস কর্তৃপক্ষ কর্তৃক গৃহীত অন্য যে কোনো শাস্তি মানিয়া লইতে বাধ্য থাকিব।\n\n\tস্বাক্ষর : ...........................................................\nতারিখ : \tমালিক/ব্যবস্থাপনা পরিচালকের নাম : ........................\n\tপ্রতিষ্ঠানের নাম ও ঠিকানা : ...................................",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This legal instrument authorizes customs authorities to impose penalties for the misuse of imported industrial machinery, spare parts, or materials beyond the standard duties and taxes applicable."
+        ],
+        "Industrial Importation": [
+          "Importers must provide a formal declaration pledging that goods imported under specific commercial documents will be utilized exclusively for the installation, replacement, balancing, modernization, or expansion of industrial facilities.",
+          "Any deviation from the stated industrial purpose renders the importer liable to pay standard customs duties and taxes and subjects them to further enforcement actions under existing customs laws."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_675",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "industrial machinery",
+          "spare parts",
+          "materials",
+          "standard duties",
+          "taxes"
+        ],
+        "Industrial Importation": [
+          "commercial documents",
+          "industrial facilities",
+          "standard customs duties",
+          "taxes",
+          "customs laws"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        13,
+        57,
+        110,
+        197,
+        371,
+        1687,
+        1953,
+        3094,
+        3095,
+        4183
+      ],
+      "source_file": "customs_sros_OCR/20160602_151-AIN_2016_13-Customs/20160602_151-AIN_2016_13-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_3",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৩) দ্রষ্টব্য]\nঅঙ্গীকারনামা\n\nআমি ----------------------------- (নাম) মালিক/ব্যবস্থাপনা পরিচালক, মেসার্স ------------\n------------------------------------------------------------------------------------------------------\n------ (প্রতিষ্ঠানের নাম ও সম্পূর্ণ ঠিকানা) এই মর্মে অঙ্গীকার করিতেছি যে, ঋণপত্র নং --------------\n--------- তারিখ: ------------- ইনভয়েস নং ---------------------তারিখ: --------------\nবিএল/এয়ারওয়ে বিল/ট্রাক রিসিট নং --------------- তারিখঃ -------------------- এর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ উল্লিখিত শিল্পে স্থাপন/ প্রতিস্থাপন/ সুষমকরণ/ আধুনিকীকরণ/সম্প্রসারণ (বিএমআরই)-এর কাজে ব্যবহার করিব।\nএর কোনো ব্যতিক্রম হইলে আমদানিকৃত উক্ত পণ্যের উপর প্রযোজ্য স্বাভাবিক হারের শুল্ক ও কর পরিশোধ ছাড়াও Customs Act, 1969 এর অধীন কাস্টমস কর্তৃপক্ষ কর্তৃক গৃহীত অন্য যে কোনো শাস্তি মানিয়া লইতে বাধ্য থাকিব।\n\nতারিখ:\n\nস্বাক্ষর: ...........................................................\nমালিক/ব্যবস্থাপনা পরিচালকের নাম: ........................\nপ্রতিষ্ঠানের নাম ও ঠিকানা: ...................................",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act empowers the customs authority to impose and collect duties and taxes on imported goods.",
+          "It provides the legal framework under which customs authorities can penalize parties for failure to comply with the declared conditions of use for imported industrial equipment and components."
+        ],
+        "Customs Authority": [
+          "The customs authority is responsible for enforcing the regulatory requirements and conditions associated with the importation of industrial machinery and equipment.",
+          "They have the legal power to recover standard duty and tax rates and impose penalties in the event of non-compliance with the established industrial usage terms."
+        ],
+        "Industrial Equipment and Spare Parts": [
+          "These goods are subject to specific conditions when imported for purposes such as establishment, replacement, balancing, modernization, or expansion (BMRE) of an industrial unit.",
+          "Importers must provide an undertaking that these imported items will be strictly utilized for the designated industrial projects or face potential fiscal and legal consequences."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1069",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "duties",
+          "taxes",
+          "imported goods",
+          "industrial equipment",
+          "components"
+        ],
+        "Customs Authority": [
+          "industrial machinery",
+          "equipment",
+          "standard duty",
+          "tax rates",
+          "penalties"
+        ],
+        "Industrial Equipment and Spare Parts": [
+          "industrial unit",
+          "imported items",
+          "industrial projects"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        13,
+        23,
+        30,
+        42,
+        46,
+        72,
+        369,
+        371,
+        647,
+        1685,
+        1793,
+        2800,
+        4182,
+        12375
+      ],
+      "source_file": "customs_sros_OCR/20210603_120-AIN_2021_09_Customs/20210603_120-AIN_2021_09_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

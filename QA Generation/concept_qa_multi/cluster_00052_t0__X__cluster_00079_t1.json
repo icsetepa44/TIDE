@@ -1,0 +1,35 @@
+{
+  "group_id": "cluster_00052_t0__X__cluster_00079_t1",
+  "entities": [
+    "import duty",
+    "importers"
+  ],
+  "cluster_ids": [
+    52,
+    79
+  ],
+  "thread_ids": [
+    "cluster_00052_t0",
+    "cluster_00079_t1"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under the regulatory framework established by the government for granting concessional import duty treatment to importers, what legal authority is consistently cited across SROs from 2010 to 2022?",
+      "answer": "The government grants these concessions to importers by exercising authority under Section 19(1) of the Customs Act, 1969, in conjunction with the relevant Value Added Tax (VAT) legislation—either Section 14(1) of the Value Added Tax Act, 1991, or Section 126(1) of the Value Added Tax and Supplementary Duty Act, 2012—in the public interest and in consultation with the National Board of Revenue.",
+      "entities_involved": [
+        "import duty",
+        "importers"
+      ],
+      "clause_text_ids": [
+        "20100610_178-AIN_2010_2296-Customs_২০১০-০৬-১০_clause_1",
+        "20150604_145-AIN_2015_25-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_146-AIN_2015_26-Customs_৪ জুন, ২০১৫_clause_1",
+        "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20220609_123-AIN_2022_71_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    }
+  ]
+}

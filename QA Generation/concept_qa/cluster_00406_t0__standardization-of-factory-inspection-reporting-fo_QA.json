@@ -1,0 +1,192 @@
+{
+  "thread_id": "cluster_00406_t0",
+  "cluster_id": 406,
+  "cluster_label": "factory inspection report",
+  "title": "Standardization of Factory Inspection Reporting for Duty Concessions",
+  "source_num_member_objects": 11,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The NBR formalization of the multi-stakeholder committee for factory inspection verification was implemented on June 3, 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 3, 2024",
+      "correct_fact": "June 3, 2021",
+      "answer": "The statement is inaccurate. The NBR directive formalizing the multi-stakeholder committee for the inspection process was issued on June 3, 2021, not 2024.",
+      "clause_text_ids": [
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The factory inspection report requires the submission of both the Business Identification Number (BIN) and the Tax Identification Number (TIN) to verify industrial eligibility for duty concessions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. According to the various SROs and directives (e.g., 2019-05-30), the factory inspection report requires the BIN and TIN for regulatory documentation and verification purposes.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Initial implementation of sector-specific factory inspection templates for compressor and footwear manufacturing occurred on June 6, 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 6, 2024",
+      "correct_fact": "May 30, 2019",
+      "answer": "The statement is inaccurate. The initial implementation of sector-specific templates for compressor and footwear manufacturing occurred on May 30, 2019, as per the SROs/Directives.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The multi-stakeholder committee responsible for validating factory inspection reports includes representatives from Customs, the VAT department, and the Ministry of Industry.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the June 3, 2021 NBR Directive, the committee is composed of representatives from Customs, VAT, and the Ministry of Industry.",
+      "clause_text_ids": [
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The SRO issued on June 6, 2024, consolidated the reporting format as a mandatory assessment tool for duty concession eligibility.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The June 6, 2024 SROs/Directives consolidated the reporting format to serve as a mandatory assessment tool for determining eligibility for duty concessions.",
+      "clause_text_ids": [
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The factory inspection report for washing machine manufacturers is governed by the regulations set forth on May 30, 2019.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "May 30, 2019",
+      "correct_fact": "June 3, 2021 or June 6, 2024",
+      "answer": "The statement is inaccurate. Washing machine manufacturing inspection requirements were formalized in later directives, specifically the June 3, 2021 directive and the June 6, 2024 SRO, not the May 30, 2019 order which focused on compressors and footwear.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2019, the National Board of Revenue implemented a multi-stakeholder committee verification process for factory inspection reports, involving Customs, VAT, and Ministry of Industry representatives to validate the industrial capacity of compressor and footwear manufacturers.",
+      "question": "Was the committee-based verification process for factory inspection reports introduced in 2019, and what was the actual implementation timeline for this procedure?",
+      "conflict": "The context incorrectly attributes the committee-based verification process to the 2019 SROs, which were sector-specific templates.",
+      "answer": "No, the committee-based verification process was not introduced in 2019. According to the NBR Directive dated 2021-06-03, the formalization of the inspection process requiring a multi-stakeholder committee (Customs, VAT, and Ministry of Industry) occurred in 2021, whereas the 2019-05-30 directives focused on the initial implementation of sector-specific templates.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A compressor manufacturing unit received duty concession recommendations based on a factory inspection report under the 2019 implementation. In 2021, a new washing machine manufacturing facility applied for similar concessions. The owner of the washing machine facility noticed that the inspection procedure for their application involved a committee, whereas the 2019 compressor inspection process had a different validation structure.",
+      "question": "How did the validation authority for factory inspection reports change between the 2019 compressor manufacturing regulations and the 2021 washing machine manufacturing directive?",
+      "answer": "In 2019, the inspection report required a signature from a representative of the National Board of Revenue to validate recommendations. By 2021, the process evolved into a multi-stakeholder committee-led verification involving the National Board of Revenue (Customs Policy), the VAT department, and the Ministry of Industry.",
+      "clauses_involved": [
+        "2019-05-30",
+        "2021-06-03"
+      ],
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "two years later",
+      "question": "In 2019-05-30, the factory inspection report was implemented for specific sectors. What significant procedural change occurred two years later regarding how these reports were validated?",
+      "answer": "Two years later, on 2021-06-03, the NBR issued a directive formalizing the inspection process to require a multi-stakeholder committee—consisting of Customs, VAT, and Ministry of Industry officials—to validate the factory inspection report.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-06-03",
+      "relative_offset": "three years later",
+      "question": "Following the 2021-06-03 directive that introduced committee-led verification, what was the status of the reporting format three years later?",
+      "answer": "Three years later, on 2024-06-06, the reporting format was consolidated into a mandatory assessment tool specifically utilized to determine eligibility for duty concessions.",
+      "clause_text_ids": [
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The factory inspection process is formalized to mandate a multi-stakeholder committee verification involving Customs, VAT, and the Ministry of Industry.",
+        "The factory inspection reporting format is consolidated as a mandatory assessment tool for determining eligibility for duty concessions.",
+        "The factory inspection report is implemented using sector-specific templates for compressor and footwear manufacturing units."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The factory inspection report is implemented using sector-specific templates for compressor and footwear manufacturing units.",
+          "date": "2019-05-30"
+        },
+        {
+          "event": "The factory inspection process is formalized to mandate a multi-stakeholder committee verification involving Customs, VAT, and the Ministry of Industry.",
+          "date": "2021-06-03"
+        },
+        {
+          "event": "The factory inspection reporting format is consolidated as a mandatory assessment tool for determining eligibility for duty concessions.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_2",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20190530_158-AIN_2019_27_Customs/20190530_158-AIN_2019_27_Customs_output.json",
+        "customs_sros_OCR/20190530_159-AIN_2019_28_Customs/20190530_159-AIN_2019_28_Customs_output.json",
+        "customs_sros_OCR/20210603_125-AIN_2021_14_Customs/20210603_125-AIN_2021_14_Customs_output.json",
+        "customs_sros_OCR/20240606_195-AIN_2024_47_Customs/20240606_195-AIN_2024_47_Customs_output.json",
+        "customs_sros_OCR/20240606_198-AIN_2024_50_Customs/20240606_198-AIN_2024_50_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00406_t0__standardization-of-factory-inspection-reporting-fo.json"
+    }
+  ]
+}

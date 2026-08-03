@@ -1,0 +1,46 @@
+{
+  "group_id": "cluster_00001_t0__X__cluster_00005_t0",
+  "entities": [
+    "goods",
+    "H.S. Code"
+  ],
+  "cluster_ids": [
+    1,
+    5
+  ],
+  "thread_ids": [
+    "cluster_00001_t0",
+    "cluster_00005_t0"
+  ],
+  "num_shared_clauses": 19,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the government utilize the Customs Act, 1969 to manage the taxation of goods in relation to their H.S. Code classification?",
+      "answer": "Under section 19(1) of the Customs Act, 1969, the government, in consultation with the National Board of Revenue and in the public interest, issues SROs that define specific goods by their Heading and H.S. Code, often granting exemptions or applying specific tax treatments to those goods as listed in the tables of these notifications.",
+      "entities_involved": [
+        "goods",
+        "H.S. Code"
+      ],
+      "clause_text_ids": [
+        "20150604_136-AIN_2015_16-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_145-AIN_2015_25-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_146-AIN_2015_26-Customs_৪ জুন, ২০১৫_clause_1",
+        "20160602_166-AIN_2016_28-Customs_২ জুন, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "In the context of regulatory adjustments, how are H.S. Codes modified to affect the treatment of goods?",
+      "answer": "The government updates the classification of goods by replacing, inserting, or modifying specific H.S. Codes within the tariff tables, as evidenced by adjustments where one H.S. Code is substituted for another (e.g., replacing 8421.39.90 with 8421.39.99) to ensure accurate tax or exemption application for the associated goods.",
+      "entities_involved": [
+        "goods",
+        "H.S. Code"
+      ],
+      "clause_text_ids": [
+        "20160602_158-AIN_2016_20-Customs_২ জুন, ২০১৬_clause_2"
+      ]
+    }
+  ]
+}

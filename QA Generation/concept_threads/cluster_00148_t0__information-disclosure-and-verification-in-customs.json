@@ -1,0 +1,3312 @@
+{
+  "cluster_id": 148,
+  "cluster_label": "information",
+  "thread_index": 0,
+  "thread_id": "cluster_00148_t0",
+  "title": "Information Disclosure and Verification in Customs Procedures",
+  "summary": "The concept of 'information' has evolved from a basic requirement for manual document submission and record-keeping into a sophisticated, digital-first framework. It now encompasses automated risk management, data-driven audit trails, and inter-agency data sharing, moving from static compliance to dynamic, intelligence-led verification.",
+  "evolution": {
+    "scope": "From simple document submission to complex data analytics and AI-driven risk profiling.",
+    "institutions": "Expanded from local customs officers to specialized units like the Customs Risk Management Commissionerate and AEO Center.",
+    "procedure": "Transitioned from manual, paper-based verification to automated, system-integrated data validation."
+  },
+  "timeline": [
+    {
+      "date": "2011-06-09",
+      "instrument": "Customs Act Amendment",
+      "change": "Defined 'information' in the context of rewards for whistleblowing on tax evasion.",
+      "clause_ids": [
+        "20110609_164-AIN_2011_2351-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "date": "2016-06-02",
+      "instrument": "Advance Ruling Regulations",
+      "change": "Introduced formal requirements for submitting information and documentation for advance rulings.",
+      "clause_ids": [
+        "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_7"
+      ]
+    },
+    {
+      "date": "2021-08-16",
+      "instrument": "Duty Drawback Regulations",
+      "change": "Standardized information submission for duty drawback based on input-output coefficients.",
+      "clause_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "Post-Clearance Audit Directive",
+      "change": "Shifted focus to data-driven transaction audits and mandated confidentiality for sensitive information.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_39"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "AEO Recognition Regulations",
+      "change": "Formalized inter-agency data exchange and automated risk management (Red/Yellow/Green lanes) as primary information-driven tools.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_35",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_37",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_51",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_91"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "instrument": "Risk Management Commissionerate Directive",
+      "change": "Institutionalized the collection and analysis of intelligence and AI-driven data as the core of customs risk management.",
+      "clause_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_3",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_8"
+      ]
+    }
+  ],
+  "num_member_objects": 36,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20110609_164-AIN_2011_2351-Customs_০৯ জুন, ২০১১_clause_1",
+      "resolved_text": "উপরি-উক্ত বিধিমালার-\n\n(ক) বিধি ২ এর উপ-বিধি (৩) এর পরিবর্তে নিম্নরূপ উপ-বিধি (৩) প্রতিস্থাপিত হইবে, যথা:-\n\n“ (৩) “পুরস্কার” অর্থ শুল্ক-কর ফাঁকি বা চোরাচালানের প্রচেষ্টা প্রতিরোধ অথবা শুল্ক-কর ফাঁকি বা চোরাচালান ঘটনা উদ্ঘাটনের বা বকেয়া রাজস্ব আদায়ের ক্ষেত্রে প্রত্যক্ষ বা পরোক্ষভাবে অংশগ্রহণকারী ব্যক্তি অথবা উক্তরূপ কর্মকাণ্ডের তথ্য সরবরাহকারী ব্যক্তির কাজের স্বীকৃতিস্বরূপ প্রদত্ত অর্থ;”;",
+      "entity_concepts": {
+        "Reward": [
+          "The term reward is defined as a payment made in recognition of a person who directly or indirectly participates in the prevention of duty or tax evasion or smuggling, or assists in uncovering such incidents or recovering outstanding revenue, or provides information regarding such activities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1310",
+      "entity_sub_entities": {
+        "Reward": [
+          "payment",
+          "prevention of duty or tax evasion",
+          "smuggling",
+          "uncovering incidents",
+          "recovering outstanding revenue",
+          "information"
+        ]
+      },
+      "clause_clusters": [
+        148,
+        211,
+        1527,
+        10538,
+        10893,
+        11266,
+        13070
+      ],
+      "source_file": "customs_sros_OCR/20110609_164-AIN_2011_2351-Customs/20110609_164-AIN_2011_2351-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "অবলোপনের পদ্ধতি",
+      "text_id": "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_4",
+      "resolved_text": "৪। অবলোপনের পদ্ধতি।- সরকারি পাওনা অনাদায়যোগ্য হইলে উহা অবলোপনের জন্য নিম্নরূপে ব্যবস্থা গ্রহণ করিতে হইবে, যথা:-\n(ক) এই বিধিমালার উদ্দেশ্য পূরণকল্পে সংশ্লিষ্ট কমিশনার অনাদায়যোগ্য সরকারি পাওনা সম্পর্কিত তথ্য পরিশিষ্টে উল্লিখিত ফরমে জাতীয় রাজস্ব বোর্ডের নিকট প্রেরণ করিবেন;\n(খ) দফা (ক) অনুসারে কমিশনারের নিকট হইতে প্রাপ্ত তথ্য বোর্ড উহার বোর্ড সভায় উপস্থাপন করিবে;\n(গ) বোর্ড সভায় উক্ত অনাদায়ী রাজস্ব অবলোপনের সিদ্ধান্ত গ্রহন করিবার পর উহা চূড়ান্ত অনুমোদনের জন্য সরকারের নিকট প্রেরণ করিতে হইবে ; এবং\n(ঘ) সরকার কর্তৃক চূড়ান্ত অনুমোদনের পর বোর্ড অনাদায়ী সরকারি পাওনা অবলোপনের বিষয়ে আদেশ জারী করিবে।",
+      "entity_concepts": {
+        "Government Revenue Write-off": [
+          "This clause establishes the procedural mechanism for writing off uncollectible government revenue.",
+          "The process requires the submission of data by the Commissioner of Customs to the National Board of Revenue, presentation at a board meeting, and final approval by the government before an order is issued to formally write off the dues."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner is responsible for reporting uncollectible government revenue to the National Board of Revenue using a specified form as defined in the relevant appendix."
+        ],
+        "National Board of Revenue": [
+          "The Board acts as the central administrative body in the write-off process by receiving information from the Commissioner, reviewing it in a formal meeting, seeking government approval, and issuing the final order for the write-off."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1558",
+      "entity_sub_entities": {
+        "Government Revenue Write-off": [
+          "uncollectible government revenue",
+          "data",
+          "board meeting",
+          "government approval",
+          "order",
+          "dues"
+        ],
+        "Commissioner of Customs": [
+          "uncollectible government revenue",
+          "form",
+          "appendix"
+        ],
+        "National Board of Revenue": [
+          "information",
+          "formal meeting",
+          "government approval",
+          "final order",
+          "write-off"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        53,
+        141,
+        148,
+        246,
+        270,
+        703,
+        3976,
+        4078,
+        5084,
+        5988,
+        8284,
+        8536,
+        13417
+      ],
+      "source_file": "customs_sros_OCR/20150701_207-AIN_2015_44-Customs/20150701_207-AIN_2015_44-Customs_output.json",
+      "clause_date": "2015-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "আবেদন দাখিল ও আনুষঙ্গিক বিষয়াদি",
+      "text_id": "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_7",
+      "resolved_text": "৭। আবেদন দাখিল ও আনুষঙ্গিক বিষয়াদি।— (১) অগ্রিম রুলিং প্রাপ্তির লক্ষ্যে ফরম অনুযায়ী কোন আবেদন অগ্রিম রুলিং ইউনিটের নিকট সরাসরি, ডাকযোগে, কুরিয়ারযোগে বা ই-মেইলযোগে বা ফ্যাক্সযোগে দাখিল করিতে হইবে।\n(২) আবেদনের সহিত আবেদনকারী কর্তৃক প্রত্যায়িত প্রয়োজনীয় তথ্য ও দলিলাদি সংযোজন করিতে হইবে।\n(৩) আবেদনের সহিত অগ্রিম রুলিং ফি বাবদ ‘সভাপতি, অগ্রিম রুলিং ইউনিট, জাতীয় রাজস্ব বোর্ড’ এর অনুকূলে ২,০০০ (দুই হাজার) টাকার একটি অফেরতযোগ্য পে অর্ডার/ডিমান্ড ড্রাফট দাখিল করিতে হইবে।\n(৪) আমদানি বা রপ্তানি সংশ্লিষ্ট ক্ষেত্রে বিল অব এন্ট্রি বা বিল অব এক্সপোর্ট দাখিলের ন্যূনতম ৬০(ষাট) কার্যদিবস পূর্বে অগ্রিম রুলিং এর জন্য আবেদন দাখিল করিতে হইবে।\n(৫) কোন ব্যক্তি একই সময়ে একাধিক আবেদন দাখিল করিতে পারিবেন:\nতবে শর্ত থাকে যে, একটি আবেদনে কেবল একটি পণ্য বা আইটেম অন্তর্ভুক্ত করা যাইবে।\n(৬) আবেদনকারী আবেদিত বিষয়ে মৌখিক বক্তব্য প্রদান করিতে ইচ্ছুক হইলে উহা আবেদন ফরমে উল্লেখ করিতে হইবে।\n(৭) আবেদন দাখিলের ৩০ (ত্রিশ) কার্যদিবসের মধ্যে অথবা, ক্ষেত্রমত, আবেদনকারী কর্তৃক বিধি ৮ এর উপ-বিধি (২) এর অধীন সময়সীমা বৃদ্ধির অনুরোধের প্রেক্ষিতে অগ্রিম রুলিং ইউনিট কর্তৃক বর্ধিত সময়ের মধ্যে উক্ত আবেদন প্রত্যাহার করা যাইবে।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "Applicants must submit requests for an advance ruling directly, by mail, courier, e-mail, or fax to the Advance Ruling Unit.",
+          "Applications must include all necessary information and certified documents.",
+          "Applicants must pay a non-refundable fee for each application via pay order or demand draft in favor of the Chairman of the Advance Ruling Unit.",
+          "Applications regarding imports or exports must be submitted at least a specified minimum number of working days prior to the submission of the bill of entry or bill of export.",
+          "A single application is restricted to a single product or item, although an individual may submit multiple applications simultaneously.",
+          "Applicants may request to provide oral testimony by indicating this preference in the application form.",
+          "An application may be withdrawn within a specified timeframe from the date of submission or within an extended period if permitted by the Advance Ruling Unit."
+        ],
+        "Advance Ruling Unit": [
+          "The Advance Ruling Unit acts as the recipient of formal advance ruling applications.",
+          "The unit is responsible for processing applications and may grant extensions for withdrawal requests under specific regulatory provisions."
+        ],
+        "National Board of Revenue": [
+          "The Advance Ruling Unit functions under the authority of the National Board of Revenue, with application fees payable to the unit's presiding officer at the Board."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1686",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "requests",
+          "mail",
+          "courier",
+          "e-mail",
+          "fax",
+          "Advance Ruling Unit",
+          "applications",
+          "information",
+          "certified documents",
+          "non-refundable fee",
+          "pay order",
+          "demand draft",
+          "Chairman of the Advance Ruling Unit",
+          "imports",
+          "exports",
+          "bill of entry",
+          "bill of export",
+          "product",
+          "item",
+          "oral testimony",
+          "application form"
+        ],
+        "Advance Ruling Unit": [
+          "Advance Ruling Unit",
+          "advance ruling applications",
+          "withdrawal requests"
+        ],
+        "National Board of Revenue": [
+          "Advance Ruling Unit",
+          "National Board of Revenue",
+          "application fees",
+          "presiding officer",
+          "Board"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        27,
+        68,
+        90,
+        103,
+        125,
+        148,
+        323,
+        331,
+        432,
+        847,
+        1412,
+        2181,
+        3373,
+        3689,
+        3809,
+        3966,
+        4411,
+        4458,
+        4691,
+        5153,
+        5586,
+        6289,
+        6301,
+        7587,
+        9654,
+        10891
+      ],
+      "source_file": "customs_sros_OCR/20160602_188-AIN_2016_37-Customs/20160602_188-AIN_2016_37-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "আবেদন প্রক্রিয়াকরণ",
+      "text_id": "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_7",
+      "resolved_text": "৭। আবেদন প্রক্রিয়াকরণ।— (১) প্রতিটি আবেদনের প্রাপ্তি স্বীকার করিতে হইবে।\n(২) প্রতিটি আবেদন পৃথক নথিতে কমিটির নিকট উপস্থাপন করিতে হইবে।\n(৩) আবেদন প্রাপ্তির ১৫ (পনের) কার্যদিবসের মধ্যে কমিটি আবেদন ও উহার সহিত দাখিলীয় দলিলাদি যাচাই-বাছাই করিবে এবং যাচাই-বাছাইকালে অতিরিক্ত কোন তথ্য বা দলিলাদির প্রয়োজন হইলে ১৫ (পনের) কার্যদিবসের মধ্যে উহা দাখিলের জন্য আবেদনকারীকে লিখিতভাবে অনুরোধ করিবে:\nতবে শর্ত থাকে যে, কমিটির সভাপতি আবেদনকারীর আবেদনের পরিপ্রেক্ষিতে, প্রয়োজনবোধে, উক্ত সময়সীমা আরও ১৫ (পনের) কার্যদিবস বৃদ্ধি করিতে পারিবেন।\n(৪) উপ-বিধি (৩) এর অধীন যাচিত তথ্য বা দলিলাদি আবেদনকারী কর্তৃক নির্ধারিত সময়ের বা, ক্ষেত্রমত, বর্ধিত সময়ের মধ্যে দাখিল না করিলে, আবেদন বাতিল বলিয়া গণ্য হইবে।\n(৫) আবেদনের সহিত দাখিলকৃত Self-Assessment Questionnaire (SAQ) এ উল্লিখিত তথ্য সরেজমিনে যাচাই বা অডিটের লক্ষ্যে কমিটির আহ্বায়ক উপযুক্ত সংখ্যক কাস্টমস কর্মকর্তার সমন্বয়ে একটি যাচাই বা অডিট টীম গঠন করিবে এবং উক্ত টীম আবেদনকারী প্রদত্ত সকল তথ্য সরেজমিন যাচাই বা অডিট করিয়া ৩০ (ত্রিশ) কার্যদিবসের মধ্যে কমিটির বরাবরে প্রতিবেদন দাখিল করিবে:\nশর্ত থাকে যে, কমিটির সভাপতি যাচাই বা অডিট টীমের আবেদনের পরিপ্রেক্ষিতে উক্ত সময়সীমা আরও ১৫ (পনের) কার্যদিবস বৃদ্ধি করিতে পারিবে।\n(৬) কমিটি আবেদন এবং উহার সহিত সংযুক্তীয় কাগজ ও দলিলাদি এবং যাচাই বা অডিট টীমের প্রতিবেদন মূল্যায়ন করিয়া সুপারিশ প্রণয়ন করিবে এবং উক্ত সুপারিশ কমিশনার বরাবরে প্রেরণ করিবে।",
+      "entity_concepts": {
+        "Application Processing": [
+          "Every application received must be formally acknowledged by the relevant authority.",
+          "Each application must be presented to the committee in a separate file for review."
+        ],
+        "Self-Assessment Questionnaire": [
+          "The information provided in the Self-Assessment Questionnaire must be verified through physical site inspection or audit."
+        ],
+        "Customs Audit": [
+          "A dedicated audit team consisting of customs officers will be formed to verify the data provided by the applicant.",
+          "The audit team is required to submit a comprehensive report to the committee within a specified timeframe, subject to potential extensions granted by the committee chair."
+        ],
+        "Customs Committee": [
+          "The committee is responsible for scrutinizing applications and submitted documents, requesting additional information from the applicant if necessary.",
+          "The committee evaluates the application alongside the audit report to form recommendations which are then submitted to the Commissioner of Customs."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1883",
+      "entity_sub_entities": {
+        "Application Processing": [
+          "application",
+          "relevant authority",
+          "committee",
+          "file"
+        ],
+        "Self-Assessment Questionnaire": [
+          "Self-Assessment Questionnaire",
+          "information",
+          "physical site inspection",
+          "audit"
+        ],
+        "Customs Audit": [
+          "audit team",
+          "customs officers",
+          "data",
+          "applicant",
+          "comprehensive report",
+          "committee",
+          "timeframe",
+          "committee chair"
+        ],
+        "Customs Committee": [
+          "committee",
+          "applications",
+          "submitted documents",
+          "additional information",
+          "applicant",
+          "audit report",
+          "recommendations",
+          "Commissioner of Customs"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        58,
+        68,
+        102,
+        104,
+        111,
+        148,
+        159,
+        191,
+        270,
+        277,
+        297,
+        388,
+        681,
+        803,
+        821,
+        1491,
+        1752,
+        1900,
+        2565,
+        3649,
+        3722,
+        3971,
+        10689
+      ],
+      "source_file": "customs_sros_OCR/20180628_214-AIN_2018_37_Customs/20180628_214-AIN_2018_37_Customs_output.json",
+      "clause_date": "2018-06-28"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "সমহার ভিত্তিক প্রত্যর্পণ গ্রহণ পদ্ধতি",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5",
+      "resolved_text": "৫। সমহার ভিত্তিক প্রত্যর্পণ গ্রহণ পদ্ধতি।— (১) সমহারে প্রত্যর্পণ গ্রহণে ইচ্ছুক রপ্তানিকারক বিধি ৩ এর অধীন আবেদনপত্র দাখিলের পূর্বে ফরম-খ অনুযায়ী উপকরণ-উৎপাদ সম্পর্ক গ্রহণের জন্য প্রয়োজনীয় দলিলাদি ও তথ্যসহ আবেদন করিবেন।\n(২) সমহার আদেশ দ্বারা নির্ধারিত সমহারের আওতায় প্রত্যর্পণ আবেদন নিষ্পত্তির ক্ষেত্রে আবেদনকারী প্রতিষ্ঠানকে উপকরণ আমদানি সংক্রান্ত দলিলাদি দাখিল করিতে হইবে না।\n(৩) যেক্ষেত্রে রপ্তানিকারক সরাসরি উপকরণ আমদানি করেন না, বরং বাংলাদেশের অভ্যন্তরে আমদানিকৃত উপকরণ স্থানীয়ভাবে ক্রয়নের মাধ্যমে সংগ্রহ করিয়া পণ্য উৎপাদনপূর্বক রপ্তানি করেন, সেইক্ষেত্রে তৎকর্তৃক ক্রয়কৃত উপকরণ মূল্যের মধ্যে পরিশোধিত আমদানি শুল্ক অন্তর্ভুক্ত থাকে বিবেচনায় প্রত্যর্পণ আবেদনের সহিত তাহাকে উপকরণ আমদানির দলিলাদি বা স্থানীয়ভাবে ক্রয়নের দলিলাদি দাখিল করিতে হইবে না।",
+      "entity_concepts": {
+        "Duty Drawback": [
+          "Exporters opting for the flat-rate duty drawback system must submit required documentation and data regarding input-output coefficients using the prescribed form before filing an application.",
+          "Applicants under the flat-rate duty drawback system are exempted from the requirement to submit import-related documentation for their inputs.",
+          "In cases where exporters procure inputs locally that contain embedded import duties, they are not required to submit documentation for either the original import or the local purchase when applying for the drawback."
+        ],
+        "Exporter": [
+          "Exporters are responsible for providing all necessary documentation and information to justify input-output coefficients prior to submitting their application for flat-rate duty drawback.",
+          "Exporters who procure inputs locally are entitled to apply for duty drawback without submitting individual import or purchase documents, based on the assumption that the purchase price includes paid import duties."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2147",
+      "entity_sub_entities": {
+        "Duty Drawback": [
+          "flat-rate duty drawback system",
+          "documentation",
+          "data",
+          "input-output coefficients",
+          "prescribed form",
+          "application",
+          "import-related documentation",
+          "inputs",
+          "import duties",
+          "original import",
+          "local purchase"
+        ],
+        "Exporter": [
+          "documentation",
+          "information",
+          "input-output coefficients",
+          "application",
+          "flat-rate duty drawback",
+          "inputs",
+          "import documents",
+          "purchase documents",
+          "purchase price",
+          "import duties"
+        ]
+      },
+      "clause_clusters": [
+        52,
+        58,
+        63,
+        77,
+        106,
+        138,
+        148,
+        270,
+        527,
+        590,
+        776,
+        4610,
+        8189,
+        8190,
+        8885,
+        9582,
+        10413,
+        11125
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "১.৬ গোপনীয়তা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+      "resolved_text": "১.৬ গোপনীয়তা—কাস্টমস পোস্ট ক্লিয়ারেন্স অডিট এর জন্য নির্বাচিত ব্যক্তি/প্রতিষ্ঠান/আমদানিকারক/রপ্তানিকারক বা কাস্টমস এজেন্ট কর্তৃক সরবরাহকৃত যেকোনো তথ্য/দলিলাদি সংবেদনশীল হওয়ায় Customs Act, 1969 এর Section 204B অনুযায়ী উক্ত তথ্য/দলিলাদির গোপনীয়তা রক্ষা করতে হবে।",
+      "entity_concepts": {
+        "Customs Post Clearance Audit": [
+          "This process involves the review of information and documentation provided by importers, exporters, or customs agents. All data collected during this procedure is treated as sensitive information."
+        ],
+        "Customs Act 1969": [
+          "Section 204B of this Act mandates that the confidentiality of sensitive information and documents provided for official customs audit purposes must be strictly maintained."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_681",
+      "entity_sub_entities": {
+        "Customs Post Clearance Audit": [
+          "information",
+          "documentation",
+          "importers",
+          "exporters",
+          "customs agents",
+          "data",
+          "sensitive information"
+        ],
+        "Customs Act 1969": [
+          "Section 204B",
+          "confidentiality",
+          "sensitive information",
+          "documents",
+          "official customs audit"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        59,
+        63,
+        79,
+        148,
+        157,
+        270,
+        281,
+        1518,
+        3756,
+        4842,
+        10194
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_39",
+      "clause_title": "৫.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের প্রাথমিক ধাপসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_39",
+      "resolved_text": "৫.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের প্রাথমিক ধাপসমূহ—তথ্য ও উপাত্ত বিশ্লেষণের সময়, অডিটরকে আমদানিকারক/রপ্তানিকারক এবং অন্যান্য স্টেকহোল্ডার, যেমন কাস্টমস এজেন্ট, শিপিং এজেন্ট, ফ্রেইট ফরোয়ার্ডার এবং পণ্যের কাস্টোডিয়ান সম্পর্ক বিবেচনা রেখে স্টেকহোল্ডারদের/ অংশীদারদের কার্যকলাপের প্যাটার্নগুলো পর্যালোচনা করতে হবে। ডেটা পর্যালোচনার মাধ্যমে সম্ভাব্য ফাঁকি দেওয়ার প্রকৃতি জানা যাবে (যদি থাকে) এবং কারা জড়িত হতে পারে তা ধারণা করা যাবে। ট্র্যানজ্যাকশন বেইজড অডিট প্রক্রিয়ার প্রথম ধাপ হলো অডিটের জন্য বাছাই করা হবে এমন ট্র্যানজ্যাকশনগুলোর সুনির্দিষ্ট বিষয়াদি যেমন মূল্য নির্ধারণ, পণ্যের ক্লাসিফিকেশন, কান্ট্রি অব অরিজিন ইত্যাদি ঝুঁকিপূর্ণ বিষয়গুলো সম্পর্কে পর্যাপ্ত তথ্য ও এসব বিষয়ে পূর্বতন ধারণালাভ। প্রধানত ASYCUDA ডেটাবেইজ, এ্যাসেসমেন্ট কমিটির ডেটাবেইজ, ভ্যালুয়েশন ডেটাবেইজ, সিপিসি অনিয়ম ডেটাবেইজ, পরিসংখ্যান তথ্য, পূর্ববর্তী কোনো অডিট প্রতিবেদন পর্যালোচনার মাধ্যমে এটি পরিচালিত হবে।\n\n(১) অসংগতিগুলোকে শ্রেণিবদ্ধ করার উপায়:\nঅডিটর চিহ্নিত অসংগতিগুলোকে নিম্নলিখিত উপায়ে শ্রেণিবদ্ধ করে সে সম্পর্কে সিদ্ধান্ত নিতে পারবেন:\n(ক) ডেটা ইনপুটজনিত ভুল, অস্পষ্ট প্রবিধান সম্পর্কিত পদ্ধতিগত ত্রুটি বা সাধারণ ভুল, সীমিত ধারণা (সাধারণত আইন বা দায়িত্ব হস্তান্তরের সময় ঘটে থাকে, কিছু পণ্যের ক্লাসিফিকেশন পরিবর্তন বা ক্লাসিফিকেশন বিষয়ে মতামত জারি করার সময়েও ঘটতে পারে);\n(খ) ঘোষণাকারীর তথ্য গোপন/ফাঁকি (সাধারণত অসত্য বিবরণ, ভুল ইউনিট ব্যবহার করা, সম্পূর্ণ তথ্য প্রদান না করা);\n(গ) কাস্টমস এজেন্ট বা গুদাম/ওয়্যারহাউস ভাড়া প্রদানকারী বা অন্য কোনো তৃতীয় পক্ষের সম্পৃক্ততা। এই ক্ষেত্রে, ব্যবসার কাঠামো এবং সাপ্লাই চেইনের প্রতিটি সদস্যের প্রকৃত ক্ষমতা সম্পর্কে জানলে অডিটর চিহ্নিত করতে পারবেন যে সাপ্লাই চেইনের কোনো ব্যক্তিটি অডিট প্রক্রিয়াধীন ট্র্যানজ্যাকশনের বিশেষ কোনো অংশের জন্য দায়বদ্ধ;\n(ঘ) Responsive Declaration আছে কি না তা পর্যালোচনা।\n\n(২) তথ্যের উৎস:\n(ক) ট্র্যানজ্যাকশন;\n(খ) ট্র্যানজ্যাকশনের আওতাধীন পণ্য;\n(গ) Declarant ও ট্র্যানজ্যাকশনের সাথে সম্পৃক্ত ব্যক্তি বা প্রতিষ্ঠান।\n\nআন্তর্জাতিক সংস্থার ওয়েবসাইটগুলো (WTO, WCO, জাতিসংঘ, আন্তর্জাতিক বাণিজ্য পরিসংখ্যান ডেটাবেস এর বিদ্যমান তথ্য) তথ্যের একটি মূল্যবান উৎস, যা তথ্যসংগ্রহে অডিটরকে সহায়তা ও দিক-নির্দেশনা দিতে পারে। এছাড়াও, ব্যবসায়ীর ওয়েবসাইট, বিজ্ঞাপনের ব্রোশিওর/লিফলেট ইত্যাদিও তথ্যের মূল্যবান উৎস। উপযুক্ত উৎস থেকে সংগৃহীত তথ্য পরবর্তী পদক্ষেপের জন্য অডিটরকে দিকনির্দেশনা দিবে। প্রাসঙ্গিকভাবে অডিটর প্রাসঙ্গিক কাস্টমস ঘোষণা ও অন্যান্য সংযুক্ত তথ্য পর্যালোচনা শুরু করবেন। এটি অডিট সম্পর্কে প্রাথমিক মতামতকে স্পষ্ট করবে ও তার পক্ষে সমর্থন যোগাবে (এটি কি একটি ভুল বা উদ্দেশ্যমূলক জালিয়াতি নাকি আরো তথ্যের প্রয়োজন আছে)। এই কাজটি অডিটরকে আমদানিকারক বা অন্য কোনো স্টেকহোল্ডারের সাথে যোগাযোগ করে যাচাই করা প্রয়োজন এমন বিষয়গুলির একটি তালিকা প্রস্তুত করতে সাহায্য করবে। প্রাথমিক পর্যায়ে, প্রতিষ্ঠানের দায়িত্বে থাকা ব্যক্তিকে শনাক্ত করাও গুরুত্বপূর্ণ, কারণ তার সাথে সরাসরি যোগাযোগ করেই অডিটররা দায়িত্বশীল ও নির্ভরযোগ্য তথ্য পেতে পারেন। তথ্যের প্রাথমিক উৎস হবে বিল অব এন্ট্রি/ বিল অব এক্সপোর্ট, ডেটাবেস এবং এনবিআর-এর রিস্ক ম্যানেজমেন্ট ইউনিট বা ইন্টেলিজেন্স ইউনিট থেকে অভ্যন্তরীণভাবে প্রাপ্ত পরিসংখ্যানসহ অন্যান্য তথ্য।\n\n(৩) অডিট পরিকল্পনা ও ফাইল:\nPre-Audit Inspection এর মাধ্যমে যতটা সম্ভব তথ্য সংগ্রহ করার পরে অডিটরদের একটি সহজ অডিট পরিকল্পনা প্রস্তুত করতে হবে। এই অডিট পরিকল্পনাটি অনুমোদনের জন্য কর্তৃপক্ষের নিকট জমা দিতে হবে এবং এটি পরিকল্পিত বিভিন্ন কাজের অনুমোদন এবং পরবর্তীতে অডিটের উদ্দেশ্যগুলো অর্জিত হয়েছে কিনা তা যাচাই করার মানদণ্ড হিসাবে কাজ করবে।\n\n(৪) অডিটের জন্য প্রস্তুতি:\nঅডিটের জন্য নির্বাচিত প্রতিষ্ঠান/ব্যক্তি/পণ্যচালান সম্পর্কিত প্রাথমিক তথ্য সংগ্রহের পর অডিট টিম আইনি প্রেক্ষাপট নিয়ে কাজ শুরু করবেন এবং প্রাসঙ্গিক আইন ও বিধি বিধানের প্রেক্ষিতে, নিয়ম-নীতি পরিপালনের ওপর তার অডিট ফলাফলের সম্ভাব্য প্রভাবগুলো লিপিবদ্ধ করা শুরু করবেন। অডিটে ফলাফল ও মতামতকে নথিবুক্ত করবেন এবং এর সার-সংক্ষেপ তৈরি করবেন যাতে অডিট প্রক্রিয়াধীন প্রতিষ্ঠান/ব্যক্তি/ব্যক্তিদের লিখিতভাবে অবহিত করা যায়। মন্তব্য ও অডিট বিষয়ে তার/তাদের প্রতিক্রিয়া প্রদানের জন্য উপযুক্ত সময় প্রদান করা হবে এবং বিদ্যমান কাস্টমস রেগুলেশনস এর সাথে সঙ্গতিপূর্ণ অতিরিক্ত তথ্যও দেয়া যাবে।\n\n(৫) অডিটের জন্য নোটিশ প্রদান\n\n(৬) অডিটের জন্য চাহিত দলিলাদি\n[ট্র্যানজ্যাকশন বেইজড অডিটের জন্য পরিশিষ্ট-১ ও সিস্টেম বেইজড অডিটের জন্য পরিশিষ্ট-৩ অনুযায়ী]",
+      "entity_concepts": {
+        "Transaction Based Audit": [
+          "This process involves identifying high-risk elements such as valuation, product classification, and country of origin by analyzing databases like ASYCUDA and internal customs intelligence. Auditors must categorize discrepancies into input errors, deliberate concealment, or third-party involvement to determine the nature of potential revenue loss.",
+          "Auditors are required to create an audit plan, gather information from international organizations and internal sources, and engage with stakeholders to verify transaction details before formal notification."
+        ],
+        "Asycuda World System": [
+          "The ASYCUDA database serves as a primary source of information for auditors to conduct preliminary analysis of transactions during the audit process."
+        ],
+        "Declarant": [
+          "The declarant is identified as a primary data source and subject of interest, particularly when auditors investigate discrepancies related to the concealment of information, inaccurate descriptions, or misuse of units."
+        ],
+        "Pre-Audit Inspection": [
+          "Auditors must conduct a pre-audit inspection to collect sufficient information before finalizing an audit plan for submission to the relevant authority."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue acts as a provider of internal statistical data and intelligence through its risk management and intelligence units, which are essential for the audit process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_710",
+      "entity_sub_entities": {
+        "Transaction Based Audit": [
+          "valuation",
+          "product classification",
+          "country of origin",
+          "ASYCUDA",
+          "internal customs intelligence",
+          "input errors",
+          "deliberate concealment",
+          "third-party involvement",
+          "revenue loss",
+          "audit plan",
+          "international organizations",
+          "internal sources",
+          "stakeholders",
+          "transaction details"
+        ],
+        "Asycuda World System": [
+          "ASYCUDA database",
+          "transactions"
+        ],
+        "Declarant": [
+          "declarant",
+          "concealment of information",
+          "inaccurate descriptions",
+          "misuse of units"
+        ],
+        "Pre-Audit Inspection": [
+          "pre-audit inspection",
+          "information",
+          "audit plan",
+          "relevant authority"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "internal statistical data",
+          "intelligence",
+          "risk management units",
+          "intelligence units"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        148,
+        334,
+        414,
+        471,
+        500,
+        535,
+        777,
+        1191,
+        1258,
+        1329,
+        1493,
+        1752,
+        3449,
+        3459,
+        4232,
+        4554,
+        5036,
+        5057,
+        5695,
+        6590,
+        7188,
+        8970,
+        9093,
+        9140,
+        9172,
+        9191,
+        9192,
+        9908,
+        11571
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "৩। শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেম বা ভ্যাট অনলাইন সিস্টেম বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে সঠিকতা যাচাই করিবে।",
+      "entity_concepts": {
+        "Deputy Commissioner of Customs": [
+          "The Deputy Commissioner of Customs is responsible for supervising customs assessments and must ensure that such assessments are processed without delay."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The Assistant Commissioner of Customs is tasked with supervising customs assessments and must utilize available digital systems to prevent delays in the assessment process."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The customs computer system must be used by the relevant customs officials to verify data accuracy and expedite the customs assessment process."
+        ],
+        "VAT Online System": [
+          "Customs officials are required to use the VAT online system to verify information to avoid delays in customs assessment."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue website is designated as a source for customs officials to verify the accuracy of information during the assessment process."
+        ],
+        "VAT Commissionerate": [
+          "Customs officials must utilize the website of the VAT Commissionerate to perform data verification tasks intended to prevent delays in customs clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2576",
+      "entity_sub_entities": {
+        "Deputy Commissioner of Customs": [
+          "Deputy Commissioner of Customs",
+          "customs assessments"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner of Customs",
+          "customs assessments",
+          "digital systems",
+          "assessment process"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "customs computer system",
+          "customs officials",
+          "data",
+          "customs assessment process"
+        ],
+        "VAT Online System": [
+          "VAT online system",
+          "customs officials",
+          "information",
+          "customs assessment"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue website",
+          "customs officials",
+          "information",
+          "assessment process"
+        ],
+        "VAT Commissionerate": [
+          "website of the VAT Commissionerate",
+          "customs officials",
+          "data",
+          "customs clearance"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        51,
+        66,
+        78,
+        87,
+        148,
+        156,
+        270,
+        308,
+        316,
+        457,
+        568,
+        1000,
+        1545,
+        2597,
+        3708,
+        7332,
+        13369
+      ],
+      "source_file": "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "লাইসেন্স প্রদান",
+      "text_id": "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_6",
+      "resolved_text": "৬। লাইসেন্স প্রদান।— (১) বিধি ৫ এর অধীন আবেদন প্রাপ্তির পর লাইসেন্সিং কর্তৃপক্ষ অনধিক ১৫ (পনেরো) কার্যদিবসের মধ্যে উক্ত আবেদন, সংশ্লিষ্ট দলিলাদি ও তথ্যের যথার্থতা যাচাই করিবে অথবা, প্রয়োজনে, অন্য যে কোনো তথ্য সরবরাহ করিবার জন্য আবেদনকারীকে নির্দেশ দিতে পারিবে।\n(২) উপ-বিধি (১) অনুযায়ী কার্যক্রম গ্রহণ শেষে লাইসেন্সিং কর্তৃপক্ষ কর্তৃক লাইসেন্স প্রদানের প্রাথমিক সিদ্ধান্ত গৃহীত হইলে লাইসেন্সিং কর্তৃপক্ষ আবেদনকারীকে ৩০ (ত্রিশ) কার্যদিবসের মধ্যে নিম্নবর্ণিত দলিলাদি দাখিল করিবার নির্দেশ প্রদান করিবে, যথা:-\n(ক) জামানত হিসাবে লাইসেন্সিং Authorities-এর অনুকূলে ফরম খ অনুযায়ী-\n(অ) অন-বোর্ড এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে যে কোনো তফসিলি ব্যাংক কর্তৃক ইস্যুকৃত ১ (এক) লক্ষ টাকার নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি; এবং\n(আ) আন্তর্জাতিক এয়ার এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে যে কোনো তফসিলি ব্যাংক কর্তৃক ইস্যুকৃত ৫ (পাঁচ) লক্ষ টাকার নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি;\n(খ) সংশ্লিষ্ট প্রিন্সিপাল বা তাহার বৈধ এজেন্ট বা কাউন্টারপার্ট ব্যতীত অন্য কোনো প্রিন্সিপাল বা তাহার বৈধ এজেন্ট বা কাউন্টারপার্ট এর নিকট হইতে পণ্য চালান আনয়ন করিবেন না মর্মে ৩০০ (তিনশত) টাকার নন-জুডিসিয়াল স্ট্যাম্পে অঙ্গীকারনামা;\n(গ) আন্তর্জাতিক এয়ার এক্সপ্রেস অ্যাসোসিয়েশনের সদস্যভুক্তির হালনাগাদ সনদপত্রের কপি;\n(ঘ) কর্তৃপক্ষের অনুকূলে লাইসেন্স ফি বাবদ-\n(অ) অন-বোর্ড এক্সপ্রেস সার্ভিস প্রতিষ্ঠানের জন্য অফেরতযোগ্য ২০ (বিশ) হাজার টাকার এ-চালান (Automated Challan); এবং\n(আ) আন্তর্জাতিক এয়ার এক্সপ্রেস সার্ভিস প্রতিষ্ঠানের জন্য অফেরতযোগ্য ১ (এক) লক্ষ টাকার এ-চালান (Automated Challan);\n(ঙ) আইনের ধারা ১০৯ এর উপ-ধারা (১) অনুযায়ী ফরম-গ অনুসারে বন্ড; এবং\n(চ) আবেদনকারীর সংশ্লিষ্ট কাস্টমস স্টেশনের সোনালী ব্যাংক পিএলসি এর শাখায় প্রিপেইড অ্যাকাউন্ট পরিচালনা সংক্রান্ত দলিলাদি।\n(৩) উপ-বিধি (২) এ উল্লিখিত দলিলাদি যাচাই পরবর্তীতে মৌখিক পরীক্ষায় উত্তীর্ণ হওয়া সাপেক্ষে লাইসেন্সিং কর্তৃপক্ষ দলিলাদি প্রাপ্তির তারিখ হইতে ২১ (একুশ) কার্যদিবসের মধ্যে ফরম ঘ-তে আবেদনকারীকে লাইসেন্স প্রদান করিবে।",
+      "entity_concepts": {
+        "Licensing Authority": [
+          "The Licensing Authority is responsible for reviewing license applications, verifying submitted documents and information, and may request additional information from applicants within a specified timeframe.",
+          "Upon determining that an application meets the necessary requirements, the Licensing Authority directs the applicant to submit specific financial securities, legal undertakings, and fees before granting the license."
+        ],
+        "On-board Express Service": [
+          "Providers of on-board express services are required to submit an unconditional and continuing bank guarantee from a scheduled bank to the Licensing Authority.",
+          "They must also pay a non-refundable license fee through an automated challan to the Licensing Authority and fulfill other mandatory documentation and bond requirements."
+        ],
+        "International Air Express Service": [
+          "Providers of international air express services must furnish a higher-value unconditional and continuing bank guarantee compared to other service providers.",
+          "They are required to provide proof of membership in an international air express association and pay the specified non-refundable license fee via an automated challan."
+        ],
+        "Customs Act 1969": [
+          "Section 109(1) of the Act serves as the legal basis for the bond requirement that applicants must fulfill as part of the licensing process."
+        ],
+        "Treasury Challan": [
+          "Applicants are required to submit a non-refundable license fee via an automated challan system to the relevant authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2745",
+      "entity_sub_entities": {
+        "Licensing Authority": [
+          "license applications",
+          "submitted documents",
+          "information",
+          "financial securities",
+          "legal undertakings",
+          "fees",
+          "license"
+        ],
+        "On-board Express Service": [
+          "unconditional and continuing bank guarantee",
+          "scheduled bank",
+          "non-refundable license fee",
+          "automated challan",
+          "mandatory documentation",
+          "bond requirements"
+        ],
+        "International Air Express Service": [
+          "unconditional and continuing bank guarantee",
+          "proof of membership",
+          "international air express association",
+          "non-refundable license fee",
+          "automated challan"
+        ],
+        "Customs Act 1969": [
+          "Section 109(1)",
+          "bond requirement"
+        ],
+        "Treasury Challan": [
+          "non-refundable license fee",
+          "automated challan system"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        43,
+        84,
+        148,
+        151,
+        672,
+        803,
+        1272,
+        1693,
+        1723,
+        1915,
+        2147,
+        2831,
+        3482,
+        4322,
+        4600,
+        4836,
+        5085,
+        6030,
+        6031,
+        8096,
+        9198,
+        9446
+      ],
+      "source_file": "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_23",
+      "clause_title": "পরিবর্তন, পরিবর্ধন, সংযোজন অথবা বিয়োজন",
+      "text_id": "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_23",
+      "resolved_text": "২৩। পরিবর্তন, পরিবর্ধন, সংযোজন অথবা বিয়োজন।— লাইসেন্সি, লাইসেন্সিং কর্তৃপক্ষের অনুমোদনক্রমে, লাইসেন্সে উল্লিখিত তথ্যের পরিবর্তন করিতে পারিবেন।",
+      "entity_concepts": {
+        "Customs License": [
+          "A licensee is permitted to modify the information specified in their license, provided they obtain approval from the licensing authority."
+        ],
+        "Licensing Authority": [
+          "The licensing authority holds the power to approve or authorize requested changes to the information held within a licensee's document."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2795",
+      "entity_sub_entities": {
+        "Customs License": [
+          "licensee",
+          "information",
+          "license",
+          "licensing authority"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "changes",
+          "information",
+          "licensee's document"
+        ]
+      },
+      "clause_clusters": [
+        43,
+        84,
+        148,
+        190,
+        635,
+        3594,
+        9486
+      ],
+      "source_file": "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_26",
+      "clause_title": "অথরাইজড ইকোনমিক অপারেটর (AEO) এর আবেদনে তথ্য ও দলিলাদিতে ঘাটতির বিষয় অবহিতকরণ",
+      "text_id": "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+      "resolved_text": "ফরম-গ\n[বিধি ৬(৪) দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅথরাইজড ইকোনমিক অপারেটর সেন্টার\n\nনথি নং-\tতারিখ: ------------\n\nবিষয়: অথরাইজড ইকোনমিক অপারেটর (AEO) এর আবেদনে তথ্য ও দলিলাদিতে ঘাটতির বিষয় অবহিতকরণ।\n\nসূত্র: (আবেদন নম্বর /সাল; যেমন, ০১/২০২৪)\tতারিখ:------------------\n\nসূত্রোক্ত আবেদনের আলোকে জানানো যাইতেছে যে, আপনার দাখিলকৃত আবেদনের ক্ষেত্রে নিম্নবর্ণিত তথ্য ও দলিলাদির ঘাটতি রহিয়াছে, যথা:—\n১। .....................\n২। .....................\n৩। .....................\n\nবর্ণিতাবস্থায়, উক্ত তথ্য/দলিলাদি আগামী ১০ (নব্বই) দিনের মধ্যে নিম্নস্বাক্ষরকারীর দপ্তরে প্রেরণের জন্য অনুরোধ করা হইল।\n\nমহাপরিচালক/দায়িত্বপ্রাপ্ত কর্মকর্তা\nঅথরাইজড ইকোনমিক অপারেটর (AEO) সেন্টার\n\n(আবেদনকারীর নাম ও ঠিকানা)",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The Authorized Economic Operator Center is responsible for communicating deficiencies in documentation or information provided by applicants seeking AEO status.",
+          "Applicants must submit requested additional information or documentation to the designated office within a specified timeframe following the notification of a deficiency.",
+          "This entity acts as the regulatory body authorized to review applications and formally notify applicants of any missing documents or information required for the approval process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2892",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "Authorized Economic Operator Center",
+          "documentation",
+          "information",
+          "applicants",
+          "AEO status",
+          "designated office",
+          "deficiency",
+          "applications"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        63,
+        68,
+        124,
+        148,
+        231,
+        513,
+        1615,
+        3825
+      ],
+      "source_file": "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json",
+      "clause_date": "2024-06-13"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "আবেদন প্রক্রিয়াকরণ",
+      "text_id": "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_7",
+      "resolved_text": "৭। আবেদন প্রক্রিয়াকরণ।—(১) বিধি ৬ অনুযায়ী পূর্ণাঙ্গ আবেদন প্রাপ্তির পর অথরাইজড ইকোনমিক অপারেটরদের স্বীকৃতির প্রাপ্তির যোগ্যতা ও শর্তাবলি মূল্যায়নের প্রক্রিয়া উদ্যোগ গ্রহণ করিতে হইবে।\n(২) অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতির প্রাপ্তির যোগ্যতা ও শর্তাবলি মূল্যায়ন করিবার লক্ষ্যে মহাপরিচালক, সেন্টার প্রয়োজনীয় সংখ্যক কর্মকর্তার সমন্বয়ে এক বা একাধিক মূল্যায়নকারী টিম গঠন করিবে।\n(৩) মহাপরিচালক, সেন্টার প্রতিটি আবেদন প্রক্রিয়াকরণের জন্য উপ-বিধি (২) এর আওতায় গঠিত কোনো মূল্যায়নকারী টিমকে দায়িত্ব প্রদান ও উক্ত টিম হইতে এক জন উপযুক্ত কর্মকর্তাকে আবেদনকারী প্রতিষ্ঠানের সহিত যোগাযোগের নিমিত্ত ফোকাল পয়েন্ট কর্মকর্তা হিসাবে মনোনীত করিবেন এবং উক্ত টিম প্রতিটি আবেদন পৃথক নথিতে প্রক্রিয়াকরণ করিবে।\n(৪) আবেদন প্রাপ্তির ১৫ (পনেরো) কার্যদিবসের মধ্যে সেন্টার হইতে নিযুক্ত মূল্যায়নকারী টিম প্রতিটি আবেদন, দাখিলকৃত Self-Assessment Questionnaire (SAQ) ও উহার সহিত দাখিলকৃত দলিলাদি যাচাই-বাছাই করিবে এবং যাচাই-বাছাইকালে অতিরিক্ত কোনো তথ্য বা দলিলাদির প্রয়োজন হইলে পরবর্তী ১৫ (পনেরো) কার্যদিবসের মধ্যে উহা দাখিলের জন্য আবেদনকারীকে লিখিতভাবে অনুরোধ করিবে:\nতবে শর্ত থাকে যে, মহাপরিচালক, সেন্টার আবেদনকারীর আবেদনের পরিপ্রেক্ষিতে উক্ত সময়সীমা আরও ১৫ (পনেরো) কার্যদিবস বৃদ্ধি করিতে পারিবেন।\n(৫) উপ-বিধি (৪) এর অধীন যাচিত তথ্য বা দলিলাদি আবেদনকারী কর্তৃক নির্ধারিত সময়ে বা, ক্ষেত্রমত, বর্ধিত সময়ের মধ্যে দাখিল করিতে হইবে, অন্যথায় আবেদন বাতিল বলিয়া গণ্য হইবে।\n(৬) উপ-বিধি (৪) এর আওতায় নিযুক্ত মূল্যায়নকারী টিম কাস্টমস কম্পিউটার সিস্টেম এবং বোর্ড এর মূল্য সংযোজন কর সংক্রান্ত অনলাইন সিস্টেম [Integrated VAT Automated System (IVAS)] এবং অন্যান্য অনলাইন সিস্টেম যাহাতে কাস্টমস কর্মকর্তাদের প্রবেশাধিকার রহিয়াছে উক্তরূপ সিস্টেম-এ রক্ষিত আবেদনকারীর সংশ্লিষ্ট তথ্য-উপাত্ত সংগ্রহ ও বিশ্লেষণ করিবে এবং আবেদনকারীর কাস্টমস, মূল্য সংযোজন কর এবং অন্যান্য প্রাসঙ্গিক আইনের আওতায় কোনো অপরাধ সংঘটনের তথ্য, আমদানি বা রপ্তানি সংশ্লিষ্ট তথ্য, শুল্ক-কর বকেয়া, জরিমানা বা অর্থদণ্ড, দাবিনামা এবং অন্যান্য প্রাসঙ্গিক তথ্যাদি সংগ্রহ ও বিশ্লেষণ করিবে।\n(৭)  উপ-বিধি (৬) এর আওতায় সংগৃহীত তথ্য-উপাত্তের অতিরিক্ত কোনো তথ্য বা দলিলাদির প্রয়োজন হইলে উক্ত মূল্যায়নকারী টিম প্রয়োজনীয় তথ্য-উপাত্ত সংগ্রহের জন্য সংশ্লিষ্ট কাস্টমস বা কাস্টমস, এক্সাইজ ও ভ্যাট দপ্তর বা অন্য কোনো সরকারি দপ্তর, সংস্থা, authority বা প্রতিষ্ঠান বরাবর লিখিত অনুরোধ প্রেরণ করিবে।\n(৮) কোনো দপ্তর বা সংস্থা বা কর্তৃপক্ষ বা প্রতিষ্ঠান উপ-বিধি (৭) এর আওতায় কোনো অনুরোধ প্রাপ্ত হইলে উক্ত অনুরোধ প্রাপ্তির ২১ (একুশ) দিনের মধ্যে চাহিত তথ্য-উপাত্ত ও দলিলাদি মূল্যায়নকারী টিম বরাবর প্রেরণ করিবে:\nতবে শর্ত থাকে যে, কোনো অনিবার্য কারণে তথ্য-উপাত্ত প্রেরণে বিলম্ব হইলে বা যুক্তিসংগত কোনো কারণে তথ্য-উপাত্ত প্রদান সম্ভব না হইলে উক্ত দপ্তর কর্তৃক উহা লিখিতভাবে মূল্যায়নকারী টিমকে অবহিত করিতে হইবে।\n(৯) মূল্যায়নকারী টিম সরকারি বিভিন্ন দপ্তর বা সংস্থার বাহিরেও কোনো ব্যক্তি বা বেসরকারি কোনো প্রতিষ্ঠান বা ব্যবসায়ী সংগঠন বা গ্রহণযোগ্য কোনো ওয়েবসাইট বা অন্য কোনো নির্ভরযোগ্য উৎস হইতেও অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি সনদ প্রাপ্তির জন্য আবেদনকারী প্রতিষ্ঠানের প্রাসঙ্গিক তথ্য-উপাত্ত সংগ্রহ করিতে পারিবে।\n(১০) সংগৃহীত তথ্য এবং আবেদনের সহিত দাখিলকৃত Self-Assessment Questionnaire (SAQ) এ উল্লিখিত তথ্য সরেজমিনে যাচাইয়ের লক্ষ্যে উপ-বিধি (৩) অনুসারে নিযুক্ত মূল্যায়নকারী টিম সরেজমিনে আবেদনকারীর অঙ্গনে গমনপূর্বক যাচাই করিবে।\n(১১) মূল্যায়নকারী টিমের ফোকাল পয়েন্ট কর্মকর্তা আবেদনকারী কর্তৃক মনোনীত ফোকাল পয়েন্ট কর্মকর্তার সহিত যোগাযোগপূর্বক উভয় পক্ষের জন্য সুবিধাজনক সময়ে সরেজমিনে caravan ও সংশ্লিষ্ট প্রক্রিয়াটি পরিদর্শন করিবেন এবং আবেদনকারী উক্ত সরেজমিনে পরিদর্শনের জন্য প্রয়োজনীয় প্রস্তুতি গ্রহণপূর্বক মূল্যায়নকারী টিমকে উহার যাচাই কাজে সর্বাত্মক সহযোগিতা করিবে।\n(১২) সরেজমিনে পরিদর্শনের ক্ষেত্রে মূল্যায়নকারী টিম প্রতিষ্ঠানের কাস্টমস সংক্রান্ত কার্যাবলির সহিত সংশ্লিষ্ট সকল অঙ্গন পরিদর্শন করিবে:\nতবে শর্ত থাকে যে, caravan এর একাধিক অঙ্গন থাকিলে এবং অঙ্গনগুলোতে একই পদ্ধতিতে কার্যক্রম পরিচালনা করা হইলে মূল্যায়নকারী টিম মহাপরিচালক, সেন্টারকে অবহিত করিয়া যেকোনো একটি অঙ্গন পরিদর্শন করিতে পারিবে:\nআরও শর্ত থাকে যে, ভিন্ন ভিন্ন অঙ্গনে ভিন্ন ভিন্ন পদ্ধতিতে কার্যক্রম পরিচালনা করা হইলে সকল অঙ্গনই সরেজমিনে পরিদর্শন করিতে হইবে।\n(১৩) মূল্যায়নকারী টিম সরেজমিনে পরিদর্শনকালে অন্যান্য বিষয়াদির সহিত নিম্নবর্ণিত বিষয়সমূহ পর্যবেক্ষণ করিবে, যথা:—\n(ক) কাস্টমস সংক্রান্ত কার্যাবলির তথ্য;\n(খ) পূর্বে কাস্টমস সংক্রান্ত কোনো ত্রুটি সংঘটিত হইয়া থাকিলে সেইক্ষেত্রে গৃহীত ব্যবস্থাদি (যদি থাকে);\n(গ) হিসাবরক্ষণ ও নিজস্ব লজিস্টিকস ব্যবস্থাপনা;\n(ঘ) অভ্যন্তরীণ নিয়ন্ত্রণ ব্যবস্থা ও পদ্ধতি;\n(ঙ) কার্গো গমনাগমন চিত্র;\n(চ) কাস্টমস এজেন্ট ব্যবহারের তথ্যাদি ;\n(ছ) কম্পিউটার ও তথ্য-প্রযুক্তি নিরাপত্তা;\n(জ) দলিলাদি সংরক্ষণ পদ্ধতি ও ব্যবস্থাপনা;\n(ঝ) আর্থিক স্বচ্ছতা;\n(ঞ) নিরাপত্তা মূল্যায়ন (যেমন— অঙ্গন, কার্গো, জনবল, প্রভৃতি);\n(ট) লজিস্টিকস প্রক্রিয়া; এবং\n(ঠ) পণ্যের সংরক্ষণ ব্যবস্থাপনা।\n(১৪) মূল্যায়নকারী টিমের সরেজমিনে পরিদর্শনকালে অনিবার্য ক্ষেত্র ব্যতীত প্রতিষ্ঠান কর্তৃক মনোনীত অথরাইজড ইকোনমিক অপারেটরের ফোকাল পয়েন্ট কর্মকর্তা এবং বিভিন্ন প্রক্রিয়ার সহিত সম্পৃক্ত গুরুত্বপূর্ণ ব্যক্তি (যেমন—ট্রান্সপোর্ট, রেকর্ড সংরক্ষণ, নিরাপত্তা, প্রভৃতির সহিত সংশ্লিষ্ট ব্যক্তিগণ)-কে উপস্থিত থাকিতে হইবে।\n(১৫) মূল্যায়নকারী টিম এর সরেজমিনে পরিদর্শন ও যাচাই এবং সংশ্লিষ্ট ব্যক্তি বা দপ্তর হইতে তথ্য সংগ্রহ ও যাচাই করিয়া ৬০ (ষাট) কার্যদিবসের মধ্যে মহাপরিচালক, সেন্টার বরাবর প্রতিবেদন দাখিল করিবে:\nতবে শর্ত থাকে যে, মহাপরিচালক, সেন্টার মূল্যায়নকারী টিমের আবেদনের পরিপ্রেক্ষিতে উক্ত সময়সীমা আরও ১৫ (পনেরো) কার্যদিবস বৃদ্ধি করিতে পারিবেন।\n(১৬) মহাপরিচালক, সেন্টার আবেদনকারী caravan এর লিখিত আবেদন এবং উহার সহিত সংযুক্ত কাগজ ও দলিলাদি এবং মূল্যায়নকারী টিমের প্রতিবেদন মূল্যায়ন করিয়া অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি প্রদান বা আবেদন প্রত্যাখ্যান বা শর্ত সাপেক্ষে স্বীকৃতি প্রদান বা সাময়িক সনদ প্রদান বা প্রতিষ্ঠানকে পূর্ণাঙ্গ তথ্য উপাত্ত বা প্রয়োজনীয় সংশোধনীমূলক কার্যাবলি গ্রহণপূর্বক পুনরায় আবেদন, প্রভৃতি করিবার সিদ্ধান্ত প্রদানের নিমিত্ত সুপারিশ সংবলিত প্রস্তাব ১৫ (পনেরো) কার্যদিবসের মধ্যে কমিটির নিকট প্রেরণ করিবে।\n(১৭) মহাপরিচালক, সেন্টার এর নিকট হইতে প্রাপ্ত সুপারিশ পর্যালোচনাস্তে কমিটি গোয়েন্দা তথ্য ও ঝুঁকি বিবেচনাপূর্বক অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি প্রদান অথবা আবেদন প্রত্যাখ্যান অথবা শর্ত সাপেক্ষে বা সাময়িক স্বীকৃতি প্রদান, অথবা প্রতিষ্ঠানকে পূর্ণাঙ্গ তথ্য-উপাত্তসহ বা প্রয়োজনীয় কার্যাবলি গ্রহণপূর্বক পুনরায় আবেদন করিবার সিদ্ধান্ত ৩০ (ত্রিশ) কার্যদিবসের মধ্যে প্রদান করিয়া সেন্টারকে অবহিত করিবে:\nতবে শর্ত থাকে যে, কোনো আবেদনকারী caravan এর অথরাইজড ইকোনমিক অপারেটর স্বীকৃতি প্রাপ্তির জন্য প্রযোজ্য শর্ত পূরণে যদি কোনো ঘাটতি পরিলক্ষিত হয় এবং উহা যদি প্রয়োজনীয় কার্যক্রম গ্রহণের মাধ্যমে পরবর্তী ৬ (ছয়) মাসের মধ্যে পূরণ করা সম্ভবপর হইবে মর্মে কমিটির নিকট প্রতীয়মান হয় তাহা হইলে কমিটি আবেদনকারী caravan এর অনুকূলে উক্ত শর্ত উল্লেখপূর্বক পরবর্তী ৬ (ছয়) মাসের জন্য অথরাইজড ইকোনমিক অপারেটরের সাময়িক স্বীকৃতি সনদ প্রদানের সিদ্ধান্ত প্রদান করিতে পারিবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The process for evaluating applications for Authorized Economic Operator status involves comprehensive verification of qualification criteria and eligibility conditions by an assessment team.",
+          "The evaluation process includes analysis of customs data, VAT compliance, and historical record of offences, along with site visits to ensure operational standards are met."
+        ],
+        "Self-Assessment Questionnaire": [
+          "Applicants are required to submit a Self-Assessment Questionnaire as part of their application for Authorized Economic Operator status.",
+          "The information provided in the Self-Assessment Questionnaire is subject to verification and on-site inspection by the designated assessment team."
+        ],
+        "Integrated VAT Automated System": [
+          "The assessment team is authorized to access and analyze applicant data stored within the Integrated VAT Automated System to assess compliance and regulatory history."
+        ],
+        "National Board of Revenue": [
+          "The Board's systems, including the Integrated VAT Automated System, serve as critical sources of data for evaluating the compliance history and background of applicants for Authorized Economic Operator status."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2873",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "applications",
+          "qualification criteria",
+          "eligibility conditions",
+          "assessment team",
+          "customs data",
+          "VAT compliance",
+          "historical record of offences",
+          "site visits",
+          "operational standards"
+        ],
+        "Self-Assessment Questionnaire": [
+          "Self-Assessment Questionnaire",
+          "application",
+          "Authorized Economic Operator status",
+          "information",
+          "on-site inspection",
+          "assessment team"
+        ],
+        "Integrated VAT Automated System": [
+          "assessment team",
+          "applicant data",
+          "Integrated VAT Automated System",
+          "compliance",
+          "regulatory history"
+        ],
+        "National Board of Revenue": [
+          "Board's systems",
+          "Integrated VAT Automated System",
+          "data",
+          "compliance history",
+          "background",
+          "applicants",
+          "Authorized Economic Operator status"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        18,
+        58,
+        68,
+        148,
+        159,
+        181,
+        231,
+        270,
+        826,
+        834,
+        859,
+        1129,
+        2162,
+        2570,
+        2909,
+        3085,
+        3418,
+        3487,
+        5994,
+        6887,
+        7697,
+        8736,
+        11134,
+        11367
+      ],
+      "source_file": "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json",
+      "clause_date": "2024-06-13"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_161",
+      "clause_title": "পরিশিষ্ট ৪.১",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_161",
+      "resolved_text": "পরিশিষ্ট ৪.১\n[তথ্য/দলিলাদি সরবরাহের অনুরোধপত্র]\n[অধ্যায়-৫: অনুচ্ছেদ-৬ দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅথরাইজড ইকোনমিক অপারেটর সেন্টার\n\nনথি নং:-............................. \tতারিখ:-...................\nবিষয়: তথ্য/দলিলাদি সরবরাহকরণ।\nসূত্র:\n\nউপর্যুক্ত বিষয় ও সূত্রের প্রতি দৃষ্টি আকর্ষণপূর্বক জানানো যাচ্ছে যে, জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ অধীন অথরাইজড ইকোনমিক অপারেটর এর স্বীকৃতির জন্য আবেদনকারী [প্রতিষ্ঠানের নাম, ঠিকানা ও ব্যবসায় সনাক্তকরণ নম্বর] প্রতিষ্ঠানের মূল্যায়নের প্রক্রিয়া সম্পাদনের জন্য আপনার দপ্তর/সংস্থা/কর্তৃপক্ষ/প্রতিষ্ঠান সংশ্লিষ্ট [ ... হতে...মেয়াদের] নিম্নোক্ত তথ্য/দলিলাদি প্রয়োজন [প্রয়োজনবোধে ছক সংযুক্ত করা যাবে]:\n(ক) ........................\n(খ) ........................\n(গ) ........................\n\n০২। বর্ণিতাবস্থায়, উক্ত তথ্য/দলিলাদি আগামী ......... তারিখের মধ্যে প্রেরণ করার জন্য অনুরোধ করা হলো।\n\nমহাপরিচালক/দায়িত্বপ্রাপ্ত কর্মকর্তা\nঅথরাইজড ইকোনমিক অপারেটর সেন্টার\n\nকমিশনার অব কাস্টমস/ দপ্তর/\nসংস্থা/ কর্তৃপক্ষ/প্রতিষ্ঠান\n\nঅনুলিপি:",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The Authorized Economic Operator (Recognition and Operation) Rules, 2024, set the framework for the application and assessment process of entities seeking Authorized Economic Operator status.",
+          "The Authorized Economic Operator Center acts as the official body responsible for requesting necessary information and documents from relevant authorities to evaluate applications for Authorized Economic Operator status."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for issuing the rules and regulations that govern the recognition and operations of Authorized Economic Operators."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_951",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "Authorized Economic Operator (Recognition and Operation) Rules, 2024",
+          "Authorized Economic Operator status",
+          "Authorized Economic Operator Center",
+          "information",
+          "documents",
+          "relevant authorities",
+          "applications"
+        ],
+        "National Board of Revenue": [
+          "rules",
+          "regulations",
+          "Authorized Economic Operators"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        18,
+        29,
+        59,
+        68,
+        86,
+        121,
+        124,
+        148,
+        181,
+        193,
+        2987
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_162",
+      "clause_title": "পরিশিষ্ট ৪.২",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_162",
+      "resolved_text": "পরিশিষ্ট ৪.২\n[তথ্য/দলিলাদি সরবরাহকরণ]\n[অধ্যায়-৫: অনুচ্ছেদ-৭ দ্রষ্টব্য]\n\nদপ্তরের নাম/টেমপ্লেট\n\nনথি নং:-............................. \tতারিখ:-...................\nবিষয়: তথ্য/দলিলাদি সরবরাহকরণ।\nসূত্র:\n\nউপর্যুক্ত বিষয় ও সূত্রের প্রতি দৃষ্টি আকর্ষণপূর্বক জানানো যাচ্ছে যে, জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ অধীন অথরাইজড ইকোনমিক অপারেটর এর স্বীকৃতির জন্য আবেদনকারী [প্রতিষ্ঠানের নাম, ঠিকানা ও ব্যবসায় সনাক্তকরণ নম্বর] প্রতিষ্ঠানের মূল্যায়নের প্রক্রিয়া সম্পাদনের জন্য সূত্রোক্ত পত্রের চাহিদা মোতাবেক এ দপ্তর/সংস্থা/কর্তৃপক্ষ/প্রতিষ্ঠান সংশ্লিষ্ট [ ... হতে...মেয়াদের] নিম্নোক্ত তথ্য/দলিলাদি পাওয়া গিয়েছে [প্রয়োজনবোধে ছক সংযুক্ত করা যাবে]:\n(ক) ........................\n(খ) ........................\n(গ) ........................\n\n০২। বর্ণিতাবস্থায়, উক্ত তথ্য/দলিলাদি পরবর্তী কার্যার্থে এইসাথে যুক্ত করে প্রেরণ করা হলো।\n\n[কর্মকর্তার নাম]\n[পদবি]\nমহাপরিচালক/কমিশনার\nঅথরাইজড ইকোনমিক অপারেটর সেন্টার\n\nঅনুলিপি:",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "This official template is used by relevant authorities to supply information and documentation required for the evaluation of an applicant seeking Authorized Economic Operator status under the prevailing 2024 regulations.",
+          "The process requires the applicant to provide their business identity details and relevant records to the Authorized Economic Operator Center for assessment.",
+          "The Authorized Economic Operator Center serves as the primary entity responsible for receiving and processing information and documentation from applicants or relevant organizations for the purpose of AEO evaluation."
+        ],
+        "Authorized Economic Operator (Recognition and Management) Rules 2024": [
+          "This standing order facilitates the operational procedures mandated by the National Board of Revenue for processing Authorized Economic Operator applications."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the governing body that issued the regulatory framework for the recognition and management of Authorized Economic Operators."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_952",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "official template",
+          "information",
+          "documentation",
+          "applicant",
+          "business identity details",
+          "relevant records",
+          "Authorized Economic Operator Center",
+          "relevant organizations"
+        ],
+        "Authorized Economic Operator (Recognition and Management) Rules 2024": [
+          "standing order",
+          "operational procedures",
+          "National Board of Revenue",
+          "Authorized Economic Operator applications"
+        ],
+        "National Board of Revenue": [
+          "governing body",
+          "regulatory framework"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        18,
+        63,
+        104,
+        124,
+        148,
+        237,
+        259,
+        340,
+        545,
+        1831,
+        2763,
+        5789,
+        6112,
+        11415,
+        11417
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_35",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_35",
+      "resolved_text": "৭. কোনো দপ্তর বা সংস্থা বা কর্তৃপক্ষ বা প্রতিষ্ঠান তথ্য-উপাত্ত প্রেরণের কোনো অনুরোধ প্রাপ্ত হলে উক্ত অনুরোধ প্রাপ্তির ২১ (একুশ) দিনের মধ্যে চাহিদাকৃত তথ্য-উপাত্ত ও দলিলাদি পরিশিষ্ট ৪.২ মোতাবেক মূল্যায়নকারী টিম বরাবর প্রেরণ করবে। তবে, অনিবার্য কোনো কারণে তথ্য-উপাত্ত প্রেরণে বিলম্ব হলে বা যুক্তিসংগত কোনো কারণে তথ্য-উপাত্ত প্রদান সম্ভব না হলে উক্ত দপ্তর তা লিখিতভাবে পরিশিষ্ট ৪.৩ মোতাবেক মূল্যায়নকারী টিমকে অবহিত করবে।",
+      "entity_concepts": {
+        "Information Provision Process": [
+          "Any office, agency, or authority must submit requested information and documents to the evaluation team within a specified time frame upon receiving a request.",
+          "If there is a delay in submission or an inability to provide the requested data, the concerned office must formally notify the evaluation team in writing using the prescribed format."
+        ],
+        "Evaluation Team": [
+          "The evaluation team serves as the body to whom requested information, data, and documents must be submitted by relevant agencies.",
+          "In cases of delay or inability to comply with information requests, the evaluation team must receive formal written notification from the concerned authority."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_825",
+      "entity_sub_entities": {
+        "Information Provision Process": [
+          "office",
+          "agency",
+          "authority",
+          "information",
+          "documents",
+          "evaluation team",
+          "time frame",
+          "request",
+          "data",
+          "formal written notification",
+          "prescribed format"
+        ],
+        "Evaluation Team": [
+          "evaluation team",
+          "information",
+          "data",
+          "documents",
+          "agencies",
+          "formal written notification",
+          "concerned authority"
+        ]
+      },
+      "clause_clusters": [
+        59,
+        148,
+        270,
+        311,
+        873,
+        941,
+        1537,
+        1892,
+        2228,
+        4041,
+        4424,
+        6593,
+        9070,
+        12847
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_37",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_37",
+      "resolved_text": "৯. সংগৃহীত তথ্য এবং আবেদনের সাথে দাখিলকৃত Self-Assessment Questionnaire (SAQ) এ উল্লিখিত তথ্য সরজমিনে যাচাইয়ের লক্ষ্যে মূল্যায়নকারী টিম বিধি ৭(১০), (১১) ও (১২) অনুসারে সরজমিনে আবেদনকারীর অজ্ঞানে গমনপূর্বক যাচাই করবে।",
+      "entity_concepts": {
+        "Assessment Team": [
+          "The Assessment Team is responsible for conducting physical verification of the information provided by the applicant and the submitted Self-Assessment Questionnaire.",
+          "The team must carry out this verification process at the applicant's premises in accordance with the specified procedures in the relevant rules."
+        ],
+        "Self-Assessment Questionnaire": [
+          "The information submitted via the Self-Assessment Questionnaire must be physically verified by the assigned team to ensure accuracy and compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_827",
+      "entity_sub_entities": {
+        "Assessment Team": [
+          "Assessment Team",
+          "physical verification",
+          "information",
+          "Self-Assessment Questionnaire",
+          "applicant's premises",
+          "procedures",
+          "rules"
+        ],
+        "Self-Assessment Questionnaire": [
+          "Self-Assessment Questionnaire",
+          "information",
+          "assigned team"
+        ]
+      },
+      "clause_clusters": [
+        29,
+        148,
+        150,
+        159,
+        826,
+        2192,
+        5582,
+        5675
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_51",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_51",
+      "resolved_text": "৬. কমিটি উক্ত সুপারিশ প্রাপ্তির পর সভা আহ্বানের পত্রের সাথে আবেদনকারী প্রতিষ্ঠানের একটি তালিকা প্রেরণ করে আবেদনকারী প্রতিষ্ঠানের বিষয়ে প্রয়োজনীয় তথ্য-উপাত্ত সংগ্রহের জন্য কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর, কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট, সেন্ট্রাল ইন্টেলিজেন্স সেল বরাবর অনুরোধ প্রেরণ করবে।",
+      "entity_concepts": {
+        "Customs Intelligence and Investigation Directorate": [
+          "The committee is required to share the list of applicant companies with this body to collect necessary information and data regarding the applicants."
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "The committee shall request this office to provide relevant information on applicant companies once the initial recommendations are received."
+        ],
+        "Customs Risk Management Commissionerate": [
+          "This office is one of the designated bodies to receive requests for data collection concerning applicant companies as part of the formal review process."
+        ],
+        "Central Intelligence Cell": [
+          "The committee will forward the list of applicants to this cell to facilitate the gathering of essential data and information required for the assessment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_841",
+      "entity_sub_entities": {
+        "Customs Intelligence and Investigation Directorate": [
+          "list of applicant companies",
+          "information",
+          "data"
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "relevant information",
+          "applicant companies"
+        ],
+        "Customs Risk Management Commissionerate": [
+          "data",
+          "applicant companies"
+        ],
+        "Central Intelligence Cell": [
+          "list of applicants",
+          "data",
+          "information"
+        ]
+      },
+      "clause_clusters": [
+        148,
+        167,
+        270,
+        365,
+        405,
+        920,
+        2461,
+        3302,
+        11408
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_91",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_91",
+      "resolved_text": "২. অটোমেটেড ঝুঁকি ব্যবস্থাপনা পদ্ধতির পূর্ণাঙ্গ বাস্তবায়নের পূর্ব পর্যন্ত সংশ্লিষ্ট কাস্টমস স্টেশন কাস্টমস কম্পিউটার সিস্টেম (আসইকুডা ওয়ার্ল্ড) এ ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে কেবল রেড লেন (Red Lane)-এর পণ্যচালান কায়িক পরীক্ষণের জন্য নির্বাচন করবে। ইয়েলো লেন (Yellow lane) বা গ্রিন লেন (Green Lane)-এর পণ্যচালান গোয়েন্দা তথ্য ব্যতীত কায়িক পরীক্ষার জন্য নির্বাচন করা যাবে না। এ ক্ষেত্রে, জাতীয় রাজস্ব বোর্ডের কাস্টমস অটোমেশন শাখা এবং সিস্টেমস ম্যানেজার প্রয়োজনীয় সহযোগিতা প্রদান করবে। কোনো কাস্টমস স্টেশনে এ ধরনের লেন ব্যবস্থা (Red/Yellow/Green) চালু না থাকলে উক্ত স্টেশনের দায়িত্বপ্রাপ্ত দপ্তর প্রধান অফিস আদেশ জারির মাধ্যমে লেন ব্যবস্থা চালু করবে এবং স্বীকৃতি সনদপ্রাপ্ত প্রতিষ্ঠানের ক্ষেত্রে আবশ্যকীয়ভাবে লেন অনুসারে প্রযোজ্য সুবিধা বাস্তবায়ন করবে।",
+      "entity_concepts": {
+        "Risk Management System": [
+          "Until the full implementation of the automated risk management system, customs stations must utilize the Customs Computerised Entry Processing System to apply risk parameters for selecting shipments.",
+          "Shipments assigned to the Green Lane or Yellow Lane cannot be selected for physical examination without specific intelligence information."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system serves as the platform for applying risk management procedures at customs stations."
+        ],
+        "Red Lane": [
+          "Shipments identified under this channel are subject to physical examination by customs authorities."
+        ],
+        "Yellow Lane": [
+          "Shipments assigned to this channel must not be selected for physical examination unless there is specific intelligence or information."
+        ],
+        "Green Lane": [
+          "Shipments assigned to this channel must not be selected for physical examination unless there is specific intelligence or information."
+        ],
+        "National Board of Revenue": [
+          "The Customs Automation Wing and the Systems Manager under the National Board of Revenue are responsible for providing necessary technical support for implementing the risk management system."
+        ],
+        "Commissioner of Customs": [
+          "Where lane-based processing is not yet operational, the head of the customs station must issue an office order to establish these systems.",
+          "The head of the station is responsible for ensuring that authorized entities receive the benefits mandated by their assigned lane."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_881",
+      "entity_sub_entities": {
+        "Risk Management System": [
+          "automated risk management system",
+          "Customs Computerised Entry Processing System",
+          "risk parameters",
+          "shipments",
+          "Green Lane",
+          "Yellow Lane",
+          "physical examination",
+          "intelligence information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "platform",
+          "risk management procedures",
+          "customs stations"
+        ],
+        "Red Lane": [
+          "shipments",
+          "physical examination",
+          "customs authorities"
+        ],
+        "Yellow Lane": [
+          "shipments",
+          "physical examination",
+          "intelligence",
+          "information"
+        ],
+        "Green Lane": [
+          "shipments",
+          "physical examination",
+          "intelligence",
+          "information"
+        ],
+        "National Board of Revenue": [
+          "Customs Automation Wing",
+          "Systems Manager",
+          "technical support",
+          "risk management system"
+        ],
+        "Commissioner of Customs": [
+          "lane-based processing",
+          "head of the customs station",
+          "office order",
+          "systems",
+          "authorized entities",
+          "benefits"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        45,
+        66,
+        118,
+        148,
+        205,
+        247,
+        278,
+        361,
+        487,
+        777,
+        976,
+        1011,
+        1262,
+        1356,
+        1500,
+        1691,
+        2235,
+        2278,
+        2891,
+        3314,
+        4104,
+        5019,
+        9383,
+        11573
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "আবেদন প্রক্রিয়াকরণ",
+      "text_id": "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7",
+      "resolved_text": "৭। আবেদন প্রক্রিয়াকরণ।— (১) বিধি ৬ অনুযায়ী পূর্ণাঙ্গ আবেদন প্রাপ্তির পর অথরাইজড ইকোনোমিক অপারেটর স্বীকৃতি প্রাপ্তির যোগ্যতা ও শর্তাবলি মূল্যায়ন করিবার উদ্যোগ গ্রহণ করিতে হইবে।\n(২) অথরাইজড ইকোনোমিক অপারেটর এর স্বীকৃতি প্রাপ্তির যোগ্যতা ও শর্তাবলি মূল্যায়ন করিবার লক্ষ্যে মহাপরিচালক, সেন্টার প্রয়োজনীয় সংখ্যক কর্মকর্তার সমন্বয়ে এক বা একাধিক মূল্যায়নকারী টিম গঠন করিবে।\n(৩) মহাপরিচালক, সেন্টার প্রতিটি আবেদন প্রক্রিয়াকরণের জন্য উপ-বিধি (২) এর আওতায় গঠিত কোনো মূল্যায়নকারী টিমকে দায়িত্ব প্রদান ও উক্ত টিম হইতে এক জন উপযুক্ত কর্মকর্তাকে আবেদনকারী প্রতিষ্ঠানের সহিত যোগাযোগের নিমিত্ত ফোকাল পয়েন্ট কর্মকর্তা হিসাবে মনোনীত করিবেন এবং উক্ত টিম প্রতিটি আবেদন পৃথক নথিতে প্রক্রিয়াকরণ করিবে।\n(৪) আবেদন প্রাপ্তির ১৫ (পনের) কার্যদিবসের মধ্যে সেন্টার হইতে নিযুক্ত মূল্যায়নকারী টিম প্রতিটি আবেদন, দাখিলকৃত Self-Assessment Questionnaire (SAQ) ও উহার সহিত দাখিলকৃত দলিলাদি যাচাই-বাছাই করিবে এবং যাচাই-বাছাইকালে অতিরিক্ত কোনো তথ্য বা দলিলাদির প্রয়োজন হইলে পরবর্তী ১৫ (পনের) কার্যদিবসের মধ্যে উহা দাখিলের জন্য আবেদনকারীকে লিখিতভাবে অনুরোধ করিবে:\nতবে শর্ত থাকে যে, মহাপরিচালক, সেন্টার আবেদনকারীর আবেদনের পরিপ্রেক্ষিতে উক্ত সময়সীমা আরও ১৫ (পনের) কার্যদিবস বৃদ্ধি করিতে পারিবেন।\n(৫) উপ-বিধি (৪) এর অধীন যাচিত তথ্য বা দলিলাদি আবেদনকারী কর্তৃক নির্ধারিত সময়ে বা, ক্ষেত্রমত, বর্ধিত সময়ের মধ্যে দাখিল করিতে হইবে, অন্যথায় আবেদন বাতিল বলিয়া গণ্য হইবে।\n(৬) উপ-বিধি (৪) এর আওতায় নিযুক্ত মূল্যায়নকারী টিম কাস্টমস কম্পিউটার সিস্টেম এবং বোর্ড এর মূল্য সংযোজন কর সংক্রান্ত অনলাইন সিস্টেম [Integrated VAT Automated System (iVAS)] এবং অন্যান্য অনলাইন সিস্টেমে যাহাতে কাস্টমস কর্মকর্তাদের প্রবেশাধিকার রহিয়াছে উক্তরূপ সিস্টেমে সংরক্ষিত আবেদনকারীর সংশ্লিষ্ট তথ্য-উপাত্ত সংগ্রহ ও বিশ্লেষণ করিবে এবং আবেদনকারীর কাস্টমস, মূল্য সংযোজন কর এবং অন্যান্য প্রাসঙ্গিক আইনের আওতায় কোনো অপরাধ সংঘটনের তথ্য, আমদানি বা রপ্তানি সংশ্লিষ্ট তথ্য, শুল্ক-কর বকেয়া, জরিমানা বা অর্থদণ্ড, দাবিনামা এবং অন্যান্য প্রাসঙ্গিক তথ্যাদি সংগ্রহ ও বিশ্লেষণ করিবে।\n(৭) উপ-বিধি (৬) এর আওতায় সংগৃহীত তথ্য-উপাত্তের অতিরিক্ত কোনো তথ্য বা দলিলাদির প্রয়োজন হইলে উক্ত মূল্যায়নকারী টিম প্রয়োজনীয় তথ্য-উপাত্ত সংগ্রহের জন্য সংশ্লিষ্ট কাস্টমস বা কাস্টমস, এক্সাইজ ও ভ্যাট দপ্তর বা অন্য কোনো সরকারি দপ্তর, সংস্থা, কর্তৃপক্ষ বা প্রতিষ্ঠান বরাবর লিখিত অনুরোধ প্রেরণ করিবে।\n(৮) কোনো দপ্তর বা সংস্থা বা কর্তৃপক্ষ বা প্রতিষ্ঠান উপ-বিধি (৭) এর আওতায় কোনো অনুরোধ প্রাপ্ত হইলে উক্ত অনুরোধ প্রাপ্তির ২১ (একুশ) দিনের মধ্যে চাহিত তথ্য-উপাত্ত ও দলিলাদি মূল্যায়নকারী টিম বরাবর প্রেরণ করিবে:\nতবে শর্ত থাকে যে, কোনো অনিবার্য কারণে তথ্য-উপাত্ত প্রেরণে বিলম্ব হইলে বা যুক্তিসংগত কোনো কারণে তথ্য-উপাত্ত প্রদান সম্ভব না হইলে উক্ত দপ্তর কর্তৃক উহা লিখিতভাবে মূল্যায়নকারী টিমকে অবহিত করিতে হইবে।\n(৯) মূল্যায়নকারী টিম সরকারি বিভিন্ন দপ্তর বা সংস্থার বাহিরেও কোনো ব্যক্তি বা বেসরকারি কোনো প্রতিষ্ঠান বা ব্যবসায়ী সংগঠন বা গ্রহণযোগ্য কোনো ওয়েবসাইট বা অন্য কোনো নির্ভরযোগ্য উৎস হইতেও অথরাইজড ইকোনোমিক অপারেটরের স্বীকৃতি সনদ প্রাপ্তির জন্য আবেদনকারী প্রতিষ্ঠানের প্রাসঙ্গিক তথ্য-উপাত্ত সংগ্রহ করিতে পারিবে।\n(১০) সংগৃহীত তথ্য এবং আবেদনের সহিত দাখিলকৃত Self-Assessment Questionnaire (SAQ) এ উল্লিখিত তথ্য সরেজমিনে যাচাইয়ের লক্ষ্যে উপ-বিধি (৩) অনুসারে নিযুক্ত মূল্যায়নকারী টিম সরেজমিনে আবেদনকারীর অজ্ঞনে গমনপূর্বক যাচাই করিবে।\n(১১) মূল্যায়নকারী টিমের ফোকাল পয়েন্ট কর্মকর্তা আবেদনকারী কর্তৃক মনোনীত ফোকাল পয়েন্ট কর্মকর্তার সহিত যোগাযোগপূর্বক উভয় পক্ষের জন্য সুবিধাজনক সময়ে সরেজমিনে প্রতিষ্ঠান ও সংশ্লিষ্ট প্রক্রিয়াটি পরিদর্শন করিবেন এবং আবেদনকারী উক্ত সরেজমিনে পরিদর্শনের জন্য প্রয়োজনীয় প্রস্তুতি গ্রহণপূর্বক মূল্যায়নকারী টিমকে উহার যাচাই কাজে সর্বাত্মক সহযোগিতা করিবে।\n(১২) সরেজমিনে পরিদর্শনের ক্ষেত্রে মূল্যায়নকারী টিম প্রতিষ্ঠানের কাস্টমস সংক্রান্ত কার্যাবলির সহিত সংশ্লিষ্ট সকল অজ্ঞন পরিদর্শন করিবে:\nতবে শর্ত থাকে যে, প্রতিষ্ঠানের একাধিক অজ্ঞন থাকিলে এবং অজ্ঞনগুলোতে একই পদ্ধতিতে কার্যক্রম পরিচালনা করা হইলে মূল্যায়নকারী টিম মহাপরিচালক, সেন্টারকে অবহিত করিয়া যেকোনো একটি অজ্ঞন পরিদর্শন করিতে পারিবে:\nআরও শর্ত থাকে যে, ভিন্ন ভিন্ন অজ্ঞনে ভিন্ন ভিন্ন পদ্ধতিতে কার্যক্রম পরিচালনা করা হইলে সকল অজ্ঞনই সরেজমিনে পরিদর্শন করিতে হইবে।\n(১৩) মূল্যায়নকারী টিম সরেজমিনে পরিদর্শনকালে অন্যান্য বিষয়াদির সহিত নিম্নবর্ণিত বিষয়সমূহ পর্যবেক্ষণ করিবে, যথা:—\n(ক) কাস্টমস সংক্রান্ত কার্যাবলির তথ্য;\n(খ) পূর্বে কাস্টমস সংক্রান্ত কোনো ত্রুটি সংঘটিত হইয়া থাকিলে সেইক্ষেত্রে গৃহীত ব্যবস্থাদি (যদি থাকে);\n(গ) হিসাবরক্ষণ ও নিজস্ব লজিস্টিকস ব্যবস্থাপনা;\n(ঘ) অভ্যন্তরীণ নিয়ন্ত্রণ ব্যবস্থা ও পদ্ধতি;\n(ঙ) কার্গো গমনাগমন চিত্র;\n(চ) কাস্টমস এজেন্ট ব্যবহারের তথ্যাদি;\n(ছ) কম্পিউটার ও তথ্য-প্রযুক্তি নিরাপত্তা;\n(জ) দলিলাদি সংরক্ষণ পদ্ধতি ও ব্যবস্থাপনা;\n(ঝ) আর্থিক স্বচ্ছলতা;\n(ঞ) নিরাপত্তা মূল্যায়ন (যেমন— অজ্ঞন, কার্গো, জনবল, প্রভৃতি);\n(ট) লজিস্টিকস প্রক্রিয়া; এবং\n(ঠ) পণ্যের সংরক্ষণ ব্যবস্থাপনা।\n(১৪) মূল্যায়নকারী টিমের সরেজমিনে পরিদর্শনকালে অনিবার্য ক্ষেত্র ব্যতীত প্রতিষ্ঠান কর্তৃক মনোনীত অথরাইজড ইকোনোমিক অপারেটরের ফোকাল পয়েন্ট কর্মকর্তা এবং বিভিন্ন প্রক্রিয়ার সহিত সম্পৃক্ত গুরুত্বপূর্ণ ব্যক্তি (যেমন—ট্রান্সপোর্ট, রেকর্ড সংরক্ষণ, নিরাপত্তা, প্রভৃতির সহিত সংশ্লিষ্ট ব্যক্তিগণ)-কে উপস্থিত থাকিতে হইবে।\n(১৫) মূল্যায়নকারী টিম সরেজমিনে পরিদর্শন ও যাচাই এবং সংশ্লিষ্ট ব্যক্তি বা দপ্তর হইতে তথ্য সংগ্রহ ও যাচাই করিয়া ৬০ (ষাট) কার্যদিবসের মধ্যে মহাপরিচালক, সেন্টার বরাবরে প্রতিবেদন দাখিল করিবে:\nতবে শর্ত থাকে যে, মহাপরিচালক, সেন্টার মূল্যায়নকারী টিমের আবেদনের পরিপ্রেক্ষিতে উক্ত সময়সীমা আরও ১৫ (পনের) কার্যদিবস বৃদ্ধি করিতে পারিবেন।\n(১৬) মহাপরিচালক, সেন্টার আবেদনকারীর লিখিত আবেদন এবং উহার সহিত সংযুক্ত কাগজ ও দলিলাদি এবং মূল্যায়নকারী টিমের প্রতিবেদন মূল্যায়ন করিয়া অথরাইজড ইকোনোমিক অপারেটরের স্বীকৃতি প্রদান বা আবেদন প্রত্যাখ্যান বা শর্ত সাপেক্ষে স্বীকৃতি প্রদান বা সাময়িক সনদ প্রদান বা প্রতিষ্ঠানকে পূর্ণাঙ্গ তথ্য উপাত্ত বা প্রয়োজনীয় সংশোধনমূলক কার্যাবলি গ্রহণপূর্বক পুনরায় আবেদন, প্রভৃতি করিবার সিদ্ধান্ত প্রদানের নিমিত্ত সুপারিশ সংবলিত প্রস্তাব ১৫ (পনের) কার্যদিবসের মধ্যে কমিটির নিকট প্রেরণ করিবে।\n(১৭) মহাপরিচালক, সেন্টার এর নিকট হইতে প্রাপ্ত সুপারিশ পর্যালোচনাস্তে কমিটি গোয়েন্দা তথ্য ও ঝুঁকি বিবেচনায়পূর্বক অথরাইজড ইকোনোমিক অপারেটরের স্বীকৃতি প্রদান অথবা আবেদন প্রত্যাখ্যান অথবা শর্ত সাপেক্ষে বা সাময়িক স্বীকৃতি প্রদান, অথবা প্রতিষ্ঠানকে পূর্ণাঙ্গ তথ্য-উপাত্তসহ বা প্রয়োজনীয় কার্যাবলি গ্রহণপূর্বক পুনরায় আবেদন করিবার সিদ্ধান্ত ৩০ (ত্রিশ) কার্যদিবসের মধ্যে প্রদান করিয়া সেন্টারকে অবহিত করিবে:\nতবে শর্ত থাকে যে, কোনো আবেদনকারী প্রতিষ্ঠানের অথরাইজড ইকোনোমিক অপারেটর স্বীকৃতি প্রাপ্তির জন্য প্রযোজ্য শর্ত পূরণে যদি কোনো ঘাটতি পরিলক্ষিত হয় এবং উহা যদি প্রয়োজনীয় কার্যক্রম গ্রহণের মাধ্যমে পরবর্তী ৬ (ছয়) মাসের মধ্যে পূরণ করা সম্ভবপর হইবে মর্মে কমিটির নিকট প্রতীয়মান হয় তাহা হইলে কমিটি আবেদনকারী প্রতিষ্ঠানের অনুকূলে উক্ত শর্ত উল্লেখপূর্বক পরবর্তী ৬ (ছয়) মাসের জন্য অথরাইজড ইকোনোমিক অপারেটরের সাময়িক স্বীকৃতি সনদ প্রদানের সিদ্ধান্ত প্রদান করিতে পারিবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The application for Authorized Economic Operator status undergoes a formal evaluation process to determine if the applicant meets the necessary legal conditions and eligibility criteria.",
+          "Applicants must submit a self-assessment questionnaire, and the authorities conduct a comprehensive review of the applicant's customs compliance, financial records, and operational security.",
+          "The process involves both a document review and an on-site inspection of the applicant's premises and logistics processes to verify the information provided.",
+          "If granted, the status may be provided as a full recognition, a provisional certificate for a specific period to allow for necessary improvements, or the application may be rejected based on risk assessment."
+        ],
+        "Customs Computerised System": [
+          "The assessment team utilizes this system to collect and analyze information regarding the applicant's customs history, duty payments, and any past offences or outstanding liabilities."
+        ],
+        "Integrated VAT Automated System": [
+          "The assessment team accesses this system to gather data on the applicant's VAT compliance, which is a critical component of the vetting process for authorized status."
+        ],
+        "Self-Assessment Questionnaire": [
+          "Applicants are required to submit this document as part of the formal application process, which serves as a primary source of information for the assessment team to verify during the review and on-site inspection phases."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1072",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "application",
+          "legal conditions",
+          "eligibility criteria",
+          "self-assessment questionnaire",
+          "customs compliance",
+          "financial records",
+          "operational security",
+          "document review",
+          "on-site inspection",
+          "premises",
+          "logistics processes",
+          "full recognition",
+          "provisional certificate",
+          "risk assessment"
+        ],
+        "Customs Computerised System": [
+          "customs history",
+          "duty payments",
+          "offences",
+          "outstanding liabilities"
+        ],
+        "Integrated VAT Automated System": [
+          "VAT compliance"
+        ],
+        "Self-Assessment Questionnaire": [
+          "document",
+          "information"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        58,
+        148,
+        159,
+        203,
+        251,
+        305,
+        375,
+        479,
+        859,
+        1102,
+        1129,
+        1201,
+        1374,
+        1603,
+        1646,
+        2162,
+        2664,
+        2915,
+        4264,
+        6924,
+        8361,
+        9619,
+        10352
+      ],
+      "source_file": "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+      "clause_date": "2025-02-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_19",
+      "clause_title": "এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের শুল্কায়ন",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_19",
+      "resolved_text": "১৯। এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের শুল্কায়ন।— (১) বিধি ১৮ এর আওতায় কায়িক পরীক্ষণ করা হইলে উক্ত পরীক্ষণ প্রতিবেদনের ভিত্তিতে বা কাস্টমস কম্পিউটার সিস্টেমে ইয়েলো চ্যানেলে অর্থাৎ দলিলাদি যাচাইয়ের জন্য নির্বাচিত পণ্যচালানের ক্ষেত্রে সংশ্লিষ্ট যথোপযুক্ত কাস্টমস কর্মকর্তা আইনের বিধান মোতাবেক পণ্যচালানের শুল্কায়ন করিবেন।\n(২) শুল্কায়নকালে কাস্টমস কম্পিউটার সিস্টেমে দাখিলকৃত তথ্য ও দলিলাদিতে কোনো অসঙ্গতি পরিলক্ষিত হইলে বা অতিরিক্ত কোনো দলিলাদি দাখিলের প্রয়োজনীয়তা থাকিলে যথোপযুক্ত কাস্টমস কর্মকর্তা গ্রাহক বা এক্সপ্রেস সার্ভিসকে বা, প্রযোজ্য ক্ষেত্রে, কাস্টমস ক্লিয়ারিং ও ফরোয়ার্ডিং এজেন্টকে মূল দলিলের হার্ডকপি দাখিলের নির্দেশনা প্রদান করিতে পারিবেন।\n(৩) উপ-বিধি (২) এর নির্দেশনার পরিপ্রেক্ষিতে কোনো তথ্য ও দলিলাদি চাওয়া হইলে তাহা দ্রুততর সময়ের মধ্যে দাখিল করিতে হইবে এবং যথোপযুক্ত কাস্টমস কর্মকর্তা উহা যাচাই করিয়া যথাযথ প্রাপ্তি সাপেক্ষে দ্রুততম সময়ে শুল্কায়ন সম্পন্ন করিবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "Goods imported through express services are subject to customs clearance based on physical examination reports or document verification protocols established in the customs computerized system.",
+          "Appropriate customs officers are mandated to complete the assessment and clearance of such goods in accordance with existing legal provisions."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system facilitates the selection of goods for document verification and serves as the primary digital platform where information and documentation for imported goods must be submitted."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer is empowered to assess goods, request hard copies of original documents if discrepancies are found in the system-submitted data, and mandate the submission of additional required documents.",
+          "The officer must verify submitted information promptly and complete the customs assessment process as quickly as possible following the provision of necessary documents."
+        ],
+        "Express Service": [
+          "Entities operating express services are required to respond to requests for original documentation from customs officials when data discrepancies or documentation gaps are identified during the clearance process."
+        ],
+        "Customs Clearing and Forwarding Agent": [
+          "The agent may be tasked with providing hard copies of original documents to customs authorities upon request to resolve discrepancies or supplement data submitted via the customs computerised system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1214",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "goods",
+          "express services",
+          "physical examination reports",
+          "document verification protocols",
+          "customs computerized system",
+          "customs officers",
+          "legal provisions"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "goods",
+          "document verification",
+          "digital platform",
+          "information",
+          "documentation",
+          "imported goods"
+        ],
+        "Appropriate Officer of Customs": [
+          "officer",
+          "goods",
+          "hard copies",
+          "original documents",
+          "system-submitted data",
+          "additional required documents",
+          "submitted information",
+          "customs assessment process"
+        ],
+        "Express Service": [
+          "entities",
+          "express services",
+          "original documentation",
+          "customs officials",
+          "data discrepancies",
+          "documentation gaps",
+          "clearance process"
+        ],
+        "Customs Clearing and Forwarding Agent": [
+          "agent",
+          "hard copies",
+          "original documents",
+          "customs authorities",
+          "discrepancies",
+          "data",
+          "customs computerised system"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        17,
+        45,
+        51,
+        63,
+        66,
+        87,
+        94,
+        111,
+        114,
+        130,
+        148,
+        203,
+        270,
+        317,
+        366,
+        1032,
+        1051,
+        1371,
+        1426,
+        1576,
+        1621,
+        1870,
+        2036,
+        2665,
+        3708,
+        4101,
+        5320,
+        7096,
+        7438,
+        7442,
+        10411,
+        12510,
+        12614
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20250223_General_১০ অক্টোবর, ২০২৪_clause_4",
+      "resolved_text": "০৪। এমতাবস্থায়, নিম্নোক্ত কর্মকর্তা/প্রতিনিধির সমন্বয়ে ছয়টি কাস্টম হাউস তথা কাস্টম হাউস চট্টগ্রাম, কাস্টম হাউস ঢাকা, কাস্টম হাউস মোংলা, কাস্টম হাউস বেনাপোল, কাস্টম হাউস আইসিডি কমলাপুর, কাস্টম হাউস পানগাঁও এবং আমদানি-রপ্তানি ও ট্রানজিট এর পরিমাণ বিবেচনায়ক্রমে যে সকল কাস্টমস স্টেশনসমূহ অধিক গুরুত্বপূর্ণ সেগুলোতে তথা-ভোমরা (সাতক্ষীরা), দর্শনা (চুয়াডাঙ্গা), সোনামসজিদ (চাঁপাইনবাবগঞ্জ), হিলি (দিনাজপুর), বাংলাবান্ধা (পঞ্চগড়), বুড়িমারী (লালমনিরহাট), তামাবিল (সিলেট), শেওলা (সিলেট), আখাউড়া (ব্রাহ্মণবাড়িয়া), টেকনাফ (কক্সবাজার) স্থল কাস্টমস স্টেশনে এবং দুইটি বিমানবন্দর তথা- ওসমানী আন্তর্জাতিক বিমানবন্দর কাস্টমস স্টেশন, সিলেট, শাহ আমানত আন্তর্জাতিক বিমানবন্দর কাস্টমস স্টেশন, চট্টগ্রাম প্রতিটিতে সংশ্লিষ্ট কমিশনার অব কাস্টমসকে আহ্বায়ক করে সীমান্ত বাণিজ্য সমন্বয় কমিটি গঠন করা হলো: \n| ক্রম | পদবি | দপ্তর | কমিটিতে অবস্থান |\n| --- | --- | --- | --- |\n| ১. | কমিশনার | কাস্টম হাউস/ আন্তর্জাতিক বিমানবন্দর কাস্টমস স্টেশন/ স্থল কাস্টমস স্টেশন | আহ্বায়ক |\n| ২. | প্রতিনিধি | বন্দর কর্তৃপক্ষ/ সিভিল এভিয়েশন (চট্টগ্রাম/মোংলা/ পায়রা/স্থলবন্দর/বেবিকব/বাংলাদেশ রেলওয়ে) (যে ক্ষেত্রে প্রযোজ্য) | সদস্য |\n| ৩. | প্রতিনিধি | বর্ডার গার্ড বাংলাদেশ (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ৪. | প্রতিনিধি | ইমিগ্রেশন বিভাগ, এসবি, বাংলাদেশ পুলিশ (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ৫. | প্রতিনিধি | বাংলাদেশ বিমান (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ৬. | প্রতিনিধি | উদ্ভিদ সংনিরোধ দপ্তর, কৃষি সম্প্রসারণ অধিদপ্তর, কৃষি মন্ত্রণালয় (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ৭. | প্রতিনিধি | প্রাণি সংনিরোধ দপ্তর, প্রাণিসম্পদ অধিদপ্তর, প্রাণিসম্পদ মন্ত্রণালয় (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ৮. | প্রতিনিধি | বিস্ফোরক অধিদপ্তর (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ৯. | প্রতিনিধি | বাংলাদেশ নৌবাহিনী (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ১০. | প্রতিনিধি | বিএসটিআই (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ১১. | প্রতিনিধি | সোনালী ব্যাংক লি. | সদস্য |\n| ১২. | প্রতিনিধি | বাংলাদেশ ব্যাংক (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ১৩. | প্রতিনিধি | পরমাণু শক্তি কমিশন (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ১৪. | প্রতিনিধি | চেম্বারস অব কমার্স অ্যান্ড ইন্ডাস্ট্রিজ | সদস্য |\n| ১৫. | প্রতিনিধি | সিএন্ডএফ এজেন্ট অ্যাসোসিয়েশন | সদস্য |\n| ১৬. | প্রতিনিধি | ফ্রেট ফরওয়ার্ডার্স অ্যাসোসিয়েশন/ ট্রান্সপোর্ট অ্যাসোসিয়েশন (যে ক্ষেত্রে যেটি প্রযোজ্য) | সদস্য |\n| ১৭. | প্রতিনিধি | শিপিং এজেন্ট অ্যাসোসিয়েশন (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ১৮. | প্রতিনিধি | কুরিয়ার সার্ভিস অ্যাসোসিয়েশন (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ১৯ | প্রতিনিধি | Bangladesh Inland Container Depots Association (BICDA) (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ২০. | প্রতিনিধি | স্থানীয় পুলিশ কর্তৃক (মেট্রোপলিটন/থানা/ট্রাফিক/ এপিবিএন) (যে ক্ষেত্রে যেটি প্রযোজ্য) | সদস্য |\n| ২১. | প্রতিনিধি | কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর | সদস্য |\n| ২২. | প্রতিনিধি | শুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট | সদস্য |\n| ২৩. | প্রতিনিধি | অন্যান্য দপ্তর/ নিজ দপ্তরের অন্য কোনো প্রতিনিধি (প্রযোজ্য ক্ষেত্রে) | সদস্য |\n| ২৪. | উপ/ সহকারী কমিশনার | কাস্টম হাউস/কাস্টমস স্টেশন | সদস্য সচিব |\n\n\nউক্ত কমিটির কার্যপরিধি WTO-TFA এর আলোকে নিম্নরূপ:\n\nক. স্ব স্ব কাস্টম হাউস/আন্তর্জাতিক বিমানবন্দর/স্থল কাস্টমস স্টেশনের মাধ্যমে আমদানি-রপ্তানি ও ট্রানজিট বাণিজ্যের ক্ষেত্রে প্রতিবন্ধকতাসমূহ চিহ্নিতকরণ ও তা বিদ্যমান আইনের বিধান অনুযায়ী নিরসনের উদ্যোগ গ্রহণ;\n\nখ. ন্যাশনাল ট্রেড ফ্যাসিলিটেশন কমিটির সিদ্ধান্ত বাস্তবায়নের উদ্যোগ গ্রহণ;\n\nগ. প্রত্যেক তিন মাসে সংশ্লিষ্ট কাস্টম হাউসে/বিমানবন্দর কাস্টমস স্টেশনে/স্থল কাস্টমস স্টেশনে ন্যূনতম একটি সভা আয়োজন এবং সভায় উপস্থিত প্রতিনিধিদের মতামতের আলোকে বাণিজ্য সংক্রান্ত প্রতিবন্ধকতাসমূহ নিরসনে যথাযথ প্রস্তাব সংশ্লিষ্ট কর্তৃপক্ষের নিকট প্রেরণ, ফলো-আপ (follow-up) এবং সমন্বয় সাধন;\n\nঘ. কার্যদিবস ও কার্যঘণ্টা (Working days and hours) প্রয়োজনানুসারে অভিন্ন রাখার (alignment) লক্ষ্যে বিভিন্ন সংস্থার মধ্যে সমন্বয় সাধন;\n\nঙ. আমদানি-রপ্তানি কার্যক্রম সহজীকরণে অভিন্ন (alignment) প্রক্রিয়া ও আনুষ্ঠানিকতা (Procedures and Formalities) রক্ষার লক্ষ্যে বিভিন্ন সংস্থার মধ্যে সমন্বয় সাধন;\n\nচ. উন্নয়ন ও অভিন্ন সেবা পরিকাঠামো (Common Facilities) বিনিময় (sharing) এর উদ্যোগ গ্রহণ;\n\nছ. পারস্পরিক তথ্য ও উপাত্ত আদান-প্রদান, সহযোগিতা, সমন্বয় সাধন ও প্রযোজ্য ক্ষেত্রে যৌথ নিয়ন্ত্রণ মূলক কার্যক্রম;\n\nজ. ওয়ান-স্টপ বর্ডার পয়েন্ট (One Stop Border Point) প্রতিষ্ঠার লক্ষ্যে বিভিন্ন সংস্থার মধ্যে পারস্পরিক সমন্বয় ও যোগাযোগ রক্ষা;\n\nঝ. Coordinated Border Management/ Integrated Border Management প্রতিষ্ঠার লক্ষ্যে বিভিন্ন সংস্থার মধ্যে স্থানীয় পর্যায়ে সমন্বয় এবং জাতীয় পর্যায়ের জন্য সুপারিশ প্রেরণ;\n\nঞ. বাণিজ্য সহজীকরণ সংক্রান্ত সুপারিশ প্রণয়ন ও সংশ্লিষ্ট কর্তৃপক্ষের নিকট প্রেরণ;\n\nট. প্রয়োজনবোধে বাণিজ্য সংশ্লিষ্ট দপ্তর/এজেন্সির প্রতিনিধি উক্ত কমিটিতে অন্তর্ভুক্তকরণ;\n\nঠ. বাণিজ্য সহজীকরণ সংক্রান্ত অন্যান্য প্রাসঙ্গিক কার্যাবলি।",
+      "entity_concepts": {
+        "Border Trade Coordination Committee": [
+          "This standing order mandates the formation of a Border Trade Coordination Committee at various customs houses, land customs stations, and international airports, with the respective Commissioner of Customs serving as the chairperson. The committee includes representatives from diverse government agencies, regulatory bodies, and industry associations to streamline trade operations.",
+          "The committee's mandate is aligned with WTO-TFA standards and includes identifying and resolving trade obstacles, implementing decisions of the National Trade Facilitation Committee, and ensuring inter-agency coordination for procedures and hours of operation.",
+          "The committee is responsible for facilitating the exchange of common infrastructure and information, promoting one-stop border point initiatives, and fostering integrated border management to simplify import, export, and transit processes."
+        ],
+        "National Trade Facilitation Committee": [
+          "The Border Trade Coordination Committee is tasked with taking initiatives to implement the decisions made by the National Trade Facilitation Committee."
+        ],
+        "Customs Commissioner": [
+          "The Commissioner of Customs acts as the convener (chairperson) for the Border Trade Coordination Committee established at their respective customs houses or stations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_978",
+      "entity_sub_entities": {
+        "Border Trade Coordination Committee": [
+          "customs houses",
+          "land customs stations",
+          "international airports",
+          "Commissioner of Customs",
+          "government agencies",
+          "regulatory bodies",
+          "industry associations",
+          "WTO-TFA standards",
+          "trade obstacles",
+          "National Trade Facilitation Committee",
+          "common infrastructure",
+          "information",
+          "one-stop border point initiatives",
+          "integrated border management",
+          "import processes",
+          "export processes",
+          "transit processes"
+        ],
+        "National Trade Facilitation Committee": [
+          "National Trade Facilitation Committee"
+        ],
+        "Customs Commissioner": [
+          "Commissioner of Customs",
+          "Border Trade Coordination Committee",
+          "customs houses",
+          "stations"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        148,
+        224,
+        310,
+        454,
+        614,
+        1419,
+        1507,
+        1662,
+        1690,
+        4228,
+        4651,
+        6518,
+        7926,
+        8857,
+        9132,
+        10279,
+        12905,
+        12974,
+        13437
+      ],
+      "source_file": "customs_gos_OCR/20250223_General/20250223_General_output.json",
+      "clause_date": "2025-02-23"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট (সিআরএমসি) এর ক্ষমতা ও কার্যাবলি",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_3",
+      "resolved_text": "৩। কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট (সিআরএমসি) এর ক্ষমতা ও কার্যাবলি।—কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর ক্ষমতা ও কার্যাবলি হইবে নিম্নরূপ, যথা:—\n(ক) কাস্টমস ঝুঁকির ক্ষেত্র নির্বাচনের লক্ষ্যে ঝুঁকি সম্পর্কিত তথ্য সংগ্রহ, বিশ্লেষণ ও পর্যালোচনা করা;\n(খ) প্রতিষ্ঠিত তথ্যের ভিত্তিতে ঝুঁকির ক্ষেত্রসমূহ নির্বাচন, ঝুঁকির ধরন ও ঝুঁকির শ্রেণিবিন্যাস করা;\n(গ) সার্বিক কাস্টমস ঝুঁকি ব্যবস্থাপনা সংক্রান্ত পরিকল্পনা প্রণয়ন ও উহার বাস্তবায়ন করা;\n(ঘ) উচ্চ ও নিম্ন ঝুঁকির পণ্যচালান ও যাত্রী শনাক্তকরণের লক্ষ্যে টার্গেটিং ইন্টেলিজেন্স (targeting intelligence), কৃত্রিম বুদ্ধিমত্তা (artificial intelligence) এবং উপাত্ত বিশ্লেষণ ও ঝুঁকি ব্যবস্থাপনার অন্যাবিধ কৌশল প্রয়োগ করে সকল প্রকার ঝুঁকি ব্যবস্থাপনা বাস্তবায়ন করা;\n(ঙ) কাস্টমস সংক্রান্ত ঝুঁকি ব্যবস্থাপনা এবং এতদসংক্রান্ত ঝুঁকি প্রোফাইল (risk profile) তৈরি করা;\n(চ) কাস্টমস কম্পিউটার সিস্টেম ও স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা সিস্টেমের সিলেক্টভিটি নির্ণায়কের সামগ্রিক ব্যবস্থাপনা অর্থাৎ ঝুঁকির ভিত্তিতে পণ্য চালান রেড বা ইয়েলো বা ব্লু বা গ্রিন লেন নির্বাচন করা;\n(ছ) অনলাইন ভিত্তিক ঝুঁকি রেজিস্টার (risk register) তৈরি, হালনাগাদকরণ ও সংরক্ষণ করা;\n(জ) ঝুঁকি নির্দেশক ও ঝুঁকি প্রোফাইল তৈরি, মেয়াদী পর্যালোচনা, সংশোধন ও অবলোপন করা;\n(ঝ) জাতীয় ও আন্তর্জাতিক উৎস হইতে তথ্য-উপাত্ত সংগ্রহপূর্বক তাহা বিশ্লেষণের মাধ্যমে ঝুঁকি প্রবণতা ও প্রকৃতি নির্ধারণ করা;\n(ঞ) জাতীয় ও আন্তর্জাতিক পরিসরে অর্থনৈতিক অবস্থা, ভৌগোলিক অবস্থা, শুল্ক-কর হার, শুল্ক মূল্যায়ন, শুল্ক-কর অব্যাহতি, আঞ্চলিক ও আন্তর্জাতিক চুক্তি, বাজার ব্যবস্থাসহ অন্যাবিধ যে সকল অনুষঙ্গ কাস্টমসের দায়িত্ব ও কার্যাবলিকে প্রভাবিত করে তাহা পর্যবেক্ষণ ও পর্যালোচনার লক্ষ্যে উপাত্ত সংগ্রহ করতঃ প্রয়োজনীয় সমীক্ষা ও গবেষণা কার্যক্রম পরিচালনা এবং প্রতিকারমূলক ব্যবস্থা গ্রহণ ও কাস্টমস নীতি প্রণয়নে পরামর্শ প্রদান করা;\n(ট) সকল কাস্টমস স্টেশন এবং বন্ড কমিশনারেটের এর জন্য দৈবচয়নের ভিত্তিতে পণ্যচালান সিলেকশনের মানদণ্ড নির্ধারণ এবং সময়ে সময়ে উক্ত মানদণ্ড হালনাগাদ করা;\n(ঠ) ঝুঁকি ব্যবস্থাপনা কার্যক্রমের কার্যকারিতা পরিবীক্ষণ ও তত্ত্বাবধান, বোর্ডকে অবহিতকরণ ও প্রয়োজনীয় সমন্বয় সাধন এবং মুখ্য কর্মতৎপরতা নির্দেশকের (Key Performance Indicator) সাপেক্ষে গৃহীত কার্যক্রমের ফলাফল পর্যালোচনা করা;\n(ড) আইনের ধারা ৭ অনুযায়ী যেকোনো সরকারি, আধা-সরকারি ও স্বায়ত্তশাসিত সংস্থা, আমদানি ও রপ্তানির সাথে সংশ্লিষ্ট যেকোনো ব্যক্তি বা প্রতিষ্ঠান, ব্যাংক, আর্থিক প্রতিষ্ঠান এবং অন্যান্য সংস্থা হইতে তথ্য-উপাত্ত সংগ্রহ ও প্রয়োজনে তথ্য বিশ্লেষণে অন্যান্য সংস্থার সহায়তা গ্রহণ করা;\n(ঢ) গোপনীয় ও সংবেদনশীল তথ্য সংরক্ষণ এবং ব্যবহারের ক্ষেত্রে গোপনীয়তা রক্ষা করা;\n(ণ) জাতীয় রাজস্ব বোর্ডের পূর্বানুমোদনক্রমে, জাতীয় রাজস্ব বোর্ডের পক্ষে, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেটের কার্যাবলির সাথে সম্পৃক্ত কোনো চুক্তি বা সমঝোতা স্মারক স্বাক্ষর করা;\n(ত) সংশ্লিষ্ট সকল দপ্তরে ঝুঁকি সতর্কবার্তা জারীকরণ;\n(থ) ঝুঁকির স্থান চিহ্নিতকরণপূর্বক ক্ষেত্রমত, উহা নিরসনকল্পে যুগোপযোগী পদক্ষেপ গ্রহণের লক্ষ্যে সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশন সংশ্লিষ্ট ভ্যাট কমিশনারেটকে পরামর্শ প্রদান করা;\n(দ) নিয়মিত ভিত্তিতে ঝুঁকি সংক্রান্ত প্রয়োজনীয় তথ্য পর্যালোচনা ও ঝুঁকি ব্যবস্থাপনার নির্দেশকসমূহ হালনাগাদ করা;\n(ধ) আন্তঃদেশীয় সীমান্তবাণিজ্য সংশ্লিষ্ট ঝুঁকি ব্যবস্থাপনার সহিত জড়িত জাতীয়, আন্তর্জাতিক বিভিন্ন সংস্থা ও প্রতিষ্ঠানের সহিত তথ্য আদান-প্রদান এবং নিয়মিত যোগাযোগ ও সমন্বয় সাধন করা;\n(ন) বাৎসরিক প্রতিবেদন প্রণয়ন ও বোর্ডের নিকট উপস্থাপন করা; এবং\n(প) বোর্ড কর্তৃক, সময়ে সময়, প্রদত্ত অন্যান্য দায়িত্ব পালন করা।",
+      "entity_concepts": {
+        "Customs Risk Management Commissionerate": [
+          "The Customs Risk Management Commissionerate is responsible for collecting and analyzing risk data, establishing risk profiles, and implementing comprehensive risk management plans.",
+          "It manages the selectivity parameters for automated systems, maintains risk registers, and conducts research to provide policy recommendations to the National Board of Revenue.",
+          "The Commissionerate oversees risk management activities at customs stations, coordinates with international and national agencies, and ensures the protection of sensitive information.",
+          "It is empowered to collect necessary data from various government and financial institutions and may sign agreements or memoranda of understanding subject to the approval of the National Board of Revenue."
+        ],
+        "Risk Analysis": [
+          "Risk analysis involves the systematic collection and evaluation of information to identify, classify, and mitigate risks associated with customs operations.",
+          "The process incorporates techniques like targeting intelligence, artificial intelligence, and data analytics to identify high and low-risk shipments or passengers."
+        ],
+        "Risk Management System": [
+          "The automated risk management system facilitates the selectivity process for customs shipments, assigning them to different lanes such as green, blue, yellow, or red based on risk evaluation.",
+          "It serves as a central tool for monitoring, updating, and applying risk indicators to streamline customs clearance procedures."
+        ],
+        "Risk Register": [
+          "A risk register is to be maintained as an online-based tool for documenting, updating, and storing identified risks related to customs activities."
+        ],
+        "Profile": [
+          "Risk profiles are generated and subjected to periodic review, modification, and deletion to ensure they remain relevant to current customs risk trends."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue receives performance reports, provides approval for official agreements, and exercises oversight over the activities of the Customs Risk Management Commissionerate."
+        ],
+        "Economic Risk": [
+          "Economic risk is assessed by monitoring factors like tax rates, customs valuation, market conditions, and international trade agreements that influence customs operations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1225",
+      "entity_sub_entities": {
+        "Customs Risk Management Commissionerate": [
+          "risk data",
+          "risk profiles",
+          "risk management plans",
+          "selectivity parameters",
+          "automated systems",
+          "risk registers",
+          "policy recommendations",
+          "National Board of Revenue",
+          "risk management activities",
+          "customs stations",
+          "international agencies",
+          "national agencies",
+          "sensitive information",
+          "government institutions",
+          "financial institutions",
+          "agreements",
+          "memoranda of understanding"
+        ],
+        "Risk Analysis": [
+          "information",
+          "risks",
+          "customs operations",
+          "targeting intelligence",
+          "artificial intelligence",
+          "data analytics",
+          "high-risk shipments",
+          "low-risk shipments",
+          "passengers"
+        ],
+        "Risk Management System": [
+          "automated risk management system",
+          "customs shipments",
+          "green lane",
+          "blue lane",
+          "yellow lane",
+          "red lane",
+          "risk indicators",
+          "customs clearance procedures"
+        ],
+        "Risk Register": [
+          "online-based tool",
+          "identified risks",
+          "customs activities"
+        ],
+        "Profile": [
+          "risk profiles",
+          "customs risk trends"
+        ],
+        "National Board of Revenue": [
+          "performance reports",
+          "official agreements",
+          "Customs Risk Management Commissionerate"
+        ],
+        "Economic Risk": [
+          "tax rates",
+          "customs valuation",
+          "market conditions",
+          "international trade agreements",
+          "customs operations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        118,
+        135,
+        148,
+        167,
+        233,
+        361,
+        390,
+        487,
+        795,
+        1004,
+        1103,
+        1262,
+        1500,
+        1518,
+        1528,
+        1758,
+        1793,
+        1872,
+        1917,
+        1927,
+        2636,
+        2782,
+        3002,
+        3004,
+        3005,
+        3438,
+        3703,
+        3885,
+        4235,
+        4507,
+        4597,
+        4719,
+        6866,
+        6991,
+        7000,
+        8086,
+        8526,
+        8803,
+        9197,
+        9635,
+        9758,
+        9845,
+        10006,
+        10177,
+        10301,
+        10735,
+        11565,
+        12631
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "তথ্য-উপাত্ত সংগ্রহ ও বিশ্লেষণ",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_8",
+      "resolved_text": "৮। তথ্য-উপাত্ত সংগ্রহ ও বিশ্লেষণ।—(১) কাস্টমস কম্পিউটার সিস্টেম হইতে ঝুঁকি ব্যবস্থাপনার জন্য সংশ্লিষ্ট তথ্য-উপাত্ত কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেটে সংগ্রহ করিবে।\n(২) বাংলাদেশের অভ্যন্তরীণ বা বাহির হইতে বা গোপন সংবাদদাতার মাধ্যমে প্রাপ্ত যেকোনো তথ্য উপাত্ত সংগ্রহ, বিশ্লেষণ ও প্রয়োজনে সরেজমিনে যাচাইপূর্বক সত্যতা নিশ্চিত হইয়া তাহা ঝুঁকি ব্যবস্থাপনার নির্ণায়ক হিসাবে ব্যবহার করিবে।\n(৩) পণ্য চালান শুল্কায়ন পরবর্তীকালে কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর বা বাংলাদেশের যে কোনো কাস্টমস স্টেশন কর্তৃক আমদানি চালান বা রপ্তানি চালানে প্রাপ্ত অনিয়মের তথ্য বা উপাত্ত কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেটের ঝুঁকি ব্যবস্থাপনার নির্ণায়ক হিসাবে ব্যবহার করা যাইবে।",
+      "entity_concepts": {
+        "Customs Computerised Entry Processing System": [
+          "The Customs Risk Management Commissionerate is authorized to collect relevant data from the customs computer system for the purposes of risk management."
+        ],
+        "Customs Risk Management Commissionerate": [
+          "This body is responsible for collecting risk-related data from the customs computer system and verifying information gathered from domestic or international sources, including informants.",
+          "It utilizes analyzed and verified data as criteria for risk management.",
+          "It integrates data regarding irregularities found in import or export consignments from the Customs Intelligence and Investigation Directorate or any customs station into its risk management criteria."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "This directorate provides data on irregularities detected in import or export consignments to the Customs Risk Management Commissionerate for use in risk management analysis."
+        ],
+        "Customs Station": [
+          "Any customs station in Bangladesh is authorized to report irregularities discovered during post-clearance inspection to the Customs Risk Management Commissionerate for risk analysis purposes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1230",
+      "entity_sub_entities": {
+        "Customs Computerised Entry Processing System": [
+          "relevant data"
+        ],
+        "Customs Risk Management Commissionerate": [
+          "risk-related data",
+          "customs computer system",
+          "information",
+          "domestic sources",
+          "international sources",
+          "informants",
+          "analyzed and verified data",
+          "risk management criteria",
+          "irregularities",
+          "import consignments",
+          "export consignments",
+          "Customs Intelligence and Investigation Directorate",
+          "customs station"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "data",
+          "irregularities",
+          "import consignments",
+          "export consignments",
+          "Customs Risk Management Commissionerate"
+        ],
+        "Customs Station": [
+          "customs station in Bangladesh",
+          "irregularities",
+          "post-clearance inspection",
+          "Customs Risk Management Commissionerate"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        66,
+        148,
+        156,
+        167,
+        270,
+        405,
+        428,
+        944,
+        1528,
+        1872,
+        2033,
+        4669,
+        5495,
+        7002,
+        7462,
+        9065,
+        9223,
+        10773
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি",
+      "text_id": "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_3",
+      "resolved_text": "৩। ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি।— (১) ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়নের লক্ষ্যে সংশ্লিষ্ট কাস্টমস স্টেশনের কমিশনারের নিকট আমদানির স্বপক্ষে প্রয়োজনীয় দলিলাদি এবং পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের মূল্যের প্রমানক তথ্য ও দলিলাদি দাখিল করিতে হইবে।\n(২) উপ-বিধি (১) এর অধীন দাখিলকৃত দলিলাদি সঠিক থাকিলে, অনুন্য সহকারী কমিশনারের তত্ত্বাবধানে শতভাগ কায়িক পরীক্ষা (physical examination) করিয়া উক্ত পরীক্ষার প্রতিবেদনের ভিত্তিতে পণ্য-যন্ত্রপাতির, যন্ত্রাংশ ও সরঞ্জামের চালান সাময়িক শুল্কায়ন করিতে হইবে এবং বিল অব এন্ট্রির মুদ্রিত সংস্করণ (hard copy) এর উপর সুস্পষ্টরূপে ‘ফেরতের ভিত্তিতে আমদানি’ শব্দসমূহ উল্লেখ করিতে হইবে।\n(৩) কাস্টমস কম্পিউটার সিস্টেম অথবা ASYCUDA World ব্যবহৃত হয় এইরূপ কাস্টমস স্টেশনে শতভাগ কায়িক পরীক্ষা সম্পাদনের পর উল্লিখিত তথ্যাদি inspection act এ অন্তর্ভুক্ত করিতে হইবে।\n(৪) সাময়িক শুল্কায়িত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের চালানের তথ্য বৎসর ভিত্তিক সংখ্যানুক্রমিকভাবে ফেরতের ভিত্তিতে সাময়িক আমদানি রেজিস্টারে লিপিবদ্ধ করিতে হইবে।\n(৫) আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম যে উদ্দেশ্যে আমদানি করা হইয়াছে সেই উদ্দেশ্য ব্যতীত অন্য কোনো উদ্দেশ্যে বা অন্য কোনো প্রকল্পে ব্যবহার করা হইবে না অথবা অন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট বিক্রয় বা হস্তান্তর বা সরবরাহ করা হইবে না মর্মে আমদানিকারককে ৩০০ (তিনশত) টাকার নন-জুডিসিয়াল স্ট্যাম্পে একটি অঙ্গীকারনামা সংশ্লিষ্ট কমিশনারের নিকট দাখিল করিতে হইবে:\nতবে শর্ত থাকে যে, কোনো প্রকল্পের ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম অন্য কোনো প্রকল্পে ব্যবহারের ক্ষেত্রে উভয় প্রকল্পের প্রকল্প পরিচালকের সম্মতিপত্র গ্রহণ করিয়া জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর অনুমতি সাপেক্ষে উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি সংশোধনপূর্বক অন্যান্য আনুষ্ঠানিকতা নূতনভাবে সম্পন্ন করিয়া উক্ত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উল্লিখিত প্রকল্পে ব্যবহার বা হস্তান্তর করা যাইবে।\n(৬) সাময়িক শুল্কায়নকালে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের উপর প্রযোজ্য শুল্ক-করের বিপরীতে জামানত হিসাবে কোনো তফশিলী ব্যাংক হইতে শুল্ক-করের সমপরিমাণ অর্থের নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি দাখিল করিতে হইবে।\n(৭) উপ-বিধি (২) এর অধীন সাময়িক শুল্কায়ন, উপ-বিধি (৫) এর অধীন অঙ্গীকারনামা এবং উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি যথাযথভাবে সম্পাদন করা হইলে, কমিশনার অনূর্ধ্ব ১ (এক) বৎসরের মধ্যে ফেরতের ভিত্তিতে সাময়িক আমদানির অনুমতি প্রদান করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ মেয়াদ অতিক্রান্ত হইবার অন্যূন ১ (এক) মাস পূর্বে আমদানিকারক লিখিত আবেদন করিলে কমিশনার উক্ত মেয়াদ ৬ (ছয়) মাস পর্যন্ত বর্ধিত করিতে পারিবেন।\n(৮) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উপ-বিধি (৭) এ উল্লিখিত সময়ের মধ্যে যুক্তিসংগত কারণে ফেরত প্রদান করা সম্ভব না হইলে, আমদানিকারক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর নিকট সময় বৃদ্ধির জন্য আবেদন করিতে পারিবেন এবং জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) প্রাপ্ত আবেদনটি পরীক্ষা করিয়া যথাযথ বিবেচনা করিলে প্রয়োজনীয় সময় বৃদ্ধির আদেশ প্রদান করিতে পারিবেন।\n(৯) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম ত্রুটিপূর্ণ অথবা বিদ্যমান আমদানি নীতি আদেশ অথবা কাস্টমস আইন, ২০২৩ এর কোনো বিধান লঙ্ঘিত হইলে আমদানিকারক নিজ দায়িত্বে অন্যান্য পণ্যের ন্যায় সকল আনুষ্ঠানিকতা সম্পন্ন করিয়া উহা ফেরত পাঠাইবেন।\n(১০) শুল্কায়ন সংশ্লিষ্ট দলিলাদি ফেরত প্রদানকালে চূড়ান্ত শুল্কায়নের সময় উপস্থাপনের জন্য সংরক্ষণ করিতে হইবে।",
+      "entity_concepts": {
+        "Temporary Importation for Re-export": [
+          "Importers must submit necessary documentation and valuation proof to the Commissioner of Customs for the temporary importation of goods, machinery, parts, and equipment.",
+          "The goods, machinery, parts, and equipment imported under this temporary basis must be used strictly for the stated purpose and cannot be sold, transferred, or supplied to other parties without authorization.",
+          "Importers are required to provide an unconditional and continuous bank guarantee equivalent to the applicable duties and taxes as security during the temporary clearance process.",
+          "The Commissioner may grant temporary import permission for a set period, which may be extended upon timely written application by the importer, subject to further extension by the National Board of Revenue if necessary.",
+          "If goods are found to be defective or in violation of existing import policies or the Customs Act 2023, the importer is responsible for re-exporting the items after completing the required formalities."
+        ],
+        "Physical Examination": [
+          "A one-hundred percent physical examination of imported consignments must be conducted under the supervision of at least an Assistant Commissioner to ensure accuracy before temporary clearance is granted.",
+          "The findings of the physical examination must be clearly recorded in the inspection reports of the customs station."
+        ],
+        "Asycuda World System": [
+          "For customs stations utilizing the Asycuda World System, all data and information regarding the physical examination of imported goods must be officially recorded within the system's inspection modules."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs) of the National Board of Revenue has the authority to grant permission for transferring temporarily imported goods between projects and may approve further extensions of the import period beyond the standard duration upon examination of the importer's request."
+        ],
+        "Customs Act 2023": [
+          "This act governs the legal framework and compliance requirements for imported goods, including provisions regarding the violation of import rules which mandate the re-export of non-compliant items."
+        ],
+        "Bill of Entry": [
+          "Upon temporary clearance of goods, the hard copy of the Bill of Entry must be clearly marked with specific text indicating that the goods have been imported on a temporary basis for subsequent re-export."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3116",
+      "entity_sub_entities": {
+        "Temporary Importation for Re-export": [
+          "goods",
+          "machinery",
+          "parts",
+          "equipment",
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "Customs Act 2023"
+        ],
+        "Physical Examination": [
+          "imported consignments",
+          "inspection reports"
+        ],
+        "Asycuda World System": [
+          "data",
+          "information",
+          "imported goods",
+          "inspection modules"
+        ],
+        "National Board of Revenue": [
+          "Member (Customs)",
+          "temporarily imported goods"
+        ],
+        "Customs Act 2023": [
+          "imported goods"
+        ],
+        "Bill of Entry": [
+          "hard copy of the Bill of Entry",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        8,
+        13,
+        19,
+        27,
+        30,
+        33,
+        54,
+        72,
+        148,
+        166,
+        205,
+        270,
+        1071,
+        1329,
+        1679,
+        1716,
+        5020,
+        5022,
+        8615,
+        9107
+      ],
+      "source_file": "customs_sros_OCR/20250602_227-AIN_2025_49_Customs/20250602_227-AIN_2025_49_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_314",
+      "clause_title": "শুল্ক ফাঁকি অথবা আইনের লংঘন উদ্ঘাটনের জন্য পুরস্কার",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_314",
+      "resolved_text": "২১৭ক। শুল্ক ফাঁকি অথবা আইনের লংঘন উদ্ঘাটনের জন্য পুরস্কার।— এই আইন অথবা আপাততঃ বলবৎ অন্য কোন আইনের পরিপন্থী যাহা কিছুই থাকুক না কেন, বোর্ড, বিধিমালা দ্বারা, যেরূপ নির্ধারণ করে সেইরূপ পদ্ধতি এবং পরিস্থিতিতে এবং সেইরূপ পরিমাণ, নিম্ন বর্ণিত ব্যক্তিবর্গকে পুরস্কার মঞ্জুর করিতে পারিবে :\n(ক) কাস্টমস শুল্ক ফাঁকি অথবা ফাঁকি প্রচেষ্টা অথবা এই আইন বা আপাততঃ বলবৎ অন্য কোন আইন, যাহার অধীনে কোন কাস্টমস কর্মকর্তা কর অথবা অন্যান্য রাজস্ব আদায়ে ক্ষমতাপ্রাপ্ত, এর কোন বিধানের লংঘন সম্পর্কিত বিষয় কাস্টমস কর্তৃপক্ষের নিকট সংবাদ প্রদানকারী কোন ব্যক্তি ;\n(খ) কোন কাস্টমস কর্মকর্তা অথবা অন্য কোন সরকারী সংস্থা অথবা স্থানীয় কর্তৃপক্ষের কর্মকর্তা অথবা কর্মচারী, যিনি কাস্টমস শুল্ক ফাঁকি অথবা ফাঁকি প্রচেষ্টা অথবা এই আইন অথবা অন্য কোন আইনের লংঘন উদ্ঘাটন করেন ;\nযদি উক্তরূপ সংবাদ সরবরাহ, কাস্টমস-শুল্ক ফাঁকি অথবা ফাঁকি প্রচেষ্টা অথবা আইন লংঘন উদ্ঘাটনের অথবা উন্মোচনের কার্য নিম্নবর্ণিত ফলপ্রসূভাবে সমাপ্ত হয়ঃ-\n(অ) ফাঁকি অথবা ফাঁকি প্রচেষ্টা অথবা লংঘনের ঘটনার সাথে সংশ্লিষ্ট পণ্য অথবা অন্য কোন বস্তুর আটক এবং বাজেয়াপ্তকরণ ; অথবা\n(আ) এই আইন অথবা আপাততঃ বলবৎ অন্য কোন আইনের অধীন আরোপযোগ্য কাস্টমস শুল্ক অথবা অন্য কোন রাজস্ব আদায় অথবা সংশ্লিষ্ট আইনের অধীন অর্থদণ্ড অথবা জরিমানা আরোপ; অথবা\n(ই) উক্ত ফাঁকি অথবা ফাঁকি প্রচেষ্টা অথবা লংঘনের জন্য দায়ী ব্যক্তির বিরুদ্ধে অভিযোগ দায়ের অথবা তাহার উপর দণ্ড আরোপ।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to establish procedures, conditions, and amounts for granting rewards related to the detection of customs duty evasion or violations of customs law."
+        ],
+        "Customs Reward Mechanism": [
+          "The reward mechanism applies to individuals who provide information leading to the detection of customs duty evasion or violations of customs-related laws.",
+          "Customs officials or other government employees who successfully uncover duty evasion or violations are eligible for these rewards.",
+          "The awarding of a reward is contingent upon successful outcomes, such as the seizure and confiscation of goods, the recovery of customs duties or penalties, or the successful prosecution of the offender."
+        ],
+        "Customs Duty": [
+          "The evasion or attempted evasion of customs duty serves as a primary trigger for the reward mechanism under the Customs Act 1969."
+        ],
+        "Customs Authority": [
+          "The Customs Authority acts as the receiving entity for reports concerning customs duty evasion or violations, which forms the basis for potential rewards."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_318",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "procedures",
+          "conditions",
+          "amounts",
+          "rewards",
+          "customs duty evasion",
+          "violations of customs law"
+        ],
+        "Customs Reward Mechanism": [
+          "individuals",
+          "information",
+          "customs duty evasion",
+          "violations of customs-related laws",
+          "customs officials",
+          "government employees",
+          "seizure and confiscation of goods",
+          "recovery of customs duties",
+          "penalties",
+          "prosecution of the offender"
+        ],
+        "Customs Duty": [
+          "customs duty",
+          "Customs Act 1969"
+        ],
+        "Customs Authority": [
+          "reports",
+          "customs duty evasion",
+          "violations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        10,
+        23,
+        46,
+        87,
+        99,
+        148,
+        150,
+        236,
+        274,
+        1035,
+        1301,
+        1527,
+        2450,
+        3191,
+        6986,
+        8521,
+        11077,
+        11269,
+        12084
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_45",
+      "clause_title": "অসত্য ঘোষণা, ভুল, ইত্যাদি",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_45",
+      "resolved_text": "৩২। অসত্য ঘোষণা, ভুল, ইত্যাদি।— (১) যদি কোন ব্যক্তি কাস্টমস সংশ্লিষ্ট কোন বিষয়ে, -\n\n(ক) কোন কাস্টমস কর্মকর্তার নিকট কোন ঘোষণা, নোটিশ, প্রত্যয়নপত্র অথবা অন্য যে কোন দলিল প্রদান অথবা স্বাক্ষর করেন অথবা অর্পণ করেন বা অর্পণ করার ব্যবস্থা করেন ; অথবা\n\n(খ) এই আইনের দ্বারা অথবা অধীন কোন প্রশ্নের উত্তর প্রদান বাধ্যবাধকতা রহিয়াছে কোন কাস্টমস কর্মকর্তা কর্তৃক জিজ্ঞাসিত সেইরূপ প্রশ্নের জবাবে কোন ঘোষণা প্রদান করেন ; অথবা\n\n(গ) ইলেকট্রনিক যন্ত্রের মাধ্যমে কোন ঘোষণা, দলিল, তথ্য অথবা রেকর্ড প্রেরণ করেন অথবা তাহাদের সফট কপি উপস্থাপন করেন, এবং উক্ত দলিল অথবা ঘোষণা বস্তুগত তথ্যে অসত্য হয়, তাহা হইলে তিনি এই ধারার অধীন অপরাধে দোষী সাব্যস্ত হইবেন।\n\n(২) যে ক্ষেত্রে উক্তরূপ দলিলের অথবা ঘোষণার কারণে অথবা কোন সহযোগিতার কারণে কোন শুল্ক অথবা চার্জ আরোপ করা হয় নাই অথবা কম আরোপিত হইয়াছে অথবা ভুলক্রমে ফেরত প্রদান করা হইয়াছে সেই ক্ষেত্রে যে ব্যক্তি উক্ত কারণে কোন অর্থ পরিশোধের জন্য দায়বদ্ধ তাহার উপর নোটিশে উল্লেখিত পরিমাণ অর্থ তিনি কেন পরিশোধ করিবেন না উহার কারণ দর্শানোর জন্য নোটিশ জারী করা হইবে।\n\n(৩) যে ক্ষেত্রে অসাবধানতা, ভ্রান্তি অথবা ভুল ব্যাখ্যার কারণে, পরিমাণে এক হাজার টাকার নিম্নে নহে, এমন কোন শুল্ক অথবা চার্জ আরোপ করা হয় নাই অথবা কম আরোপিত হইয়াছে অথবা ভুলক্রমে ফেরত প্রদান করা হইয়াছে সেই ক্ষেত্রে যে ব্যক্তি উক্ত কারণে কোন অর্থ পরিশোধের জন্য দায়বদ্ধ তাহার উপর প্রাসঙ্গিক তারিখ হইতে তিন বৎসরের মধ্যে নোটিশে উল্লেখিত পরিমাণ অর্থ তিনি কেন পরিশোধ করিবেন না উহার কারণ দর্শানোর জন্য নোটিশ জারী করা হইবে।\n\n(৪) উপ-ধারা (২) এবং (৩) এ বর্ণিত ব্যক্তির যদি কোন বক্তব্য থাকে তাহা হইলে যথোপযুক্ত কর্মকর্তা তাহা বিবেচনায়পূর্বক উক্ত ব্যক্তি কর্তৃক প্রদেয় শুল্কের পরিমাণ নির্ধারণ করিবেন, যাহা নোটিশে উল্লেখিত অর্থের পরিমাণ কোন ক্রমেই অতিক্রম করিবে না, এবং উক্ত ব্যক্তি নির্ধারিত পরিমাণ অর্থ পরিশোধ করিবেন :\n\nতবে শর্ত থাকে যে, যে ক্ষেত্রে উক্তরূপ নির্ধারিত অর্থের পরিমাণ এক হাজার টাকার নিম্নে হয় সেই ক্ষেত্রে সংশ্লিষ্ট ব্যক্তিকে উহা পরিশোধ করিতে হইবে না।\n\n(৫) এই ধারার উদ্দেশ্যে অভিব্যক্তি “প্রাসঙ্গিক তারিখ” অর্থ-\n(ক) যে ক্ষেত্রে শুল্ক আরোপিত হয় নাই সেই ক্ষেত্রে পণ্য খালাসের আদেশ প্রদান করার তারিখ;\n(খ) যে ক্ষেত্রে ধারা ৮১ এর অধীন শুল্ক সাময়িকভাবে নিরূপিত হয় সেই ক্ষেত্রে চূড়ান্ত শুল্কায়নের পর শুল্ক সমন্বয় করার তারিখ ;\n(গ) যে ক্ষেত্রে শুল্ক বা চার্জ ভুলক্রমে ফেরত প্রদান করা হইয়াছে সেই ক্ষেত্রে উহা ফেরত প্রদানের তারিখ ;\n(ন) অন্যান্য যে কোন ক্ষেত্রে শুল্ক অথবা চার্জ পরিশোধ করার তারিখ।",
+      "entity_concepts": {
+        "Customs Offence": [
+          "It is considered a punishable offence under this Act if a person submits, signs, or presents any document, declaration, or information to a customs officer, or transmits the same electronically, which contains materially false or incorrect information.",
+          "This provision applies to declarations made in response to inquiries where there is a legal obligation to provide answers."
+        ],
+        "Customs Duty": [
+          "In cases where incorrect declarations or documentation lead to the non-payment, under-payment, or erroneous refund of duties or charges, the person liable is issued a show-cause notice requiring them to justify why the outstanding amount should not be paid.",
+          "The law establishes procedures for the determination and recovery of duties that were not initially charged or were erroneously refunded due to mistakes, inadvertence, or misinterpretation, provided the amount meets a specified threshold."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer has the authority to issue show-cause notices for the recovery of unpaid or erroneously refunded duties and to consider the representations made by the liable person before finalizing the amount to be paid.",
+          "Finalized payments determined by the officer cannot exceed the amount originally stated in the show-cause notice, and duties below a specific minimal threshold are exempt from recovery."
+        ],
+        "Relevant Date": [
+          "This term is legally defined to determine the starting point for recovery actions in specific scenarios, such as the date of the order for clearance of goods, the date of adjustment after final assessment, the date of erroneous refund, or the date of payment of duty in other cases."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_49",
+      "entity_sub_entities": {
+        "Customs Offence": [
+          "document",
+          "declaration",
+          "information"
+        ],
+        "Customs Duty": [
+          "duties",
+          "charges",
+          "show-cause notice",
+          "outstanding amount"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "show-cause notices",
+          "liable person"
+        ],
+        "Relevant Date": [
+          "date of the order for clearance of goods",
+          "date of adjustment after final assessment",
+          "date of erroneous refund",
+          "date of payment of duty"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        17,
+        30,
+        69,
+        115,
+        148,
+        242,
+        251,
+        378,
+        726,
+        764,
+        2914,
+        4670,
+        7112,
+        7115,
+        7121,
+        7128,
+        9463
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_95",
+      "clause_title": "নিবন্ধিত ব্যবহারকারী",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_95",
+      "resolved_text": "৭৯গ। নিবন্ধিত ব্যবহারকারী।— (১) কাস্টমস কম্পিউটার সিস্টেমের ব্যবহারকারী হিসাবে নিবন্ধিত হইতে ইচ্ছুক কোন ব্যক্তি নির্ধারিত ফরমে কমিশনার অব কাস্টমস এর নিকট লিখিত আবেদন করিতে পারিবেন এবং আবেদনের ব্যাপারে কমিশনার কর্তৃক নির্দেশিত তথ্য সরবরাহ করিবেন।\n\n(২) আবেদনের উদ্দেশ্যে উক্ত কমিশনার যেরূপ প্রয়োজন মনে করেন সেইরূপ অতিরিক্ত তথ্য প্রদানের জন্য তিনি নিবন্ধনের জন্য আবেদনকারীকে নির্দেশ দিতে পারিবেন।\n\n(৩) উক্ত কমিশনার -\n(ক) যেরূপ উপযুক্ত বিবেচনা করেন সেইরূপ শর্ত এবং পরিসীমা সাপেক্ষে আবেদনপত্রটি মঞ্জুর করিতে ;\nঅথবা\n(খ) আবেদনপত্রটি নামঞ্জুর করিতে পারিবেন।\n\n(৪) উক্ত কমিশনার তাহার সিদ্ধান্তের নোটিশ লিখিতভাবে আবেদনকারীকে প্রদান করিবেন।",
+      "entity_concepts": {
+        "Customs Computerised Entry Processing System": [
+          "A person wishing to become a registered user of the customs computerized system must submit a written application to the Commissioner of Customs in the prescribed form.",
+          "Applicants are required to provide all information requested by the Commissioner to support their registration process."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is authorized to receive registration applications and may request any additional information deemed necessary for the approval process.",
+          "The Commissioner has the authority to grant registration subject to specific terms and conditions, or to reject an application.",
+          "The Commissioner is required to notify the applicant of their decision regarding the registration in writing."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_99",
+      "entity_sub_entities": {
+        "Customs Computerised Entry Processing System": [
+          "registered user",
+          "written application",
+          "Commissioner of Customs",
+          "prescribed form",
+          "information"
+        ],
+        "Commissioner of Customs": [
+          "registration applications",
+          "additional information",
+          "terms and conditions",
+          "application",
+          "decision",
+          "applicant"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        58,
+        66,
+        104,
+        148,
+        214,
+        351,
+        436,
+        527,
+        821,
+        1285,
+        3324
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_99",
+      "clause_title": "প্রেরণের নথি কাস্টমস সংরক্ষণ করিবে",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_99",
+      "resolved_text": "৭৯ছ। প্রেরণের নথি কাস্টমস সংরক্ষণ করিবে।— (১) কাস্টমস কম্পিউটার সিস্টেমে নিবন্ধিত ব্যবহারকারীর নিকট হইতে প্রেরিত অথবা প্রাপ্ত প্রতিটি তথ্যের নথি কাস্টমস অবশ্যই সংরক্ষণ করিবে।\n\n(২) এই ধারার উপধারা (১) এ বর্ণিত নথি উহা প্রেরণের অথবা প্রাপ্তির তারিখ হইতে পাঁচ বৎসর মেয়াদের জন্য অথবা যেরূপ নির্ধারিত হয় সেইরূপ অন্য কোন মেয়াদের জন্য সংরক্ষণ করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Computerised Entry Processing System": [
+          "The customs authority is required to maintain records of all information sent by or received from registered users within the customs computerized system."
+        ],
+        "Customs Documentation": [
+          "Records stored in the customs system must be maintained for a period of five years from the date of submission or receipt, or for such other period as may be prescribed."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_103",
+      "entity_sub_entities": {
+        "Customs Computerised Entry Processing System": [
+          "customs authority",
+          "records",
+          "information",
+          "registered users",
+          "customs computerized system"
+        ],
+        "Customs Documentation": [
+          "records",
+          "customs system"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        66,
+        131,
+        148,
+        317,
+        696,
+        720,
+        1186
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_101",
+      "clause_title": "Provisional assessment of duty",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_101",
+      "resolved_text": "81. Provisional assessment of duty.- (1) Where it is not possible immediately to assess the customs-duty that may be payable on any imported goods entered for home-consumption or for warehousing or for clearance from a warehouse for home-consumption or on any goods entered for exportation, for the reason that the goods require chemical or other test 1[or a further enquiry] for purposes of assessment, or that all the documents or complete documents or full information pertaining to those goods have not been furnished, an officer not below the rank of 2[Assistant Commissioner of Customs] may order that the duty payable on such goods be assessed provisionally:\nProvided that the importer (same in the case of goods entered for warehousing) or the exporter pays such additional amount as security or furnishes such guarantee of a scheduled bank for the payment thereof as the said officer deems sufficient to meet the excess of the final assessment of duty over the provisional assessment.\n[(2) Where any goods are allowed to be cleared or delivered on the basis of such provisional assessment, the amount of duty actually payable on those goods shall, within a period of one hundred and twenty working days from the date of the provisional assessment, where there is a case pending at any court, tribunal or appellate authority, from the date of receipt of the final disposal order of that case, be finally assessed and on completion of such assessment the appropriate officer shall order that the amount already guaranteed be adjusted against the amount payable on the basis of final assessment, and the difference between them shall be paid forthwith to or by the importer or exporter as the case may be:\nProvided that the Board may, under exceptional circumstances recorded in writing, extend the period of final assessment specified under this sub-section.]",
+      "entity_concepts": {
+        "Provisional Assessment of Customs Duty": [
+          "This mechanism allows for the assessment of duty on imported or exported goods when immediate final assessment is not possible due to the need for testing, further enquiry, or incomplete documentation.",
+          "The officer, who must be at least of the rank of an Assistant Commissioner of Customs, may authorize this process provided that adequate security or a scheduled bank guarantee is furnished to cover any potential excess duty determined upon final assessment."
+        ],
+        "Assistant Commissioner of Customs": [
+          "This officer is the minimum authority empowered to order the provisional assessment of duty for goods entered for home consumption, warehousing, or exportation."
+        ],
+        "Imported or Exported Goods": [
+          "Goods subject to provisional assessment require either chemical testing, other types of analysis, or additional information and documentation before their final duty liability can be determined."
+        ],
+        "Scheduled Bank": [
+          "A guarantee from a scheduled bank may be furnished by the importer or exporter as security for the payment of duty pending the finalization of the assessment."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to extend the statutory time limit for final assessment under exceptional circumstances that must be recorded in writing."
+        ],
+        "Importer": [
+          "The importer is responsible for providing the necessary security or bank guarantee to cover duty payments and is liable to pay or receive the difference once the final assessment is completed."
+        ],
+        "Exporter": [
+          "The exporter is required to provide the necessary security or bank guarantee for provisional assessment cases and must settle any difference between the provisionally paid amount and the final assessed duty."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_428",
+      "entity_sub_entities": {
+        "Provisional Assessment of Customs Duty": [
+          "imported goods",
+          "exported goods",
+          "duty",
+          "security",
+          "scheduled bank guarantee"
+        ],
+        "Assistant Commissioner of Customs": [
+          "goods",
+          "home consumption",
+          "warehousing",
+          "exportation"
+        ],
+        "Imported or Exported Goods": [
+          "chemical testing",
+          "analysis",
+          "information",
+          "documentation",
+          "duty liability"
+        ],
+        "Scheduled Bank": [
+          "guarantee",
+          "importer",
+          "exporter",
+          "security",
+          "duty"
+        ],
+        "National Board of Revenue": [
+          "statutory time limit",
+          "final assessment"
+        ],
+        "Importer": [
+          "security",
+          "bank guarantee",
+          "duty payments",
+          "final assessment"
+        ],
+        "Exporter": [
+          "security",
+          "bank guarantee",
+          "provisional assessment",
+          "final assessed duty"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        8,
+        39,
+        63,
+        77,
+        78,
+        109,
+        142,
+        148,
+        166,
+        209,
+        407,
+        830,
+        1053,
+        1062,
+        1099,
+        1272,
+        1291,
+        1374,
+        1681,
+        2209,
+        2677,
+        2721,
+        4944,
+        5489,
+        8059,
+        11870
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_276",
+      "clause_title": "Reward for detection etc. of evasion of duties or violation of laws",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_276",
+      "resolved_text": "3[217A. Reward for detection etc. of evasion of duties or violation of laws.- Notwithstanding anything contained to the contrary in this Act or any other law for time being in force, the Board may, in such manner and in such circumstances and to such extent as may be prescribed by rules, grant reward to the following persons :-\n(a) a person giving information to Customs Authorities with regard to evasion or attempted evasion of customs duties or violation of any provision of this Act or any other law for the time being in force under which a customs officer is authorised to collect tax or other revenue;\n(b) 45[an officer or employee of Customs] or an officer or employee of any other government agency or of a local authority who detects or unearths the evasion or attempted evasion of customs duties or violation of this Act or that other law;\n\nif such supply of information, the act of detection of or unearthing the evasion or attempted evasion of customs duty or violation of law leads to :-\n(i) the seizure and confiscation of goods or other things in relation to which the evasion or attempted evasion or violation takes place; or\n(ii) the realisation of customs duty or other revenue leviable under this Act or that other law for the time being in force or the realisation of a penalty or fine imposed under the relevant law; or\n(iii) conviction of and sentence imposed on the person liable for such evasion, attempted evasion or violation.]",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to grant rewards to eligible persons for the detection of customs duty evasion or legal violations, subject to the procedures and circumstances prescribed by rules."
+        ],
+        "Person": [
+          "A person who provides information regarding the evasion of customs duties or violations of relevant customs laws to customs authorities is eligible to receive a reward."
+        ],
+        "Customs Officer and Employee": [
+          "Officers or employees of the customs department who detect or unearth the evasion of customs duties or other legal violations are eligible to be granted rewards."
+        ],
+        "Government Revenue Collection": [
+          "Rewards may be granted when information or detection leads to the successful realization of customs duties, other government revenues, or the recovery of penalties and fines."
+        ],
+        "Seizure of Goods": [
+          "The seizure and subsequent confiscation of goods related to duty evasion or legal violations serve as a condition upon which rewards can be granted to the reporting or detecting party."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_603",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "customs duty evasion",
+          "legal violations"
+        ],
+        "Person": [
+          "person",
+          "information",
+          "customs duties",
+          "customs laws",
+          "reward"
+        ],
+        "Customs Officer and Employee": [
+          "officers",
+          "employees",
+          "customs department",
+          "customs duties",
+          "legal violations",
+          "rewards"
+        ],
+        "Government Revenue Collection": [
+          "customs duties",
+          "government revenues",
+          "penalties",
+          "fines"
+        ],
+        "Seizure of Goods": [
+          "seizure",
+          "confiscation",
+          "goods",
+          "duty evasion",
+          "legal violations",
+          "rewards"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        14,
+        46,
+        70,
+        148,
+        197,
+        245,
+        273,
+        392,
+        511,
+        591,
+        1033,
+        1035,
+        1275,
+        1301,
+        1310,
+        1474,
+        1527,
+        3751,
+        4088
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_280",
+      "clause_title": "Power to make customs rulings",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_280",
+      "resolved_text": "4[219A. Power to make customs rulings.- (1) On an application by any person or on a reference by an officer of customs not below the rank of Commissioner or of its own motion, the Board may make customs rulings in respect of any matter specified in the application or reference, as the case may be, if the point raised in the application or reference relates to application of any provision of this Act or the rules to a specific situation or if such point relates to any tariff classification or duty rates or valuation of any goods for customs assessment purpose.\n(2) A customs ruling may be made within thirty working days of the receipt of the application or the reference, as the case may be.\n(3) The Board may decline to make a customs ruling on the ground of insufficient information furnished or in the absence of conclusive evidence provided in support of the contentions in the application or the reference.\n(4) The rulings made by the Board shall be binding upon the concerned persons and officers.\n(5) The Board may from time to time review and amend a customs ruling to correct any error contained in that ruling.]",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Board is empowered to issue customs rulings upon request by a person, a reference from a senior customs officer, or on its own motion.",
+          "The Board may decline to issue a ruling if the provided information or evidence is insufficient to support the contentions.",
+          "The Board has the authority to review and amend existing customs rulings to rectify any errors."
+        ],
+        "Customs Ruling": [
+          "A customs ruling may address matters related to the application of customs laws and rules, tariff classification, duty rates, or the valuation of goods.",
+          "A ruling must be issued within a specified timeframe after the receipt of the relevant application or reference.",
+          "Once issued, customs rulings are legally binding on both the concerned persons and the relevant customs officers."
+        ],
+        "Person": [
+          "Any person may submit an application to the Board to obtain a formal customs ruling regarding a specific situation."
+        ],
+        "Officer of Customs": [
+          "Officers of customs at or above the rank of Commissioner may make a reference to the Board for the issuance of a customs ruling.",
+          "Customs officers are bound by the customs rulings issued by the Board."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_607",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Board",
+          "customs rulings",
+          "information",
+          "evidence"
+        ],
+        "Customs Ruling": [
+          "customs laws",
+          "rules",
+          "tariff classification",
+          "duty rates",
+          "valuation of goods",
+          "application",
+          "reference",
+          "concerned persons",
+          "customs officers"
+        ],
+        "Person": [
+          "person",
+          "application",
+          "customs ruling"
+        ],
+        "Officer of Customs": [
+          "Officers of customs",
+          "Commissioner",
+          "reference",
+          "customs ruling",
+          "Board"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        29,
+        58,
+        64,
+        70,
+        97,
+        111,
+        148,
+        197,
+        301,
+        320,
+        566,
+        956,
+        1365,
+        2620,
+        2980,
+        5102,
+        6596
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_35",
+      "clause_title": "Further powers in relation to documents",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_35",
+      "resolved_text": "26A. Further powers in relation to documents.- An officer of Customs not below the rank of Joint Commissioner may, by notice in writing, require any person (including any officer employed in or in connection with any Government department, Corporation, or local authority, or any officer employed in or in connection with any bank), as and when required to-\n(a) produce for inspection by an officer of Customs any documents or records that the Joint Commissioner considers necessary or relevant to an investigation or audit under this Act;\n(b) allow the officer of Customs to make copies of or extracts from any such documents or records;\n(c) appear before the Joint Commissioner of Customs and answer all questions put to him concerning any goods or any transactions relating to those goods that are the subject of any such investigation, or concerning the documents or records that are relevant to any such investigation.",
+      "entity_concepts": {
+        "Joint Commissioner of Customs": [
+          "The Joint Commissioner of Customs is empowered to issue written notices requiring any person, including government or bank officials, to produce documents or records for customs inspection. They are further authorized to compel persons to appear before them to answer questions regarding goods, transactions, or relevant records during an investigation or audit."
+        ],
+        "Officer of Customs": [
+          "An officer of Customs not below the rank of Joint Commissioner has the authority to examine documents or records produced under notice. Additionally, they are permitted to make copies of or take extracts from any such documents or records provided for inspection."
+        ],
+        "Person": [
+          "Any individual, including officers employed by government departments, corporations, local authorities, or banks, is legally obligated to comply with a written notice to produce documents or records for inspection. Such individuals may also be required to appear before the Joint Commissioner of Customs to provide testimony regarding goods or transactions subject to a customs investigation."
+        ],
+        "Customs Documentation and Records": [
+          "Documents and records deemed necessary for a customs investigation or audit must be produced for inspection upon request by a qualified Customs official. These materials are subject to being copied or extracted by the customs officer to facilitate official oversight."
+        ],
+        "Customs Investigation and Audit": [
+          "The Joint Commissioner of Customs possesses broad authority to request information and documentation when deemed relevant to an investigation or audit conducted under the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_362",
+      "entity_sub_entities": {
+        "Joint Commissioner of Customs": [
+          "written notices",
+          "documents",
+          "records",
+          "goods",
+          "transactions"
+        ],
+        "Officer of Customs": [
+          "documents",
+          "records",
+          "copies",
+          "extracts"
+        ],
+        "Person": [
+          "individual",
+          "officers",
+          "government departments",
+          "corporations",
+          "local authorities",
+          "banks",
+          "written notice",
+          "documents",
+          "records",
+          "goods",
+          "transactions"
+        ],
+        "Customs Documentation and Records": [
+          "documents",
+          "records"
+        ],
+        "Customs Investigation and Audit": [
+          "information",
+          "documentation",
+          "Customs Act 1969"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        59,
+        63,
+        70,
+        97,
+        131,
+        148,
+        273,
+        539,
+        650,
+        710,
+        816,
+        1341,
+        1493,
+        1663,
+        1822,
+        2123,
+        3686,
+        3744
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_61",
+      "clause_title": "Power to require production of documents and ask questions",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_61",
+      "resolved_text": "48. Power to require production of documents and ask questions.- (1) When an import manifest is presented, the person-in-charge of a conveyance or his duly authorised agent, if required so to do by the appropriate officer, shall deliver to the officer the bill of lading or the bill of freight or a copy thereof for every part of cargo or goods laden or board, journey log-book and any port clearance, docket or other paper granted in respect of such conveyance at the place from which it is stated to have come, and shall answer all such questions relating to the conveyance, goods, crew7[, passengers] and voyage or journey as are put to him by such officer.\n(2) The appropriate officer may, if any requisition or question made or put by him under this section is not complied with or answered, refuse to grant permission to a vessel to break bulk and to other conveyance to land the imported goods, as the case may be.",
+      "entity_concepts": {
+        "Import Manifest": [
+          "The presentation of an import manifest triggers the authority of customs officers to request specific documents and information from the person in charge of a conveyance."
+        ],
+        "Person in Charge of Conveyance": [
+          "The person in charge of a conveyance or their authorized agent is legally obligated to produce transport documents and answer questions regarding the cargo, crew, passengers, and journey upon request by an appropriate officer of customs."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer of customs has the authority to demand production of shipping documents and to pose questions to the person in charge of a conveyance.",
+          "The officer is empowered to refuse permission for a vessel to break bulk or for other conveyances to land imported goods if their requisitions for documents or answers to questions are not satisfied."
+        ],
+        "Bill of Lading": [
+          "The person in charge of a conveyance must deliver the bill of lading or a copy thereof for the cargo upon the request of an appropriate officer of customs."
+        ],
+        "Port Clearance": [
+          "The person in charge of a conveyance must produce port clearance and other related papers issued at the point of origin when required by an appropriate officer of customs."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_388",
+      "entity_sub_entities": {
+        "Import Manifest": [
+          "import manifest",
+          "documents",
+          "information"
+        ],
+        "Person in Charge of Conveyance": [
+          "person in charge of a conveyance",
+          "authorized agent",
+          "transport documents",
+          "cargo",
+          "crew",
+          "passengers",
+          "journey"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer of customs",
+          "shipping documents",
+          "vessel",
+          "conveyances",
+          "imported goods"
+        ],
+        "Bill of Lading": [
+          "bill of lading",
+          "cargo"
+        ],
+        "Port Clearance": [
+          "port clearance",
+          "related papers"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        17,
+        59,
+        71,
+        80,
+        113,
+        135,
+        148,
+        172,
+        268,
+        280,
+        294,
+        357,
+        431,
+        730,
+        836,
+        883,
+        2118,
+        11388
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_94",
+      "clause_title": "Access to Customs computer systems",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_94",
+      "resolved_text": "79B. Access to 3[Customs computer] systems.- No person shall transmit to, or receive information from, a 3[Customs computer] system unless that person is registered by the Commissioner of Customs as a user of that 3[Customs computer] system.",
+      "entity_concepts": {
+        "Customs Computerised System": [
+          "The transmission of information to or from the customs computer system is restricted to ensure only authorized interaction with the digital customs infrastructure.",
+          "Access to this system is contingent upon the formal registration of a person as a valid user by the relevant authority."
+        ],
+        "Commissioner of Customs": [
+          "This official is empowered to register persons as users, thereby granting them the legal authority to transmit or receive information through the customs computerised system."
+        ],
+        "Registered User": [
+          "Only individuals who have been formally registered by the Commissioner of Customs are permitted to interact with the customs computerised system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_421",
+      "entity_sub_entities": {
+        "Customs Computerised System": [
+          "information",
+          "customs computer system",
+          "digital customs infrastructure",
+          "system"
+        ],
+        "Commissioner of Customs": [
+          "official",
+          "persons",
+          "users",
+          "information",
+          "customs computerised system"
+        ],
+        "Registered User": [
+          "individuals",
+          "Commissioner of Customs",
+          "customs computerised system"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        148,
+        156,
+        203,
+        214,
+        236,
+        339,
+        495,
+        1484,
+        5098,
+        7319
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_95",
+      "clause_title": "Registered users",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_95",
+      "resolved_text": "79C. Registered users.- (1) A person who wishes to be registered as a user of a 3[Customs computer] system may apply in writing to the Commissioner of Customs in the prescribed form and shall provide such information in relation to the application as required by the Commissioner.\n(2) The said Commissioner may require an applicant for registration to give such additional information as the said Commissioner considers necessary for the purpose of the application.\n(3) The said Commissioner may-\n(a) grant the application subject to such conditions and limitations as the said Commissioner thinks fit; or\n(b) refuse the application.\n(4) The said Commissioner shall give notice in writing to the applicant of his decision.",
+      "entity_concepts": {
+        "Registered User": [
+          "A person seeking to become a registered user of a customs computer system must submit an application to the Commissioner of Customs.",
+          "The application process requires the submission of information in a prescribed format, and applicants may be requested to provide additional details as deemed necessary by the Commissioner of Customs."
+        ],
+        "Customs Computerised System": [
+          "This system allows for the registration of users who wish to access customs-related digital processes."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs has the authority to process, approve, or refuse applications for user registration, and may impose specific conditions or limitations on such registration.",
+          "The Commissioner is responsible for notifying the applicant of the final decision regarding their registration request in writing."
+        ],
+        "Application Form": [
+          "Applicants are required to submit their request for registration using the prescribed application form."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_422",
+      "entity_sub_entities": {
+        "Registered User": [
+          "person",
+          "application",
+          "information",
+          "additional details"
+        ],
+        "Customs Computerised System": [
+          "customs-related digital processes"
+        ],
+        "Commissioner of Customs": [
+          "applications",
+          "user registration",
+          "conditions",
+          "limitations",
+          "final decision",
+          "registration request"
+        ],
+        "Application Form": [
+          "request for registration",
+          "prescribed application form"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        58,
+        68,
+        70,
+        99,
+        148,
+        203,
+        214,
+        331,
+        560,
+        2044,
+        3324,
+        5308,
+        7049,
+        10864,
+        11476,
+        13135
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তৃতীয় তফসিল",
+      "text_id": "metadata_25",
+      "resolved_text": "তৃতীয় তফসিল\n\n১। আমদানিকৃত অথবা রপ্তানিযোগ্য নিষিদ্ধ পণ্য আটক এবং বাজেয়াপ্তির জন্য কার্যধারার প্রবিধান, যাহাতে উক্ত পণ্যের সাথে সম্পর্কিত তথ্য যাচাই, মালিক অথবা অন্য পক্ষকে প্রদান করার নোটিশ, উক্ত পণ্যের হেফাজত অথবা খালাসের জন্য জামানত, সাক্ষ্যের পরীক্ষা, সংবাদদাতা কর্তৃক ভুল সংবাদ সরবরাহ করার কারণে ব্যয় এবং ক্ষতির পুনর্বণ্টন অন্তর্ভুক্ত হইবে।\n২। পরবর্তীকালে রপ্তানির উদ্দেশ্যে আমদানিকৃত অথবা বিধিতে উল্লিখিত পণ্যের উৎপাদন, প্রস্তুতকরণ, প্রক্রিয়াজাতকরণ, মেরামত বা পুনঃসংযোজন ব্যবহার্য পণ্য অথবা উপকরণ সম্পূর্ণ অথবা আংশিক শুল্ক পরিশোধ ব্যতিরেকে খালাস প্রদান করা যাইবে এমন ক্ষেত্র সমূহ; এবং উক্ত পণ্য ও উপকরণের উপর শুল্ক প্রত্যর্পণ।\n৩। আমদানিকৃত অথবা রপ্তানিযোগ্য পণ্যের মূল্যায়ন; আমদানিকারক অথবা রপ্তানিকারক কর্তৃক পণ্যের যথাযথ মূল্যায়নের জন্য প্রয়োজনীয় তথ্য দাখিল; এবং তৎকর্তৃক সংশ্লিষ্ট পুস্তক এবং নথিপত্র উপস্থাপন; আমদানিকারক কর্তৃক যে অর্থ বা সম্পদ দ্বারা পণ্য অর্জিত হইয়াছে উহার উৎস, প্রকৃতি এবং পরিমাণ সম্পর্কিত অথবা যে বিবেচনার জন্য এবং যে উপায়ে উহা বিক্রয় করা হইয়াছে সেই সম্পর্কিত তথ্য সরবরাহ।\n৪। পানাহার অনুপযোগী স্পিরিট নির্ধারণ, এবং স্পিরিটের রাসায়নিক পরীক্ষা এবং পানাহার অনুপযোগীকারণ।\n৫। প্রত্যর্পণ সম্পর্কিত বিষয়াদি; ব্যবহৃত পণ্যের ক্ষেত্রে প্রত্যর্পণ, উক্ত পণ্যের উপর যে প্রত্যর্পণ ফেরত প্রদান করা হইবে সেই শুল্কের পরিমাণ; কোন নির্ধারিত পণ্য অথবা পণ্যশ্রেণীর উপর প্রত্যর্পণ নিষিদ্ধকরণ; প্রত্যর্পণ পরিশোধের জন্য শর্তাবলী; যে মেয়াদের মধ্যে উক্ত পণ্য অবশ্যই রপ্তানি করিতে হইবে উহা সীমিতকরণ; যে সময়ের মধ্যে প্রত্যর্পণ দাবী করা যাইবে উহা সীমিতকরণ।\n৬। যে মাত্রার এবং শর্তাবলীর অধীনে রপ্তানি করা হইবে এমন পণ্য বাংলাদেশে প্রস্তুতকরণে ব্যবহৃত আমদানিকৃত উপকরণের উপর প্রত্যর্পণ মঞ্জুর করা যাইবে।\n৭। পোর্ট-ক্লিয়ারেন্স অথবা যানবাহনের প্রস্থান সম্পর্কিত বিষয়াদি; খোল উন্মুক্ত করার অনুমতি সম্বলিত বিশেষ পাশ মঞ্জুর; রপ্তানি মেনিফেস্ট এবং অন্যান্য দলিলপত্র অর্পণের জন্য এজেন্ট কর্তৃক জামানত দাখিলের ক্ষেত্রে জাহাজের মাস্টারকে পোর্ট-ক্লিয়ারেন্স মঞ্জুর করা সম্পর্কিত শর্তাবলী।\n৮। ট্রানজিট পণ্য পরিবহন এবং অন্যান্য ক্ষেত্রে যানবাহন সীলকরণ।\n৯। বাংলাদেশী জাহাজের মালিকানাধীন নৌকা এবং অনধিক একশত টনবিশিষ্ট অন্যান্য নৌযান মার্কযুক্তকরণ, নিয়ন্ত্রণ করা এবং উহার উপর বাধা-নিষেধ আরোপ করা; লাইসেন্সের জন্য ফী এবং কার্গো বোটের নিবন্ধন।\n১০। ধারা ৯৩ এর অধীনে বিশেষভাবে নিয়োজিত কাস্টমস কর্মকর্তা ওয়ারহাউসে মালিকের সহগামী হওয়ার ক্ষেত্রে ব্যয় দাবী করা; কোন পণ্যের মালিককে ধারা ৯৪ এর বিধান অনুসারে উহাদের বিলিবণ্টনের অনুমতির জন্য দাবীকৃত ফী।\n১১। ওয়ারহাউজে প্রস্তুতকরণ এবং অন্য কার্যক্রম পরিচালনা সংশ্লিষ্ট বিষয়াদি।\n১২। শুল্ক পরিশোধ ব্যতিরেকে পণ্যের ট্রান্সশিপমেন্ট এবং ট্রান্সশিপমেন্ট নিষিদ্ধকরণ; নিয়ন্ত্রণ এবং বাধা-নিষেধ; এতদ্বিষয়ে কাস্টমস কর্মকর্তাগণের ক্ষমতা, এবং ট্রান্সশিপমেন্ট ফী।\n১৩। ধারা ১৩৮ এর অধীনে ফ্রাস্ট্রেটেড কার্গো রপ্তানি।\n১৪। বিদেশী ভূখণ্ডের মধ্য দিয়া বাংলাদেশের এক এলাকা হইতে অন্য এলাকায় পণ্য পরিবহন; উক্তরূপ পণ্য গন্তব্যে যথাযথভাবে পৌঁছার জন্য শর্তাবলী।\n১৫। শুল্ক পরিশোধ ব্যতিরেকে কোন বিদেশী ভূখণ্ডে পণ্য ট্রানজিটের জন্য শর্ত এবং বাধা-নিষেধ প্রয়োগ ;\n১৬। বিল অব এক্সপোর্ট।\n১৭। যাত্রী এবং ক্রু ব্যাগেজ; উক্ত ব্যাগেজের সংজ্ঞা, ঘোষণা, হেফাজত, পরীক্ষা, শুল্কায়ন এবং খালাস ও উক্ত ব্যাগেজের ট্রানজিট এবং ট্রান্সশিপমেন্ট; উক্ত ব্যাগেজ অথবা উহার অন্তর্ভুক্ত কোন নির্দিষ্টকৃত শ্রেণীর পণ্য যে পরিস্থিতিতে এবং শর্তাবলীর অধীনে শুল্ক হইতে অব্যাহতি পাইবে; উক্ত অব্যাহতির পরিমাণ।\n১৮। ডাকযোগে পণ্য আমদানি অথবা রপ্তানির সাথে সংশ্লিষ্ট বিষয়াদি; উক্তরূপ আমদানিকৃত অথবা রপ্তানিযোগ্য পণ্যের পরীক্ষা, শুল্কায়ন, খালাস, ট্রানজিট অথবা ট্রান্সশিপমেন্ট।\n১৯। যে উপকূলীয় পণ্যের রপ্তানি এই আইন অথবা অন্য কোন আইনের অধীনে শুল্কযোগ্য অথবা নিষিদ্ধ উহাদের বাংলাদেশের বাহিরে নেওয়া রোধ; কোন জাহাজের উপর উপকূলীয় পণ্য দ্বারা আমদানিকৃত অথবা রপ্তানি পণ্যের প্রতিস্থাপন রোধ; নির্ধারিত বন্দরসমূহে অথবা উহাদের মধ্যে কোন নির্দিষ্টকৃত শ্রেণীর পণ্য সাধারণভাবে পরিবহন নিষিদ্ধ করা।\n২০। ধারা ১৭৬ এর অধীনে কোন ফ্যাক্টরী অথবা ইমারতে দায়িত্বব্রত কর্মকর্তার প্রয়োগের জন্য ক্ষমতা।\n২১। এজেন্টদের লাইসেন্স প্রদান; লাইসেন্সের ফরম এবং উহার জন্য প্রদেয় ফী; লাইসেন্স মঞ্জুর করার উপযুক্ত কর্তৃপক্ষ ; লাইসেন্সের বৈধতার মেয়াদ; লাইসেন্সধারীর যোগ্যতা; জামানত প্রদানসহ লাইসেন্স প্রযোজ্য শর্তাবলী এবং বাধা-নিষেধসমূহ; যে পরিস্থিতিতে লাইসেন্সধারীর উপর অর্থদণ্ড আরোপ করা যাইবে অথবা লাইসেন্স সাসপেন্ড অথবা বাতিল করা যাইবে; অর্থদণ্ড অথবা লাইসেন্স সাসপেন্ড অথবা বাতিলের বিরুদ্ধে আপীল।\n২২। যে ব্যবসা নিয়ন্ত্রণের জন্য ধারা ২১২ এর অধীনে প্রজ্ঞাপন জারী করা যাইবে সেই ব্যবসা সংশ্লিষ্ট বিষয়াদি; উক্ত ব্যবসায় নিয়োজিত ব্যক্তি কর্তৃক হিসাব পত্র এবং নথিপত্র সংরক্ষণ, এবং তথ্য সরবরাহ করিতে হইবে।\n২২ক। ধারা ২১৭ক এর অধীন পুরস্কার।\n২৩। এই আইনের বিধানাবলী কার্যকর করার জন্য প্রয়োজনীয় অন্য কোন বিষয়।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Third Schedule of the Customs Act 1969 outlines the scope for making rules regarding customs procedures, including the seizure and forfeiture of prohibited goods, duty drawbacks, and administrative mechanisms for customs clearance.",
+          "It empowers the relevant authorities to regulate customs operations, assess goods, manage transit and transshipment, control bonded warehouses, and oversee licensing requirements for customs agents.",
+          "The schedule provides the foundational authority for framing rules on passenger baggage, postal imports/exports, coastal trade controls, and various operational directives to ensure the effective implementation of customs law."
+        ],
+        "Prohibited Goods": [
+          "The schedule provides for procedures related to the seizure and forfeiture of goods imported or intended for export that are classified as prohibited.",
+          "These procedures cover the verification of information, notice requirements to owners, custody or release of goods under security, and the adjudication of claims or damages arising from false information."
+        ],
+        "Duty Drawback": [
+          "Provisions are established for granting refunds of customs duties on goods produced, processed, or repaired for subsequent export, as well as on materials used in such manufacturing.",
+          "The regulatory framework covers conditions for claiming drawbacks, time limits for export and filing claims, and the authority to prohibit drawbacks for specific classes of goods."
+        ],
+        "Customs Valuation": [
+          "The schedule authorizes the development of rules for the assessment of imported or exported goods.",
+          "It mandates that importers and exporters submit necessary information, present relevant books and documents, and disclose the nature and source of funds used for acquisitions to ensure accurate valuation."
+        ],
+        "Transit and Transshipment": [
+          "Rules are specified for the movement, sealing, and control of goods in transit or transshipment, including movements through foreign territories to reach parts of Bangladesh.",
+          "This includes the authority to impose conditions or prohibitions, set fees, and define the powers of customs officers regarding the handling and security of such goods."
+        ],
+        "Customs Agent": [
+          "The framework defines the licensing process for customs agents, including eligibility criteria, license duration, and required security deposits.",
+          "It establishes the authority to grant, suspend, or cancel licenses and provides a mechanism for appealing such administrative actions, as well as defining rules for the conduct of business."
+        ],
+        "Passenger Baggage": [
+          "The schedule provides for the regulation of passenger and crew baggage, including its definition, declaration, examination, and clearance processes.",
+          "It outlines conditions under which specific classes of baggage or goods may be exempted from customs duties and establishes the limits for such exemptions."
+        ],
+        "Customs Authority": [
+          "The schedule grants customs authorities the power to inspect factories or buildings, verify accounts, enforce vessel clearances, and perform chemical testing on substances like spirits.",
+          "It also authorizes the imposition of penalties, the requirement of manifests, and the issuance of special passes to ensure compliance with customs regulations."
+        ],
+        "Coastal Trade": [
+          "Regulations allow for the control of coastal trade to prevent the illegal removal of duty-paid or prohibited goods from Bangladesh.",
+          "This includes mechanisms to prevent the unauthorized substitution of cargo on ships and the ability to restrict the movement of specific classes of goods between designated ports."
+        ],
+        "Bonded Warehouse": [
+          "The schedule encompasses rules for the management of bonded warehouses, including operations performed within the warehouse and cost-recovery for accompanying customs officers.",
+          "It also addresses fees payable by owners for the administration and distribution of goods stored under customs supervision."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_27",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Third Schedule",
+          "prohibited goods",
+          "duty drawbacks",
+          "administrative mechanisms",
+          "customs operations",
+          "goods",
+          "transit",
+          "transshipment",
+          "bonded warehouses",
+          "licensing requirements",
+          "customs agents",
+          "passenger baggage",
+          "postal imports",
+          "postal exports",
+          "coastal trade controls",
+          "operational directives"
+        ],
+        "Prohibited Goods": [
+          "seizure",
+          "forfeiture",
+          "imported goods",
+          "goods intended for export",
+          "information",
+          "notice",
+          "owners",
+          "custody",
+          "security",
+          "claims",
+          "damages"
+        ],
+        "Duty Drawback": [
+          "refunds of customs duties",
+          "goods produced",
+          "goods processed",
+          "goods repaired",
+          "materials",
+          "export",
+          "claims",
+          "time limits"
+        ],
+        "Customs Valuation": [
+          "imported goods",
+          "exported goods",
+          "information",
+          "books",
+          "documents",
+          "funds"
+        ],
+        "Transit and Transshipment": [
+          "goods",
+          "foreign territories",
+          "Bangladesh",
+          "fees",
+          "customs officers"
+        ],
+        "Customs Agent": [
+          "licensing process",
+          "eligibility criteria",
+          "license",
+          "security deposits",
+          "administrative actions",
+          "business"
+        ],
+        "Passenger Baggage": [
+          "passenger baggage",
+          "crew baggage",
+          "customs duties",
+          "exemptions"
+        ],
+        "Customs Authority": [
+          "factories",
+          "buildings",
+          "accounts",
+          "vessel clearances",
+          "chemical testing",
+          "spirits",
+          "penalties",
+          "manifests",
+          "special passes"
+        ],
+        "Coastal Trade": [
+          "duty-paid goods",
+          "prohibited goods",
+          "Bangladesh",
+          "cargo",
+          "ships",
+          "ports"
+        ],
+        "Bonded Warehouse": [
+          "bonded warehouses",
+          "customs officers",
+          "fees",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        8,
+        14,
+        23,
+        46,
+        57,
+        59,
+        84,
+        92,
+        111,
+        113,
+        128,
+        142,
+        146,
+        148,
+        151,
+        163,
+        178,
+        209,
+        216,
+        233,
+        234,
+        281,
+        300,
+        327,
+        333,
+        384,
+        390,
+        442,
+        494,
+        496,
+        590,
+        603,
+        754,
+        830,
+        888,
+        910,
+        925,
+        973,
+        977,
+        1022,
+        1052,
+        1089,
+        1201,
+        1390,
+        1474,
+        1563,
+        1974,
+        2015,
+        2359,
+        2435,
+        2738,
+        2761,
+        2937,
+        3070,
+        3301,
+        3696,
+        4291,
+        4548,
+        6444,
+        7093,
+        7573,
+        8242,
+        8481,
+        8482,
+        8487,
+        11304,
+        12276,
+        12349,
+        13273
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 5,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_227",
+      "clause_title": "",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_227",
+      "resolved_text": "৮৭। (১) যদি কোন কাস্টমস কর্মকর্তা উক্ত কর্মকর্তা হিসাবে সরল বিশ্বাসে কর্তব্য পালন ব্যতীত, কোন পণ্য সম্পর্কে পদাধিকার বলে প্রাপ্ত বিবরণ প্রকাশ করেন, অথবা (২) যদি কোন কাস্টমস কর্মকর্তা, এই আইনে প্রদত্ত অনুমতি ব্যতীত, সরকারি ক্ষমতাবলে তাহার নিকট অর্পিত নমুনার দখল পরিত্যাগ করেন, — তাহা হইলে উক্ত কর্মকর্তা ম্যাজিস্ট্রেটের সম্মুখে দোষী সাব্যস্ত হইয়া অনূ্যন পঞ্চাশ হাজার টাকা জরিমানাদণ্ডে দণ্ডনীয় হইবেন।",
+      "entity_concepts": {
+        "Customs Officer": [
+          "A Customs Officer is prohibited from disclosing information obtained by virtue of their official position, unless acting in good faith in the discharge of their duties.",
+          "A Customs Officer is forbidden from parting with the possession of any samples entrusted to them by virtue of their official power, unless authorized by the Customs Act 1969.",
+          "Failure to adhere to these professional conduct standards subjects the officer to criminal prosecution before a magistrate and the imposition of a mandatory fine."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework governing the official conduct of customs officials, specifically regarding the confidentiality of information and the management of sample goods.",
+          "It establishes the penal consequences for customs officers who violate their official duties under the provisions of the Act."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_231",
+      "entity_sub_entities": {
+        "Customs Officer": [
+          "information",
+          "samples",
+          "Customs Act 1969",
+          "criminal prosecution",
+          "magistrate",
+          "mandatory fine"
+        ],
+        "Customs Act 1969": [
+          "official conduct",
+          "customs officials",
+          "confidentiality of information",
+          "management of sample goods",
+          "penal consequences",
+          "official duties"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        49,
+        87,
+        148,
+        184,
+        275,
+        2590,
+        4437,
+        6625,
+        9668,
+        9682,
+        10192,
+        10554
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_233",
+      "clause_title": "",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_233",
+      "resolved_text": "৯৩। যদি কোন ব্যক্তি বাংলাদেশের ভিতরে অথবা বাহিরে চোরাচালানের অথবা অভীষ্ট চোরাচালানের সাথে সম্পৃক্ত কোন সংকেত অথবা সংবাদ হিসাবে বাংলাদেশের কোন এলাকা হইতে অথবা কোন জাহাজ অথবা উড়োজাহাজ হইতে কোন জাহাজ অথবা সীমান্তের ওপারে অবস্থানরত কোন ব্যক্তির অবগতির জন্য যে কোন মাধ্যমে কোন সংকেত অথবা সংবাদ প্রেরণ করেন, যদিও যে ব্যক্তির উদ্দেশ্যে সংকেত অথবা সংবাদ প্রেরিত হয় তিনি উহা গ্রহণ করার অবস্থায় অথবা সেই সময়ে প্রকৃত পক্ষে চোরাচালানে নিয়োজিত থাকেন কিংবা নাই থাকেন, — তাহা হইলে উক্ত ব্যক্তি ম্যাজিস্ট্রেটের সম্মুখে দোষী সাব্যস্ত হইয়া অনূ্যন পাঁচ বৎসর মেয়াদের কারাদণ্ডে, অথবা অনূ্যন পঞ্চাশ হাজার টাকা জরিমানা-দণ্ডে, অথবা উভয় দণ্ডে দণ্ডনীয় হইবেন; এবং সংকেত অথবা সংবাদ প্রেরণের জন্য ব্যবহৃত সরঞ্জাম অথবা যন্ত্রপাতিও বাজেয়াপ্তযোগ্য হইবে। ব্যাখ্যাঃ যদি এই দফার অধীন কোন কার্যধারায় কোন প্রশ্ন উত্থাপিত হয় যে কোন সংকেত অথবা সংবাদ পূর্বোল্লিখিত সংকেত অথবা সংবাদ কিনা, তাহা হইলে উহা প্রমাণ করার দায় বিবাদীর উপর বর্তাইবে।",
+      "entity_concepts": {
+        "Smuggling Offences": [
+          "Transmitting signals or information from within or outside Bangladesh for the purpose of aiding or facilitating smuggling activities is a punishable offence, regardless of whether the intended recipient is actively engaged in smuggling at that moment.",
+          "Individuals convicted of this offence are liable for imprisonment for a minimum term, a monetary fine, or both, alongside the mandatory confiscation of the equipment or devices used to transmit the signal."
+        ],
+        "Burden of Proof": [
+          "In any legal proceedings regarding whether a specific signal or message constitutes a prohibited transmission for smuggling purposes, the burden of proof rests entirely upon the accused party."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_237",
+      "entity_sub_entities": {
+        "Smuggling Offences": [
+          "signals",
+          "information",
+          "imprisonment",
+          "monetary fine",
+          "equipment",
+          "devices"
+        ],
+        "Burden of Proof": [
+          "signal",
+          "message",
+          "accused party"
+        ]
+      },
+      "clause_clusters": [
+        72,
+        148,
+        558,
+        605,
+        1478,
+        1565,
+        2655,
+        3090,
+        5279,
+        9849,
+        12190
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_305",
+      "clause_title": "ব্যবসায়ের নথিপত্রের সংরক্ষণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_305",
+      "resolved_text": "২১১। ব্যবসায়ের নথিপত্রের সংরক্ষণ।— (১) প্রত্যেক লাইসেন্সধারী, আমদানিকারক, রপ্তানিকারক অথবা তাহাদের এজেন্ট বোর্ড যেভাবে নির্ধারিত করে সেইভাবে নথিপত্র তিন বৎসর মেয়াদের জন্য সংরক্ষণ করিবেন অথবা করার ব্যবস্থা গ্রহণ করিবেন।\n(২) উক্তরূপ প্রত্যেক ব্যক্তি কোন কাস্টমস কর্মকর্তা যেভাবে এবং যখন করিতে বলেন সেইভাবে এবং তখন অবশ্যই—\n(ক) নথিপত্র এবং হিসাবপত্র কাস্টমসের নিকট প্রাপণীয় করিবেন ;\n(খ) নথিপত্র এবং হিসাবপত্রের অনুলিপি প্রয়োজনমত সরবরাহ করিবেন ; এবং\n(গ) এই আইনের অধীন উদ্ভূত কোন বিষয়ের সাথে সংশ্লিষ্ট ক্ষেত্রে কাস্টমস কর্মকর্তা কর্তৃক জিজ্ঞাসিত যে কোন প্রশ্নের উত্তর দিবেন。\n(৩) যে ক্ষেত্রে উপ-ধারা (২) এর উদ্দেশ্য পূরণকল্পে ইলেকট্রনিক অথবা অন্য কোন যন্ত্রের মাধ্যমে তথ্য লিপিবদ্ধ অথবা সংরক্ষণ করা হয় সেই ক্ষেত্রে লাইসেন্সধারী, আমদানিকারক, রপ্তানিকারক অথবা তাহাদের এজেন্ট কোন কাস্টমস কর্মকর্তার অনুরোধক্রমে উপ-ধারা (২) এর আবশ্যকতা পূরণকল্পে যন্ত্রটি পরিচালনা করিবেন অথবা করার ব্যবস্থা করিবেন。\n(৪) উপ-ধারা (২) এবং উপ-ধারা (৩) এর উদ্দেশ্য পূরণকল্পে ধারা ২৫ক এর অধীন নিয়োগকৃত অডিট এজেন্সী এবং উক্ত এজেন্সীর কোন কর্মচারী কাস্টমস কর্মকর্তা হিসাবে গণ্য হইবেন।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to determine the specific manner in which business records and documentation must be maintained by licensees, importers, exporters, and their agents."
+        ],
+        "Customs Records Retention": [
+          "Licensees, importers, exporters, and their agents are required to retain or arrange for the retention of business records for a period of three years.",
+          "These persons must provide access to records, submit copies when requested, and respond to inquiries from customs officials regarding matters under the Customs Act 1969.",
+          "When records are maintained electronically, the relevant parties must operate or facilitate the operation of electronic equipment upon the request of a customs official to ensure access to the information."
+        ],
+        "Audit Agency": [
+          "Audit agencies appointed under the relevant section of the Customs Act 1969 and their employees are legally designated to act with the authority and status of customs officials for the purposes of record examination and verification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_309",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "business records",
+          "documentation",
+          "licensees",
+          "importers",
+          "exporters",
+          "agents"
+        ],
+        "Customs Records Retention": [
+          "licensees",
+          "importers",
+          "exporters",
+          "agents",
+          "business records",
+          "three years",
+          "customs officials",
+          "Customs Act 1969",
+          "electronic equipment",
+          "information"
+        ],
+        "Audit Agency": [
+          "Audit agencies",
+          "employees",
+          "Customs Act 1969",
+          "customs officials"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        63,
+        79,
+        87,
+        148,
+        157,
+        481,
+        491,
+        591,
+        755,
+        1904,
+        1987,
+        2022,
+        2483,
+        12820
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_63",
+      "clause_title": "রপ্তানি পণ্য বোঝাই করার পূর্বে বহির্গমন এন্ট্রির অথবা পণ্য বোঝাইয়ের আদেশ গ্রহণ করিতে হইবে",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_63",
+      "resolved_text": "৫০। রপ্তানি পণ্য বোঝাই করার পূর্বে বহির্গমন এন্ট্রির অথবা পণ্য বোঝাইয়ের আদেশ গ্রহণ করিতে হইবে।— যাত্রী ব্যাগেজ এবং মেইল ব্যাগ ব্যতীত অন্য কোন পণ্য কোন যানবাহন বোঝাই করা যাইবে না, যতক্ষণ পর্যন্ত না -\n\n(ক) জাহাজের ক্ষেত্রে, উক্ত জাহাজ বহির্গমন এন্ট্রির জন্য যথোপযুক্ত কর্মকর্তার নিকট জাহাজের মাস্টার কর্তৃক স্বাক্ষরিত লিখিত আবেদন করা হয় এবং উক্ত এন্ট্রির জন্য উহার উপর আদেশ প্রদান করা হয় ; এবং\n\n(খ) অন্য কোন যানবাহনের ক্ষেত্রে, যানবাহন পণ্য বোঝাই করার ক্ষমতা পাওয়ার জন্য যথোপযুক্ত কর্মকর্তার নিকট যানবাহনের ভারপ্রাপ্ত ব্যক্তি কর্তৃক স্বাক্ষরিত লিখিত আবেদন করা হয় এবং উহার উপর পণ্য বোঝাইয়ের ক্ষমতা প্রদান করা হয়।\n\n(২) এই ধারার অধীন পেশকৃত প্রত্যেক আবেদনপত্রে বোর্ড কর্তৃক নির্ধারিত বিবরণ উল্লেখ থাকিবে।",
+      "entity_concepts": {
+        "Export Cargo Clearance": [
+          "No goods, other than passenger baggage and mail bags, may be loaded onto a transport vehicle for export until the required entry or loading order has been formally obtained.",
+          "The process requires a written application to be submitted by the master of the vessel or the person in charge of other transport vehicles to the appropriate customs official."
+        ],
+        "Appropriate Officer of Customs": [
+          "This official is authorized to receive formal written applications and issue necessary orders for the loading of export goods onto vessels or other transport vehicles.",
+          "The officer oversees the verification of entry applications before granting permission for the loading of export cargo."
+        ],
+        "National Board of Revenue": [
+          "The Board is empowered to prescribe the mandatory details and information that must be included in every application submitted for the purpose of obtaining loading clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_67",
+      "entity_sub_entities": {
+        "Export Cargo Clearance": [
+          "goods",
+          "passenger baggage",
+          "mail bags",
+          "transport vehicle",
+          "entry",
+          "loading order",
+          "written application"
+        ],
+        "Appropriate Officer of Customs": [
+          "official",
+          "formal written applications",
+          "orders",
+          "export goods",
+          "vessels",
+          "transport vehicles",
+          "entry applications",
+          "export cargo"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "mandatory details",
+          "information",
+          "application",
+          "loading clearance"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        17,
+        58,
+        73,
+        148,
+        155,
+        178,
+        228,
+        339,
+        436,
+        522,
+        731,
+        1202,
+        2714,
+        5073,
+        7760,
+        7905,
+        8306,
+        9549,
+        9553,
+        9678
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_267",
+      "clause_title": "Keeping of business record",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_267",
+      "resolved_text": "1[211. Keeping of business record.- 2[(1)] Every licensee, importer, exporter or their agents shall keep or cause to be kept such records as may be specified by the Board, for a period of three years.]\n(2) Every such person must, as and when required by an officer of Customs.-\n(a) make the records and accounts available to Customs;\n(b) provide copies of the records and accounts as required; and\n(c) answer any question relevant to the matters arising under this Act asked by any officer of Customs in respect of them.\n(3) Where for the purpose of complying with sub-section (2) of this section, information is recorded or stored by means of an electronic or other device, the licensee, importer, exporter, or its agent, shall, at the request of an officer of Customs, operate the device, or cause it to be operated, to fulfil the requirements of sub-sections (2).]\n3[(4) For the purposes of sub-section (2) and (3) the audit agencies appointed by the Government under section 25A and an employee of that agency shall be deemed to be the officers of Customs.]",
+      "entity_concepts": {
+        "Licensee": [
+          "Licensees are required to maintain business records specified by the National Board of Revenue for a duration of three years.",
+          "They must provide these records, facilitate access to accounts, and respond to inquiries from customs officials as necessary.",
+          "When data is stored electronically, licensees must operate or facilitate the operation of relevant devices to ensure customs access to that information."
+        ],
+        "Importer": [
+          "Importers must maintain business records as directed by the National Board of Revenue for a period of three years.",
+          "They are obligated to provide copies of records and answer questions from customs officers regarding their business activities.",
+          "Importers must provide access to electronic or stored data upon request by a customs officer to ensure compliance with record-keeping obligations."
+        ],
+        "Exporter": [
+          "Exporters are mandated to keep records specified by the National Board of Revenue for at least three years.",
+          "Exporters must allow customs officers to examine their records and answer any questions relating to their export business.",
+          "Exporters are required to operate or provide access to electronic record-keeping devices when requested by an officer of Customs."
+        ],
+        "Agent": [
+          "Agents acting on behalf of licensees, importers, or exporters share the responsibility to keep prescribed business records for three years.",
+          "They are required to facilitate customs access to accounts and respond to official queries regarding these records.",
+          "Agents must operate electronic systems or devices to provide customs officers with the necessary information and records when requested."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue holds the authority to specify the types of business records that must be kept by licensees, importers, exporters, and their agents."
+        ],
+        "Officer of Customs": [
+          "Officers of Customs are empowered to require the production of business records, the provision of copies, and the answering of relevant questions by regulated persons.",
+          "They have the authority to request that electronic record-keeping devices be operated to retrieve information for official inspection."
+        ],
+        "Audit Agency": [
+          "Audit agencies appointed by the Government under the Customs Act are legally deemed to be officers of Customs when performing their duties related to the verification of records and accounts."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_594",
+      "entity_sub_entities": {
+        "Licensee": [
+          "business records",
+          "National Board of Revenue",
+          "accounts",
+          "electronic data",
+          "devices"
+        ],
+        "Importer": [
+          "business records",
+          "National Board of Revenue",
+          "copies of records",
+          "electronic or stored data"
+        ],
+        "Exporter": [
+          "records",
+          "National Board of Revenue",
+          "electronic record-keeping devices"
+        ],
+        "Agent": [
+          "business records",
+          "accounts",
+          "electronic systems",
+          "devices"
+        ],
+        "National Board of Revenue": [
+          "business records"
+        ],
+        "Officer of Customs": [
+          "business records",
+          "copies",
+          "electronic record-keeping devices",
+          "information"
+        ],
+        "Audit Agency": [
+          "records",
+          "accounts"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        39,
+        77,
+        94,
+        97,
+        131,
+        148,
+        190,
+        755,
+        816,
+        910,
+        939,
+        940,
+        1904,
+        2655,
+        3896,
+        6719,
+        7668
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

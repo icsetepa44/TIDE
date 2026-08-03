@@ -1,0 +1,2440 @@
+{
+  "cluster_id": 166,
+  "cluster_label": "bank guarantee",
+  "thread_index": 0,
+  "thread_id": "cluster_00166_t0",
+  "title": "Bank Guarantee as a Security Instrument for Customs Compliance",
+  "summary": "The concept of the bank guarantee has evolved from a standard financial security instrument into a tiered, flexible mechanism. Initially, it was a rigid, unconditional, and continuous requirement for various customs procedures, but recent policy shifts have introduced partial guarantees and alternative security instruments (like stamp paper undertakings) based on the entity's compliance status.",
+  "evolution": {
+    "flexibility": "Moved from a fixed 100% duty-equivalent requirement to a tiered system (0%-75%) based on trust/compliance.",
+    "scope": "Expanded from individual shipment security to consolidated guarantees for high-compliance entities.",
+    "legal_basis": "Shifted from purely bank-backed instruments to hybrid models involving stamp paper undertakings."
+  },
+  "timeline": [
+    {
+      "date": "2014-06-05",
+      "instrument": "SRO/Clause",
+      "change": "Terminology shift from 'unconditional and continuous bank guarantee' to 'security deposit' in specific regulatory contexts.",
+      "clause_ids": [
+        "20140605_139-AIN_2014_2503-Customs_০৫ জুন, ২০১৪_clause_2"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Directive",
+      "change": "Introduction of tiered security: partial bank guarantees (75%, 50%) combined with formal undertakings on stamp paper based on entity classification.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_74"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Customs Regulation",
+      "change": "Introduction of 'Consolidated Guarantee' (Samanwito Guarantee) for AEOs and transit/transshipment, allowing a single bank guarantee to cover multiple shipments.",
+      "clause_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    }
+  ],
+  "num_member_objects": 19,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20140605_139-AIN_2014_2503-Customs_০৫ জুন, ২০১৪_clause_2",
+      "resolved_text": "(২) বিধি ৬ এর উপ-বিধি (৩) এর দফা (ঘ) এ উল্লিখিত \"নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি\" শব্দগুলির পরিবর্তে \"নিরাপত্তা জামানত\" শব্দগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Bank Guarantee": [
+          "The terminology regarding unconditional and continuous bank guarantees is being amended by replacing the existing wording with the term security deposit."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1504",
+      "entity_sub_entities": {
+        "Bank Guarantee": [
+          "unconditional bank guarantees",
+          "continuous bank guarantees",
+          "security deposit"
+        ]
+      },
+      "clause_clusters": [
+        166,
+        1111,
+        6686,
+        13069
+      ],
+      "source_file": "customs_sros_OCR/20140605_139-AIN_2014_2503-Customs/20140605_139-AIN_2014_2503-Customs_output.json",
+      "clause_date": "2014-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম নিষ্পত্তি পদ্ধতি",
+      "text_id": "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_4",
+      "resolved_text": "৪। ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম নিষ্পত্তি পদ্ধতি।—(১) ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম যে কাস্টমস স্টেশন দিয়া আমদানি করা হইবে সেই কাস্টমস স্টেশন দিয়া ফেরত প্রদান করিতে হইবে:\nতবে শর্ত থাকে যে, কোনো কারণে উক্ত স্টেশন দিয়া ফেরত প্রদান করা সম্ভব না হইলে আমদানি সংশ্লিষ্ট কমিশনারের পূর্বানুমতি গ্রহণ করিয়া অন্য কাস্টমস স্টেশন দিয়া ফেরত প্রদান করিতে হইবে।\n(২) ফেরত প্রদানকালে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম চালানটির ফেরত প্রদান নিশ্চিত করিবার লক্ষ্যে অন্যূন সহকারী কমিশনারের তত্ত্বাবধানে শতভাগ কায়িক পরীক্ষা করিয়া প্রযোজ্য সকল কাস্টমস আনুষ্ঠানিকতা প্রতিপালন করিতে হইবে, কাস্টমস আনুষ্ঠানিকতা প্রতিপালনকালে আমদানি সংশ্লিষ্ট দলিলাদি দাখিল করিতে হইবে।\n(৩) সংশ্লিষ্ট পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম ফেরত প্রদান সম্পন্ন হইলে আমদানিকারক কর্তৃক ফেরত প্রদানের স্বপক্ষে তথ্য ও দলিলাদি সংশ্লিষ্ট কাস্টমস স্টেশনের কমিশনারের নিকট দাখিল এবং অনুমোদন সাপেক্ষে ব্যাংক গ্যারান্টি অবমুক্ত করিতে হইবে।\n(৪) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম নির্ধারিত সময়ের মধ্যে ফেরত প্রদান করিতে ব্যর্থ হইলে সংশ্লিষ্ট কাস্টমস স্টেশনের কমিশনার চালানটির চূড়ান্ত শুল্কায়ন করিয়া প্রযোজ্য ক্ষেত্রে শুল্ক-কর ও Customs Act, 1969 এর অধীন জরিমানা বা অর্থ আদায়ের লক্ষ্যে ব্যাংক গ্যারান্টি নগদায়ন এবং অতিরিক্ত অর্থ আদায়ের অনুমতি প্রদান করিতে পারিবেন।\n(৫) জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর পূর্বানুমতি ব্যতীত এই বিধিমালার অধীন আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম স্থানীয় বাজারে বিক্রয় বা অন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট ব্যবহারের উদ্দেশ্যে হস্তান্তর, বিক্রয় বা অন্য কোনো উদ্দেশ্যে সরবরাহ করা যাইবে না:\nতবে শর্ত থাকে যে, জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর অনুমতি গ্রহণ করিয়া উপ-বিধি (৪) এর বিধান অনুযায়ী প্রযোজ্য শুল্ক-কর ও সুদ পরিশোধ করিয়া বিক্রয় বা হস্তান্তর করা যাইবে।\n(৬) উপ-বিধি (৪) এর অধীন ব্যাংক গ্যারান্টি নগদায়ন বা অর্থ আদায় করা সম্ভব না হইলে, আমদানির তারিখ হইতে প্রযোজ্য শুল্ক-করাদির অতিরিক্ত মাসিক শতকরা এক ভাগ হারে সুদ ও, প্রযোজ্য ক্ষেত্রে, Customs Act, 1969 এর অধীন জরিমানাও আদায়যোগ্য হইবে।",
+      "entity_concepts": {
+        "Temporary Importation": [
+          "Goods, machinery, parts, and equipment imported on a returnable basis must be re-exported through the same customs station where they were originally imported.",
+          "Re-exportation through a different customs station is permitted only with prior approval from the concerned Commissioner of Customs.",
+          "Re-exported items must undergo 100% physical examination under the supervision of at least an Assistant Commissioner and require the submission of all relevant import documents.",
+          "Failure to re-export temporary imports within the specified timeframe authorizes the Commissioner to finalize the assessment, encash bank guarantees for duty and tax recovery, and impose penalties under the Customs Act 1969.",
+          "Temporary imports are prohibited from being sold, transferred, or supplied for local use without the prior approval of the Member (Customs) of the National Board of Revenue.",
+          "Approval for sale or transfer may be granted by the Member (Customs) provided that all applicable duties, taxes, and interest are fully paid."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs) of the National Board of Revenue holds the authority to permit or deny the sale, transfer, or local supply of goods imported under temporary importation status."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal basis for the Commissioner of Customs to impose and collect penalties, fines, and duties upon the failure to re-export temporary imports within the prescribed period.",
+          "The Act governs the recovery of interest and penalties that become due if bank guarantees are insufficient to cover the total outstanding duties and taxes."
+        ],
+        "Bank Guarantee": [
+          "Upon successful re-exportation, the importer must submit proof and documentation to the Commissioner of the customs station to obtain the release of the bank guarantee.",
+          "In cases of default or failure to re-export, the Commissioner is authorized to encash the bank guarantee to recover applicable duties, taxes, and fines."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2160",
+      "entity_sub_entities": {
+        "Temporary Importation": [
+          "goods",
+          "machinery",
+          "parts",
+          "equipment",
+          "import documents",
+          "duties",
+          "taxes",
+          "interest",
+          "bank guarantees",
+          "penalties"
+        ],
+        "National Board of Revenue": [
+          "Member (Customs)"
+        ],
+        "Customs Act 1969": [
+          "penalties",
+          "fines",
+          "duties",
+          "interest",
+          "taxes",
+          "bank guarantees"
+        ],
+        "Bank Guarantee": [
+          "proof",
+          "documentation",
+          "duties",
+          "taxes",
+          "fines"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        13,
+        30,
+        33,
+        46,
+        54,
+        63,
+        72,
+        166,
+        245,
+        324,
+        624,
+        776,
+        1716,
+        1798,
+        4598
+      ],
+      "source_file": "customs_sros_OCR/20220208_23-AIN_/20220208_23-AIN__output.json",
+      "clause_date": "2022-02-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "ট্রানজিট অপারেটর হিসাবে তালিকাভুক্তকরণ",
+      "text_id": "20230425_২৪ এপ্রিল, ২০২৩_clause_4",
+      "resolved_text": "৫। ট্রানজিট অপারেটর হিসাবে তালিকাভুক্তকরণ: (১) ট্রানজিট বা ট্রানশিপমেন্ট পণ্যের অপারেটর হিসাবে তালিকাভুক্তির লক্ষ্যে অনুচ্ছেদ ৫(ক) এ বর্ণিত অনুমোদিত ব্যক্তি নিম্নবর্ণিত দলিলাদিসহ কাস্টম হাউসের লাইসেন্সিং কর্তৃপক্ষ বরাবরে আবেদন করিবেন:\nক) পরিশিষ্ট-৪ অনুযায়ী আবেদন;\nখ) ক্লিয়ারিং ও ফরওয়ার্ডিং এজেন্ট লাইসেন্সের হালনাগাদ নবায়িত সত্যায়িত অনুলিপি;\nগ) তথ্য প্রযুক্তি সক্ষমতার বিবরণী;\n(২) লাইসেন্সিং কর্তৃপক্ষ লাইসেন্স শাখায় সংরক্ষিত তথ্য এবং কাস্টমস কম্পিউটার সিস্টেম হইতে প্রাপ্ত তথ্যের ভিত্তিতে আবেদনকারীর তথ্য যাচাই বাছাই করিবেন। আবেদনকারীর বিগত ৫ বছরের কাজের তথ্য, পরিপালন রেকর্ড এবং অনিয়ম বা অপরাধের তথ্যও যাচাই করিতে হইবে এবং আবেদনকারীর নিকট সরকারের কোন রাজস্ব বকেয়া থাকিলে তালিকাভুক্তির অযোগ্য বলিয়া বিবেচিত হইবে;\n(৩) উক্তরূপ যাচাই বাছাই এর ফলাফল সন্তোষজনক হইলে লাইসেন্সিং কর্তৃপক্ষ আবেদনকারীকে তালিকাভুক্ত করিবার উদ্দেশ্যে নিম্নবর্ণিত দলিলাদি দাখিল করিবার জন্য নির্দেশনা প্রদান করিবেন:\nক) কমিশনার অব কাস্টমসের অনুকূলে ১০,০০০/- (দশ হাজার) টাকার অফেরতযোগ্য ট্রেজারি চালান এবং আবেদন ফি এর উপর প্রযোজ্য মূল্য সংযোজন কর পরিশোধের চালানের কপি;\nখ) কমিশনার অব কাস্টমসের অনুকূলে কোন তফসিলি ব্যাংক হতে ১০ লক্ষ টাকার নিঃশর্ত এবং অবাধ ব্যাংক গ্যারান্টি;\nগ) পরিশিষ্ট-৫ অনুযায়ী কমিশনার অব কাস্টমসের নিকট ৫০ লক্ষ টাকার রিক্স বন্ড;\n(৪) দাখিলকৃত সকল দলিলাদি যাচাইান্তে সঠিক সাপেক্ষে লাইসেন্সিং কর্তৃপক্ষ ১৫ দিনের মধ্যে ট্রানজিট অপারেটর হিসাবে তালিকাভুক্ত করিয়া অনুমোদিত ব্যক্তির অনুকূলে পরিশিষ্ট-৬ অনুযায়ী তালিকাভুক্তির সনদ জারি করিবেন;\n(৫) যেই ক্ষেত্রে ট্রানজিট বা ট্রানশিপমেন্ট পণ্যচালান মোংলা বন্দরের মাধ্যমে পরিবাহিত হইবে সেই ক্ষেত্রে কাস্টম হাউস, মোংলা এবং যেই ক্ষেত্রে চট্টগ্রাম বন্দর ব্যবহারের মাধ্যমে পরিবাহিত হইবে সেই ক্ষেত্রে কাস্টম হাউস, চট্টগ্রাম হইতে তালিকাভুক্ত হইতে হইবে। যেই স্থল কাস্টমস স্টেশনের মাধ্যমে ট্রানজিট বা ট্রানশিপমেন্ট পণ্যের প্রবেশ বা প্রস্থান সংঘটিত হইবে সেই কাস্টমস স্টেশনেও অনুমোদিত ব্যক্তির মূল/রেফারেন্স লাইসেন্স থাকিতে হইবে। এইরূপে তালিকাভুক্তির সনদ ও ট্রানজিট অপারেটরের তালিকা জাতীয় রাজস্ব বোর্ডের ওয়েবসাইটে প্রদর্শিত হইবে।\n(৬) কোন ট্রানজিট বা ট্রানশিপমেন্ট পণ্যচালান পরিচালনার ক্ষেত্রে অনুচ্ছেদ ২ (ক) অনুসারে অনুমোদিত ব্যক্তি এবং অনুচ্ছেদ ৫ অনুসারে তালিকাভুক্ত ব্যক্তি বা প্রতিষ্ঠান একই হইবে।\n(৭) ট্রানজিট অপারেটরের দায়িত্ব ও কর্তব্য: ট্রানজিট অপারেটর সংশ্লিষ্ট লাইসেন্সিং বিধিমালায় উল্লিখিত দায়িত্ব ও কর্তব্যের পাশাপাশি নিম্নরূপ বাধ্যবাধকতাসমূহ পরিপালন করিবেন, যথা:-\nক) প্রত্যেক ট্রানজিট বা ট্রানশিপমেন্ট পরিচালনার ক্ষেত্রে কনসাইনর কর্তৃক প্রদত্ত ক্ষমতাপত্র দাখিল সাপেক্ষে প্রযোজ্য শুল্ক-করের বিপরীতে, এ আদেশের পরিশিষ্ট-৭ অনুযায়ী একটি কাস্টমস বন্ড দাখিল করিবেন;\nখ) বিধিমালা দ্বারা নির্ধারিত ট্রানজিট বা ট্রানশিপমেন্ট মেয়াদের (৭ দিন) মধ্যে ট্রানজিট বা ট্রানশিপমেন্ট সম্পন্ন না হলে অথবা অন্য কোন কারণে ট্রানজিট বা ট্রানশিপমেন্ট পণ্য প্রস্থান বন্দরে না পৌছালে অথবা ট্রানজিট বা ট্রানশিপমেন্ট পণ্য অবৈধভাবে বাংলাদেশের অভ্যন্তরে অনুপ্রবেশ ঘটলে উক্ত পণ্যের উপর আরোপণীয় শুল্ক-কর এবং অর্থ দণ্ড ও জরিমানা (প্রযোজ্য ক্ষেত্রে) পরিশোধ করিতে বাধ্য থাকিবেন; এবং\nগ) প্রত্যেক ট্রানজিট বা ট্রানশিপমেন্ট সম্পন্ন হওয়া মাত্র তালিকাভুক্ত অপারেটর ট্রানজিট বা ট্রানশিপমেন্ট সম্পন্ন হওয়ার স্বপক্ষে প্রয়োজনীয় দলিলাদিসহ প্রবেশ বন্দর সংশ্লিষ্ট কাস্টমস স্টেশনে কাস্টমস বন্ড অবমুক্তির জন্য আবেদন করিবেন।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "This clause outlines the procedure for the movement of transit or transshipment goods, requiring specific documentation and bonding to ensure compliance.",
+          "Transit operators must ensure completion of the movement within the timeframe mandated by the rules, failing which they are liable for applicable taxes, penalties, and fines."
+        ],
+        "Transit Operator": [
+          "A transit operator must be officially listed by the licensing authority to handle transit or transshipment goods, based on a rigorous application and verification process.",
+          "Operators are required to maintain specific compliance standards, including clearing and forwarding licenses, information technology capacity, and a clear tax record.",
+          "The duties of a transit operator include submitting customs bonds for each movement, adhering to defined timeframes for transit completion, and requesting bond release upon successful arrival at the destination port."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is responsible for verifying the credentials and compliance records of transit operator applicants using internal records and the customs computerized system.",
+          "The authority issues the formal transit operator registration certificate after satisfying verification requirements and receiving necessary financial guarantees and bonds."
+        ],
+        "Customs Computerised System": [
+          "The licensing authority utilizes data from the customs computerized system to verify the history and compliance status of applicants seeking registration as transit operators."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is responsible for publishing and displaying the list of registered transit operators and their registration certificates on its official website."
+        ],
+        "Customs Bond": [
+          "Transit operators must submit a customs bond for each transit or transshipment operation to cover potential tax liabilities, and they must formally request the release of these bonds upon the successful conclusion of the transit movement."
+        ],
+        "Bank Guarantee": [
+          "Applicants are required to provide an unconditional and unrestricted bank guarantee to the Commissioner of Customs as part of the formal registration process for transit operators."
+        ],
+        "Risk Bond": [
+          "Transit operator applicants must execute a risk bond in favor of the Commissioner of Customs, according to the prescribed appendix format, as a condition of their listing."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_667",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "transit goods",
+          "transshipment goods",
+          "documentation",
+          "bonding",
+          "taxes",
+          "penalties",
+          "fines"
+        ],
+        "Transit Operator": [
+          "transit operator",
+          "transit goods",
+          "transshipment goods",
+          "clearing and forwarding licenses",
+          "information technology capacity",
+          "tax record",
+          "customs bonds",
+          "timeframes"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "transit operator applicants",
+          "internal records",
+          "customs computerized system",
+          "transit operator registration certificate",
+          "financial guarantees",
+          "bonds"
+        ],
+        "Customs Computerised System": [
+          "customs computerized system"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "registered transit operators",
+          "registration certificates",
+          "official website"
+        ],
+        "Customs Bond": [
+          "customs bond",
+          "transit operation",
+          "transshipment operation",
+          "tax liabilities"
+        ],
+        "Bank Guarantee": [
+          "unconditional and unrestricted bank guarantee",
+          "Commissioner of Customs"
+        ],
+        "Risk Bond": [
+          "risk bond",
+          "Commissioner of Customs",
+          "appendix format"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        13,
+        43,
+        46,
+        63,
+        166,
+        203,
+        216,
+        245,
+        317,
+        345,
+        376,
+        546,
+        667,
+        1448,
+        1540,
+        1806,
+        2282,
+        2288,
+        2602,
+        3712,
+        4221,
+        4712,
+        5077,
+        6058,
+        6419,
+        8084,
+        9072,
+        11337,
+        12680,
+        12967,
+        12968,
+        12969,
+        13068
+      ],
+      "source_file": "customs_gos_OCR/20230425/20230425_output.json",
+      "clause_date": "2023-04-25"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "কার্য সম্পাদন জামানত (Performance Security) প্রদান",
+      "text_id": "20240331_._._৩১ মার্চ, ২০২৪_clause_5",
+      "resolved_text": "৫। কার্য সম্পাদন জামানত (Performance Security) প্রদান।—(১) এই বিধিমালার অধীন সেবা প্রদানকারী প্রতিষ্ঠানকে কার্য সম্পাদন চুক্তি সম্পাদনের সময় ৫ (পাঁচ) কোটি টাকার কার্য সম্পাদন জামানত (Performance Security) প্রদান করিতে হইবে।\n(২) উপ-বিধি (১) এ উল্লিখিত জামানত ব্যাংক গ্যারান্টি আকারে সদস্য, কাস্টমস নীতি, জাতীয় রাজস্ব বোর্ডের অনুকূলে দাখিল করিতে হইবে যাহার কার্যকারিতা সেবা প্রদানের জন্য উল্লিখিত তারিখ হইতে চুক্তির মেয়াদ শেষ হইবার তারিখের পরবর্তী ৯০ (নব্বই) দিন পর্যন্ত বহাল থাকিবে:\nতবে শর্ত থাকে যে, বোর্ড কোনো নিষ্পত্তিকৃত বা অবিতর্কিত সরকারি পাওনা আদায়ের জন্য উপ-বিধি (১) এর অধীন প্রদত্ত কার্য সম্পাদন জামানত আংশিক বা সম্পূর্ণ নগদায়ন ও বাজেয়াপ্তির আদেশ প্রদান করিতে পারিবে।\n(৩) কোনো সেবা প্রদানকারী প্রতিষ্ঠানের সহিত সম্পাদিত চুক্তি বাতিল করা হইলে বা কার্য সম্পাদন জামানতের মেয়াদ উত্তীর্ণ হইলে, যদি সরকারের নিকট উক্ত প্রতিষ্ঠানের কোনো দায় বা অন্য কোনো অনিষ্পন্ন দায় বা দায়িত্ব না থাকে তাহা হইলে বোর্ড সংশ্লিষ্ট প্রতিষ্ঠানের আবেদনের পরিপ্রেক্ষিতে কার্য সম্পাদন জামানত অবমুক্ত করিবে।",
+      "entity_concepts": {
+        "Security Deposit": [
+          "A service provider is required to submit a performance security deposit at the time of executing the service agreement. The Board reserves the right to partially or fully encash or forfeit this deposit to recover settled or undisputed government dues.",
+          "The security deposit must be provided in the form of a bank guarantee in favor of the Member, Customs Policy, National Board of Revenue. It must remain valid from the specified start date of service until ninety days after the expiry of the agreement term.",
+          "Upon the termination of an agreement or the expiry of the security deposit, the Board shall release the deposit upon application by the service provider, provided there are no outstanding liabilities or duties owed to the government."
+        ],
+        "National Board of Revenue": [
+          "The Board is empowered to encash or forfeit the performance security deposit for the recovery of undisputed government claims.",
+          "The Board is responsible for releasing the performance security deposit to the service provider after the expiry of the agreement, provided all government liabilities have been settled."
+        ],
+        "Logistics and Security Service Provider": [
+          "A service provider must provide a performance security deposit when entering into a service agreement. They are eligible to apply for the release of their security deposit once the agreement ends, provided no outstanding obligations to the government exist."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2555",
+      "entity_sub_entities": {
+        "Security Deposit": [
+          "performance security deposit",
+          "bank guarantee",
+          "government dues",
+          "outstanding liabilities",
+          "duties"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "performance security deposit",
+          "undisputed government claims",
+          "government liabilities"
+        ],
+        "Logistics and Security Service Provider": [
+          "service provider",
+          "performance security deposit",
+          "service agreement",
+          "outstanding obligations",
+          "government"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        6,
+        30,
+        166,
+        321,
+        358,
+        1111,
+        2125,
+        2915,
+        2923,
+        8528,
+        10446,
+        12134,
+        13079
+      ],
+      "source_file": "customs_sros_OCR/20240331_._./20240331_._._output.json",
+      "clause_date": "2024-03-31"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "সমন্বিত গ্যারান্টি",
+      "text_id": "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "৫। সমন্বিত গ্যারান্টি।⎯ আইনের ধারা ৪৩ এর আওতায় সমন্বিত গ্যারান্টি গ্রহণের ক্ষেত্রে নিম্নবর্ণিত বিধান অনুসরণীয় হইবে, যথা:-\n\n(ক) অথরাইজড ইকোনমিক অপারেটরের মর্যাদাপ্রাপ্ত প্রতিষ্ঠান, সরকারি প্রতিষ্ঠান ও বোর্ড কর্তৃক নির্দিষ্টকৃত কোনো প্রতিষ্ঠান এবং ট্রানজিট/ট্রান্সশিপমেন্টের ক্ষেত্রে সমন্বিত গ্যারান্টি গ্রহণ করা যাইবে;\n\n(খ) যে সকল পণ্যচালানের জন্য ব্যাংক গ্যারান্টি গ্রহণের আবশ্যকতা রহিয়াছে সেই সকল পণ্যচালানের জন্য সমন্বিত গ্যারান্টি গ্রহণ করিবার ক্ষেত্রে সমন্বিত গ্যারান্টি হিসাবে ব্যাংক গ্যারান্টি গ্রহণ করিতে হইবে, সমন্বিত গ্যারান্টির মূল্য পণ্যচালানসমূহ সংশ্লিষ্ট শুল্ক ও কর এবং অন্যান্য চার্জ অপেক্ষা কম হইবে না;\n\n(গ) একাধিক প্রকারের গ্যারান্টি প্রযোজ্য হয় এইরূপ দুই বা ততোধিক কার্যক্রম, ঘোষণা বা কাস্টমস পদ্ধতির ক্ষেত্রে সমন্বিত গ্যারান্টি গ্রহণ করা যাইবে না।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 43 of this Act provides the legal basis for the acceptance of comprehensive guarantees for customs purposes."
+        ],
+        "Comprehensive Guarantee": [
+          "This mechanism allows for the consolidated coverage of customs duties and charges, provided that the total value of the guarantee is not less than the cumulative duties and taxes payable on the goods.",
+          "It is applicable to Authorized Economic Operators, government entities, and organizations specified by the National Board of Revenue, as well as for transit and transshipment operations.",
+          "The instrument must be in the form of a bank guarantee when such a guarantee is otherwise required for the clearance of goods.",
+          "It is prohibited to use a comprehensive guarantee for operations, declarations, or customs procedures that involve two or more different types of guarantee requirements."
+        ],
+        "Authorized Economic Operator": [
+          "These entities are explicitly eligible to utilize the comprehensive guarantee facility for their customs operations."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to specify which institutions, in addition to Authorized Economic Operators and government bodies, are permitted to provide comprehensive guarantees."
+        ],
+        "Transit and Transshipment": [
+          "These operations are explicitly eligible for coverage under the comprehensive guarantee regime."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2731",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 43",
+          "comprehensive guarantees"
+        ],
+        "Comprehensive Guarantee": [
+          "customs duties",
+          "charges",
+          "total value of the guarantee",
+          "cumulative duties",
+          "taxes",
+          "goods",
+          "Authorized Economic Operators",
+          "government entities",
+          "organizations",
+          "National Board of Revenue",
+          "transit operations",
+          "transshipment operations",
+          "bank guarantee",
+          "clearance of goods",
+          "customs procedures"
+        ],
+        "Authorized Economic Operator": [
+          "comprehensive guarantee facility",
+          "customs operations"
+        ],
+        "National Board of Revenue": [
+          "institutions",
+          "Authorized Economic Operators",
+          "government bodies",
+          "comprehensive guarantees"
+        ],
+        "Transit and Transshipment": [
+          "transit operations",
+          "transshipment operations",
+          "comprehensive guarantee regime"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        13,
+        14,
+        18,
+        86,
+        115,
+        166,
+        216,
+        225,
+        390,
+        648,
+        759,
+        806,
+        807,
+        1087,
+        2766,
+        3648,
+        4851,
+        6574,
+        6575,
+        6576,
+        6784,
+        8522,
+        12875
+      ],
+      "source_file": "customs_sros_OCR/20240606_205-AIN_2024_57_Customs/20240606_205-AIN_2024_57_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "সাব-কন্ট্রাক্ট",
+      "text_id": "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_13",
+      "resolved_text": "১৩। সাব-কন্ট্রাক্ট।– (১) কাঁচামালের বন্ডিং মেয়াদ থাকা সাপেক্ষে রপ্তানি প্রক্রিয়াকরণ অঞ্চল, অর্থনৈতিক অঞ্চল এবং স্থানীয় ট্যারিফ এলাকার যে কোনো স্থানে অবস্থিত দুইটি বন্ড লাইসেন্সধারী প্রতিষ্ঠানের মধ্যে পারস্পরিক চুক্তির ভিত্তিতে (সাব-কন্ট্রাক্ট) নিম্নবর্ণিত শর্ত পূরণ সাপেক্ষে কাঁচামালের আন্তঃবন্ড স্থানান্তর অনুমোদন করা যাইবে, যথা:-\n(ক) আমদানিকৃত উপকরণের মূল স্বত্বাধিকারী এবং চুক্তিবদ্ধ উৎপাদনকারীর মধ্যে সম্পাদিত চুক্তি দেশে বলবৎ The Contract Act, 1872 (Act No. IX OF 1872) এর বিধি বিধান অনুসরণপূর্বক সম্পন্ন করিতে হইবে;\n(খ) চুক্তিবদ্ধ পণ্য উৎপাদনের জন্য চুক্তি সম্পাদনকারী উভয় উৎপাদকের হালনাগাদ নবায়িত ওয়্যারহাউস লাইসেন্স থাকিতে হইবে;\n(গ) বাণিজ্য মন্ত্রণালয় কর্তৃক জারীকৃত তৈরি পোশাক শিল্পে সাব-কন্ট্রাক্টিং গাইড লাইন, ২০১৯ এর অনুচ্ছেদ-৩ এ বর্ণিত সকল বিধানাবলী অনুসরণপূর্বক চুক্তিবদ্ধ উৎপাদককে সরকার কর্তৃক স্বীকৃত সংগঠনের সদস্য হইতে হইবে এবং সদস্যপদ হালনাগাদ নবায়িত থাকিতে হইবে;\n(ঘ) রপ্তানি প্রক্রিয়াকরণ অঞ্চল এবং অর্থনৈতিক অঞ্চলের ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষ থেকে অনুমতিপত্র গ্রহণ করিতে হইবে;\n(ঙ) রপ্তানি প্রক্রিয়াকরণ অঞ্চল এবং অর্থনৈতিক অঞ্চলের ক্ষেত্রে কমিশনার কর্তৃক নির্ধারিত কর্মকর্তা প্রযোজ্য অন্যান্য বিধি বিধানের আলোকে সাব-কন্ট্রাক্ট অনুমোদন প্রদান করিবেন;\n(চ) রপ্তানি প্রক্রিয়াকরণ অঞ্চল এবং অর্থনৈতিক অঞ্চলের বাহিরে অন্যান্য বন্ডেড প্রতিষ্ঠানের ক্ষেত্রে চুক্তিপত্রের কপি সংশ্লিষ্ট সংগঠন বরাবর প্রেরণ করিতে হইবে এবং উক্তরূপ চুক্তিপত্রের ভিত্তিতে সংগঠন একটি অনুমতিপত্র ইস্যু করিবেন, যাহার একটি কপি সংশ্লিষ্ট বন্ড কমিশনারেট, অথবা ক্ষেত্রমত মূসক কমিশনারেটের কমিশনার বরাবর ইস্যুর তারিখ হতে ২৪ (চব্বিশ) ঘণ্টার মধ্যে প্রেরণ করিতে হইবে;\n(ছ) চুক্তি সম্পাদনকারী উৎপাদকগণ ভিন্ন ভিন্ন কমিশনারেটের অধিক্ষেত্রে অবস্থিত হইলে চুক্তি প্রদানকারী উৎপাদককে তাহার ওয়্যারহাউস লাইসেন্স প্রদানকারী কমিশনারের নিকট হইতে পূর্বানুমোদন গ্রহণ করিতে হইবে এবং এক্ষেত্রে সংশ্লিষ্ট কমিশনার স্বীয় বিবেচনা মোতাবেক কাটিং তদারকি অথবা Escorting -এর মাধ্যমে কাঁচামাল স্থানান্তরের শর্ত আরোপ করিতে পারিবেন;\n(জ) চুক্তিবদ্ধ পণ্য উৎপাদনের অনুমতিপত্রে পণ্য ফেরতের সুনির্দিষ্ট তারিখ অবশ্যই উল্লেখ করিতে হইবে;\n(ঝ) পণ্যের অবৈধ অপসারণজনিত কারণে কোনো মামলা বা দাবীনামা অনিষ্পন্ন থাকিলে চুক্তিবদ্ধ উৎপাদনের অনুমতির জন্য সংশ্লিষ্ট কমিশনারের নিকট আবেদন করিতে হইবে;\n(ঞ) কমিশনার স্থানান্তরযোগ্য পণ্য চালানের উপর আরোপণীয় শুল্ক ও করের সমপরিমাণ নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি গ্রহণ করিয়া স্থানান্তরের অনুমতি প্রদান করিবেন এবং স্থানান্তরিত পণ্য প্রক্রিয়াকরণপূর্বক মূল উৎপাদকের কারখানায় ফেরত আসিবার পর সংশ্লিষ্ট কমিশনার ব্যাংক গ্যারান্টি অবমুক্তকরণের আদেশ প্রদান করিবেন;\n(ট) সংশ্লিষ্ট কমিশনারেট এবং রপ্তানিকারকগণের সংগঠন চুক্তিবদ্ধ উৎপাদনের ক্ষেত্রে চুক্তি সম্পাদনকারী উৎপাদকের নাম, Business Identification Number (BIN), স্থানান্তরযোগ্য পণ্যের সহিত সংশ্লিষ্ট মাস্টার ঋণপত্র/ ব্যাক টু ব্যাক ঋণপত্র/ সেলস কন্ট্রাক্ট নম্বর, জাহাজীকরণের সর্বশেষ তারিখ, বিল অব এন্ট্রি নং ও তারিখ, পণ্যের নাম ও পরিমাণ এবং পণ্য ফেরতের সর্বশেষ তারিখ উল্লেখপূর্বক স্থায়ীভাবে তথ্য সংরক্ষণ করিবেন;\n(ঠ) চুক্তি সম্পাদনকারী প্রতিষ্ঠানসমূহের বার্ষিক নিরীক্ষার সময় চুক্তিসমূহে উল্লিখিত সময়ের মধ্যে তাহা যথাযথভাবে সম্পাদন করা হইয়াছে কি-না এবং চুক্তিসমূহের বিপরীতে বৈদেশিক মুদ্রায় মূল্য পরিশোধের ক্ষেত্রে বাংলাদেশ ব্যাংকের Guidelines for Foreign Exchange Transactions, 2018(Vol-1) এর বিধানাবলী অনুসরণ করা হইয়াছে কি-না তাহা সংশ্লিষ্ট কাস্টমস অফিসার পুঙ্খানুপুঙ্খভাবে যাচাই করিয়া দেখিবেন;\n(ড) সাব-কন্ট্রাক্ট মূল্য স্থানীয় ঋণপত্রের বিপরীতে বৈদেশিক মুদ্রায় পরিশোধযোগ্য হইবে, তবে স্থানীয় মুদ্রায় সাব-কন্ট্রাক্ট সম্পাদিত হইলে বোর্ডের এতদসংক্রান্ত নির্দেশনা অনুসরণ করিয়া সংশ্লিষ্ট মূসক কমিশনারেটের নিকট হইতে মূসক অব্যাহতির অনুমোদন গ্রহণ করিতে হইবে;\n(ঢ) প্রতিষ্ঠানের বন্ড লাইসেন্স ও Business Identification Number (BIN) স্থগিত থাকাকালে সাব-কন্ট্রাক্টের অনুমতি প্রদান করা যাইবে না;\n\n(২) এই বিধির কোনো ব্যত্যয় হইলে চুক্তি প্রদানকারী রপ্তানিকারকের ওয়্যারহাউস লাইসেন্স প্রদানকারী কমিশনারেট চুক্তির অনুমতিপত্র বাতিল করিয়া কাস্টমস আইন, ২০২৩ (২০২৩ সনের ২৩ নং আইন), মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন), এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা, ২০১৬ অনুযায়ী যথোপযুক্ত ব্যবস্থা গ্রহণ করিবেন।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The clause establishes a regulatory framework for sub-contracting between two licensed bonded warehouse entities, allowing for the inter-bond transfer of raw materials within specified export processing zones, economic zones, and local tariff areas.",
+          "Sub-contracting is prohibited if the involved entities have their warehouse license or Business Identification Number suspended."
+        ],
+        "The Contract Act 1872": [
+          "All sub-contracting agreements between the original owner of imported materials and the contract manufacturer must be executed in accordance with the provisions of this Act."
+        ],
+        "Business Identification Number": [
+          "Customs authorities and relevant trade associations are required to maintain permanent records of sub-contracting activities, including the Business Identification Number of the participating manufacturers."
+        ],
+        "National Board of Revenue": [
+          "The Board issues specific directives regarding the payment of sub-contracting fees, particularly when payments are made in local currency instead of foreign currency, requiring VAT exemption clearance from the concerned VAT Commissionerate."
+        ],
+        "Bank Guarantee": [
+          "The Commissioner of Customs requires an unconditional and continuous bank guarantee equivalent to the duties and taxes applicable on the transferred goods prior to authorizing the transfer.",
+          "The bank guarantee is released by the Commissioner only after the processed goods are returned to the factory of the original manufacturer."
+        ],
+        "Guidelines for Foreign Exchange Transactions 2018": [
+          "Customs officers verify during annual audits that foreign currency payments for sub-contracting activities comply with the requirements stipulated in these guidelines."
+        ],
+        "Customs Act 2023": [
+          "In the event of a violation of sub-contracting regulations, the relevant Commissionerate is empowered to cancel the sub-contracting authorization and take legal action under this Act, alongside VAT and Supplementary Duty laws."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "The Commissionerate may initiate appropriate legal proceedings under this Act if the established rules for sub-contracting and inter-bond transfers are breached."
+        ],
+        "Value Added Tax and Supplementary Duty Rules 2016": [
+          "Provisions of these rules are applied in conjunction with other customs and VAT laws when determining penalties or corrective measures for non-compliance with sub-contracting regulations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2839",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "licensed bonded warehouse entities",
+          "raw materials",
+          "export processing zones",
+          "economic zones",
+          "local tariff areas",
+          "warehouse license",
+          "Business Identification Number"
+        ],
+        "The Contract Act 1872": [
+          "sub-contracting agreements",
+          "original owner of imported materials",
+          "contract manufacturer"
+        ],
+        "Business Identification Number": [
+          "Customs authorities",
+          "trade associations",
+          "participating manufacturers"
+        ],
+        "National Board of Revenue": [
+          "sub-contracting fees",
+          "local currency",
+          "foreign currency",
+          "VAT exemption clearance",
+          "VAT Commissionerate"
+        ],
+        "Bank Guarantee": [
+          "Commissioner of Customs",
+          "duties",
+          "taxes",
+          "transferred goods",
+          "processed goods",
+          "factory of the original manufacturer"
+        ],
+        "Guidelines for Foreign Exchange Transactions 2018": [
+          "Customs officers",
+          "foreign currency payments",
+          "sub-contracting activities"
+        ],
+        "Customs Act 2023": [
+          "Commissionerate",
+          "sub-contracting authorization",
+          "VAT laws",
+          "Supplementary Duty laws"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Commissionerate",
+          "sub-contracting",
+          "inter-bond transfers"
+        ],
+        "Value Added Tax and Supplementary Duty Rules 2016": [
+          "customs laws",
+          "VAT laws",
+          "sub-contracting regulations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        12,
+        13,
+        19,
+        22,
+        30,
+        35,
+        45,
+        61,
+        111,
+        166,
+        197,
+        227,
+        308,
+        309,
+        393,
+        451,
+        846,
+        892,
+        1316,
+        1813,
+        2770,
+        2950,
+        3335,
+        3677,
+        4014,
+        4303,
+        4952,
+        4953,
+        4970,
+        5033,
+        8007,
+        9146,
+        9474,
+        9589,
+        10417,
+        10509,
+        12483,
+        12484,
+        12488,
+        12944,
+        13217
+      ],
+      "source_file": "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "নির্ধারিত বার্ষিক আমদানি প্রাপ্যতার অতিরিক্ত কাঁচামাল আমদানি",
+      "text_id": "20240606_214-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_12",
+      "resolved_text": "১২। নির্ধারিত বার্ষিক আমদানি প্রাপ্যতার অতিরিক্ত কাঁচামাল আমদানি।- (১) বিধি ৪ বা বিধি ৫ বা বিধি ৬ এ উল্লিখিত পদ্ধতিতে কোনো প্রতিষ্ঠানের বার্ষিক আমদানি প্রাপ্যতা নির্ধারিত হইবার পর সংশ্লিষ্ট মেয়াদে উক্তরূপ আমদানি প্রাপ্যতার অতিরিক্ত কাঁচামাল আমদানি করা হইলে তাহা প্রযোজ্য শুল্ক করাদির সমপরিমাণ অর্থের নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টির বিপরীতে বন্ডের আওতায় এই শর্তে খালাস দেওয়া যাইবে যে, কোনো ক্ষেত্রেই তাহা সংশ্লিষ্ট মেয়াদে মোট আমদানির পরিমাণ ও পূর্ববর্তী মেয়াদের মজুদ কাঁচামালের জেরসহ একত্রে প্রতিষ্ঠানের বার্ষিক উৎপাদন ক্ষমতার শতকরা ৮০ (আশি) ভাগের অতিরিক্ত হইবে না।\n(২) ব্যাংক গ্যারান্টির বিপরীতে খালাসকৃত কাঁচামাল দ্বারা উৎপাদিত সমুদয় পণ্য রপ্তানির পরে রপ্তানির সপক্ষে ব্যাংকের যথাযথ পিআরসি (Proceed Realization Certificate) বা প্রত্যয়নপত্র, লিয়েন ব্যাংকের প্রত্যয়নপত্রসহ, এবং অন্যান্য প্রয়োজনীয় দলিলাদি কমিশনার অব কাস্টমস (বন্ড) অথবা জাতীয় রাজস্ব বোর্ড কর্তৃক ক্ষমতাপ্রাপ্ত অন্য কোনো কমিশনার অব কাস্টমসের নিকট দাখিল দাখিল করা হইলে কমিশনার প্রয়োজনীয় যাচাই বাছাই করিয়া রপ্তানি নিশ্চিত হইয়া আমদানি কাস্টম হাউসে বা স্টেশনে উক্ত ব্যাংক গ্যারান্টি অবমুক্তির লক্ষ্যে প্রত্যয়নপত্র জারি করিবেন।",
+      "entity_concepts": {
+        "Raw Materials": [
+          "Imports of raw materials exceeding the prescribed annual limit are permitted under a bond facility upon providing an unconditional and continuous bank guarantee equal to the applicable duties and taxes.",
+          "Total imports, including current imports and existing stocks from previous periods, must not exceed a specified percentage of the entity's annual production capacity."
+        ],
+        "Proceeds Realization Certificate": [
+          "Exporters are required to submit a valid Proceeds Realization Certificate, along with other supporting documents from their lien bank, to the Commissioner of Customs (Bond) as proof of export for the goods produced from bonded raw materials."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or another officer authorized by the National Board of Revenue is responsible for verifying export documentation and issuance of the certificate required to release the bank guarantee for excess raw material imports."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue holds the authority to empower customs officials to perform verification and administrative tasks related to the release of bank guarantees for bonded imports."
+        ],
+        "Bank Guarantee": [
+          "A continuous and unconditional bank guarantee equal to the full amount of payable duties and taxes is required to secure the clearance of raw materials imported in excess of the annual entitlement."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2860",
+      "entity_sub_entities": {
+        "Raw Materials": [
+          "raw materials",
+          "bond facility",
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "existing stocks",
+          "annual production capacity"
+        ],
+        "Proceeds Realization Certificate": [
+          "Proceeds Realization Certificate",
+          "supporting documents",
+          "lien bank",
+          "Commissioner of Customs (Bond)",
+          "goods",
+          "bonded raw materials"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "officer",
+          "National Board of Revenue",
+          "export documentation",
+          "certificate",
+          "bank guarantee",
+          "raw material imports"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "customs officials",
+          "bank guarantees",
+          "bonded imports"
+        ],
+        "Bank Guarantee": [
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "raw materials",
+          "annual entitlement"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        12,
+        13,
+        30,
+        87,
+        114,
+        166,
+        188,
+        565,
+        624,
+        711,
+        845,
+        912,
+        967,
+        3311,
+        3410,
+        3536,
+        3537,
+        6022,
+        7873
+      ],
+      "source_file": "customs_sros_OCR/20240606_214-AIN_2024_66_Customs/20240606_214-AIN_2024_66_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "বিয়োজনের শর্তে প্রত্যয়নপত্র",
+      "text_id": "20240606_214-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_9",
+      "resolved_text": "৯। বিয়োজনের শর্তে প্রত্যয়নপত্র।- বার্ষিক নিরীক্ষা ও আমদানি প্রাপ্যতার মেয়াদ সমাপনান্তে নিরীক্ষার লক্ষ্যে দলিলাদি দাখিল করা হইয়াছে বা নিরীক্ষা চলমান রহিয়াছে, এইরূপ পরিস্থিতিতে খালাসের অপেক্ষায় থাকা আমদানি পণ্য চালান ছাড়করণার্থে প্রতিষ্ঠানের আবেদনক্রমে কমিশনার অব কাস্টমস (বন্ড) বা ক্ষমতাপ্রাপ্ত কমিশনার অব কাস্টমস পণ্যচালানের ক্ষেত্রে নিম্নবর্ণিত তথ্যাদি উল্লেখপূর্বক একটি প্রত্যয়নপত্র আমদানি কাস্টম হাউসের কমিশনার বা কাস্টমস স্টেশন নিয়ন্ত্রণকারী কমিশনারের নিকট প্রেরণ করিবেন, যথা:-\n(ক) এলসি নম্বর;\n(খ) বিএল বা এয়ারওয়ে বিল নম্বর বা ট্রাক রিসিপ্ট নম্বর;\n(গ) ইনভয়েস নম্বর; এবং\n(ঘ) পণ্যের বর্ণনা ও পরিমাণ:\nতবে শর্ত থাকে যে, প্রত্যয়নপত্রে উল্লিখিত পরিমাণ কাঁচামাল পরবর্তী মেয়াদের আমদানি প্রাপ্যতা হইতেবিয়োজিত হইবে এবং প্রত্যয়নপত্রে বর্ণিত কাঁচামালের পরিমাণ আগামী মেয়াদের সম্ভাব্য প্রাপ্যতার এক-চতুর্থাংশের অধিক হইবে না:\nআরও শর্ত থাকে যে, প্রতিষ্ঠানের নামে দাবিনামার ভিত্তিতে বিচারাদেশ জারি করা হইলে এইরূপ প্রত্যয়নপত্র নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি দাখিলের শর্ত আরোপপূর্বক প্রদান করা যাইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "This clause establishes a procedure for clearing imported goods under audit when the annual audit or import entitlement period has concluded. The Commissioner of Customs (Bond) or an authorized commissioner must issue a certification to the customs house to facilitate the release of goods pending final audit verification."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or an authorized commissioner is responsible for verifying documentation and issuing the required certification for the release of pending import consignments. They must ensure that the certified quantities are subsequently deducted from the importer's future import entitlement."
+        ],
+        "Bank Guarantee": [
+          "In cases where a demand notice has been issued against a business entity, the commissioner may require the submission of an unconditional and continuous bank guarantee as a condition for issuing the release certification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2857",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "imported goods",
+          "annual audit",
+          "import entitlement period",
+          "Commissioner of Customs (Bond)",
+          "authorized commissioner",
+          "certification",
+          "customs house"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "authorized commissioner",
+          "documentation",
+          "certification",
+          "import consignments",
+          "certified quantities",
+          "importer's future import entitlement"
+        ],
+        "Bank Guarantee": [
+          "demand notice",
+          "business entity",
+          "commissioner",
+          "unconditional and continuous bank guarantee",
+          "release certification"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        8,
+        60,
+        61,
+        63,
+        64,
+        166,
+        195,
+        386,
+        553,
+        748,
+        944,
+        1324,
+        3167,
+        6297,
+        8845,
+        8943,
+        11395
+      ],
+      "source_file": "customs_sros_OCR/20240606_214-AIN_2024_66_Customs/20240606_214-AIN_2024_66_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_74",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_74",
+      "resolved_text": "১২. স্বীকৃতি সনদপ্রাপ্ত প্রতিষ্ঠানের কোনো পণ্যচালানের জন্য আইনের আওতায় ব্যাংক গ্যারান্টি প্রদানের প্রয়োজন হলে উক্ত প্রতিষ্ঠানের অনুরোধের পরিপ্রেক্ষিতে শ্রেণি-১ এর স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের ক্ষেত্রে স্বাভাবিক নিয়মে প্রযোজ্য ব্যাংক গ্যারান্টির ৭৫% ব্যাংক গ্যারান্টি ও ২৫% স্ট্যাম্পে অঙ্গীকারনামা এবং শ্রেণি-২ এর স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের ক্ষেত্রে স্বাভাবিক নিয়মে প্রযোজ্য ব্যাংক গ্যারান্টির ৫০% ব্যাংক গ্যারান্টি ও ৫০% স্ট্যাম্পে অঙ্গীকারনামা এবং শ্রেণি-৩ এর স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের ক্ষেত্রে ব্যাংক গ্যারান্টির পরিবর্তে স্ট্যাম্পে অঙ্গীকারনামা গ্রহণ করতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Certified entities are categorized into three classes to determine their specific customs financial security requirements.",
+          "For Class-1 entities, customs authority accepts a reduced bank guarantee of seventy-five percent and a bond on stamp paper for the remainder.",
+          "For Class-2 entities, the requirement is further reduced to fifty percent bank guarantee and fifty percent bond on stamp paper.",
+          "For Class-3 entities, the requirement for a bank guarantee is entirely waived and replaced by a bond on stamp paper."
+        ],
+        "Bank Guarantee": [
+          "The customs authority may accept partial bank guarantees combined with formal undertakings on stamp paper for authorized entities to facilitate trade clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_864",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "Class-1 entities",
+          "Class-2 entities",
+          "Class-3 entities",
+          "bank guarantee",
+          "bond on stamp paper"
+        ],
+        "Bank Guarantee": [
+          "bank guarantees",
+          "formal undertakings on stamp paper"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        166,
+        624,
+        3602,
+        6027,
+        6372,
+        6375,
+        8305
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "ট্রানজিট বা ট্রান্সশিপমেন্ট গ্যারান্টি",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_10",
+      "resolved_text": "১০। ট্রানজিট বা ট্রান্সশিপমেন্ট গ্যারান্টি।—(১) সংশ্লিষ্ট চুক্তি, প্রটোকল বা স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর এ ভিন্নতর কোনো কিছু উল্লেখ না থাকিলে, ট্রানজিট বা ট্রান্সশিপমেন্ট পণ্য চালানের রাজস্ব ঝুঁকি হ্রাস এবং অন্যবিধ অনিয়মের আশঙ্কা রোধকল্পে প্রতিটি ট্রানজিট বা ট্রান্সশিপমেন্ট চালানের ক্ষেত্রে বাংলাদেশের কোনো তফসিলি ব্যাংক হইতে প্রযোজ্য শুল্ক-করের সমপরিমাণ অর্থের নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি দাখিল করিতে হইবে।\n(২) সংশ্লিষ্ট চুক্তি বা প্রটোকল বা স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর এ উল্লিখিত কাস্টমস বন্ড বা লেটার অব গ্যারান্টি বা অঙ্গীকারনামা সংশ্লিষ্ট ক্ষেত্রে বৈধ গ্যারান্টি হিসেবে বিবেচিত হইবে।\n(৩) ট্রানজিট বা ট্রান্সশিপমেন্ট প্রক্রিয়া সম্পন্ন হওয়ার পরবর্তী ৭ (সাত) কার্য দিবসের মধ্যে ক্ষেত্রমত, কাস্টমস বন্ড বা অঙ্গীকারনামা বা লেটার অব গ্যারান্টির অবমুক্তি নিশ্চিত করিতে হইবে।\n(৪) আইনের বিধান অনুসরণপূর্বক একই অনুমোদিত ব্যক্তি বা এজেন্ট কর্তৃক একাধিক ট্রানজিট বা ট্রান্সশিপমেন্ট কার্যক্রম সম্পাদনের ক্ষেত্রে সমন্বিত গ্যারান্টি দাখিলের সুযোগ প্রদান করা যাইবে।\n(৫) সন্তোষজনক কার্যক্রম পরিপালনের রেকর্ড রহিয়াছে এবং পূর্ববর্তী বৎসরে অনূ্যন ২০ (বিশ) টি ট্রানজিট বা ট্রান্সশিপমেন্ট চালান ব্যবস্থাপনায় অংশগ্রহণ করিয়াছে এইরূপ কোনো অনুমোদিত ব্যক্তি যদি অভ্যন্তরীণ প্রবেশ বন্দর সংশ্লিষ্ট কাস্টমস কমিশনারের নিকট আবেদন করেন, তাহা হইলে তাহাকে সমন্বিত গ্যারান্টি প্রদানকারী হিসাবে অনুমোদন প্রদান করা যাইবে।\n(৬) কাস্টমস বন্ড বা অঙ্গীকারনামা বা লেটার অব গ্যারান্টি সম্পর্কিত সকল বিধান কাস্টমস ওয়েবসাইট এবং ইন্টারনেটের মাধ্যমে সকলের জন্য সহজলভ্য করিতে হইবে।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "Each transit or transshipment shipment requires an unconditional and continuous bank guarantee from a scheduled bank in Bangladesh for an amount equivalent to the applicable duties and taxes to mitigate revenue risks and prevent irregularities.",
+          "Customs bonds, letters of guarantee, or undertakings as specified in relevant agreements, protocols, or standard operating procedures are recognized as valid forms of security.",
+          "Customs authorities must ensure the release of bonds or guarantees within a specified number of working days after the completion of the transit or transshipment process.",
+          "Authorized agents or persons may submit a consolidated guarantee for multiple transit or transshipment activities in accordance with legal provisions.",
+          "Qualified persons who have a record of satisfactory compliance and have managed a minimum threshold of transit or transshipment shipments in the previous year may be approved for consolidated guarantee submission upon application to the customs commissioner."
+        ],
+        "Customs Authority": [
+          "The customs authority is responsible for ensuring that all regulations and procedures regarding bonds, letters of guarantee, and undertakings are made easily accessible to the public through the official customs website and the internet."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2983",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "transit shipment",
+          "transshipment shipment",
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "Customs bonds",
+          "letters of guarantee",
+          "undertakings",
+          "agreements",
+          "protocols",
+          "standard operating procedures",
+          "consolidated guarantee",
+          "authorized agents",
+          "customs commissioner"
+        ],
+        "Customs Authority": [
+          "customs authority",
+          "regulations",
+          "procedures",
+          "bonds",
+          "letters of guarantee",
+          "undertakings",
+          "official customs website",
+          "internet"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        23,
+        30,
+        121,
+        150,
+        166,
+        216,
+        224,
+        546,
+        718,
+        801,
+        889,
+        1004,
+        1010,
+        2602,
+        2895,
+        3672,
+        4275,
+        9240,
+        12977,
+        13018
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম নিষ্পত্তি পদ্ধতি",
+      "text_id": "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_4",
+      "resolved_text": "৪। ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম নিষ্পত্তি পদ্ধতি।— (১) ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম যে কাস্টমস স্টেশন দিয়া আমদানি করা হইবে সেই কাস্টমস স্টেশন দিয়া ফেরত প্রদান করিতে হইবে:\nতবে শর্ত থাকে যে, কোনো কারণে উক্ত স্টেশন দিয়া ফেরত প্রদান করা সম্ভব না হইলে আমদানি সংশ্লিষ্ট কমিশনারের পূর্বানুমতি গ্রহণ করিয়া অন্য কাস্টমস স্টেশন দিয়া ফেরত প্রদান করা হইবে।\n(২) ফেরত প্রদানকালে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম চালানটির ফেরত প্রদান নিশ্চিত করিবার লক্ষ্যে অন্যূন সহকারী কমিশনারের তত্ত্বাবধানে শতভাগ কায়িক পরীক্ষা করিয়া প্রযোজ্য সকল কাস্টমস আনুষ্ঠানিকতা প্রতিপালন করিতে হইবে, কাস্টমস আনুষ্ঠানিকতা প্রতিপালনকালে আমদানি সংক্রান্ত দলিলাদি দাখিল করিতে হইবে।\n(৩) সংশ্লিষ্ট পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম ফেরত প্রদান সম্পন্ন হইলে আমদানিকারক কর্তৃক ফেরত প্রদানের স্বপক্ষে তথ্য ও দলিলাদি সংশ্লিষ্ট কমিশনারের নিকট দাখিল এবং অনুমোদন সাপেক্ষে ব্যাংক গ্যারান্টি অবমুক্ত করিতে হইবে।\n(৪) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম নির্ধারিত সময়ের মধ্যে ফেরত প্রদান করিতে ব্যর্থ হইলে সংশ্লিষ্ট কমিশনার চালানটির চূড়ান্ত শুল্কায়ন করিয়া প্রযোজ্য ক্ষেত্রে শুল্ক-কর ও কাস্টমস আইন, ২০২৩ এর অধীন জরিমানার অর্থ আদায়ের লক্ষ্যে ব্যাংক গ্যারান্টি নগদায়ন এবং অতিরিক্ত অর্থ আদায়ের অনুমতি প্রদান করিতে পারিবেন।\n(৫) জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর পূর্বানুমতি ব্যতীত এই বিধিমালার অধীন আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম স্থানীয় বাজারে বিক্রয় বা অন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট ব্যবহারের উদ্দেশ্যে হস্তান্তর, বিক্রয় বা অন্য কোনো উদ্দেশ্যে সরবরাহ করা যাইবে না:\nতবে শর্ত থাকে যে, জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর অনুমতি গ্রহণ করিয়া উপ-বিধি (৪) এর বিধান অনুযায়ী প্রযোজ্য শুল্ক-কর ও সুদ পরিশোধ করিয়া বিক্রয় বা হস্তান্তর করা যাইবে।\n(৬) উপ-বিধি (৪) এর অধীন ব্যাংক গ্যারান্টি নগদায়ন বা অর্থ আদায় করা সম্ভব না হইলে, আমদানির তারিখ হইতে প্রযোজ্য শুল্ক-করাদির অতিরিক্ত মাসিক শতকরা এক ভাগ হারে সুদ ও, প্রযোজ্য ক্ষেত্রে কাস্টমস আইন, ২০২৩ এর অধীন জরিমানাও আদায়যোগ্য হইবে।",
+      "entity_concepts": {
+        "Temporary Importation": [
+          "Goods, machinery, parts, and equipment imported on a re-export basis must be re-exported through the same customs station used for their entry.",
+          "Re-export through a different customs station is permitted only with the prior approval of the relevant Commissioner of Customs.",
+          "Temporary importations that are not re-exported within the prescribed time limit are subject to final assessment, collection of applicable duties and taxes, and penalties under the Customs Act, 2023.",
+          "The local sale, transfer, or supply of temporarily imported goods to other parties or entities is prohibited without the prior approval of the Member (Customs) of the National Board of Revenue."
+        ],
+        "Customs Clearance": [
+          "At the time of re-export, imported items must undergo a 100% physical examination under the supervision of at least an Assistant Commissioner to ensure full compliance with customs formalities and submission of required import documentation."
+        ],
+        "Bank Guarantee": [
+          "Following the successful re-export of goods, importers must submit proof and documentation to the Commissioner to obtain approval for the release of the bank guarantee.",
+          "In the event of a failure to re-export goods within the specified period, the Commissioner of Customs may encash the bank guarantee to recover applicable duties, taxes, and penalties."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs) of the National Board of Revenue is the authorized body to grant permission for the sale or transfer of temporarily imported items, provided that all applicable duties, taxes, and interest are paid."
+        ],
+        "Customs Act 2023": [
+          "This Act serves as the legal framework for the imposition of penalties in cases where temporary imports are not re-exported as required.",
+          "The Act provides the authority for the collection of duties, taxes, and penalties including interest, calculated at a monthly rate from the date of import, if bank guarantees or other recovery methods are insufficient."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3117",
+      "entity_sub_entities": {
+        "Temporary Importation": [
+          "goods",
+          "machinery",
+          "parts",
+          "equipment",
+          "duties",
+          "taxes",
+          "penalties",
+          "Customs Act, 2023"
+        ],
+        "Customs Clearance": [
+          "imported items",
+          "import documentation"
+        ],
+        "Bank Guarantee": [
+          "goods",
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "penalties"
+        ],
+        "National Board of Revenue": [
+          "Member (Customs)",
+          "temporarily imported items",
+          "duties",
+          "taxes",
+          "interest"
+        ],
+        "Customs Act 2023": [
+          "temporary imports",
+          "duties",
+          "taxes",
+          "penalties",
+          "interest",
+          "bank guarantees"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        13,
+        19,
+        30,
+        33,
+        46,
+        51,
+        54,
+        72,
+        166,
+        324,
+        369,
+        409,
+        624,
+        1716,
+        1798,
+        1799,
+        1975,
+        12761
+      ],
+      "source_file": "customs_sros_OCR/20250602_227-AIN_2025_49_Customs/20250602_227-AIN_2025_49_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ৩৮৪-আইন/২০২৫/১০৬/কাস্টমস",
+      "text_id": "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_1",
+      "resolved_text": "এস.আর.ও. নং ৩৮৪-আইন/২০২৫/১০৬/কাস্টমস—সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ Ges মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, ওয়্যারহাউস লাইসেন্সবিহীন তফসিল-১ এ উল্লিখিত খাতের শিল্প প্রতিষ্ঠানসমূহ কর্তৃক রপ্তানির উদ্দেশ্যে পণ্য তৈরির কাঁচামাল বা উপকরণ আমদানির ক্ষেত্রে আরোপণীয় সমুদয় আমদানি শুল্ক, রেগুলেটরি ডিউটি, মূল্য সংযোজন কর, আগাম কর ও সম্পূরক শুল্ক, যদি থাকে, তা পরিশোধ ব্যতিরেকে এর সমপরিমাণ মূল্যের ব্যাংক গ্যারান্টি দাখিলের বিপরীতে নিম্নবর্ণিত শর্ত সাপেক্ষে আমদানির সুবিধা প্রদান করিল, যথা:—\nশর্তাবলি:—\n(ক) সংশ্লিষ্ট শিল্প প্রতিষ্ঠানের অনুকূলে বিদেশি কোনো প্রতিষ্ঠান বা ক্রেতার ক্রয়-বিক্রয় চুক্তি, Letter of Credit (LC) বা Advance TT থাকিতে হইবে;\n(খ) ক্রয়-বিক্রয়ের চুক্তি Integrated VAT Administration System (iVAS) এ অন্তর্ভুক্ত দেশীয় লিয়েন ব্যাংক কর্তৃক Endorsement করে দাখিল করিতে হইবে এবং যদি কোনো ব্যাংকের নাম iVAS এ অন্তর্ভুক্ত না থাকে, সেইক্ষেত্রে মূসক ফরম-২.১ এর মাধ্যমে ভ্যাট নিবন্ধনে তথ্য হালনাগাদ করে ব্যাংকের নাম অন্তর্ভুক্ত করিয়া নিতে হইবে;\n(গ) লিয়েন ব্যাংক হইতে শিল্প প্রতিষ্ঠান কর্তৃক আমদানিকৃত শর্ত (ক) তে বর্ণিত রপ্তানি আদেশ সংশ্লিষ্ট পণ্যচালানের উপর আরোপিত বা প্রযোজ্য শুল্ক-করাদির সমপরিমাণ মূল্যের নিঃশর্ত ও অব্যাহত Bank Guarantee কাস্টমস হাউস বা স্টেশনে দাখিল করিতে হইবে;\n(ঘ) রপ্তানিযোগ্য পণ্য উৎপাদনের ক্ষেত্রে মূল্য সংযোজনের পরিমাণ ন্যূনতম ৩০ (ত্রিশ) শতাংশ হইতে হইবে;\n(ঙ) রপ্তানি আদেশ প্রাপ্তির পর এই প্রজ্ঞাপনের আওতায় কাঁচামাল আমদানির পূর্বে রপ্তানি আদেশের বিপরীতে সরবরাহের উদ্দেশ্যে প্রতি একক পণ্য উৎপাদনের জন্য আবশ্যক কাঁচামাল বা উপকরণের তালিকা ও যৌক্তিক পরিমাণ অপচয় সম্বলিত উপকরণ-উৎপাদ সহগ সম্পর্কিত তথ্য পরিশিষ্ট-১ অনুযায়ী সংশ্লিষ্ট commissioner, কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট এর নিকট দাখিল করিতে হইবে; তবে একই ক্রেতার একই আর্টিকেল নম্বর ও মডেল নম্বরের পণ্যের ক্ষেত্রে পুনরায় উপকরণ-উৎপাদ সহগ দাখিলের প্রয়োজন হইবে না;\n(চ) কমিশনারের নিকট আবশ্যক বিবেচিত হইলে তিনি যেকোনো সময় ঘোষিত উপকরণ উৎপাদ সহগ যাচাই বা পুনর্নির্ধারণের উদ্দেশ্যে কোনো বিশ্ববিদ্যালয় অথবা বিশেষায়িত প্রতিষ্ঠানে প্রেরণ করিতে পারিবেন এবং এরূপ যাচাই বা পুনর্নির্ধারণের ব্যয় আমদানিকারককে বহন করিতে হইবে;\n(ছ) উক্তরূপ প্রতিষ্ঠান হইতে প্রাপ্ত তথ্যের ভিত্তিতে অথবা প্রতিষ্ঠানের ঘোষণা যথাযথ বিবেচিত হইলে সহগ সম্বলিত পরিশিষ্ট-১ কমিশনার অনুমোদনপূর্বক প্রতিস্বাক্ষর করিবেন;\n(জ) কমিশনার কর্তৃক অনুমোদিত পরিশিষ্ট-১ এর সত্যায়িত অনুলিপি প্রতিটি আমদানি পণ্যচালান শুল্কায়নকালে আমদানি দলিলাদির সাথে দাখিল করিতে হইবে;\n(ঝ) শুল্কায়নকালে মূসক- ১৮.৪ (মূসক ছাড়পত্র) দাখিল করিতে হইবে;\n(ঞ) সংশ্লিষ্ট শিল্প প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder এবং VAT compliant উৎপাদনকারী (manufacturer) হইতে হইবে;\nব্যাখ্যা:—\n(অ) “Industrial IRC holder” অর্থ এমন প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত শিল্প ভোক্তা (Industrial consumer) আইআরসি রহিয়াছে।\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন নিবন্ধিত এবং উক্ত আইনের ধারা ৫১, ৫৩, ৫৪, ৬৪ ও ১০৭ এ উল্লিখিত মূল্য সংযোজন কর সংক্রান্ত হিসাব সংরক্ষণসহ কর চালানপত্র ও দাখিলপত্রের যাবতীয় আনুষ্ঠানিকতা প্রতিপালন করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান।\n(ট) এই প্রজ্ঞাপনের আওতায় কাঁচামাল আমদানির পর শুল্কায়ন সংক্রান্ত দলিলাদি সংশ্লিষ্ট কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট এর নিকট দাখিল করিতে হইবে;\n(ঠ) প্রাপ্ত রপ্তানি আদেশের বিপরীতে পণ্য সরবরাহের উদ্দেশ্যে শিল্প প্রতিষ্ঠানসমূহ প্রয়োজনীয় কাঁচামাল এক বা একাধিক চালানে আমদানি করিতে পারিবে;\n(ড) একই এলসি অথবা একই চালানে দেশীয় ভোগের জন্য উৎপাদনীয় পণ্যের কাঁচামাল এবং রপ্তানিযোগ্য পণ্যের কাঁচামাল একত্রে আমদানি করা যাইবে না;\n(ঢ) এই প্রজ্ঞাপনের আওতায় আমদানিকৃত কাঁচামাল ও রপ্তানিযোগ্য পণ্য পৃথক রেজিস্টারে (পরিশিষ্ট-৩) এন্ট্রি করতঃ প্রতিষ্ঠানের অন্যান্য কাঁচামাল বা পণ্য হইতে প্রতিষ্ঠানের অজ্ঞানে এমনভাবে পৃথক করিয়া সংরক্ষণ করিতে হইবে যেন তাহা সহজেই শনাক্ত ও পরিমাপ করা যায় এবং সংশ্লিষ্ট কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট এর দায়িত্বপ্রাপ্ত কর্মকর্তাগণ যেকোনো সময় উহা পরীক্ষণ বা যাচাই করিতে পারেন;\n(ণ) এই প্রজ্ঞাপনের আওতায় আমদানিকৃত কাঁচামাল ব্যবহারের হিসাব পরিশিষ্ট-২ অনুযায়ী প্রতি কর মেয়াদে অনলাইনে দাখিলপত্রের সাথে দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This act provides the enabling authority under Section 25 for the government to issue specific customs regulations and trade concessions."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this act grants the government the power to issue regulations concerning tax exemptions and administrative procedures for imports."
+        ],
+        "Bank Guarantee": [
+          "Industrial units without warehouse licenses must provide an unconditional and continuous bank guarantee equal to the total import duties, regulatory duties, value added tax, advance tax, and supplementary duties applicable to imported raw materials."
+        ],
+        "Integrated VAT Automated System": [
+          "Purchase and sale contracts related to imported raw materials must be endorsed by the relevant lien bank within this system, or updated via the prescribed VAT registration form if the bank is not registered."
+        ],
+        "Industrial IRC Holder": [
+          "This term refers to an entity that possesses a valid Industrial Registration Certificate issued by the Office of the Chief Controller of Imports and Exports."
+        ],
+        "VAT Compliant": [
+          "This status denotes an entity registered under the Value Added Tax and Supplementary Duty Act 2012 that fulfills all requirements regarding record-keeping, issuing tax invoices, and submitting periodic tax returns."
+        ],
+        "Commissioner of Customs, Excise and VAT": [
+          "This authority is responsible for approving and countersigning the coefficients of production and waste (Input-Output Coefficient), and for inspecting raw materials and finished goods maintained by industrial units."
+        ],
+        "Manufacturer": [
+          "Entities qualifying for these import benefits must be established manufacturers that are both industrial IRC holders and compliant with VAT laws."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3204",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Section 25",
+          "customs regulations",
+          "trade concessions"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1)",
+          "tax exemptions",
+          "administrative procedures"
+        ],
+        "Bank Guarantee": [
+          "unconditional and continuous bank guarantee",
+          "import duties",
+          "regulatory duties",
+          "value added tax",
+          "advance tax",
+          "supplementary duties",
+          "imported raw materials"
+        ],
+        "Integrated VAT Automated System": [
+          "purchase and sale contracts",
+          "imported raw materials",
+          "lien bank",
+          "VAT registration form"
+        ],
+        "Industrial IRC Holder": [
+          "Industrial Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports"
+        ],
+        "VAT Compliant": [
+          "record-keeping",
+          "tax invoices",
+          "periodic tax returns"
+        ],
+        "Commissioner of Customs, Excise and VAT": [
+          "coefficients of production and waste",
+          "Input-Output Coefficient",
+          "raw materials",
+          "finished goods"
+        ],
+        "Manufacturer": [
+          "industrial IRC holders",
+          "VAT laws"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        12,
+        19,
+        22,
+        44,
+        52,
+        95,
+        100,
+        101,
+        129,
+        132,
+        134,
+        137,
+        140,
+        153,
+        166,
+        175,
+        207,
+        444,
+        593,
+        631,
+        711,
+        859,
+        892,
+        960,
+        970,
+        1284,
+        2214,
+        3167,
+        4184,
+        5359,
+        6452,
+        11123,
+        12894,
+        13224
+      ],
+      "source_file": "customs_sros_OCR/20250929/20250929_output.json",
+      "clause_date": "2025-09-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_4",
+      "resolved_text": "৪। সংশ্লিষ্ট কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট কর্তৃক উক্ত দলিলাদি যাচাইপূর্বক রপ্তানি নিশ্চিত হওয়া সাপেক্ষে একটি অনাপত্তিপত্র ইস্যু করিবেন এবং তৎপ্রেক্ষিতে কাস্টমস হাউজ বা শুল্ক স্টেশন রপ্তানি কারক প্রতিষ্ঠানের দাখিলকৃত Bank Guarantee অবমুক্ত করিবেন।",
+      "entity_concepts": {
+        "Bank Guarantee": [
+          "The customs house or customs station is responsible for releasing the bank guarantee submitted by an exporting organization after verifying the necessary documentation and confirming the export.",
+          "The release of the bank guarantee is contingent upon the issuance of a no-objection certificate by the relevant customs, excise, and VAT commissionerate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3207",
+      "entity_sub_entities": {
+        "Bank Guarantee": [
+          "bank guarantee",
+          "customs house",
+          "customs station",
+          "exporting organization",
+          "documentation",
+          "no-objection certificate",
+          "customs, excise, and VAT commissionerate"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        60,
+        63,
+        166,
+        4403,
+        7037,
+        7969
+      ],
+      "source_file": "customs_sros_OCR/20250929/20250929_output.json",
+      "clause_date": "2025-09-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_5",
+      "resolved_text": "৫। এই প্রজ্ঞাপনের আওতায় আমদানিকৃত উপকরণ বা কাঁচামাল দিয়ে অনুচ্ছেদ ২ এ বর্ণিত নির্ধারিত সময়ের মধ্যে পণ্য উৎপাদনপূর্বক রপ্তানি করিতে ব্যর্থ হইলে অথবা বৈদেশিক মুদ্রা প্রত্যাবাসিত না হইলে আমদানিকালে দাখিলকৃত সমুদয় ব্যাংক গ্যারান্টি নগদায়ন করা হইবে।",
+      "entity_concepts": {
+        "Bank Guarantee": [
+          "In the event of a failure to produce and export goods within the specified timeframe or failure to repatriate foreign currency from exports, the bank guarantee submitted at the time of import shall be encashed.",
+          "The bank guarantee serves as a security instrument for compliance with the export and production obligations prescribed in the notification."
+        ],
+        "Imported Raw Materials": [
+          "Imported raw materials or components used under this notification are subject to strict compliance requirements regarding production and export timelines.",
+          "Failure to adhere to these export and currency repatriation obligations leads to enforcement action against the security provided during import."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3208",
+      "entity_sub_entities": {
+        "Bank Guarantee": [
+          "bank guarantee",
+          "security instrument"
+        ],
+        "Imported Raw Materials": [
+          "imported raw materials",
+          "components"
+        ]
+      },
+      "clause_clusters": [
+        42,
+        132,
+        166,
+        12058
+      ],
+      "source_file": "customs_sros_OCR/20250929/20250929_output.json",
+      "clause_date": "2025-09-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_6",
+      "resolved_text": "৬। যেই রপ্তানি আদেশের বিপরীতে কাঁচামাল আমদানি করা হয়েছিল তাহা বাতিল হইলে অথবা শিল্প প্রতিষ্ঠান পণ্য রপ্তানিতে অপারগ বা ব্যর্থ হইলে তাহা সংশ্লিষ্ট কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেটের কমিশনারকে লিখিতভাবে অবহিত করিতে হইবে, এবং কমিশনার উক্ত পণ্যচালানের বিপরীতে দাখিলকৃত সমুদয় ব্যাংক গ্যারান্টি নগদায়নের জন্য কাস্টমস হাউজ বা স্টেশনকে জানিয়ে দিবেন।",
+      "entity_concepts": {
+        "Customs, Excise and VAT Commissionerate": [
+          "Industrial establishments must provide written notification to the Commissioner of the relevant Customs, Excise and VAT Commissionerate if their export order is cancelled or if they are unable to fulfill their export obligations.",
+          "The Commissioner is empowered to direct the relevant Customs House or Station to encash all bank guarantees submitted against the specific consignment of raw materials."
+        ],
+        "Bank Guarantee": [
+          "In cases of export order cancellation or failure to export goods, the bank guarantees provided by the industrial establishment for imported raw materials are subject to encashment as directed by the Commissioner."
+        ],
+        "Customs House or Customs Station": [
+          "Upon receiving instructions from the Commissioner, the Customs House or Station is responsible for processing the encashment of bank guarantees related to the failed export consignment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3209",
+      "entity_sub_entities": {
+        "Customs, Excise and VAT Commissionerate": [
+          "Commissioner",
+          "Customs House",
+          "Customs Station"
+        ],
+        "Bank Guarantee": [
+          "bank guarantees",
+          "imported raw materials"
+        ],
+        "Customs House or Customs Station": [
+          "Customs House",
+          "Customs Station",
+          "bank guarantees",
+          "failed export consignment"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        60,
+        64,
+        132,
+        166,
+        269,
+        624,
+        1980,
+        8019
+      ],
+      "source_file": "customs_sros_OCR/20250929/20250929_output.json",
+      "clause_date": "2025-09-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_112",
+      "clause_title": "ওয়্যারহাউসিং ব্যাংক গ্যারান্টি",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_112",
+      "resolved_text": "৮৬ক। ওয়্যারহাউসিং ব্যাংক গ্যারান্টি।— ওয়্যারহাউসকরণের জন্য পণ্য খালাস সম্পর্কিত বন্ড সম্পাদনের ক্ষেত্রে এই আইন যাহা কিছুই থাকুক না কেন, বোর্ড অথবা বোর্ড হইতে এতদ্বিষয়ে ক্ষমতাপ্রাপ্ত কমিশনার অব কাস্টমস নির্দেশ দিতে পারেন যে, পণ্যের উপর আরোপণীয় শুল্কের অনধিক পরিমাণ অর্থের বন্ড সম্পাদনের অতিরিক্ত একটি ব্যাংক গ্যারান্টি যেরূপ নির্ধারণ করা হয় সেইরূপ পদ্ধতিতে দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The law establishes a requirement for providing a bank guarantee in addition to the standard bond for the clearance of goods intended for warehousing.",
+          "The National Board of Revenue or the authorized Commissioner of Customs has the authority to mandate this additional security measure."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the authority to issue directives concerning the submission and determination of bank guarantees for warehoused goods."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is empowered by the Board to prescribe the procedures and conditions for submitting bank guarantees related to goods clearance."
+        ],
+        "Customs Duty": [
+          "The amount of the required bank guarantee is determined based on the customs duty applicable to the goods being warehoused."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_116",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "bank guarantee",
+          "standard bond",
+          "goods",
+          "National Board of Revenue",
+          "Commissioner of Customs"
+        ],
+        "National Board of Revenue": [
+          "bank guarantees",
+          "warehoused goods"
+        ],
+        "Commissioner of Customs": [
+          "Board",
+          "bank guarantees",
+          "goods clearance"
+        ],
+        "Customs Duty": [
+          "bank guarantee",
+          "customs duty",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        10,
+        61,
+        89,
+        166,
+        624,
+        2067,
+        4928
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_112",
+      "clause_title": "Warehousing bank guarantee",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_112",
+      "resolved_text": "86A. Warehousing bank guarantee.- Notwithstanding anything contained in this Act regarding execution of a bond in relation to clearance of goods for warehousing, the Board or a Commissioner of Customs authorised in this behalf by the Board, may, in addition to requiring execution of bond, direct that a bank guarantee, for an amount not exceeding the duties leviable on the goods, be furnished in such manner as may be prescribed.",
+      "entity_concepts": {
+        "Bonded Warehouse Goods": [
+          "The authorities may require a bank guarantee in addition to a standard bond for the clearance of goods intended for warehousing.",
+          "The amount of the required bank guarantee must not exceed the total duties leviable on the goods."
+        ],
+        "National Board of Revenue": [
+          "The Board is empowered to authorize a Commissioner of Customs to mandate the submission of a bank guarantee for warehousing goods.",
+          "The Board holds the authority to determine the prescribed manner for furnishing such bank guarantees."
+        ],
+        "Commissioner of Customs": [
+          "When authorized by the Board, a Commissioner of Customs may direct an importer to furnish a bank guarantee in addition to the execution of a bond for warehousing."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_439",
+      "entity_sub_entities": {
+        "Bonded Warehouse Goods": [
+          "bank guarantee",
+          "standard bond",
+          "goods",
+          "total duties"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioner of Customs",
+          "bank guarantee"
+        ],
+        "Commissioner of Customs": [
+          "Board",
+          "importer",
+          "bank guarantee",
+          "bond"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        39,
+        166,
+        187,
+        1018,
+        4928,
+        12868
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট",
+      "text_id": "metadata_6",
+      "resolved_text": "পরিশিষ্ট\n[বিধি ৪ দ্রষ্টব্য]\nব্যাংক গ্যারান্টি\n\nব্যাংক গ্যারান্টি নং- ............................................... তারিখ : ............... খ্রিষ্টাব্দ।\nটাকার পরিমাণ: ... ... ... ... ... ... ... ... (কথায়: ... ... ... ... ... ... ... ... ... ... ..)।\n\nবরাবর\n... ... ... ... ... ... ... ..........\n... ... ... ... ... ... ... ..........।\n\nসূত্র : .......................... ........................... ........................... \n\nবিষয়: আমদানিকারক/রপ্তানিকারক ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... কর্তৃক কমিশনার অব কাস্টমস্, ... ... ... ... ... ... ... ... ... এর বরাবর ... ... ... ... ... ... ... ... (... ... ... ... ... ... ...) টাকা নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি দাখিল প্রসঙ্গে।\n\nব্যাংক গ্যারান্টিদাতা\n\nআমদানিকারক/রপ্তানিকারক এর নাম : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... \nঠিকানা : ...... ... ... ... ... ... ... ... ... ... ... . ... ... ... \nBIN : ...... ... ... ... ... ... ... ... ... ... ... . ... ... ... \n\nব্যাংক গ্যারান্টিগ্রহীতা\n\nকমিশনার অব কাস্টমস, ... ... ... ... ... ... ... ... ... .......................\n\nব্যাংক গ্যারান্টির প্রকৃতি : নিঃশর্ত ও অব্যাহত (Unconditional & Continuous)\n\nব্যাংকের নাম ও ঠিকানা : ... ... ... ... ... ... ... ... ... ... ... ... . ... ... ... \n\nপণ্যচালানের বিবরণ\n\nআমদানিকারক/রপ্তানিকারক এর নাম : ... ... ... ... ... ... ... ... ... ... ... ... ... ... \nপণ্য ঘোষণা নং : সি ..................... তারিখ: ............ খ্রিষ্টাব্দ।\nএলসি নং : ... ... ... ... ... ... ... ... ... ... ... ... ... ...\nBL/AWB/Truck/Rail Recipt : ... ... ... ... ... ... ... ... ... ... ... ... ... ...\nইনভয়েস নং : ... ... ... ... ... ... ... ... ... ... ... ... ... ...\nসংশ্লিষ্ট সিএন্ডএফ এজেন্টের : ... ... ... ... ... ... ... ... ... ... ... ... ... ...\nপালা নং ও জাহাজের নাম : ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+      "entity_concepts": {
+        "Bank Guarantee": [
+          "The document provides a standardized template for a bank guarantee, specifying that it must be unconditional and continuous in nature.",
+          "It serves as a legal instrument for importers or exporters to secure obligations towards the Customs authority."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is the designated beneficiary to whom the bank guarantee is submitted by the importer or exporter."
+        ],
+        "Business Identification Number": [
+          "The template requires the Business Identification Number of the importer or exporter to be recorded for identification purposes within the guarantee document."
+        ],
+        "Bill of Lading": [
+          "The template includes fields for transport documentation, such as the Bill of Lading, Air Waybill, or equivalent receipt, to link the bank guarantee to a specific shipment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1470",
+      "entity_sub_entities": {
+        "Bank Guarantee": [
+          "bank guarantee",
+          "legal instrument"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs"
+        ],
+        "Business Identification Number": [
+          "Business Identification Number"
+        ],
+        "Bill of Lading": [
+          "Bill of Lading",
+          "Air Waybill",
+          "equivalent receipt"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        35,
+        41,
+        166,
+        268,
+        3395,
+        7787
+      ],
+      "source_file": "customs_sros_OCR/20240606_205-AIN_2024_57_Customs/20240606_205-AIN_2024_57_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "ব্যাংক গ্যারান্টি ফরম ও স্বাক্ষর পৃষ্ঠা",
+      "text_id": "metadata_8",
+      "resolved_text": "প্রিয় মহোদয়,\n\nআমদানিকারক/রপ্তানিকারক (নাম, ঠিকানা ও BIN-সহ) .......................... কর্তৃক আমদানিকৃত/রপ্তানিতব্য পণ্যের ছাড়করণের লক্ষ্যে দাখিলকৃত পণ্য ঘোষণা নং সি- ........................... তারিখ: ........................... খ্রিষ্টাব্দ কমিশনার অব কাস্টমস , ... ... ... ... ... ... ... কর্তৃক শুল্কায়নের পর পরিশোধযোগ্য শুল্ক ও কর এবং অন্যান্য চার্জ বাবদ রাজস্বের পরিমাণ দাঁড়ায় ........................ (.........................................................) টাকা। কমিশনার অব কাস্টমস কর্তৃক ......................................................... কারণে উক্ত পরিশোধযোগ্য রাজস্ব তাৎক্ষণিক পরিশোধ ব্যতিরেকে নিঃশর্ত ও অব্যাহত (Unconditional & Continuous) দাখিলের শর্তে আমদানিকারক/রপ্তানিকারক এর অনুকূলে ছাড় প্রদানের সিদ্ধান্ত প্রদান করা হয়।\n\nএতদ্দ্বারা আমরা ……………………………. (ব্যাংকের নাম ও ঠিকানা) এই মর্মেনিশ্চয়তা প্রদান করিতেছি যে, আমদানিকারক/রপ্তানিকারক এর পক্ষে বর্ণিত পণ্যচালান সংশ্লিষ্ট শুল্ক ও কর এবং প্রযোজ্য ক্ষেত্রে অন্যান্য চার্জ বাবদ রাজস্ব ... ... ... ... (... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...) টাকা কমিশনার অব কাস্টমস, ………………………….. যে আমদানিকারক/রপ্তানিকারক এর সহিত কোনো প্রকার যোগাযোগ না করিয়া বিনা শর্তে পরিশোধ করিতে বাধ্য থাকিব।\n\nকমিশনার অব কাস্টমস, ………………………….. এর অনুরোধের প্রেক্ষিতে কোনো কারণে/অজুহাতে তাহার অনুকূলে আলোচ্য ব্যাংক গ্যারান্টি নগদায়নে (encashment) অত্র ব্যাংক ব্যর্থ হইলে ব্যাংক কর্তৃপক্ষ দায়ী থাকিবে এবং তজ্জন্য কাস্টমস কর্তৃপক্ষ ব্যাংক কর্তৃপক্ষের বিরুদ্ধে আইনানুগ ব্যবস্থা গ্রহণ করিতে পারিবেন।\n\nআমদানিকারক/রপ্তানিকারকের স্বাক্ষর: \nতারিখ: \nআমদানিকারক/রপ্তানিকারকের নাম: \nঠিকানা: \nBIN: \n\nব্যাংক কর্মকর্তার স্বাক্ষর: \nতারিখ: \nব্যাংক কর্মকর্তার নাম: \nপদবি: \nব্যাংকের নাম: \nশাখা: \nপরিচিতি নম্বর: \n\nরাষ্ট্রপতির আদেশক্রমে, \n\nস্বাক্ষরিত/- \nআবু হেনা মোঃ রহমাতুল মুনিম \nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Business Identification Number": [
+          "The Business Identification Number is required for importers and exporters when submitting customs declarations for the clearance of goods."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is the authority responsible for the assessment of duties, taxes, and other charges on imported or exported goods.",
+          "The Commissioner of Customs has the authority to permit the release of goods under an unconditional and continuous bank guarantee in lieu of immediate payment of customs revenue.",
+          "The Commissioner of Customs is empowered to demand encashment of a bank guarantee and initiate legal proceedings against the bank if the institution fails to honor the guarantee upon request."
+        ],
+        "Bank Guarantee": [
+          "A bank guarantee serves as an unconditional and continuous financial security instrument submitted by a bank on behalf of an importer or exporter to facilitate customs clearance without immediate payment of duties and taxes.",
+          "The bank issuing the guarantee is contractually obligated to pay the specified customs revenue to the Commissioner of Customs upon demand without needing prior consultation with the importer or exporter.",
+          "Failure by a bank to encash a guarantee upon request by the customs authority makes the bank liable for legal action by the customs authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1471",
+      "entity_sub_entities": {
+        "Business Identification Number": [
+          "Business Identification Number",
+          "importers",
+          "exporters",
+          "customs declarations",
+          "goods"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "duties",
+          "taxes",
+          "charges",
+          "imported goods",
+          "exported goods",
+          "bank guarantee",
+          "customs revenue"
+        ],
+        "Bank Guarantee": [
+          "bank guarantee",
+          "financial security instrument",
+          "bank",
+          "importer",
+          "exporter",
+          "customs clearance",
+          "duties",
+          "taxes",
+          "customs revenue",
+          "Commissioner of Customs",
+          "customs authority"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        13,
+        23,
+        30,
+        35,
+        39,
+        51,
+        77,
+        79,
+        115,
+        142,
+        157,
+        166,
+        695,
+        1166,
+        1363,
+        8097
+      ],
+      "source_file": "customs_sros_OCR/20240606_205-AIN_2024_57_Customs/20240606_205-AIN_2024_57_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 10,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি",
+      "text_id": "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_3",
+      "resolved_text": "৩। ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি।—(১) ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়নের লক্ষ্যে সংশ্লিষ্ট কাস্টমস স্টেশনের কমিশনারের নিকট আমদানির স্বপক্ষে প্রয়োজনীয় দলিলপত্র এবং পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের মূল্যের প্রমাণক তথ্য ও দলিলাদি দাখিল করিতে হইবে।\n(২) উপ-বিধি (১) এর অধীন দাখিলকৃত দলিলাদি সঠিক থাকিলে, অন্যূন সহকারী কমিশনারের তত্ত্বাবধানে শতভাগ কায়িক পরীক্ষা (physical examination) করিয়া উক্ত পরীক্ষার প্রতিবেদনের ভিত্তিতে পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের চালান সাময়িক শুল্কায়ন করিতে হইবে এবং বিল অব এন্ট্রি মুদ্রিত সংস্করণ (hard copy) এর উপর সুস্পষ্টরূপে ‘ফেরতের ভিত্তিতে সাময়িক আমদানি’ শব্দসমূহ উল্লেখ করিতে হইবে।\n(৩) কাস্টমস কম্পিউটার সিস্টেম অথবা ASYCUDA World ব্যবহৃত হয় এইরূপ কাস্টমস স্টেশনে শতভাগ কায়িক পরীক্ষা সম্পাদনের পর উল্লিখিত তথ্যাদি inspection act এ অন্তর্ভুক্ত করিতে হইবে।\n(৪) সাময়িক শুল্কায়িত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের চালানের তথ্য বৎসর ভিত্তিক সংখ্যাানুক্রমিকভাবে ফেরতের ভিত্তিতে সাময়িক আমদানি রেজিস্টারে লিপিবদ্ধ করিতে হইবে।\n(৫) আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম যে উদ্দেশ্যে আমদানি করা হইয়াছে সেই উদ্দেশ্য ব্যতীত অন্য কোনো উদ্দেশ্য বা অন্য কোনো প্রকল্পে ব্যবহার করা যাইবে না অথবা অন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট বিক্রয় বা হস্তান্তর বা সরবরাহ করা হইবে না মর্মে আমদানিকারককে ৩০০ (তিনশত) টাকার নন-জুডিশিয়াল স্ট্যাম্পে একটি অঙ্গীকারনামা সংশ্লিষ্ট কমিশনারের নিকট দাখিল করিতে হইবে:\nতবে শর্ত থাকে যে, কোনো প্রকল্পের ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম অন্য কোনো প্রকল্পে ব্যবহারের ক্ষেত্রে উভয় প্রকল্পের প্রকল্প পরিচালকের সম্মতিপত্র গ্রহণ করিয়া জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর অনুমতি সাপেক্ষে উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি সংশোধনপূর্বক অন্যান্য আনুষ্ঠানিকতা নূতনভাবে সম্পন্ন করিয়া উক্ত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উল্লিখিত প্রকল্পে ব্যবহার বা হস্তান্তর করা যাইবে।\n(৬) সাময়িক শুল্কায়নকালে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের উপর প্রযোজ্য শুল্ক-করের বিপরীতে জামানত হিসাবে কোনো তফসিলি ব্যাংক হইতে শুল্ক-করের সমপরিমাণ অর্থের শর্তহীন ও অলঙ্ঘনীয় ব্যাংক গ্যারান্টি দাখিল করিতে হইবে।\n(৭) উপ-বিধি (২) এর অধীন দাখিলকৃত দলিলাদি সঠিক থাকিলে, উপ-বিধি (৫) এর অধীন অঙ্গীকারনামা এবং উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি যথাযথভাবে সম্পাদন করা হইলে, কমিশনার অনূর্ধ্ব ১ (এক) বৎসরের মধ্যে ফেরতের ভিত্তিতে সাময়িক আমদানির অনুমতি প্রদান করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ মেয়াদ অতিক্রান্ত হইবার অন্যূন ১ (এক) মাস পূর্বে আমদানিকারক লিখিত আবেদন করিলে কমিশনার উক্ত মেয়াদ ৬ (ছয়) মাস পর্যন্ত বর্ধিত করিতে পারিবেন।\n(৮) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উপ-বিধি (৭) এ উল্লিখিত সময়ের মধ্যে যুক্তিসংগত কারণে ফেরত প্রদান করা সম্ভব না হইলে, আমদানিকারক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর নিকট সময় বৃদ্ধির জন্য আবেদন করিতে পারিবেন এবং জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) প্রাপ্ত আবেদনটি পরীক্ষা করিয়া যথাযথ বিবেচনা করিলে প্রয়োজনীয় সময় বৃদ্ধির আদেশ প্রদান করিতে পারিবেন।\n(৯) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম ত্রুটিপূর্ণ অথবা বিদ্যমান আমদানি নীতি আদেশ অথবা Customs Act, 1969 এর কোনো বিধান লঙ্ঘিত হইলে আমদানিকারক নিজ দায়িত্বে অন্যান্য পণ্যের ন্যায় সকল আনুষ্ঠানিকতা সম্পন্ন করিয়া উহা ফেরত পাঠাইবেন।\n(১০) শুল্কায়ন সংশ্লিষ্ট দলিলাদি ফেরত প্রদানকালে চূড়ান্ত শুল্কায়নের সময় উপস্থাপনের জন্য সংরক্ষণ করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The temporary import and re-export procedures for goods, machinery, parts, and equipment must strictly adhere to the provisions of this Act."
+        ],
+        "Temporary Importation": [
+          "Goods, machinery, and equipment may be imported on a temporary basis under a re-export condition, subject to the submission of documentation and valuation proof to the Commissioner of Customs.",
+          "Importers must provide a bank guarantee equivalent to the total applicable duties and taxes as security for the temporary importation.",
+          "Importers are required to submit an undertaking on non-judicial stamp paper declaring that the imported items will be used only for the specified purpose and project, and will not be sold, transferred, or diverted to other uses without prior authorization.",
+          "The initial period for temporary importation is limited to one year, with provisions for extensions granted by the Commissioner or the Member (Customs) of the National Board of Revenue upon valid request."
+        ],
+        "Physical Inspection": [
+          "A hundred percent physical examination of the imported consignment must be conducted under the supervision of at least an Assistant Commissioner before temporary assessment is granted.",
+          "For customs stations utilizing computerized systems, the details of the physical inspection must be recorded within the inspection system."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs) of the Board acts as the approving authority for the transfer of temporarily imported goods between different projects and for granting extensions beyond the initial authorized period."
+        ],
+        "Bill of Entry": [
+          "Upon temporary assessment, the hard copy of the Bill of Entry must explicitly state that the goods are imported temporarily on a re-export basis."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2159",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "goods",
+          "machinery",
+          "parts",
+          "equipment"
+        ],
+        "Temporary Importation": [
+          "goods",
+          "machinery",
+          "equipment",
+          "documentation",
+          "valuation proof",
+          "Commissioner of Customs",
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "undertaking",
+          "non-judicial stamp paper",
+          "imported items",
+          "Commissioner",
+          "Member (Customs)",
+          "National Board of Revenue"
+        ],
+        "Physical Inspection": [
+          "imported consignment",
+          "Assistant Commissioner",
+          "inspection system"
+        ],
+        "National Board of Revenue": [
+          "Member (Customs)",
+          "temporarily imported goods"
+        ],
+        "Bill of Entry": [
+          "Bill of Entry",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        7,
+        13,
+        27,
+        30,
+        33,
+        54,
+        63,
+        64,
+        72,
+        166,
+        213,
+        369,
+        374,
+        400,
+        466,
+        1406,
+        1716,
+        1798,
+        5020,
+        9114,
+        13164
+      ],
+      "source_file": "customs_sros_OCR/20220208_23-AIN_/20220208_23-AIN__output.json",
+      "clause_date": "2022-02-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৬২-আইন/২০২৪/১৪/কাস্টমস",
+      "text_id": "20240606_162-AIN_2024_14_Customs_২৯ মে, ২০২৪_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৬২-আইন/২০২৪/১৪/কাস্টমস।— সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লেখিত, এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, উক্ত আইনের প্রথম তফসিলভুক্ত পণ্যসমূহের মধ্যে নিম্নবর্ণিত TABLE এর কলাম (1) এ উল্লিখিত Heading এবং কলাম (2) এ উল্লিখিত H. S. Code এর অধীন যন্ত্রপাতি বা যন্ত্রাংশের বা উভয়ের উপর আরোপণীয় প্রথম তফসিলে উল্লিখিত কাস্টমস শুল্ক (Customs Duty), যে পরিমাণে মূল্যভিত্তিক ১ (এক) শতাংশের অতিরিক্ত হয়, সেই পরিমাণ এবং সমুদয় মূল্য সংযোজন কর ও সম্পূরক শুল্ক (যদি থাকে) হইতে, নিম্নবর্ণিত শর্তসমূহ প্রতিপালন সাপেক্ষে, অব্যাহতি প্রদান করিল, যথা:-\n\nTABLE\n\n| Heading (1) | H. S. Code (2) |\n| --- | --- |\n| 39.23 | 3923.29.10; 3923.40.10 |\n| 40.10 | 4010.35.00; 4010.36.00 |\n| 42.05 | 4205.00.10 |\n| 42.06 | 4206.00.10 |\n| 44.21 | 4421.99.20 |\n| 56.08 | 5608.11.10 |\n| 59.11 | 5911.10.90; 5911.20.00; 5911.31.00; 5911.32.00; 5911.40.00; 5911.90.00 |\n| 69.01 | 6901.00.10 |\n| 69.02 | 6902.10.00; 6902.20.00 |\n| 69.03 | 6903.10.10; 6903.20.10; 6903.20.20; 6903.90.20 |\n| 69.09 | 6909.11.00; 6909.12.00 |\n| 70.19 | 7019.90.11 |\n| 73.11 | 7311.00.10; 7311.00.90 |\n| 73.14 | 7314.12.00; 7314.14.00 |\n| 74.15 | 7415.21.00 |\n| 74.19 | 7419.80.10 |\n| 75.08 | 7508.90.10 |\n| 76.13 | 7613.00.00 |\n| 78.06 | 7806.00.10 |\n| 79.07 | 7907.00.10 |\n| 80.07 | 8007.00.20 |\n| 82.03 | 8203.30.00; 8203.40.00 |\n| 82.05 | 8205.10.00 |\n| 82.07 | All H. S. Codes |\n| 82.08 | All H. S. Codes |\n| 82.09 | 8209.00.00 |\n| 84.01 | All H. S. Codes |\n| 84.02 | All H. S. Codes |\n| 84.03 | All H. S. Codes |\n| 84.04 | All H. S. Codes |\n| 84.05 | All H. S. Codes |\n| 84.06 | All H. S. Codes |\n| 84.07 | 8407.29.00; 8407.90.10 |\n| 84.08 | 8408.10.00; 8408.90.10; 8408.90.20 |\n| 84.09 | 8409.91.10; 8409.99.10 |\n| 84.10 | All H. S. Codes |\n| 84.11 | All H. S. Codes |\n| 84.12 | 8412.10.90; 8412.21.00; 8412.29.00; 8412.31.00; 8412.39.00; 8412.80.00; 8412.90.90 |\n| 84.13 | 8413.11.00; 8413.19.00; 8413.40.00; 8413.50.00; 8413.60.00; 8413.70.00; 8413.81.00; 8413.82.00; 8413.91.00 |\n| 84.14 | 8414.10.00; 8414.30.10; 8414.40.00; 8414.59.10; 8414.59.20; 8414.80.10; 8414.80.20; 8414.80.41 |\n| 84.15 | 8415.10.10; 8415.20.10; 8415.81.10; 8415.81.20; 8415.82.10; 8415.82.20; 8415.83.10; 8415.83.30 |\n| 84.16 | All H. S. Codes |\n| 84.17 | All H. S. Codes |\n| 84.18 | 8418.61.10; 8418.69.10; 8418.69.93; 8418.69.95 |\n| 84.19 | 8419.20.00; 8419.33.00; 8419.34.00; 8419.35.00; 8419.39.00; 8419.40.20; 8419.40.90; 8419.50.00; 8419.60.00; 8419.81.00; 8419.89.00; 8419.90.00 |\n| 84.20 | All H. S. Codes |\n| 84.21 | 8421.11.00; 8421.12.00; 8421.19.10; 8421.21.10; 8421.21.92; 8421.21.93; 8421.39.20; 8421.91.00; 8421.99.00 |\n| 84.22 | 8422.19.00; 8422.20.00; 8422.30.00; 8422.40.00; 8422.90.00 |\n| 84.24 | 8424.10.00, 8424.20.10; 8424.20.30; 8424.30.00; 8424.41.10; 8424.41.90; 8424.49.00; 8424.82.00; 8424.89.00; 8424.90.00 |\n| 84.25 | 8425.11.00; 8425.19.00; 8425.31.00; 8425.39.00; 8425.41.00 |\n| 84.32 | All H. S. Codes |\n| 84.33 | 8433.20.00; 8433.30.00; 8433.40.00; 8433.51.00; 8433.52.00; 8433.53.00; 8433.59.10; 8433.59.90; 8433.60.00; 8433.90.00 |\n| 84.34 | All H. S. Codes |\n| 84.35 | All H. S. Codes |\n| 84.36 | All H. S. Codes |\n| 84.37 | 8437.10.00; 8437.80.90; 8437.90.90 |\n| 84.38 | All H. S. Codes |\n| 84.39 | All H. S. Codes |\n| 84.40 | All H. S. Codes |\n| 84.41 | All H. S. Codes |\n| 84.42 | 8442.30.00; 8442.40.00; 8442.50.90 |\n| 84.43 | 8443.11.00; 8443.12.00; 8443.13.00; 8443.14.00; 8443.15.00; 8443.16.00; 8443.17.00; 8443.19.00; 8443.32.90; 8443.39.10; 8443.39.99; 8443.91.00 |\n| 84.44 | 8444.00.00 |\n| 84.45 | All H. S. Codes |\n| 84.46 | All H. S. Codes |\n| 84.47 | All H. S. Codes |\n| 84.48 | All H.S. Codes (Excluding H.S. Code 8448.20.10; 8448.42.10) |\n| 84.49 | 8449.00.00 |\n| 84.50 | 8450.20.90; 8450.90.00 |\n| 84.51 | All H.S. Codes (Excluding H.S. Code 8451.21.00) |\n| 84.52 | 8452.21.00; 8452.29.90; 8452.30.00; 8452.90.90 |\n| 84.53 | All H. S. Codes |\n| 84.54 | All H. S. Codes |\n| 84.55 | All H. S. Codes |\n| 84.56 | All H. S. Codes |\n| 84.57 | All H. S. Codes |\n| 84.58 | All H. S. Codes |\n| 84.59 | All H. S. Codes |\n| 84.60 | All H. S. Codes |\n| 84.61 | All H. S. Codes |\n| 84.62 | All H. S. Codes |\n| 84.63 | All H. S. Codes |\n| 84.64 | All H. S. Codes |\n| 84.65 | All H. S. Codes |\n| 84.66 | All H.S. Codes |\n| 84.67 | 8467.21.00; 8467.22.00; 8467.29.00; 8467.89.00; 8467.91.00; 8467.99.00 |\n| 84.68 | All H. S. Codes |\n| 84.74 | All H. S. Codes |\n| 84.75 | All H. S. Codes |\n| 84.77 | All H. S. Codes |\n| 84.79 | All H. S. Codes (Excluding H.S. Code 8479.60.00) |\n| 84.80 | All H. S. Codes |\n| 84.81 | 8481.10.90; 8481.20.90; 8481.30.90; 8481.40.90; 8481.90.90 |\n| 84.83 | 8483.20.00; 8483.30.00; 8483.40.00; 8483.50.00; 8483.60.00; 8483.90.00 |\n| 84.84 | All H. S. Codes |\n| 84.86 | 8486.10.00; 8486.20.00; 8486.30.00; 8486.90.00 |\n| 85.01 | All H.S. Codes (Excluding 8501.10.10; 8501.10.90; 8501.20.10; 8501.20.91; 8501.20.99; 8501.31.00; 8501.40.10; 8501.51.00) |\n| 85.02 | All H. S. Codes |\n| 85.03 | All H.S. Codes (Excluding H.S. Code 8503.00.30; 8503.00.91; 8503.00.92) |\n| 85.04 | 8504.23.10; 8504.50.00 |\n| 85.05 | All H. S. Codes |\n| 85.14 | All H. S. Codes |\n| 85.15 | All H. S. Codes |\n| 85.16 | 8516.40.10 |\n| 85.25 | 8525.50.10; 8525.60.10 |\n| 85.26 | All H. S. Codes (Excluding H.S. Code 8526.91.10) |\n| 85.30 | 8530.80.00 |\n| 85.31 | 8531.10.00 |\n| 85.37 | 8537.10.10 |\n| 85.41 | 8541.42.00; 8541.43.00 |\n| 85.43 | 8543.10.00; 8543.20.00; 8543.30.00; 8543.70.20 |\n| 87.01 | 8701.91.10; 8701.92.10; 8701.93.10; 8701.94.10; 8701.95.10 |\n| 87.04 | 8704.10.00; 8704.22.13; 8704.22.15; 8704.90.11 |\n| 87.16 | 8716.20.00; 8716.31.00; 8716.39.00 |\n| 89.02 | 8902.00.00 |\n| 90.07 | 9007.10.90; 9007.20.90 |\n| 90.08 | All H. S. Codes |\n| 90.10 | All H. S. Codes |\n| 90.11 | All H. S. Codes |\n| 90.12 | All H. S. Codes |\n| 90.14 | All H. S. Codes |\n| 90.15 | All H. S. Codes |\n| 90.18 | 9018.11.00; 9018.12.00; 9018.13.00; 9018.14.00; 9018.19.90; 9018.20.00; 9018.41.00; 9018.49.00; 9018.50.00; 9018.90.20 |\n| 90.20 | 9020.00.00 |\n| 90.21 | 9021.39.00; 9021.40.00; 9021.50.00; 9021.90.10; 9021.90.90 |\n| 90.22 | All H. S. Codes |\n| 90.24 | All H. S. Codes |\n| 90.25 | 9025.90.00 |\n| 90.26 | All H. S. Codes |\n| 90.27 | All H. S. Codes |\n| 90.28 | 9028.10.00; 9028.20.00 |\n| 90.29 | 9029.10.90 |\n| 90.30 | All H. S. Codes |\n| 90.31 | All H. S. Codes |\n| 90.32 | 9032.10.00; 9032.20.00; 9032.81.00; 9032.90.00 |\n| 91.06 | 9106.10.00 |\n| 94.03 | 9403.20.30; 9403.60.20 |\n\n\nশর্তাবলি\n\n(১) যন্ত্রপাতি বা যন্ত্রাংশ বা উভয়ের আমদানির ক্ষেত্রে রেয়াতি সুবিধা Industrial IRC holder VAT compliant শিল্প প্রতিষ্ঠান ও VAT compliant আমদানিকারক উভয়ের জন্য প্রযোজ্য হইবে, তবে পৃথক চালানে কেবল যন্ত্রাংশ আমদানির ক্ষেত্রে শুধু Industrial IRC holder VAT compliant শিল্প প্রতিষ্ঠানের জন্য উক্ত রেয়াতি সুবিধা প্রযোজ্য হইবে;\n\nব্যাখ্যা।-\n(ক) Industrial IRC holder অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial consumer) আইআরসি রহিয়াছে;\n(খ) VAT compliant শিল্প প্রতিষ্ঠান অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন নিবন্ধিত এবং উক্ত আইনের ধারা ৫১, ৫৩, ৫৪, ৬৪ ও ১০৭ এ উল্লিখিত মূল্য সংযোজন কর সংক্রান্ত হিসাবরক্ষণসহ কর চালানপত্র ও দাখিলপত্রের যাবতীয় আনুষ্ঠানিকতা প্রতিপালন করে এইরূপ উৎপাদনকারী শিল্প প্রতিষ্ঠান;\n(গ) VAT compliant আমদানিকারক অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন নিবন্ধিত এবং উক্ত আইনের ধারা ৫১, ৫৩, ৫৪, ৬৪ ও ১০৭ এ উল্লিখিত মূল্য সংযোজন কর সংক্রান্ত হিসাবরক্ষণসহ কর চালানপত্র ও দাখিলপত্রের যাবতীয় আনুষ্ঠানিকতা প্রতিপালন করে এইরূপ আমদানিকারক প্রতিষ্ঠান;\n(ঘ) এই প্রজ্ঞাপনের উদ্দেশ্যপূরণকল্পে “যন্ত্রাংশ” অর্থ নিম্নবর্ণিত পণ্যসমূহ, যথা:-\n(অ) TABLE এ অন্তর্ভুক্ত Heading 39.23 হইতে Heading 82.09 এর বিপরীতে উল্লিখিত H.S. Code সমূহের পণ্য; এবং\n(আ) TABLE এ অন্তর্ভুক্ত Heading 84.01 হইতে Heading 94.06 এর বিপরীতে উল্লিখিত H.S. Code সমূহের পণ্য (H.S. Code 8448.51.00 এবং 8503.00.20 ব্যতীত) কেবল যাহার বিপরীতে কাস্টমস আইন, ২০২৩ এর প্রথম তফসিল-এ Parts হিসাবে উল্লেখ রহিয়াছে;\n\n(২) একই চালানে যন্ত্রপাতি ও যন্ত্রাংশ আমদানির ক্ষেত্রে বাণিজ্যিক আমদানিকারক কর্তৃক যন্ত্রপাতির নীট (Net) ওজনের সর্বোচ্চ ১০ (দশ) শতাংশ পরিমাণ যন্ত্রাংশ আমদানি করা যাইবে;\n\n(৩) (ক) শিল্পায়নের প্ল্যান্ট, মেশিনারি বা মূলধনী যন্ত্রপাতি ও যন্ত্রাংশ আমদানির ক্ষেত্রে শুল্ক ও কর এর বিশেষ রেয়াতি সুবিধা প্রদানের বিষয়ে এক বা একাধিক কাস্টমস স্টেশনের মাধ্যমে একই H.S. code এর আওতাভুক্ত প্ল্যান্ট, মেশিনারি, মূলধনী যন্ত্রপাতি বা যন্ত্রাংশ বা উভয়, এক বা একাধিক ঋণপত্রের অধীন এক বা একাধিক উৎস দেশ হইতে এক বা একাধিক চালানে আমদানি করা যাইবে:\nতবে শর্ত থাকে যে, একাধিক স্টেশনের মাধ্যমে এক বা একাধিক ঋণপত্রের অধীন এক বা একাধিক উৎস দেশ হইতে এক বা একাধিক চালানের মাধ্যমে আমদানির ক্ষেত্রে জাতীয় রাজস্ব বোর্ড কর্তৃক জারীকৃত শিল্পায়নের প্ল্যান্ট, মেশিনারি বা মূলধনী যন্ত্রপাতি ও যন্ত্রাংশ আমদানির ক্ষেত্রে শুল্ক ও কর এর রেয়াতি সুবিধা সংক্রান্ত নীতিমালার আওতায়, প্রথম চালান খালাসের পূর্বে উল্লিখিত নীতিমালা অনুসরণপূর্বক জাতীয় রাজস্ব বোর্ড এর সদস্য (কাস্টমস: নীতি ও আইসিটি) এর নিকট হইতে পূর্বানুমতি গ্রহণ করিতে হইবে;\n(খ) একই H. S. Code এর আওতাভুক্ত মূলধনী যন্ত্রপাতি বা যন্ত্রাংশ বা উভয়, এক বা একাধিক ঋণপত্রের অধীন একাধিক চালানে আমদানির ক্ষেত্রে, প্রথম পণ্যচালান আমদানির বিল অব এন্ট্রি দাখিলের তারিখ হইতে ২৪ (চব্বিশ) মাসের মধ্যে সকল যন্ত্রপাতি বা যন্ত্রাংশ বা উভয়ের আমদানি সম্পন্ন করিতে হইবে:\nতবে শর্ত থাকে যে, উন্নত প্রযুক্তির বৃহতায়তন শিল্পের যন্ত্রপাতি ও যন্ত্রাংশ উক্ত ২৪ (চব্বিশ) মাস সময়ের মধ্যে আমদানি করিতে না পারিলে আমদানিকারক কর্তৃক আবেদনের পরিপ্রেক্ষিতে সংশ্লিষ্ট কমিশনার, প্রয়োজনে, অনধিক ১২ (বারো) মাস পর্যন্ত উক্ত সময় বৃদ্ধি করিতে পারিবেন:\nআরও শর্ত থাকে যে, কমিশনার কর্তৃক বর্ধিত উক্ত ১২ (বারো) মাস সময়ের মধ্যেও আমদানি করিতে না পারিলে আমদানিকারক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে পারিবে এবং উক্ত আবেদন পর্যালোচনায় যৌক্তিক মনে করিলে জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি), প্রয়োজনে, আরও অনধিক ১২ (বারো) মাস পর্যন্ত উক্ত সময় বৃদ্ধি করিতে পারিবেন:\nআরও শর্ত থাকে যে, উক্ত ১২ (বারো) মাস সময়ের মধ্যে আমদানি করিতে না পারিলে আমদানিকারক কর্তৃক আবেদনের পরিপ্রেক্ষিতে জাতীয় রাজস্ব বোর্ড, প্রয়োজনে, যুক্তিসংগত পরিমাণ সময় বৃদ্ধির বিষয়ে সিদ্ধান্ত গ্রহণ করিবে;\n\n(৪) আমদানিকৃত বা আমদানিযোগ্য মেশিনারি, প্ল্যান্ট, যন্ত্রপাতি, যন্ত্রাংশ বা অন্যান্য অংশ সংশ্লিষ্ট শিল্প প্রতিষ্ঠানে স্থাপনে ব্যবহার করা হইবে এবং খালাসের পর অন্যবিধ কাজে ব্যবহার, হস্তান্তর বা মালিকানা পরিবর্তন করা হইলে আমদানিকৃত পণ্যের উপর স্বাভাবিক ও প্রযোজ্য হারে শুল্ক ও কর প্রদান করিতে বাধ্য থাকিবেন মর্মে আমদানিকারক প্রতিষ্ঠান যথাযথ মূল্যমানের নন-জুডিসিয়াল স্ট্যাম্পে সংশ্লিষ্ট কমিশনার অব কাস্টমস বরাবদর একটি অঙ্গীকারনামা দাখিল করিবে;\n\n(৫) সর্বশেষ পণ্যচালান আমদানির ৬ (ছয়) মাসের মধ্যে আমদানিকৃত সমুদয় মেশিনারি প্ল্যান্ট, যন্ত্রপাতি, যন্ত্রাংশ বা অন্যান্য অংশ যথাযথভাবে যথাস্থানে স্থাপিত হইয়াছে কি না সেই বিষয়ে সরেজমিনে তদন্তপূর্বক নিশ্চিত হওয়ার লক্ষ্যে সংশ্লিষ্ট কমিশনার অব কাস্টমস সংশ্লিষ্ট পাবলিক বিশ্ববিদ্যালয়ের মেকানিক্যাল বা, ক্ষেত্রমত, ইলেকট্রিক্যাল, অনুষদ বা বিভাগের বিশেষজ্ঞ মতামত সংগ্রহ করিবেন এবং এই সংক্রান্ত যাবতীয় ব্যয় সংশ্লিষ্ট আমদানিকারককে বহন করিতে হইবে:\nতবে শর্ত থাকে যে, সর্বশেষ পণ্যচালান খালাসের ৬ (ছয়) মাসের মধ্যে বর্ণিত বিশেষজ্ঞ মতামত দাখিল করা সম্ভব না হইলে আমদানিকারক কর্তৃক যৌক্তিক কারণ উল্লেখপূর্বক আবেদনের পরিপ্রেক্ষিতে সংশ্লিষ্ট কমিশনার অব কাস্টমস, প্রয়োজনে, অনধিক ৬ (ছয়) মাস পর্যন্ত উক্ত সময় বৃদ্ধি করিতে পারিবেন:\nআরও শর্ত থাকে যে, কমিশনার কর্তৃক বর্ধিত সময়ের মধ্যেও বিশেষজ্ঞ মতামত দাখিল করিতে না পারিলে আমদানিকারক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে পারিবে এবং উক্ত আবেদন পর্যালোচনায় যৌক্তিক মনে করিলে জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি), প্রয়োজনে, আরও অনধিক ১২ (বারো) মাস পর্যন্ত উক্ত সময় বৃদ্ধি করিতে পারিবেন:\nআরও শর্ত থাকে যে, উক্ত ১২ (বারো) মাস সময়ের মধ্যেও বিশেষজ্ঞ মতামত দাখিল করিতে না পারিলে আমদানিকারকের আবেদনের পরিপ্রেক্ষিতে জাতীয় রাজস্ব বোর্ড, প্রয়োজনে, যুক্তিসংগত পরিমাণ সময় বৃদ্ধির বিষয়ে সিদ্ধান্ত গ্রহণ করিবে;\n\n(৬) আমদানিকৃত মেশিনারি প্ল্যান্ট, যন্ত্রপাতি, যন্ত্রাংশ বা অন্যান্য অংশের সর্বশেষ পণ্যচালান খালাসের ৬ (ছয়) মাসের মধ্যে অথবা, প্রযোজ্য ক্ষেত্রে, অনুমোদিত বর্ধিত সময়ের মধ্যে যথাযথভাবে যথাস্থানে স্থাপিত হইয়াছে মর্মে বর্ণিত বিশেষজ্ঞ মতামত পাওয়া গেলে মুচলেকাটি ফেরত প্রদান করা হইবে, অন্যথায় আমদানিকারকের নিকট হইতে প্রযোজ্য হারে শুল্ক ও কর আদায়যোগ্য হইবে;\n\n(৭) Industrial IRC Holder VAT Compliant শিল্প প্রতিষ্ঠান কর্তৃক শিল্প খাতের রেয়াতি সুবিধা প্রদান সম্পর্কিত নীতিমালার আওতায় প্ল্যান্ট ও মেশিনারিীর জন্য প্রদত্ত বিশেষ সুবিধা প্রদানের ক্ষেত্র ব্যতীত একক কাস্টমস স্টেশনের মাধ্যমে কেবল মূলধনী যন্ত্রপাতি বা যন্ত্রাংশ বা উভয় আমদানির ক্ষেত্রে দফা (৪), (৫) ও (৬) এ উল্লিখিত শর্ত প্রযোজ্য হইবে না:\nতবে শর্ত থাকে যে, কোনো ক্ষেত্রে কাস্টম হাউস বা কাস্টমস স্টেশন এর কমিশনার প্রয়োজন মনে করিলে প্রতি ক্ষেত্রে কারণ উল্লেখপূর্বক দফা (৪), (৫) ও (৬) এ উল্লিখিত শর্ত প্রতিপালনের জন্য নির্দেশ প্রদান করিতে পারিবেন;\n\n(৮) বাণিজ্যিক আমদানিকারক কর্তৃক ভিন্ন ভিন্ন চালানে প্ল্যান্ট আকারে মূলধনী যন্ত্রপাতি ও যন্ত্রাংশ আমদানির ক্ষেত্রে এই প্রজ্ঞাপনে বর্ণিত রেয়াতি সুবিধার পার্থক্যজনিত শুল্ককরের সমপরিমাণ অর্থ নিঃশর্ত ব্যাংক গ্যারান্টি দাখিলের মাধ্যমে সাময়িক শুল্কায়নের সুবিধা প্রাপ্ত হইবে এবং দফা (৫) ও (৬) এ উল্লিখিত পদ্ধতি অনুসরণপূর্বক চূড়ান্ত শুল্কায়ন সম্পন্ন হইবার পর উক্ত ব্যাংক গ্যারান্টি ফেরতযোগ্য হইবে;\n\n(৯) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নকৃত রহিয়াছে এবং ১৩ ডিজিট সংবলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী করমেয়াদদের মূল্য সংযোজন কর দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ডের ওয়েবসাইটে বা ভ্যাট কমিশনারেটের ওয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে এবং VAT compliant উৎপাদনকারী শিল্প প্রতিষ্ঠান ও VAT compliant আমদানিকারক প্রতিষ্ঠানকে মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর ধারা ৫১, ৫৩, ৫৪, ৬৪ ও ১০৭ এ উল্লিখিত মূল্য সংযোজন কর সংক্রান্ত হিসাবরক্ষণসহ কর চালানপত্র ও দাখিলপত্রের যাবতীয় আনুষ্ঠানিকতা প্রতিপালন করিতে হইবে:\nতবে শর্ত থাকে যে, কোনো ধরনের দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবেন;\n\n(১০) দফা (৯) এ উল্লিখিত শর্ত প্রতিপালন সাপেক্ষে, বাণিজ্যিক আমদানিকারক প্রতিষ্ঠান বিক্রয় বা হস্তান্তরের উদ্দেশ্যে এই প্রজ্ঞাপনের TABLE এ উল্লিখিত মূলধনী যন্ত্রপাতি ও যন্ত্রাংশ আমদানি করিতে পারিবে এবং এইরূপ আমদানির ক্ষেত্রে দফা (৪) এ উল্লিখিত শর্ত প্রযোজ্য হইবে না;\n\n(১১) কোনো উৎপাদনকারী শিল্প প্রতিষ্ঠানে কাঁচামাল বা উপকরণ হিসাবে ব্যবহার্য এই প্রজ্ঞাপনের TABLE-ভুক্ত কোনো মূলধনী যন্ত্রপাতি ও যন্ত্রাংশ উক্ত প্রতিষ্ঠান কর্তৃক এই প্রজ্ঞাপনের আওতায় রেয়াতি সুবিধায় আমদানিযোগ্য হইবে না:\nতবে শর্ত থাকে যে, কোনো উৎপাদনকারী প্রতিষ্ঠান কাঁচামাল বা উপকরণ হিসাবে ব্যবহৃত এই প্রজ্ঞাপনের টেবিলভুক্ত পণ্য আমদানি করিলে উক্ত আমদানিকারক উৎপাদনকারী হিসাবে গণ্য হইবে না, তবে বাণিজ্যিক আমদানিকারকের সমান রেয়াতি সুবিধা প্রাপ্য হইবে;\n\n(১২) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সমূহ এবং দফা (৯) এ উল্লিখিত শর্ত পরিপালন করা হইয়াছে কি না উহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা যাচাই করিয়া নিশ্চিত হইবেন, তবে এই প্রকৃতির পণ্যচালানের অন্যূন ১০ (দশ) শতাংশ দৈবচয়ন ও ঝুঁকি ব্যবস্থাপনার ভিত্তিতে শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেম বা ভ্যাট অনলাইন সিস্টেম বা জাতীয় রাজস্ব বোর্ডের ওয়েবসাইট বা ভ্যাট কমিশনারেটের ওয়েবসাইট হইতে সঠিকতা যাচাই করিবেন;\n\n(১৩) নিম্নবর্ণিত ক্ষেত্রসমূহে দফা (১) ও (৯) এ উল্লিখিত শর্ত প্রযোজ্য হইবে না, যথা:-\n(ক) সরকারি, আধা সরকারি, স্বায়ত্তশাসিত সংস্থা, জাতিসংঘভুক্ত সংস্থা, দূতাবাস, বিশেষ সুবিধা প্রাপ্ত ব্যক্তি ও সংস্থা, সরকারের নিয়ন্ত্রণাধীন শিল্প প্রতিষ্ঠান, নিজস্ব ব্যবহারের জন্য ধর্মীয় প্রতিষ্ঠান কর্তৃক আমদানি চালান;\n(খ) নূতন শিল্প প্রতিষ্ঠান কর্তৃক নূতন শিল্প স্থাপনের উদ্দেশ্যে মূলধনী যন্ত্রপাতি ও প্রাথমিক যন্ত্রাংশের আমদানি চালান; এবং\n(গ) এইরূপ প্রতিষ্ঠান যাহাদের জন্য শিল্প ভোক্তা আইআরসি গ্রহণের বাধ্যবাধকতা নাই এবং যাহাদের জন্য VAT Compliant হিসাবে রিটার্ন দাখিলের বাধ্যবাধকতা নাই, তৎকর্তৃক বিক্রয় বা হস্তান্তরের জন্য নহে এইরূপ আমদানির ক্ষেত্রে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This act serves as the primary legal authority for the regulation of customs procedures and the implementation of duty concessions described in this order."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This act provides the enabling power to grant concessions and outlines the mandatory compliance requirements for VAT-compliant industrial units and importers."
+        ],
+        "National Board of Revenue": [
+          "The board is the authority responsible for consulting on and overseeing the implementation of these customs duty and tax concessions.",
+          "The board, or its designated member, retains the power to grant time extensions for the import of capital machinery or the submission of expert verification reports."
+        ],
+        "Customs Duty": [
+          "This order provides a concession on customs duty for specific machinery and spare parts listed in the table, effectively reducing the applicable rate to a fixed percentage above one percent."
+        ],
+        "Industrial IRC Holder": [
+          "An Industrial IRC holder is defined as a business entity possessing an updated Industrial Consumer Import Registration Certificate issued by the Chief Controller of Imports and Exports.",
+          "These entities are eligible for duty concessions on spare parts when imported in separate consignments, provided they remain VAT compliant."
+        ],
+        "VAT Compliant": [
+          "To qualify for these duty concessions, industrial units and importers must maintain full compliance with VAT accounting, tax invoices, and return filing requirements as specified under the VAT law.",
+          "Systematic verification of this compliance status is conducted through the national customs or VAT online systems to ensure eligibility for duty benefits."
+        ],
+        "Imported Capital Machinery and Spare Parts": [
+          "The concession applies to capital machinery and spare parts specified in the provided table, subject to strict installation and end-use conditions.",
+          "Commercial importers may import these goods for sale or transfer provided they meet specific bank guarantee requirements and compliance conditions.",
+          "All machinery and spare parts must be installed within a specific timeframe, and importers must provide expert verification from recognized academic institutions to confirm their usage."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner acts as the primary monitoring authority for verifying the installation of imported machinery and can grant time extensions for the import or verification processes under justified circumstances.",
+          "The Commissioner holds the discretion to mandate compliance with installation conditions even for imports that might otherwise be exempt."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2571",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "customs procedures",
+          "duty concessions"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "concessions",
+          "VAT-compliant industrial units",
+          "importers"
+        ],
+        "National Board of Revenue": [
+          "customs duty",
+          "tax concessions",
+          "capital machinery",
+          "expert verification reports"
+        ],
+        "Customs Duty": [
+          "machinery",
+          "spare parts"
+        ],
+        "Industrial IRC Holder": [
+          "business entity",
+          "Industrial Consumer Import Registration Certificate",
+          "Chief Controller of Imports and Exports",
+          "spare parts"
+        ],
+        "VAT Compliant": [
+          "industrial units",
+          "importers",
+          "VAT accounting",
+          "tax invoices",
+          "return filing requirements",
+          "national customs systems",
+          "VAT online systems"
+        ],
+        "Imported Capital Machinery and Spare Parts": [
+          "capital machinery",
+          "spare parts",
+          "bank guarantee",
+          "expert verification"
+        ],
+        "Commissioner of Customs": [
+          "imported machinery"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        10,
+        19,
+        22,
+        33,
+        79,
+        101,
+        110,
+        129,
+        134,
+        143,
+        166,
+        177,
+        189,
+        225,
+        252,
+        279,
+        349,
+        386,
+        584,
+        981,
+        1284,
+        1860,
+        2996,
+        4157,
+        4388,
+        7892,
+        7893,
+        13230
+      ],
+      "source_file": "customs_sros_OCR/20240606_162-AIN_2024_14_Customs/20240606_162-AIN_2024_14_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "লাইসেন্স প্রদান",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_6",
+      "resolved_text": "৬। লাইসেন্স প্রদান।— (১) বিধি ৫ এর অধীন আবেদন প্রাপ্তির পর লাইসেন্সিং কর্তৃপক্ষ অনধিক ১৫ (পনেরো) কার্যদিবসের মধ্যে উক্ত আবেদন, সংশ্লিষ্ট দলিলাদি ও তথ্যের যথার্থতা যাচাই করিবে অথবা, প্রয়োজনে, অন্য যে কোনো তথ্য সরবরাহ করিবার জন্য আবেদনকারীকে নির্দেশ দিতে পারিবে।\n(২) উপ-বিধি (১) অনুযায়ী কার্যক্রম গ্রহণ শেষে লাইসেন্সিং কর্তৃপক্ষ কর্তৃক লাইসেন্স প্রদানের প্রাথমিক সিদ্ধান্ত গৃহীত হইলে লাইসেন্সিং কর্তৃপক্ষ আবেদনকারীকে ৩০ (ত্রিশ) কার্যদিবসের মধ্যে নিম্নবর্ণিত দলিলাদি দাখিল করিবার নির্দেশ প্রদান করিবে, যথা:-\n(ক) জামানত হিসাবে লাইসেন্সিং কর্তৃপক্ষের অনুকূলে ফরম খ অনুযায়ী-\n(অ) অন-বোর্ড এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে যে কোনো তফসিলি ব্যাংক কর্তৃক ইস্যুকৃত ১ (এক) লক্ষ টাকার নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি; এবং\n(আ) আন্তর্জাতিক এয়ার এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে যে কোনো তফসিলি ব্যাংক কর্তৃক ইস্যুকৃত ৫ (পাঁচ) লক্ষ টাকার নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি;\n(খ) সংশ্লিষ্ট প্রিন্সিপাল বা তাহার বৈধ এজেন্ট বা কাউন্টারপার্ট ব্যতীত অন্য কোনো প্রিন্সিপাল বা তাহার বৈধ এজেন্ট বা কাউন্টারপার্ট এর নিকট হইতে পণ্য চালান আনয়ন করিবেন না মর্মে ৩০০ (তিনশত) টাকার নন-জুডিসিয়াল স্ট্যাম্পে অঙ্গীকারনামা;\n(গ) আন্তর্জাতিক এয়ার এক্সপ্রেস অ্যাসোসিয়েশনের সদস্যভুক্তির হালনাগাদ সনদপত্রের কপি;\n(ঘ) Authorities এর অনুকূলে লাইসেন্স ফি বাবদ-\n(অ) অন-বোর্ড এক্সপ্রেস সার্ভিস প্রতিষ্ঠানের জন্য অফেরতযোগ্য ২০ (বিশ) হাজার টাকার এ-চালান (Automated Challan); এবং\n(আ) আন্তর্জাতিক এয়ার এক্সপ্রেস সার্ভিস প্রতিষ্ঠানের জন্য অফেরতযোগ্য ১ (এক) লক্ষ টাকার এ-চালান (Automated Challan);\n(ঙ) আইনের ধারা ১০৯ এর উপ-ধারা (১) অনুযায়ী ফরম-গ অনুসারে বন্ড; এবং\n(চ) আবেদনকারীর সংশ্লিষ্ট কাস্টমস স্টেশনের সোনালী ব্যাংক পিএলসি এর শাখায় প্রিপেইড অ্যাকাউন্ট পরিচালনা সংক্রান্ত দলিলাদি।\n(৩) উপ-বিধি (২) এ উল্লিখিত দলিলাদি যাচাই পরবর্তীতে মৌখিক পরীক্ষায় উত্তীর্ণ হওয়া সাপেক্ষে লাইসেন্সিং কর্তৃপক্ষ দলিলাদি প্রাপ্তির তারিখ হইতে ২১ (একুশ) কার্যদিবসের মধ্যে ফরম ঘ-তে আবেদনকারীকে লাইসেন্স প্রদান করিবে।",
+      "entity_concepts": {
+        "Licensing Authority": [
+          "The Licensing Authority is responsible for reviewing license applications and submitted documents within a set timeframe after receipt.",
+          "The Licensing Authority may request additional information from applicants and issue the final license in a prescribed format upon successful verification of all required documents and a verbal examination."
+        ],
+        "On-board Express Service Provider": [
+          "These service providers must submit a bank guarantee, a non-judicial stamp undertaking, and pay a specified non-refundable license fee via an automated challan to qualify for a license."
+        ],
+        "International Air Express Service Provider": [
+          "These service providers are required to provide a higher bank guarantee compared to local providers, submit a non-judicial stamp undertaking, provide proof of membership with their international association, and pay the prescribed license fee via an automated challan."
+        ],
+        "Treasury Challan": [
+          "License fees for express service providers must be paid through an automated challan system to the relevant authorities."
+        ],
+        "Customs Act 1969": [
+          "Section 109(1) of this Act mandates the submission of a specific bond as part of the licensing requirements for express service providers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1201",
+      "entity_sub_entities": {
+        "Licensing Authority": [
+          "license applications",
+          "submitted documents",
+          "final license",
+          "verbal examination"
+        ],
+        "On-board Express Service Provider": [
+          "bank guarantee",
+          "non-judicial stamp undertaking",
+          "non-refundable license fee",
+          "automated challan"
+        ],
+        "International Air Express Service Provider": [
+          "bank guarantee",
+          "non-judicial stamp undertaking",
+          "proof of membership",
+          "international association",
+          "license fee",
+          "automated challan"
+        ],
+        "Treasury Challan": [
+          "license fees",
+          "automated challan system"
+        ],
+        "Customs Act 1969": [
+          "Section 109(1)",
+          "bond"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        43,
+        166,
+        187,
+        672,
+        803,
+        1915,
+        2147,
+        2384,
+        2831,
+        3482,
+        4281,
+        4408,
+        4600,
+        4836,
+        8067,
+        9199,
+        9203,
+        10267,
+        13260
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_2",
+      "resolved_text": "২। সংজ্ঞা।—(১) বিষয় কিংবা প্রসঙ্গের পরিপন্থি কিছু না থাকিলে, এই বিধিমালায়—\n(ক) “অনুমোদিত ব্যক্তি” অর্থ কাস্টমস কর্তৃপক্ষের নিকট পণ্যের ঘোষণা, ট্রানজিট বা ট্রান্সশিপমেন্ট গ্যারান্টি বা কাস্টমস বন্ড বা অঙ্গীকারনামা বা লেটার অব গ্যারান্টি দাখিলের উদ্দেশ্যে ক্ষমতাপ্রাপ্ত এবং সংশ্লিষ্ট লাইসেন্সিং বিধিমালার অধীন লাইসেন্সপ্রাপ্ত কোনো শিপিং এজেন্ট বা ফ্রেইট ফরওয়ার্ডিং এজেন্ট বা ক্লিয়ারিং ও ফরওয়ার্ডিং এজেন্ট;\n(খ) “আইন” অর্থ Customs Act, 1969 (Act No. IV of 1969);\n(গ) “এজেন্ট” অর্থ আইনের section 2 এর clause (a) এ সংজ্ঞায়িত agent;\n(ঘ) “কাস্টমস কম্পিউটার সিস্টেম” অর্থ আইনের section 2 এর clause (ii) এ সংজ্ঞায়িত Customs Computer System;\n(ঙ) “কাস্টমস ট্রানজিট বা ট্রান্সশিপমেন্ট ঘোষণা” অর্থ কোনো দ্বিপাক্ষিক বা বহুপাক্ষিক চুক্তি বা প্রটোকল বা স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর (SOP) বা জাতীয় রাজস্ব বোর্ড কর্তৃক জারীকৃত আদেশ দ্বারা নির্ধারিত ফরমে প্রদত্ত ট্রানজিট বা ট্রান্সশিপমেন্ট ঘোষণা এবং কাস্টমস কম্পিউটার সিস্টেমে দাখিলতব্য বা দাখিলকৃত ঘোষণাও ইহার অন্তর্ভুক্ত হইবে;\n(চ) “কাস্টমস বন্ড বা অঙ্গীকারনামা বা লেটার অব গ্যারান্টি” অর্থ ট্রানজিট বা ট্রান্সশিপমেন্ট পণ্যের উপর প্রযোজ্য শুল্ক-করের সমপরিমাণ অর্থের বিপরীতে নন-জুডিশিয়াল স্ট্যাম্পে নির্ধারিত পদ্ধতিতে প্রদত্ত ব্যাংক গ্যারান্টি বা অঙ্গীকারনামা;\n(ছ) “কাস্টমস নিয়ন্ত্রণ” অর্থ আইনের section 197A এর ব্যাখ্যায় উল্লিখিত customs control;\n(জ) “কাস্টমস স্টেশন” অর্থ আইনের section 2 এর clause (k) এ সংজ্ঞায়িত customs station;\n(ঝ) “বোর্ড” অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ঞ) “বৃহৎ আকৃতির পণ্য” অর্থ ৪০ ফুট × ৮ ফুট × ৯ ফুট বা তাহার অধিক আয়তন বিশিষ্ট যন্ত্রপাতি ও সরঞ্জাম যাহা কন্টেইনারজাতকরণের জন্য যোগ্য নহে;\n(ট) “যানবাহন” অর্থ আইনের section 2 এর clause (g) এ সংজ্ঞায়িত Conveyance;\n(ঠ) “শুল্ক-কর” অর্থ আইনের অধীন আমদানি পর্যায়ে আদায়যোগ্য Customs Duty, Regulatory Duty, Countervailing Duty, Anti-Dumping Duty, Safeguard Duty এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন আমদানি পর্যায়ে আদায়যোগ্য মূল্য সংযোজন কর, আগাম কর ও সম্পূরক শুল্ক এবং Income Tax Ordinance, 1984 এর অধীন আমদানি পর্যায়ে আদায়যোগ্য অগ্রিম আয়কর;\n(ড) “সমন্বিত গ্যারান্টি” অর্থ এইরূপ গ্যারান্টি যাহা একই অনুমোদিত ব্যক্তি কর্তৃক একাধিক কাস্টমস ট্রানজিট বা ট্রান্সশিপমেন্ট ঘোষণার ক্ষেত্রে প্রযোজ্য কাস্টমস শুল্ক ও অন্যান্য শুল্ক ও করের ক্ষেত্রেও প্রযোজ্য হইবে বা পণ্যচালান ছাড়করণের পরেও গ্যারান্টি অবমুক্ত না করিয়া পরবর্তী পরিচালনের জন্য তাহা অনুমতি সাপেক্ষে ব্যবহারযোগ্য গ্যারান্টি; এবং\n(ঢ) “স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর (SOP)” অর্থ বিভিন্ন দ্বিপাক্ষিক ও বহুপাক্ষিক চুক্তির অধীন পণ্যের ট্রানজিট বা ট্রান্সশিপমেন্ট সম্পন্ন করিবার লক্ষ্যে পক্ষগণের মধ্যে সম্পাদিত স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর (SOP)।\n(২) এই বিধিমালায় ব্যবহৃত যে সকল শব্দ বা অভিব্যক্তির সংজ্ঞা প্রদান করা হয় নাই সেই সকল শব্দ বা অভিব্যক্তি আইনে যে অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Authorized Person": [
+          "An authorized person is defined as a licensed shipping agent, freight forwarder, or clearing and forwarding agent empowered to submit declarations, guarantees, bonds, or letters of undertaking to the customs authorities."
+        ],
+        "Customs Act 1969": [
+          "The term Act is defined as the Customs Act 1969 for the purposes of these rules."
+        ],
+        "Agent": [
+          "The term agent is defined with reference to the meaning provided in the Customs Act 1969."
+        ],
+        "Customs Computerised System": [
+          "The term customs computer system is defined with reference to the meaning provided in the Customs Act 1969."
+        ],
+        "Customs Transit or Transshipment Declaration": [
+          "This refers to the declaration submitted in a prescribed form via bilateral/multilateral agreements, protocols, SOPs, or National Board of Revenue orders, and includes submissions made within the customs computer system."
+        ],
+        "Customs Bond or Undertaking or Letter of Guarantee": [
+          "This refers to a bank guarantee or undertaking provided on non-judicial stamp paper in a specified manner, covering the equivalent amount of duties and taxes applicable to transit or transshipment goods."
+        ],
+        "Customs Control": [
+          "The term customs control is defined with reference to the interpretation provided in the Customs Act 1969."
+        ],
+        "Customs Station": [
+          "The term customs station is defined with reference to the meaning provided in the Customs Act 1969."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the National Board of Revenue constituted under the National Board of Revenue Order 1972."
+        ],
+        "Oversized Goods": [
+          "This refers to machinery or equipment exceeding specific dimensions which are not suitable for containerization."
+        ],
+        "Conveyance": [
+          "The term vehicle is defined with reference to the meaning of conveyance provided in the Customs Act 1969."
+        ],
+        "Customs Duty": [
+          "The term duty-taxes encompasses various import-level charges including Customs Duty, Regulatory Duty, Countervailing Duty, Anti-Dumping Duty, Safeguard Duty, Value Added Tax, Advance Tax, Supplementary Duty, and Advance Income Tax."
+        ],
+        "Combined Guarantee": [
+          "This is a type of guarantee that can be applied to multiple transit or transshipment declarations by the same authorized person, or one that remains active for future operations without needing release after every individual shipment."
+        ],
+        "Standard Operating Procedure": [
+          "This refers to the formal procedures established between parties under bilateral or multilateral agreements to facilitate the transit or transshipment of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2975",
+      "entity_sub_entities": {
+        "Authorized Person": [
+          "licensed shipping agent",
+          "freight forwarder",
+          "clearing and forwarding agent",
+          "declarations",
+          "guarantees",
+          "bonds",
+          "letters of undertaking"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969"
+        ],
+        "Agent": [
+          "agent"
+        ],
+        "Customs Computerised System": [
+          "customs computer system"
+        ],
+        "Customs Transit or Transshipment Declaration": [
+          "declaration",
+          "bilateral/multilateral agreements",
+          "protocols",
+          "SOPs",
+          "National Board of Revenue orders",
+          "customs computer system"
+        ],
+        "Customs Bond or Undertaking or Letter of Guarantee": [
+          "bank guarantee",
+          "undertaking",
+          "non-judicial stamp paper",
+          "duties",
+          "taxes",
+          "transit goods",
+          "transshipment goods"
+        ],
+        "Customs Control": [
+          "customs control"
+        ],
+        "Customs Station": [
+          "customs station"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "National Board of Revenue Order 1972"
+        ],
+        "Oversized Goods": [
+          "machinery",
+          "equipment"
+        ],
+        "Conveyance": [
+          "vehicle",
+          "conveyance"
+        ],
+        "Customs Duty": [
+          "Customs Duty",
+          "Regulatory Duty",
+          "Countervailing Duty",
+          "Anti-Dumping Duty",
+          "Safeguard Duty",
+          "Value Added Tax",
+          "Advance Tax",
+          "Supplementary Duty",
+          "Advance Income Tax"
+        ],
+        "Combined Guarantee": [
+          "guarantee",
+          "transit declarations",
+          "transshipment declarations"
+        ],
+        "Standard Operating Procedure": [
+          "formal procedures",
+          "bilateral agreements",
+          "multilateral agreements"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        9,
+        10,
+        13,
+        25,
+        30,
+        33,
+        36,
+        56,
+        72,
+        75,
+        94,
+        156,
+        161,
+        166,
+        203,
+        220,
+        238,
+        242,
+        248,
+        345,
+        374,
+        400,
+        444,
+        546,
+        667,
+        679,
+        683,
+        694,
+        718,
+        738,
+        815,
+        1062,
+        1063,
+        1156,
+        1271,
+        1287,
+        1300,
+        1358,
+        1388,
+        2143,
+        3714,
+        4475,
+        6461,
+        8293,
+        9458,
+        10016,
+        12261
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি",
+      "text_id": "20250602_227-AIN_2025_49_Customs_২৯ মে, ২০২৫_clause_3",
+      "resolved_text": "৩। ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি।— (১) ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়নের লক্ষ্যে সংশ্লিষ্ট কাস্টমস স্টেশনের কমিশনারের নিকট আমদানির স্বপক্ষে প্রয়োজনীয় দলিলাদি এবং পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের মূল্যের প্রমানক তথ্য ও দলিলাদি দাখিল করিতে হইবে।\n(২) উপ-বিধি (১) এর অধীন দাখিলকৃত দলিলাদি সঠিক থাকিলে, অনুন্য সহকারী কমিশনারের তত্ত্বাবধানে শতভাগ কায়িক পরীক্ষা (physical examination) করিয়া উক্ত পরীক্ষার প্রতিবেদনের ভিত্তিতে পণ্য-যন্ত্রপাতির, যন্ত্রাংশ ও সরঞ্জামের চালান সাময়িক শুল্কায়ন করিতে হইবে এবং বিল অব এন্ট্রির মুদ্রিত সংস্করণ (hard copy) এর উপর সুস্পষ্টরূপে ‘ফেরতের ভিত্তিতে আমদানি’ শব্দসমূহ উল্লেখ করিতে হইবে।\n(৩) কাস্টমস কম্পিউটার সিস্টেম অথবা ASYCUDA World ব্যবহৃত হয় এইরূপ কাস্টমস স্টেশনে শতভাগ কায়িক পরীক্ষা সম্পাদনের পর উল্লিখিত তথ্যাদি inspection act এ অন্তর্ভুক্ত করিতে হইবে।\n(৪) সাময়িক শুল্কায়িত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের চালানের তথ্য বৎসর ভিত্তিক সংখ্যানুক্রমিকভাবে ফেরতের ভিত্তিতে সাময়িক আমদানি রেজিস্টারে লিপিবদ্ধ করিতে হইবে।\n(৫) আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম যে উদ্দেশ্যে আমদানি করা হইয়াছে সেই উদ্দেশ্য ব্যতীত অন্য কোনো উদ্দেশ্যে বা অন্য কোনো প্রকল্পে ব্যবহার করা হইবে না অথবা অন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট বিক্রয় বা হস্তান্তর বা সরবরাহ করা হইবে না মর্মে আমদানিকারককে ৩০০ (তিনশত) টাকার নন-জুডিসিয়াল স্ট্যাম্পে একটি অঙ্গীকারনামা সংশ্লিষ্ট কমিশনারের নিকট দাখিল করিতে হইবে:\nতবে শর্ত থাকে যে, কোনো প্রকল্পের ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম অন্য কোনো প্রকল্পে ব্যবহারের ক্ষেত্রে উভয় প্রকল্পের প্রকল্প পরিচালকের সম্মতিপত্র গ্রহণ করিয়া জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর অনুমতি সাপেক্ষে উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি সংশোধনপূর্বক অন্যান্য আনুষ্ঠানিকতা নূতনভাবে সম্পন্ন করিয়া উক্ত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উল্লিখিত প্রকল্পে ব্যবহার বা হস্তান্তর করা যাইবে।\n(৬) সাময়িক শুল্কায়নকালে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের উপর প্রযোজ্য শুল্ক-করের বিপরীতে জামানত হিসাবে কোনো তফশিলী ব্যাংক হইতে শুল্ক-করের সমপরিমাণ অর্থের নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি দাখিল করিতে হইবে।\n(৭) উপ-বিধি (২) এর অধীন সাময়িক শুল্কায়ন, উপ-বিধি (৫) এর অধীন অঙ্গীকারনামা এবং উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি যথাযথভাবে সম্পাদন করা হইলে, কমিশনার অনূর্ধ্ব ১ (এক) বৎসরের মধ্যে ফেরতের ভিত্তিতে সাময়িক আমদানির অনুমতি প্রদান করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ মেয়াদ অতিক্রান্ত হইবার অন্যূন ১ (এক) মাস পূর্বে আমদানিকারক লিখিত আবেদন করিলে কমিশনার উক্ত মেয়াদ ৬ (ছয়) মাস পর্যন্ত বর্ধিত করিতে পারিবেন।\n(৮) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উপ-বিধি (৭) এ উল্লিখিত সময়ের মধ্যে যুক্তিসংগত কারণে ফেরত প্রদান করা সম্ভব না হইলে, আমদানিকারক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর নিকট সময় বৃদ্ধির জন্য আবেদন করিতে পারিবেন এবং জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) প্রাপ্ত আবেদনটি পরীক্ষা করিয়া যথাযথ বিবেচনা করিলে প্রয়োজনীয় সময় বৃদ্ধির আদেশ প্রদান করিতে পারিবেন।\n(৯) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম ত্রুটিপূর্ণ অথবা বিদ্যমান আমদানি নীতি আদেশ অথবা কাস্টমস আইন, ২০২৩ এর কোনো বিধান লঙ্ঘিত হইলে আমদানিকারক নিজ দায়িত্বে অন্যান্য পণ্যের ন্যায় সকল আনুষ্ঠানিকতা সম্পন্ন করিয়া উহা ফেরত পাঠাইবেন।\n(১০) শুল্কায়ন সংশ্লিষ্ট দলিলাদি ফেরত প্রদানকালে চূড়ান্ত শুল্কায়নের সময় উপস্থাপনের জন্য সংরক্ষণ করিতে হইবে।",
+      "entity_concepts": {
+        "Temporary Importation for Re-export": [
+          "Importers must submit necessary documentation and valuation proof to the Commissioner of Customs for the temporary importation of goods, machinery, parts, and equipment.",
+          "The goods, machinery, parts, and equipment imported under this temporary basis must be used strictly for the stated purpose and cannot be sold, transferred, or supplied to other parties without authorization.",
+          "Importers are required to provide an unconditional and continuous bank guarantee equivalent to the applicable duties and taxes as security during the temporary clearance process.",
+          "The Commissioner may grant temporary import permission for a set period, which may be extended upon timely written application by the importer, subject to further extension by the National Board of Revenue if necessary.",
+          "If goods are found to be defective or in violation of existing import policies or the Customs Act 2023, the importer is responsible for re-exporting the items after completing the required formalities."
+        ],
+        "Physical Examination": [
+          "A one-hundred percent physical examination of imported consignments must be conducted under the supervision of at least an Assistant Commissioner to ensure accuracy before temporary clearance is granted.",
+          "The findings of the physical examination must be clearly recorded in the inspection reports of the customs station."
+        ],
+        "Asycuda World System": [
+          "For customs stations utilizing the Asycuda World System, all data and information regarding the physical examination of imported goods must be officially recorded within the system's inspection modules."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs) of the National Board of Revenue has the authority to grant permission for transferring temporarily imported goods between projects and may approve further extensions of the import period beyond the standard duration upon examination of the importer's request."
+        ],
+        "Customs Act 2023": [
+          "This act governs the legal framework and compliance requirements for imported goods, including provisions regarding the violation of import rules which mandate the re-export of non-compliant items."
+        ],
+        "Bill of Entry": [
+          "Upon temporary clearance of goods, the hard copy of the Bill of Entry must be clearly marked with specific text indicating that the goods have been imported on a temporary basis for subsequent re-export."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3116",
+      "entity_sub_entities": {
+        "Temporary Importation for Re-export": [
+          "goods",
+          "machinery",
+          "parts",
+          "equipment",
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "Customs Act 2023"
+        ],
+        "Physical Examination": [
+          "imported consignments",
+          "inspection reports"
+        ],
+        "Asycuda World System": [
+          "data",
+          "information",
+          "imported goods",
+          "inspection modules"
+        ],
+        "National Board of Revenue": [
+          "Member (Customs)",
+          "temporarily imported goods"
+        ],
+        "Customs Act 2023": [
+          "imported goods"
+        ],
+        "Bill of Entry": [
+          "hard copy of the Bill of Entry",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        8,
+        13,
+        19,
+        27,
+        30,
+        33,
+        54,
+        72,
+        148,
+        166,
+        205,
+        270,
+        1071,
+        1329,
+        1679,
+        1716,
+        5020,
+        5022,
+        8615,
+        9107
+      ],
+      "source_file": "customs_sros_OCR/20250602_227-AIN_2025_49_Customs/20250602_227-AIN_2025_49_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_14",
+      "clause_title": "পরিশিষ্ট-৩",
+      "text_id": "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_14",
+      "resolved_text": "পরিশিষ্ট-৩\n[শর্ত (ঢ) দ্রষ্টব্য]\n\nআমদানি অংশ\n\n| ক্র. নং | রপ্তানি এলসি/ সেলস কন্ট্রাক্ট নং/টিটি নং | পণ্য ঘোষণা নং | তারিখ | আমদানিকৃত পণ্যের বিবরণ | পণ্যের এইচ. এস. কোড | পরিমাণ (নেট ওয়েট) | মূল্য (বৈদেশিক মুদ্রা) | শুল্কায়িত মূল্য | ব্যাংক গ্যারান্টি নম্বর ও তারিখ | ব্যাংকের নাম ও ঠিকানা | ব্যাংক গ্যারান্টির পরিমাণ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| ১ | ২ | ৩ | ৪ | ৫ | ৬ | ৭ | ৮ | ৯ | ১০ | ১১ | ১২ |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\n\nরপ্তানি অংশ\n\n| রপ্তানি নং ও তারিখ (EXP No and Date) | শিপিং বিল নং ও তারিখ | ইনভয়েস নং ও তারিখ | বিএল নং/ এয়ারওয়ে বিল নং ও তারিখ | রপ্তানির পরিমাণ (পিস) | রপ্তানির পরিমাণ (নেট ওয়েট) | রপ্তানি মূল্য (USD) | পিআরসি নং ও তারিখ | প্রত্যাবাসিত মূল্য | মূল্য সংযোজন |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| ১৩ | ১৪ | ১৫ | ১৬ | ১৭ | ১৮ | ১৯ | ২০ | ২১ | ২২ |\n|  |  |  |  |  |  |  |  |  |  |\n",
+      "entity_concepts": {
+        "Export (EXP) Documents": [
+          "The appendix prescribes mandatory reporting fields for export documentation, including specific reference numbers, shipping details, airway bill information, and invoice data.",
+          "The document structure requires reconciliation of export volumes and values, including net weight, currency value, and evidence of repatriated earnings."
+        ],
+        "Date of Export": [
+          "The schema mandates the inclusion of the official date for export transactions within the export processing section of the report."
+        ],
+        "Bank Guarantee": [
+          "The import section requires the declaration of bank guarantee details, including the instrument number, date, issuing bank's contact information, and the total value secured for the transaction."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3217",
+      "entity_sub_entities": {
+        "Export (EXP) Documents": [
+          "reference numbers",
+          "shipping details",
+          "airway bill information",
+          "invoice data",
+          "export volumes",
+          "export values",
+          "net weight",
+          "currency value",
+          "evidence of repatriated earnings"
+        ],
+        "Date of Export": [
+          "official date for export transactions"
+        ],
+        "Bank Guarantee": [
+          "instrument number",
+          "date",
+          "issuing bank's contact information",
+          "total value secured"
+        ]
+      },
+      "clause_clusters": [
+        76,
+        166,
+        2713,
+        3080,
+        3397,
+        3797,
+        6789,
+        7827,
+        7938,
+        7939,
+        9125,
+        9268,
+        9289,
+        10048,
+        10199,
+        11290,
+        12876
+      ],
+      "source_file": "customs_sros_OCR/20250929/20250929_output.json",
+      "clause_date": "2025-09-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_101",
+      "clause_title": "সাময়িক শুল্ক নিরূপণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_101",
+      "resolved_text": "৮১। সাময়িক শুল্ক নিরূপণ।— (১) যে ক্ষেত্রে দেশীয় ভোগের জন্য অথবা ওয়্যারহাউসিং এর জন্য অথবা দেশীয় ভোগের উদ্দেশ্যে ওয়্যারহাউস হইতে খালাসের জন্য এন্ট্রি করা কোন আমদানিকৃত পণ্যের উপর অথবা রপ্তানির জন্য এন্ট্রি করা কোন পণ্যের উপর প্রদেয় কাস্টমস-শুল্ক পণ্যসমূহের রাসায়নিক অথবা অন্যান্য পরীক্ষার কারণে অথবা শুল্কায়নের উদ্দেশ্যে অধিকতর তদন্তের প্রয়োজন অথবা উক্ত পণ্য সম্পর্কিত সকল দলিলপত্র অথবা সম্পূর্ণ দলিলপত্র অথবা পূর্ণ তথ্য সরবরাহ না করার জন্য অবিলম্বে কাস্টমস-শুল্ক নিরূপণ করা সম্ভব না হয় সেই ক্ষেত্রে পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন এইরূপ কর্মকর্তা উক্ত পণ্যের উপর প্রদেয় শুল্ক সাময়িকভাবে নিরূপণের আদেশ প্রদান করিতে পারিবেন :\n\nতবে শর্ত থাকে যে, সাময়িকভাবে শুল্ক নিরূপণের উপর চূড়ান্ত শুল্কায়নের ফলে যে অতিরিক্ত শুল্ক প্রদেয় হইবে তাহা পরিশোধ করার জন্য উক্ত কর্মকর্তার বিবেচনায় যেরূপ পর্যাপ্ত হয় আমদানিকারক (ওয়্যারহাউসিং এর জন্য এন্ট্রিকৃত পণ্যের ক্ষেত্রেও প্রযোজ্য) অথবা রপ্তানিকারক সেইরূপ পরিমাণ অতিরিক্ত অর্থ জামানত হিসাবে প্রদান করেন অথবা কোন তফসিলভুক্ত ব্যাংকের গ্যারান্টি দাখিল করেন।\n\n(২) যে ক্ষেত্রে এই রূপ সাময়িক শুল্কায়নের ভিত্তিতে কোন পণ্য খালাস প্রদান অথবা অর্পণ করার অনুমতি দেওয়া হয় সেই ক্ষেত্রে উক্ত পণ্যের উপর প্রদেয় প্রকৃত শুল্ক সাময়িক শুল্কায়নের তারিখ হইতে একশত বিশটি কার্যদিবসের মধ্যে এবং যে ক্ষেত্রে কোন আদালত, ট্রাইব্যুনাল অথবা আপীলাত কর্তৃপক্ষের নিকট কোন মামলা অনিষ্পন্ন রহিয়াছে সেই ক্ষেত্রে চূড়ান্ত নিষ্পত্তি প্রাপ্তির তারিখ হইতে একশত বিশটি কার্যদিবসের মধ্যে চূড়ান্তভাবে নিরূপণ করিতে হইবে এবং উক্ত শুল্কায়ন সম্পন্ন হওয়ার পর যথোপযুক্ত কর্মকর্তা ইতিপূর্বে পরিশোধিত অথবা গ্যারান্টিকৃত অর্থের সাথে চূড়ান্ত শুল্কায়নের ভিত্তিতে প্রদেয় অর্থের বিপরীতে শুল্কের পরিমাণ সমন্বয় করার আদেশ প্রদান করিবেন এবং তাহাদের মধ্যে পার্থক্যের পরিমাণ আমদানিকারক অথবা রপ্তানিকারক অনতিবিলম্বে পরিশোধ করিবেন অথবা, ক্ষেত্রমত, তাহাদের নিকট ফেরত প্রদান করা হইবে :\n\nতবে শর্ত থাকে যে, বোর্ড, ব্যতিক্রমী পরিস্থিতিতে, উহা লিখিতভাবে লিপিবদ্ধ করিয়া এই উপ-ধারার অধীন বর্ণিত চূড়ান্ত শুল্কায়নের সময় বর্ধিত করিতে পারিবে।",
+      "entity_concepts": {
+        "Provisional Assessment of Customs Duty": [
+          "This clause provides the legal basis for the provisional assessment of goods when an immediate final assessment is not possible due to the need for chemical analysis, further investigation, or incomplete documentation.",
+          "Provisional assessment can be ordered by a customs officer of the rank of Assistant Commissioner or higher upon the provision of security or a bank guarantee by the importer or exporter for the potential difference in duty.",
+          "Final assessment must be completed within a specified number of working days from the date of provisional assessment, or from the date of final resolution if the matter is sub-judice before a court or tribunal.",
+          "Following final assessment, the customs authority is required to adjust the paid or guaranteed amount against the actual duty payable, with the importer or exporter either paying the balance or receiving a refund."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to extend the statutory time limit for final assessment in exceptional circumstances, provided that the reasons for the extension are recorded in writing."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_105",
+      "entity_sub_entities": {
+        "Provisional Assessment of Customs Duty": [
+          "goods",
+          "chemical analysis",
+          "further investigation",
+          "incomplete documentation",
+          "customs officer",
+          "Assistant Commissioner",
+          "security",
+          "bank guarantee",
+          "importer",
+          "exporter",
+          "duty",
+          "final assessment",
+          "working days",
+          "court",
+          "tribunal",
+          "customs authority",
+          "refund"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "statutory time limit",
+          "final assessment"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        23,
+        39,
+        49,
+        77,
+        109,
+        166,
+        209,
+        213,
+        381,
+        660,
+        835,
+        1021,
+        1053,
+        1126,
+        2209,
+        4944,
+        8366,
+        8981
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_239",
+      "clause_title": "বাজেয়াপ্তির সীমা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_239",
+      "resolved_text": "১৫৭। বাজেয়াপ্তির সীমা।— (১) এই আইনের অধীন কোন পণ্য বাজেয়াপ্তকরণ বলিতে উক্ত পণ্য যে মোড়কে পাওয়া যায় সেই মোড়ক এবং উহার অভ্যন্তরস্থ সকল আধেয় অন্তর্ভুক্ত হইবে :\n\nতবে শর্ত থাকে যে, যে ক্ষেত্রে বাজেয়াপ্তযোগ্য যানবাহন কোন কাস্টমস্ কর্মকর্তা কর্তৃক জব্দ করা হয় সেই ক্ষেত্রে পদমর্যাদায় সহকারী কমিশনার অব কাস্টমসের নিম্নে নহেন এমন কোন কর্মকর্তা ইহার বাজেয়াপ্ত সংশ্লিষ্ট মামলার ন্যায়নির্ণয়ন অনিষ্পন্ন থাকা অবস্থায় বিধিমালা দ্বারা যেরূপ নির্ধারিত থাকে সেইরূপ অবস্থার প্রেক্ষিতে ইহা খালাসের আদেশ প্রদান করিতে পারিবেন, যদি যানবাহনটির মালিক তাহাকে,—\n\n(ক) যে ক্ষেত্রে যানবাহনটি কোন বাস, মিনিবাস অথবা ট্রাক অথবা অন্য কোন gvUihvb হয় সেই ক্ষেত্রে সরকার কর্তৃক স্বীকৃত এবং এতদ্বিষয়ে সরকার কর্তৃক নির্ধারিত কোন কর্তৃপক্ষের সাথে নিবন্ধিত সংশ্লিষ্ট যানবাহন মালিক সমিতি দ্বারা যথাযথভাবে সত্যায়িত এবং সঠিকভাবে সীল মোহরাঙ্কিত ব্যক্তিগত অঙ্গীকারনামা প্রদান করেন,\n\n(খ) অন্য কোন যানবাহনের ক্ষেত্রে পদমর্যাদায় সহকারী কমিশনার অব কাস্টমস এর নিম্নে নহেন এমন কর্মকর্তা যেরূপ নির্দেশ করেন সেইরূপ যে কোন সময়ে এবং স্থানে যানবাহনটি যথাযথভাবে উপস্থাপন করার জন্য সহকারী কমিশনার অব কাস্টমস এর নিম্নে নহেন এমন কর্মকর্তার নিকট সেইরূপ গ্রহণযোগ্য হয় কোন তফসিলী ব্যাংকের সেইরূপ ব্যাংক গ্যারান্টি প্রদান করেন; এবং উক্তরূপ আদেশ প্রদানের পর উক্ত অঙ্গীকারনামা অথবা, ক্ষেত্রমত, গ্যারান্টির বাহাত্তর ঘণ্টার মধ্যে আদেশটির সাথে সম্পর্কিত যানবাহনটির খালাস প্রদান করা হইবে।\n\n(৩) এই আইনের অধীন কোন জাহাজের বাজেয়াপ্তকরণ বলিতে উহার ট্যাকল, সাজসজ্জা এবং আসবাবপত্রও অন্তর্ভুক্ত হইবে।",
+      "entity_concepts": {
+        "Confiscation of Goods": [
+          "The confiscation of goods under this Act includes the packaging in which the goods are found and all contents contained within that packaging."
+        ],
+        "Confiscation of Vessels": [
+          "The confiscation of a vessel under this Act includes all of its tackle, apparel, and furniture."
+        ],
+        "Confiscation of Vehicles": [
+          "In cases where a confiscable vehicle is seized, a Customs officer of a rank not below Assistant Commissioner of Customs may order the release of the vehicle pending adjudication of the case, subject to conditions prescribed by the rules.",
+          "For buses, minibuses, trucks, or other specific vehicles, the owner must provide a personal bond verified and sealed by a government-recognized vehicle owner association. For other types of vehicles, the owner must provide a bank guarantee from a scheduled bank to ensure the vehicle is presented when directed by an officer not below the rank of Assistant Commissioner of Customs.",
+          "Upon submission of the required bond or bank guarantee, the customs authority must release the vehicle within seventy-two hours of the order."
+        ],
+        "Assistant Commissioner of Customs": [
+          "This officer is empowered to order the interim release of seized vehicles pending adjudication, provided specific conditions regarding bonds or bank guarantees are met."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_243",
+      "entity_sub_entities": {
+        "Confiscation of Goods": [
+          "goods",
+          "packaging",
+          "contents"
+        ],
+        "Confiscation of Vessels": [
+          "vessel",
+          "tackle",
+          "apparel",
+          "furniture"
+        ],
+        "Confiscation of Vehicles": [
+          "confiscable vehicle",
+          "buses",
+          "minibuses",
+          "trucks",
+          "personal bond",
+          "bank guarantee"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner of Customs"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        71,
+        78,
+        117,
+        166,
+        732,
+        761,
+        773,
+        1325,
+        1429,
+        3668,
+        3669,
+        4988,
+        6096,
+        6628,
+        9874,
+        10633
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_101",
+      "clause_title": "Provisional assessment of duty",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_101",
+      "resolved_text": "81. Provisional assessment of duty.- (1) Where it is not possible immediately to assess the customs-duty that may be payable on any imported goods entered for home-consumption or for warehousing or for clearance from a warehouse for home-consumption or on any goods entered for exportation, for the reason that the goods require chemical or other test 1[or a further enquiry] for purposes of assessment, or that all the documents or complete documents or full information pertaining to those goods have not been furnished, an officer not below the rank of 2[Assistant Commissioner of Customs] may order that the duty payable on such goods be assessed provisionally:\nProvided that the importer (same in the case of goods entered for warehousing) or the exporter pays such additional amount as security or furnishes such guarantee of a scheduled bank for the payment thereof as the said officer deems sufficient to meet the excess of the final assessment of duty over the provisional assessment.\n[(2) Where any goods are allowed to be cleared or delivered on the basis of such provisional assessment, the amount of duty actually payable on those goods shall, within a period of one hundred and twenty working days from the date of the provisional assessment, where there is a case pending at any court, tribunal or appellate authority, from the date of receipt of the final disposal order of that case, be finally assessed and on completion of such assessment the appropriate officer shall order that the amount already guaranteed be adjusted against the amount payable on the basis of final assessment, and the difference between them shall be paid forthwith to or by the importer or exporter as the case may be:\nProvided that the Board may, under exceptional circumstances recorded in writing, extend the period of final assessment specified under this sub-section.]",
+      "entity_concepts": {
+        "Provisional Assessment of Customs Duty": [
+          "This mechanism allows for the assessment of duty on imported or exported goods when immediate final assessment is not possible due to the need for testing, further enquiry, or incomplete documentation.",
+          "The officer, who must be at least of the rank of an Assistant Commissioner of Customs, may authorize this process provided that adequate security or a scheduled bank guarantee is furnished to cover any potential excess duty determined upon final assessment."
+        ],
+        "Assistant Commissioner of Customs": [
+          "This officer is the minimum authority empowered to order the provisional assessment of duty for goods entered for home consumption, warehousing, or exportation."
+        ],
+        "Imported or Exported Goods": [
+          "Goods subject to provisional assessment require either chemical testing, other types of analysis, or additional information and documentation before their final duty liability can be determined."
+        ],
+        "Scheduled Bank": [
+          "A guarantee from a scheduled bank may be furnished by the importer or exporter as security for the payment of duty pending the finalization of the assessment."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to extend the statutory time limit for final assessment under exceptional circumstances that must be recorded in writing."
+        ],
+        "Importer": [
+          "The importer is responsible for providing the necessary security or bank guarantee to cover duty payments and is liable to pay or receive the difference once the final assessment is completed."
+        ],
+        "Exporter": [
+          "The exporter is required to provide the necessary security or bank guarantee for provisional assessment cases and must settle any difference between the provisionally paid amount and the final assessed duty."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_428",
+      "entity_sub_entities": {
+        "Provisional Assessment of Customs Duty": [
+          "imported goods",
+          "exported goods",
+          "duty",
+          "security",
+          "scheduled bank guarantee"
+        ],
+        "Assistant Commissioner of Customs": [
+          "goods",
+          "home consumption",
+          "warehousing",
+          "exportation"
+        ],
+        "Imported or Exported Goods": [
+          "chemical testing",
+          "analysis",
+          "information",
+          "documentation",
+          "duty liability"
+        ],
+        "Scheduled Bank": [
+          "guarantee",
+          "importer",
+          "exporter",
+          "security",
+          "duty"
+        ],
+        "National Board of Revenue": [
+          "statutory time limit",
+          "final assessment"
+        ],
+        "Importer": [
+          "security",
+          "bank guarantee",
+          "duty payments",
+          "final assessment"
+        ],
+        "Exporter": [
+          "security",
+          "bank guarantee",
+          "provisional assessment",
+          "final assessed duty"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        8,
+        39,
+        63,
+        77,
+        78,
+        109,
+        142,
+        148,
+        166,
+        209,
+        407,
+        830,
+        1053,
+        1062,
+        1099,
+        1272,
+        1291,
+        1374,
+        1681,
+        2209,
+        2677,
+        2721,
+        4944,
+        5489,
+        8059,
+        11870
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_235",
+      "clause_title": "Deposit, pending appeal, of duty demanded or penalty levied",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_235",
+      "resolved_text": "194. Deposit, pending appeal, of duty demanded or penalty levied.- (1) Any person desirous of appealing under section 193 5[or section 196A] against any decision or order relating to any duty demanded in respect of goods which have ceased to be under the control of customs authorities or to any penalty levied under this Act shall, at the time of filing his appeal or if he is so permitted by the appellate authority at any later stage before the consideration of the appeal, deposit with the appropriate officer 37[fifty per cent of the duty demanded or fifty per cent of the penalty imposed, or both, as the case may be]:\nProvided that such person may, instead of depositing 38[the amount of the penalty as aforesaid] deposit only fifty per cent thereof and furnish a guarantee from a scheduled bank for the due payment of the balance:\nProvided further that where, in any particular case, the appellate authority is of the opinion that the deposit of duty demanded or 39[penalty imposed] will cause undue hardship to the appellant, it may dispense with such deposit, either unconditionally or subject to such conditions as it may deem fit to impose.\n(2) If, upon an appeal it is decided that the whole or any portion of the aforesaid duty or penalty was not leviable, the appropriate officer shall return to the appellant such amount or portion as the case may be.",
+      "entity_concepts": {
+        "Customs Authority": [
+          "The customs authority maintains control over goods, and certain appeal processes regarding duty or penalties apply when goods have ceased to be under their custody."
+        ],
+        "Duty Payment": [
+          "A person appealing a decision regarding demanded duties is generally required to deposit a specified percentage of the demanded amount with the appropriate officer, unless otherwise permitted by the appellate authority.",
+          "If an appeal results in a decision that the duty was not leviable, the appropriate officer is required to refund the amount paid by the appellant."
+        ],
+        "Customs Penalty": [
+          "A person appealing against a levied penalty must deposit a specified percentage of the penalty amount, or may alternatively provide a bank guarantee for the balance under specific conditions.",
+          "The appellate authority has the discretion to waive the deposit requirement for penalties if it determines that payment would cause undue hardship to the appellant.",
+          "Upon a successful appeal where it is decided the penalty was not leviable, the appropriate officer shall refund the paid amount to the appellant."
+        ],
+        "Customs Appellate Tribunal": [
+          "The appellate authority has the power to allow the deposit of duty or penalties at a later stage before the appeal is considered and may dispense with the deposit requirement entirely if deemed necessary to avoid undue hardship."
+        ],
+        "Scheduled Bank": [
+          "An appellant may provide a guarantee from a scheduled bank to cover the balance of a penalty amount instead of depositing the full required sum."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer is responsible for receiving the required deposits of duty or penalties from the appellant and for processing refunds if an appeal is successful."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_562",
+      "entity_sub_entities": {
+        "Customs Authority": [
+          "goods",
+          "duty",
+          "penalties"
+        ],
+        "Duty Payment": [
+          "demanded duties",
+          "specified percentage",
+          "demanded amount",
+          "appellate authority",
+          "duty",
+          "refund"
+        ],
+        "Customs Penalty": [
+          "levied penalty",
+          "penalty amount",
+          "bank guarantee",
+          "appellate authority",
+          "deposit requirement",
+          "refund"
+        ],
+        "Customs Appellate Tribunal": [
+          "deposit of duty",
+          "penalties",
+          "deposit requirement"
+        ],
+        "Scheduled Bank": [
+          "guarantee",
+          "penalty amount"
+        ],
+        "Appropriate Officer of Customs": [
+          "deposits of duty",
+          "penalties",
+          "refunds"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        23,
+        46,
+        109,
+        166,
+        575,
+        588,
+        660,
+        704,
+        930,
+        1062,
+        1263,
+        1272,
+        2183,
+        2376,
+        3810,
+        7194,
+        7221,
+        9460,
+        12332
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "cluster_id": 520,
+  "cluster_label": "findings",
+  "thread_index": 1,
+  "thread_id": "cluster_00520_t1",
+  "title": "Pre-shipment Inspection (PSI) Findings Review",
+  "summary": "This thread concerns the legal oversight of 'Clean Report of Findings' (CRF) issued by pre-shipment inspection agencies. It establishes a Review Committee to handle disputes regarding these findings, providing a clear legal pathway for aggrieved parties to appeal to the Appellate Tribunal.",
+  "evolution": {
+    "legal_basis": "Established a specific administrative review mechanism for third-party inspection findings."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Customs Act",
+      "change": "Defined the legal basis for a Review Committee to evaluate findings issued by pre-shipment inspection agencies.",
+      "clause_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_234"
+      ]
+    }
+  ],
+  "num_member_objects": 1,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_234",
+      "clause_title": "Review Committee",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_234",
+      "resolved_text": "2[3[193C, Review Committee.- 4[(1) There shall be a Review Committee consisting of such number of members as the Board may determine for the purposes of reviewing any matter related to the Clean Report of Findings (CRF) issued by the pre-shipment inspection agencies appointed by the Government under section 25A.]\n(2) Any person aggrieved by any decision of the Review Committee may prefer an appeal to the Appellate Tribunal constituted under section 196.\n(3) The Appellate Tribunal may, after making such enquiry as it considers necessary and after giving the Commissioner or his authorised representative, the local representative of the concerned pre-shipment inspection agency, and the importer an opportunity of being heard, if they so desire, pass such order as it thinks fit, including fixing the price of the subject goods for the purpose of final assessment.\n(4) No fee shall be payable for an appeal under this section.]",
+      "entity_concepts": {
+        "Review Committee": [
+          "A Review Committee is established with a number of members determined by the National Board of Revenue to review matters concerning Clean Report of Findings issued by pre-shipment inspection agencies.",
+          "Any person who is aggrieved by a decision of this committee is entitled to file an appeal with the Appellate Tribunal."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is authorized to determine the number of members to serve on the Review Committee."
+        ],
+        "Pre-shipment Inspection Agency": [
+          "These agencies are appointed by the Government under the Customs Act to issue Clean Report of Findings, which are subject to review by the Review Committee.",
+          "Local representatives of these agencies must be provided an opportunity to be heard by the Appellate Tribunal during appeal proceedings."
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "The Appellate Tribunal is authorized to hear appeals against decisions made by the Review Committee.",
+          "The Tribunal is empowered to conduct inquiries and pass final orders, including determining the value of goods for final assessment, after providing a hearing to the Commissioner of Customs, the pre-shipment inspection agency, and the importer.",
+          "No fees are required to be paid for filing an appeal to the Appellate Tribunal under this section."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs or their authorized representative is entitled to be heard by the Appellate Tribunal during the appeal process regarding the Review Committee's decision."
+        ],
+        "Importer": [
+          "The importer has the right to be heard by the Appellate Tribunal during proceedings related to the review of findings issued by pre-shipment inspection agencies."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_561",
+      "entity_sub_entities": {
+        "Review Committee": [
+          "members",
+          "National Board of Revenue",
+          "Clean Report of Findings",
+          "pre-shipment inspection agencies",
+          "aggrieved person",
+          "Appellate Tribunal"
+        ],
+        "National Board of Revenue": [
+          "members",
+          "Review Committee"
+        ],
+        "Pre-shipment Inspection Agency": [
+          "Government",
+          "Customs Act",
+          "Clean Report of Findings",
+          "Review Committee",
+          "local representatives",
+          "Appellate Tribunal"
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "Appellate Tribunal",
+          "Review Committee",
+          "inquiries",
+          "final orders",
+          "value of goods",
+          "Commissioner of Customs",
+          "pre-shipment inspection agency",
+          "importer",
+          "fees"
+        ],
+        "Commissioner of Customs": [
+          "authorized representative",
+          "Appellate Tribunal",
+          "Review Committee"
+        ],
+        "Importer": [
+          "Appellate Tribunal",
+          "findings",
+          "pre-shipment inspection agencies"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        6,
+        7,
+        37,
+        39,
+        151,
+        239,
+        304,
+        335,
+        520,
+        680,
+        864,
+        900,
+        1090,
+        1455,
+        1894,
+        3606,
+        4203,
+        4307,
+        8069
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,250 @@
+{
+  "cluster_id": 502,
+  "cluster_label": "sections",
+  "thread_index": 1,
+  "thread_id": "cluster_00502_t1",
+  "title": "Customs Procedural and Enforcement Powers",
+  "summary": "This thread captures the static definitions and powers granted to customs officers regarding evidence, summary trials, and appeals. These clauses represent the foundational procedural law that remains consistent across the evolution of the primary acts.",
+  "evolution": {
+    "structure": "These clauses define the enduring procedural mechanisms of customs enforcement."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Customs Act 1969 (Various)",
+      "change": "Establishment of core enforcement powers (summoning, summary trial, appeals).",
+      "clause_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_193",
+        "customs-act-1969-english_8th March, 1969_clause_211",
+        "customs-act-1969-english_8th March, 1969_clause_231"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 3,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_193",
+      "clause_title": "Power to summon persons to give evidence and produce documents or things",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_193",
+      "resolved_text": "166. Power to summon persons to give evidence and produce documents or things.- (1) Any gazetted officer of customs shall have power to summon any person whose attendance he considers necessary either to give evidence or to produce a document or any other thing in any inquiry which such officer is making in connection with the smuggling of any goods.\n(2) A summon to produce documents or other things may be for the production of certain specified documents or things or for the production of all documents or things of a certain description in the possession or under the control of the person summoned.\n(3) All persons so summoned shall be bound to attend either in person or by an authorised agent, as such officer may direct; and all persons so summoned shall be bound to state the truth upon any subject respecting which they are examined or make statement and produce such documents and other things as may be required :\nProvided that the exemption under section 132 of the Code of Civil Procedure, 1908 (Act V of 1908), shall be applicable to any requisition for attendance under this section.\n(4) Every such inquiry as aforesaid shall be deemed to be judicial proceeding within the meaning of section 193 and section 228 of the 1[Penal Code], (Act XLV of 1860).",
+      "entity_concepts": {
+        "Gazetted Customs Officer": [
+          "A Gazetted Customs Officer is empowered to summon any person whose attendance is necessary to provide evidence or produce documents and items related to smuggling inquiries.",
+          "The officer has the authority to direct whether a summoned person must appear in person or through an authorized agent."
+        ],
+        "Smuggling Prevention": [
+          "The power to summon persons and evidence is granted specifically for inquiries conducted by customs authorities in relation to the smuggling of goods."
+        ],
+        "Person": [
+          "A person summoned by a customs officer is legally obligated to attend, state the truth during examination, and produce the requested documents or things.",
+          "Summoned persons have the right to claim exemptions from personal attendance as provided under the Code of Civil Procedure 1908."
+        ],
+        "Code of Civil Procedure 1908": [
+          "The provisions regarding exemptions from personal appearance in court as established in the Code of Civil Procedure 1908 apply to summons issued under this Act."
+        ],
+        "Penal Code 1860": [
+          "Inquiries conducted by a customs officer under this power are legally classified as judicial proceedings for the purposes of applying relevant sections of the Penal Code 1860 concerning false evidence and intentional insult or interruption."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_520",
+      "entity_sub_entities": {
+        "Gazetted Customs Officer": [
+          "person",
+          "evidence",
+          "documents",
+          "items",
+          "authorized agent"
+        ],
+        "Smuggling Prevention": [
+          "persons",
+          "evidence",
+          "goods"
+        ],
+        "Person": [
+          "documents",
+          "things",
+          "Code of Civil Procedure 1908"
+        ],
+        "Code of Civil Procedure 1908": [
+          "provisions",
+          "summons"
+        ],
+        "Penal Code 1860": [
+          "judicial proceedings",
+          "sections"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        59,
+        67,
+        70,
+        117,
+        294,
+        301,
+        495,
+        502,
+        818,
+        959,
+        1282,
+        1579,
+        1696,
+        1778,
+        2285
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_211",
+      "clause_title": "Power to try summarily",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_211",
+      "resolved_text": "184. Power to try summarily.- Any Magistrate for the time being empowered to try in a summary way the offences specified in sub-section (1) of section 260 of the Code of Criminal Procedure, 1898 ( Act V of 1898) may , if he thinks fit, on application in this behalf by the prosecution, try an offence under this Act except when the value of goods involved in such offences exceeds 1[Taka five thousand] in accordance with the provisions of sub-section (1) of section 262 and sections 263, 264 and 265 of the Code.",
+      "entity_concepts": {
+        "Magistrate": [
+          "A Magistrate empowered to conduct summary trials under the Code of Criminal Procedure, 1898 may try offences committed under the Customs Act 1969.",
+          "The power to try these offences summarily is subject to a monetary threshold concerning the value of the goods involved in the offence and requires an application from the prosecution."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "The Code provides the procedural framework for the summary trial of specified offences, which is applied to certain customs offences under the Customs Act 1969.",
+          "The summary trial of customs offences must be conducted in accordance with specific sections of this Code."
+        ],
+        "Customs Offence Summary Trial": [
+          "Summary trials for customs offences are permissible for cases where the value of the goods involved does not exceed a specified monetary limit.",
+          "The trial process is initiated by an application from the prosecution and follows the procedures laid down in the Code of Criminal Procedure, 1898."
+        ],
+        "Goods": [
+          "The authority of a Magistrate to conduct a summary trial for a customs offence is limited by the value of the goods involved in that specific offence."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_538",
+      "entity_sub_entities": {
+        "Magistrate": [
+          "Magistrate",
+          "Code of Criminal Procedure, 1898",
+          "Customs Act 1969",
+          "offences",
+          "monetary threshold",
+          "goods",
+          "application",
+          "prosecution"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "Code of Criminal Procedure, 1898",
+          "summary trial",
+          "offences",
+          "Customs Act 1969",
+          "sections"
+        ],
+        "Customs Offence Summary Trial": [
+          "summary trials",
+          "customs offences",
+          "goods",
+          "monetary limit",
+          "application",
+          "prosecution",
+          "Code of Criminal Procedure, 1898"
+        ],
+        "Goods": [
+          "goods",
+          "Magistrate",
+          "summary trial",
+          "customs offence"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        58,
+        184,
+        375,
+        387,
+        502,
+        698,
+        764,
+        832,
+        999,
+        1875,
+        2619,
+        2957,
+        9931
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_231",
+      "clause_title": "Appeals to Commissioner (Appeal)",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_231",
+      "resolved_text": "1[193. Appeals to Commissioner (Appeal).- (1) Any person aggrieved by any decision or order passed under this Act, not being a decision or order passed under section 82 or section 98, by an officer of customs lower in rank than a Commissioner of Customs, may appeal to the Commissioner (Appeal) within three months from the date of communication to him of such decision or order:\nProvided that the Commissioner (Appeal) may, if he is satisfied that the appellant was prevented by sufficient causes from presenting the appeal within the aforesaid period of three months, allow it to be presented within a further period of two months.\n(2) Every appeal under this section, shall be in such form and shall be verified in such manner as may be specified by rules made in this behalf.]",
+      "entity_concepts": {
+        "Person": [
+          "Any person who is aggrieved by a customs decision or order may lodge an appeal against that decision, provided the order was not made under specific excluded sections of the Customs Act 1969."
+        ],
+        "Commissioner (Appeals)": [
+          "The Commissioner (Appeals) acts as the authority to hear appeals against decisions made by customs officers ranked lower than a Commissioner of Customs.",
+          "The Commissioner (Appeals) has the discretion to condone a delay in filing an appeal if the appellant provides sufficient evidence for why the appeal could not be filed within the standard statutory timeframe."
+        ],
+        "Customs Decision": [
+          "Appeals may be filed against customs decisions or orders, with the exception of those specifically excluded by the Act."
+        ],
+        "Rules": [
+          "The form and verification procedures for filing an appeal must comply with the requirements specified under the relevant rules."
+        ],
+        "Customs Act 1969": [
+          "The Act establishes the appellate mechanism for addressing grievances arising from customs orders, excluding decisions issued under specific sections related to particular customs procedures."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_558",
+      "entity_sub_entities": {
+        "Person": [
+          "aggrieved person"
+        ],
+        "Commissioner (Appeals)": [
+          "Commissioner (Appeals)",
+          "customs officers",
+          "Commissioner of Customs"
+        ],
+        "Customs Decision": [
+          "customs decisions",
+          "orders"
+        ],
+        "Rules": [
+          "form",
+          "verification procedures"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "customs orders",
+          "sections"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        7,
+        29,
+        70,
+        73,
+        111,
+        246,
+        502,
+        510,
+        765,
+        928,
+        1894,
+        2607,
+        5124
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

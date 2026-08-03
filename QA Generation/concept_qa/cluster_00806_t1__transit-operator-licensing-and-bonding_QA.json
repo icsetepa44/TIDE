@@ -1,0 +1,109 @@
+{
+  "thread_id": "cluster_00806_t1",
+  "cluster_id": 806,
+  "cluster_label": "transit operations",
+  "title": "Transit Operator Licensing and Bonding",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "Under Section 207 of the Customs Act 1969, transit operators are required to execute a bond to guarantee faithful and honest conduct during their operations.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "Section 207 of the Customs Act 1969",
+      "answer": "The statement is accurate. According to the Customs Act 1969, transit operators must execute a bond under Section 207 to ensure faithful and honest conduct during operations.",
+      "clause_text_ids": [
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The licensing authority for transit operators is responsible for the enrollment of Clearing and Forwarding agents, as established by the Customs Act 1969, Section 505.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Section 505",
+      "correct_fact": "Section 219 and the Third Schedule",
+      "answer": "The statement is inaccurate. While the licensing authority does enroll Clearing and Forwarding agents, the legal framework for these regulations is derived from Section 219 and the Third Schedule of the Customs Act 1969, not Section 505.",
+      "clause_text_ids": [
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The movement of goods to and from India through designated ports is governed by an intergovernmental agreement, which requires transit operators to be licensed.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "Agreement on the use of Chattogram and Mongla Port",
+      "answer": "The statement is accurate. The 'Agreement on the use of Chattogram and Mongla Port for Movement of Goods to and from India' provides the legal basis for these operations and mandates that transit operators be licensed.",
+      "clause_text_ids": [
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Transit operators are financially liable to the government for any illegal activities or negligence occurring during transit or transshipment operations under the Customs Transit and Transshipment Rules 2022.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Transit and Transshipment Rules 2022",
+      "correct_fact": "Customs Transit and Transshipment Rules 2021",
+      "answer": "The statement is inaccurate. The governing regulations are the 'Customs Transit and Transshipment Rules 2021', not the 2022 version.",
+      "clause_text_ids": [
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The National Board of Revenue is the authority responsible for issuing permanent orders that establish the conditions for the transit and transshipment of goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "National Board of Revenue",
+      "answer": "The statement is accurate. The National Board of Revenue is identified as the authority responsible for issuing permanent orders regarding the conditions for transit and transshipment.",
+      "clause_text_ids": [
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "To function as a transit operator, an entity must be a licensed Clearing and Forwarding agent and obtain a listing certificate authorized by the licensing authority.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "Clearing and Forwarding agent and listing certificate",
+      "answer": "The statement is accurate. The licensing authority enrolls Clearing and Forwarding agents as transit operators and issues a listing certificate for them to function within the framework.",
+      "clause_text_ids": [
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2021 regulations, transit operators are required to obtain a license directly from the Ministry of Foreign Affairs, bypassing the National Board of Revenue (NBR), to facilitate the movement of goods under the Agreement on the Use of Chattogram and Mongla Port.",
+      "question": "Which entity is the authorized licensing authority for transit operators, and what is the legal basis for this authority?",
+      "conflict": "The misaligned context incorrectly identifies the Ministry of Foreign Affairs as the licensing authority, whereas the provided facts state the National Board of Revenue (NBR) is the authority responsible.",
+      "answer": "According to the provided documentation (src=20230425_output.json), the National Board of Revenue (NBR) is the authority responsible for issuing permanent orders and establishing conditions for transit and transshipment. The licensing authority, under the National Board of Revenue, is responsible for the formal enrollment of clearing and forwarding agents as transit operators under the Agreement on the Use of Chattogram and Mongla Port.",
+      "clause_text_ids": [
+        "metadata_7",
+        "metadata_8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "thread_id": "cluster_00334_t1",
+  "cluster_id": 334,
+  "cluster_label": "country of origin",
+  "title": "Advance Ruling and Procedural Verification",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument formally expanded the scope of Advance Rulings to include 'country of origin' determinations?",
+      "options": [
+        "Customs Ruling (Advance) Rules 2016",
+        "SRO 146-AIN/2017",
+        "SRO 2025",
+        "Section 219 of the Customs Act 1969"
+      ],
+      "answer_index": 1,
+      "answer": "SRO 146-AIN/2017",
+      "explanation": "SRO 146-AIN/2017, dated 2017-06-01, amended the Customs Ruling (Advance) Rules 2016 to include 'country of origin' alongside classification for advance rulings.",
+      "clause_text_ids": [
+        "20170601_146-AIN__১ জুন, ২০১৭_clause_1",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary purpose of introducing 'Form Kha' as per the 2017 amendments?",
+      "options": [
+        "To replace the Customs Act 1969",
+        "To establish the Advance Ruling Unit",
+        "To create a new application form specifically for advance rulings on origin",
+        "To provide a database for public access"
+      ],
+      "answer_index": 2,
+      "answer": "To create a new application form specifically for advance rulings on origin",
+      "explanation": "According to the 2017-06-01 SRO 146-AIN/2017, the amendments introduced 'Form Kha' as a new application form for advance rulings regarding the country of origin.",
+      "clause_text_ids": [
+        "20170601_146-AIN__১ জুন, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When was the mandate of the Advance Ruling Unit formally expanded to include database management and monitoring?",
+      "options": [
+        "2016-01-01",
+        "2017-06-01",
+        "2025-06-02",
+        "2026-06-02"
+      ],
+      "answer_index": 2,
+      "answer": "2025-06-02",
+      "explanation": "SRO 2025, issued on 2025-06-02, formalized the Advance Ruling Unit's mandate to include origin determination, monitoring, and the establishment of a public-facing database.",
+      "clause_text_ids": [
+        "20170601_146-AIN__১ জুন, ২০১৭_clause_1",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which of the following functions was explicitly assigned to the Advance Ruling Unit in the 2025 mandate?",
+      "options": [
+        "Laboratory testing of imported goods",
+        "Issuing Business Identification Numbers",
+        "Establishing and maintaining an accessible advance ruling database",
+        "Amending the Customs Act 1969"
+      ],
+      "answer_index": 2,
+      "answer": "Establishing and maintaining an accessible advance ruling database",
+      "explanation": "The 2025-06-02 SRO 2025 specifies that the Advance Ruling Unit is tasked with establishing and maintaining an advance ruling database accessible to the public.",
+      "clause_text_ids": [
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer applied for an advance ruling on the country of origin for their goods in 2018 using Form Kha, as established by the 2017 amendment. In 2026, they seek to verify the status of their ruling and check if any procedural changes have impacted its validity.",
+      "question": "Beyond the initial application process established in 2017, what new institutional responsibility and resource introduced in 2025 now assists the importer in monitoring the validity of their ruling and accessing relevant information?",
+      "answer": "The Advance Ruling Unit, which is now mandated to inform stakeholders of procedural or legal changes affecting ruling validity and to maintain a publicly accessible advance ruling database.",
+      "clauses_involved": [
+        "2017-06-01 | SRO 146-AIN/2017",
+        "2025-06-02 | SRO 2025"
+      ],
+      "clause_text_ids": [
+        "20170601_146-AIN__১ জুন, ২০১৭_clause_1",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "eight years later",
+      "question": "In 2017-06-01, the scope of Advance Rulings was expanded to include 'country of origin' determinations; what specific mandate was granted to the Advance Ruling Unit eight years later?",
+      "answer": "On 2025-06-02, via SRO 2025, the Advance Ruling Unit's mandate was formalized to include not only origin determination but also monitoring, database management, and the responsibility to inform stakeholders of procedural or legal changes affecting issued rulings.",
+      "clause_text_ids": [
+        "20170601_146-AIN__১ জুন, ২০১৭_clause_1",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    }
+  ]
+}

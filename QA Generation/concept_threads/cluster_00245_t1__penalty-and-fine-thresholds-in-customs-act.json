@@ -1,0 +1,222 @@
+{
+  "cluster_id": 245,
+  "cluster_label": "fines",
+  "thread_index": 1,
+  "thread_id": "cluster_00245_t1",
+  "title": "Penalty and Fine Thresholds in Customs Act",
+  "summary": "This thread captures the legislative adjustments to the monetary thresholds for fines and penalties under the Customs Act, 1969. It reflects a policy shift toward increasing the deterrent effect of financial penalties for customs offenses.",
+  "evolution": {
+    "rates": "Upward adjustment of monetary fine ceilings to account for inflation and increased deterrence."
+  },
+  "timeline": [
+    {
+      "date": "1969-01-01",
+      "instrument": "Customs Act 1969 (Original/General)",
+      "change": "Established baseline magistrate powers for fines.",
+      "clause_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "date": "2000-01-01",
+      "instrument": "Customs Act Amendment",
+      "change": "Increased specific penalty amounts (e.g., 50k to 2 lakh Taka) for various offenses.",
+      "clause_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "Act No. IV of 1969 এর section 156 এর সংশোধন",
+      "text_id": "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+      "resolved_text": "--। Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর section 156 এর sub-section (1) এর Table এর column 1 এ বর্ণিত-\n(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 43A, 44, 45, 49, 54, 56, 59, 61, 63, 64, 65, 71 ও 75 এ বর্ণিত Offences এর বিপরীতে column 2 এ বর্ণিত Penalties এ উল্লিখিত “fifty thousand Taka” শব্দগুলির পরিবর্তে “two lakh Taka” শব্দগুলি প্রতিস্থাপিত হইবে;\n(খ) ক্রমিক 47A এর পরিবর্তে নিম্নবর্ণিত ক্রমিক 47A প্রতিস্থাপিত হইবে, যথা:-\n\n| “47A. If any person- (i) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system; or | such person shall be liable to a penalty not exceeding twice the amount of duty taxes involved or five lakh Taka whichever is higher; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B |\n| (ii) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding five lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B & 204B |\n| (iii) having lawful access to any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B |\n| (iv) who is not authorised to do so, receives information obtained from any Customs computerised entry processing system or from any other means for the purpose of Customs clearance, and uses, discloses, publishes or authorizes dissemination of such information, | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B” । |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Act is amended to increase the prescribed monetary penalties associated with a range of customs offences listed in the Table of Section 156.",
+          "The amendment revises the penalties for unauthorized access, data misuse, or unauthorized disclosure involving the customs computerized system to include both administrative fines and potential criminal conviction."
+        ],
+        "Customs Offence Penalties": [
+          "Specified penalties for numerous existing customs offences have been increased from fifty thousand Taka to two lakh Taka."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Unauthorized access to or attempts to access this system now carry a penalty of up to twice the duty or a fixed maximum amount, whichever is higher, alongside potential imprisonment and further fines upon conviction.",
+          "The misuse or unauthorized disclosure of trade or passenger information obtained from the system or other customs channels is now subject to specific tiered administrative penalties and criminal liability."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "monetary penalties",
+          "customs offences",
+          "Table of Section 156",
+          "unauthorized access",
+          "data misuse",
+          "unauthorized disclosure",
+          "customs computerized system",
+          "administrative fines",
+          "criminal conviction"
+        ],
+        "Customs Offence Penalties": [
+          "customs offences",
+          "fifty thousand Taka",
+          "two lakh Taka"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "unauthorized access",
+          "duty",
+          "imprisonment",
+          "fines",
+          "trade information",
+          "passenger information",
+          "administrative penalties",
+          "criminal liability"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        66,
+        109,
+        116,
+        245,
+        317,
+        558,
+        698,
+        1080,
+        1804,
+        2176,
+        2329,
+        3164,
+        3697,
+        4986,
+        5356,
+        6774,
+        7099,
+        8054,
+        13043,
+        13056
+      ],
+      "source_file": "customs_acts_OCR/Customs-act-1969-amend-2022-2023/Customs-act-1969-amend-2022-2023_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_268",
+      "clause_title": "ম্যাজিস্ট্রেটদের জন্য বিশেষ ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+      "resolved_text": "১৮৫। ম্যাজিস্ট্রেটদের জন্য বিশেষ ক্ষমতা।— ফৌজদারী কার্যবিধি, ১৮৯৮ (১৮৯৮ সনের ৫ নং আইন) এ যাহা কিছুই থাকুক না কেন এবং এই আইনের অন্যান্য বিধানাবলী সাপেক্ষে, এতদ্বিষয়ে সরকার কর্তৃক বিশেষভাবে ক্ষমতাপ্রাপ্ত কোন প্রথম শ্রেণীর ম্যাজিস্ট্রেট এই আইনের অধীন কোন অপরাধের জন্য পাঁচ বৎসরের অধিক কারাদণ্ডের এবং দশ হাজার টাকার অধিক জরিমানাদণ্ডের শাস্তি প্রদান করিতে পারিবেন।",
+      "entity_concepts": {
+        "Magistrate": [
+          "A first-class magistrate specifically empowered by the government is authorized to try offences under the Customs Act 1969.",
+          "These magistrates are granted special powers to impose prison sentences exceeding five years and fines exceeding ten thousand taka for customs offences, notwithstanding provisions in the Code of Criminal Procedure 1898."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework under which special powers are granted to magistrates to handle customs-related offences and prescribe punishments."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "The special sentencing powers granted to magistrates under the Customs Act 1969 take precedence over the general provisions established in this code."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_272",
+      "entity_sub_entities": {
+        "Magistrate": [
+          "first-class magistrate",
+          "government",
+          "prison sentences",
+          "fines"
+        ],
+        "Customs Act 1969": [
+          "special powers",
+          "customs-related offences",
+          "punishments"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "general provisions"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        6,
+        184,
+        245,
+        387,
+        1297,
+        1992,
+        3319,
+        8149,
+        8402,
+        12277
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_212",
+      "clause_title": "Special power for Magistrates",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_212",
+      "resolved_text": "185. Special power for Magistrates.- Notwithstanding anything contained in the Code of Criminal Procedure, 1898 ( Act V of 1898 ) and subject to the other provisions of this Act, any Magistrate of the first class specially empowered by the 2[Government] in this behalf may pass a sentence of imprisonment for a term exceeding 3[five years] and of fine exceeding 4[ten thousand taka] for an offence under this Act.",
+      "entity_concepts": {
+        "Magistrate": [
+          "A Magistrate of the first class who is specially empowered by the Government is granted the authority to impose sentences of imprisonment and fines exceeding statutory limits for offences committed under the Customs Act 1969.",
+          "This special power granted to the Magistrate operates notwithstanding the provisions of the Code of Criminal Procedure, 1898, but remains subject to other provisions of the Customs Act 1969."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "The sentencing powers granted to a specially empowered Magistrate under the Customs Act 1969 are exercised notwithstanding the general limitations prescribed in this Code."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework for the prosecution of customs offences and empowers the Government to designate Magistrates with enhanced sentencing authority.",
+          "The exercise of special sentencing powers by a Magistrate remains subject to the provisions contained within this Act."
+        ],
+        "Government": [
+          "The Government is empowered to specially authorize a Magistrate of the first class to exercise enhanced sentencing powers for offences committed under the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_539",
+      "entity_sub_entities": {
+        "Magistrate": [
+          "Magistrate of the first class",
+          "sentences of imprisonment",
+          "fines"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "general limitations"
+        ],
+        "Customs Act 1969": [
+          "customs offences",
+          "special sentencing powers"
+        ],
+        "Government": [
+          "Magistrate of the first class",
+          "enhanced sentencing powers",
+          "offences"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        6,
+        184,
+        245,
+        375,
+        387,
+        698,
+        2127,
+        3319,
+        7742,
+        8400,
+        12280
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

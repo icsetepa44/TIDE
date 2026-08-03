@@ -1,0 +1,79 @@
+{
+  "cluster_id": 62,
+  "cluster_label": "President",
+  "thread_index": 1,
+  "thread_id": "cluster_00062_t1",
+  "title": "Administrative Authentication and Certification",
+  "summary": "The term 'President' is used in the context of industry-specific certification requirements for customs duty exemptions. It mandates that importers obtain certification from the President of specific trade associations (e.g., Tanners Association) to validate their eligibility for customs benefits.",
+  "evolution": {
+    "eligibility_procedure": "Shifted from purely government-led verification to requiring industry-body presidential certification."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "SRO 176-Law/2016",
+      "change": "Introduction of mandatory certification by the President of trade associations for customs clearance.",
+      "clause_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 1,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_3",
+      "resolved_text": "(২) প্রত্যেক আমদানিকারককে প্রতিটি চালান শুল্কায়নের পূর্বে Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association অথবা Bangladesh Tanners Association এর সভাপতি কর্তৃক পরিশিষ্ট-১ অনুযায়ী প্রদত্ত একটি প্রত্যয়নপত্র সংশ্লিষ্ট কাস্টমস কর্তৃপক্ষের নিকট দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association": [
+          "The association is authorized to issue a certification for import consignments as per the specified appendix requirements.",
+          "Importers must submit this certification from the association's president to the relevant customs authority prior to the clearance of each consignment."
+        ],
+        "Bangladesh Tanners Association": [
+          "The association is authorized to issue a certification for import consignments as per the specified appendix requirements.",
+          "Importers must submit this certification from the association's president to the relevant customs authority prior to the clearance of each consignment."
+        ],
+        "Customs Authority": [
+          "The customs authority is the designated recipient of the required certification documents that must be submitted by importers before the final clearance of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1605",
+      "entity_sub_entities": {
+        "Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association": [
+          "certification",
+          "import consignments",
+          "appendix requirements",
+          "president"
+        ],
+        "Bangladesh Tanners Association": [
+          "certification",
+          "import consignments",
+          "appendix requirements",
+          "president"
+        ],
+        "Customs Authority": [
+          "certification documents",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        62,
+        195,
+        916,
+        944,
+        1164,
+        1848,
+        3417
+      ],
+      "source_file": "customs_sros_OCR/20160602_152-AIN_2016_14-Customs/20160602_152-AIN_2016_14-Customs_output.json",
+      "clause_date": "2016-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,206 @@
+{
+  "thread_id": "cluster_00059_t0",
+  "cluster_id": 59,
+  "cluster_label": "documents",
+  "title": "Digitalization and Electronic Documentation",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument first introduced the requirement for Customs Agents to submit documents using either electronic or manual methods?",
+      "options": [
+        "Customs Act 2023",
+        "Customs Agent Licensing Rules 2016",
+        "Customs (Electronic Submission) Rules 2024",
+        "AEO Rules 2025"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Agent Licensing Rules 2016",
+      "explanation": "The Customs Agent Licensing Rules (2016-06-02) introduced the requirement for agents to submit documents via electronic or manual methods.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When were electronic records, signatures, and payment systems formally defined for customs documentation purposes?",
+      "options": [
+        "2016-06-02",
+        "2024-06-06",
+        "2025-01-21",
+        "2025-03-10"
+      ],
+      "answer_index": 1,
+      "answer": "2024-06-06",
+      "explanation": "The Customs (Electronic Submission) Rules, issued on 2024-06-06, provided formal definitions for electronic records, signatures, and electronic payment systems.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the AEO Rules of 2025-01-21, what is the requirement for consignments cleared through the Green Lane?",
+      "options": [
+        "Physical submission of all documents is mandatory",
+        "Mandatory electronic submission of declarations and documents",
+        "Exemption from all documentation requirements",
+        "Submission only after final assessment"
+      ],
+      "answer_index": 1,
+      "answer": "Mandatory electronic submission of declarations and documents",
+      "explanation": "The AEO Rules (2025-01-21) mandate that declarations and documents for Green Lane clearance must be submitted directly or electronically to the designated official before assessment.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the scope of the definition of 'documents' established in the 2025-03-10 Customs Rules?",
+      "options": [
+        "Only physical paper-based records",
+        "Only electronic signatures and digital records",
+        "Any information stored in physical, electronic, or other media",
+        "Only records related to financial transactions"
+      ],
+      "answer_index": 2,
+      "answer": "Any information stored in physical, electronic, or other media",
+      "explanation": "The 2025-03-10 Customs Rules expanded the definition of documents to include information stored in physical, electronic, or other media.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2016 Customs Agent Licensing Rules, it was established that all documents must be submitted exclusively through the mandatory electronic Green Lane system to ensure automated clearance.",
+      "question": "Does the 2016 Customs Agent Licensing Rules mandate the use of an electronic Green Lane system for all document submissions?",
+      "conflict": "The context misaligns the 2016 rules with the 2025 Green Lane mandate and falsely claims exclusive electronic submission for 2016.",
+      "answer": "No. According to the 2016-06-02 Customs Agent Licensing Rules, documents could be submitted via electronic or manual methods. The mandatory electronic submission for Green Lane clearance was only introduced later in the 2025-01-21 AEO Rules.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs agent has been operating since 2016, primarily submitting paper-based documentation for their clients. In 2024, they seek to transition to electronic submissions, and by early 2025, they are handling a consignment designated for Green Lane clearance.",
+      "question": "How has the agent's requirement for document submission evolved from their initial licensing in 2016 to the Green Lane requirements of 2025?",
+      "answer": "In 2016, the agent was permitted to use either electronic or manual methods. By 2024, they were required to obtain specific authorization from the Commissioner of Customs to submit electronic records and signatures. By 2025, for Green Lane clearance, the submission of declarations and documents via electronic means became a mandatory requirement.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2024-06-06",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "eight years later",
+      "question": "In 2016-06-02, the Customs Agent Licensing Rules introduced electronic or manual submission methods. How did the legal framework for electronic document submission change eight years later?",
+      "answer": "In 2024-06-06, the Customs (Electronic Submission) Rules were introduced, providing a formal definition of electronic records, signatures, and electronic payment systems for document submission.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "the following year",
+      "question": "Following the 2024-06-06 Customs (Electronic Submission) Rules, what major mandate regarding electronic document submission was introduced the following year?",
+      "answer": "On 2025-01-21, the AEO Rules were issued, mandating electronic submission for Green Lane clearance.",
+      "clause_text_ids": [
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "a few months later",
+      "question": "A few months after the 2025-01-21 AEO Rules mandated electronic submissions for Green Lane, how did the Customs Rules further evolve the definition of documents?",
+      "answer": "On 2025-03-10, the Customs Rules expanded the definition of documents to include any information stored in physical, electronic, or other media.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Mandatory electronic submission of declarations and documents for consignments cleared through automated Green Lane processing.",
+        "Formal recognition of electronic records, signatures, and electronic payment systems for customs documentation.",
+        "Introduction of both electronic and manual methods for the submission of import and export documentation by customs agents.",
+        "Broadening the definition of documents to encompass information stored in any physical, electronic, or other media format."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Introduction of both electronic and manual methods for the submission of import and export documentation by customs agents.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "Formal recognition of electronic records, signatures, and electronic payment systems for customs documentation.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Mandatory electronic submission of declarations and documents for consignments cleared through automated Green Lane processing.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "Broadening the definition of documents to encompass information stored in any physical, electronic, or other media format.",
+          "date": "2025-03-10"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+        "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+        "customs_sros_OCR/20240606_204-AIN_2024_56_Customs/20240606_204-AIN_2024_56_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00059_t0__digitalization-and-electronic-documentation.json"
+    }
+  ]
+}

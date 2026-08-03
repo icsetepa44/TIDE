@@ -1,0 +1,154 @@
+{
+  "thread_id": "cluster_00300_t1",
+  "cluster_id": 300,
+  "cluster_label": "Bangladesh",
+  "title": "Customs Regulatory Authority and Trade Control",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 4,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How does the Customs Act, 1969 establish the legal foundation for the government's control over cross-border trade in Bangladesh?",
+      "answer": "The Customs Act, 1969 serves as the primary legislative authority by granting the government specific powers to prohibit or restrict the import and export of goods. Under Section 16, the government exercises this control by issuing notifications in the official Gazette, which specify the types of goods and the routes—whether by air, sea, or land—subject to regulation.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What mechanisms does the Customs Act, 1969 provide to ensure that conveyances comply with financial and legal obligations before leaving Bangladesh?",
+      "answer": "Under Section 55 of the Customs Act, 1969, the appropriate officer of customs has the authority to refuse port clearance to a vessel or departure permission to other conveyances. This power is used to ensure that all port dues, taxes, duties, and penalties have been settled or secured through guarantees or deposits before a conveyance is permitted to depart.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way does the Customs Act, 1969 address goods that are exported in violation of the law?",
+      "answer": "According to the provisions of the Customs Act, 1969, an appropriate officer of customs may require the unloading of goods that were exported in violation of legal requirements. If unloading the goods is deemed impractical, the officer is empowered to demand an undertaking and security to ensure the goods are brought back into Bangladesh.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How is the jurisdictional scope and implementation of the Customs Act, 1969 defined?",
+      "answer": "The Customs Act, 1969 extends its jurisdiction across the entirety of Bangladesh. Regarding its implementation, the act specifies that it shall come into force on a date determined by the government through a notification published in the official gazette.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Act, 1969, serves as the foundational legal authority for customs control in Bangladesh and officially came into force on January 1, 1970.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "January 1, 1970",
+      "correct_fact": "a date determined and specified by the government through a notification published in the official gazette",
+      "answer": "The statement is inaccurate. According to the Customs Act, 1969, the act shall come into force on a date determined and specified by the government through a notification published in the official gazette, not on January 1, 1970.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under Section 16 of the Customs Act, 1969, the Government is empowered to prohibit or regulate the import and export of specific goods via air, sea, or land routes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate as it correctly reflects the powers granted to the Government under Section 16 of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The appropriate officer of customs has the authority to refuse port clearance to a vessel only if the owner fails to pay the required taxes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "only if the owner fails to pay the required taxes",
+      "correct_fact": "if legal requirements are not met, including station or port dues, charges, penalties, and taxes or security for such payments",
+      "answer": "The statement is inaccurate. Under Section 55 of the Customs Act, 1969, an appropriate officer may refuse port clearance if the provisions of sections 53 or 54 have not been complied with, or if all station/port dues, charges, penalties, and taxes have not been paid or secured by guarantee/deposit.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Act, 1969, extends its jurisdiction only to the major port cities of Bangladesh.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "only to the major port cities of Bangladesh",
+      "correct_fact": "across the entirety of Bangladesh",
+      "answer": "The statement is inaccurate. According to the Customs Act, 1969, the act extends its jurisdiction across the entirety of Bangladesh.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "To prohibit or restrict the import or export of specific goods, the Government must issue a notification in the official Gazette.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. Section 16 of the Customs Act, 1969, specifies that the Government may prohibit or restrict the import or export of goods by notification in the official Gazette.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "An appropriate officer of customs can require the unloading of goods exported in violation of the law or demand security for bringing the goods back to Bangladesh.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate based on the powers granted to the appropriate officer under the Customs Act, 1969, regarding port clearance and conveyance.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_68"
+      ]
+    }
+  ]
+}

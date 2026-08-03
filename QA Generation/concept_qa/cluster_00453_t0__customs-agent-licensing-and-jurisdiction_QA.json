@@ -1,0 +1,144 @@
+{
+  "thread_id": "cluster_00453_t0",
+  "cluster_id": 453,
+  "cluster_label": "custom house",
+  "title": "Customs Agent Licensing and Jurisdiction",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 4,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to the Customs Agent Licensing Rules of 2016-06-02, what defines the jurisdictional scope of a customs agent license?",
+      "options": [
+        "The entire territory of Bangladesh",
+        "Only the specific custom house mentioned in the license document",
+        "The customs port, custom house, or customs station specified in the license document",
+        "Any customs station within the division of the issuing Commissioner"
+      ],
+      "answer_index": 2,
+      "answer": "The customs port, custom house, or customs station specified in the license document",
+      "explanation": "Clause 10 of the 2016-06-02 Customs Agent Licensing Rules explicitly states that the jurisdiction is limited to the customs port, custom house, or customs station mentioned in the license document.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2016-06-02 Customs Agent Licensing Rules, who serves as the chairperson of the Licensing Authority if an Additional Commissioner is present at the custom house?",
+      "options": [
+        "The Joint Commissioner",
+        "The Assistant Commissioner",
+        "The Deputy Commissioner",
+        "The Additional Commissioner"
+      ],
+      "answer_index": 3,
+      "answer": "The Additional Commissioner",
+      "explanation": "Rule 3(3) of the 2016-06-02 instrument specifies that if an Additional Commissioner is part of the Licensing Authority, they act as the chairperson.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What is the composition of the Licensing Authority under the 2016-06-02 rules if an Additional Commissioner is not available at the custom house?",
+      "options": [
+        "A Joint Commissioner as chairperson and an Assistant Commissioner as member-secretary",
+        "A Deputy Commissioner as chairperson and an Assistant Commissioner as member-secretary",
+        "A Joint Commissioner as chairperson and a Deputy Commissioner as member-secretary",
+        "Only the Commissioner of Customs"
+      ],
+      "answer_index": 0,
+      "answer": "A Joint Commissioner as chairperson and an Assistant Commissioner as member-secretary",
+      "explanation": "Rule 3(2)(b) and 3(3) of the 2016-06-02 rules state that if an Additional Commissioner is unavailable, the authority consists of a Joint Commissioner (chairperson) and an Assistant Commissioner (member-secretary).",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "In the context of the 2016-06-02 Customs Agent Licensing Rules, how is a 'Customs Agent' defined?",
+      "options": [
+        "Any government official working at a custom house",
+        "A person or institution performing tasks related to import/export or vehicle entry/exit at a customs station",
+        "An employee of the National Board of Revenue",
+        "A company licensed only for baggage handling"
+      ],
+      "answer_index": 1,
+      "answer": "A person or institution performing tasks related to import/export or vehicle entry/exit at a customs station",
+      "explanation": "Rule 2(b) of the 2016-06-02 Customs Agent Licensing Rules defines a Customs Agent as a person or institution performing tasks related to the import/export of goods/baggage or vehicle movement at a customs station.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the composition of the Licensing Authority at a Custom House adapt to the availability of senior-ranking customs officials?",
+      "answer": "According to the 2016-06-02 Customs Agent Licensing Rules, the Licensing Authority's structure is flexible based on staffing levels. If an Additional Commissioner is available, they serve as chairperson alongside a Deputy Commissioner; however, if no Additional Commissioner is present, the authority is instead composed of a Joint Commissioner as chairperson and an Assistant Commissioner as the member-secretary.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the jurisdictional scope of a license issued under the 2016 Customs Agent Licensing Rules, and how is it determined?",
+      "answer": "The jurisdictional scope of a license is not universal but is strictly limited to the specific location mentioned within the license document itself. As defined in the 2016-06-02 rules, this scope covers the particular customs port, custom house, or customs station explicitly stated in the issued license.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the 2016 Customs Agent Licensing Rules define the role of a 'Customs Agent' in relation to the Customs Act, 1969?",
+      "answer": "Under the 2016-06-02 rules, a Customs Agent is defined as a person or institution that performs tasks related to the import or export of goods or baggage, or the entry and exit of vehicles at a customs station. This definition is explicitly linked to fulfilling the objectives set forth in section 207 of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the significance of the Licensing Authority's composition in the 2016-06-02 Customs Agent Licensing Rules regarding administrative hierarchy?",
+      "answer": "The rules establish a clear administrative hierarchy for the Licensing Authority by designating specific roles of chairperson and member-secretary. By mandating that the highest-ranking officer present (either the Additional or Joint Commissioner) acts as the chairperson, the policy ensures that the licensing process for customs agents remains under the oversight of senior customs officials.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "three days later",
+      "question": "Given the initial definition of licensing jurisdiction and authority structure established on 2016-06-02, what occurred three days later regarding these rules?",
+      "answer": "On 2016-06-05, the Customs Agent Licensing Rules were re-issued, reiterating the definitions and jurisdiction previously established.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    }
+  ]
+}

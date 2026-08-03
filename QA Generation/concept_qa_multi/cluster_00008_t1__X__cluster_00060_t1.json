@@ -1,0 +1,43 @@
+{
+  "group_id": "cluster_00008_t1__X__cluster_00060_t1",
+  "entities": [
+    "imported goods",
+    "Customs House"
+  ],
+  "cluster_ids": [
+    8,
+    60
+  ],
+  "thread_ids": [
+    "cluster_00008_t1",
+    "cluster_00060_t1"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What documentation must an importer of imported goods submit to the Customs House during the clearance process to comply with the requirements for duty exemptions?",
+      "answer": "According to the regulations, the importer must submit a certificate in the format of \"Appendix-1\" issued by the association of which the importing institution is a member to the concerned Customs House or Customs Station at the time of clearance of the imported goods.",
+      "entities_involved": [
+        "imported goods",
+        "Customs House"
+      ],
+      "clause_text_ids": [
+        "20160602_160-AIN_2016_22-Customs_২ জুন, ২০১৬_clause_2"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Customs House ensure that imported goods are utilized for their intended purpose after clearance?",
+      "answer": "The relevant VAT authorities verify whether the imported goods have been used for the appropriate purpose and submit a report to the Commissioner of the concerned Customs House or Customs Station within 6 months of the import of the consignment.",
+      "entities_involved": [
+        "imported goods",
+        "Customs House"
+      ],
+      "clause_text_ids": [
+        "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_2"
+      ]
+    }
+  ]
+}

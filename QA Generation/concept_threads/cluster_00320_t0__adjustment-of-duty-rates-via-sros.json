@@ -1,0 +1,1250 @@
+{
+  "cluster_id": 320,
+  "cluster_label": "duty rates",
+  "thread_index": 0,
+  "thread_id": "cluster_00320_t0",
+  "title": "Adjustment of Duty Rates via SROs",
+  "summary": "This thread tracks the frequent, targeted adjustments of duty rates for specific H.S. Codes and industrial categories through SROs. Over time, the mechanism shifted from simple rate modifications to complex table-based structures involving Margin of Preference (MoP) and alignment with the Customs Act, 2023.",
+  "evolution": {
+    "legal_basis": "Shifted from Customs Act, 1969 to Customs Act, 2023.",
+    "structure": "Evolved from simple percentage changes to complex multi-column tables with MoP and conditional exemptions.",
+    "scope": "Expanded from general goods to specific industrial categories and VAT-compliant manufacturers."
+  },
+  "timeline": [
+    {
+      "date": "2013-06-06",
+      "instrument": "SRO 145-AIN/2013",
+      "change": "Direct reduction of duty percentage for specific goods.",
+      "clause_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1"
+      ]
+    },
+    {
+      "date": "2016-07-01",
+      "instrument": "SRO 223-AIN/2016",
+      "change": "Introduction of conditional duty rates based on H.S. Code and statutory rate thresholds.",
+      "clause_ids": [
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "date": "2018-07-26",
+      "instrument": "SRO 197-AIN/2018",
+      "change": "Implementation of specific duty tables for industrial raw materials.",
+      "clause_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "date": "2021-06-03",
+      "instrument": "SRO 117-AIN/2021",
+      "change": "Integration of Regulatory Duty and Supplementary Duty adjustments alongside Customs Duty.",
+      "clause_ids": [
+        "20210603_117-AIN_2021_06_Customs_২৪ মে, ২০২১_clause_1"
+      ]
+    },
+    {
+      "date": "2022-10-18",
+      "instrument": "SRO 126-AIN/2022",
+      "change": "Formalization of Margin of Preference (MoP) calculations and clarification of exclusive applicability.",
+      "clause_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 164-AIN/2024",
+      "change": "Transition to the legal framework of the Customs Act, 2023 for industrial raw material duty concessions.",
+      "clause_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    }
+  ],
+  "num_member_objects": 13,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ১৪৫-আইন/২০১৩/২৪৩২/কাস্টমস",
+      "text_id": "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ১৪৫-আইন/২০১৩/২৪৩২/কাস্টমস।— Customs Act, 1969 (Act IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, অত্র বিভাগের ২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ মোতাবেক ০৭ জুন, ২০১২ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং- ১৫৭-আইন/২০১২/২৩৮৫/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(১) দফা (ক) এ উল্লিখিত \"৩% (তিন শতাংশ)\" সংখ্যা, চিহ্ন, বন্ধনী ও শব্দগুলির পরিবর্তে \"২% (দুই শতাংশ)\" সংখ্যা, চিহ্ন, বন্ধনী ও শব্দগুলি প্রতিস্থাপিত হইবে;\n\n(২) দফা (খ) এর শর্ত নং (৩) এ উল্লিখিত \"যন্ত্রাংশ\" শব্দের পর \", H.S. Code 8503.00.20 ব্যতীত,\" কমাগুলি, শব্দগুলি, সংখ্যাগুলি ও চিহ্নগুলি সন্নিবেশিত হইবে;\n\n(৩) TABLE এর কলাম (1) এর -\n\n(ক) Heading No 73.11 এর বিপরীতে কলাম (2) এর H.S.Code এর এন্ট্রি \"All H. S. Codes\" এর পরিবর্তে এন্ট্রি এবং সেমিকোলন \"7311.00.10; 7311.00.90\" প্রতিস্থাপিত হইবে;\n(খ) Heading No 84.13 এর বিপরীতে কলাম (2) এর H.S.Code এর এন্ট্রি \"8413.81.00\" এর পর এন্ট্রি এবং সেমিকোলন \"8413.82.00;\" সন্নিবেশিত হইবে;\n(গ) Heading No 84.15 এর বিপরীতে কলাম (2) এর H.S.Code এর এন্ট্রি \"8415.10.10\" এর পর এন্ট্রি এবং সেমিকোলন \"8415.20.10;\" সন্নিবেশিত হইবে;\n(ঘ) Heading No 84.80 এর বিপরীতে কলাম (2) এর H.S.Code এর এন্ট্রি \"8480.20.00\" এর পর এন্ট্রি এবং সেমিকোলন \"8480.30.00;\" সন্নিবেশিত হইবে;\n(ঙ) Heading No 85.04 এর বিপরীতে কলাম (2) এর H.S.Code এর এন্ট্রি \"8504.40.90\" এর পূর্বে এন্ট্রি এবং সেমিকোলন \"8504.23.00;\" সন্নিবেশিত হইবে;\n(চ) Heading No 85.37 এর বিপরীতে কলাম (2) এর H.S.Code এর এন্ট্রি \"8537.10.00\" এর পরিবর্তে এন্ট্রি \"8537.10.90\" প্রতিস্থাপিত হইবে;\n(ছ) Heading No 85.38 এবং উহার বিপরীতে কলাম (2) এর এন্ট্রি বিলুপ্ত হইবে; এবং\n(জ) Heading No 87.04 এর বিপরীতে কলাম (2) এর H.S.Code এর এন্ট্রি \"8704.90.11\" এর পূর্বে এন্ট্রি এবং সেমিকোলন \"8704.22.13;\" সন্নিবেশিত হইবে;",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the government to grant exemptions and make amendments to existing customs notifications."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legal authority for the government, in consultation with the National Board of Revenue, to amend fiscal notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue before exercising its powers to amend customs and tax notifications."
+        ],
+        "S.R.O. 157-AIN/2012": [
+          "This existing customs notification is amended to adjust specific duty rates, clarify exclusions for machine parts, and update HS Code entries within the referenced table."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The table of HS Codes within the tariff structure is updated by adding new codes, replacing existing ones, and deleting obsolete entries to maintain accurate classification of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1408",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 19(1)",
+          "government",
+          "exemptions",
+          "customs notifications"
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1)",
+          "government",
+          "National Board of Revenue",
+          "fiscal notifications"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "government",
+          "customs notifications",
+          "tax notifications"
+        ],
+        "S.R.O. 157-AIN/2012": [
+          "duty rates",
+          "machine parts",
+          "HS Code entries"
+        ],
+        "Bangladesh Customs Tariff": [
+          "HS Codes",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        6,
+        16,
+        24,
+        34,
+        50,
+        98,
+        163,
+        168,
+        235,
+        320,
+        1270,
+        1653,
+        4131,
+        9649
+      ],
+      "source_file": "customs_sros_OCR/20130606_145-AIN_2013_2432-Customs/20130606_145-AIN_2013_2432-Customs_output.json",
+      "clause_date": "2013-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1",
+      "resolved_text": "এস. আর. ও. নং ২২৩-আইন/২০১৬/৫০/কাস্টমস— Customs Act, 1969 (Act No. IV of 1969) এর section 18 এর sub-section (2) তে প্রদত্ত ক্ষমতাবলে সরকার, উক্ত Act এর FIRST SCHEDULE এর কলাম (1) এর Heading এর বিপরীতে কলাম (2) এ বিধৃত H.S. Code এর বিপরীতে কলাম (3) তে উল্লিখিত যে সকল পণ্যের বিপরীতে কলাম (5) এ বর্ণিত-\n(ক) Statutory Rate of Import Duty 25% প্রযোজ্য রহিয়াছে, সেই সকল পণ্যের মধ্যে নিম্নবর্ণিত পণ্য, বিধিমালা, প্রজ্ঞাপন ও আদেশ এবং TABLE-I এ বর্ণিত Heading এর বিপরীতে উল্লিখিত H.S.Code এর অধীন আমদানিকৃত পণ্যসমূহ ব্যতীত, অন্যান্য সকল পণ্যের উপর 3% হারে; এবং\n(খ) FIRST SCHEDULE ভুক্ত নিম্নবর্ণিত TABLE-II এর কলাম (1) এ উল্লিখিত Heading এর বিপরীতে কলাম (2) এ উল্লিখিত H.S. Code এর বিপরীতে কলাম (3) এ বর্ণিত পণ্যের উপর কলাম (4) এ উল্লিখিত পরিমাণ-\nRegulatory Duty (RD) আরোপ করিল, যথা:-\n(১) পোস্টপার্সেল কর্তৃক এবং বাণিজ্যিক নমুনা হিসাবে আমদানিকৃত পণ্য;\n(২) সরকার অনুমোদিত বাণিজ্য মেলার জন্য আমদানিকৃত পণ্য;\n(৩) আমদানিকৃত যন্ত্রপাতি মেরামতের জন্য বা উহার Warranty replacement এর জন্য আমদানিকৃত পণ্য;\n(৪) শতকরা একশত ভাগ (শতভাগ) রপ্তানিমুখী শিল্পের জন্য বন্ডেড ওয়্যার হাউস সুবিধায় আমদানিকৃত পণ্য;\n(৫) ১৯৬১ এবং ১৯৬৩ সনের ভিয়েনা কনভেনশনে প্রদত্ত কূটনৈতিক সুবিধার আওতায় পররাষ্ট্র মন্ত্রণালয় কর্তৃক যথাযথভাবে প্রদত্ত সার্টিফিকেটের ভিত্তিতে কূটনৈতিক ব্যক্তি ও কূটনৈতিক মিশন কর্তৃক আমদানিকৃত পণ্য;\n(৬) জাতীয় রাজস্ব বোর্ডের Standing Order No- 3(84)NBR (Cus)/11/74/1766-70, তারিখ : ২৮/০১/১৯৭৫ এর অধীন জাতিসংঘ এবং আন্তর্জাতিক সংস্থা কর্তৃক আমদানিকৃত পণ্য;\n(৭) জাতীয় রাজস্ব বোর্ডের Memo No- 9(41)NBR/Cus-IV/72/246, তারিখ : ১০/০৪/১৯৮১ এর অধীন আমদানিকৃত প্রতিরক্ষা সামগ্রী;\n(৮) প্রজ্ঞাপন এস.আর.ও নং- ৫৪২-এল/৮৪/৮৮৬/কাস, তারিখ : ১০/১২/৮৪ এর মাধ্যমে সাময়িকভাবে আনীত বিবিধ পণ্য;\n(৯) প্রজ্ঞাপন এস.আর.ও নং- ৬১-আইন/৯২/১৪৪৪/শুল্ক, তারিখ : ১৭/০৩/১৯৯২ এর অধীন আমদানিকৃত ত্রাণ সামগ্রী;\n(১০) প্রজ্ঞাপন এস.আর.ও নং- ৩৬-আইন/৯৩/১৫০২/শুল্ক, তারিখ : ১৫/০২/১৯৯৩ এর অধীন মূক, বধির, অন্ধ বা শারীরিক ও মানসিক প্রতিবন্ধীদের পুনর্বাসনের জন্য আমদানিকৃত পণ্য;\n(১১) প্রজ্ঞাপন এস.আর.ও নং- ২০২-আইন/৯৫/১৬৩৯/শুল্ক, তারিখ : ২৮/১১/১৯৯৫ এর অধীন বাংলাদেশ খনিজ তেল ও গ্যাস অনুসন্ধান, উত্তোলন ও উৎপাদন কার্যক্রম গ্রহণের জন্য আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও অন্যান্য পণ্য;\n(১২) প্রজ্ঞাপন এস.আর.ও নং- ৭৩-আইন/৯৭/১৭০০/শুল্ক, তারিখ : ১৯/০৩/১৯৯৭ এর অধীন বেসরকারি খাতে বিদ্যুৎ উৎপাদনের নিমিত্তে বিদ্যুৎ উৎপাদন কেন্দ্র স্থাপনের লক্ষ্যে স্থায়ীভাবে আমদানিকৃত প্ল্যান্ট ও ইকুইপমেন্ট এবং অস্থায়ীভাবে আমদানিকৃত ইরেকশন ম্যাটেরিয়ালস, যন্ত্রপাতি ও যন্ত্রাংশ;\n(১৩) প্রজ্ঞাপন এস.আর.ও নং- ১০৫-আইন/৯৯/১৭৮৪/শুল্ক, তারিখ : ২৩/০৫/১৯৯৯ এর অধীন বাংলাদেশ খনিজ তেল ও গ্যাস অনুসন্ধান, উন্নয়ন, উত্তোলন ও উৎপাদন কার্যক্রম পরিচালনার জন্য আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও অন্যান্য পণ্য ;\n(১৪) প্রজ্ঞাপন এস.আর.ও নং- ১০০-আইন/২০০০/1832/শুল্ক, তারিখ : ১৮/০৪/২০০০ খ্রিষ্টাব্দ এর অধীন বেসরকারি খাতে বিদ্যুৎ উৎপাদনের নিমিত্তে বিদ্যুৎ উৎপাদন কেন্দ্র স্থাপনের লক্ষ্যে স্থায়ীভাবে আমদানিকৃত প্ল্যান্ট ও ইকুইপমেন্ট এর যন্ত্রাংশ;\n(১৫) ট্রান্সফার অব রেসিডেন্স (Transfer of Residence) (ব্যাগেজ) বিধিমালা, ২০০০ এর আওতাভুক্ত বিবিধ পণ্য;\n(১৬) KAFCO সংশ্লিষ্ট আদেশ নং- ৩(২০)শুল্ক-২/৯০(অংশ)/৬৬৯-৬৭০, তারিখ : ০৭/০৬/২০০০ খ্রিঃ এর মাধ্যমে আমদানিকৃত পণ্যসমূহ;\n(১৭) প্রজ্ঞাপন এস.আর.ও নং- ৭০-আইন/২০০২/১৯৪৪/শুল্ক, তারিখ : ২৩/০৪/২০০২ খ্রিষ্টাব্দ এর অধীন বাংলাদেশ ব্যাংক কর্তৃক আমদানিকৃত পণ্যসমূহ;\n(১৮) Privileged Persons (Customs Procedures) Rules, 2003 (প্রজ্ঞাপন এস.আর.ও নং- 237-Law/2003/2015/Cus, তারিখ : 02/08/2003) এর অধীন অনুচ্ছেদ ২(খ), ২(গ) এবং ২(ঘ) এ বর্ণিত সংস্থা বা ব্যক্তি কর্তৃক আমদানিকৃত পণ্যসমূহ;\n(১৯) প্রজ্ঞাপন এস.আর.ও নং- ১৫৫-আইন/২০০৪/২০৪৭/শুল্ক, তারিখ : ১০/০৬/২০০৪ খ্রিষ্টাব্দ এর অধীন সোলার প্যানেল প্ল্যান্ট প্রস্তুতকারী প্রতিষ্ঠান কর্তৃক আমদানিকৃত পণ্যসমূহ;\n(২০) প্রজ্ঞাপন এস.আর.ও নং- ১১-আইন/২০০৫/২০৬৩/শুল্ক, তারিখ : ১৬/০১/২০০৫ খ্রিষ্টাব্দ এর অধীন ঢাকা ক্লিন ফুয়েল প্রকল্পের আওতায় আমদানিকৃত পণ্যসমূহ;\n(২১) প্রজ্ঞাপন এস.আর.ও নং- ৮০-আইন/২০০৭/২১৩২/শুল্ক, তারিখ : ২০/০৫/২০০৭ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত জেনারেটর তৈরির উপকরণ;\n(২২) প্রজ্ঞাপন এস.আর.ও নং- ১৬৩-আইন/২০০৭/২১৫৪/শুল্ক, তারিখ : ২৮/০৬/২০০৭ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত পণ্যসমূহ;\n(২৩) প্রজ্ঞাপন এস.আর.ও নং- ২৯২-আইন/২০০৭/২১৭২/শুল্ক, তারিখ : ১৭/১২/২০০৭ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত পণ্যসমূহ;\n(২৪) প্রজ্ঞাপন এস.আর.ও নং- ১৩৭-আইন/২০০৯/২২৪০/শুল্ক, তারিখ : ১১/০৬/২০০৯ খ্রিষ্টাব্দ এর অধীন রেফারেল হাসপাতাল কর্তৃক আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ;\n(২৫) প্রজ্ঞাপন এস.আর.ও নং- ১৪৩-আইন/২০০৯/২২৪৬/শুল্ক, তারিখ : ১১/০৬/২০০৯ এর অধীন কৃষিকার্যে ব্যবহার্য কীটনাশক প্রস্তুতকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত উপকরণ;\n(২৬) প্রজ্ঞাপন এস.আর.ও নং- ১৪৬-আইন/২০০৯/২২৪৯/শুল্ক, তারিখ : ১১/০৬/২০০৯ এর অধীন বাংলাদেশে খনিজ তেল ও গ্যাস অনুসন্ধান, উত্তোলন ও উৎপাদন কার্যক্রম পরিচালনার উদ্দেশ্যে পেট্রোবাংলা এর অধীন (বাপেক্স), (বিজিএফসিএল), (এসজিএফএল) কর্তৃক আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ;\n(২৭) প্রজ্ঞাপন এস.আর.ও নং- ১৫১-আইন/২০০৯/২২৫৪/শুল্ক, তারিখ : ১১ জুন, ২০০৯ খ্রিষ্টাব্দ এর মাধ্যমে আমদানিকৃত ট্যাক্সিক্যাব;\n(২৮) এস.আর.ও নং- ১৯০-আইন/২০০৯/ ২২৫৫/শুল্ক, তারিখ : ০২/০৭/২০০৯ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত ট্যাগ, লেবেল, স্টিকার;\n(২৯) প্রজ্ঞাপন এস.আর.ও নং- ১৯৪-আইন/২০১০/২৩১২/শুল্ক, তারিখ : ১০/০৬/২০১০ খ্রিষ্টাব্দ এর অধীন শুধুমাত্র বাংলাদেশে চলাচলকারী ভিন্ন দেশের বিমান সংস্থা কর্তৃক আমদানিকৃত পণ্য;\n(৩০) প্রজ্ঞাপন এস.আর.ও নং- ২৩৮-আইন/২০১০/২৩১৭/শুল্ক, তারিখ : ২৯/০৬/২০১০ খ্রিষ্টাব্দ এর অধীন সংসদ-সদস্য কর্তৃক আমদানীয় শুল্ক-কর মুক্ত গাড়ী;\n(৩১) প্রজ্ঞাপন এসআরও নং ৩৭-আইন/২০১১/২৩২৮/শুল্ক, তারিখ : ২৪ ফেব্রুয়ারি, ২০১১ খ্রিঃ এর অধীন মূসক নিবন্ধিত এনার্জি সেভিং ল্যাম্প উৎপাদনকারী প্রতিষ্ঠান কর্তৃক আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও কম্পোনেন্ট;\n(৩২) প্রজ্ঞাপন এস.আর.ও নং- ১৫৬-আইন/২০১১/২৩৪২/কাস্টমস, তারিখ : ০৯/০৬/২০১১ ইংরেজির মাধ্যমে এলপি গ্যাস সিলিন্ডার প্রস্তুতকারী প্রতিষ্ঠান কর্তৃক আনীত পণ্য;\n(৩৩) প্রজ্ঞাপন এস.আর.ও নং- ১৬৯-আইন/২০১১/২৩৫৬/কাস্টমস, তারিখ : ০৯/০৬/২০১১ ইংরেজির মাধ্যমে Effluent Treatment Plant (ETP) ব্যবহারকারী কর্তৃক আনীত কেমিক্যালস;\n(৩৪) প্রজ্ঞাপন এস.আর.ও নং- ১৬০-আইন/২০১২/২৩৮৮/কাস্টমস, তারিখ : ০৭/০৬/২০১২ খ্রিষ্টাব্দ এর অধীন পোল্ট্রি শিল্প কর্তৃক আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ;\n(৩৫) প্রজ্ঞাপন এস.আর.ও নং- ১৬৪-আইন/২০১২/২৩৯২/কাস্টমস, তারিখ : ০৭/০৬/২০১২ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত পণ্যসমূহ (hatching eggs);\n(৩৬) প্রজ্ঞাপন এস.আর.ও নং- ১৫০-আইন/২০১৩/২৪৩৭/কাস্টমস, তারিখ : ০৬/০৬/২০১৩ খ্রিষ্টাব্দ এর অধীন জাহাজ প্রস্তুতকারী প্রতিষ্ঠান কর্তৃক আমদানীয় পণ্য;\n(৩৭) প্রজ্ঞাপন এস.আর.ও. নং- ১৫১-আইন/২০১৩/২৪৩৮/কাস্টমস, তারিখ : ০৬/০৬/২০১৩ খ্রিষ্টাব্দ এর অধীন পর্যটন শিল্পের জন্য আমদানিকৃত পণ্য;\n(৩৮) প্রজ্ঞাপন এস.আর.ও. নং- ২১৫-আইন/২০১৩/২৪৫৪/কাস্টমস, তারিখ : ০১/০৭/২০১৩ খ্রিষ্টাব্দ এর অধীন সংবাদপত্র শিল্পের জন্য আমদানিকৃত নিউজপ্রিন্ট;\n(৩৯) প্রজ্ঞাপন নং- ২৮/২০১৪/শুল্ক, তারিখ : ০৯/০৪/২০১৪ খ্রিষ্টাব্দ এর আওতায় ঔষধের কাঁচামাল হিসেবে আমদানিকৃত রাসায়নিক যৌগ;\n(৪০) প্রজ্ঞাপন এস.আর.ও নং- ১২২-আইন/২০১৪/২৪৮৬/কাস্টমস, তারিখ : ০৫/০৬/২০১৪ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত ফার্মাসিউটিক্যালস কাঁচামাল সমূহ;\n(৪১) প্রজ্ঞাপন এস.আর.ও নং- ১৩৬-আইন/২০১৪/২৫০০/কাস্টমস, তারিখ : ০৫/০৬/২০১৪ খ্রিষ্টাব্দ এর অধীন জাহাজ শিল্প কর্তৃক আমদানিকৃত পণ্য;\n(৪২) এস.আর.ও নং ১৩৫-আইন/২০১৫/১৫/কাস্টমস, তারিখ : ৪ জুন, ২০১৫ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত মূলধনী যন্ত্রপাতি ও যন্ত্রাংশ;\n(৪৩) প্রজ্ঞাপন এস.আর.ও নং ১৪৫-আইন/২০১৫/২৫/কাস্টমস, তারিখ : ৪ জুন, ২০১৫ খ্রিষ্টাব্দ এর অধীন খেলনা প্রস্তুতকারী প্রতিষ্ঠান কর্তৃক আমদানিকৃত উপকরণ;\n(৪৪) প্রজ্ঞাপন এস.আর.ও নং ১৪৬-আইন/২০১৫/২৬/কাস্টমস, তারিখ : ৪ জুন, ২০১৫ খ্রিষ্টাব্দ এর অধীন তাঁত বস্ত্র প্রস্তুতকারী প্রতিষ্ঠান কর্তৃক আমদানিকৃত উপকরণ;\n(৪৫) প্রজ্ঞাপন এসআরও নং ২০৩-আইন/২০১৫/৪০/কাস্টমস, তারিখ : ১ জুলাই, ২০১৫ খ্রিঃ এর অধীন আমদানিকৃত ক্যান্সার নিরোধক ঔষধ তৈরির কাঁচামাল;\n(৪৬) প্রজ্ঞাপন এস.আর.ও নং- ৩২-আইন/২০১৬/০২/কাস্টমস, তারিখ : ১৫/০২/২০১৬ এর অধীন আমদানিকৃত কম্পিউটার ও কম্পিউটার সামগ্রী;\n(৪৭) প্রজ্ঞাপন এস.আর.ও. নং ১৪৮-আইন/২০১৬/১০/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন মূসক নিবন্ধিত প্রতিষ্ঠান কর্তৃক আমদানিকৃত পণ্য/কাঁচামাল;\n(৪৮) প্রজ্ঞাপন এস.আর.ও নং- ১৫১-আইন/২০১৬/১৩/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন টেক্সটাইল শিল্প প্রতিষ্ঠান কর্তৃক আমদানিকৃত যন্ত্রপাতি বা যন্ত্রাংশ বা উপকরণ;\n(৪৯) প্রজ্ঞাপন এস.আর.ও নং- ১৫২-আইন/২০১৬/১৪/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন চামড়া শিল্পের কাঁচামাল হিসেবে আমদানিকৃত রাসায়নিক দ্রব্যাদি;\n(৫০) প্রজ্ঞাপন এস.আর.ও. নং ১৫৪-আইন/২০১৬/১৬/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন কৃষি যন্ত্রপাতি স্থানীয়ভাবে সংযোজন ও তৈরিকারী শিল্প কর্তৃক আমদানিকৃত যন্ত্রাংশ;\n(৫১) প্রজ্ঞাপন এস.আর.ও. নং ১৫৫-আইন/২০১৬/১৭/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন মোটর সাইকেল শিল্প কর্তৃক আমদানিকৃত মোটর সাইকেলের যন্ত্রপাতি ও যন্ত্রাংশ;\n(৫২) প্রজ্ঞাপন এস.আর.ও. নং ১৫৭-আইন/২০১৬/১৯/কাস্টমস, তারিখ: ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন আমদানিকৃত হিউম্যান হলার;\n(৫৩) প্রজ্ঞাপন এস.আর.ও নং ১৬০-আইন/২০১৬/২২/কাস্টমস, তারিখ : ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ মোতাবেক ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন শতভাগ রপ্তানিমুখী তৈরী পোষাক শিল্প প্রতিষ্ঠান কর্তৃক আমদানিকৃত উপকরণ;\n(৫৪) প্রজ্ঞাপন এস.আর.ও নং- ১৬১-আইন/২০১৬/২৩/কাস্টমস, তারিখ : ০২/০৬/২০১৬ খ্রিষ্টাব্দ এর অধীন শতভাগ রপ্তানিমুখী তৈরি পোষাক শিল্প প্রতিষ্ঠান কর্তৃক আমদানিকৃত প্রি-ফেব্রিকেটেড বিল্ডিং তৈরির উপকরণ;\n(৫৫) প্রজ্ঞাপন এস.আর.ও. নং- ১৬৪-আইন/২০১৬/২৬/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন যাত্রী (অপর্যটক) কর্তৃক আমদানিকৃত ব্যাগেজ পণ্যসমূহ;\n(৫৬) প্রজ্ঞাপন এস.আর.ও. নং ১৬৬-আইন/২০১৬/২৮/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিষ্টাব্দ এর অধীন শিশু পার্ক/অ্যামিউজমেন্ট পার্ক কর্তৃপক্ষ কর্তৃক আমদানিকৃত কতিপয় যন্ত্রপাতি ও যন্ত্রাংশ;\n(৫৭) প্রজ্ঞাপন এস.আর.ও নং- ২১৪-আইন/২০১৬/৪১/কাস্টমস, তারিখ : ০১/০৭/২০১৬ খ্রিষ্টাব্দ এর অধীন পোল্ট্রি, লাইভস্টক ও ডেইরি ফিড প্রস্তুতকারক প্রতিষ্ঠান অথবা মৎস্য অধিদপ্তর কর্তৃক নিবন্ধিত ফিসারী এবং মৎস্য ফিড প্রস্তুতকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত কাঁচামাল;\n(৫৮) নিম্নের TABLE-I এর কলাম (1) এর বিপরীতে কলাম (2) এ বর্ণিত H.S. Code এর বিপরীতে কলাম (3) এ উল্লিখিত আমদানিকৃত পণ্য, যথা :-\n\nTABLE-I\n\n| Heading (1) | H.S. Code (2) | Description (3) |\n| --- | --- | --- |\n| 15.13 | 1513.29.00 | Palm kernel or babassu oil and fractions thereof (excl. crude) |\n| 19.01 | 1901.90.91 | Malt extract; food preparations imported in bulk by VAT registered food processing industries |\n| 39.19 | 3919.90.20 | Perfomance Tape/Closure/Side Tape |\n| 40.10 | 4010.31.00 | Endless transmission belts of trapezoidal crosssection (Vbelts), Vribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm |\n|  | 4010.32.00 | Endless transmission belts of trapezoidal crosssection (Vbelts), other than Vribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm |\n|  | 4010.33.00 | Endless transmission belts of trapezoidel crosssection (Vbelts), Vribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm |\n|  | 4010.34.00 | Endless transmission belts of trapezoidel crosssection (Vbelts), other than Vribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm |\n| 48.03 | 4803.00.00 | Tissue in jumbo roll |\n| 48.23 | 4823.90.94 | Air laid paper imported by VAT registered sanitary napkin manufacturers |\n| 56.03 | 5603.12.10 | Textile back sheet/Non oven air through Bonded (ADL) |\n| 72.13 | 7213.91.20 | Wire rod imported by VAT registered bicycle parts/ components manufacturers |\n| 73.18 | 7318.15.90 | Other screws and bolts, whether or not with their nuts or washers |\n|  | 7318.16.00 | Nuts |\n| 76.10 | 7610.90.10 | Aluminium composite panel |\n| 85.16 | 8516.79.10 | Vaporizer heating machine |\n| 85.23 | 8523.21.00 | Cards incorporating a magnetic stripe |\n| 96.02 | 9602.00.10 | Gelatin capsules (empty); এবং |\n\n\n(৫৯) নিম্নবর্ণিত TABLE-II এর কলাম (1) এ উল্লিখিত Heading এর বিপরীতে কলাম (2) এ উল্লিখিত H.S. Code এর বিপরীতে কলাম (3) এ বর্ণিত পণ্যের উপর কলাম (4) এ উল্লিখিত পরিমাণ, যথা:-\n\nTABLE-II\n\n| Heading (1) | H.S. Code (2) | Description (3) | RD Rate (4) |\n| --- | --- | --- | --- |\n| 17.01 | 1701.12.00 | Raw sugar not containing added flavouring or colouring matter: Beet sugar | 20% |\n|  | 1701.13.00 | Cane sugar specified in Subheading Note 2 to this Chapter | 20% |\n|  | 1701.14.00 | Other cane sugar | 20% |\n|  | 1701.91.00 | Other Containing added flavouring or colouring matter | 20% |\n|  | 1701.99.00 | Other | 20% |\n| 27.10 | 2710.19.21 | Lubricating oil, that is oil such as is not ordinarily used for any other purpose than lubrication, excluding, any mineral oil which has its flashing point below 2200F by Abel’s close test | 5% |\n| 39.09 | 3909.10.00 | Urea resins; thiourea resins | 5% |\n| 72.02 | 7202.11.00 | Ferromanganese: Containing by weight more than 2% of carbon | 15% |\n|  | 7202.21.00 | Ferrosilicon Containing by weight more than 55% of silicon | 15% |\n|  | 7202.30.00 | Ferrosilicomanganese | 15% |\n| 72.07 | All H.S.Codes | Semi-finished products of iron or non-alloy steel. | 20% |\n| 72.13 | All H.S.Codes (excluding 7213.91.10) | Bars and rods, hotrolled, in irregularly wound coils, of iron or nonalloy steel | 3% |\n| 72.14 | All H.S.Code (excluding 7214.91.10) | Other bars and rods of iron or non-alloy steel, not further worked than forged, hotrolled, hotdrawn or hotextruded, but including those twisted after rolling | 3% |\n| 72.15 | All H.S.Codes | Other bars and rods of iron or non-alloy steel. | 3% |\n| 72.16 | All H.S.Codes | Angles, shapes and sections of iron or non alloy steel | 3% |\n| 72.24 | All H.S.Codes | Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel. | 20% |\n| 74.11 | 7411.10.00 | Copper tubes of refined copper | 3% |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18(2) of this Act empowers the Government to impose Regulatory Duty on goods imported into Bangladesh.",
+          "The Act governs the framework for the First Schedule, which contains the H.S. Code classifications and duty rates."
+        ],
+        "Regulatory Duty": [
+          "This SRO imposes a 3% Regulatory Duty on a wide range of goods generally, while specifying distinct rates for items listed in TABLE-II.",
+          "The duty applies in addition to existing tax structures, subject to specific exemptions for items listed in the provided exclusions and those covered by previous SROs and government orders."
+        ],
+        "TABLE-I": [
+          "This table lists specific goods and their corresponding H.S. Codes that are exempted from the general 3% Regulatory Duty imposed by this order."
+        ],
+        "TABLE-II": [
+          "This table lists specific goods, H.S. Codes, and their respective Regulatory Duty rates, ranging from 3% to 20%, which differ from the general 3% rate established for other items."
+        ],
+        "Import Duty": [
+          "The order references the statutory rate of import duty to delineate the scope of goods subject to the new Regulatory Duty."
+        ],
+        "H.S. Code": [
+          "H.S. Codes are utilized to precisely identify the categories of goods subject to or exempted from the Regulatory Duty imposed by this order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1710",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 18(2)",
+          "Government",
+          "Regulatory Duty",
+          "goods",
+          "First Schedule",
+          "H.S. Code",
+          "duty rates"
+        ],
+        "Regulatory Duty": [
+          "3% Regulatory Duty",
+          "goods",
+          "TABLE-II",
+          "tax structures",
+          "exemptions",
+          "exclusions",
+          "SROs",
+          "government orders"
+        ],
+        "TABLE-I": [
+          "goods",
+          "H.S. Codes",
+          "3% Regulatory Duty"
+        ],
+        "TABLE-II": [
+          "goods",
+          "H.S. Codes",
+          "Regulatory Duty rates"
+        ],
+        "Import Duty": [
+          "statutory rate of import duty",
+          "goods",
+          "Regulatory Duty"
+        ],
+        "H.S. Code": [
+          "categories of goods",
+          "Regulatory Duty"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        5,
+        6,
+        31,
+        38,
+        52,
+        75,
+        154,
+        163,
+        185,
+        320,
+        328,
+        528,
+        1169,
+        1480,
+        1533,
+        1794,
+        2768,
+        3102,
+        3926
+      ],
+      "source_file": "customs_sros_OCR/20160701_223-AIN_2016_50-Customs/20160701_223-AIN_2016_50-Customs_output.json",
+      "clause_date": "2016-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৫৪-আইন/২০১৭/৪০/কাস্টমস",
+      "text_id": "20170601_154-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৫৪-আইন/২০১৭/৪০/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ মোতাবেক ০৬ জুন, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং ১৪৯-আইন/২০১৩/২৪৩৬/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা:-\n\nউপরিউক্ত প্রজ্ঞাপনের শর্ত ১ এর দফা (ক), (খ), (গ), (ঘ), (ঙ) ও (চ) এর পরিবর্তে নিম্নবর্ণিত দফা (ক), (খ), (গ), (ঘ) ও (ঙ) প্রতিস্থাপিত হইবে, যথা:-\n\n\n| “(ক) | ১ (এক) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ির জন্য - | ০% |\n| (খ) | ১ (এক) বৎসরের অধিক হইতে ২ (দুই) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - | ১৫% |\n| (গ) | ২ (দুই) বৎসরের অধিক হইতে ৩ (তিন) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - | ২৫% |\n| (ঘ) | ৩ (তিন) বৎসরের অধিক হইতে ৪ (চার) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - | ৩৫% |\n| (ঙ) | ৪ (চার) বৎসরের অধিক হইতে ৫ (পাঁচ) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - | ৪০%” । |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act grants the government the authority to issue notifications and amend existing customs regulations in the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act is cited as a source of legal authority for the government to issue this amendment in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue when exercising its authority to amend customs notifications."
+        ],
+        "S.R.O. 149-AIN/2013/2436/Customs": [
+          "This existing notification is further amended to replace the list of conditions previously governing duty rates for imported vehicles."
+        ],
+        "Imported Vehicle": [
+          "The amendment establishes specific rates of duty applicable to vehicles based on their age, categorized from one year old up to five years old.",
+          "Duty rates are applied to reconditioned or used vehicles on a graduated scale where the percentage increases as the age of the vehicle increases."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1797",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 19(1)",
+          "government",
+          "notifications",
+          "customs regulations"
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1)",
+          "government",
+          "amendment",
+          "National Board of Revenue"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "government",
+          "customs notifications"
+        ],
+        "S.R.O. 149-AIN/2013/2436/Customs": [
+          "notification",
+          "conditions",
+          "duty rates",
+          "imported vehicles"
+        ],
+        "Imported Vehicle": [
+          "rates of duty",
+          "vehicles",
+          "reconditioned vehicles",
+          "used vehicles"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        6,
+        16,
+        20,
+        24,
+        28,
+        34,
+        50,
+        93,
+        99,
+        175,
+        320,
+        403,
+        488,
+        508,
+        557,
+        11190,
+        11691
+      ],
+      "source_file": "customs_sros_OCR/20170601_154-AIN_/20170601_154-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_1",
+      "resolved_text": "উপরিউক্ত প্রজ্ঞাপনের-\n(১) TABLE-2 এর পরিবর্তে নিম্নবর্ণিত TABLE-2 প্রতিস্থাপিত হইবে, যথা :\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 0402.10.91 | Milk and cream in powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5%, other than retail packing of upto 2.5 kg imported by VAT registered milk and milk products manufacturing industry | 5 | 0 |\n| 0402.21.91 | Milk and cream in powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5%, other than retail packing of upto 2.5 kg imported by VAT registered milk and milk products manufacturing industry | 5 | 0 |\n| 0506.90.10 | Bone ash imported by VAT registered ceramic products manufacturing industries | 5 | 0 |\n| 1901.90.30 | Malt extract; food preparations of flour, grouts, meal, starch or malt extract for infant or young children use in bulk imported by VAT registered food industry | 5 | 0 |\n| 2517.10.10 | Flint/grinding pebbles imported by VAT registered ceramic products manufacturing industries | 5 | 0 |\n| 2521.00.10 | Limestone flux; limestone and other calcareous stones imported by VAT registered manufacturers as raw material | 5 | 0 |\n| 2707.50.10 | Rubber process oil imported by VAT registered tyre & tube manufacturers | 5 | 0 |\n| 2707.99.10 | Rubber process oil imported by VAT registered tyre & tube manufacturers | 5 | 0 |\n| 2811.29.10 | Silica gel imported by VAT registered refrigerator manufacturing industries | 5 | 0 |\n| 2901.23.10 | Refrigerant (isobutane/R600a) imported by VAT registered refrigerator manufacturing industries | 5 | 0 |\n| 2902.19.10 | Cyclopentane imported by VAT registered refrigerator manufacturing industries | 5 | 0 |\n| 2902.50.10 | Styrene imported by VAT registered paint manufacturing industries | 5 | 0 |\n| 2905.12.10 | Isopropyl alcohol imported by VAT registered ink manufacturing industry | 5 | 0 |\n| 2905.16.10 | Octanol and isomers imported by VAT registered dioctyl orthophthalates manufacturing industry | 5 | 0 |\n| 3403.99.10 | Compressor oil imported by VAT registered compressor manufacturers | 5 | 0 |\n| 3404.90.10 | Other Waxes imported by VAT registered ink manufacturing industry | 5 | 0 |\n| 3801.30.10 | Graphite or carbon electrode paste imported by VAT registered ferro alloy manufacturing industry | 5 | 0 |\n| 3812.39.20 | Anti-oxidising preparation and other compound stabilisers imported by VAT registered tyre-tube manufacturing industry | 5 | 0 |\n| 3814.00.10 | Organic composite solvent imported by VAT registered ink manufacturing industry | 5 | 0 |\n| 3824.99.30 | Barium/strontium ferrite powder imported by VAT registered manufacturers | 5 | 0 |\n| 3824.99.50 | Coated calcium carbonate imported by VAT registered plastic goods or calcium carbonate filler manufacturers | 5 | 0 |\n| 3909.20.10 | Melamine resins imported by VAT registered melamine products manufacturing industries | 5 | 0 |\n| 3909.31.10 | Polymeric-methylene diphenyl di-isocyanate imported by VAT registered refrigerator/ freezer manufacturers | 5 | 0 |\n| 3909.40.10 | Phenolic resins imported by VAT registered ink or tyre tube manufacturing industries | 5 | 0 |\n| 3920.49.30 | PVC film imported by VAT registered medical instruments manufacturing industries | 5 | 0 |\n| 3920.92.30 | Unprinted nylon film in roll form imported by VAT registered medical instruments manufacturing industry | 5 | 0 |\n| 3921.90.10 | Vulcanised fibre sheet imported in pre punched, cut to size shape for the manufacture of sliver cans; plastic film metalised yarn grade imported by VAT registered metalized yarn (flat or round) manufacturing industry | 5 | 0 |\n| 3923.90.31 | Aseptic pack imported by VAT registered dairy industries | 5 | 0 |\n| 4001.21.10 | Smoked sheets imported by VAT registered tyre and tube manufacturers of a rim size exceeding 16\" | 5 | 0 |\n| 4811.90.11 | Melamine/Decalcomania Paper imported by VAT registered Ceramic/Melamine/Transfers (decalcomania) manufacturing industry | 5 | 0 |\n| 4908.10.10 | Transfers (decalcomanias) imported by VAT registered ceramic or melamine industry | 5 | 0 |\n| 5608.19.10 | Filter cloth imported by VAT registered ceramic products manufacturing industries | 5 | 0 |\n| 6309.00.10 | Used sweater imported by VAT registered blanket manufacturing industry | 5 | 0 |\n| 6802.29.10 | Silex/lining/abrasive/polishing disc imported by VAT registered ceramic products manufacturing industries | 5 | 0 |\n| 6903.20.30 | Alumina liner imported by VAT registered ceramic or steel products manufacturing industries | 5 | 0 |\n| 7019.40.20 | Woven fabrics of rovings imported by VAT registered bio-gas plant | 5 | 0 |\n| 7019.90.19 | Other articles of glass fibre, other than biogas digester, imported by VAT registered bio-gas plant | 5 | 0 |\n| 7208.10.10 | In coils, not further worked than hot-rolled, with patterns in relief imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.25.10 | Other, in coils, not further worked than hot- rolled, pickled of a thickness of 4.75 mm or more imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.26.10 | Other, in coils, not further worked than hot- rolled, pickled of a thickness of 3 mm or more but less than 4.75 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.27.10 | Other, in coils, not further worked than hot- rolled, pickled of a thickness of less than 3 mm imported by VAT registered transformer, pre-fabricated building, bicycle parts and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.36.10 | Other, in coils, not further worked than hot- rolled of a thickness exceeding 10 mm Imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.37.10 | Other, in coils, not further worked than hot- rolled of a thickness of 4.75 mm or more but not exceeding 10 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.38.10 | Other, in coils, not further worked than hot- rolled of a thickness of 3 mm or more but less than 4.75 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.39.20 | Other, in coils, not further worked than hot- rolled of a thickness of less than 3 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.40.10 | Not in coils, not further worked than hot-rolled, with patterns in relief imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.51.10 | Other, not in coils, not further worked than hot-rolled of a thickness exceeding 10 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.52.10 | Other, not in coils, not further worked than hot-rolled of a thickness of 4.75 mm or more but not exceeding 10 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.53.10 | Other, not in coils, not further worked than hot-rolled of a thickness of 3 mm or more but less than 4.75 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.54.10 | Other, not in coils, not further worked than hot-rolled of a thickness of less than 3 mm imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.90.10 | Other, not in coils, not further worked than hot-rolled, other, imported by VAT registered transformer, pre-fabricated building and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7211.19.10 | Hot rolled steel sheet imported by VAT registered compressor manufacturers | 5 | 0 |\n| 7212.20.10 | Flat rolled products of iron or non-alloy steel electrolytically plated or coated with zinc imported by VAT registered refrigerator or air conditioner manufacturing industries | 5 | 0 |\n| 7212.40.10 | Flat rolled products of iron or non-alloy steel painted, varnished or coated with plastics imported by VAT registered refrigerator or air conditioner manufacturing industries | 5 | 0 |\n| 7213.91.10 | Other bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel of circular cross-section measuring less than 14 mm in diameter imported by VAT registered electrode manufacturing and wire drawing industries | 5 | 0 |\n| 7213.91.20 | Wire rod imported by VAT registered bicycle parts/components manufacturers | 5 | 0 |\n| 7213.91.30 | Wire rod imported by VAT registered electric cable clip manufacturing industry | 5 | 0 |\n| 7214.91.10 | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling of rectangular (other than square) cross-section imported by VAT registered leaf spring manufacturing industries | 5 | 0 |\n| 7225.30.10 | Flat-rolled products of other alloy steel, of a width of 600 mm or more other than silicon-electrical steel not further worked than hot-rolled, in coils imported by VAT registered alloy steel manufacturers | 5 | 0 |\n| 7226.99.10 | Silicon crystal steel sheet (Amorphos) imported by VAT registered transformer manufacturing industry | 5 | 0 |\n| 7409.21.10 | Copper-zinc base alloys (brass) in coil imported by VAT registered manufacturers | 5 | 0 |\n| 7409.31.10 | Copper-tin base alloys (bronze) in coil imported by VAT registered manufacturers | 5 | 0 |\n| 7410.21.10 | Copper foil backed of refined copper imported by VAT registered printed circuit manufacturers | 5 | 0 |\n| 7411.10.10 | Tubes and pipes of refined copper imported by VAT registered air conditioner or refrigerator or compressor manufacturing industry | 5 | 0 |\n| 7606.11.10 | Non-alloyed aluminium rectangular (including square) plates, sheets and strips imported by VAT registered electric fan manufacturers | 5 | 0 |\n| 7606.12.10 | Aloyed aluminium rectangular (including square) plates, sheets and strips imported by VAT registered electric fan manufacturers | 5 | 0 |\n| 7607.11.10 | Aluminium foil in rolled but not further worked imported by VAT registered manufacturing industries | 5 | 0 |\n| 7607.19.10 | Aluminium foil lacquered imported by VAT registered manufacturers | 5 | 0 |\n| 7901.12.11 | Zinc ingots, not alloyed imported by VAT registered alloy steel manufacturers | 5 | 0 |\n| 7901.20.10 | Zinc alloys imported by VAT registered alloy steel or refrigerator manufacturers | 5 | 0 |\n| 8101.99.10 | Tungsten filament imported by VAT registered electric bulb manufacturers | 5 | 0 |\n| 8414.30.20 | Compressors of a kind used in refrigerating equipment imported by VAT registered domestic type refrigerator manufacturers | 5 | 0 |\n| 8414.80.42 | Compressors of a kind used in air conditioning machines imported by VAT registered domestic type air conditioner manufacturers | 5 | 0 |\n| 8414.90.20 | Parts of compressor imported by VAT registered compressor manufacturers | 5 | 0 |\n| 8421.21.94 | Carbon filter, filter housing, diffuser imported by VAT registered water purifying machine/apparatus manufacturing industry | 5 | 0 |\n| 8421.29.10 | Cartridge/Membrane filter imported by VAT registered pharmaceuticals or water purifying machine/apparatus manufacturing industry | 5 | 0 |\n| 8529.90.21 | LED bulb with bar imported by VAT registered television manufacturing industry | 5 | 0 |\n| 8529.90.22 | Open cell (18.5 inch or above of diagonal length) for use in manufacture of Liquid Crystal Device (LCD)/Light Emitting Diode (LED) panel, imported by VAT registered television manufacturing industry | 5 | 0 |\n| 8532.29.10 | Capacitor imported by VAT registered compressor manufacturers | 5 | 0 |\n| 8536.30.10 | Motor protector imported by VAT registered compressor manufacturers | 5 | 0 |\n| 8536.49.10 | PTC relay imported by VAT registered compressor manufacturers | 5 | 0 |\n| 8536.90.10 | Connector; Terminal; Electrical apparatus Imported by VAT registered compressor manufacturing industry | 5 | 0 |\n| 8542.31.20 | Other module imported by VAT registered SIM card or Smart card or Digital card manufacturing industry | 5 | 0 |\n| 8544.11.10 | Winding wire of copper imported by VAT registered transformer and compressor manufacturers | 5 | 0 |\n\n(২) TABLE-3 এর কলাম (১) এ উল্লেখিত H.S. Code-\n(ক) “১৯০১.৯০.১১” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে এবং অতঃপর নিম্নবর্ণিত H.S. Code “১৯০১.৯০.২০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা:\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 1901.90.20 | Dry Mixed Ingredient of food preparation in bulk imported by VAT registered food processing industries | 10 | 0 |\n\n(খ) “৩৯২০.৪৯.৩০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে এবং অতঃপর নিম্নবর্ণিত H.S. Code “৩৯২০.৪৯.৪০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা:\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 3920.49.40 | Unprinted PVC sheet imported by VAT registered SIM card or Smart card manufacturing industry | 10 | 0 |\n\n(গ) “৭২১০.৪৯.২০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে এবং অতঃপর নিম্নবর্ণিত H.S. Code “৭২১০.৬১.১০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা :\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 7210.61.10 | Flat-rolled products of iron or non-alloy steel plated or coated with aluminium-zinc alloys of a thickness of 0.25 mm or more imported by VAT registered refrigerator or air conditioner manufacturing industry | 10 | 0 |\n\n(ঘ) “৭২১০.৬৯.২০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে এবং অতঃপর নিম্নবর্ণিত H.S. Code “৭২১০.৭০.১০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা :\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 7210.70.10 | Flat-rolled products of iron or non-alloy steel painted, varnished or coated with plastics of a thickness of 0.3 mm or more imported by VAT registered refrigerator or air conditioner manufacturing industry | 10 | 0 |\n\n(৩) TABLE-4 এর কলাম (১) এ উল্লেখিত H.S. Code-\n(ক) “১৯০১.৯০.২০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে;\n(খ) “৩৯২০.৪৯.৪০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে;\n(৪) TABLE-5 এর পরিবর্তে নিম্নবর্ণিত TABLE-5 প্রতিস্থাপিত হইবে, যথা :\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 1901.90.91 | Other malt extract, food preparation of flour, grouts, meal, starch or malt extract imported in bulk by VAT registered food processing industries | 25 | 0 |\n| 2915.70.31 | Sodium salt of palmitic acid (soap noodle) imported by VAT registered soap manufacturers | 25 | 0 |\n| 2917.32.10 | Dioctyl orthophthalates imported under block list by VAT registered pharmaceutical industry | 25 | 0 |\n| 3208.10.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and VAT registered manufacturer as raw material for their product | 25 | 0 |\n| 3208.20.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and VAT registered manufacturer as raw material for their product | 25 | 0 |\n| 3208.90.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and VAT registered manufacturer as raw material for their product | 25 | 0 |\n| 3209.10.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and VAT registered manufacturer as raw material for their product | 25 | 0 |\n| 3209.90.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and VAT registered manufacturer as raw material for their product | 25 | 0 |\n| 3210.00.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and VAT registered manufacturer as raw material for their product | 25 | 0 |\n| 3917.29.91 | Fibre glass imported by VAT registered electric fan manufacturers | 25 | 0 |\n| 3920.49.21 | Other printed PVC sheet imported by VAT registered SIM card or Smart card manufacturing industry | 25 | 0 |\n| 4802.54.10 | Other paper & paper board weighing less than 40g/m2 imported by VAT registered manufacturing industries | 25 | 0 |\n| 4823.90.94 | Air laid paper imported by VAT registered sanitary napkin manufacturers | 25 | 0 |\n| 6406.10.10 | Parts of footwear, uppers and parts thereof, imported by VAT registered footwear manufacturing industry | 25 | 0 |\n| 6406.20.10 | Parts of footwear, outer soles and heels of rubber or plastic, imported by VAT registered footwear manufacturing industry | 25 | 0 |\n| 7310.21.20 | Tin plated printed cans imported by VAT registered manufacturers | 25 | 0 |\n| 7323.99.10 | Parts of table, kitchen or other household articles imported by VAT registered table, kitchen or other household articles manufacturers | 25 | 0 |\n| 8418.50.10 | Other furniture for storage and displaying, incorporating refrigerating or freezing equipment imported by VAT registered supershop | 25 | 0 |\n| 8418.99.10 | Other parts, other than furniture designed to receive refrigerating or freezing equipment, imported by VAT registered refrigerator and freezer manufacturing industries | 25 | 0 |\n| 8529.90.23 | Parts of apparatus of Heading 85.28, imported by VAT registered television manufacturing industry | 25 | 0 |\n\n(৫) TABLE-6 এর কলাম (১) উল্লিখিত H.S. Code “৪৮১৩.৯০.১০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহের পরিবর্তে নিম্নবর্ণিত H.S. Code “৪৮১৩.৯০.১০” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ প্রতিস্থাপিত হইবে, যথা :\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 4813.90.10 | Cigarette paper Imported by VAT registered tobacco products manufacturing industries or paper converting industries | 25 | 60 |\n",
+      "entity_concepts": {
+        "TABLE-2": [
+          "This order replaces the entirety of Table-2 with an updated list of goods, specifying their H.S. Code, description, and applicable customs duty and supplementary duty rates for manufacturers registered with the VAT department."
+        ],
+        "TABLE-3": [
+          "This order updates Table-3 by deleting specific existing entries and inserting new H.S. Code entries along with their corresponding descriptions and duty rates."
+        ],
+        "TABLE-4": [
+          "This order removes specific existing H.S. Code entries from Table-4."
+        ],
+        "TABLE-5": [
+          "This order replaces the entirety of Table-5 with a new list, defining updated customs duty and supplementary duty rates for various raw materials imported by VAT-registered industrial entities."
+        ],
+        "TABLE-6": [
+          "This order replaces existing entries in Table-6 for specific cigarette paper H.S. Codes with new duty and supplementary duty rates applicable to tobacco or paper converting industries."
+        ],
+        "H.S. Code": [
+          "The order utilizes the H.S. Code system to categorize imported goods and assign specific tax treatment for various manufacturing industries across multiple tables."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1890",
+      "entity_sub_entities": {
+        "TABLE-2": [
+          "goods",
+          "H.S. Code",
+          "description",
+          "customs duty",
+          "supplementary duty rates"
+        ],
+        "TABLE-3": [
+          "H.S. Code entries",
+          "descriptions",
+          "duty rates"
+        ],
+        "TABLE-4": [
+          "H.S. Code entries"
+        ],
+        "TABLE-5": [
+          "raw materials",
+          "customs duty",
+          "supplementary duty rates"
+        ],
+        "TABLE-6": [
+          "cigarette paper H.S. Codes",
+          "duty rates",
+          "supplementary duty rates"
+        ],
+        "H.S. Code": [
+          "imported goods",
+          "tax treatment"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        8,
+        10,
+        12,
+        88,
+        212,
+        243,
+        320,
+        336,
+        415,
+        884,
+        1119,
+        1283,
+        6348,
+        12693
+      ],
+      "source_file": "customs_sros_OCR/20180726_193-AIN_2018_32_Customs/20180726_193-AIN_2018_32_Customs_output.json",
+      "clause_date": "2018-07-26"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১২০-আইন/২০১৯/০৮/কাস্টমস",
+      "text_id": "20190522_SRO_No._২২ মে, ২০১৯_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১২০-আইন/২০১৯/০৮/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 18 এর sub-section (2) তে প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগের ১২ আষাঢ়, ১৪২৫ বঙ্গাব্দ মোতাবেক ২৬ জুন, ২০১৮ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং ১৯৭-আইন/২০১৮/৩৬/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের ক্রমিক (৬৩) এর অধীন TABLE-II এর এর কলাম (১) এ উল্লিখিত Heading “11.02” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহের পূর্বে নিম্নবর্ণিত Heading “10.06” এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা :-\n\n\n| Heading | Subheading / H.S. Code | Description | Rate |\n| --- | --- | --- | --- |\n| 10.06 | 1006.20.00 | Husked (brown rice) | 25% |\n|  | 1006.30.10 | Fortified rice kernels | 25% |\n|  | 1006.30.90 | Semi-milled or wholly-milled rice, whether or not polished or glazed | 25% |\n|  | 1006.40.00 | Broken rice | 25%\"। |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18(2) of the Act serves as the legal foundation granting the government the authority to issue and amend customs notifications."
+        ],
+        "S.R.O. 197-AIN/2018": [
+          "This existing notification is being amended by the current order to introduce new tariff entries."
+        ],
+        "TABLE-II": [
+          "This table is being updated by inserting new Heading 10.06 and its associated subheadings, H.S. codes, descriptions, and duty rates before the existing Heading 11.02 entries."
+        ],
+        "H.S. Code": [
+          "New tariff entries for various rice products, including husked, fortified, semi-milled, and broken rice, are added to the customs tariff schedule under Heading 10.06."
+        ],
+        "Customs Duty Rate": [
+          "A specified duty rate is applied to the newly inserted rice categories to govern their importation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1896",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 18(2)",
+          "customs notifications"
+        ],
+        "S.R.O. 197-AIN/2018": [
+          "tariff entries"
+        ],
+        "TABLE-II": [
+          "Heading 10.06",
+          "subheadings",
+          "H.S. codes",
+          "descriptions",
+          "duty rates",
+          "Heading 11.02"
+        ],
+        "H.S. Code": [
+          "rice products",
+          "husked rice",
+          "fortified rice",
+          "semi-milled rice",
+          "broken rice",
+          "Heading 10.06"
+        ],
+        "Customs Duty Rate": [
+          "duty rate",
+          "rice categories"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        5,
+        24,
+        31,
+        154,
+        320,
+        328,
+        336,
+        670,
+        804,
+        843,
+        3546,
+        4106,
+        4132,
+        4707,
+        4790,
+        4879,
+        8317,
+        8633,
+        11544,
+        12502
+      ],
+      "source_file": "customs_sros_OCR/20190522_SRO_No./20190522_SRO_No._output.json",
+      "clause_date": "2019-05-22"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20210603_117-AIN_2021_06_Customs_২৪ মে, ২০২১_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ১১৭-আইন/২০২১/০৬/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 19 এর sub section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, উক্ত Act এর First Schedule ভুক্ত নিম্নবর্ণিত TABLE এর কলাম (1) এ বর্ণিত Heading এর বিপরীতে কলাম (2) এ উল্লিখিত H.S. Code এবং কলাম (3) এ বর্ণিত পণ্যসমূহের উপর আরোপণীয় Customs Duty (CD) যে পরিমাণে কলাম (4) এ বর্ণিত হারের অতিরিক্ত হয় সেই পরিমাণ, রেগুলেটরি ডিউটি ও সম্পূরক শুল্ক, যদি থাকে, হইতে নিম্নবর্ণিত শর্তসাপেক্ষে অব্যাহতি প্রদান করিল, যথা:-\n\nTABLE\n\n\n| Heading (1) | H.S. Code (2) | Description (3) | CD (4) |\n| --- | --- | --- | --- |\n| 39.17 | 3917.23.90 | FEP/Teflon tube | 5 |\n|  | 3917.40.10 | Silicone tube | 10 |\n| 39.19 | 3919.90.10 | Self adhesive tape in rolls exceeding 20cm | 15 |\n| 39.20 | 3920.49.30 | PVC film and PVDC Film | 5 |\n|  | 3920.92.90 | Unprinted nylon film in roll | 5 |\n| 39.26 | 3926.90.99 | Polytetrafluoroethylene (PTFE) Membrane for Mask | 0 |\n| 40.09 | 4009.11.00 | Tubes and pipes | 15 |\n| 48.02 | 4802.57.00 | Other paper or paperboard weighing 40 g/m2 or more but not more than 150 g/m2 | 15 |\n| 84.81 | 8481.40.19 | Auto safety valve | 5 |\n|  | 8481.80.29 | Solenoid valve | 5 |\n| 85.16 | 8516.90.00 | Heater coil | 5 |\n| 90.18 | 9018.32.00 | Tubular Metal Needles & Needles for Sutures | 5 |\n|  | 9018.39.90 | Hubs & Caps for Needle Cannula | 5 |\n\n\nশর্তাবলি:\n(ক) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant ও চিকিৎসা যন্ত্রপাতি ও যন্ত্রাংশ উৎপাদনকারী (Medical Device Manufacturer) হইতে হইবে;\n\nব্যাখ্যাঃ\n(অ) “Industrial IRC holder” অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান;\n\n(খ) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নকৃত শিল্প ভোক্তা আইআরসি রহিয়াছে এবং ১৩ ডিজিট সম্বলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী মাসের মূসক দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে:\n\nতবে শর্ত থাকে যে, কোনো ধরনের দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is empowered under section 19(1) of this Act to grant exemptions from customs duties, regulatory duties, and supplementary duties."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This Act provides the legal authority under section 126(1) for the Government to issue notifications regarding tax exemptions in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Government acts in consultation with this body when granting specific customs and tax exemptions for listed industrial goods."
+        ],
+        "First Schedule": [
+          "This schedule contains the headings, H.S. Codes, and descriptions of goods subject to specific duty rates and potential exemptions as defined by the Government."
+        ],
+        "TABLE": [
+          "The table lists specific H.S. Codes, item descriptions, and corresponding Customs Duty rates for industrial goods eligible for tax exemption benefits."
+        ],
+        "Industrial IRC Holder": [
+          "This is defined as an entity holding a valid Industrial Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports."
+        ],
+        "VAT Compliant": [
+          "This refers to a manufacturing entity that is registered under the Value Added Tax and Supplementary Duty Act 2012 and regularly submits its required tax returns."
+        ],
+        "Manufacturer": [
+          "To qualify for the exemptions, the importer must be an Industrial IRC holder, be VAT compliant, and specifically be a medical device manufacturer."
+        ],
+        "Customs Authority": [
+          "The Commissioner of Customs is authorized to process clearance for eligible goods, including in cases where electronic system verification is not possible due to technical issues or emergencies, provided the reasons are documented."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2077",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "section 19(1)",
+          "customs duties",
+          "regulatory duties",
+          "supplementary duties"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "section 126(1)",
+          "tax exemptions",
+          "National Board of Revenue"
+        ],
+        "National Board of Revenue": [
+          "industrial goods"
+        ],
+        "First Schedule": [
+          "headings",
+          "H.S. Codes",
+          "descriptions of goods",
+          "duty rates"
+        ],
+        "TABLE": [
+          "H.S. Codes",
+          "item descriptions",
+          "Customs Duty rates",
+          "industrial goods"
+        ],
+        "Industrial IRC Holder": [
+          "Industrial Import Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports"
+        ],
+        "VAT Compliant": [
+          "manufacturing entity",
+          "Value Added Tax and Supplementary Duty Act 2012",
+          "tax returns"
+        ],
+        "Manufacturer": [
+          "Industrial IRC holder",
+          "medical device manufacturer"
+        ],
+        "Customs Authority": [
+          "Commissioner of Customs",
+          "eligible goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        7,
+        14,
+        16,
+        22,
+        23,
+        26,
+        31,
+        38,
+        44,
+        95,
+        100,
+        101,
+        129,
+        133,
+        134,
+        140,
+        152,
+        153,
+        207,
+        258,
+        320,
+        355,
+        763,
+        936,
+        2115,
+        7703,
+        9801
+      ],
+      "source_file": "customs_sros_OCR/20210603_117-AIN_2021_06_Customs/20210603_117-AIN_2021_06_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20210603_134-AIN_2021_23_Customs_২৪ মে, ২০২১_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ১৩৪-আইন/২০২১/২৩/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 18 এর sub-section (2) তে প্রদত্ত ক্ষমতাবলে সরকার, ৩০ জুন, ২০২০ খ্রিস্টাব্দ তারিখে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৮৮-আইন/২০২০/৯৮/ কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(১) ক্রমিক (৬৪) এর অধীন TABLE এর পরিবর্তে নিম্নবর্ণিত TABLE প্রতিস্থাপিত হইবে, যথা :-\n“TABLE\n\n| Heading | H.S. Code | Description |\n| --- | --- | --- |\n| 15.13 | 1513.29.00 | Palm kernel or babassu oil and fractions thereof (excl. crude) |\n| 19.01 | 1901.90.91 | Malt extract; food preparations imported in bulk by VAT registered food processing industries |\n| 39.19 | 3919.90.20 | Performance Tape/Closure/Side Tape |\n| 40.10 | 4010.31.00 | Endless transmission belts of trapezoidal cross section (V-belts), V-ribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm |\n|  | 4010.32.00 | Endless transmission belts of trapezoidal cross section (V-belts), other than V-ribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm |\n|  | 4010.33.00 | Endless transmission belts of trapezoidal cross section (V-belts), V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm |\n|  | 4010.34.00 | Endless transmission belts of trapezoidal cross section (V-belts), other than V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm |\n| 48.03 | 4803.00.00 | Tissue in jumbo roll |\n| 48.23 | 4823.90.94 | Air laid paper imported by VAT registered sanitary napkin manufacturers |\n| 56.03 | 5603.12.10 | Textile back sheet/Non oven air through Bonded (ADL) |\n| 72.13 | 7213.91.20 | Wire rod imported by VAT registered bicycle parts/ components manufacturers |\n| 76.10 | 7610.90.10 | Aluminium composite panel |\n| 85.16 | 8516.79.10 | Vaporizer heating machine |\n| 85.23 | 8523.21.00 | Cards incorporating a magnetic stripe |\n| 96.02 | 9602.00.10 | Gelatin capsules (empty);” এবং |\n”\n\n(২) ক্রমিক (৬৫) এর অধীন TABLE এর পরিবর্তে নিম্নবর্ণিত TABLE প্রতিস্থাপিত হইবে, যথা :-\n“TABLE\n\n| Heading | H.S. Code | Description | RD Rate |\n| --- | --- | --- | --- |\n| 10.06 | 1006.20.00 | Husked (brown rice) | 25% |\n|  | 1006.30.10 | Fortified rice kernels | 25% |\n|  | 1006.30.90 | Semi-milled or wholly-milled rice, whether or not polished or glazed | 25% |\n|  | 1006.40.00 | Broken rice | 25% |\n| 11.02 | All H.S Codes | Cereal flours other than of wheat or meslin | 10% |\n| 11.08 | 1108.11.00 | Wheat starch | 10% |\n|  | 1108.12.00 | Maize (corn) starch | 20% |\n|  | 1108.13.00 | Potato starch | 10% |\n|  | 1108.14.00 | Manioc (cassava) starch | 20% |\n|  | 1108.19.00 | Other starches | 10% |\n| 12.05 | 1205.10.10 | Low erucic acid rape or colza seeds, Wrapped/canned upto 2.5 kg | 5% |\n|  | 1205.10.90 | Low erucic acid rape or colza seeds in bulk | 5% |\n| 12.07 | 1207.50.10 | Mustard seeds wrapped/canned up to 2.5 kg | 5% |\n|  | 1207.50.90 | Other mustard seeds | 5% |\n| 12.08 | 1208.10.00 | Flours and meals of oil seeds or oleaginous fruits, other than those of mustard. | 5% |\n| 13.01 | All H.S. Codes | Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams). | 5% |\n| 15.14 | 1514.91.00 | Crude mustard oil | 10% |\n| 17.01 | 1701.12.00 | Raw sugar not containing added flavouring or colouring matter: Beet sugar | 30% |\n|  | 1701.13.00 | Cane sugar specified in Subheading Note 2 to this Chapter | 30% |\n|  | 1701.14.00 | Other cane sugar | 30% |\n|  | 1701.91.00 | Other Containing added flavouring or colouring matter | 30% |\n|  | 1701.99.00 | Other | 30% |\n| 23.04 | 2304.00.00 | Oil-cake and other solid residues whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil | 5% |\n| 23.06 | 2306.10.00 | Cotton seeds | 5% |\n|  | 2306.60.00 | Palm nuts or kernels | 5% |\n| 25.16 | 2516.20.00 | Sandstone | 20% |\n| 26.20 | 2620.99.10 | Fly ash | 5% |\n| 27.10 | 2710.19.31 | Lubricating oil, that is oil such is not ordinarily used for any other purpose than lubrication, excluding, any mineral oil which has its flashing point below 220°F by Abel’s close test | 5% |\n| 28.04 | 2804.21.00 | Argon | 15% |\n|  | 2804.30.00 | Nitrogen | 15% |\n|  | 2804.40.00 | Oxygen | 15% |\n| 28.07 | 2807.00.00 | Sulphuric acid; oleum | 15% |\n| 28.11 | 2811.21.00 | Carbon dioxide | 15% |\n| 30.06 | 3006.50.00 | First-aid boxes and kits | 10% |\n| 35.05 | 3505.10.00 | Dextrin and other modified starches | 15% |\n|  | 3505.20.00 | Glues | 15% |\n| 35.06 | 3506.10.00 | Products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg | 15% |\n|  | 3506.99.00 | Other Adhesives based on polymers | 15% |\n| 37.07 | 3707.10.00 | Sensitising emulsions | 10% |\n| 38.24 | 3824.60.00 | Sorbitol | 15% |\n| 39.09 | 3909.10.00 | Urea resins; thiourea resins | 5% |\n| 39.17 | 3917.10.00 | Artificial guts (sausage casings) of hardened protein or of cellulosic materials | 10% |\n| 39.20 | 3920.20.20 | Non-printed cast polypropylene film | 5% |\n|  | 3920.20.90 | Other polymers of propylene | 5% |\n| 40.10 | 4010.34.00 | Conveyor of transmission belts or belting, of vulcanized rubber | 20% |\n| 40.11 | 4011.20.10 | Tyre of rim size of 16 inch | 5% |\n|  | 4011.40.00 | Tyre of a kind used on motorcycles | 5% |\n| 40.13 | 4013.90.90 | Other inner tubes | 5% |\n| 40.16 | 4016.99.90 | Rubber guard rear | 20% |\n| 72.02 | 7202.11.00 | Ferromanganese: Containing by weight more than 2% of carbon | 15% |\n|  | 7202.21.00 | Ferrosilicon: Containing by weight more than 55% of silicon | 15% |\n|  | 7202.30.00 | Ferro-silico-manganese | 15% |\n| 72.06 | All H.S. Codes | Iron ingot | 20% |\n| 72.07 | All H.S. Codes | Billet | 20% |\n| 72.10 | 7210.11.00 | Plated or coated with tin of a thickness of 0.5 mm or more | 10% |\n|  | 7210.20.00 | Plated or coated with lead, including terne- plate | 10% |\n|  | 7210.30.00 | Electrolytically plated or coated with zinc | 10% |\n|  | 7210.49.90 | Other plated or coated with zinc | 10% |\n|  | 7210.50.00 | Plated or coated with chromium oxides or with chromium and chromium oxides | 10% |\n|  | 7210.69.90 | Other Plated or coated with aluminium-zinc alloys | 10% |\n|  | 7210.70.30 | Painted, varnished or coated with plastics of a thickness of more than 1.0 mm | 10% |\n|  | 7210.90.00 | Other Flat-rolled products of iron or non-alloy steel | 10% |\n| 72.13 | All H.S. Codes (excluding 7213.91.10) | Bars and rods, hot rolled, in irregularly wound coils, of iron or non-alloy steel | 3% |\n| 72.14 | All H.S. Code (excluding 7214.91.10) | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot rolled, hot drawn or hot extruded, but including those twisted after rolling | 3% |\n| 72.15 | All H.S. Codes | Other bars and rods of iron or non-alloy steel. | 3% |\n| 72.16 | All H.S. Codes | Angles, shapes and sections of iron or non-alloy steel | 3% |\n| 72.17 | 7217.30.00 | Plated or coated with other base metals | 3% |\n| 72.18 | All H.S Codes | SS Ingot | 20% |\n| 72.24 | All H.S Codes | Alloy steel ingot | 20% |\n| 74.07 | 7407.10.00 | Copper bars, rods and profiles of refined copper | 10% |\n| 74.11 | 7411.10.00 | Copper tubes of refined copper | 3% |\n| 76.05 | 7605.11.00 7605.21.00 | Aluminium wire | 10% |\n|  | 7605.19.00 7605.29.00 | Other aluminium wire | 20% |\n| 83.11 | 8311.30.00 | Coated rods and cored wire, of base metal, for soldering, brazing or welding by flame | 3% |\n|  | 8311.90.00 | Other | 3% |\n| 85.44 | 8544.70.00 | Optical fiber cables | 5% |\n| 87.03 | 8703.24.32 8703.24.42 8703.33.52 8703.33.62 | Motor cars and other vehicles, including station wagons, CKD | 30% |\n| 87.04 | 8704.21.14 8704.31.14 | Double cabin pickup in CBU condition with minimum four doors of a cylinder capacity exceeding 2000 CC but not exceeding 3000 CC | 20% |\n| 87.06 | 8706.00.36 | Chassis fitted with engines, for the motor vehicles of headings 87.03 of a cylinder capacity exceeding 1600cc but not exceeding 2000cc | 15% |\n|  | 8706.00.37 | Chassis fitted with engines, for the motor vehicles of headings 87.03 of a cylinder capacity exceeding 2000cc but not exceeding 3000cc | 15% |\n|  | 8706.00.38 | Chassis fitted with engines, for the motor vehicles of headings 87.03 of a cylinder capacity exceeding 3000cc but not exceeding 4000cc | 10% |\n|  | 8706.00.39 | Chassis fitted with engines, for the motor vehicles of headings 87.03 of a cylinder capacity exceeding 4000cc | 35% |\n| 87.08 | 8708.70.00 | Road wheels and parts and accessories thereof | 15%” |\n”",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18(2) of the Act serves as the legal authority under which the Government issues these customs regulatory orders to amend existing duty or tax schedules."
+        ],
+        "H.S. Code": [
+          "This order replaces the existing tariff tables associated with specific serial numbers in a previous notification, providing updated duty rates and commodity descriptions categorized by their H.S. Code."
+        ],
+        "TABLE": [
+          "The order introduces revised tables for specific tariff headings that define the applicable Regulatory Duty (RD) rates for various imported goods ranging from food items and raw materials to machinery and vehicle components.",
+          "These tables establish the regulatory duty framework for a wide array of commodities, specifying the percentage-based tax obligations that apply to specific items under their respective classifications."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2141",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 18(2)",
+          "customs regulatory orders",
+          "duty schedules",
+          "tax schedules"
+        ],
+        "H.S. Code": [
+          "tariff tables",
+          "serial numbers",
+          "duty rates",
+          "commodity descriptions"
+        ],
+        "TABLE": [
+          "tariff headings",
+          "Regulatory Duty (RD) rates",
+          "food items",
+          "raw materials",
+          "machinery",
+          "vehicle components",
+          "commodities",
+          "percentage-based tax obligations"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        5,
+        12,
+        26,
+        33,
+        221,
+        320,
+        328,
+        420,
+        521,
+        583,
+        2221,
+        4882,
+        6980,
+        7545,
+        10573,
+        12691,
+        13242
+      ],
+      "source_file": "customs_sros_OCR/20210603_134-AIN_2021_23_Customs/20210603_134-AIN_2021_23_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20220609_126-AIN_2022_74_Customs_১ জুন, ২০২২_clause_1",
+      "resolved_text": "এস,আর,ও নং ১২৬-আইন/২০২২/৭৪/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, ২৪ মে, ২০২১ খ্রিষ্টাব্দ মোতাবেক ১০ জ্যৈষ্ঠ, ১৪২৮ বঙ্গাব্দ তারিখে জারীকৃত প্রজ্ঞাপন এস,আর,ও নং ১২২-আইন/২০২১/১১/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরিউক্ত প্রজ্ঞাপনের TABLE এর কলাম (1) এ উল্লিখিত H.S.Code-\n\n(১) 7208.27.10 এবং উহার বিপরীতে কলাম (2) এর বিপরীতে এন্ট্রি “Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, Hot-Rolled, Pickled, in coils of a thickness less than 3 mm” এবং উহার বিপরীতে কলাম (3) ও (4) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে;\n\n(২) 7217.30.00 এবং উহার বিপরীতে কলাম (2), (3) ও (4) এ উল্লিখিত এন্ট্রিসমূহের পর কলাম (1) এ নিম্নবর্ণিত H.S. Code 7229.20.00 ও 7229.90.00 এবং উহাদের বিপরীতে কলাম (2), (3) ও (4) এ নিম্নরূপ এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা :- \n| “7229.20.00 | Alloy steel wire | 5 | 0 |\n| 7229.90.00 | Other wire of other alloy steel | 3 | 0 ”। |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government, in consultation with the National Board of Revenue, to issue or amend customs notifications in the public interest."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority for the Government to issue or amend regulatory orders in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with this body before exercising its powers to amend customs notifications."
+        ],
+        "S.R.O. 122-AIN/2021": [
+          "This existing notification is being amended to modify specific product entries listed in its schedule."
+        ],
+        "H.S. Code": [
+          "The H.S. Code 7208.27.10 and its corresponding entries are deleted from the table in the referenced notification.",
+          "New entries for H.S. Codes 7229.20.00 and 7229.90.00, along with their respective descriptions and duty rates, are inserted into the table."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2206",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 19(1)",
+          "Government",
+          "National Board of Revenue",
+          "customs notifications"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1)",
+          "Government",
+          "regulatory orders"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue"
+        ],
+        "S.R.O. 122-AIN/2021": [
+          "product entries",
+          "schedule"
+        ],
+        "H.S. Code": [
+          "7208.27.10",
+          "7229.20.00",
+          "7229.90.00",
+          "descriptions",
+          "duty rates"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        5,
+        6,
+        16,
+        22,
+        24,
+        44,
+        122,
+        136,
+        320,
+        336,
+        4584,
+        4735,
+        5215,
+        5216,
+        5217
+      ],
+      "source_file": "customs_sros_OCR/20220609_126-AIN_2022_74_Customs/20220609_126-AIN_2022_74_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20220609_133-AIN_2022_81_Customs_১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৩৩-আইন/২০২২/৮১/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, ২৪ মে, ২০২১ খ্রিস্টাব্দ মোতাবেক ১০ জ্যৈষ্ঠ, ১৪২৮ বঙ্গাব্দ তারিখে জারিকৃত প্রজ্ঞাপন এস,আর,ও নং ১১কে-আইন/২০২১/০৫/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর পরিবর্তে নিম্নবর্ণিত TABLE প্রতিস্থাপিত হইবে, যথা :-\n\n“TABLE \n| Heading\n(1) | H. S. Code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 25.13 | 2513.10.00 | Pumice powder |\n| 28.07 | 2807.00.00 | Sulphuric acid |\n| 28.29 | 2829.11.00 | Sodium chlorate |\n| 28.33 | 2833.25.00 | Copper sulfate |\n|  | 2833.29.90 | Sodium per sulphate, Tin sulphate |\n|  | 2841.61.00 | Potassium Permanganate |\n| 28.41 | 2841.69.00 | Sodium permanganate |\n| 28.43 | 2843.30.00 | Gold (GPC) |\n| 32.06 | 3206.19.20 | Masterbatch |\n| 32.09 | 3209.90.90 | Color paints or varnishes |\n| 32.14 | 3214.90.00 | Silica gel |\n| 34.02 | 3402.49.10 | Defoaming agent |\n|  | 3402.90.90 | Thermal irresponsive glue |\n| 35.06 | 3506.99.00 | Thermal pest; Processor thermal pest |\n| 37.01 | 3701.30.10 | Unexposed photosensitive plate |\n| 37.02 | 3702.42.00 | Unexposed photo Sensitive emulsion film. |\n|  | 3702.98.00 | Unexposed photosensitive film |\n| 37.07 | 3707.90.00 | Photographic chemical |\n|  | 3810.10.00 | Solder paste |\n|  | 3810.90.90 | HASL Flux |\n|  | 3810.90.90 | Soldering Cleaner |\n|  | 3810.90.90 | Soldering Flux |\n| 38.12 | 3812.20.00 | Plastic/ rubber additives (controller) |\n|  | 3814.00.90 | Reducer (Printing Ink Reducer) |\n| 38.24 | 3824.99.90 | Electroplating salts and chemicals for PCB Manufacturing, Alkalineetchant,Tin stripper,Resist, Striper |\n| 39.03 | 3903.30.90 | Acrylonitrile butadiene styrene (ABS) Resin |\n| 39.06 | 3906.10.00 | PMMA Resin |\n| 39.07 | 3907.40.90 | Polycarbonate (PC) Resin |\n| 39.19 | 3919.10.90 | adhesive type foam; Adhesive type thermal tape; Double side adhesive tape |\n|  | 3919.90.99 | Tape mylar |\n| 39.21 | 3921.19.90 | Pet optical film (coated/non-coated) in roll form |\n| 39.26 | 3926.90.99 | A-cover; B-cover; C-cover; D-cover; Back cover; Side cover -Left; Side cover -right (for computer monitor, Laptop monitor, Tab, keyboard and mouse) |\n|  | 3926.90.99 | Sponge for case |\n|  | 3926.90.99 | Trigger Button (Cover part), Controller Upper case/bottom case, LCD button, Controller LED cover, Propeller, Propeller Guard, Landing skid, Battery Cover, Lock the camera plug, LED Cover (Red), LED Cover (Green), Motor holder & lock, Motor cover & the body bottom, Blades, Controller Stick base, Controller stick cover, Function Buttom Cover, Power Switch Cover, Adjust Switch Cover, Controller battery Cover, Antenna Cover, Middle frame, Battery Holder. |\n| 40.16 | 4016.93.00 | Gasket |\n|  | 4016.99.90 | Stand rubber; Thermal pad |\n| 48.11 | 4811.41.90 | QR Code Sticker |\n| 49.01 | 4901.99.90 | User Manual |\n| 56.03 | 5603.11.90 | Conductive fabric |\n| 59.11 | 5911.90.00 | Screen Printing Mesh. |\n| 70.19 | 7019.71.90 | Glass fiber |\n|  | 7019.90.90 | Prepreg (glass fiber and expoy) |\n| 70.20 | 7020.00.90 | Glass cover sheet for monitor |\n| 72.16 | 7216.21.00 | L-Angle |\n| 72.26 | 7226.99.90 | Processed plain metal-alloy sheet for housing; Decoration steel sheet for making computer body casing |\n| 73.18 | 7318.14.90 | Screw |\n|  | 7318.15.90 | Main Board bolt |\n|  | 7318.22.90 | Washer |\n| 73.26 | 7326.19.00 | Protector steel |\n| 74.03 | 7403.19.00 | Copper anode ball |\n| 74.08 | 7408.19.90 | Copper Wire; Jumper wire |\n| 74.10 | 7410.11.00 | Copper foil |\n|  | 7410.21.10 | Copper clad laminate with backing material: Copper foil thickness not exceeding 0.15 mm |\n| 76.07 | 7607.11.90 | Aluminum Foil; Thickness: 0.18 mm |\n|  | 7607.20.99 | Bottom case aluminum foil |\n| 80.01 | 8001.20.00 | Tin alloy/solder bar |\n| 80.03 | 8003.00.00 | Pure tin anode |\n|  | 8003.00.00 | Solder Tin Bar |\n| 82.07 | 8207.50.00 | Tools for drilling (drill bit),Tools for drilling (slot bit) |\n|  | 8207.70.00 | Tools for milling (routing bit) |\n| 83.11 | 8311.30.00 | Solder lead bar |\n|  | 8311.30.00 | Soldering Wire |\n| 84.23 | 8423.90.00 | LCD, Back Light, Connection Strap, Short feet feature, short feet negative, Snap dome, Sheetmetal, Grub Screw, Circuit Board, The battery Door |\n|  | 8423.82.90 | Sensor |\n| 84.71 | 8471.70.00 | Internal hard disk drive (HDD); Random access memory (RAM); Embedded multimedia card (EMMC) |\n| 84.73 | 8473.30.00 | Antenna; Antenna WLAN combo; Receiver; mic; Keypad dome; Receiver; Vibrator |\n|  | 8473.30.00 | CPU supporter base; CPU support bracket single edge contact cartridge (SECC); Lid PWR SW board; VGA support single edge contact cartridge (SECC); Battery charge input pin; Charging pin; Iinput-output (I/O) port |\n|  | 8473.30.00 | Fan module; Jointing roller; RAM module; Memory module; Camera module; CCD lens module; CPU heat sink module ; Liquid crystal module; HDD board module; Panel mirrors |\n|  | 8473.30.00 | Keypad; Bottom case |\n|  | 8473.30.00 | LCD hinge; Hinge ring; Steel frame hinge; Gears; Battery cell; Battery board; |\n|  | 8473.30.00 | Solid static devices (SSD) slot; SIM slot; T card slot; Earphone port; Connecting ports/slots; HDD caddy; Stand silver;Iinternal optical device drive (ODD) |\n|  | 8473.30.00 | Tuner; Graphics card; Loaded printed circuit board (PCB) |\n| 85.01 | 8501.31.00 | DC motors |\n| 85.04 | 8504.31.00 | Transformer |\n|  | 8504.50.00 | Inductor |\n|  | 8504.40.90 | AC adapter |\n| 85.05 | 8505.90.00 | Electro-Magnetic Driver Unit |\n| 85.06 | 8506.50.00 | Battery 3v |\n| 85.07 | 8507.60.00 | Lithium ion battery |\n| 85.18 | 8518.29.00 | Speaker |\n|  | 8518.90.00 | Parts & components for speaker |\n| 85.23 | 8523.51.90 | Internal solid state drive (SSD); |\n| 85.29 | 8529.90.22 | Liquid crystal device /open cell/TFT-LCD module |\n|  | 8529.90.90 | Touch panel; Touch pad |\n| 85.31 | 8531.20.00 | Light Emitting Diodes (LED) |\n| 85.32 | 8532.23.00 | Ceramic Dielectric, Single layer Capacitor |\n|  | 8532.24.00 | Ceramic Dielectric, Multi-layer Capacitor |\n|  | 8532.22.90 | Aluminum Electrolytic Capacitor |\n|  | 8532.29.90 | Capacitor |\n| 85.33 | 8533.29.00 | Resistor |\n| 85.34 | 8534.00.00 | Unloaded printed circuit board (PCB) |\n| 85.35 | 8535.21.10 | Circuit breakers |\n| 85.36 | 8536.10.00 | Fuse; thermal cutoffs (thermal fuses) |\n|  | 8536.50.00 | Tactile Button; Exit Button |\n|  | 8536.49.90 | Relay |\n|  | 8536.69.90 | 2 pin connector plug; Connectors; Sockets |\n|  | 8536.69.90 | Wire terminals/fasten terminals; Fuse Holders; Silicone plug |\n|  | 8536.90.90 | Wire crimp connectors; terminals |\n| 85.41 | 8541.10.00 | Diode |\n|  | 8541.29.00 | Transistor |\n|  | 8541.60.00 | Crystal oscillator |\n| 85.42 | 8542.39.90 | CPU chips; |\n|  | 8542.39.90 | Integrated circuit |\n| 85.44 | 8544.42.00 | Cable fitted with connector |\n|  | 8544.19.90 | Power switch board; Flexible flat cable motherboard to audio board; Flexible flat cable for power board to mother board; Flexible flat cable mother board to audio board; Ribbon cables; Low voltage serial (LVS) cable; Power cord; Speaker cable; USB cable; Wire cable for CCD d-mic; Wire cable for lid |\n| 85.46 | 8546.90.00 | Heat sink |\n| 90.01 | 9001.90.90 | LCM protective lens; Camera protective lens |\n| 90.06 | 9006.69.00 | LED/ Flash light |\n| 90.13 | 9013.90.10 | Open cell (display panel); Polarizing film; Optical film; Light guide plate; Reflector; Wave guide , Diffuser (back light controller) |\n| 90.31 | 9031.90.00 | Sensor; Touch panel sensor |\n| 94.05 | 9405.41.90 | Backlight |\n”",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the legal authority for the Government to issue notifications regarding customs matters.",
+          "The power granted by the Act allows for the modification or replacement of tables containing specified items, duty rates, or related provisions in previous notifications."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the Government with the authority to issue notifications concerning value added tax and supplementary duty."
+        ],
+        "TABLE": [
+          "The existing table in the previous SRO is replaced by a new, updated table listing various components, chemical materials, and parts associated with industrial manufacturing processes, specifically categorized by their H.S. Code and description."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2221",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 19(1)",
+          "tables",
+          "specified items",
+          "duty rates",
+          "previous notifications"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1)",
+          "value added tax",
+          "supplementary duty"
+        ],
+        "TABLE": [
+          "components",
+          "chemical materials",
+          "parts",
+          "H.S. Code",
+          "description"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        5,
+        9,
+        16,
+        22,
+        26,
+        36,
+        42,
+        44,
+        54,
+        243,
+        320,
+        2270,
+        2545,
+        4572
+      ],
+      "source_file": "customs_sros_OCR/20220609_133-AIN_2022_81_Customs/20220609_133-AIN_2022_81_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "শর্তাবলি\n(১) (ক) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান অথবা ভেন্ডর হইতে হইবে।\nব্যাখ্যা।- এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে,-\n(অ) Industrial IRC holder VAT compliant রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান বলিতে “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১” অথবা “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২” কে বুঝাইবে:\n(i) “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-১” অর্থ মূল্য সংযোজন কর নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত অথবা আমদানিকৃত কাঁচামাল দ্বারা রেফ্রিজারেটর ও ফ্রিজার এর সকল অংশ নিজে প্রস্তুত করিয়া অথবা প্রধান অংশসমূহ ও এক বা একাধিক গুরুত্বপূর্ণ অংশ নিজে প্রস্তুত করিয়া এবং অবশিষ্ট অংশ বা অংশসমূহ স্থানীয় ভেন্ডর হইতে সংগ্রহ বা আমদানি করিয়া রেফ্রিজারেটর ও ফ্রিজার উৎপাদন করে;\n(ii) “রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২” অর্থ মূল্য সংযোজন কর নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত অথবা আমদানিকৃত কাঁচামাল বা ক্ষুদ্র অংশ দ্বারা অথবা স্থানীয় ভেন্ডর হইতে সংগৃহীত ক্ষুদ্র অংশ বা অংশবিশেষ দ্বারা Body Cabinet নিজে প্রস্তুত করিয়া এবং স্থানীয়ভাবে সংগৃহীত বা আমদানিকৃত বা স্থানীয় ভেন্ডর হইতে সংগৃহীত ক্ষুদ্র অংশ বা অংশবিশেষ দ্বারা Body Cabinet ব্যতিরেকে অন্যান্য দুই বা ততোধিক প্রধান অংশ বা গুরুত্বপূর্ণ অংশ সংযোজন করিয়া এবং অবশিষ্ট অংশসমূহ স্থানীয় ভেন্ডর হইতে সংগ্রহ করিয়া বা আমদানি করিয়া সংযোজন (assemble) এর মাধ্যমে রেফ্রিজারেটর ও ফ্রিজার উৎপাদন করে:\nতবে শর্ত থাকে যে, ক্যাটাগরি-২ ভুক্ত হইবার ক্ষেত্রে প্রয়োজনীয় পূর্ণ প্রাকযোগ্যতা এখনো অর্জিত হয় নাই, অথচ উৎপাদনকারী হিসাবে নিবন্ধিত রহিয়াছে এইরূপ প্রতিষ্ঠান TABLE-4 এর পণ্য উক্ত TABLE এর কলাম (4) ও (5) এ বর্ণিত শুল্ক-কর পরিশোধ সাপেক্ষে আমদানি করিতে পারিবে;\nআরো শর্ত থাকে যে, উৎপাদনকারী হিসাবে নিবন্ধিত উক্তরূপ প্রতিষ্ঠানকে প্রজ্ঞাপন জারির ২ (দুই) বৎসর সময়ের মধ্যে Body Cabinet উৎপাদন সংশ্লিষ্ট মেশিনারিজ স্থাপন করিয়া রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠান ক্যাটাগরি-২ ভুক্ত হইবার লক্ষ্যে সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে হইবে এবং আবেদন প্রাপ্তির পর শর্ত (২) এ বর্ণিত পরিদর্শন কমিটি কর্তৃক সরেজমিনে পরিদর্শনক্রমে উক্ত প্রতিষ্ঠানের Body Cabinet উৎপাদনের সক্ষমতা নিশ্চিত না হইলে উক্ত প্রতিষ্ঠান এই প্রজ্ঞাপনের আওতায় রেয়াতি সুবিধা প্রাপ্ত হইবে না;\n(আ) “ভেন্ডর” অর্থ মূসক নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত অথবা আমদানিকৃত কাঁচামাল দ্বারা রেফ্রিজারেটর ও ফ্রিজার এর যন্ত্রাংশ প্রস্তুতপূর্বক রেফ্রিজারেটর ও ফ্রিজার উৎপাদনকারী প্রতিষ্ঠানকে সুনির্দিষ্ট বিক্রয় চুক্তির আওতায় অথবা স্থানীয়ভাবে সরবরাহ করিয়া থাকে;\n(ই) (i) “প্রধান অংশ” অর্থ Body Cabinet, Door ও Gasket;\n(ii) “গুরুত্বপূর্ণ অংশ” অর্থ Compressor, Evaporator, Printed Circuit Board (PCB), ABS (Acrylonitrile-butadiene-Styrene) sheet, Shrinkable Tube ও Temperature Sensor (Thermostat);",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "To benefit from this notification, the importing entity must be a VAT-compliant refrigerator and freezer manufacturing company or a registered vendor."
+        ],
+        "VAT Compliant": [
+          "Manufacturing entities and vendors are required to be registered for Value Added Tax to be eligible under the terms of this notification."
+        ],
+        "TABLE-4": [
+          "This table specifies the duty and tax rates applicable to manufacturing entities that have registered but have not yet fully achieved the capacity requirements for Category-2 status."
+        ],
+        "Refrigerator and Freezer Manufacturing Industry": [
+          "The regulations define two distinct categories of refrigerator and freezer manufacturing industries based on their local manufacturing capacity of major and critical components.",
+          "Category-1 manufacturers produce all or major portions of the appliance internally using local or imported raw materials, while Category-2 manufacturers focus on body cabinet production and the assembly of other critical components.",
+          "Manufacturers currently categorized as Category-2 without full capacity must install body cabinet production machinery within a specified timeframe and undergo a site inspection to remain eligible for duty concessions."
+        ],
+        "Vendor": [
+          "A vendor is defined as a VAT-registered manufacturing entity that produces refrigerator and freezer components using local or imported raw materials and supplies them to manufacturers under specific sales agreements."
+        ],
+        "Industrial Goods": [
+          "These are classified into 'major parts' such as body cabinets, doors, and gaskets, and 'critical parts' which include compressors, evaporators, PCBs, specific plastic sheets, tubes, and sensors."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2296",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "refrigerator manufacturing company",
+          "freezer manufacturing company",
+          "registered vendor"
+        ],
+        "VAT Compliant": [
+          "Manufacturing entities",
+          "vendors"
+        ],
+        "TABLE-4": [
+          "duty rates",
+          "tax rates",
+          "manufacturing entities",
+          "Category-2 status"
+        ],
+        "Refrigerator and Freezer Manufacturing Industry": [
+          "Category-1 manufacturers",
+          "Category-2 manufacturers",
+          "local raw materials",
+          "imported raw materials",
+          "body cabinet",
+          "critical components",
+          "body cabinet production machinery"
+        ],
+        "Vendor": [
+          "VAT-registered manufacturing entity",
+          "refrigerator components",
+          "freezer components",
+          "local raw materials",
+          "imported raw materials",
+          "sales agreements"
+        ],
+        "Industrial Goods": [
+          "body cabinets",
+          "doors",
+          "gaskets",
+          "compressors",
+          "evaporators",
+          "PCBs",
+          "plastic sheets",
+          "tubes",
+          "sensors"
+        ]
+      },
+      "clause_clusters": [
+        129,
+        132,
+        133,
+        134,
+        320,
+        330,
+        355,
+        410,
+        415,
+        1138,
+        1288,
+        1314,
+        1353,
+        1517,
+        1623,
+        1793,
+        2217,
+        2508,
+        2840,
+        3698,
+        4499,
+        4645,
+        6002,
+        6003,
+        6214,
+        7818,
+        8340,
+        8341,
+        8376,
+        10718,
+        11297,
+        11298,
+        12119
+      ],
+      "source_file": "customs_sros_OCR/20220628_199-_2022_107/20220628_199-_2022_107_output.json",
+      "clause_date": "2022-06-28"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "ব্যাখ্যা",
+      "text_id": "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+      "resolved_text": "ব্যাখ্যা।—কলাম (৬) এ বর্ণিত Ex বা Exclusively Applicable অর্থ উল্লেখিত পণ্যের HS Code-এ একাধিক পণ্য অন্তর্ভুক্ত থাকিলেও কেবল Table-এর কলাম (৩) এ বর্ণিত পণ্যটির ক্ষেত্রেই কলাম (৫) এ বর্ণিত Customs Duty (CD) হার প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "The application of customs duty rates is specified for goods within a tariff heading where the term Exclusively Applicable implies that the duty rate pertains solely to the specific item described in the relevant table column, even if the HS Code covers multiple types of goods."
+        ],
+        "H.S. Code": [
+          "The HS Code is used to categorize goods, and specific customs duty rates are restricted to individual items within these codes when marked as exclusively applicable in the official table."
+        ],
+        "TABLE": [
+          "The table provides a structured framework for defining the scope of customs duty application by mapping specific goods to their respective duty rates, utilizing designations such as exclusively applicable to clarify tax liabilities for items under a shared HS Code."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2384",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "customs duty rates",
+          "goods",
+          "tariff heading",
+          "item"
+        ],
+        "H.S. Code": [
+          "HS Code",
+          "goods",
+          "customs duty rates",
+          "individual items"
+        ],
+        "TABLE": [
+          "table",
+          "goods",
+          "duty rates",
+          "tax liabilities",
+          "HS Code"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        26,
+        320,
+        408,
+        763,
+        1412,
+        2282,
+        9002
+      ],
+      "source_file": "customs_sros_OCR/20221018_251-Act_2022_133_Customs/20221018_251-Act_2022_133_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2",
+      "resolved_text": "২। উপরি-উক্ত Table এর কলাম (২) এ বর্ণিত HS Sub-heading ও কলাম (৩) এ বর্ণিত পণ্যের উপর মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর দ্বিতীয় তফসিল এর টেবিল-২ অনুসারে সরবরাহ পর্যায়ে নতুন করিয়া সম্পূরক শুল্ক আরোপ করা হইলে অথবা সম্পূরক শুল্ক হার হ্রাস অথবা বৃদ্ধি করা হইলে সেই অনুসারে মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর দ্বিতীয় তফসিল এর টেবিল-১ এ আমদানি পর্যায়ে আরোপিত সম্পূরক শুল্ক হারের আনুপাতিক হারে কলাম (৫) এ বর্ণিত Margin of Preference in Supplementary Duty হার পুনঃনির্ধারণ করা হইবে।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table provides the Harmonized System sub-headings and corresponding descriptions of goods that are subject to adjustment in the margin of preference."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "The act governs the imposition and adjustment of supplementary duties at the supply and import stages.",
+          "The second schedule of this act provides the tables used to determine duty rates and recalculate the margin of preference."
+        ],
+        "Supplementary Duty": [
+          "The rate of this duty is subject to periodic adjustments based on changes made to the second schedule of the relevant tax law.",
+          "The margin of preference for this duty is recalculated proportionally whenever the supplementary duty rate at the import stage changes due to adjustments at the supply stage."
+        ],
+        "Margin of Preference in Supplementary Duty": [
+          "The rate specified in the table is subject to mandatory recalculation proportional to any changes made in the supplementary duty rates at the import stage."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2430",
+      "entity_sub_entities": {
+        "TABLE": [
+          "Harmonized System sub-headings",
+          "descriptions of goods"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "supplementary duties",
+          "supply stage",
+          "import stage",
+          "second schedule",
+          "tables",
+          "duty rates",
+          "margin of preference"
+        ],
+        "Supplementary Duty": [
+          "supplementary duty rate",
+          "second schedule",
+          "tax law",
+          "margin of preference",
+          "import stage",
+          "supply stage"
+        ],
+        "Margin of Preference in Supplementary Duty": [
+          "table",
+          "supplementary duty rates",
+          "import stage"
+        ]
+      },
+      "clause_clusters": [
+        5,
+        22,
+        26,
+        36,
+        153,
+        320,
+        562,
+        936,
+        1283,
+        1404,
+        1530,
+        2345,
+        4333,
+        4975,
+        9749,
+        12560
+      ],
+      "source_file": "customs_sros_OCR/20221018_259-Act_2022_134_Customs/20221018_259-Act_2022_134_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৬৪-আইন/২০২৪/১৬/কাস্টমস",
+      "text_id": "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৬৪-আইন/২০২৪/১৬/কাস্টমস।– সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, উক্ত আইনের প্রথম তফসিলভুক্ত পণ্যসমূহের মধ্যে নিম্নবর্ণিত TABLE-1, TABLE-2, TABLE-3, TABLE-4, TABLE-5 ও TABLE-6 এর কলাম (1) এ উল্লিখিত H.S. Code এর বিপরীতে কলাম (2) এ বর্ণিত বিভিন্ন শিল্পের কাঁচামালসমূহ আমদানির ক্ষেত্রে, উহাদের উপর আরোপণীয় উক্ত আইনের প্রথম তফসিলে উল্লিখিত কাস্টমস শুল্ক (Customs Duty), যে পরিমাণে কলাম (3) এ বর্ণিত হারের এবং সম্পূরক শুল্ক, যে পরিমাণে কলাম (4) এ বর্ণিত হারের অতিরিক্ত হয় সেই পরিমাণ এবং সমুদয় রেগুলেটরি শুল্ক হইতে, নিম্নবর্ণিত শর্তসাপেক্ষে, অব্যাহতি প্রদান করিল, যথা:-\n\nTABLE-1\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 1511.10.10 | Crude palm oil & its fractions imported by Industrial IRC holder VAT compliant edible oil refinery industries | 1 | 0 |\n| 2712.90.10 | Tube lessening jel imported by Industrial IRC holder VAT compliant optical fibre cable manufacturing industry | 1 | 0 |\n| 2818.10.10 | Artificial Corundum Imported by industrial IRC holder VAT compliant sand paper manufacturing industry | 1 | 0 |\n| 2818.20.10 | Aluminium oxide Imported by industrial IRC holder VAT compliant sand paper manufacturing industry | 1 | 0 |\n| 2905.31.10 | Ethylene glycol imported by Industrial IRC holder VAT compliant PET chips manufacturing industry | 1 | 0 |\n| 2917.36.10 | Terephthalic acid imported by Industrial IRC holder VAT compliant PET chips manufacturing industry | 1 | 0 |\n| 3901.20.10 | Black polyethylene imported by Industrial IRC holder VAT compliant optical fibre cable manufacturing industry | 1 | 0 |\n| 3907.61.10 | Poly (ethylene terephthalate) having a viscosity number of 78 ml/g or higher Imported by Industrial IRC holder VAT compliant textile yarn manufacturing industry | 1 | 0 |\n| 3907.69.10 | Other Poly (ethylene terephthalate) Imported by Industrial IRC holder VAT compliant textile yarn manufacturing industry | 1 | 0 |\n| 3916.90.10 | FRP rod imported by Industrial IRC holder VAT compliant optical fibre cable manufacturing industry | 1 | 0 |\n| 5501.30.10 | Acrylic or modacrylic synthetic filament tow imported by Industrial IRC holder VAT compliant synthetic staple fibre manufacturing industry | 1 | 0 |\n| 5510.12.10 | Water blocking yarn imported by Industrial IRC holder VAT compliant optical fibre cable manufacturing industry | 1 | 0 |\n| 5510.30.10 | Water blocking tape imported by Industrial IRC holder VAT compliant optical fibre cable manufacturing industry | 1 | 0 |\n| 7212.40.91 | Flat rolled products of iron or non-alloy steel co-polymer coated steel tape imported by Industrial IRC holder VAT compliant optical fibre cable manufacturing industry | 1 | 0 |\n| 7225.40.10 | Flat-rolled products of other alloy steel, of a width of 600 mm or more not further worked than hot-rolled, not in coils imported by Industrial IRC holder VAT compliant mould manufacturing industry | 1 | 0 |\n| 7225.50.10 | Flat-rolled products of other alloy steel, of a width of 600 mm or more not further worked than cold-rolled (cold-reduced) imported by Industrial IRC holder VAT compliant mould manufacturing industry | 1 | 0 |\n| 7606.11.10 | Non-alloyed aluminium rectangular (including square) plates, sheets and strips imported by Industrial IRC holder VAT compliant electric fan manufacturing industry | 1 | 0 |\n| 8529.90.21 | LED bulb with bar imported by Industrial IRC holder VAT compliant television manufacturing industry | 1 | 0 |\n| 8529.90.22 | Open Cell for use in manufacturing of LCD,LED panel imported by industrial IRC holder VAT compilant television manufacturing Industry | 1 | 0 |\n| 8539.90.21 | Parts of compact energy saving fluorescent lamp imported by Industrial IRC holder VAT compliant lamp manufacturing industry | 1 | 0 |\n| 9001.10.10 | Optical fibres and color optical fibres imported by Industrial IRC holder VAT compliant optical fibre cable manufacturing industry | 1 | 0 |\n\n\nTABLE-2\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 0506.90.10 | Bone ash imported by Industrial IRC holder VAT compliant ceramic products manufacturing industries | 5 | 0 |\n| 1901.90.30 | Malt extract; food preparations of flour, grouts, meal, starch or malt extract for infant or young children use in bulk imported by Industrial IRC holder VAT compliant food industry | 5 | 0 |\n| 2507.00.11 | China clays Imported by industrial IRC holder VAT compliant Tiles or Sanitary or Ceramic or Tableware products manufacturing industry | 5 | 0 |\n| 2508.40.11 | Ball clays Imported by industrial IRC holder VAT compliant Tiles or Sanitary or Ceramic or Tableware products manufacturing industry | 5 | 0 |\n| 2517.10.10 | Flint/grinding pebbles imported by Industrial IRC holder VAT compliant ceramic products manufacturing industries | 5 | 0 |\n| 2521.00.10 | Limestone Flux; Limestone and other calcareous stones imported as raw material by industrial IRC holder VAT compliant manufecturers | 5 | 0 |\n| 2524.90.10 | Chrysolite fibre imported by Industrial IRC holder VAT compliant cement sheet manufacturing industry | 5 | 0 |\n| 2706.00.11 | Crude tar imported by Industrial IRC holder VAT compliant tar manufacturering industres | 5 | 0 |\n| 2707.50.10 | Rubber process oil imported by Industrial IRC holder VAT compliant tyre & tube manufacturing industry | 5 | 0 |\n| 2707.99.10 | Rubber process oil imported by Industrial IRC holder VAT compliant tyre & tube manufacturing industry | 5 | 0 |\n| 2710.19.21 | Base oil imported in bulk by Industrial IRC holder VAT compliant petroleum products processing or lube blending industry | 5 | 0 |\n| 2902.50.10 | Styrene imported by Industrial IRC holder VAT compliant paint manufacturing industries | 5 | 0 |\n| 2905.12.10 | Isopropyl alcohol imported by Industrial IRC holder VAT compliant ink manufacturing industry | 5 | 0 |\n| 2905.16.10 | Octanol and isomers imported by Industrial IRC holder VAT compliant dioctyl orthophthalates manufacturing industry | 5 | 0 |\n| 3215.11.20 | Black printing ink Imported by industrial IRC holder VAT compliant SIM card and scratch card manufacturing industry | 5 | 0 |\n| 3215.90.30 | Inkjet Refill in injectable form Imported by industry IRC holder VAT compliand SIM card and scratch card manufacturing industry | 5 | 0 |\n| 3403.99.10 | Compress oil imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 3404.90.10 | Other Waxes imported by Industrial IRC holder VAT compliant ink manufacturing industry | 5 | 0 |\n| 3801.30.10 | Graphite or carbon electrode paste imported by Industrial IRC holder VAT compliant ferro alloy manufacturing industry | 5 | 0 |\n| 3811.21.10 | Additives for Lubricating oils Containing Pteroleum oils or oils obtained from Bituminous Minerals imported by Industrial IRC holder VAT compliant lub-blending industry | 5 | 0 |\n| 3811.29.10 | Additives for Lubricating oils obtained from other sources imported by Industrial IRC holder VAT compliant lube blending industry | 5 | 0 |\n| 3812.39.20 | Anti-oxidising preparation and other compound stabilisers imported by Industrial IRC holder VAT compliant tyre-tube or plastic goods manufacturing industry | 5 | 0 |\n| 3814.00.10 | Organic composite solvent imported by Industrial IRC holder VAT compliant ink manufacturing industry | 5 | 0 |\n| 3824.99.30 | Barium/strontium ferrite powder imported by Industrial IRC holder VAT compliant manufacturing industry | 5 | 0 |\n| 3824.99.50 | Coated calcium carbonate imported by Industrial IRC holder VAT compliant plastic goods or calcium carbonate filler or Cable manufacturing industry | 5 | 0 |\n| 3909.20.10 | Melamine resins imported by Industrial IRC holder VAT compliant melamine products manufacturing industries | 5 | 0 |\n| 3909.40.10 | Phenolic resins imported by Industrial IRC holder VAT compliant ink or tyre tube manufacturing industries | 5 | 0 |\n| 3920.49.30 | PVC film and PVDC Film imported by Industrial IRC holder VAT compliant medicine packaging industries | 5 | 0 |\n| 3920.92.30 | Unprinted nylon film in roll form imported by Industrial IRC holder VAT compliant medicine packaging industries | 5 | 0 |\n| 3921.19.11 | Microcellular PET light sheet having a power saving capa.of 20% or more imported by industrial IRC holder VAT compilant television manufacturing Industry | 5 | 0 |\n| 3921.90.10 | Vulcanised fibre sheet imported in pre punched, cut to size shape for the manufacture of sliver cans; plastic film metalised yarn grade imported by Industrial IRC holder VAT compliant metalized yarn (flat or round) manufacturing industry | 5 | 0 |\n| 3923.90.31 | Aseptic pack imported by Industrial IRC holder VAT compliant dairy industries | 5 | 0 |\n| 4001.21.10 | Smoked sheets imported by Industrial IRC holder VAT compliant tyre and tube manufacturing industry of a rim size exceeding 16\" | 5 | 0 |\n| 4805.91.10 | Uncoated paper board imported by Industrial IRC holder VAT compliant Gypsum board manufacturing industry | 5 | 0 |\n| 4805.92.10 | Uncoated paper board imported by Industrial IRC holder VAT compliant Gypsum board manufacturing industry | 5 | 0 |\n| 4805.93.10 | Uncoated paper board imported by Industrial IRC holder VAT compliant Gypsum board manufacturing industry | 5 | 0 |\n| 4811.60.20 | Paraffin wax or stearin covered or latex coated or waterproof paper and paperboard Imported by Industrial IRC holder VAT compliant abrasive paper (sand paper) manufacturing industry | 5 | 0 |\n| 4811.90.11 | Melamine/Decalcomania Paper imported by Industrial IRC holder VAT compliant Ceramic/Melamine/ Transfers (decalcomania)/ Opal glassware manufacturing industry | 5 | 0 |\n| 4908.10.10 | Transfers (decalcomanias) imported by Industrial IRC holder VAT compliant ceramic or melamine or Opal glassware industry | 5 | 0 |\n| 5608.19.10 | Filter cloth imported by Industrial IRC holder VAT compliant ceramic products manufacturing industries | 5 | 0 |\n| 5901.10.10 | Textile fabrics coated with gum or amylaceous substances Imported by Industrial IRC holder VAT compliant sand paper manufacturing industry | 5 | 0 |\n| 6309.00.10 | Used sweater imported by Industrial IRC holder VAT compliant blanket manufacturing industry | 5 | 0 |\n| 6802.29.10 | Silex/lining/abrasive/polishing disc imported by Industrial IRC holder VAT compliant ceramic products manufacturing industries | 5 | 0 |\n| 6903.20.30 | Alumina liner imported by Industrial IRC holder VAT compliant ceramic or steel products manufacturing industries | 5 | 0 |\n| 7019.61.20 | Closed woven fabrics of roving imported by Industrial IRC holder VAT compliant bio-gas plant | 5 | 0 |\n| 7019.62.20 | Other closed fabrics of roving imported by Industrial IRC holder VAT compliant bio-gas plant | 5 | 0 |\n| 7019.90.19 | Other articles of glass firbre, other than biogas digester, imported by Industrial IRC holder VAT compliant bio-gas plant | 5 | 0 |\n| 7208.10.10 | In coils, not further worked than hot-rolled, with patterns in relief imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.25.10 | Other, in coils, not further worked than hot rolled, pickled of a thickness of 4.75 mm or more imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.26.10 | Other, in coils, not further worked than hot rolled, pickled of a thickness of 3 mm or more but less than 4.75 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.27.10 | Other, in coils, not further worked than hot rolled, pickled of a thickness of less than 3 mm imported by Industrial IRC holder VAT compliant transformer, bicycle parts, and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.36.10 | Other, in coils, not further worked than hot rolled of a thickness exceeding 10 mm Imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.37.10 | Other, in coils, not further worked than hot rolled of a thickness of 4.75 mm or more but not exceeding 10 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.38.10 | Other, in coils, not further worked than hot rolled of a thickness of 3 mm or more but less than 4.75 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.39.20 | Other, in coils, not further worked than hot rolled of a thickness of less than 3 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.40.10 | Not in coils, not further worked than hot-rolled, with patterns in relief imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.51.10 | Other, not in coils, not further worked than hot-rolled of a thickness exceeding 10 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.52.10 | Other, not in coils, not further worked than hot-rolled of a thickness of 4.75 mm or more but not exceeding 10 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.53.10 | Other, not in coils, not further worked than hot-rolled of a thickness of 3 mm or more but less than 4.75 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.54.10 | Other, not in coils, not further worked than hot-rolled of a thickness of less than 3 mm imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7208.90.10 | Other, not in coils, not further worked than hot-rolled, other, imported by Industrial IRC holder VAT compliant transformer and products of Chapter 72 and Chapter 73 manufacturing industry | 5 | 0 |\n| 7209.16.10 | Cold rolled steel sheet Imported by Industrial IRC holder VAT compliant fire resistant door manufacturing industry | 5 | 0 |\n| 7209.17.10 | Cold rolled steel sheet imported by Industrial IRC holder VAT compliant fire resistant door manufacturing industrys | 5 | 0 |\n| 7210.30.10 | Flat-Rolled Iron or Steel, Width >=600mm, Electro-Plated or Coated with Zinc imported by industrial IRC holder VAT compilant television manufacturing Industry | 5 | 0 |\n| 7211.19.10 | Hot rolled steel sheet imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 7212.20.10 | Flat rolled products of iron or non-alloy steel electrolytically plated or coated with zinc imported by Industrial IRC holder VAT compliant television manufacturing industries | 5 | 0 |\n| 7213.91.10 | Other bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel of circular cross-section measuring less than 14 mm in diameter imported by Industrial IRC holder VAT compliant electrode manufacturing and wire drawing industries | 5 | 0 |\n| 7213.91.20 | Wire rod imported by Industrial IRC holder VAT compliant bicycle parts/components manufacturing industry | 5 | 0 |\n| 7213.91.30 | Imported by Industrial IRC holder VAT compliant electric cable clip manufacturing industry | 5 | 0 |\n| 7213.99.10 | Wire rod imported by Industrial IRC holder VAT compliant electrode or wire drawing manufacturing industry | 5 | 0 |\n| 7214.91.10 | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling of rectangular (other than square) cross-section imported by Industrial IRC holder VAT compliant leaf spring manufacturing industries | 5 | 0 |\n| 7217.90.10 | Imported by Industrial IRC holder VAT compliant electric cable clip manufacturing industry | 5 | 0 |\n| 7219.11.10 | Flat-rolled products of a thickness exceeding 10 mm imported by Industrial IRC holder VAT compliant cold rolled stainless steel in coils manufacturing industry | 5 | 0 |\n| 7219.12.10 | Flat-rolled products of a thickness of 4.75 mm or more but not exceeding 10 mm Imported by Industrial IRC holder VAT compliant cold rolled stainless steel in coils manufacturing industry | 5 | 0 |\n| 7219.13.10 | Flat-rolled products of a thickness of 3 mm or more but less than 4.75 mm Imported by Industrial IRC holder VAT compliant cold rolled stainless steel in coils manufacturing industry | 5 | 0 |\n| 7219.14.10 | Flat-rolled products of a thickness of less than 3 mm Imported by Industrial IRC holder VAT compliant cold rolled stainless steel in coils manufacturing industry | 5 | 0 |\n| 7225.30.10 | Flat-rolled products of other alloy steel, of a width of 600 mm or more other than silicon-electrical steel not further worked than hot-rolled, in coils imported by Industrial IRC holder VAT compliant alloy steel manufacturing industry | 5 | 0 |\n| 7226.99.10 | Silicon crystal steel sheet (Amorphos) imported by Industrial IRC holder VAT compliant transformer manufacturing industry | 5 | 0 |\n| 7227.90.20 | M.S. bars and rods imported by Industrial IRC holder VAT compliant electrode manufacturing or wire drawing industry | 5 | 0 |\n| 7326.90.20 | Metallic fittings for Insulator imported by industrial IRC holder VAT compliant insulator manufacturing industry | 5 | 0 |\n| 7407.21.10 | Brass Rods imported by Industrial IRC holder VAT compliant valve and bung manufacturing industry | 5 | 0 |\n| 7409.21.10 | Copper-zinc base alloys (brass) in coil imported by Industrial IRC holder VAT compliant manufacturing industry | 5 | 0 |\n| 7409.31.10 | Copper-tin base alloys (bronze) in coil imported by Industrial IRC holder VAT compliant manufacturing industry | 5 | 0 |\n| 7410.21.10 | Copper foil backed of refined copper imported by Industrial IRC holder VAT compliant printed circuit manufacturing industry | 5 | 0 |\n| 7411.10.10 | Tubes and pipes of refined copper imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 7606.12.10 | Alloyed aluminium rectangular (including square) plates, sheets and strips imported by Industrial IRC holder VAT compliant electric fan manufacturing industry | 5 | 0 |\n| 7607.11.10 | Aluminium foil in rolled but not further worked imported by Industrial IRC holder VAT compliant manufacturing industries | 5 | 0 |\n| 7607.19.10 | Aluminium foil lacquered imported by Industrial IRC holder VAT compliant manufacturing industry | 5 | 0 |\n| 7901.12.11 | Zinc ingots, not alloyed imported by Industrial IRC holder VAT compliant alloy steel manufacturing industry | 5 | 0 |\n| 7901.20.10 | Zinc alloys imported by Industrial IRC holder VAT compliant alloy steel manufacturing industry | 5 | 0 |\n| 8101.99.10 | Tungsten filament imported by Industrial IRC holder VAT compliant electric bulb manufacturing industry | 5 | 0 |\n| 8414.90.20 | Parts of compressor imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 8421.29.10 | Cartridge/Membrane filter imported by Industrial IRC holder VAT compliant pharmaceuticals or water purifying machine/apparatus manufacturing industry | 5 | 0 |\n| 8421.21.94 | Carbon filter, filter housing, diffuser imported by Industrial IRC holder VAT compliant water purifying machine/apparatus manufacturing industry | 5 | 0 |\n| 8532.29.10 | Capacitor imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 8536.30.10 | Motor protector imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 8536.49.10 | PTC relay imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 8536.90.10 | Connector; Terminal; Electrical apparatus Imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 5 | 0 |\n| 8542.31.20 | Other module imported by Industrial IRC holder VAT compliant SIM card or Smart card or Digital card manufacturing industry | 5 | 0 |\n| 8547.90.10 | Insulating Fittings (other than of ceramic & plastic) imported by industrial IRC holder VAT compliant insulator manufacturing industry | 5 | 0 |\n\n\nTABLE-3\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 0402.10.91 | Milk and cream in powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5%, other than retail packing of upto 2.5 kg imported by Industrial IRC holder VAT compliant milk and milk products manufacturing industry | 10 | 0 |\n| 0402.21.91 | Milk and cream in powder, granules or other solid forms, of a fat content, by weight, exceeding1.5%, other than retail packing of upto 2.5 kg imported by Industrial IRC holder VAT compliant milk and milk products manufacturing industry | 10 | 0 |\n| 0404.10.10 | Whey whether or not concentrated or containing added sugar or other sweetening matter imported by Industrial IRC holder VAT compliant food processing industry | 10 | 0 |\n| 1901.90.50 | Nutritional supplement for pregnant women and breast-feeding mothers imported in bulk by Industrial IRC holder VAT compliant food processing industries | 10 | 0 |\n| 2106.90.21 | Beverage concentrate imported by Industrial IRC holder VAT compliant beverage manufacturing industry | 10 | 0 |\n| 2106.90.30 | Soya protein-based food preparations in bulk imported by Industrial IRC holder VAT compliant food processing industry | 10 | 0 |\n| 2523.30.10 | Aluminous cement imported by Industrial IRC holder VAT compliant refractory materials manufacturing industry | 10 | 0 |\n| 2712.20.10 | Paraffin wax containing by weight less than 0.75% of oil imported by Industrial IRC holder VAT compliant tyre tube manufacturing industries | 10 | 0 |\n| 3215.90.20 | Ink for ball point pen imported by Industrial IRC holder VAT compliant ball point pen manufacturing industries | 10 | 0 |\n| 3302.10.10 | Mixtures of odoriferous substances and mixtures of a kind used in beverage and food manufacturing and imported by Industrial IRC holder VAT compliant beverage and food industries, containing alcohol not exceeding 0.5% absolute per volume or free from alcohol | 10 | 0 |\n| 3402.90.20 | Cleaning preparation imported by Industrial IRC holder VAT compliant steel manufacturing industries | 10 | 0 |\n| 3506.91.10 | Elastic/construction glue imported by Industrial IRC holder VAT compliant hygiene products manufacturing industry | 10 | 0 |\n| 3806.10.10 | Gum rosin imported by Industrial IRC holder VAT compliant paint or ink or tyre tube manufacturing industry | 10 | 0 |\n| 3920.10.20 | Other plates, sheets, film, foil and strip of polymers of ethylene imported by Industrial IRC holder VAT compliant personal hygiene products manufacturing industries | 10 | 0 |\n| 3920.49.40 | Unprinted PVC sheet imported by Industrial IRC holder VAT compliant SIM card or Smart card manufacturing industry | 10 | 0 |\n| 3920.63.10 | Unprinted polyester film in roll form imported by Industrial IRC holder VAT compliant plastic products manufacturing industry | 10 | 0 |\n| 3920.69.20 | Unprinted polyester film in roll form imported by Industrial IRC holder VAT compliant plastic products manufacturing industry | 10 | 0 |\n| 3920.92.20 | Unprinted nylon film in roll form imported by Industrial IRC holder VAT compliant plastic products manufacturing industry | 10 | 0 |\n| 4402.90.10 | Charcoal and Wood Powder based Coil Compound imported by Industrial IRC holder VAT compliant Mosquito Coil manufacturing industry | 10 | 0 |\n| 4811.41.10 | Self-adhesive paper imported by Industrial IRC holder VAT compliant label printing industries | 10 | 0 |\n| 5602.10.10 | Needleloom felt and stitch-bonded fibre fabrics imported by Industrial IRC holder VAT compliant personal hygiene products manufacturing industries | 10 | 0 |\n| 5603.11.10 | Hydrophilic/hydrophobic white/light/green man-made filament wieghing not more than 25 g/m2 imported by Industrial IRC holder VAT compliant hygiene products manufacturing industry | 10 | 0 |\n| 5603.12.10 | Textile back sheet/ Non woven air through bonded (ADL) imported by industrial IRC holder VAT compliant hygiene products manufacturing industry | 10 | 0 |\n| 5603.13.10 | Elastic back ear imported by Industrial IRC holder VAT compliant hygiene products manufacturing industry | 10 | 0 |\n| 5603.92.10 | Dry web imported by Industrial IRC holder VAT compliant hygiene products manufacturing industry | 10 | 0 |\n| 5806.32.10 | Other woven fabrics of man-made fibres Imported by industrial IRC holder VAT compliant satin ribbon manufacturing industry | 10 | 0 |\n| 5903.90.10 | Side tape (lock loop) imported by Industrial IRC holder VAT compliant hygiene products manufacturing industry | 10 | 0 |\n| 7002.39.20 | Flange tube imported by Industrial IRC holder VAT compliant tube light manufacturing industry | 10 | 0 |\n| 7019.14.10 | Mechanically bonded mats of glass fibres Imported by Industrial IRC holder VAT compliant bio-gas plant | 10 | 0 |\n| 7019.15.10 | Chemically bonded mats of glass fibres Imported by Industrial IRC holder VAT compliant bio-gas plant | 10 | 0 |\n| 7019.71.10 | Glass fiber in sheet form imported by Industrial IRC holder VAT compliant accumulator manufacturing industry | 10 | 0 |\n| 7210.61.10 | Flat-rolled products of iron or non-alloy steel plated or coated with aluminium-zinc alloy of a thickness of 0.25 mm or more imported by Industrial IRC holder VAT compliant continuous color coating line manufacturing industry | 10 | 0 |\n| 7210.70.91 | Printed sheet imported by Industrial IRC holder VAT compliant metal can manufacturing industry | 10 | 0 |\n| 7308.90.91 | Metal frames for LCD/LED TV panel imported by Industrial IRC holder VAT compliant TV manufacturing industry | 10 | 0 |\n| 7320.90.10 | Springs imported by Industrial IRC holder VAT compliant LPG filling plant | 10 | 0 |\n| 8421.39.91 | Filtering equipments imported by Industrial IRC holder VAT compliant LPG filling plant | 10 | 0 |\n| 8504.90.21 | Formed core imported by Industrial IRC holder VAT compliant voltage stabilizer manufacturing industries | 10 | 0 |\n| 8538.90.10 | Other parts Imported by Industrial IRC holder VAT compliant electrical goods manufacturers | 10 | 0 |\n| 8540.11.10 | Colour cathode-ray TV picture tubes, including video monitor cathode ray tubes imported by Industrial IRC holder VAT compliant TV manufacturing industry | 10 | 0 |\n| 8540.12.10 | Monochrome cathode-ray TV picture tubes, including video monitor cathode ray tubes Imported by Industrial IRC holder VAT compliant TV manufacturing industry | 10 | 0 |\n| 8544.11.10 | Winding wire of copper imported by Industrial IRC holder VAT compliant transformer and compressor manufacturing industry | 10 | 0 |\n\n\nTABLE-4\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 0712.90.92 | Dihydrated chives imported by Industrial IRC holder VAT compliant biscuits and bakery products manufacturing industry | 15 | 0 |\n| 0910.91.91 | Spices premix imported by Industrial IRC holder VAT compliant foodstuffs manufacturing industries | 15 | 0 |\n| 2103.90.10 | Mixed seasonings imported by Industrial IRC holder VAT compliant foodstuffs manufacturing industries | 15 | 0 |\n| 2106.90.41 | Stabilizer for milk imported by Industrial IRC holder VAT compliant milk foodstuffs manufacturing and agro-processing industries | 15 | 0 |\n| 2917.39.10 | Purified Isophtalic Acid (IPA) imported by Industrial IRC holder VAT compliant petro chemical industry | 15 | 0 |\n| 3208.20.91 | Cover coat/medium imported by Industrial IRC holder VAT compliant ceramic ware manufacturing industry | 15 | 0 |\n| 3208.90.30 | Coating materials imported by Industrial IRC holder VAT compliant cookingware manufacturing industry | 15 | 0 |\n| 3209.90.30 | Coating materials imported by Industrial IRC holder VAT compliant cookingware manufacturing industry | 15 | 0 |\n| 3215.11.10 | Flexo/Gravure in liquid form imported by Industrial IRC holder VAT compliant manufacturing industry | 15 | 0 |\n| 3215.19.10 | Flexo/Gravure in liquid form imported by Industrial IRC holder VAT compliant manufacturing industry | 15 | 0 |\n| 3402.90.30 | Cleaning preparation imported by industrial IRC holder VAT compliant paper mills | 15 | 0 |\n| 3701.30.20 | Photosensitive plates imported by industrial IRC holder VAT compliant Printing and packaging industry | 15 | 0 |\n| 3824.99.91 | Thermal coating slurry imported by Industrial IRC holder VAT compliant paper manufacturering industries | 15 | 0 |\n| 3919.10.10 | Self adhesive tape Imported by Industrial IRC holder VAT compliant SIM card or Smart card or Gypsum board manufacturing industry | 15 | 0 |\n| 3919.90.10 | Self adhesive tape in rolls exceeding 20cm imported by Industrial IRC holder VAT compliant manufacturing industry | 15 | 0 |\n| 3919.90.30 | Scratch off label imported by Industrial IRC holder VAT compliant SIM card or Smart card manufacturing industry | 15 | 0 |\n| 3919.90.91 | Re-seal/self adhesive tape imported by Industrial IRC holder VAT compliant hygiene products or electrical, electronics and home appliances manufacturing industry | 15 | 0 |\n| 3920.49.50 | PVC film imported by Industrial IRC holder VAT compliant Gypsum board manufacturing industry | 15 | 0 |\n| 3920.69.91 | Polyester paper/Unit binder tape imported by Industrial IRC holder VAT compliant energy efficient electric fan manufacturing industry | 15 | 0 |\n| 3921.90.20 | Multilayer extruded sheet for plastic laminated collapsible tube imported by Industrial IRC holder VAT compliant plastic tube manufacturing industries | 15 | 0 |\n| 3921.90.92 | PVC coated magstrip imported by Industrial IRC holder VAT compliant SIM card or Smart card manufacturing industry | 15 | 0 |\n| 3926.90.93 | Plastics frame works imported by Industrial IRC holder VAT compliant cable manufacturing industry | 15 | 0 |\n| 4811.51.10 | Bleached paper imported by Industrial IRC holder VAT compliant paper cup, bowl, plate manufacturing industry | 15 | 0 |\n| 4823.69.10 | Other paper and paperboard Imported by Industrial IRC Holder VAT compliant paper cup, bowl, plate manufacturng industry | 15 | 0 |\n| 4823.70.10 | Paper gasket imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 15 | 0 |\n| 4823.90.95 | Honeycomb imported by Industrial IRC holder VAT compliant fire-resistant door manufacturing industry | 15 | 0 |\n| 5512.19.10 | Silk screen imported by Industrial IRC holder VAT compliant ceramic ware or tiles manufacturing industry | 15 | 0 |\n| 5903.10.20 | Textile Fabrics Laminated with Polyvinyl Chloride imported by Industrial IRC holder VAT compliant Footwear Manufacturing Industry | 15 | 0 |\n| 5903.20.20 | Textile Fabrics Laminated with Polyurethane imported by Industrial IRC holder VAT compliant Footwear Manufacturing Industry | 15 | 0 |\n| 6006.42.10 | Dyed knitted or crocheted fabrics imported by Industrial IRC holder VAT complaint footwear manufacturing industry | 15 | 0 |\n| 6006.43.10 | Yarns of different colors knitted or crocheted fabrics imported by industrial IRC holder VAT complaint footwear manufacturing industry | 15 | 0 |\n| 7016.10.10 | Glass cube Imported by industrail IRC holder VAT compliant glass mozaic manufactuing industry | 15 | 0 |\n| 7307.92.11 | Sleeves imported by Industrial IRC holder VAT compliant tyre manufacturing industry | 15 | 0 |\n| 7308.90.10 | Door co-ordinator imported by Industrial IRC holder VAT compliant fire-resistant door manufacturing industry | 15 | 0 |\n| 7308.90.20 | Industrial Racking System Imported by Industrial IRC Holder VAT Compliant 100% Export Oriented Garments Industry | 15 | 0 |\n| 7320.90.20 | Spring imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 15 | 0 |\n| 7607.20.92 | Co-polymer coated aluminium tape Imported by Industrial IRC holder VAT compliant cable manufacturing industries | 15 | 0 |\n| 8301.40.10 | Lever lock, Mortice lock imported by Industrial IRC holder VAT compliant fire-resistant door manufacturing industry | 15 | 0 |\n| 8302.42.10 | Magnatic door holder imported by Industrial IRC holder VAT compliant fire-resistant door manufacturing industry | 15 | 0 |\n| 8302.60.10 | Automatic door closers imported by Industrial IRC holder VAT compliant fire-resistant door manufacturing industry | 15 | 0 |\n| 8311.10.10 | Welding wire imported by Industrial IRC holder VAT compliant compressor manufacturing industry | 15 | 0 |\n| 8504.90.40 | UPS case imported by Industrial IRC holder VAT compliant UPS manufacturing industry | 15 | 0 |\n| 8507.20.10 | Sealed lead-acid accumulators (capacity 85 amp or less) imported by Industrial IRC holder VAT compliant UPS manufacturing industries | 15 | 0 |\n| 8523.59.20 | RFID TAG Imported by Industrial IRC Holder VAT Compliant 100% Export Oriented Textile Industry | 15 | 0 |\n| 8524.11.10 | Panel of apparatus of Heading 85.28 Imported by Industrial IRC holder VAT compliant TV manufacturing industry | 15 | 0 |\n| 8524.12.10 | OLED panel of apparatus of Heading 85.28 Imported by Industrial IRC holder VAT compliant TV manufacturing industry | 15 | 0 |\n| 8524.19.10 | LED panel of apparatus of Heading 85.28 Imported by Industrial IRC holder VAT compliant TV manufacturing industry | 15 | 0 |\n\n\nTABLE-5\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 1901.90.20 | Dry Mixed Ingredient of food preparation in bulk imported by Industrial IRC holder VAT compliant food processing industries | 25 | 0 |\n| 1901.90.91 | Other malt extract, food preparation of flour, grouts, meal, starch or malt extract imported in bulk by Industrial IRC holder VAT compliant food processing industries | 25 | 0 |\n| 2915.70.31 | Sodium salt of palmitic acid (soap noodle) imported by Industrial IRC holder VAT compliant soap manufacturing industry | 25 | 0 |\n| 2917.32.10 | Dioctyl orthophthalates imported under block list by Industrial IRC holder VAT compliant pharmaceutical industry | 25 | 0 |\n| 3208.10.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and Industrial IRC holder VAT compliant manufacturing industry as raw material for their product | 25 | 0 |\n| 3208.20.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and Industrial IRC holder VAT compliant manufacturing industry as raw material for their product | 25 | 0 |\n| 3208.90.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and Industrial IRC holder VAT compliant manufacturing industry as raw material for their product | 25 | 0 |\n| 3209.10.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and Industrial IRC holder VAT compliant manufacturing industry as raw material for their product | 25 | 0 |\n| 3209.90.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and Industrial IRC holder VAT compliant manufacturing industry as raw material for their product | 25 | 0 |\n| 3210.00.10 | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government department and Industrial IRC holder VAT compliant manufacturing industry as raw material for their product | 25 | 0 |\n| 3917.29.91 | Fibre glass imported by Industrial IRC holder VAT compliant electric fan manufacturing industry | 25 | 0 |\n| 3920.49.21 | Other printed PVC sheet imported by Industrial IRC holder VAT compliant SIM card or Smart card manufacturing industry | 25 | 0 |\n| 3923.30.20 | Carboys, bottles, flasks and similar articles, Imported by Industrial IRC holder VAT compliant pharmaceutical industries | 25 | 0 |\n| 4802.54.10 | Other paper & paper board weighing less than 40g/m2 imported by Industrial IRC holder VAT compliant manufacturing industries | 25 | 0 |\n| 4823.90.94 | Air laid paper imported by Industrial IRC holder VAT compliant hygiene products manufacturing industry | 25 | 0 |\n| 6006.44.10 | Printed Knitted or Crocheted Fabrics imported by Industrial IRC holder VAT compliant Footwear Manufacturing Industry | 25 | 0 |\n| 6406.10.10 | Parts of footwear, uppers and parts thereof, imported by Industrial IRC holder VAT compliant footwear manufacturing industry | 25 | 0 |\n| 6406.20.10 | Parts of footwear, outer soles and heels of rubber or plastic, imported by Industrial IRC holder VAT compliant footwear manufacturing industry | 25 | 0 |\n| 6802.10.10 | Tiles cube Imported by industrail IRC holder VAT compliant tiles mozaic manufactuing industry | 25 | 0 |\n| 7007.19.10 | UL marked glass Imported by industrial IRC holder VAT compliant fire door manufacturing industry | 25 | 0 |\n| 7310.21.20 | Tin plated printed cans imported by Industrial IRC holder VAT compliant manufacturing industry | 25 | 0 |\n| 7323.99.10 | Parts of table, kitchen or other household articles imported by Industrial IRC holder VAT compliant table, kitchen or other household articles manufacturing industry | 25 | 0 |\n| 8418.50.10 | Other furniture for storage and displaying, incorporating refrigerating or freezing equipment imported by VAT compliant supershop | 25 | 0 |\n| 8529.90.23 | Parts of apparatus of Heading 85.28, imported by Industrial IRC holder VAT compliant television manufacturing industry | 25 | 0 |\n\n\nTABLE-6\n\n| H.S. Code | Description of goods | CD (%) | SD (%) |\n| --- | --- | --- | --- |\n| 2106.90.50 | Creamer in bulk imported by Industrial IRC holder VAT compliant milk foodstuffs manufacturing industry | 25 | 10 |\n| 4813.10.10 | Cigarette paper imported by Industrial IRC holder VAT compliant tobacco products manufacturing industries | 25 | 60 |\n| 4813.20.10 | Cigarette paper imported by Industrial IRC holder VAT compliant tobacco products manufacturing industries | 25 | 60 |\n| 4813.90.10 | Cigarette paper Imported by Industrial IRC holder VAT compliant tobacco products manufacturing industries or paper converting industries | 25 | 60 |\n| 7318.15.10 | Flus type tower bolt imported by Industrial IRC holder VAT compliant fire-resistant door manufacturers | 25 | 20 |\n| 8529.90.31 | Loaded printed circuit board of Heading 85.27 and 85.28, imported by Industrial IRC holder VAT compliant TV manufacturing industry | 25 | 10 |\n\n\nশর্তাবলি\n(১) সংশ্লিষ্ট আমদানিকারককে Industrial IRC holder VAT compliant উৎপাদনকারী শিল্প (Manufacturing industry) হইতে হইবে;\nব্যাখ্যা:\n(অ) Industrial IRC holder অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) VAT compliant অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ ও মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা, ২০১৬ এর অধীন নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান;\n(২) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নকৃত শিল্প ভোক্তা আইআরসি রহিয়াছে এবং ১৩ ডিজিট সংবলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী মাসের মূসক দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে:\nতবে শর্ত থাকে যে, কোনো দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This SRO is issued under the authority granted by Section 25(1) of the Customs Act 2023.",
+          "The Act provides the legal basis for granting exemptions on customs duties and regulatory duties for specific industrial raw materials."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This SRO is issued under the authority granted by Section 126(1) of the Value Added Tax and Supplementary Duty Act 2012.",
+          "The Act defines the VAT compliance requirements that industries must meet to qualify for duty exemptions."
+        ],
+        "National Board of Revenue": [
+          "The Board is the regulatory body consulted for the issuance of this SRO and the establishment of its duty exemption framework."
+        ],
+        "Industrial IRC Holder": [
+          "An Industrial IRC holder is defined as an entity possessing a valid Industrial Consumer IRC issued by the Office of the Chief Controller of Imports and Exports.",
+          "Only manufacturers holding this status are eligible for the specific customs duty, supplementary duty, and regulatory duty exemptions listed in the order."
+        ],
+        "VAT Compliant": [
+          "An entity is considered VAT compliant if it is registered under the Value Added Tax and Supplementary Duty Act 2012 and the associated Rules, and regularly submits its VAT returns.",
+          "Compliance status must be verifiable through the customs or VAT online systems to benefit from the tax exemptions provided in this order."
+        ],
+        "H.S. Code": [
+          "The SRO specifies various H.S. Codes in its six tables, identifying the raw materials eligible for duty concessions when imported by qualifying industries.",
+          "The applicable duty rates for imports are determined based on the specific H.S. Code and the corresponding industrial category."
+        ],
+        "TABLE-1": [
+          "This table lists specific industrial raw materials and their corresponding H.S. Codes that are eligible for reduced customs duties and supplementary duties."
+        ],
+        "TABLE-2": [
+          "This table specifies a range of industrial raw materials along with their H.S. Codes, outlining duty rates and supplementary duty relief for qualified manufacturers."
+        ],
+        "TABLE-3": [
+          "This table provides duty and supplementary duty structures for various raw materials imported by industrial consumers as defined under the order."
+        ],
+        "TABLE-4": [
+          "This table outlines the customs duty and supplementary duty regimes applicable to defined industrial inputs and raw materials."
+        ],
+        "TABLE-5": [
+          "This table categorizes specific industrial raw materials by H.S. Code and specifies their associated duty rates for eligible VAT-compliant manufacturing industries."
+        ],
+        "TABLE-6": [
+          "This table lists high-duty industrial materials and their respective supplementary duties, establishing the exemption or concessionary rates for qualified importers."
+        ],
+        "Customs Duty": [
+          "The SRO grants exemptions or reductions on the customs duties specified in the First Schedule of the Customs Act for defined raw materials used by industrial manufacturers."
+        ],
+        "Supplementary Duty": [
+          "The order provides exemptions for supplementary duties that exceed the rates specified in the relevant columns of the tables for eligible industrial imports."
+        ],
+        "Commissioner of Customs": [
+          "In cases where electronic data regarding VAT compliance cannot be accessed due to unforeseen circumstances, the Commissioner of Customs is authorized to take action after recording the reasons."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2574",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Section 25(1)",
+          "customs duties",
+          "regulatory duties",
+          "industrial raw materials"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1)",
+          "VAT compliance requirements",
+          "duty exemptions"
+        ],
+        "National Board of Revenue": [
+          "regulatory body",
+          "duty exemption framework"
+        ],
+        "Industrial IRC Holder": [
+          "Industrial Consumer IRC",
+          "Office of the Chief Controller of Imports and Exports",
+          "manufacturers",
+          "customs duty",
+          "supplementary duty",
+          "regulatory duty exemptions"
+        ],
+        "VAT Compliant": [
+          "Value Added Tax and Supplementary Duty Act 2012",
+          "Rules",
+          "VAT returns",
+          "customs online systems",
+          "VAT online systems",
+          "tax exemptions"
+        ],
+        "H.S. Code": [
+          "H.S. Codes",
+          "raw materials",
+          "duty rates",
+          "industrial category"
+        ],
+        "TABLE-1": [
+          "industrial raw materials",
+          "H.S. Codes",
+          "customs duties",
+          "supplementary duties"
+        ],
+        "TABLE-2": [
+          "industrial raw materials",
+          "H.S. Codes",
+          "duty rates",
+          "supplementary duty relief",
+          "manufacturers"
+        ],
+        "TABLE-3": [
+          "duty structures",
+          "supplementary duty structures",
+          "raw materials",
+          "industrial consumers"
+        ],
+        "TABLE-4": [
+          "customs duty",
+          "supplementary duty",
+          "industrial inputs",
+          "raw materials"
+        ],
+        "TABLE-5": [
+          "industrial raw materials",
+          "H.S. Code",
+          "duty rates",
+          "VAT-compliant manufacturing industries"
+        ],
+        "TABLE-6": [
+          "high-duty industrial materials",
+          "supplementary duties",
+          "exemption rates",
+          "concessionary rates",
+          "importers"
+        ],
+        "Customs Duty": [
+          "First Schedule of the Customs Act",
+          "raw materials",
+          "industrial manufacturers"
+        ],
+        "Supplementary Duty": [
+          "supplementary duties",
+          "industrial imports"
+        ],
+        "Commissioner of Customs": [
+          "electronic data",
+          "VAT compliance"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        7,
+        10,
+        12,
+        14,
+        19,
+        22,
+        29,
+        31,
+        36,
+        44,
+        79,
+        88,
+        96,
+        100,
+        101,
+        108,
+        127,
+        129,
+        134,
+        140,
+        149,
+        153,
+        207,
+        212,
+        272,
+        285,
+        320,
+        415,
+        793,
+        814,
+        884,
+        893,
+        939,
+        981,
+        1041,
+        1119,
+        1129,
+        1184,
+        1386,
+        1688,
+        3666,
+        4185,
+        4654,
+        5114,
+        7526,
+        7861,
+        8704,
+        9012,
+        9016,
+        12561,
+        12563
+      ],
+      "source_file": "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

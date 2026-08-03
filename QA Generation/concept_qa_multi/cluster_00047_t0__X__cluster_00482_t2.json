@@ -1,0 +1,35 @@
+{
+  "group_id": "cluster_00047_t0__X__cluster_00482_t2",
+  "entities": [
+    "baggage",
+    "clothing"
+  ],
+  "cluster_ids": [
+    47,
+    482
+  ],
+  "thread_ids": [
+    "cluster_00047_t0",
+    "cluster_00482_t2"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the definition of 'baggage' evolved regarding the inclusion of 'clothing' (porideyo) as a personal item, and what specific weight constraint was introduced for such items in 2023?",
+      "answer": "Under the customs definitions, 'baggage' is defined as reasonable quantities of food, clothing (porideyo), household, or other personal items imported by a passenger. While early definitions (2011, 2012) focused on 'reasonable quantity', the 2023 regulation [2] introduced a specific constraint that each item of baggage must not exceed 15kg.",
+      "entities_involved": [
+        "baggage",
+        "clothing"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "cluster_id": 201,
+  "cluster_label": "Chairman of the National Board of Revenue",
+  "thread_index": 1,
+  "thread_id": "cluster_00201_t1",
+  "title": "Administrative Signatory Authority",
+  "summary": "The Chairman of the NBR serves as the formal signatory for legal and administrative instruments. This role remains static across various documents, representing the official validation of the Board's orders.",
+  "evolution": {
+    "role": "Consistent role as the authorized signatory for NBR orders."
+  },
+  "timeline": [
+    {
+      "date": "2017-11-15",
+      "instrument": "Metadata",
+      "change": "Standardized signature format for NBR orders.",
+      "clause_ids": [
+        "metadata_3"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 17,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_2",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nমো: নজিবুর রহমান\nচেয়ারম্যান",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority responsible for issuing this order."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue is the official signatory and authorized representative issuing this legal instrument."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_811",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "regulatory authority",
+          "order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "official signatory",
+          "authorized representative",
+          "legal instrument"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        41,
+        53,
+        123,
+        201,
+        239,
+        342
+      ],
+      "source_file": "customs_sros_OCR/20170601_144-AIN_/20170601_144-AIN__output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nমোঃ নজিবুর রহমান\nচেয়ারম্যান",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the government authority responsible for issuing this regulatory order."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue serves as the signatory official for the formal issuance of this order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_820",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "government authority",
+          "regulatory order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "signatory official",
+          "order"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        53,
+        55,
+        123,
+        182,
+        201
+      ],
+      "source_file": "customs_sros_OCR/20170601_148-AIN_/20170601_148-AIN__output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\nতারিখ-১৫/১১/২০১৭\nমোঃ নজিবুর রহমান\nচেয়ারম্যান\nজাতীয় রাজস্ব বোর্ড, ঢাকা।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for this standing order.",
+          "The Chairman of the National Board of Revenue is responsible for the formal authentication of official orders."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_55",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "Chairman of the National Board of Revenue",
+          "standing order",
+          "official orders"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        201,
+        259,
+        397
+      ],
+      "source_file": "customs_gos_OCR/20171115_234/20171115_234_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে\n\n(মো: আবদুর রহমান খান এফসিএমএ)\nচেয়ারম্যান\nজাতীয় রাজস্ব বোর্ড, ঢাকা।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority responsible for issuing official orders and notifications.",
+          "The Chairman of the National Board of Revenue holds the authority to authenticate and issue formal instructions on behalf of the organization."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_153",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "official orders",
+          "notifications",
+          "Chairman of the National Board of Revenue",
+          "formal instructions"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        28,
+        201,
+        397,
+        2386
+      ],
+      "source_file": "customs_gos_OCR/20250515/20250515_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authorizing body responsible for issuing this order."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman acts as the authorized official whose signature confirms the authenticity of the legal notification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_164",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "authorized official",
+          "signature",
+          "legal notification"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        53,
+        201,
+        265,
+        653,
+        1012
+      ],
+      "source_file": "customs_rules_OCR/20160408_BONDED_WARE_HOUSE_LICENSING_RULES_CORRECTION/20160408_BONDED_WARE_HOUSE_LICENSING_RULES_CORRECTION_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the primary authority responsible for issuing administrative orders and official communications regarding customs, taxation, and trade regulations."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue is the designated official authorized to sign and validate official orders issued by the board."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_166",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "administrative orders",
+          "official communications",
+          "customs",
+          "taxation",
+          "trade regulations"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "official orders"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        21,
+        201,
+        397,
+        574,
+        887,
+        3148,
+        4433
+      ],
+      "source_file": "customs_rules_OCR/20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION/20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\n\nমোঃ নজিবুর রহমান\nচেয়ারম্যান",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for issuing this regulatory order under its administrative powers."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman acts as the authorized official representing the National Board of Revenue in the issuance and validation of this legal document."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_813",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "regulatory order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman",
+          "National Board of Revenue",
+          "legal document"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        55,
+        201,
+        348,
+        2823
+      ],
+      "source_file": "customs_sros_OCR/20170601_145-AIN_/20170601_145-AIN__output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nমোঃ নজিবুর রহমান\nচেয়ারম্যান",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The document is issued under the authority and order of the National Board of Revenue."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The administrative order is formally issued and signed by the Chairman of the National Board of Revenue."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_818",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman of the National Board of Revenue"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        201
+      ],
+      "source_file": "customs_sros_OCR/20170601_147-AIN_/20170601_147-AIN__output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে, আবু হেনা মোঃ রহমাতুল মুনিম, চেয়ারম্যান",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority under whose order the document is issued."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue acts as the authorized signatory for the issuance of this legal instrument."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1105",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "authority"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "authorized signatory",
+          "legal instrument"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        41,
+        123,
+        201,
+        311
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue holds the statutory authority to issue official orders, notifications, and directives concerning customs and tax administration."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue is the authorized official responsible for signing and authenticating formal legal instruments and orders issued by the Board."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1227",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "official orders",
+          "notifications",
+          "directives",
+          "customs administration",
+          "tax administration"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "formal legal instruments",
+          "orders"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        28,
+        73,
+        201,
+        397,
+        517,
+        937,
+        1791,
+        8283
+      ],
+      "source_file": "customs_sros_OCR/20220609_154-AIN_2022_102_/20220609_154-AIN_2022_102__output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে\n\nআবু হেনা মোঃ রহমাতুল মুনিম\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the government authority responsible for issuing this order."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman acts as the signatory and authorized official for the issuance of this administrative order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1304",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "government authority",
+          "order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "signatory",
+          "authorized official",
+          "administrative order"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        53,
+        123,
+        182,
+        201,
+        542,
+        1012
+      ],
+      "source_file": "customs_sros_OCR/20230316_SRO_No-69-AIN_2023_145_Customs/20230316_SRO_No-69-AIN_2023_145_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority under whose order the legal document is issued."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue acts as the signatory for the statutory order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1041",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "legal document"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "statutory order"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        201,
+        505,
+        2823
+      ],
+      "source_file": "customs_sros_OCR/20200611_136-AIN_2019_87_Customs/20200611_136-AIN_2019_87_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue serves as the governing authority responsible for issuing and authenticating this order."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue is the signatory official responsible for the issuance of this regulatory order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1662",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "governing authority",
+          "order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "signatory official",
+          "regulatory order"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        53,
+        55,
+        123,
+        201,
+        2762
+      ],
+      "source_file": "customs_sros_OCR/20250602_228-AIN_2025_50_Customs/20250602_228-AIN_2025_50_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_6",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the governing authority responsible for issuing this customs order."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman is the designated official authorized to sign and authenticate this legal instrument on behalf of the Board."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_624",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "customs order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman",
+          "legal instrument"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        41,
+        201,
+        348,
+        456
+      ],
+      "source_file": "customs_sros_OCR/20150701_206-AIN_2015_43-Customs/20150701_206-AIN_2015_43-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_7",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nমোঃ নজিবুর রহমান\nচেয়ারম্যান",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue serves as the issuing authority for this regulatory order."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman acts as the signatory official representing the National Board of Revenue for the validation of this order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_815",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "regulatory order"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman",
+          "National Board of Revenue",
+          "order"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        53,
+        55,
+        201,
+        348
+      ],
+      "source_file": "customs_sros_OCR/20170601_146-AIN_/20170601_146-AIN__output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_7",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে\n\nআবু হেনা মোঃ রহমাতুল মুনিম\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the primary authority responsible for issuing official orders and administrative directives in matters of taxation and customs."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman acts as the official signatory and head of the National Board of Revenue for the authentication of legal or administrative orders."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1382",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "official orders",
+          "administrative directives",
+          "taxation",
+          "customs"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "official signatory",
+          "head of the National Board of Revenue",
+          "legal orders",
+          "administrative orders"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        21,
+        123,
+        186,
+        201,
+        397,
+        574,
+        887,
+        4105,
+        4269
+      ],
+      "source_file": "customs_sros_OCR/20240314_./20240314_._output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষরকারী কর্তৃপক্ষ",
+      "text_id": "metadata_8",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\nআবু হেনা মোঃ রহমাতুল মুনিম\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authorized body under whose order this instrument is issued."
+        ],
+        "Chairman of the National Board of Revenue": [
+          "The Chairman of the National Board of Revenue serves as the signing authority for the official issuance of this statutory regulatory order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1367",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "instrument"
+        ],
+        "Chairman of the National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "statutory regulatory order"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        15,
+        201,
+        596
+      ],
+      "source_file": "customs_sros_OCR/20230611_S.R.O./20230611_S.R.O._output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

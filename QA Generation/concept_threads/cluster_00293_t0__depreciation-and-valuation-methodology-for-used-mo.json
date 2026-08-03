@@ -1,0 +1,367 @@
+{
+  "cluster_id": 293,
+  "cluster_label": "used motor vehicles",
+  "thread_index": 0,
+  "thread_id": "cluster_00293_t0",
+  "title": "Depreciation and Valuation Methodology for Used Motor Vehicles",
+  "summary": "The valuation framework for used and reconditioned vehicles evolved from a flat consolidated depreciation rate to a tiered, age-based depreciation structure. Initially, the policy applied a fixed 25% depreciation on the average market value, but this was later replaced by a more granular, progressive scale based on the vehicle's age to better reflect market reality.",
+  "evolution": {
+    "depreciation_model": "Transitioned from a flat consolidated rate (25%) to a progressive, age-specific tiered rate.",
+    "eligibility_scope": "Expanded the age limit for depreciation eligibility from 3 years to 5 years."
+  },
+  "timeline": [
+    {
+      "date": "2011-06-09",
+      "instrument": "SRO 167-Law/2011",
+      "change": "Established a consolidated 25% depreciation rate on the average market value for vehicles up to 3 years old.",
+      "clause_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "date": "2012-06-07",
+      "instrument": "SRO 162-Law/2012",
+      "change": "Extended the eligibility for the 25% consolidated depreciation rate to vehicles up to 5 years old.",
+      "clause_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "date": "2017-07-01",
+      "instrument": "SRO 2017",
+      "change": "Shifted from a flat 25% consolidated depreciation to a progressive, year-based depreciation schedule for vehicles up to 5 years old.",
+      "clause_ids": [
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+      "resolved_text": "১। ব্যবহৃত, পুরাতন বা পুনঃসংস্কৃত (reconditioned) মোটর গাড়ি ও যানবাহন জাপান হইতে আমদানি করা হইলে জাপানে প্রকাশিত হালনাগাদকৃত Yellow Book এবং জাপান ব্যতীত অন্য কোন দেশ হইতে আমদানি করা হইলে, ক্ষেত্রমত, হালনাগাদকৃত Glass's Guide, Magazine Automobiles বা আন্তর্জাতিকভাবে স্বীকৃত অনুরূপ কোন জার্নালে প্রকাশিত গাড়ির সকল কোড মডেলের গড় মূল্য হইতে ১০% বিয়োজন এবং গাড়ির সরাসরি গড় মূল্যের উপর অনধিক ৩ (তিন) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ির জন্য সর্বসাকুল্যে (consolidated) ২৫% অবচয় প্রদান করিয়া প্রাপ্ত মূল্য :\n\nতবে শর্ত থাকে যে, পুরাতন, ব্যবহৃত বা পুনঃসংস্কৃত মোটর গাড়ি ও যানবাহন হিসাবে বিবেচিত হইতে হইলে, সংশ্লিষ্ট গাড়ির প্রথম রেজিস্ট্রেশনের তারিখ ও রেজিস্ট্রেশন বাতিলের মধ্যকার সময়সীমা ন্যূনতম ৩৬৫ (তিনশত পঁয়ষট্টি) দিন হইতে হইবে এবং উহা ন্যূনতম ১০০০ (এক হাজার) কিলোমিটার চালিত হইতে হইবে, যাহার প্রমাণস্বরূপ গাড়ি শুল্কায়নকালে জাপান হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate ও Japan Auto Appraisal Institute (JAAI) কর্তৃক ইস্যুকৃত গাড়ির বয়স সংক্রান্ত সনদপত্র এবং জাপান ব্যতীত অন্যান্য দেশ হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশনে দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Imports": [
+          "This instrument establishes a method for determining the customs value of imported used, old, or reconditioned motor vehicles by referencing international valuation journals and applying specific depreciation rates.",
+          "The depreciation is calculated by taking the average price from specified valuation journals, deducting a percentage, and applying a consolidated depreciation rate for vehicles within a certain age threshold."
+        ],
+        "Certificate": [
+          "To qualify as a used or reconditioned vehicle for valuation purposes, the importer must submit a Registration Cancellation Certificate to the relevant customs office or customs station.",
+          "For vehicles imported from Japan, an additional age-related certificate issued by the Japan Auto Appraisal Institute is required as proof of vehicle status."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1327",
+      "entity_sub_entities": {
+        "Motor Vehicle Imports": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "international valuation journals",
+          "depreciation rates",
+          "average price"
+        ],
+        "Certificate": [
+          "Registration Cancellation Certificate",
+          "customs office",
+          "customs station",
+          "age-related certificate",
+          "Japan Auto Appraisal Institute"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        188,
+        293,
+        1183,
+        1447,
+        2441,
+        2816,
+        4379,
+        5878,
+        7222,
+        9236
+      ],
+      "source_file": "customs_sros_OCR/20110609_167-AIN_2011_2354-Customs/20110609_167-AIN_2011_2354-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+      "resolved_text": "১। ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত (reconditioned) মোটর গাড়ি ও যানবাহন জাপান হইতে আমদানি করা হইলে জাপানে প্রকাশিত হালনাগাদকৃত Yellow Book এবং জাপান ব্যতীত অন্য কোন দেশ হইতে আমদানি করা হইলে, ক্ষেত্রমত, হালনাগাদকৃত Glass's Guide, Magazine Automobiles বা আন্তর্জাতিকভাবে স্বীকৃত অনুরূপ কোন জার্নালে প্রকাশিত গাড়ির সকল কোড মডেলের গড় মূল্য হইতে ১০% বিয়োজন এবং গাড়ির সরাসরি গড় মূল্যের উপর অনধিক ৫ (পাঁচ) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ির জন্য সর্বসাকল্যে (consolidated) ২৫% অবচয় প্রদান করিয়া প্রাপ্ত মূল্য :\n\nতবে শর্ত থাকে যে, পুরাতন, ব্যবহৃত বা পুনঃসংস্কারকৃত মোটর গাড়ি ও যানবাহন হিসাবে বিবেচিত হইতে হইলে, সংশ্লিষ্ট গাড়ির প্রথম রেজিস্ট্রেশনের তারিখ ও রেজিস্ট্রেশন বাতিলের তারিখের মধ্যকার সময়সীমা ন্যূনতম ৩৬৫ (তিনশত পঁয়ষট্টি) দিন হইতে হইবে এবং উহা ন্যূনতম ১০০০ (এক হাজার) কিলোমিটার চালিত হইতে হইবে, যাহার প্রমাণস্বরূপ গাড়ি শুল্কায়নকালে জাপান হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate ও Japan Auto Appraisal Institute (JAAI) কর্তৃক ইস্যুকৃত গাড়ির বয়স সংক্রান্ত সনদপত্র এবং জাপান ব্যতীত অন্যান্য দেশ হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস্ স্টেশনে দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicles": [
+          "The customs valuation for used, old, or reconditioned motor vehicles is determined by applying a percentage depreciation to the average value published in internationally recognized guides such as the Yellow Book, Glass's Guide, or Magazine Automobiles.",
+          "To qualify as a used or reconditioned motor vehicle for valuation purposes, the vehicle must have a minimum age of one year between its initial registration and cancellation, and it must have been driven for at least a minimum distance.",
+          "Importers must submit valid documentation, including the registration cancellation certificate and, in the case of imports from Japan, an age certificate issued by the Japan Auto Appraisal Institute, to the customs station at the time of clearance."
+        ],
+        "Certificate": [
+          "A Registration Cancellation Certificate is a mandatory document required for the clearance of imported used or reconditioned motor vehicles.",
+          "For vehicles imported from Japan, an additional age-related certificate issued by the Japan Auto Appraisal Institute is required to be submitted to the customs authority."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1354",
+      "entity_sub_entities": {
+        "Motor Vehicles": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "Yellow Book",
+          "Glass's Guide",
+          "Magazine Automobiles",
+          "registration cancellation certificate",
+          "age certificate",
+          "Japan Auto Appraisal Institute"
+        ],
+        "Certificate": [
+          "Registration Cancellation Certificate",
+          "age-related certificate",
+          "Japan Auto Appraisal Institute"
+        ]
+      },
+      "clause_clusters": [
+        188,
+        293,
+        373,
+        1447,
+        2065,
+        2328,
+        2441,
+        2816,
+        3382,
+        4316
+      ],
+      "source_file": "customs_sros_OCR/20120607_162-AIN_2012_2390-Customs/20120607_162-AIN_2012_2390-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1",
+      "resolved_text": "১। ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত (reconditioned) মোটর গাড়ি ও যানবাহন জাপান হইতে আমদানি করা হইলে জাপানে প্রকাশিত হালনাগাদকৃত Yellow Book এবং জাপান ব্যতীত অন্য কোন দেশ হইতে আমদানি করা হইলে, ক্ষেত্রমত, হালনাগাদকৃত Glass's Guide, Automobiles Magazine বা আন্তর্জাতিকভাবে স্বীকৃত অনুরূপ কোন জার্নালে প্রকাশিত গাড়ির সকল কোড মডেলের গড় মূল্যের উপর অনধিক ৫ (পাঁচ) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ির জন্য নিম্নবর্ণিত হারে বৎসর ভিত্তিক অবচয় সুবিধা প্রযোজ্য হইবে, যথা:-\n\n(ক) ১ (এক) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - ০%\n\n(খ) ১ (এক) বৎসরের অধিক হইতে ২ (দুই) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - ১৫%\n\n(গ) ২ (দুই) বৎসরের অধিক হইতে ৩ (তিন) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - ২৫%\n\n(ঘ) ৩ (তিন) বৎসরের অধিক হইতে ৪ (চার) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - ৩৫%\n\n(ঙ) ৪ (চার) বৎসরের অধিক হইতে ৫ (পাঁচ) বৎসর পর্যন্ত পুরাতন বা রিকন্ডিশন্ড গাড়ি ও যানবাহনের জন্য - ৪০%:\n\nতবে শর্ত থাকে যে, পুরাতন, ব্যবহৃত বা পুনঃসংস্কারকৃত মোটর গাড়ি ও যানবাহন হিসাবে বিবেচিত হইতে হইলে, সংশ্লিষ্ট গাড়ির প্রথম রেজিষ্ট্রেশনের তারিখ ও রেজিষ্ট্রেশন বাতিলের তারিখের মধ্যবর্তী সময়সীমা ন্যূনতম ৩৬৫ (তিনশত পঁয়ষট্টি) দিন হইতে হইবে এবং উহা ন্যূনতম ১০০০ (এক হাজার) কিলোমিটার চালিত হইতে হইবে, যাহার প্রমাণস্বরূপ গাড়ি শুল্কায়নকালে-\n\n(অ) জাপান হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate ও Japan Auto Appraisal Institute (JAAI) কর্তৃক ইস্যুকৃত গাড়ির বয়স সংক্রান্ত সনদপত্র; এবং\n\n(আ) জাপান ব্যতীত অন্যান্য দেশ হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশনে দাখিল করিতে হইবে।\n\nব্যাখ্যা।- সংশ্লিষ্ট মোটর গাড়ির প্রথম রেজিস্ট্রেশনের তারিখ উল্লেখ না থাকিলে যে মাসে গাড়িটি প্রথম রেজিস্ট্রেশন করা হইয়াছিল সেই মাসের পরবর্তী মাসের প্রথম তারিখকে এই দফার উদ্দেশ্য পূরণকল্পে রেজিস্ট্রেশনের তারিখ হিসাবে গণ্য করিতে হইবে।",
+      "entity_concepts": {
+        "Used or Reconditioned Motor Vehicles": [
+          "The depreciation rates for used or reconditioned motor vehicles are calculated based on their age using specific internationally recognized price publications.",
+          "To qualify for depreciation, a vehicle must have been registered for at least one year and driven for a minimum distance.",
+          "Evidence of vehicle age and registration status, such as a Registration Cancellation Certificate or an age certificate from an appraisal institute, must be submitted during the customs clearance process."
+        ],
+        "Certificate": [
+          "Importers must provide a Registration Cancellation Certificate and, for vehicles imported from specific countries, an age-related certificate from an appraisal authority to confirm the vehicle's eligibility for depreciation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1821",
+      "entity_sub_entities": {
+        "Used or Reconditioned Motor Vehicles": [
+          "used motor vehicles",
+          "reconditioned motor vehicles",
+          "Registration Cancellation Certificate",
+          "age certificate"
+        ],
+        "Certificate": [
+          "Registration Cancellation Certificate",
+          "age-related certificate"
+        ]
+      },
+      "clause_clusters": [
+        188,
+        293,
+        1447,
+        2300,
+        2441,
+        3382
+      ],
+      "source_file": "customs_sros_OCR/20170701_218-AIN_/20170701_218-AIN__output.json",
+      "clause_date": "2017-07-01"
+    }
+  ],
+  "num_static_replicated_objects": 4,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_4",
+      "resolved_text": "৪। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য অনুচ্ছেদ ১ ও ২ এর পদ্ধতি অনুসরণে নিরূপিত ন্যূনতম মূল্য অপেক্ষা বেশী হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Imports": [
+          "For used, old, or reconditioned motor vehicles, the customs assessment must be based on the declared value if that value exceeds the established minimum valuation criteria.",
+          "In cases where the declared value is higher than the prescribed minimum, the depreciation allowance is denied, and customs duties are calculated on the full declared amount."
+        ],
+        "Customs Valuation": [
+          "The assessment of duties for used or reconditioned vehicles is subject to specific valuation procedures that prioritize the declared value when it surpasses the set minimum threshold."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1330",
+      "entity_sub_entities": {
+        "Motor Vehicle Imports": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "declared value",
+          "minimum valuation criteria",
+          "depreciation allowance",
+          "customs duties"
+        ],
+        "Customs Valuation": [
+          "used vehicles",
+          "reconditioned vehicles",
+          "declared value",
+          "minimum threshold"
+        ]
+      },
+      "clause_clusters": [
+        14,
+        233,
+        293,
+        484,
+        508,
+        1834,
+        2868,
+        3308,
+        4379
+      ],
+      "source_file": "customs_sros_OCR/20110609_167-AIN_2011_2354-Customs/20110609_167-AIN_2011_2354-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য অনুচ্ছেদ ১ ও ২ এর পদ্ধতি অনুসরণে নিরূপিত ন্যূনতম মূল্য অপেক্ষা বেশী হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicles": [
+          "For imported used, old, or reconditioned motor vehicles, if the declared value exceeds the determined minimum value calculated through established methods, the customs assessment must be conducted based on the declared value without applying depreciation benefits."
+        ],
+        "Customs Valuation": [
+          "The assessment process dictates that if the declared value of a used or reconditioned vehicle is higher than the minimum threshold established by standard procedures, the duty is to be calculated using the declared value rather than providing depreciation concessions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1357",
+      "entity_sub_entities": {
+        "Motor Vehicles": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "declared value",
+          "determined minimum value"
+        ],
+        "Customs Valuation": [
+          "declared value",
+          "used vehicle",
+          "reconditioned vehicle",
+          "minimum threshold",
+          "duty",
+          "depreciation concessions"
+        ]
+      },
+      "clause_clusters": [
+        109,
+        233,
+        293,
+        373,
+        484,
+        508,
+        1834,
+        2868,
+        3837
+      ],
+      "source_file": "customs_sros_OCR/20120607_162-AIN_2012_2390-Customs/20120607_162-AIN_2012_2390-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20130606_149-AIN_2013_2436-Customs_০৬ জুন, ২০১৩_clause_3",
+      "resolved_text": "৩। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য শর্ত ১ ও ২ এর পদ্ধতি অনুসরণে নিরূপিত ন্যূনতম মূল্য অপেক্ষা বেশী হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Importation": [
+          "For used, old, or reconditioned motor vehicles, if the declared value exceeds the determined minimum value, customs assessment must be conducted based on the declared value without applying any depreciation benefits."
+        ],
+        "Customs Valuation": [
+          "The assessment process requires comparing the declared value of imported used or reconditioned vehicles against a prescribed minimum value to determine the applicable tax base."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1417",
+      "entity_sub_entities": {
+        "Motor Vehicle Importation": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "declared value",
+          "determined minimum value",
+          "depreciation benefits"
+        ],
+        "Customs Valuation": [
+          "declared value",
+          "imported used vehicles",
+          "reconditioned vehicles",
+          "prescribed minimum value",
+          "tax base"
+        ]
+      },
+      "clause_clusters": [
+        233,
+        293,
+        484,
+        508,
+        1834,
+        2390,
+        3308,
+        3837,
+        4378,
+        5001
+      ],
+      "source_file": "customs_sros_OCR/20130606_149-AIN_2013_2436-Customs/20130606_149-AIN_2013_2436-Customs_output.json",
+      "clause_date": "2013-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_3",
+      "resolved_text": "৩। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য শর্ত ১ ও ২ এর পদ্ধতি অনুসরণক্রমে নিরূপিত ন্যূনতম মূল্য অপেক্ষা অধিক হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Valuation": [
+          "In cases where the declared value of imported used, old, or refurbished motor vehicles exceeds the minimum value determined by the specified conditions, the customs duty assessment must be based on the declared value without applying any depreciation benefits."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1823",
+      "entity_sub_entities": {
+        "Motor Vehicle Valuation": [
+          "imported used motor vehicles",
+          "old motor vehicles",
+          "refurbished motor vehicles",
+          "declared value",
+          "minimum value",
+          "customs duty assessment",
+          "depreciation benefits"
+        ]
+      },
+      "clause_clusters": [
+        293,
+        429,
+        484,
+        1834,
+        2390,
+        2874,
+        6898
+      ],
+      "source_file": "customs_sros_OCR/20170701_218-AIN_/20170701_218-AIN__output.json",
+      "clause_date": "2017-07-01"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "group_id": "cluster_00010_t0__X__cluster_00022_t0",
+  "entities": [
+    "Customs Duty",
+    "Value Added Tax and Supplementary Duty Act 2012"
+  ],
+  "cluster_ids": [
+    10,
+    22
+  ],
+  "thread_ids": [
+    "cluster_00010_t0",
+    "cluster_00022_t0"
+  ],
+  "num_shared_clauses": 29,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the Customs Act 2023 and the Value Added Tax and Supplementary Duty Act 2012 jointly function to facilitate industrial and infrastructure exemptions in the public interest?",
+      "answer": "The government, in consultation with the National Board of Revenue, exercises its powers under Section 25(1) of the Customs Act 2023 and Section 126(1) of the Value Added Tax and Supplementary Duty Act 2012 simultaneously to grant exemptions in the public interest for sectors such as power generation, economic zones, and high-tech parks.",
+      "entities_involved": [
+        "Customs Duty",
+        "Value Added Tax and Supplementary Duty Act 2012"
+      ],
+      "clause_text_ids": [
+        "20240606_182-AIN_2024_34_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_183-AIN_2024_35_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_184-AIN_2024_36_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_185-AIN_2024_37_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_188-AIN_2024_40_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Which legal provisions are cited when the government grants duty and tax exemptions for local production of goods like washing machines or pre-fabricated buildings?",
+      "answer": "Exemptions for local production are granted by invoking both Section 25(1) of the Customs Act 2023 and Section 126(1) of the Value Added Tax and Supplementary Duty Act 2012, as referenced in SROs such as No. 193 and No. 195 of 2024.",
+      "entities_involved": [
+        "Customs Duty",
+        "Value Added Tax and Supplementary Duty Act 2012"
+      ],
+      "clause_text_ids": [
+        "20240606_193-AIN_2024_45_Customs_২০২৪-০৫-২৯_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    }
+  ]
+}

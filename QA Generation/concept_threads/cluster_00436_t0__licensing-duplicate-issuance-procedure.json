@@ -1,0 +1,181 @@
+{
+  "cluster_id": 436,
+  "cluster_label": "written application",
+  "thread_index": 0,
+  "thread_id": "cluster_00436_t0",
+  "title": "Licensing Duplicate Issuance Procedure",
+  "summary": "The procedure for obtaining a duplicate license evolved from a fixed fee-based system to a digital payment-based system with increased costs.",
+  "evolution": {
+    "fee_structure": "Increased from 2,500 BDT to 10,000 BDT.",
+    "payment_method": "Shifted from general fee payment to mandatory e-challan."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "Customs Agents Licensing Rules 2016",
+      "change": "Established a 2,500 BDT fee and a requirement for a General Diary (GD) copy for lost licenses.",
+      "clause_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Express Service Provider Rules 2024",
+      "change": "Increased the fee to 10,000 BDT and mandated payment via e-challan.",
+      "clause_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "লাইসেন্সের অনুলিপি প্রদান",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_12",
+      "resolved_text": "১২। লাইসেন্সের অনুলিপি প্রদান।— (১) লাইসেন্স হারাইয়া গেলে বা যে কোন প্রকারে নষ্ট হইয়া গেলে সংশ্লিষ্ট কাস্টমস এজেন্ট ২,৫০০/- (দুই হাজার পাঁচশত) টাকা ফি পরিশোধপূর্বক লিখিত আবেদন করিলে লাইসেন্সিং কর্তৃপক্ষ লাইসেন্সের একটি অবিকল নকল প্রদান করিবে।\n\n(২) এই বিধিমালার অধীন প্রদত্ত লাইসেন্স হারাইয়া গেলে সংশ্লিষ্ট থানায় সাধারণ ডায়েরী করিতে হইবে এবং উহার একটি অনুলিপি আবেদনের সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A customs agent is entitled to obtain a duplicate copy of their license if the original is lost or damaged upon submission of a written application and payment of the prescribed fee.",
+          "The customs agent is required to file a formal police report regarding the loss of their license and must submit a copy of this report along with their application for a duplicate."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is empowered to issue a duplicate license to a customs agent once the mandatory fee is paid and the required procedural conditions, such as filing a police report, are satisfied."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1668",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "customs agent",
+          "duplicate copy of their license",
+          "original license",
+          "written application",
+          "prescribed fee",
+          "formal police report"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "duplicate license",
+          "customs agent",
+          "mandatory fee",
+          "procedural conditions",
+          "police report"
+        ]
+      },
+      "clause_clusters": [
+        43,
+        92,
+        436,
+        1093,
+        1522,
+        1726,
+        1742,
+        7496,
+        8292,
+        9680,
+        10729
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "লাইসেন্সের অনুলিপি প্রদান",
+      "text_id": "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "৭। লাইসেন্সের অনুলিপি প্রদান।— লাইসেন্স হারাইয়া গেলে বা কোনো প্রকারে নষ্ট হইয়া গেলে সংশ্লিষ্ট এক্সপ্রেস সার্ভিস প্রতিষ্ঠান কর্তৃক ১০ (দশ) হাজার টাকার এ-চালান লাইসেন্সিং কর্তৃপক্ষ বরাবর দাখিলপূর্বক লিখিত আবেদন করা হইলে লাইসেন্সিং কর্তৃপক্ষ লাইসেন্সের একটি অবিকল নকল প্রদান করিবে।",
+      "entity_concepts": {
+        "Express Service Provider License": [
+          "If a license is lost or damaged, the Express Service Provider must submit a written application to the licensing authority along with a prescribed fee paid through the e-Challan system to obtain a duplicate copy."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is responsible for issuing a duplicate copy of the license upon receiving a formal request and the required payment from an express service provider."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2746",
+      "entity_sub_entities": {
+        "Express Service Provider License": [
+          "license",
+          "written application",
+          "licensing authority",
+          "prescribed fee",
+          "e-Challan system",
+          "duplicate copy"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "duplicate copy",
+          "license",
+          "formal request",
+          "required payment",
+          "express service provider"
+        ]
+      },
+      "clause_clusters": [
+        43,
+        84,
+        271,
+        436,
+        1093,
+        1645,
+        2012,
+        2057,
+        3260,
+        7584
+      ],
+      "source_file": "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 1,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "লাইসেন্সের অনুলিপি প্রদান",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "৭। লাইসেন্সের অনুলিপি প্রদান।— লাইসেন্স হারাইয়া গেলে বা কোনো প্রকারে নষ্ট হইয়া গেলে সংশ্লিষ্ট এক্সপ্রেস সার্ভিস প্রতিষ্ঠান কর্তৃক ১০ (দশ) হাজার টাকার এ-চালান লাইসেন্সিং কর্তৃপক্ষ বরাবর দাখিলপূর্বক লিখিত আবেদন করা হইলে লাইসেন্সিং কর্তৃপক্ষ লাইসেন্সের একটি অবিকল নকল প্রদান করিবে।",
+      "entity_concepts": {
+        "Licensing Authority": [
+          "The Licensing Authority is responsible for issuing a duplicate copy of a license upon receiving a formal written application and the required fees from an express service provider when a license is lost or destroyed."
+        ],
+        "Express Service Provider": [
+          "In the event of a lost or damaged license, an express service provider must submit a written application to the Licensing Authority along with the specified fee via the authorized government treasury portal to obtain a replacement."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1202",
+      "entity_sub_entities": {
+        "Licensing Authority": [
+          "duplicate copy of a license",
+          "formal written application",
+          "required fees"
+        ],
+        "Express Service Provider": [
+          "lost or damaged license",
+          "written application",
+          "specified fee",
+          "authorized government treasury portal",
+          "replacement"
+        ]
+      },
+      "clause_clusters": [
+        43,
+        271,
+        436,
+        2746,
+        3093,
+        3260,
+        5805,
+        9627,
+        11451,
+        11485
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    }
+  ]
+}

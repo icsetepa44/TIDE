@@ -1,0 +1,173 @@
+{
+  "thread_id": "cluster_00781_t0",
+  "cluster_id": 781,
+  "cluster_label": "Ministry of Industries",
+  "title": "Shift in Ministry of Industries Role from Approval Authority to Committee Member",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the role of the Ministry of Industries shift in the context of industrial application approvals between 2016 and 2025?",
+      "answer": "In 2016, under SRO 2016, the Ministry of Industries acted as the primary authority responsible for receiving, verifying, and granting approvals for industrial applications. By 2017 and continuing through 2025, the role evolved into that of a consultative committee member, where the Ministry provides a representative to participate in multi-agency site inspections and verification processes led by the National Board of Revenue.",
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What procedural changes occurred regarding the verification of industrial applications from 2016 to the 2025 committee structure?",
+      "answer": "The process moved from a centralized model in 2016 where the Ministry of Industries independently verified and approved applications within 15 working days, to a collaborative model. As established by SRO 2017, SRO 2019, SRO 2022, and SRO 2025, the focus shifted to a committee-based inspection system where representatives from the National Board of Revenue, VAT departments, the Ministry of Industries, and eventually public universities conduct physical site verifications before duty concessions are granted.",
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_3",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the composition of the inspection committee evolved to include more diverse expertise by 2025?",
+      "answer": "While early committee models (e.g., SRO 2017, SRO 2019) focused on internal government coordination between the National Board of Revenue, VAT officials, and the Ministry of Industries, the structure was further refined by 2025. According to SRO 2025, the committee now explicitly includes a representative from a public university in Bangladesh alongside the standard members, indicating a shift toward incorporating academic or external technical expertise in the evaluation of industrial applications.",
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_3",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the responsibility for receiving industrial applications change from the Ministry of Industries to the National Board of Revenue?",
+      "answer": "The transition from the Ministry of Industries serving as the primary authority (as seen in SRO 2016) to the National Board of Revenue (NBR) taking the lead (as seen in SRO 2017 and subsequent SROs) suggests a shift in oversight toward a revenue-centric verification model. This change ensures that the agency responsible for granting duty concessions—the NBR—directly manages the application process and the committee responsible for confirming the legitimacy of industrial manufacturing sites.",
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What does the evolution of the Ministry of Industries' role from 'primary authority' to 'mandatory committee member' imply about the industrial approval process?",
+      "answer": "This evolution implies a move toward a more integrated, multi-agency approach to industrial oversight. By transitioning from a sole decision-maker model in 2016 to a mandatory committee member role by 2025, the Ministry of Industries retains a consultative influence in verifying industrial operations, while the overall process is now governed by a collaborative framework that balances industrial policy with customs and VAT compliance.",
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer intending to import raw materials at concessional rates submitted an application to the Secretary of the Ministry of Industries in May 2016. In June 2025, a new manufacturer seeking the same benefits follows the current regulatory process.",
+      "question": "How has the authority responsible for receiving and approving these applications changed for these two manufacturers between 2016 and 2025?",
+      "answer": "In 2016, the Secretary of the Ministry of Industries acted as the primary authority to receive and approve applications. By 2025, the National Board of Revenue (NBR) is the authority responsible for receiving applications, while the Ministry of Industries' role has shifted to providing a representative as part of a multi-agency committee for verification.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A motorcycle manufacturer operated under the rules established in 2016, where they dealt directly with the Ministry of Industries. A refrigerator manufacturer later seeks similar duty concessions under the 2022 framework.",
+      "question": "Regarding the verification of the manufacturer's eligibility, what is the fundamental difference in the Ministry of Industries' involvement between the 2016 motorcycle rules and the 2022 refrigerator rules?",
+      "answer": "Under the 2016 rules, the Ministry of Industries was the sole authority responsible for verifying and approving the application. Under the 2022 rules, the Ministry of Industries no longer holds sole approval power; instead, it serves as a consultative member within a committee led by the National Board of Revenue.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2022-06-28"
+      ],
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "one year later",
+      "question": "In 2016-06-02, the Ministry of Industries Secretary acted as the primary authority for industrial approvals. What changed regarding the Ministry's role one year later?",
+      "answer": "In 2017-06-01 (SRO 2017), the authority shifted to an NBR-led committee model, moving the Ministry of Industries from being the primary approval authority to providing a representative for site verification.",
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_6",
+        "20170601_155-AIN__1 June, 2017_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "six years later",
+      "question": "Following the 2019-05-30 formalization of the Ministry of Industries representative's role in compressor manufacturing inspections, what was the status of this committee structure six years later?",
+      "answer": "In 2025-06-02 (SRO 2025), the committee structure was standardized, explicitly listing the Ministry of Industries representative as a mandatory member alongside NBR officials and a public university representative.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_3",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Ministry of Industries representative is explicitly listed as a mandatory member of the application review committee alongside a representative from a public university.",
+        "The Ministry of Industries Secretary acts as the primary authority responsible for receiving applications and granting approvals for import and local production.",
+        "A committee model is introduced where the National Board of Revenue leads the review process, with the Ministry of Industries providing a representative to participate in site verification.",
+        "The committee composition is refined to specify the Ministry of Industries representative as a standard member alongside National Board of Revenue officials for refrigerator and freezer industry applications."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Ministry of Industries Secretary acts as the primary authority responsible for receiving applications and granting approvals for import and local production.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "A committee model is introduced where the National Board of Revenue leads the review process, with the Ministry of Industries providing a representative to participate in site verification.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The committee composition is refined to specify the Ministry of Industries representative as a standard member alongside National Board of Revenue officials for refrigerator and freezer industry applications.",
+          "date": "2022-06-28"
+        },
+        {
+          "event": "The Ministry of Industries representative is explicitly listed as a mandatory member of the application review committee alongside a representative from a public university.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_4",
+        "20170601_155-AIN__1 June, 2017_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_3",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_155-AIN_2016_17-Customs/20160602_155-AIN_2016_17-Customs_output.json",
+        "customs_sros_OCR/20170601_155-AIN_/20170601_155-AIN__output.json",
+        "customs_sros_OCR/20220628_199-_2022_107/20220628_199-_2022_107_output.json",
+        "customs_sros_OCR/20250602_194-AIN_2025_16_Customs/20250602_194-AIN_2025_16_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00781_t0__shift-in-ministry-of-industries-role-from-approval.json"
+    }
+  ]
+}

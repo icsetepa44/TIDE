@@ -1,0 +1,225 @@
+{
+  "thread_id": "cluster_00063_t1",
+  "cluster_id": 63,
+  "cluster_label": "documentation",
+  "title": "Authorized Economic Operator (AEO) Documentation Requirements",
+  "source_num_member_objects": 7,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the standardized template for notifying applicants of deficiencies in their AEO documentation?",
+      "options": [
+        "PCA Manual (2023-09-27)",
+        "AEO Center Directive (2024-06-13)",
+        "AEO Guidelines (2025-02-16)",
+        "Authorized Economic Operator (Recognition and Management) Rules 2024"
+      ],
+      "answer_index": 1,
+      "answer": "AEO Center Directive (2024-06-13)",
+      "explanation": "The AEO Center Directive dated 2024-06-13 introduced 'Form-Ga' (ফরম-গ), which provides the standardized template for notifying applicants about information or documentation gaps.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_34",
+        "20250217_2024_2024-06-06_clause_60",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When were specific documentation requirements regarding IT outsourcing and Tier-3 advancement applications first introduced?",
+      "options": [
+        "2023-09-27",
+        "2024-06-13",
+        "2025-02-16",
+        "2025-02-17"
+      ],
+      "answer_index": 2,
+      "answer": "2025-02-16",
+      "explanation": "The AEO Guidelines issued on 2025-02-16 introduced requirements for detailed IT outsourcing documentation and the formal application process for Tier-3 status.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_34",
+        "20250217_2024_2024-06-06_clause_60",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "According to the 2023-09-27 PCA Manual, what was the primary focus of the audit documentation framework?",
+      "options": [
+        "Tier-3 advancement criteria",
+        "Standardized deficiency notification templates",
+        "System-based audit documentation and AEO benefits",
+        "IT outsourcing access control management"
+      ],
+      "answer_index": 2,
+      "answer": "System-based audit documentation and AEO benefits",
+      "explanation": "The 2023-09-27 PCA Manual defined the benefits of AEO status and established the framework for system-based audit documentation.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the regulatory framework established by 2025-02-17, what is the consequence of failing to address documentation deficiencies within the specified timeframe?",
+      "options": [
+        "Automatic promotion to Tier-3",
+        "Rejection of the AEO application by the AEO Committee",
+        "Mandatory physical examination at the port",
+        "Immediate suspension of the VAT registration"
+      ],
+      "answer_index": 1,
+      "answer": "Rejection of the AEO application by the AEO Committee",
+      "explanation": "As per the document dated 2025-02-17 (Form-Chha), the AEO Committee is authorized to reject applications if the applicant fails to meet criteria or resolve documentation deficiencies.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_34",
+        "20250217_2024_2024-06-06_clause_60",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the 2023-09-27 PCA Manual, the AEO Center introduced a formal deficiency notification template (Form-G) to notify applicants of missing documentation, requiring them to submit the requested information within 90 days.",
+      "question": "Does the 2023-09-27 PCA Manual contain the formal deficiency notification template for AEO applicants? If not, when was this procedure introduced?",
+      "conflict": "The context attributes the 2024-06-13 deficiency notification template to the 2023-09-27 PCA Manual, which is chronologically incorrect.",
+      "answer": "No, the 2023-09-27 PCA Manual defined system-based audit documentation and AEO benefits but did not include the deficiency notification template. The standardized templates for notifying document deficiencies were introduced later by the AEO Center Directive dated 2024-06-13.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the guidelines established in the 2023-09-27 PCA Manual, applicants seeking to upgrade to Tier-3 status must submit their Business Identification Number and proof of successful Tier-2 operations to the AEO Center.",
+      "question": "Is the requirement for Tier-3 status advancement applications part of the 2023-09-27 framework? Explain the correct timeline for this requirement.",
+      "conflict": "The context incorrectly places the Tier-3 advancement application requirement in the 2023-09-27 manual, whereas it was introduced in the 2025-02-16 AEO Guidelines.",
+      "answer": "No, the Tier-3 advancement application process was not part of the 2023-09-27 PCA Manual. This requirement was introduced in the 2025-02-16 AEO Guidelines and the accompanying Form-T, which governs the upgrade process from Tier-2 to Tier-3 status.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_34",
+        "20250217_2024_2024-06-06_clause_60",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An entity has been operating as an AEO since 2023. In early 2025, they decide to apply for Tier-3 status. They are reviewing their internal documentation to ensure they meet the latest requirements, specifically regarding their IT infrastructure and the management of their outsourced computer applications.",
+      "question": "How has the documentation requirement for IT and computer application management evolved for an AEO applicant between the 2023 audit framework and the 2025 Tier-3 application guidelines?",
+      "answer": "While the 2023 audit framework focused on verifying whether an entity used internal software (like ERP/SAP), the 2025 Guidelines introduced specific requirements to document outsourced computer applications, including details of suppliers, access control management, and written procedures for managing such outsourcing.",
+      "clauses_involved": [
+        "2023-09-27",
+        "2025-02-16"
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_34",
+        "20250217_2024_2024-06-06_clause_60",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An applicant submitted their initial AEO application in early 2024. During the review process, they received a formal notification from the AEO Center regarding missing documentation. The applicant is now preparing to apply for Tier-3 status in 2025 and wants to know if the process for handling missing information has changed since their 2024 experience.",
+      "question": "Has the procedural mechanism for notifying applicants of documentation deficiencies changed between the 2024 directive and the 2025 rules?",
+      "answer": "No, the procedure remains consistent; the AEO Center continues to use a standardized formal notification process (Form-Ga) to inform applicants of specific deficiencies and mandates a timeframe for the submission of the required information or documentation.",
+      "clauses_involved": [
+        "2024-06-13",
+        "2025-02-17"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_34",
+        "20250217_2024_2024-06-06_clause_60",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-09-27",
+      "relative_offset": "less than a year later",
+      "question": "Starting from the 2023-09-27 PCA Manual, what procedural change regarding AEO documentation deficiencies was introduced less than a year later?",
+      "answer": "On 2024-06-13, the AEO Center Directive was issued, which standardized formal templates for notifying applicants of deficiencies in their provided documentation or information.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-13",
+      "relative_offset": "eight months later",
+      "question": "Following the AEO Center Directive of 2024-06-13, what major expansion to the AEO documentation and status requirements occurred eight months later?",
+      "answer": "On 2025-02-16, the AEO Guidelines were introduced, which established the application process for Tier-3 status and mandated detailed documentation for IT outsourcing.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_34",
+        "20250217_2024_2024-06-06_clause_60",
+        "20250217_2024_2024-06-06_clause_64"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Introduction of Tier-3 advancement applications and detailed IT outsourcing documentation requirements for applicants.",
+        "Establishment of a system-based audit framework defining AEO benefits and documentation standards.",
+        "Implementation of standardized templates for formal notification of document deficiencies to applicants."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Establishment of a system-based audit framework defining AEO benefits and documentation standards.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "Implementation of standardized templates for formal notification of document deficiencies to applicants.",
+          "date": "2024-06-13"
+        },
+        {
+          "event": "Introduction of Tier-3 advancement applications and detailed IT outsourcing documentation requirements for applicants.",
+          "date": "2025-02-16"
+        }
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_62",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_23"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00063_t1__authorized-economic-operator-aeo-documentation-req.json"
+    }
+  ]
+}

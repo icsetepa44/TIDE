@@ -1,0 +1,185 @@
+{
+  "thread_id": "cluster_00453_t1",
+  "cluster_id": 453,
+  "cluster_label": "custom house",
+  "title": "Procedural Compliance and Enforcement at Custom Houses",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 14,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A shipment of industrial raw materials has been languishing in the bonded warehouse at the Chittagong Custom House for weeks beyond the allowed timeframe. Despite multiple informal reminders, the importer has yet to initiate the final clearance process, leaving the customs authorities with no choice but to consider seizing the goods. Before they proceed with the formal confiscation of the consignment, the authorities must follow strict procedural fairness. What is the minimum notice period the customs authority must provide to the importer before initiating confiscation proceedings?",
+      "question": "What is the minimum notice period the customs authority must provide to the importer before initiating confiscation proceedings?",
+      "answer": "The customs authority must issue a notice providing the importer with a ten-working-day period to complete the clearance process.",
+      "date_or_instrument": "2019-01-21 | NBR Directive",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An established manufacturing firm in Dhaka has recently been contacted by the local Custom House regarding a post-clearance review of a specific bill of entry filed in late 2023. The Commissioner has officially ordered a Transaction Based Audit (PCA) to verify the accuracy of the import declarations and ensure full regulatory adherence. The firm's compliance officer needs to verify the legal basis for this inspection to ensure they are responding to a valid mandate. Under which section of the Customs Act 1969 is the official notice for this audit issued?",
+      "question": "Under which section of the Customs Act 1969 is the official notice for this audit issued?",
+      "answer": "The official notice for a transaction-based audit is issued under Section 83(C) of the Customs Act 1969.",
+      "date_or_instrument": "2023-09-27 | Audit Notification",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer is locked in a long-standing valuation dispute with the customs authorities that has escalated all the way to the Customs, Excise and VAT Appellate Tribunal. Hoping to avoid further litigation costs and lengthy court delays, the company has decided to pursue an Alternative Dispute Resolution (ADR) path for their pending case. The legal team is currently reviewing the procedural timeline to ensure they remain within the statutory limits for the process. What is the maximum duration allowed to complete the Alternative Dispute Resolution (ADR) process for this pending case?",
+      "question": "What is the maximum duration allowed to complete the Alternative Dispute Resolution (ADR) process for this pending case?",
+      "answer": "The maximum duration for completing the resolution process for a dispute pending before the Appellate Tribunal is sixty working days from the date of submission of the application.",
+      "date_or_instrument": "Customs Act 1969 (Undated)",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "customs-act-1969-english_8th March, 1969_clause_226"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A textile company has received a formal notification from the customs audit team requiring them to undergo a comprehensive transaction-based audit. The audit team has requested a complete set of records to verify that the firm’s imports align with their declared business activities and tax incentives. The company’s accountant is now gathering all necessary paperwork to ensure they are fully prepared for the inspection. What specific business information and compliance documentation must the auditee provide?",
+      "question": "What specific business information and compliance documentation must the auditee provide?",
+      "answer": "The auditee must present their business profile, HS codes, declared values, concessional benefits, and evidence of compliance with import policies.",
+      "date_or_instrument": "2023-09-27 | Audit Notification",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Following a disagreement over tariff classification at a major Custom House, an importer has opted for the Alternative Dispute Resolution (ADR) mechanism to settle the matter outside of traditional court proceedings. Both the importer and the customs officials are now entering a phase of structured negotiation to reach a mutually acceptable agreement. To ensure the process does not drag on indefinitely, the regulations impose a strict deadline for concluding these talks. How many working days are allotted to complete the negotiation and resolution process for a dispute originating at the same Custom House?",
+      "question": "How many working days are allotted to complete the negotiation and resolution process for a dispute originating at the same Custom House?",
+      "answer": "A maximum of thirty working days is allotted to complete all formalities, including negotiation and agreement or resolution.",
+      "date_or_instrument": "Customs Act 1969 (Undated)",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "customs-act-1969-english_8th March, 1969_clause_226"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "The customs authorities have identified a batch of unclaimed goods that require immediate clearance or disposal, but they are facing a logistical hurdle. Despite their best efforts to track down the importer of record, the owner’s current business address remains completely unknown to the department. To maintain legal transparency, the customs office must fulfill its obligation to notify the party before taking further action. Where should the notice be displayed if the owner's address is unknown?",
+      "question": "Where should the notice be displayed if the owner's address is unknown?",
+      "answer": "The notice must be displayed on the notice board of the relevant Custom House or Commissionerate.",
+      "date_or_instrument": "2019-01-21 | NBR Directive",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the NBR Directive dated 2019-01-21, importers and exporters are granted a 15-working-day notice period to complete clearance before the state initiates forfeiture of goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "15-working-day",
+      "correct_fact": "10 (ten) working days",
+      "answer": "The statement is inaccurate. Per the 2019-01-21 NBR Directive, the notice period provided to importers or exporters to complete the clearance process before goods are confiscated is 10 (ten) working days.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Transaction Based Audit (PCA) process was formalized by the National Board of Revenue on 2023-09-27.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The Audit Notification dated 2023-09-27 formalized the Transaction Based Audit (PCA) process initiated by Custom House commissioners.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, disputes relating to a specific Custom House or Station must be resolved through the Alternative Dispute Resolution (ADR) process within a maximum of sixty working days.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "sixty working days",
+      "correct_fact": "thirty working days",
+      "answer": "The statement is inaccurate. According to the Customs Act 1969 provisions regarding ADR, disputes relating to the same Custom House or Station must be completed within a maximum of thirty working days from the date of submission of the application.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "customs-act-1969-english_8th March, 1969_clause_226"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "For disputes already pending before the Commissioner (Appeals), the Customs, Excise and VAT Appellate Tribunal, or a Civil Court, the ADR process allows for a duration of sixty working days to complete resolution formalities.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Per the Customs Act 1969, pending disputes submitted to these specific appellate bodies or courts are allotted sixty working days for the resolution process.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "customs-act-1969-english_8th March, 1969_clause_226"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 83(C) of the Customs Act 1969 serves as the legal basis for the Transaction Based Audit process initiated by the Audit Team.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the 2023-09-27 Audit Notification, Section 83(C) of the Act provides the legal basis for issuing notices to conduct transaction-based audits.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "If the owner of an unmanifested goods shipment is unknown, the Customs Authority is required to notify the Lien Bank to initiate the 10-day clearance notice.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Lien Bank",
+      "correct_fact": "the relevant Custom House or Commissionerate's notice board",
+      "answer": "The statement is inaccurate. According to the 2019-01-21 Directive, if the owner's address is unknown for unmanifested goods, the notice must be posted on the notice board of the relevant Custom House or Commissionerate, not the Lien Bank.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer faced a potential forfeiture of goods due to clearance delays in early 2019. Four years later, in late 2023, the same importer is notified by the Commissioner of Customs that their specific bills of entry have been selected for a Transaction Based Audit (PCA).",
+      "question": "How did the legal basis for the notice received by the importer change between the 2019 incident and the 2023 audit?",
+      "answer": "In 2019, notices were issued regarding the forfeiture of goods for failure to clear them within prescribed timeframes; by 2023, the legal framework shifted to Section 83(C) of the Customs Act, 1969, to authorize transaction-based audits.",
+      "clauses_involved": [
+        "2019-01-21 | NBR Directive",
+        "2023-09-27 | Audit Notification"
+      ],
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-01-21",
+      "relative_offset": "four years and eight months later",
+      "question": "Regarding procedural compliance at Custom Houses, what formal audit process was established four years and eight months after the 2019 directive regarding goods forfeiture notices?",
+      "answer": "On 2023-09-27, the Audit Notification was issued, which formalized the Transaction Based Audit (PCA) process initiated by Custom House commissioners under Section 83(C) of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00088_t0__X__cluster_00307_t0",
+  "entities": [
+    "TABLE-2",
+    "tariff values"
+  ],
+  "cluster_ids": [
+    88,
+    307
+  ],
+  "thread_ids": [
+    "cluster_00088_t0",
+    "cluster_00307_t0"
+  ],
+  "num_shared_clauses": 7,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How did the legal authority for establishing 'tariff values' and the structure of 'TABLE-2' evolve from the Customs Act, 1969 to the Customs Act, 2023?",
+      "answer": "Under the Customs Act, 1969, the government exercised power under section 25(3) to issue SROs that included both 'tariff values' for goods in Table-1 and structured frameworks for Table-2 [3, 5]. With the transition to the Customs Act, 2023, the legal authority shifted to section 27(5) to determine 'tariff values' for imported goods subject to customs duty [6].",
+      "entities_involved": [
+        "TABLE-2",
+        "tariff values"
+      ],
+      "clause_text_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_1",
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1",
+        "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    }
+  ]
+}

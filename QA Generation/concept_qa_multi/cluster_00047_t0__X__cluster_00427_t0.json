@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00047_t0__X__cluster_00427_t0",
+  "entities": [
+    "baggage",
+    "household items"
+  ],
+  "cluster_ids": [
+    47,
+    427
+  ],
+  "thread_ids": [
+    "cluster_00047_t0",
+    "cluster_00427_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the legal definition of 'baggage' incorporate 'household items' according to the Customs rules?",
+      "answer": "According to clauses [0], [1], and [2], 'baggage' is defined as a reasonable quantity of food, clothing, household items, or other personal effects imported by a passenger.",
+      "entities_involved": [
+        "baggage",
+        "household items"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    }
+  ]
+}

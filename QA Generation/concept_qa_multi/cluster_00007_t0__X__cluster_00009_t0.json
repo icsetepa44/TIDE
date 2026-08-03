@@ -1,0 +1,50 @@
+{
+  "group_id": "cluster_00007_t0__X__cluster_00009_t0",
+  "entities": [
+    "Commissioner of Customs",
+    "Value Added Tax"
+  ],
+  "cluster_ids": [
+    7,
+    9
+  ],
+  "thread_ids": [
+    "cluster_00007_t0",
+    "cluster_00009_t0"
+  ],
+  "num_shared_clauses": 10,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the Commissioner of Customs and the VAT system interact to verify an importer's eligibility for product clearance under the specified customs notifications?",
+      "answer": "To clear goods, the importer must have a valid Industrial IRC and be a 13-digit VAT registered entity. The system verifies that the importer has submitted their VAT return for the month immediately preceding the bill of entry filing, as confirmed through the Customs Computer System, VAT Online System, National Board of Revenue website, or the VAT Commissionerate's website.",
+      "entities_involved": [
+        "Commissioner of Customs",
+        "Value Added Tax"
+      ],
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_6",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_6",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_6",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_6",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_3",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What specific VAT-related information must be included in the certificate/undertaking received by the Commissioner of Customs for industrial importers?",
+      "answer": "The certificate must include the importer's name and full address, their 13-digit Value Added Tax (VAT) registration number, and their Bond License number (if applicable).",
+      "entities_involved": [
+        "Commissioner of Customs",
+        "Value Added Tax"
+      ],
+      "clause_text_ids": [
+        "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "thread_id": "cluster_00223_t0",
+  "cluster_id": 223,
+  "cluster_label": "Customs Agent License",
+  "title": "Licensing Authority Composition",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 3,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the structural requirements for the Licensing Authority change between the Customs Agents (Licensing) Rules 2016 and the amendment on July 1, 2016?",
+      "answer": "Initially, under the June 2, 2016 rules, the Licensing Authority had a rigid hierarchy where the composition depended strictly on the availability of specific ranks, such as an Additional Commissioner paired with a Deputy Commissioner, or a Joint Commissioner paired with an Assistant Commissioner if the former were unavailable. The July 1, 2016 amendment shifted this to a more flexible structure, allowing any combination of an Additional or Joint Commissioner and a Deputy or Assistant Commissioner to serve on the authority.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What was the primary driver for the evolution of the Licensing Authority's composition in the 2016 customs policy?",
+      "answer": "The primary driver for the evolution was the need for increased administrative flexibility in the issuance of customs agent licenses. By moving away from the rigid, rank-based pairings defined in the June 2, 2016 rules, the July 1, 2016 amendment enabled the Licensing Authority to function more effectively by allowing interchangeable roles for the chairperson and member-secretary positions.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the roles of chairperson and member-secretary within the Licensing Authority evolve from June 2016 to July 2016?",
+      "answer": "In the June 2, 2016 rules, the roles were tied to specific rank pairings, where the senior officer in each defined pair served as the chairperson and the junior officer as the member-secretary. Following the July 1, 2016 amendment, the structure was simplified to state that the Additional or Joint Commissioner serves as the chairperson, while the Deputy or Assistant Commissioner serves as the member-secretary, regardless of the specific combination used.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs house is evaluating the composition of its Licensing Authority. Under the initial June 2016 rules, the authority required a specific hierarchy involving an Additional Commissioner and a Deputy Commissioner. By July 2016, the rules were amended to broaden the eligibility criteria.",
+      "question": "How did the eligibility criteria for the Licensing Authority change regarding the rank of officials between the initial June 2016 rules and the July 2016 amendment?",
+      "answer": "The July 2016 amendment introduced flexibility by allowing an Additional or Joint Commissioner and a Deputy or Assistant Commissioner, whereas the initial rules were more rigid regarding specific rank combinations.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2016-07-01"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "one month later",
+      "question": "Regarding the Licensing Authority for customs agents, how did the composition requirements change one month after the initial definition provided in the Customs Agents (Licensing) Rules 2016?",
+      "answer": "In the amendment dated 2016-07-01, the composition was broadened to provide greater administrative flexibility, allowing the Licensing Authority to be composed of an Additional or Joint Commissioner and a Deputy or Assistant Commissioner, rather than the more rigid rank requirements established in the initial rules.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    }
+  ]
+}

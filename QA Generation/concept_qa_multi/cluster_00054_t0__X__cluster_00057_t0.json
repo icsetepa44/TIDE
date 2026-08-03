@@ -1,0 +1,47 @@
+{
+  "group_id": "cluster_00054_t0__X__cluster_00057_t0",
+  "entities": [
+    "parts",
+    "materials"
+  ],
+  "cluster_ids": [
+    54,
+    57
+  ],
+  "thread_ids": [
+    "cluster_00054_t0",
+    "cluster_00057_t0"
+  ],
+  "num_shared_clauses": 8,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do manufacturers ensure that imported parts and materials are being used correctly in the production of finished goods like motorcycles or elevators according to the regulatory framework?",
+      "answer": "Manufacturers must adhere to an approved 'Input-Output Coefficient' (IOC) for both parts and materials. Compliance is verified through mandatory physical inspections conducted by committees led by officers not below the rank of Joint Commissioner under the VAT Commissionerate, occurring at specified intervals (e.g., every 3 or 6 months) to ensure production aligns with the declared coefficients.",
+      "entities_involved": [
+        "parts",
+        "materials"
+      ],
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_12",
+        "20170601_155-AIN__1 June, 2017_clause_6",
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_5"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What documentation must be submitted regarding the usage of imported parts and materials before production, as required by the regulatory framework for specific electronics or electrical components?",
+      "answer": "Manufacturers are required to submit a declaration in the format of 'Appendix-2' (or 'Parishishta-2') to the Commissioner of the relevant VAT Commissionerate before importing parts and materials. This declaration must detail the specific parts and materials used, their H.S. Codes, and the required quantities for each unit of production, including reasonable waste allowances (input-output coefficients), which the Commissioner then approves.",
+      "entities_involved": [
+        "parts",
+        "materials"
+      ],
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_12",
+        "20170601_155-AIN__1 June, 2017_clause_10",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    }
+  ]
+}

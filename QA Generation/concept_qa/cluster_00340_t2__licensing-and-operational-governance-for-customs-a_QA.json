@@ -1,0 +1,134 @@
+{
+  "thread_id": "cluster_00340_t2",
+  "cluster_id": 340,
+  "cluster_label": "operational procedures",
+  "title": "Licensing and Operational Governance for Customs Agents",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 4,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the National Board of Revenue utilize its legal authority to refine the Freight Forwarders (Licensing and Operations) Rules 2008?",
+      "answer": "The National Board of Revenue exercised powers granted under sections 207 and 219 of the Customs Act 1969, read in conjunction with Item 21 of the Third Schedule, to issue amendments. For example, SRO 177-Law/2012 specifically utilized this authority to update terminology within the rules by replacing the conjunction word 'ba' (or) with 'o' (and) to clarify the scope of the provision.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the relationship between the Customs Act 1969 and the regulatory instruments governing customs agents and freight forwarders?",
+      "answer": "The Customs Act 1969 serves as the primary statutory authority that empowers the National Board of Revenue to formulate and amend rules regarding licensing and operational procedures. Specifically, sections 207 and 219, along with Item 21 of the Third Schedule, provide the legal basis for the Board to regulate the conduct of freight forwarders and customs agents.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the application requirements for customs agents under the 2016 rules demonstrate an emphasis on regulatory compliance?",
+      "answer": "Under the Customs Agents Licensing Rules 2016, the application process requires entities to use a standardized 'Form Ga' to submit their request to the Licensing Authority. Furthermore, the process mandates that applicants formally acknowledge they have read the rules and provide an assurance of compliance with all applicable legal provisions as a condition for business operation.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way did the regulatory approach toward freight forwarders evolve between the 2008 rules and the 2014 amendment?",
+      "answer": "The regulatory framework for freight forwarders remained under the umbrella of the Freight Forwarders (Licensing and Operations) Rules 2008, but underwent incremental refinements. As evidenced by SRO 139-Law/2014, the National Board of Revenue continued to exercise its authority under the Customs Act 1969 and the Third Schedule to issue further amendments to these rules to maintain oversight of operational procedures.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 177-Law/2012, issued on June 7, 2012, amended the Freight Forwarders (Licensing and Operations) Rules 2008 by replacing the word 'ও' with 'বা' in sub-rule (a) of rule 13.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "replacing the word 'ও' with 'বা'",
+      "correct_fact": "replacing the word 'বা' with 'ও'",
+      "answer": "The statement is inaccurate. According to SRO 177-Law/2012 dated 2012-06-07, the amendment replaced the word 'বা' with 'ও' in sub-rule (a) of rule 13, not the other way around.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Act 1969, specifically sections 207 and 219 read with Item 21 of the Third Schedule, provides the legal authority for the National Board of Revenue to amend the Freight Forwarders (Licensing and Operations) Rules 2008.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate based on the legal basis cited in the 2012 and 2014 regulatory instruments.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Agents Licensing Rules 2016, applicants seeking a reference license must submit their formal application using Form Kha.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Form Kha",
+      "correct_fact": "Form Ga",
+      "answer": "The statement is inaccurate. According to the Customs Agents Licensing Rules 2016, the prescribed standard application form for a reference license is 'Form Ga'.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The National Board of Revenue is the regulatory body empowered by the Customs Act 1969 to issue and amend licensing and operational rules for freight forwarders.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate as the Customs Act 1969 empowers the National Board of Revenue to formulate and amend these rules.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 139-AIN/2014/2503/Customs, issued on June 5, 2014, serves as an amendment to the Freight Forwarders (Licensing and Operations) Rules 2008.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate as it correctly identifies the instrument number and its purpose regarding the 2008 rules.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Agents Licensing Rules 2016 require that applicants for a license provide their Tax Identification Number as part of the application process.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate as the Tax Identification Number is listed among the entities and requirements associated with the Customs Agents Licensing Rules 2016.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012",
+      "relative_offset": "two years later",
+      "question": "Given the freight forwarder licensing rules amendment in 2012, what regulatory action occurred two years later in relation to the 2008 licensing and operational rules?",
+      "answer": "Two years later, in 2014, the National Board of Revenue issued SRO 139-Law/2014, which provided a further amendment to the Freight Forwarders (Licensing and Operational) Rules, 2008, under the authority of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20120607_177-AIN_2012_2405-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    }
+  ]
+}

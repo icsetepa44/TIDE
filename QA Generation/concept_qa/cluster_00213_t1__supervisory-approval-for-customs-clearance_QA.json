@@ -1,0 +1,190 @@
+{
+  "thread_id": "cluster_00213_t1",
+  "cluster_id": 213,
+  "cluster_label": "Assistant Commissioner",
+  "title": "Supervisory Approval for Customs Clearance",
+  "source_num_member_objects": 12,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the role of the Assistant Commissioner in the customs clearance process evolved between 2016 and 2022?",
+      "answer": "Initially, under SRO 155/2016, the Assistant Commissioner's role focused on supervising clearance and verifying general compliance. By 2022, as seen in SRO 135/2022, the role expanded to include a mandatory digital verification of the Business Identification Number (BIN) via official systems to prevent processing delays.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What primary driver motivated the integration of digital verification tools into the Assistant Commissioner's supervisory duties?",
+      "answer": "The primary driver for integrating digital verification of the Business Identification Number (BIN) into the Assistant Commissioner's duties was to avoid unnecessary delays during the customs clearance process, as explicitly stated in SRO 135/2022 and subsequent regulations.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the regulatory language regarding supervisory approval for customs clearance compare between the 2016 and 2024 instruments?",
+      "answer": "While the 2016 instruments (SRO 155/2016) established the foundational requirement for approval by a Deputy or Assistant Commissioner, the 2024 instruments (e.g., SRO 158/2024) reflect a standardization of this language across multiple regulatory contexts, reinforcing the consistency of the supervisory workflow.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What digital platforms are authorized for an Assistant Commissioner to use when verifying taxpayer registration information?",
+      "answer": "According to regulations such as SRO 135/2022 and SRO 102/2025, an Assistant Commissioner is authorized to use the customs computer system, the VAT online system, the National Board of Revenue website, or the relevant VAT Commissionerate website to verify the accuracy of the Business Identification Number (BIN).",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the relationship between the customs officer's initial verification and the Assistant Commissioner's final approval?",
+      "answer": "The customs officer is responsible for the initial verification of compliance with import and customs conditions; once this is confirmed, the process requires final oversight and approval by the relevant Deputy or Assistant Commissioner, a procedural requirement that has remained consistent from 2016 through 2025.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer processed a shipment in 2016 under SRO 155/2016, where the Assistant Commissioner's role focused on supervising 10% of consignments for inspection. By 2022, under SRO 135/2022, the regulatory framework integrated digital BIN verification into the supervisory duties of the Assistant Commissioner. A customs officer is now reviewing the evolution of these procedural requirements to understand how the scope of the Assistant Commissioner's approval authority has shifted regarding compliance verification.",
+      "question": "How did the scope of the Assistant Commissioner's supervisory responsibility evolve from 2016 to 2022 regarding the verification of compliance?",
+      "answer": "In 2016, the Assistant Commissioner's supervisory role focused on risk-based inspection (10% of consignments) and verifying information via communication with VAT counterparts. By 2022, the role expanded to include the standardized, mandatory verification of compliance with all stipulated import and assessment conditions, integrated with digital BIN verification.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2022-06-09"
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "six years later",
+      "question": "In 2016-06-02, SRO 155/2016 established the Assistant Commissioner's role in supervising clearance. Six years later, what specific technological integration was added to these supervisory duties?",
+      "answer": "In 2022-06-09, SRO 135/2022 integrated digital verification of the Business Identification Number (BIN) into the Assistant Commissioner's supervisory duties.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "two years later",
+      "question": "Following the integration of digital BIN verification in 2022-06-09, what change occurred two years later regarding the language of supervisory approval?",
+      "answer": "In 2024-06-06, SRO 158/2024 standardized the language for supervisory approval across multiple regulatory contexts.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year later",
+      "question": "After the standardization of language for supervisory approval in 2024-06-06, what was the status of this procedural requirement one year later?",
+      "answer": "In 2025-06-02, SRO 102/2025 finalized the procedural requirement for Assistant Commissioner level approval.",
+      "clause_text_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The procedural requirement for customs clearance approval at the Assistant Commissioner or Deputy Commissioner level is formally finalized with simplified references to compliance conditions.",
+        "Supervisory approval for customs clearance is established at the Deputy Commissioner or Assistant Commissioner level, including verification of compliance with import conditions.",
+        "The supervisory role is expanded to include mandatory verification of the Business Identification Number (BIN) via the customs computer system or relevant online portals.",
+        "The regulatory language for supervisory approval of customs clearance is standardized across multiple regulatory contexts."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Supervisory approval for customs clearance is established at the Deputy Commissioner or Assistant Commissioner level, including verification of compliance with import conditions.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The supervisory role is expanded to include mandatory verification of the Business Identification Number (BIN) via the customs computer system or relevant online portals.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The regulatory language for supervisory approval of customs clearance is standardized across multiple regulatory contexts.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The procedural requirement for customs clearance approval at the Assistant Commissioner or Deputy Commissioner level is formally finalized with simplified references to compliance conditions.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+        "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+        "customs_sros_OCR/20240606_194-AIN_2024_66_Customs/20240606_194-AIN_2024_66_Customs_output.json",
+        "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00213_t1__supervisory-approval-for-customs-clearance.json"
+    }
+  ]
+}

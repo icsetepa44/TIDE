@@ -1,0 +1,56 @@
+{
+  "group_id": "cluster_00014_t0__X__cluster_00066_t0",
+  "entities": [
+    "customs duties",
+    "Customs Computerised Entry Processing System"
+  ],
+  "cluster_ids": [
+    14,
+    66
+  ],
+  "thread_ids": [
+    "cluster_00014_t0",
+    "cluster_00066_t0"
+  ],
+  "num_shared_clauses": 6,
+  "num_qa_pairs": 3,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Customs Computerised Entry Processing System facilitate the payment of customs duties for authorized entities like AEOs?",
+      "answer": "For Authorized Economic Operators (AEOs), the Customs Computerised Entry Processing System is used to implement deferred payment (Deferred Payment) facilities for applicable customs duties and taxes upon the approval of the Commissioner of the Customs Station, with the system being updated accordingly by the Board's Customs Automation branch.",
+      "entities_involved": [
+        "customs duties",
+        "Customs Computerised Entry Processing System"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_83"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the legal standing of customs duties payments made through the Customs Computerised Entry Processing System?",
+      "answer": "According to the regulations, if an authorized person submits documents or executes payments for customs duties via the Customs Computerised Entry Processing System using electronic methods, such actions are considered as properly submitted or transmitted.",
+      "entities_involved": [
+        "customs duties",
+        "Customs Computerised Entry Processing System"
+      ],
+      "clause_text_ids": [
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How must customs duties and other charges for goods imported via express services be settled regarding the electronic payment mandate?",
+      "answer": "For goods imported via express services, applicable customs duties and other taxes/charges must be paid after assessment either through a pre-payment method from the entity's account at Sonali Bank PLC or by the customer or their authorized agent using the electronic payment system.",
+      "entities_involved": [
+        "customs duties",
+        "Customs Computerised Entry Processing System"
+      ],
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_20",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_20"
+      ]
+    }
+  ]
+}

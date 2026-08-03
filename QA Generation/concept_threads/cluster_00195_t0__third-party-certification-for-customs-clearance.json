@@ -1,0 +1,758 @@
+{
+  "cluster_id": 195,
+  "cluster_label": "certification",
+  "thread_index": 0,
+  "thread_id": "cluster_00195_t0",
+  "title": "Third-Party Certification for Customs Clearance",
+  "summary": "This thread tracks the evolution of mandatory certification requirements for customs clearance, shifting from general pre-shipment inspection (PSI) agencies to specific industry-based associations and government departments. Over time, the procedure has moved from broad PSI-based verification to highly specific, sector-dependent certifications required for duty exemptions or regulatory compliance.",
+  "evolution": {
+    "authority": "From independent PSI agencies to industry associations and finally to government departments and commercial banks.",
+    "scope": "From general valuation/quality checks to specific usage verification and compliance with annual import entitlements."
+  },
+  "timeline": [
+    {
+      "date": "2013-06-06",
+      "instrument": "SRO 151-AIN/2013",
+      "change": "Formalized the requirement for importers to obtain certification from inspection agencies for CIF value verification.",
+      "clause_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11"
+      ]
+    },
+    {
+      "date": "2016-06-02",
+      "instrument": "SRO 161-AIN/2016",
+      "change": "Shifted certification authority to specific industry associations (Leather/Tanners) for specific import consignments.",
+      "clause_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_3"
+      ]
+    },
+    {
+      "date": "2020-06-11",
+      "instrument": "SRO 2020",
+      "change": "Introduced government department-level certification (Energy Division) for specialized industrial equipment.",
+      "clause_ids": [
+        "20200611_133-AIN_2019_84_Customs_২০ জ্যৈষ্ঠ, ১৪২৭ বঙ্গাব্দ/৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 2024",
+      "change": "Expanded certification requirements to include dual-verification from local customs offices and commercial banks for bonded warehouse imports.",
+      "clause_ids": [
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240606_214-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 7,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "পরিদর্শন সংস্থার ফিস পরিশোধের পদ্ধতি ও ফিসের হার",
+      "text_id": "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_11",
+      "resolved_text": "(১১) বিধি ৩২ এর পরিবর্তে নিম্নরূপ বিধি ৩২ প্রতিস্থাপিত হইবে, যথা :-\n\n“৩২। পরিদর্শন সংস্থার ফিস পরিশোধের পদ্ধতি ও ফিসের হার।- (১) সর্বশেষ প্রতিযোগিতামূলক দরপত্র অনুযায়ী নিম্নরূপ টেবিলে উল্লিখিত হারে CIF মূল্যের উপর ব্লক ওয়ারী পিএসআই ফি পরিশোধ করিতে হইবে, যথা :-\n\nটেবিল\n\n| ক্রমিক নং | ব্লকের নাম | পিএসআই ফি এর শতকরা হার(সিআইএফ মূল্যের উপর) |\n| --- | --- | --- |\n| ১। | ব্লক-এ | ০.১০% |\n| ২। | ব্লক-বি | ০.১৪৫% |\n| ৩। | ব্লক-সি | ০.২৭৫% |\n| ৪। | ব্লক-ডি | ০.৩৫০% |\n| ৫। | ব্লক-ই | ০.৫৫০% |\n\n\n(২) আমদানিকারক পণ্য আমদানিকালে নিজ ব্যয়ে পরিদর্শন সংস্থার নিকট হইতে প্রত্যয়নপত্র গ্রহণ করিবেন।”;",
+      "entity_concepts": {
+        "Pre-shipment Inspection": [
+          "The rule specifies the payment method and percentage rates for pre-shipment inspection fees based on the CIF value of goods.",
+          "The fees are calculated as a percentage of the CIF value and vary depending on the assigned inspection block."
+        ],
+        "Importer": [
+          "The importer is required to obtain a certification from the inspection agency at their own expense at the time of importing goods."
+        ],
+        "Pre-shipment Inspection Agency": [
+          "Importers must engage with the inspection agency to obtain the necessary certification for their imported goods."
+        ],
+        "Inspection Blocks": [
+          "The regulation categorizes goods into specific blocks for the purpose of determining the applicable pre-shipment inspection fee rate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1439",
+      "entity_sub_entities": {
+        "Pre-shipment Inspection": [
+          "pre-shipment inspection fees",
+          "CIF value",
+          "goods",
+          "inspection block"
+        ],
+        "Importer": [
+          "importer",
+          "certification",
+          "inspection agency",
+          "goods"
+        ],
+        "Pre-shipment Inspection Agency": [
+          "inspection agency",
+          "certification",
+          "imported goods"
+        ],
+        "Inspection Blocks": [
+          "goods",
+          "inspection blocks",
+          "pre-shipment inspection fee rate"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        39,
+        195,
+        304,
+        858,
+        922,
+        966,
+        4206,
+        9103,
+        10831,
+        10832
+      ],
+      "source_file": "customs_sros_OCR/20130606_156-AIN_2013_2443-Customs/20130606_156-AIN_2013_2443-Customs_output.json",
+      "clause_date": "2013-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_3",
+      "resolved_text": "(২) প্রত্যেক আমদানিকারককে প্রতিটি চালান শুল্কায়নের পূর্বে Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association অথবা Bangladesh Tanners Association এর সভাপতি কর্তৃক পরিশিষ্ট-১ অনুযায়ী প্রদত্ত একটি প্রত্যয়নপত্র সংশ্লিষ্ট কাস্টমস কর্তৃপক্ষের নিকট দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association": [
+          "The association is authorized to issue a certification for import consignments as per the specified appendix requirements.",
+          "Importers must submit this certification from the association's president to the relevant customs authority prior to the clearance of each consignment."
+        ],
+        "Bangladesh Tanners Association": [
+          "The association is authorized to issue a certification for import consignments as per the specified appendix requirements.",
+          "Importers must submit this certification from the association's president to the relevant customs authority prior to the clearance of each consignment."
+        ],
+        "Customs Authority": [
+          "The customs authority is the designated recipient of the required certification documents that must be submitted by importers before the final clearance of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1605",
+      "entity_sub_entities": {
+        "Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association": [
+          "certification",
+          "import consignments",
+          "appendix requirements",
+          "president"
+        ],
+        "Bangladesh Tanners Association": [
+          "certification",
+          "import consignments",
+          "appendix requirements",
+          "president"
+        ],
+        "Customs Authority": [
+          "certification documents",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        62,
+        195,
+        916,
+        944,
+        1164,
+        1848,
+        3417
+      ],
+      "source_file": "customs_sros_OCR/20160602_152-AIN_2016_14-Customs/20160602_152-AIN_2016_14-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20200611_133-AIN_2019_84_Customs_২০ জ্যৈষ্ঠ, ১৪২৭ বঙ্গাব্দ/৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "(১) আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ (সিএনজি কনভার্শন কিট ও সিএনজি সিলিন্ডারসহ) সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম পরিচালনার জন্য ব্যবহৃত হইবে মর্মে জ্বালানি ও খনিজ সম্পদ বিভাগের অন্যূন যুগ্ম-সচিব পদমর্যাদা সম্পন্ন কোন কর্মকর্তা চালান-ওয়ারী পরিশিষ্ট-১ অনুযায়ী একটি প্রত্যয়নপত্র প্রদানসহ উহার একটি অনুলিপি জ্বালানি ও খনিজ সম্পদ বিভাগ কর্তৃক সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশনে প্রেরণ করিবেন;",
+      "entity_concepts": {
+        "CNG Conversion Kit": [
+          "This item is subject to specific certification requirements when imported for the establishment and operation of CNG filling stations."
+        ],
+        "CNG Cylinder": [
+          "These components, when imported for CNG filling station operations, require a specific certificate from the Energy and Mineral Resources Division."
+        ],
+        "Energy and Mineral Resources Division": [
+          "A designated official from this division, holding at least the rank of Joint Secretary, must issue a certificate for the import of specific CNG-related machinery and parts. This division is also responsible for sending a copy of the certification to the relevant Customs House or Customs Station."
+        ],
+        "Customs House": [
+          "Customs authorities at these locations receive official certification from the Energy and Mineral Resources Division to verify the intended use of imported CNG machinery and equipment."
+        ],
+        "Customs Station": [
+          "These stations are authorized to receive formal documentation from the Energy and Mineral Resources Division confirming the appropriate use of imported goods for CNG operations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2031",
+      "entity_sub_entities": {
+        "CNG Conversion Kit": [
+          "CNG Conversion Kit"
+        ],
+        "CNG Cylinder": [
+          "CNG Cylinder"
+        ],
+        "Energy and Mineral Resources Division": [
+          "Joint Secretary",
+          "CNG-related machinery",
+          "parts",
+          "certificate"
+        ],
+        "Customs House": [
+          "CNG machinery",
+          "equipment",
+          "certification"
+        ],
+        "Customs Station": [
+          "imported goods",
+          "documentation"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        25,
+        54,
+        60,
+        63,
+        72,
+        188,
+        195,
+        2818,
+        3615,
+        3616,
+        3907,
+        6429,
+        6436
+      ],
+      "source_file": "customs_sros_OCR/20200611_133-AIN_2019_84_Customs/20200611_133-AIN_2019_84_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "(৪) আমদানিকৃত মালামালের পরিমাণ ও ব্যবহার নিশ্চিতকরণে পণ্যচালান শুল্কায়ন তথা খালাসকলে আমদানিকারক প্রতিষ্ঠানকে অত্র প্রজ্ঞাপনের পরিশিষ্ট-১ অনুযায়ী স্থানীয় কাস্টমস্, এক্সাইজ ও ভ্যাট বিভাগীয় কার্যালয় কর্তৃক এবং পরিশিষ্ট-২ অনুযায়ী এলসি ইস্যুকারী ব্যাংক কর্তৃক প্রদত্ত প্রত্যয়নপত্র সংগ্রহপূর্বক সংশ্লিষ্ট কমিশনার অব কাস্টমস এর বরাবর দাখিল করিতে হইবে;",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The process of clearing imported goods requires importers to submit specific certification documents to the relevant Commissioner of Customs.",
+          "Importers must ensure the quantity and end-use of the imported goods are verified and documented as part of the customs clearance procedure."
+        ],
+        "Importer": [
+          "Importers are obligated to obtain certifications from the local Customs, Excise and VAT office and the issuing bank for the letter of credit.",
+          "Importers must formally submit these mandatory certifications to the Commissioner of Customs to facilitate the assessment and clearance of their goods."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs acts as the receiving authority for the required certifications submitted by importers to verify the quantity and use of imported goods."
+        ],
+        "Customs, Excise and VAT Department": [
+          "This department is responsible for issuing a specific certification required for the clearance of imported goods, as specified in the annex of the notification."
+        ],
+        "Bank": [
+          "The bank that issues the letter of credit is required to provide a certification concerning the imported goods to assist in the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2613",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "imported goods",
+          "certification documents",
+          "Commissioner of Customs",
+          "quantity",
+          "end-use"
+        ],
+        "Importer": [
+          "certifications",
+          "Customs, Excise and VAT office",
+          "issuing bank",
+          "letter of credit",
+          "Commissioner of Customs",
+          "goods"
+        ],
+        "Commissioner of Customs": [
+          "certifications",
+          "importers",
+          "quantity",
+          "use",
+          "imported goods"
+        ],
+        "Customs, Excise and VAT Department": [
+          "certification",
+          "imported goods",
+          "annex of the notification"
+        ],
+        "Bank": [
+          "letter of credit",
+          "certification",
+          "imported goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        39,
+        51,
+        79,
+        195,
+        206,
+        550,
+        601,
+        921,
+        1166,
+        1848,
+        3266,
+        5504,
+        7036,
+        9288
+      ],
+      "source_file": "customs_sros_OCR/20240606_171-AIN_2024_23_Customs/20240606_171-AIN_2024_23_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "কাঁচামাল আমদানি",
+      "text_id": "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_6",
+      "resolved_text": "৬। কাঁচামাল আমদানি।— (১) লাইসেন্স গ্রহণকালে এবং পরবর্তীতে সময়ে সময়ে লাইসেন্সিং কর্তৃপক্ষের অনুমোদনক্রমে লাইসেন্সে সংযোজিত ও হালনাগাদ প্রাপ্যতা আদেশে অন্তর্ভুক্ত কাঁচামাল (এইচএস কোডসহ) ও আনুষঙ্গিক দ্রব্যাদি ওয়্যারহাউস পদ্ধতির অধীন শুল্ককরমুক্তভাবে আমদানি করা যাইবে:\nতবে শর্ত থাকে যে, এককালীন বন্ডিং ক্যাপাসিটির অতিরিক্ত পণ্য আমদানি করা যাইবে না।\n(২) প্রযোজ্য ক্ষেত্রে সরাসরি ও প্রচ্ছন্ন রপ্তানিমুখী (পোশাক শিল্প ব্যতীত) শিল্প প্রতিষ্ঠানের বার্ষিক আমদানি প্রাপ্যতা নির্ধারণ বিধিমালা, ২০২৪ এর অধীন, সময়ে সময়ে, প্রদত্ত প্রত্যয়নপত্রের ভিত্তিতে আমদানিকৃত কাঁচামাল ওয়্যারহাউস পদ্ধতির অধীন শুল্ককরমুক্তভাবে খালাস প্রদান করা যাইবে।\n(৩) ওয়্যারহাউস সুবিধার আওতায় শুল্ককরমুক্তভাবে কাঁচামাল আমদানিকালে প্রতিষ্ঠানের হালনাগাদ সাধারণ বন্ড থাকিতে হইবে।\n(৪) শুল্কায়ন কর্মকর্তা কর্তৃক ছাড়কৃত পণ্যের পরিমাণ প্রাপ্যতার পত্র বা আদেশ হইতে বিয়োজন করিয়া যথাস্থানে নামীয় সিলমোহরসহ স্বাক্ষর প্রদান করিতে হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "Raw materials and accessory items included in an authorized license may be imported duty-free under the bonded warehouse system.",
+          "To utilize these duty-free import benefits, a company must maintain a valid general bond.",
+          "Customs officers are required to deduct the quantity of released goods from the authorized import entitlement letter and sign with an official seal."
+        ],
+        "Annual Import Entitlement Determination Rules 2024": [
+          "For specific export-oriented industries, excluding the garment sector, duty-free clearance of raw materials under the bonded warehouse system is granted based on certification provided under these rules."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer is responsible for ensuring that the quantity of goods cleared is accurately subtracted from the enterprise's authorized import entitlement and verified with a signature and official seal."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2817",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "raw materials",
+          "accessory items",
+          "authorized license",
+          "general bond",
+          "released goods",
+          "authorized import entitlement letter",
+          "official seal"
+        ],
+        "Annual Import Entitlement Determination Rules 2024": [
+          "export-oriented industries",
+          "garment sector",
+          "raw materials",
+          "bonded warehouse system",
+          "certification"
+        ],
+        "Appropriate Officer of Customs": [
+          "quantity of goods",
+          "enterprise's authorized import entitlement",
+          "signature",
+          "official seal"
+        ]
+      },
+      "clause_clusters": [
+        12,
+        17,
+        61,
+        195,
+        265,
+        353,
+        705,
+        1083,
+        1562,
+        1656,
+        2969,
+        3210,
+        3411,
+        5806,
+        5813,
+        7744,
+        11398
+      ],
+      "source_file": "customs_sros_OCR/20240606_212-AIN_2024_64_Customs/20240606_212-AIN_2024_64_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "বিয়োজনের শর্তে প্রত্যয়নপত্র",
+      "text_id": "20240606_214-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_9",
+      "resolved_text": "৯। বিয়োজনের শর্তে প্রত্যয়নপত্র।- বার্ষিক নিরীক্ষা ও আমদানি প্রাপ্যতার মেয়াদ সমাপনান্তে নিরীক্ষার লক্ষ্যে দলিলাদি দাখিল করা হইয়াছে বা নিরীক্ষা চলমান রহিয়াছে, এইরূপ পরিস্থিতিতে খালাসের অপেক্ষায় থাকা আমদানি পণ্য চালান ছাড়করণার্থে প্রতিষ্ঠানের আবেদনক্রমে কমিশনার অব কাস্টমস (বন্ড) বা ক্ষমতাপ্রাপ্ত কমিশনার অব কাস্টমস পণ্যচালানের ক্ষেত্রে নিম্নবর্ণিত তথ্যাদি উল্লেখপূর্বক একটি প্রত্যয়নপত্র আমদানি কাস্টম হাউসের কমিশনার বা কাস্টমস স্টেশন নিয়ন্ত্রণকারী কমিশনারের নিকট প্রেরণ করিবেন, যথা:-\n(ক) এলসি নম্বর;\n(খ) বিএল বা এয়ারওয়ে বিল নম্বর বা ট্রাক রিসিপ্ট নম্বর;\n(গ) ইনভয়েস নম্বর; এবং\n(ঘ) পণ্যের বর্ণনা ও পরিমাণ:\nতবে শর্ত থাকে যে, প্রত্যয়নপত্রে উল্লিখিত পরিমাণ কাঁচামাল পরবর্তী মেয়াদের আমদানি প্রাপ্যতা হইতেবিয়োজিত হইবে এবং প্রত্যয়নপত্রে বর্ণিত কাঁচামালের পরিমাণ আগামী মেয়াদের সম্ভাব্য প্রাপ্যতার এক-চতুর্থাংশের অধিক হইবে না:\nআরও শর্ত থাকে যে, প্রতিষ্ঠানের নামে দাবিনামার ভিত্তিতে বিচারাদেশ জারি করা হইলে এইরূপ প্রত্যয়নপত্র নিঃশর্ত ও অব্যাহত ব্যাংক গ্যারান্টি দাখিলের শর্ত আরোপপূর্বক প্রদান করা যাইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "This clause establishes a procedure for clearing imported goods under audit when the annual audit or import entitlement period has concluded. The Commissioner of Customs (Bond) or an authorized commissioner must issue a certification to the customs house to facilitate the release of goods pending final audit verification."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or an authorized commissioner is responsible for verifying documentation and issuing the required certification for the release of pending import consignments. They must ensure that the certified quantities are subsequently deducted from the importer's future import entitlement."
+        ],
+        "Bank Guarantee": [
+          "In cases where a demand notice has been issued against a business entity, the commissioner may require the submission of an unconditional and continuous bank guarantee as a condition for issuing the release certification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2857",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "imported goods",
+          "annual audit",
+          "import entitlement period",
+          "Commissioner of Customs (Bond)",
+          "authorized commissioner",
+          "certification",
+          "customs house"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "authorized commissioner",
+          "documentation",
+          "certification",
+          "import consignments",
+          "certified quantities",
+          "importer's future import entitlement"
+        ],
+        "Bank Guarantee": [
+          "demand notice",
+          "business entity",
+          "commissioner",
+          "unconditional and continuous bank guarantee",
+          "release certification"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        8,
+        60,
+        61,
+        63,
+        64,
+        166,
+        195,
+        386,
+        553,
+        748,
+        944,
+        1324,
+        3167,
+        6297,
+        8845,
+        8943,
+        11395
+      ],
+      "source_file": "customs_sros_OCR/20240606_214-AIN_2024_66_Customs/20240606_214-AIN_2024_66_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_31",
+      "clause_title": "প্রি-শিপমেন্ট ইন্সপেকশন এজেন্সীসমূহ এবং তাহাদের প্রত্যায়নপত্রের ভিত্তিতে শুল্কায়ন",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_31",
+      "resolved_text": "২৫ক। প্রি-শিপমেন্ট ইন্সপেকশন এজেন্সীসমূহ এবং তাহাদের প্রত্যায়নপত্রের ভিত্তিতে শুল্কায়ন। — (১) এই আইনের উদ্দেশ্য পূরণকল্পে সরকার, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা-\n\n(ক) প্রি-শিপমেন্ট ইন্সপেকশন এজেন্সীসমূহ এবং অডিট এজেন্সীসমূহ নিয়োগ করিতে পারিবে ;\nএবং\n\n(খ) প্রত্যায়নের পরিধি ও পদ্ধতি এবং অডিটের পরিধি ও পদ্ধতি এবং উক্ত প্রত্যায়ন ও অডিটের সাথে সম্পর্কিত অন্যান্য বিষয় নির্ধারণ করিতে পারিবে।\n\n( ২) সরকার, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, ঘোষণা করিতে পারিবে যে কোন পণ্যের গুণগত মান, পরিমাণ, মূল্য, বর্ণনা এবং শুল্ক শ্রেণীবিদ্যাস কোন প্রি-শিপমেন্ট ইন্সপেকশন এজেন্সী কর্তৃক নির্ধারিত পদ্ধতিতে যাচাইকৃত এবং প্রত্যায়িত হইলে তাহা শুল্কায়নের ভিত্তি হিসাবে গ্রহণ করা হইবে।\n\n(৩) এই ধারায় “মূল্য” অর্থ ধারা ২৫ এর উপধারা (১) এবং (২) অনুসারে নির্ধারিত পণ্যের মূল্য।",
+      "entity_concepts": {
+        "Pre-shipment Inspection Agency": [
+          "The Government is empowered to appoint pre-shipment inspection agencies and audit agencies via official gazette notification to facilitate the purposes of the Customs Act 1969.",
+          "The Government may specify the scope and methodology for certification and auditing, along with other related procedures to be followed by these agencies.",
+          "Customs authorities may accept a pre-shipment inspection agency's certification regarding the quality, quantity, value, description, and tariff classification of goods as the basis for customs assessment."
+        ],
+        "Audit Agency": [
+          "The Government has the authority to appoint audit agencies through official gazette notification to perform functions under this Act.",
+          "The Government shall determine the scope, methodology, and related procedures for the audits conducted by these agencies."
+        ],
+        "Customs Assessment": [
+          "Customs assessment may be based on the quality, quantity, value, description, and tariff classification certified by an appointed pre-shipment inspection agency using prescribed methods."
+        ],
+        "Value": [
+          "For the purposes of this section, the term value refers to the assessable value of goods as determined under the provisions of Section 25, subsections (1) and (2) of the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_35",
+      "entity_sub_entities": {
+        "Pre-shipment Inspection Agency": [
+          "pre-shipment inspection agencies",
+          "audit agencies",
+          "official gazette notification",
+          "Customs Act 1969",
+          "certification",
+          "quality",
+          "quantity",
+          "value",
+          "description",
+          "tariff classification",
+          "goods"
+        ],
+        "Audit Agency": [
+          "audit agencies",
+          "official gazette notification",
+          "audits"
+        ],
+        "Customs Assessment": [
+          "quality",
+          "quantity",
+          "value",
+          "description",
+          "tariff classification",
+          "pre-shipment inspection agency"
+        ],
+        "Value": [
+          "assessable value",
+          "goods",
+          "Section 25, subsections (1) and (2)",
+          "Customs Act 1969"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        180,
+        192,
+        195,
+        206,
+        243,
+        298,
+        304,
+        316,
+        544,
+        566,
+        1090,
+        1904,
+        2483,
+        2967,
+        11980
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 4,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-ক",
+      "text_id": "metadata_6",
+      "resolved_text": "পরিশিষ্ট-ক\n[শর্ত ৩(গ) ও ৩(চ) এর ব্যাখ্যা দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nবেসামরিক বিমান পরিবহন ও পর্যটন মন্ত্রণালয়\nবাংলাদেশ সচিবালয়, ঢাকা।\nপ্রত্যয়ন পত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, মেসার্স .........................................\nযা বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত নম্বর ....................... মূল্য সংক্রান্ত কর বিভাগ\nকর্তৃক নিবন্ধিত নম্বর................. আয়কর নিবন্ধন নম্বর................, শহরের\n............................. স্থানে আন্তর্জাতিক মানসম্পন্ন একটি আবাসিক হোটেল\nস্থাপন/প্রতিষ্ঠান লক্ষ্যে কার্যক্রম শুরু করিয়াছে মর্মে .................... তারিখের\nআবেদনপত্রে জানিয়াছে। আন্তর্জাতিক মানদণ্ডে উক্ত আবাসিক হোটেলের যে সব মান\n(standard) থাকিবে/থাকার কথা সেই বিষয়ে উক্ত আবেদন উল্লেখ করা হইয়াছে/হয়\nনাই। আবেদনে উল্লিখিত কথিত মান (standard) এর যথার্থতা এ মন্ত্রণালয়ের\nসচিব/অতিরিক্ত সচিব/যুগ্ম সচিব এর নেতৃত্বে গঠিত কমিটি কর্তৃক যাচাই/পরীক্ষা করা\nহইয়াছে। পরীক্ষান্তে কমিটি এতদসংশ্লিষ্ট মান (standard) যাচাই/নির্ধারণপূর্বক\nতদনুযায়ী আবেদনকারী প্রতিষ্ঠানকে মানসম্পন্ন আবাসিক হোটেল হিসেবে প্রতিষ্ঠার জন্য\nসুপারিশ করিয়াছে। উক্ত সুপারিশের সহিত একমত পোষণপূর্বক আবেদনকারী\nপ্রতিষ্ঠানটিকে “মানসম্পন্ন” আবাসিক হোটেল হিসেবে প্রত্যয়ন করা হইল।\n\nপ্রত্যয়নকারী কর্তৃপক্ষ\nস্বাক্ষরঃ\nনামঃ\nপদবীঃ\nসীলঃ",
+      "entity_concepts": {
+        "International Standard Hotel Certification": [
+          "This certificate functions as a formal verification for an applicant institution to be recognized as an international standard hotel.",
+          "The certification is issued following a rigorous validation process conducted by a committee led by senior officials of the Ministry of Civil Aviation and Tourism, ensuring the hotel meets the prescribed international standards."
+        ],
+        "Ministry of Civil Aviation and Tourism": [
+          "The Ministry is the competent authority responsible for forming a committee to inspect, verify, and ultimately certify whether an applicant's hotel establishment meets the required international standards."
+        ],
+        "Investment Board": [
+          "The Investment Board serves as the primary regulatory body for the registration of business entities, whose registration number is a mandatory requirement for certification eligibility."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1180",
+      "entity_sub_entities": {
+        "International Standard Hotel Certification": [
+          "certificate",
+          "applicant institution",
+          "international standard hotel",
+          "certification",
+          "validation process",
+          "committee",
+          "senior officials",
+          "Ministry of Civil Aviation and Tourism",
+          "international standards"
+        ],
+        "Ministry of Civil Aviation and Tourism": [
+          "Ministry",
+          "committee",
+          "applicant's hotel establishment",
+          "international standards"
+        ],
+        "Investment Board": [
+          "Investment Board",
+          "regulatory body",
+          "business entities",
+          "registration number",
+          "certification eligibility"
+        ]
+      },
+      "clause_clusters": [
+        81,
+        102,
+        188,
+        195,
+        580,
+        610,
+        793,
+        1148,
+        1233,
+        1899,
+        2812,
+        5579,
+        6273,
+        9224,
+        9225,
+        12115,
+        13151
+      ],
+      "source_file": "customs_sros_OCR/20220609_136-AIN_2022_84_Customs/20220609_136-AIN_2022_84_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২ [শর্ত (২) দ্রষ্টব্য]",
+      "text_id": "metadata_6",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (২) দ্রষ্টব্য]\nপ্রত্যয়ন পত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, মেসার্স----------------------------------- (সম্পূর্ণ ঠিকানা দিতে হইবে) বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত Solar Panel Manufacturing Plant এই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ------------------ তারিখঃ ----------------- এর আওতায় ইনভয়েস নং ------------------------------ তারিখঃ -------------- বিল অব এন্ট্রি নং ----------------- তারিখঃ -------------- এর মাধ্যমে আমদানিকৃত উপকরণ সম্পূর্ণ পরিমাণে/ --------------------- পরিমাণে উল্লিখিত প্রতিষ্ঠানের Solar Panel প্রস্তুতের কাজে ব্যবহার করা হইয়াছে।\n\nস্বাক্ষরঃ . . . . . . . . . . . . . . . . . ..\nনামঃ . . . . . . . . . . . . . . . . . . .\nতারিখঃ\nবিভাগীয় কর্মকর্তা .......................\nকাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ\nসীলঃ",
+      "entity_concepts": {
+        "Solar Panel Manufacturing": [
+          "This entity is identified as a manufacturing plant registered with the relevant investment authority.",
+          "The plant must provide a certificate to confirm that imported industrial materials are utilized exclusively for the manufacturing of solar panels."
+        ],
+        "Manufacturing Input Declaration": [
+          "An industrial establishment is required to issue a formal declaration and certification regarding the specific quantity of imported materials consumed in the production process.",
+          "This declaration must be verified and signed by the appropriate departmental officer of the Customs, Excise and VAT Department."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1206",
+      "entity_sub_entities": {
+        "Solar Panel Manufacturing": [
+          "manufacturing plant",
+          "certificate",
+          "imported industrial materials",
+          "solar panels"
+        ],
+        "Manufacturing Input Declaration": [
+          "industrial establishment",
+          "formal declaration",
+          "certification",
+          "imported materials",
+          "production process",
+          "Customs, Excise and VAT Department",
+          "departmental officer"
+        ]
+      },
+      "clause_clusters": [
+        105,
+        188,
+        195,
+        550,
+        769,
+        851,
+        875,
+        947,
+        952,
+        1680,
+        2266,
+        4911,
+        9735
+      ],
+      "source_file": "customs_sros_OCR/20220609_146-AIN_2022_94_Customs/20220609_146-AIN_2022_94_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট -২",
+      "text_id": "metadata_6",
+      "resolved_text": "পরিশিষ্ট -২\n[শর্ত (৫) দ্রষ্টব্য]\n\nপ্রত্যয়ন পত্র\n\nপ্রত্যয়ন করা যাইতেছে যে, মেসার্স............................................. বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর ............) এবং বাংলাদেশ বেসামরিক বিমান ও পর্যটন মন্ত্রণালয় কর্তৃক রেজিস্টার্ডভুক্ত (রেজিস্ট্রেশন নং .............) একটি ট্যুর অপারেটর প্রতিষ্ঠান। উক্ত প্রতিষ্ঠান কর্তৃক ইনভয়েস নং ...................... তারিখ .................., বিল অব ল্যাডিং/ এয়ারওয়ে বিল/ট্রাক রিসিপ্ট নং ..........................., তারিখ ....................(প্রতিস্বাক্ষরিত) -এ উল্লিখিত প্রতিষ্ঠানটি আমদানিকৃত equipment ও accessories নিবন্ধিত পর্যটন শিল্পে ব্যবহার করিবে।\n\nপ্রত্যয়নকারী কর্তৃপক্ষ\n\nস্বাক্ষরঃ\nনামঃ\nপদবী\nসীল",
+      "entity_concepts": {
+        "Tourism Industry Equipment": [
+          "A tour operator organization must provide a certification that the imported equipment and accessories will be exclusively utilized for registered tourism industry activities. This certification is a formal condition for the importation process and requires official validation by the authorized signatory."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1214",
+      "entity_sub_entities": {
+        "Tourism Industry Equipment": [
+          "equipment",
+          "accessories",
+          "certification"
+        ]
+      },
+      "clause_clusters": [
+        72,
+        195,
+        295,
+        1286
+      ],
+      "source_file": "customs_sros_OCR/20220609_149-AIN_2022_97_Customs/20220609_149-AIN_2022_97_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_7",
+      "resolved_text": "পরিশিষ্ট-১\n\nপ্রত্যয়নপত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, -------------------------------------\n----------------------------------------------------------------------------\n(আমদানিকারকের সম্পূর্ণ ঠিকানা) বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত একটি ফিনিসড লেদার, লেদার গুডস, ফুটওয়্যার ম্যানুফেকচারিং এন্ড এক্সপোর্টিং অথবা ট্যানার্স শিল্প প্রতিষ্ঠান।\n\nএই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং --------------------- তারিখ : -------\nইনভয়েস নং ----------------------------------- তারিখ : ----------------\nবিএল/এয়ারওয়ে বিল/ট্রাক রিসিপ্ট নং --------------------------- তারিখ : ---------\nএর মাধ্যমে আমদানিকৃত উপকরণ উক্ত প্রতিষ্ঠানের উৎপাদন প্রক্রিয়ায় ব্যবহৃত হইবে।\n\nউক্ত উপকরণ ১৫২-আইন/২০১৬/১৪/কাস্টমস, তারিখ : ২ জুন, ২০১৬ খ্রিঃ অনুযায়ী রেয়াতি হারে শুল্কায়নের সুপারিশ করা হইল।\n\nস্বাক্ষর : . . . . . . . . . . . . . . . . . .\n\nতারিখ : \nনাম : . . . . . . . . . . . . . . . . . . . .\n\nপদবি : সভাপতি,\nবাংলাদেশ ফিনিসড লেদার, লেদার গুডস এন্ড\nফুটওয়্যার এক্সপোর্টার্স\nএসোসিয়েশন/বাংলাদেশ ট্যানার্স\nএসোসিয়েশন\n\nসীল :",
+      "entity_concepts": {
+        "Industrial Raw Materials": [
+          "The imported inputs are certified to be utilized exclusively within the production processes of specific leather, leather goods, footwear, and tannery manufacturing or exporting establishments.",
+          "Such inputs are recommended for concessional customs duty assessment under the specified government notification."
+        ],
+        "S.R.O. 152-AIN/2016": [
+          "This legal instrument provides for the concessional rate of customs duty applicable to raw materials imported by eligible leather industry manufacturing or exporting firms."
+        ],
+        "Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association": [
+          "The association is authorized to issue certification for imported materials, recommending them for concessional duty treatment in accordance with government regulations."
+        ],
+        "Bangladesh Tanners Association": [
+          "This association acts as an certifying body for registered tannery industry firms, confirming the eligibility of imported inputs for concessional customs duty rates."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_680",
+      "entity_sub_entities": {
+        "Industrial Raw Materials": [
+          "leather",
+          "leather goods",
+          "footwear",
+          "tannery manufacturing",
+          "exporting establishments",
+          "imported inputs"
+        ],
+        "S.R.O. 152-AIN/2016": [
+          "customs duty",
+          "raw materials",
+          "leather industry manufacturing firms",
+          "exporting firms"
+        ],
+        "Bangladesh Finished Leather, Leathergoods and Footwear Exporters Association": [
+          "imported materials",
+          "certification"
+        ],
+        "Bangladesh Tanners Association": [
+          "registered tannery industry firms",
+          "imported inputs",
+          "concessional customs duty rates"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        12,
+        105,
+        195,
+        229,
+        285,
+        819,
+        916,
+        993,
+        996,
+        1164,
+        2355,
+        3950,
+        4758,
+        7966,
+        9402,
+        12626
+      ],
+      "source_file": "customs_sros_OCR/20160602_152-AIN_2016_14-Customs/20160602_152-AIN_2016_14-Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

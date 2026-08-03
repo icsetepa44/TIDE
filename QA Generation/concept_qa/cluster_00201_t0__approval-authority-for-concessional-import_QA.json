@@ -1,0 +1,221 @@
+{
+  "thread_id": "cluster_00201_t0",
+  "cluster_id": 201,
+  "cluster_label": "Chairman of the National Board of Revenue",
+  "title": "Approval Authority for Concessional Import",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 15,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 3,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "After years of planning, our manufacturing firm has finally inaugurated its new production facility in early 2017. We are now ready to source raw materials from abroad and intend to utilize the government's concessional import benefits to lower our operational costs. To ensure we are following the correct regulatory path, we need to identify the specific high-level authority empowered to review and grant this request. To whom must the company submit its application for concessional import approval?",
+      "question": "To whom must the company submit its application for concessional import approval?",
+      "answer": "The application must be submitted to the Chairman of the National Board of Revenue.",
+      "date_or_instrument": "2017-06-01 | SRO 132-AIN/2017",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Our manufacturing entity has filed for the necessary duty concessions to support our current production expansion in 2019. We have been informed that a formal on-site inspection is required to verify our claims before the benefits can be finalized. We need to prepare our facility and staff to receive the designated government officials for this evaluation. Which specific officials are responsible for performing the on-site inspection and verification of the manufacturing entity?",
+      "question": "Which specific officials are responsible for performing the on-site inspection and verification of the manufacturing entity?",
+      "answer": "The Second Secretary (Customs Policy) of the National Board of Revenue and the relevant VAT divisional officer.",
+      "date_or_instrument": "2019-05-30 | SRO 2019",
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2022, our motorcycle manufacturing plant reached full operational capacity, and we have applied for duty concessions on the components imported for our assembly line. The authorities have notified us that a specialized verification committee will be visiting our site to inspect the factory's infrastructure and production capabilities. We are currently preparing the necessary documentation and want to ensure we know exactly who will be present during this assessment. What is the composition of the committee responsible for verifying the factory operations?",
+      "question": "What is the composition of the committee responsible for verifying the factory operations?",
+      "answer": "The committee consists of representatives from the National Board of Revenue, the relevant VAT divisional office, and the Ministry of Industries.",
+      "date_or_instrument": "2022-06-09 | SRO 2022",
+      "clause_text_ids": [
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Our industrial establishment successfully secured approval for concessional import privileges in 2025, and our first major shipment of raw materials has just arrived at the port. As our logistics team prepares the Bill of Entry, we want to ensure there are no delays during the customs clearance process. We need to confirm the mandatory supporting paperwork that must accompany our declaration to prove our eligibility for the reduced rates. What document must be submitted alongside the Bill of Entry during the customs clearance process for every consignment?",
+      "question": "What document must be submitted alongside the Bill of Entry during the customs clearance process for every consignment?",
+      "answer": "An attested copy of the approval letter for the concessional import facility must be submitted.",
+      "date_or_instrument": "2025-06-02 | SRO 2025",
+      "clause_text_ids": [
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Our manufacturing unit is currently in the middle of the 2021 vetting process to qualify for official import concessions. As part of the standard verification procedure, we have been advised that a team of inspectors will visit our factory floor to confirm our operational status. We are coordinating with the local VAT authorities, but we need to clarify which additional representative must accompany them to complete the inspection. Which representative, alongside the VAT officer, is required to conduct the site inspection of the factory premises?",
+      "question": "Which representative, alongside the VAT officer, is required to conduct the site inspection of the factory premises?",
+      "answer": "A representative from the ICT Division is required to conduct the site inspection.",
+      "date_or_instrument": "2021-06-03 | SRO 116-AIN/2021",
+      "clause_text_ids": [
+        "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Our company has been diligently working through the application process for duty concessions throughout 2025, and we are now awaiting the final verdict from the authorities. We understand that a committee was dispatched to our industrial site to conduct a thorough review of our activities and infrastructure. We are eager to know the specific standard that the inspectors must confirm in their report for our application to be officially approved. Under what condition is an applicant institution finally granted approval for concessional duty rates?",
+      "question": "Under what condition is an applicant institution finally granted approval for concessional duty rates?",
+      "answer": "Approval is granted if the committee's inspection report finds the institution's industrial establishment activities to be satisfactory.",
+      "date_or_instrument": "2025-06-02 | SRO 193-AIN/2025",
+      "clause_text_ids": [
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2017, the process for concessional import approval involved a multi-disciplinary committee consisting of the National Board of Revenue, VAT officials, and Ministry of Industry representatives who submitted a report to the Chairman.",
+      "question": "Was the committee-based verification process involving the Ministry of Industry in place as of SRO 132-AIN/2017?",
+      "conflict": "The passage incorrectly attributes the committee structure formalized in 2022 to the 2017 policy.",
+      "answer": "No. According to SRO 132-AIN/2017, the initial requirement was for the applicant to report directly to the Chairman of the NBR, with verification conducted by the ICT Division and VAT officials. The formalization of a committee involving the Ministry of Industries only occurred later, as established in SRO 2022-06-09.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under SRO 2019-05-30, manufacturing entities were required to have their facilities verified by a committee including representatives from the Ministry of Industries before the Chairman of the NBR could grant approval.",
+      "question": "Did SRO 2019-05-30 include the Ministry of Industries in the verification committee?",
+      "conflict": "The passage incorrectly identifies the institutional composition of the 2019 verification process.",
+      "answer": "No. SRO 2019-05-30 introduced the Second Secretary (Customs Policy) and VAT officials into the verification process. The inclusion of the Ministry of Industries as part of a formal committee was not introduced until SRO 2022-06-09.",
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of SRO 132-AIN/2017, applicants were required to submit an attested copy of their approval letter along with the Bill of Entry for every consignment during customs clearance.",
+      "question": "Was the requirement to attach an approval letter to the Bill of Entry a feature of the 2017 policy?",
+      "conflict": "The passage incorrectly backdates a documentation requirement introduced in later SROs to the 2017 policy.",
+      "answer": "No. The requirement to submit an attested copy of the approval letter along with the Bill of Entry was not part of SRO 132-AIN/2017. This procedural requirement was formally established in later orders, specifically appearing in SRO 2022-06-09 and reaffirmed in SRO 2025-06-02.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial manufacturer applied for concessional import benefits in 2017 by submitting a direct application to the Chairman of the NBR. In 2025, a new applicant seeking the same benefits must undergo a different verification process before the Chairman grants approval.",
+      "question": "How has the role of the committee and the Chairman's approval process evolved from the 2017 procedure to the 2025 requirement?",
+      "answer": "In 2017, the process involved a direct application to the Chairman. By 2025, the process shifted to a committee-based verification where the committee must conduct a physical inspection and submit a formal report to the Chairman, who then grants approval only if the committee's report deems the industrial establishment activities satisfactory.",
+      "clauses_involved": [
+        "2017-06-01 | SRO 132-AIN/2017",
+        "2025-06-02 | SRO 2025"
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturing firm observed that in 2019, the verification process for their import concession application involved the Second Secretary (Customs Policy) and VAT officials. By 2022, the regulatory framework changed to include the Ministry of Industries in the verification committee.",
+      "question": "What is the primary difference in institutional involvement regarding the verification committee between the 2019 and 2022 regulations?",
+      "answer": "The 2019 regulation involved the Second Secretary (Customs Policy) and VAT officials, whereas the 2022 regulation expanded the institutional involvement to include the National Board of Revenue, VAT officials, and the Ministry of Industries.",
+      "clauses_involved": [
+        "2019-05-30 | SRO 2019",
+        "2022-06-09 | SRO 2022"
+      ],
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "two years later",
+      "question": "In 2017-06-01, manufacturers applied directly to the Chairman of the NBR for concessional import approval. What changed in the verification process two years later?",
+      "answer": "In 2019-05-30 (SRO 2019), the verification process was expanded to include the Second Secretary (Customs Policy) of the NBR alongside the relevant VAT divisional officers for on-site inspections.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "three years later",
+      "question": "Following the 2019-05-30 procedure involving the Second Secretary, how was the verification committee structure formalized three years later?",
+      "answer": "In 2022-06-09 (SRO 2022), a formal committee was established involving the NBR, VAT officials, and representatives from the Ministry of Industries to evaluate applications for duty concessions.",
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "three years later",
+      "question": "After the committee was formalized in 2022-06-09, what was the status of the committee's reporting role three years later?",
+      "answer": "In 2025-06-02 (SRO 2025), the committee's reporting structure was consolidated, requiring a formal site inspection report to be submitted to the Chairman of the NBR as the final prerequisite for granting concessional import approval.",
+      "clause_text_ids": [
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "A verification committee consisting of the National Board of Revenue, VAT officials, and the Ministry of Industries is formalized to inspect applicant factories.",
+        "The Second Secretary of Customs Policy is introduced into the verification process alongside VAT officials to inspect applicant industries.",
+        "The Chairman of the National Board of Revenue is designated as the sole authority to receive applications, with reports submitted by the ICT Division and VAT officials.",
+        "The committee-based reporting structure is consolidated as the mandatory prerequisite for the Chairman of the National Board of Revenue to grant concessional import approval."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Chairman of the National Board of Revenue is designated as the sole authority to receive applications, with reports submitted by the ICT Division and VAT officials.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The Second Secretary of Customs Policy is introduced into the verification process alongside VAT officials to inspect applicant industries.",
+          "date": "2019-05-30"
+        },
+        {
+          "event": "A verification committee consisting of the National Board of Revenue, VAT officials, and the Ministry of Industries is formalized to inspect applicant factories.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The committee-based reporting structure is consolidated as the mandatory prerequisite for the Chairman of the National Board of Revenue to grant concessional import approval.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json",
+        "customs_sros_OCR/20190530_159-AIN_2019_28_Customs/20190530_159-AIN_2019_28_Customs_output.json",
+        "customs_sros_OCR/20220609_139-AIN_2022_87_Customs/20220609_139-AIN_2022_87_Customs_output.json",
+        "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00201_t0__approval-authority-for-concessional-import.json"
+    }
+  ]
+}

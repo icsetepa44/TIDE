@@ -1,0 +1,304 @@
+{
+  "cluster_id": 389,
+  "cluster_label": "customs offices",
+  "thread_index": 1,
+  "thread_id": "cluster_00389_t1",
+  "title": "Customs Risk Management and Operational Procedures",
+  "summary": "This thread tracks the evolution of how customs offices handle risk management and operational mandates outside of the AEO framework, moving toward digital integration and automated risk reporting.",
+  "evolution": {
+    "digital_transformation": "Transition from manual reporting to centralized software-based risk management.",
+    "decentralization": "Increased autonomy for local offices to define specific business processes."
+  },
+  "timeline": [
+    {
+      "date": "2023-09-27",
+      "instrument": "PCA Audit Guidelines",
+      "change": "Establishment of post-clearance audit reporting requirements for customs offices.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57"
+      ]
+    },
+    {
+      "date": "2024-03-14",
+      "instrument": "Customs Business Process Rules",
+      "change": "Delegation of authority to local customs houses to define manifest submission processes.",
+      "clause_ids": [
+        "20240314_._১৪ মার্চ, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "instrument": "Risk Management Directive",
+      "change": "Mandating digital entry of risk information into the ARMS software by various customs offices.",
+      "clause_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_57",
+      "clause_title": "৬.৩.৪ চূড়ান্ত প্রতিবেদন",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+      "resolved_text": "৬.৩.৪ চূড়ান্ত প্রতিবেদন—প্রাথমিক প্রতিবেদন উপস্থাপনা এবং প্রতিষ্ঠান থেকে আপত্তি, মন্তব্য বা অন্যান্য প্রতিক্রিয়া সংগ্রহের পর, অডিট দল একটি চূড়ান্ত অডিট প্রতিবেদন তৈরি করবে যা PCA তত্ত্বাবধানকারীর নিকট পাঠাতে হবে। যেকোনো সমস্যা নিষ্পত্তির জন্য প্রতিবেদনের একটি অনুলিপি দায়িত্বশীল কাস্টমস অফিস এবং ইউনিটগুলোতেও পাঠাতে হবে। চূড়ান্ত প্রতিবেদন উপস্থাপনের আগে, তাদের সিদ্ধান্তে সমর্থন করার জন্য প্রয়োজনীয় সমস্ত প্রাসঙ্গিক তথ্য এবং প্রমাণ সঠিকভাবে পরীক্ষিত হয়েছে, ফলাফলগুলো মূল্যায়ন করা হয়েছে এবং নথিবদ্ধ করা হয়েছে অডিট টিম এটি নিশ্চিত করবেন। চূড়ান্ত রিপোর্টটি হবে বিস্তারিত এবং প্রাথমিক প্রতিবেদন পরবর্তীতে সৃষ্ট যেকোনো সমস্যা সমাধানের উপযোগী। চূড়ান্ত প্রতিবেদনে পরিশিষ্ট-৪ তে বর্ণিত বিষয়াদি অন্তর্ভুক্ত থাকবে। চূড়ান্ত প্রতিবেদন অডিট তত্ত্বাবধানকারী কর্মকর্তার নিকট জমা দিতে হবে।",
+      "entity_concepts": {
+        "Post Clearance Audit": [
+          "The audit team is responsible for preparing a detailed final audit report after incorporating responses, comments, or objections received from the auditee entity. This report must be submitted to the audit supervisor for review.",
+          "The final report must contain comprehensive documentation, evidence, and verified findings, ensuring that all conclusions are supported and formally recorded prior to submission.",
+          "The report must include the specific elements detailed in the fourth appendix and serve as a resolution document for any issues arising from the preliminary audit phase. Copies must be forwarded to the relevant customs offices and units for necessary actions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_728",
+      "entity_sub_entities": {
+        "Post Clearance Audit": [
+          "audit team",
+          "final audit report",
+          "responses",
+          "comments",
+          "objections",
+          "auditee entity",
+          "audit supervisor",
+          "documentation",
+          "evidence",
+          "verified findings",
+          "fourth appendix",
+          "resolution document",
+          "preliminary audit phase",
+          "customs offices",
+          "units"
+        ]
+      },
+      "clause_clusters": [
+        63,
+        276,
+        277,
+        301,
+        389,
+        1009,
+        2727,
+        2994,
+        4421,
+        5089,
+        5754,
+        6463,
+        8327,
+        10852,
+        11500,
+        13267
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "বিজনেস প্রসেস জারি সংক্রান্ত বিধান",
+      "text_id": "20240314_._১৪ মার্চ, ২০২৪_clause_6",
+      "resolved_text": "৭। বিজনেস প্রসেস জারি সংক্রান্ত বিধান।—এই বিধিমালার সহিত সংগতি রাখিয়া কাস্টম হাউস বা কমিশনারেটসমূহ প্রয়োজনীয় অফিস আদেশ দ্বারা আমদানি ম্যানিফেস্ট দাখিলে উপযুক্ত কর্তৃপক্ষ নির্ধারণ ও সহায়ক বিজনেস প্রসেস জারি করিতে পারিবে।",
+      "entity_concepts": {
+        "Customs House": [
+          "Customs Houses are empowered to issue necessary office orders to specify appropriate authorities for the submission of import manifests and to establish supporting business processes in alignment with the existing rules."
+        ],
+        "Commissioner of Customs": [
+          "Commissionerates are authorized to issue office orders to determine the appropriate authority for import manifest filing and implement necessary business processes consistent with these regulations."
+        ],
+        "Import Manifest": [
+          "The process for filing import manifests shall be governed by office orders issued by the relevant customs authorities, ensuring alignment with the established rules."
+        ],
+        "Business Process": [
+          "Supporting business processes may be issued via office orders by customs offices to facilitate operational requirements, provided they remain consistent with the broader regulatory framework."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2549",
+      "entity_sub_entities": {
+        "Customs House": [
+          "office orders",
+          "appropriate authorities",
+          "import manifests",
+          "business processes",
+          "rules"
+        ],
+        "Commissioner of Customs": [
+          "Commissionerates",
+          "office orders",
+          "appropriate authority",
+          "import manifest",
+          "business processes",
+          "regulations"
+        ],
+        "Import Manifest": [
+          "office orders",
+          "customs authorities",
+          "rules"
+        ],
+        "Business Process": [
+          "office orders",
+          "customs offices",
+          "operational requirements",
+          "regulatory framework"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        29,
+        45,
+        60,
+        80,
+        121,
+        237,
+        389,
+        945,
+        1159,
+        1237,
+        1350,
+        2166,
+        3555,
+        3556,
+        5610
+      ],
+      "source_file": "customs_sros_OCR/20240314_./20240314_._output.json",
+      "clause_date": "2024-03-14"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট ব্যতীত বোর্ডের অন্যান্য দপ্তর কর্তৃক ঝুঁকি ব্যবস্থাপনা পদ্ধতি",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+      "resolved_text": "৪। কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট ব্যতীত বোর্ডের অন্যান্য দপ্তর কর্তৃক ঝুঁকি ব্যবস্থাপনা পদ্ধতি।—(১) বোর্ডের অধীন কাস্টমস স্টেশন, মূসক কমিশনারেট, কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর, সেন্ট্রাল ইন্টেলিজেন্স সেল, কাস্টমস বন্ড কমিশনারেটসমূহ কোনো পণ্যচালানের বিষয়ে শুল্কায়নের পূর্বে ঝুঁকি সংক্রান্ত আগাম তথ্য প্রাপ্ত হইলে উহা এআরএমএস সফটওয়্যারে এন্ট্রি করিবে।\n(২) পণ্যচালানের শুল্কায়ন সম্পন্ন হইবার পর উপ-বিধি (১) এ বর্ণিত কোনো তথ্য প্রাপ্ত হইলে সংশ্লিষ্ট কাস্টমস স্টেশন বা কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর বা সেন্ট্রাল ইন্টেলিজেন্স সেল তাৎক্ষণিকভাবে প্রতিরোধমূলক প্রয়োজনীয় ব্যবস্থা গ্রহণ করিবে এবং উক্ত ব্যবস্থার ফলাফল এআরএমএস সফটওয়্যারে এন্ট্রি করিবে।\n(৩) যাত্রী সংশ্লিষ্ট ঝুঁকি সংক্রান্ত কোনো তথ্য প্রাপ্ত হইলে সংশ্লিষ্ট কাস্টমস স্টেশন বা কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর বা সেন্ট্রাল ইন্টেলিজেন্স সেল তাৎক্ষণিকভাবে প্রতিরোধমূলক প্রয়োজনীয় সকল ব্যবস্থা গ্রহণ করিবে এবং উক্ত ব্যবস্থার ফলাফল এআরএমএস সফটওয়্যারে এন্ট্রি করিবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Board oversees various departments that are responsible for implementing risk management procedures regarding customs consignments and passengers."
+        ],
+        "ARMS Software": [
+          "This software serves as the central platform for recording risk-related information for cargo consignments and the outcomes of preventive actions taken by customs offices.",
+          "Customs offices and investigation units must input the results of any preventive measures taken regarding cargo or passengers directly into the ARMS software."
+        ],
+        "Customs Risk Management": [
+          "Various customs departments, including customs stations, VAT commissionerates, intelligence cells, and bonding commissionerates, must document pre-clearance risk information in the designated system.",
+          "Upon identifying risk-related information after the customs clearance process for goods, the relevant departments are mandated to take immediate preventive actions and update the system accordingly.",
+          "In cases where risk-related information concerning passengers is discovered, the authorized customs departments must execute immediate preventive measures and record the results in the risk management software."
+        ],
+        "Customs Station": [
+          "These stations are tasked with inputting advance risk information into the risk management software and carrying out preventive measures for both goods and passengers when necessary."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "This directorate is responsible for entering risk data into the software and initiating preventive actions against identified risks related to goods or passengers."
+        ],
+        "Central Intelligence Cell": [
+          "The cell is required to record risk information regarding cargo and passengers in the risk management software and implement necessary preventive steps when such risks are identified."
+        ],
+        "Customs Commissioner": [
+          "This office is mandated to input advance risk information concerning cargo consignments into the designated customs risk management system."
+        ],
+        "Value Added Tax Commissionerate": [
+          "This department is responsible for recording advance risk information related to cargo consignments into the authorized risk management system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1226",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "departments",
+          "risk management procedures",
+          "customs consignments",
+          "passengers"
+        ],
+        "ARMS Software": [
+          "risk-related information",
+          "cargo consignments",
+          "outcomes of preventive actions",
+          "customs offices",
+          "investigation units",
+          "cargo",
+          "passengers"
+        ],
+        "Customs Risk Management": [
+          "customs stations",
+          "VAT commissionerates",
+          "intelligence cells",
+          "bonding commissionerates",
+          "pre-clearance risk information",
+          "goods",
+          "risk-related information",
+          "customs clearance process",
+          "preventive actions",
+          "passengers",
+          "risk management software"
+        ],
+        "Customs Station": [
+          "advance risk information",
+          "risk management software",
+          "preventive measures",
+          "goods",
+          "passengers"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "risk data",
+          "software",
+          "preventive actions",
+          "goods",
+          "passengers"
+        ],
+        "Central Intelligence Cell": [
+          "risk information",
+          "cargo",
+          "passengers",
+          "risk management software",
+          "preventive steps"
+        ],
+        "Customs Commissioner": [
+          "advance risk information",
+          "cargo consignments",
+          "customs risk management system"
+        ],
+        "Value Added Tax Commissionerate": [
+          "advance risk information",
+          "cargo consignments",
+          "authorized risk management system"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        25,
+        113,
+        118,
+        135,
+        199,
+        224,
+        389,
+        405,
+        483,
+        920,
+        1112,
+        1364,
+        1843,
+        1847,
+        1872,
+        2235,
+        2416,
+        2527,
+        3816,
+        4570,
+        4571,
+        5630,
+        6059,
+        6880,
+        6990,
+        9136,
+        9261,
+        10432,
+        10894,
+        13209
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,48 @@
+{
+  "group_id": "cluster_00018_t0__X__cluster_00068_t0",
+  "entities": [
+    "Authorized Economic Operator",
+    "applications"
+  ],
+  "cluster_ids": [
+    18,
+    68
+  ],
+  "thread_ids": [
+    "cluster_00018_t0",
+    "cluster_00068_t0"
+  ],
+  "num_shared_clauses": 11,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the institutional role of the AEO Center evolved to manage the processing of Authorized Economic Operator (AEO) applications compared to the earlier committee-based structure?",
+      "answer": "Under the 2018 framework, a committee was responsible for application scrutiny and recommending certification [0]. By 2024-2025, this evolved into a specialized AEO Center model where the Director General of the AEO Center is mandated to form a specialized branch under an Assistant Commissioner of Customs to handle the receipt and initial verification of applications [1], [7]. The Center now also ensures the accessibility of application forms, procedures, and provides guidance to interested applicants [6], while utilizing formal workflows for handling information deficiencies in applications [10].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "applications"
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_2",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_21",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_26"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What are the procedural requirements for an Authorized Economic Operator when submitting applications for specific benefits like duty drawback?",
+      "answer": "When an AEO submits an application for duty drawback, they must explicitly mention their certification status and ensure the application is submitted on a pad containing the AEO logo [8]. Furthermore, applicants must have a clear understanding of the provisions set forth in the AEO (Recognition and Management) Rules, 2024, and follow these rules strictly during the application submission and processing stages [5].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "applications"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_19",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_77"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "thread_id": "cluster_00765_t0",
+  "cluster_id": 765,
+  "cluster_label": "customs orders",
+  "title": "Customs Duty Exemption and Tariff Amendment Procedures",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 169-AIN/2016, issued on June 2, 2016, utilized the Value Added Tax and Supplementary Duty Act 2012 as its legal basis for amending customs orders.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Value Added Tax and Supplementary Duty Act 2012",
+      "correct_fact": "Value Added Tax Act 1991",
+      "answer": "The statement is inaccurate. SRO 169-AIN/2016, issued on June 2, 2016, derived its legal authority from the Value Added Tax Act 1991, not the 2012 Act.",
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 148-AIN/2022, dated June 1, 2022, marks the shift in legal basis for customs order amendments to the Value Added Tax and Supplementary Duty Act 2012.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the provided context, SRO 148-AIN/2022 (June 1, 2022) reflects the transition to the Value Added Tax and Supplementary Duty Act 2012.",
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1",
+        "20180607_158-AIN_2018_24_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to SRO 138-AIN/2017, the government is required to consult with the National Board of Revenue before issuing or amending regulatory notifications under customs and VAT laws.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 138-AIN/2017 confirms that the National Board of Revenue is the designated authority that must be consulted by the government for such notifications.",
+      "clause_text_ids": [
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 158-AIN/2018, issued on June 7, 2018, amended an existing notification to update specific HS Code entries using authority granted by Section 19(1) of the Customs Act 1969 and Section 14(1) of the Value Added Tax Act 1991.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 158-AIN/2018 cites Section 19(1) of the Customs Act 1969 and Section 14(1) of the Value Added Tax Act 1991 as its legal authority.",
+      "clause_text_ids": [
+        "20180607_158-AIN_2018_24_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 138-AIN/2022, issued in 2022, cites Section 126(1) of the Value Added Tax Act 1991 as the legal authority for amending customs-related notifications.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Value Added Tax Act 1991",
+      "correct_fact": "Value Added Tax and Supplementary Duty Act 2012",
+      "answer": "The statement is inaccurate. SRO 138-AIN/2022 cites Section 126(1) of the Value Added Tax and Supplementary Duty Act 2012, not the 1991 Act.",
+      "clause_text_ids": [
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The primary scope of the customs duty amendments tracked in this thread involves the continuous refinement of HS codes and tariff descriptions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The evolution dimensions noted in the context explicitly identify the continuous refinement of HS codes and tariff descriptions for customs duty adjustments.",
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1",
+        "20180607_158-AIN_2018_24_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "On June 1, 2022, the government issued SRO 148-AIN/2022, which utilized the legal authority of the Value Added Tax Act, 1991 to amend previous customs orders.",
+      "question": "Does the legal basis stated in the provided context for SRO 148-AIN/2022 align with the established legislative evolution of Bangladeshi tax policy?",
+      "conflict": "The context incorrectly cites the Value Added Tax Act, 1991 as the legal basis for SRO 148-AIN/2022, whereas the actual policy evolution shows a transition to the Value Added Tax and Supplementary Duty Act, 2012 by that date.",
+      "answer": "No, the context is incorrect. According to the timeline and source data for SRO 148-AIN/2022 dated 2022-06-01, the legal basis for the amendment is the Value Added Tax and Supplementary Duty Act, 2012, not the Value Added Tax Act, 1991.",
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1",
+        "20180607_158-AIN_2018_24_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer is reviewing the legal evolution of regulatory authority for SROs. They note that between 2016 and 2018, the government consistently cited the 'Value Added Tax Act, 1991' as the legal basis alongside the Customs Act, 1969. By 2022, they observe that new SROs are citing a different primary legislation.",
+      "question": "How did the legal basis for issuing customs amendment notifications change between the 2016-2018 period and the 2022 period?",
+      "answer": "The legal basis transitioned from the Value Added Tax Act, 1991 to the Value Added Tax and Supplementary Duty Act, 2012.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2017-06-01",
+        "2018-06-07",
+        "2022-06-01"
+      ],
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1",
+        "20180607_158-AIN_2018_24_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "one year later",
+      "question": "In the year following the issuance of SRO 169-AIN/2016, which specific SRO was introduced to replace existing table entries under the Customs Act 1969 and VAT Act 1991?",
+      "answer": "One year later, in 2017, SRO 138-AIN/2017 was issued, which replaced existing table entries under the authority of the Customs Act 1969 and the VAT Act 1991.",
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2018-06-07",
+      "relative_offset": "four years later",
+      "question": "Four years after the modification of tariff headings via SRO 158-AIN/2018, what significant change occurred regarding the legal basis for customs duty amendments?",
+      "answer": "Four years later, in 2022, SRO 148-AIN/2022 was issued, marking a shift in the legal basis from the VAT Act 1991 to the Value Added Tax and Supplementary Duty Act 2012.",
+      "clause_text_ids": [
+        "20180607_158-AIN_2018_24_Customs_২৯ মে, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government replaces an entire table within a customs notification under the authority of the Customs Act and the Value Added Tax Act.",
+        "The government modifies tariff headings and HS codes in a customs notification using the authority of the Customs Act and the Value Added Tax Act.",
+        "The government amends a customs notification by citing the Customs Act and the Value Added Tax and Supplementary Duty Act as the legal basis.",
+        "The government amends a customs notification by replacing specific HS code entries under the authority of the Customs Act and the Value Added Tax Act."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government amends a customs notification by replacing specific HS code entries under the authority of the Customs Act and the Value Added Tax Act.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The government replaces an entire table within a customs notification under the authority of the Customs Act and the Value Added Tax Act.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The government modifies tariff headings and HS codes in a customs notification using the authority of the Customs Act and the Value Added Tax Act.",
+          "date": "2018-06-07"
+        },
+        {
+          "event": "The government amends a customs notification by citing the Customs Act and the Value Added Tax and Supplementary Duty Act as the legal basis.",
+          "date": "2022-06-01"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20170601_138-AIN__১ জুন, ২০১৭_clause_1",
+        "20180607_158-AIN_2018_24_Customs_২৯ মে, ২০১৮_clause_1",
+        "metadata_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_169-AIN_2016_31-Customs/20160602_169-AIN_2016_31-Customs_output.json",
+        "customs_sros_OCR/20170601_138-AIN_/20170601_138-AIN__output.json",
+        "customs_sros_OCR/20180607_158-AIN_2018_24_Customs/20180607_158-AIN_2018_24_Customs_output.json",
+        "customs_sros_OCR/20220609_148-AIN_2022_96_Customs/20220609_148-AIN_2022_96_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00765_t0__customs-duty-exemption-and-tariff-amendment-proced.json"
+    }
+  ]
+}

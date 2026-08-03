@@ -1,0 +1,166 @@
+{
+  "thread_id": "cluster_00559_t1",
+  "cluster_id": 559,
+  "cluster_label": "inspection report",
+  "title": "Standardized Inspection Report Templates",
+  "source_num_member_objects": 7,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The factory inspection report template for compressor manufacturing was initially established under SRO 2019, issued on May 30, 2019.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the timeline, SRO 2019, dated 2019-05-30, provided the initial template for compressor manufacturing.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The factory inspection report for electrical components such as switches and sockets was introduced under SRO 2023, dated June 1, 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 1, 2024",
+      "correct_fact": "June 1, 2023",
+      "answer": "The statement is inaccurate. The template for electrical components was introduced under SRO 2023, which is dated 2023-06-01, not 2024.",
+      "clause_text_ids": [
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the industrial inspection guidelines, the Business Identification Number (BIN) is a static data field required across all industry-specific inspection report templates.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The evolution dimensions confirm that core data fields, including the BIN, remain static across all industry-specific templates.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The regulatory order SRO 194-AIN/2025/16/Customs, which provides import benefits for lithium or graphene battery manufacturers, was issued on May 29, 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "May 29, 2024",
+      "correct_fact": "May 29, 2025",
+      "answer": "The statement is inaccurate. The regulatory order SRO 194-AIN/2025/16/Customs was issued on May 29, 2025.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The factory inspection report for Automated Teller Machines (ATM) and Closed Circuit Cameras is governed by SRO 202-AIN/2022/110/Customs.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate according to the provided context for the inspection of ATM and Closed Circuit Camera production facilities.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The factory inspection report for air conditioner manufacturing facilities is regulated under SRO 172-AIN/2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "SRO 172-AIN/2024",
+      "correct_fact": "SRO 167-AIN/2024",
+      "answer": "The statement is inaccurate. The inspection report for air conditioner manufacturing is governed by SRO 167-AIN/2024, whereas SRO 172-AIN/2024 applies to electrical accessories.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2019, the National Board of Revenue introduced the standardized factory inspection report under S.R.O. 158-AIN/2019, which initially mandated the reporting of BIN, TIN, and land details specifically for the production of electrical components like switches and sockets.",
+      "question": "Does the 2019 inspection report template under S.R.O. 158-AIN/2019 apply to the production of electrical components such as switches and sockets?",
+      "conflict": "The misaligned context incorrectly attributes the electrical components template to the 2019 SRO, whereas the context states the 2019 SRO was for compressor manufacturing, and the electrical components template was introduced later in 2023.",
+      "answer": "No. According to the provided timeline, S.R.O. 158-AIN/2019 (dated 2019-05-30) was the initial template specifically for compressor manufacturing. The template for electrical components such as switches and sockets was introduced later under S.R.O. 120-AIN/2023, dated 2023-06-01.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A factory owner operated a compressor manufacturing unit inspected under the 2019 inspection template. In 2023, the same owner expanded their business to include electrical component manufacturing (switches and sockets). The owner wants to know if the core identification requirements for their inspection reports have changed regarding the owner's information between these two periods.",
+      "question": "How did the requirement for reporting the owner's information evolve from the 2019 compressor manufacturing template to the 2023 electrical component manufacturing template?",
+      "answer": "While both templates require the Tax Identification Number (TIN), the 2023 template specifically expanded the requirement to include the owner/proprietor's name and address (current/permanent), whereas the 2019 template only explicitly mentioned the owner/proprietor in the context of documentation purposes.",
+      "clauses_involved": [
+        "2019-05-30 | SRO 2019",
+        "2023-06-01 | SRO 2023"
+      ],
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "four years later",
+      "question": "In 2019-05-30, the initial inspection template for compressor manufacturing was established. Four years later, what specific industrial sector was covered by a new standardized inspection report template?",
+      "answer": "In 2023-06-01 (SRO 2023), a new standardized inspection report template was introduced for the electrical components sector, including switches, sockets, lamp holders, dimmers, and plugs.",
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The factory inspection report template is established for air conditioner manufacturing or assembly facilities.",
+        "The factory inspection report template is established for compressor manufacturing.",
+        "The factory inspection report template is established for electrical components such as switches, sockets, lamp holders, dimmers, and plugs."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The factory inspection report template is established for compressor manufacturing.",
+          "date": "2019-05-30"
+        },
+        {
+          "event": "The factory inspection report template is established for electrical components such as switches, sockets, lamp holders, dimmers, and plugs.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The factory inspection report template is established for air conditioner manufacturing or assembly facilities.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "metadata_7"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20190530_158-AIN_2019_27_Customs/20190530_158-AIN_2019_27_Customs_output.json",
+        "customs_sros_OCR/20230601_120-AIN_2023_164_Customs/20230601_120-AIN_2023_164_Customs_output.json",
+        "customs_sros_OCR/20240606_167-AIN_2024_19_Customs/20240606_167-AIN_2024_19_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00559_t1__standardized-inspection-report-templates.json"
+    }
+  ]
+}

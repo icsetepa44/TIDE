@@ -1,0 +1,181 @@
+{
+  "thread_id": "cluster_00730_t0",
+  "cluster_id": 730,
+  "cluster_label": "transport documents",
+  "title": "Evolution of Transport Documents in Customs Procedures",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument first established transport documents as supporting evidence for retrospective origin certification for goods in transit or storage?",
+      "options": [
+        "Customs Act 2023",
+        "D-8 PTA Rules (2022-10-18)",
+        "Customs Declaration Rules (2024-06-06)",
+        "AIN 2025-52"
+      ],
+      "answer_index": 1,
+      "answer": "D-8 PTA Rules (2022-10-18)",
+      "explanation": "The 2022-10-18 D-8 PTA Rules established that transport documents serve as supporting evidence to validate the status of goods in transit or storage for retrospective Certificate of Origin submission.",
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When did the submission of specific transport documents like Bills of Lading or Air Way Bills become a formalized mandatory requirement for standard import/export declarations?",
+      "options": [
+        "2022-10-18",
+        "2023-01-01",
+        "2024-06-06",
+        "2025-06-02"
+      ],
+      "answer_index": 2,
+      "answer": "2024-06-06",
+      "explanation": "The Customs Declaration Rules dated 2024-06-06 formalized the mandatory submission of transport documents, such as Bills of Lading or Air Way Bills, as part of the standard import/export declaration package.",
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2025-06-02 Customs Act 2023 implementation, what is the primary role of transport documents in the Customs Computerised Entry Processing System?",
+      "options": [
+        "They are only used for manual physical inspection records.",
+        "They serve as the basis for automated clearance and risk-based physical inspection.",
+        "They replace the need for Certificate of Origin documents entirely.",
+        "They are only required for goods held in bonded warehouses."
+      ],
+      "answer_index": 1,
+      "answer": "They serve as the basis for automated clearance and risk-based physical inspection.",
+      "explanation": "According to the 2025-06-02 implementation of the Customs Act 2023, transport documents facilitate automated clearance and risk-based physical inspection when cargo declarations are filed.",
+      "clause_text_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which document management requirement was introduced to handle cargo declarations that cannot be filed electronically as a single entry under the 2025-06-02 regulations?",
+      "options": [
+        "Manual filing of paper-only manifests without system entry.",
+        "Declaration based on transport documents like bills of lading or airway bills.",
+        "Exemption from all documentation for bonded warehouse goods.",
+        "Requirement to submit only commercial contracts."
+      ],
+      "answer_index": 1,
+      "answer": "Declaration based on transport documents like bills of lading or airway bills.",
+      "explanation": "The 2025-06-02 AIN 2025-52 specifies that for shipments where electronic single-entry filing is not possible, declarations may be submitted based on transport documents such as bills of lading or airway bills.",
+      "clause_text_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has goods in a bonded warehouse since 2022 that were subject to the D-8 PTA rules. In 2024, they prepare to file a standard import declaration for these goods, and by mid-2025, they seek to clear the goods through the new Customs Computerised Entry Processing System.",
+      "question": "How has the function of transport documents changed for this importer from the 2022 D-8 PTA requirements to the 2025 Customs Act 2023 implementation?",
+      "answer": "In 2022, transport documents served as supporting evidence for retrospective origin certification; by 2025, they serve as the primary basis for automated cargo declaration, risk-based inspection selection, and digital clearance.",
+      "clauses_involved": [
+        "2022-10-18",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A shipping agent is managing a complex shipment involving multiple house bills of lading under a single master bill of lading. They are comparing the documentation requirements they faced in June 2024 with the automated processing procedures introduced in June 2025.",
+      "question": "What specific shift occurred in how transport documents are handled for multi-consignment shipments between the 2024 declaration rules and the 2025 automated registration system?",
+      "answer": "While the 2024 rules mandated the submission of transport documents as part of the standard declaration package, the 2025 system introduced automated registration logic that explicitly distinguishes between master bills of lading and house bills of lading to validate consistency in cargo declarations.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-10-18",
+      "relative_offset": "one year and eight months later",
+      "question": "Starting from the D-8 PTA Rules in 2022, what change occurred regarding transport documents one year and eight months later in the Customs Declaration Rules?",
+      "answer": "On 2024-06-06, the Customs Declaration Rules formalized the mandatory submission of specific transport documents, such as Bills of Lading, Air Way Bills, or Truck Receipts, as a standard requirement for all import and export declarations.",
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year later",
+      "question": "Following the 2024 Customs Declaration Rules, what significant transition regarding transport documents took place exactly one year later with the implementation of the Customs Act 2023?",
+      "answer": "On 2025-06-02, the implementation of the Customs Act 2023 transitioned the process to digital cargo declaration, allowing transport documents to serve as the basis for automated clearance and risk-based physical inspection.",
+      "clause_text_ids": [
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Cargo declarations transition to a system where transport documents serve as the primary basis for automated clearance and risk-based physical inspection, including the management of master and house bills of lading.",
+        "The submission of specific transport documents, such as Bills of Lading or Air Way Bills, becomes a mandatory requirement accompanying the standard goods declaration for import and export processes.",
+        "Transport documents are utilized as supporting evidence to verify the conditions of transport for originating products under trade agreements."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Transport documents are utilized as supporting evidence to verify the conditions of transport for originating products under trade agreements.",
+          "date": "2022-10-18"
+        },
+        {
+          "event": "The submission of specific transport documents, such as Bills of Lading or Air Way Bills, becomes a mandatory requirement accompanying the standard goods declaration for import and export processes.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Cargo declarations transition to a system where transport documents serve as the primary basis for automated clearance and risk-based physical inspection, including the management of master and house bills of lading.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+        "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json",
+        "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00730_t0__evolution-of-transport-documents-in-customs-proced.json"
+    }
+  ]
+}

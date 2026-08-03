@@ -1,0 +1,68 @@
+{
+  "group_id": "cluster_00066_t0__X__cluster_00148_t0",
+  "entities": [
+    "Customs Computerised Entry Processing System",
+    "information"
+  ],
+  "cluster_ids": [
+    66,
+    148
+  ],
+  "thread_ids": [
+    "cluster_00066_t0",
+    "cluster_00148_t0"
+  ],
+  "num_shared_clauses": 6,
+  "num_qa_pairs": 4,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Customs Computerised Entry Processing System manage the integrity and retention of information submitted by registered users?",
+      "answer": "According to the Customs Act, the Customs Computerised Entry Processing System must maintain records of all information sent by or received from registered users. This information must be preserved for a period of five years from the date of transmission or receipt, or for any other period as may be prescribed [5].",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "information"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_99"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What role does the Customs Computerised Entry Processing System play in the collection and analysis of information for risk management purposes?",
+      "answer": "The Customs Computerised Entry Processing System serves as the source from which the Customs Risk Management Commissionerate collects data and information for risk management. This collected information is analyzed and, if necessary, verified on-site to ensure its accuracy before being utilized as a determinant for risk management [3].",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "information"
+      ],
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_8"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does a Customs official utilize information within the Customs Computerised Entry Processing System during the assessment of goods?",
+      "answer": "During the assessment of goods, a customs official verifies the accuracy of information by checking the Customs Computerised Entry Processing System (or other specified online systems) to avoid delays [0]. Additionally, for goods selected in the 'Yellow Channel', the official assesses the goods based on the information and documents submitted within the system, ensuring there are no inconsistencies [2].",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "information"
+      ],
+      "clause_text_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_3",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_19"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What information must an applicant provide to the Commissioner of Customs to become a registered user of the Customs Computerised Entry Processing System?",
+      "answer": "An individual wishing to become a registered user of the Customs Computerised Entry Processing System must submit an application in a prescribed form to the Commissioner of Customs and provide the information requested by the Commissioner. Furthermore, the Commissioner may direct the applicant to provide any additional information deemed necessary for the registration process [4].",
+      "entities_involved": [
+        "Customs Computerised Entry Processing System",
+        "information"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_95"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,734 @@
+{
+  "cluster_id": 213,
+  "cluster_label": "Assistant Commissioner",
+  "thread_index": 2,
+  "thread_id": "cluster_00213_t2",
+  "title": "Statutory Powers of Assistant Commissioner",
+  "summary": "This thread covers the static, foundational legal powers granted to the Assistant Commissioner under the Customs Act, such as quasi-judicial authority, inspection, and administrative discretion. These definitions remain consistent as the baseline for the officer's legal standing.",
+  "evolution": {
+    "scope": "Remains largely static, defining the minimum rank threshold for various administrative and enforcement actions."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "SRO 186/2010",
+      "change": "Baseline administrative authority for baggage declaration.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8"
+      ]
+    },
+    {
+      "date": "2021-08-29",
+      "instrument": "SRO 245/2021",
+      "change": "Authority in perishable goods management committees.",
+      "clause_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8"
+      ]
+    },
+    {
+      "date": "2022-02-08",
+      "instrument": "SRO 32/2022",
+      "change": "Supervision of physical examination for temporary imports.",
+      "clause_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 10,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান।— (১) বিদেশ হইতে আগত সকল যাত্রী শুল্ক কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল/শুল্ক এলাকা ত্যাগ করিবার পূর্বেই শুল্ক কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশতঃ অথবা অন্য কোন অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) মোতাবেক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের তারিখ হইতে অনধিক ২১ (একুশ) দিনের মধ্যে সংশ্লিষ্ট সহকারী কমিশনারের নিম্নে নহেন এমন শুল্ক কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে পারিবে।\n(৪) একজন যাত্রী ১ পঞ্জিকা বৎসরে ১ বার unaccompanied baggage আনিতে পারিবেন।",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad must submit a baggage declaration by completing the form prescribed in the first schedule to the customs authority.",
+          "In cases of unaccompanied baggage, the declaration must be submitted by completing the prescribed form before leaving the customs hall or customs area.",
+          "If a declaration cannot be filed due to inadvertent errors or unavoidable circumstances, passengers may submit the required form to a customs officer, who must be at least of the rank of Assistant Commissioner, within a specified number of days from the date of arrival."
+        ],
+        "Baggage": [
+          "This clause sets out the formal requirements for declaring items brought by passengers, including unaccompanied baggage.",
+          "Passengers are permitted to import unaccompanied baggage only once per calendar year."
+        ],
+        "Appropriate Officer of Customs": [
+          "A customs officer with a rank not lower than an Assistant Commissioner is authorized to accept delayed baggage declarations if the passenger was unable to provide them upon arrival due to unavoidable reasons."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1282",
+      "entity_sub_entities": {
+        "Baggage Declaration": [
+          "baggage declaration",
+          "form",
+          "first schedule",
+          "customs authority",
+          "unaccompanied baggage",
+          "customs hall",
+          "customs area",
+          "customs officer",
+          "Assistant Commissioner"
+        ],
+        "Baggage": [
+          "items",
+          "unaccompanied baggage"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs officer",
+          "Assistant Commissioner"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        23,
+        38,
+        47,
+        49,
+        117,
+        213,
+        217,
+        246,
+        313,
+        762,
+        1181
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "পচনশীল পণ্যের ব্যবস্থাপনা কমিটি",
+      "text_id": "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+      "resolved_text": "৮। পচনশীল পণ্যের ব্যবস্থাপনা কমিটি।—(১) প্রতিটি কাস্টমস হাউস, কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেটে বা কাস্টমস স্টেশনের দায়িত্বপ্রাপ্ত কমিশনার পচনশীল পণ্য নিলাম বা অন্য কোনো পদ্ধতিতে ব্যবস্থাপনার লক্ষ্যে অনধিক ৫ (পাঁচ) সদস্য বিশিষ্ট একটি কমিটি গঠন করিবে এবং অনধিক ৫ (পাঁচ) লক্ষ টাকা মূল্যের পণ্য চালানের ক্ষেত্রে অ্যাসিস্ট্যান্ট কমিশনারের নিম্নে নহেন এইরূপ একজন কর্মকর্তা বা সংশ্লিষ্ট কমিশনার আইন অনুযায়ী যেইরূপ উপযুক্ত মনে করিবে সেইরূপ কমিটির প্রধান নির্ধারণ করিবে।\n(২) উপ-বিধি (১) এ উল্লিখিত ক্ষেত্র ব্যতীত ৫ (পাঁচ) লক্ষ টাকার অধিক মূল্যের পচনশীল পণ্যচালানের ব্যবস্থাপনার ক্ষেত্রে কমিশনার কর্তৃক নির্ধারিত কমিটি কর্তৃক, সময় সময়, জারীকৃত নিলাম আদেশ অনুযায়ী ব্যবস্থা গ্রহণ করিতে হইবে।\n(৩) উপ-বিধি (১) ও (২) এর অধীন গঠিত কমিটি অনধিক ৪৮ (আটচল্লিশ) ঘণ্টার মধ্যে নিলাম বা অন্য কোনো পদ্ধতিতে পচনশীল পণ্যের ব্যবস্থাপনা কার্যক্রম সম্পন্ন করিবে :\nতবে শর্ত থাকে যে, কমিশনার যুক্তিসঙ্গত কারণে উক্ত সময়সীমা বর্ধিত করিতে পারিবেন।",
+      "entity_concepts": {
+        "Perishable Goods Management Committee": [
+          "The Commissioner of Customs, Excise and VAT or the officer in charge of a Customs Station is required to form a committee with a maximum of five members to manage the disposal of perishable goods.",
+          "For consignments valued below a specified threshold, the committee head must be an officer not below the rank of Assistant Commissioner or another official as deemed appropriate by the Commissioner.",
+          "For consignments exceeding the specified value threshold, the committee must conduct disposal actions according to orders issued by the Commissioner.",
+          "The committee is mandated to complete the disposal process of perishable goods within a specified time limit, although the Commissioner retains the authority to extend this deadline for valid reasons."
+        ],
+        "Customs House": [
+          "Each Customs House is required to establish a management committee to facilitate the disposal of perishable goods through auction or other specified methods."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "The Commissionerate is required to establish a management committee to facilitate the disposal of perishable goods through auction or other specified methods."
+        ],
+        "Customs Station": [
+          "Each Customs Station is required to establish a management committee to facilitate the disposal of perishable goods through auction or other specified methods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1048",
+      "entity_sub_entities": {
+        "Perishable Goods Management Committee": [
+          "Commissioner of Customs, Excise and VAT",
+          "officer in charge",
+          "Customs Station",
+          "committee",
+          "members",
+          "perishable goods",
+          "consignments",
+          "committee head",
+          "Assistant Commissioner",
+          "Commissioner",
+          "disposal actions",
+          "time limit"
+        ],
+        "Customs House": [
+          "Customs House",
+          "management committee",
+          "perishable goods",
+          "auction"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "Commissionerate",
+          "management committee",
+          "perishable goods",
+          "auction"
+        ],
+        "Customs Station": [
+          "Customs Station",
+          "management committee",
+          "perishable goods",
+          "auction"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        60,
+        64,
+        102,
+        158,
+        213,
+        219,
+        269,
+        451,
+        631,
+        746,
+        864,
+        955,
+        1490,
+        1856,
+        6504,
+        10599
+      ],
+      "source_file": "customs_rules_OCR/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_output.json",
+      "clause_date": "2021-08-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি",
+      "text_id": "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_3",
+      "resolved_text": "৩। ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়ন পদ্ধতি ও আমদানির অনুমতি।—(১) ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম সাময়িক শুল্কায়নের লক্ষ্যে সংশ্লিষ্ট কাস্টমস স্টেশনের কমিশনারের নিকট আমদানির স্বপক্ষে প্রয়োজনীয় দলিলপত্র এবং পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের মূল্যের প্রমাণক তথ্য ও দলিলাদি দাখিল করিতে হইবে।\n(২) উপ-বিধি (১) এর অধীন দাখিলকৃত দলিলাদি সঠিক থাকিলে, অন্যূন সহকারী কমিশনারের তত্ত্বাবধানে শতভাগ কায়িক পরীক্ষা (physical examination) করিয়া উক্ত পরীক্ষার প্রতিবেদনের ভিত্তিতে পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের চালান সাময়িক শুল্কায়ন করিতে হইবে এবং বিল অব এন্ট্রি মুদ্রিত সংস্করণ (hard copy) এর উপর সুস্পষ্টরূপে ‘ফেরতের ভিত্তিতে সাময়িক আমদানি’ শব্দসমূহ উল্লেখ করিতে হইবে।\n(৩) কাস্টমস কম্পিউটার সিস্টেম অথবা ASYCUDA World ব্যবহৃত হয় এইরূপ কাস্টমস স্টেশনে শতভাগ কায়িক পরীক্ষা সম্পাদনের পর উল্লিখিত তথ্যাদি inspection act এ অন্তর্ভুক্ত করিতে হইবে।\n(৪) সাময়িক শুল্কায়িত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের চালানের তথ্য বৎসর ভিত্তিক সংখ্যাানুক্রমিকভাবে ফেরতের ভিত্তিতে সাময়িক আমদানি রেজিস্টারে লিপিবদ্ধ করিতে হইবে।\n(৫) আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম যে উদ্দেশ্যে আমদানি করা হইয়াছে সেই উদ্দেশ্য ব্যতীত অন্য কোনো উদ্দেশ্য বা অন্য কোনো প্রকল্পে ব্যবহার করা যাইবে না অথবা অন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট বিক্রয় বা হস্তান্তর বা সরবরাহ করা হইবে না মর্মে আমদানিকারককে ৩০০ (তিনশত) টাকার নন-জুডিশিয়াল স্ট্যাম্পে একটি অঙ্গীকারনামা সংশ্লিষ্ট কমিশনারের নিকট দাখিল করিতে হইবে:\nতবে শর্ত থাকে যে, কোনো প্রকল্পের ফেরতের ভিত্তিতে সাময়িক আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম অন্য কোনো প্রকল্পে ব্যবহারের ক্ষেত্রে উভয় প্রকল্পের প্রকল্প পরিচালকের সম্মতিপত্র গ্রহণ করিয়া জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর অনুমতি সাপেক্ষে উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি সংশোধনপূর্বক অন্যান্য আনুষ্ঠানিকতা নূতনভাবে সম্পন্ন করিয়া উক্ত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উল্লিখিত প্রকল্পে ব্যবহার বা হস্তান্তর করা যাইবে।\n(৬) সাময়িক শুল্কায়নকালে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জামের উপর প্রযোজ্য শুল্ক-করের বিপরীতে জামানত হিসাবে কোনো তফসিলি ব্যাংক হইতে শুল্ক-করের সমপরিমাণ অর্থের শর্তহীন ও অলঙ্ঘনীয় ব্যাংক গ্যারান্টি দাখিল করিতে হইবে।\n(৭) উপ-বিধি (২) এর অধীন দাখিলকৃত দলিলাদি সঠিক থাকিলে, উপ-বিধি (৫) এর অধীন অঙ্গীকারনামা এবং উপ-বিধি (৬) এ বর্ণিত ব্যাংক গ্যারান্টি যথাযথভাবে সম্পাদন করা হইলে, কমিশনার অনূর্ধ্ব ১ (এক) বৎসরের মধ্যে ফেরতের ভিত্তিতে সাময়িক আমদানির অনুমতি প্রদান করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ মেয়াদ অতিক্রান্ত হইবার অন্যূন ১ (এক) মাস পূর্বে আমদানিকারক লিখিত আবেদন করিলে কমিশনার উক্ত মেয়াদ ৬ (ছয়) মাস পর্যন্ত বর্ধিত করিতে পারিবেন।\n(৮) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম উপ-বিধি (৭) এ উল্লিখিত সময়ের মধ্যে যুক্তিসংগত কারণে ফেরত প্রদান করা সম্ভব না হইলে, আমদানিকারক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) এর নিকট সময় বৃদ্ধির জন্য আবেদন করিতে পারিবেন এবং জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস) প্রাপ্ত আবেদনটি পরীক্ষা করিয়া যথাযথ বিবেচনা করিলে প্রয়োজনীয় সময় বৃদ্ধির আদেশ প্রদান করিতে পারিবেন।\n(৯) ফেরতের ভিত্তিতে সাময়িকভাবে আমদানিকৃত পণ্য-যন্ত্রপাতি, যন্ত্রাংশ ও সরঞ্জাম ত্রুটিপূর্ণ অথবা বিদ্যমান আমদানি নীতি আদেশ অথবা Customs Act, 1969 এর কোনো বিধান লঙ্ঘিত হইলে আমদানিকারক নিজ দায়িত্বে অন্যান্য পণ্যের ন্যায় সকল আনুষ্ঠানিকতা সম্পন্ন করিয়া উহা ফেরত পাঠাইবেন।\n(১০) শুল্কায়ন সংশ্লিষ্ট দলিলাদি ফেরত প্রদানকালে চূড়ান্ত শুল্কায়নের সময় উপস্থাপনের জন্য সংরক্ষণ করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The temporary import and re-export procedures for goods, machinery, parts, and equipment must strictly adhere to the provisions of this Act."
+        ],
+        "Temporary Importation": [
+          "Goods, machinery, and equipment may be imported on a temporary basis under a re-export condition, subject to the submission of documentation and valuation proof to the Commissioner of Customs.",
+          "Importers must provide a bank guarantee equivalent to the total applicable duties and taxes as security for the temporary importation.",
+          "Importers are required to submit an undertaking on non-judicial stamp paper declaring that the imported items will be used only for the specified purpose and project, and will not be sold, transferred, or diverted to other uses without prior authorization.",
+          "The initial period for temporary importation is limited to one year, with provisions for extensions granted by the Commissioner or the Member (Customs) of the National Board of Revenue upon valid request."
+        ],
+        "Physical Inspection": [
+          "A hundred percent physical examination of the imported consignment must be conducted under the supervision of at least an Assistant Commissioner before temporary assessment is granted.",
+          "For customs stations utilizing computerized systems, the details of the physical inspection must be recorded within the inspection system."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs) of the Board acts as the approving authority for the transfer of temporarily imported goods between different projects and for granting extensions beyond the initial authorized period."
+        ],
+        "Bill of Entry": [
+          "Upon temporary assessment, the hard copy of the Bill of Entry must explicitly state that the goods are imported temporarily on a re-export basis."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2159",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "goods",
+          "machinery",
+          "parts",
+          "equipment"
+        ],
+        "Temporary Importation": [
+          "goods",
+          "machinery",
+          "equipment",
+          "documentation",
+          "valuation proof",
+          "Commissioner of Customs",
+          "bank guarantee",
+          "duties",
+          "taxes",
+          "undertaking",
+          "non-judicial stamp paper",
+          "imported items",
+          "Commissioner",
+          "Member (Customs)",
+          "National Board of Revenue"
+        ],
+        "Physical Inspection": [
+          "imported consignment",
+          "Assistant Commissioner",
+          "inspection system"
+        ],
+        "National Board of Revenue": [
+          "Member (Customs)",
+          "temporarily imported goods"
+        ],
+        "Bill of Entry": [
+          "Bill of Entry",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        7,
+        13,
+        27,
+        30,
+        33,
+        54,
+        63,
+        64,
+        72,
+        166,
+        213,
+        369,
+        374,
+        400,
+        466,
+        1406,
+        1716,
+        1798,
+        5020,
+        9114,
+        13164
+      ],
+      "source_file": "customs_sros_OCR/20220208_23-AIN_/20220208_23-AIN__output.json",
+      "clause_date": "2022-02-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_101",
+      "clause_title": "সাময়িক শুল্ক নিরূপণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_101",
+      "resolved_text": "৮১। সাময়িক শুল্ক নিরূপণ।— (১) যে ক্ষেত্রে দেশীয় ভোগের জন্য অথবা ওয়্যারহাউসিং এর জন্য অথবা দেশীয় ভোগের উদ্দেশ্যে ওয়্যারহাউস হইতে খালাসের জন্য এন্ট্রি করা কোন আমদানিকৃত পণ্যের উপর অথবা রপ্তানির জন্য এন্ট্রি করা কোন পণ্যের উপর প্রদেয় কাস্টমস-শুল্ক পণ্যসমূহের রাসায়নিক অথবা অন্যান্য পরীক্ষার কারণে অথবা শুল্কায়নের উদ্দেশ্যে অধিকতর তদন্তের প্রয়োজন অথবা উক্ত পণ্য সম্পর্কিত সকল দলিলপত্র অথবা সম্পূর্ণ দলিলপত্র অথবা পূর্ণ তথ্য সরবরাহ না করার জন্য অবিলম্বে কাস্টমস-শুল্ক নিরূপণ করা সম্ভব না হয় সেই ক্ষেত্রে পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন এইরূপ কর্মকর্তা উক্ত পণ্যের উপর প্রদেয় শুল্ক সাময়িকভাবে নিরূপণের আদেশ প্রদান করিতে পারিবেন :\n\nতবে শর্ত থাকে যে, সাময়িকভাবে শুল্ক নিরূপণের উপর চূড়ান্ত শুল্কায়নের ফলে যে অতিরিক্ত শুল্ক প্রদেয় হইবে তাহা পরিশোধ করার জন্য উক্ত কর্মকর্তার বিবেচনায় যেরূপ পর্যাপ্ত হয় আমদানিকারক (ওয়্যারহাউসিং এর জন্য এন্ট্রিকৃত পণ্যের ক্ষেত্রেও প্রযোজ্য) অথবা রপ্তানিকারক সেইরূপ পরিমাণ অতিরিক্ত অর্থ জামানত হিসাবে প্রদান করেন অথবা কোন তফসিলভুক্ত ব্যাংকের গ্যারান্টি দাখিল করেন।\n\n(২) যে ক্ষেত্রে এই রূপ সাময়িক শুল্কায়নের ভিত্তিতে কোন পণ্য খালাস প্রদান অথবা অর্পণ করার অনুমতি দেওয়া হয় সেই ক্ষেত্রে উক্ত পণ্যের উপর প্রদেয় প্রকৃত শুল্ক সাময়িক শুল্কায়নের তারিখ হইতে একশত বিশটি কার্যদিবসের মধ্যে এবং যে ক্ষেত্রে কোন আদালত, ট্রাইব্যুনাল অথবা আপীলাত কর্তৃপক্ষের নিকট কোন মামলা অনিষ্পন্ন রহিয়াছে সেই ক্ষেত্রে চূড়ান্ত নিষ্পত্তি প্রাপ্তির তারিখ হইতে একশত বিশটি কার্যদিবসের মধ্যে চূড়ান্তভাবে নিরূপণ করিতে হইবে এবং উক্ত শুল্কায়ন সম্পন্ন হওয়ার পর যথোপযুক্ত কর্মকর্তা ইতিপূর্বে পরিশোধিত অথবা গ্যারান্টিকৃত অর্থের সাথে চূড়ান্ত শুল্কায়নের ভিত্তিতে প্রদেয় অর্থের বিপরীতে শুল্কের পরিমাণ সমন্বয় করার আদেশ প্রদান করিবেন এবং তাহাদের মধ্যে পার্থক্যের পরিমাণ আমদানিকারক অথবা রপ্তানিকারক অনতিবিলম্বে পরিশোধ করিবেন অথবা, ক্ষেত্রমত, তাহাদের নিকট ফেরত প্রদান করা হইবে :\n\nতবে শর্ত থাকে যে, বোর্ড, ব্যতিক্রমী পরিস্থিতিতে, উহা লিখিতভাবে লিপিবদ্ধ করিয়া এই উপ-ধারার অধীন বর্ণিত চূড়ান্ত শুল্কায়নের সময় বর্ধিত করিতে পারিবে।",
+      "entity_concepts": {
+        "Provisional Assessment of Customs Duty": [
+          "This clause provides the legal basis for the provisional assessment of goods when an immediate final assessment is not possible due to the need for chemical analysis, further investigation, or incomplete documentation.",
+          "Provisional assessment can be ordered by a customs officer of the rank of Assistant Commissioner or higher upon the provision of security or a bank guarantee by the importer or exporter for the potential difference in duty.",
+          "Final assessment must be completed within a specified number of working days from the date of provisional assessment, or from the date of final resolution if the matter is sub-judice before a court or tribunal.",
+          "Following final assessment, the customs authority is required to adjust the paid or guaranteed amount against the actual duty payable, with the importer or exporter either paying the balance or receiving a refund."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to extend the statutory time limit for final assessment in exceptional circumstances, provided that the reasons for the extension are recorded in writing."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_105",
+      "entity_sub_entities": {
+        "Provisional Assessment of Customs Duty": [
+          "goods",
+          "chemical analysis",
+          "further investigation",
+          "incomplete documentation",
+          "customs officer",
+          "Assistant Commissioner",
+          "security",
+          "bank guarantee",
+          "importer",
+          "exporter",
+          "duty",
+          "final assessment",
+          "working days",
+          "court",
+          "tribunal",
+          "customs authority",
+          "refund"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "statutory time limit",
+          "final assessment"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        23,
+        39,
+        49,
+        77,
+        109,
+        166,
+        209,
+        213,
+        381,
+        660,
+        835,
+        1021,
+        1053,
+        1126,
+        2209,
+        4944,
+        8366,
+        8981
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_105",
+      "clause_title": "শুল্কায়নের সংশোধনী",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_105",
+      "resolved_text": "৮৩ক। শুল্কায়নের সংশোধনী।— (১) পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন এইরূপ কোন কাস্টমস কর্মকর্তা সময়ে সময়ে শুল্কায়নের শুদ্ধতা নিশ্চিত করার জন্য যেরূপ তিনি প্রয়োজনীয় মনে করেন সেইরূপ শুল্ক নিরূপণ সংশোধন করিতে অথবা শুল্কায়নের উদ্দেশ্যে গৃহীত মূল্য সংশোধন করিতে অথবা করার ব্যবস্থা করিতে পারিবেন, এমন কি যদিও যে পণ্যের সাথে মূল্য বা শুল্ক সংশ্লিষ্ট উহা কাস্টমস নিয়ন্ত্রণ হইতে ইতোমধ্যে খালাসপ্রাপ্ত হইয়াছে অথবা উহার উপর প্রথমে নিরূপিত শুল্ক পরিশোধ করা হইয়াছে।\n(২) যদি সংশোধনীর ফলে নূতন দায়িত্বের সৃষ্টি হয় অথবা বিদ্যমান দায়িত্ব বৃদ্ধি পায় তাহা হইলে কাস্টমস কর্মকর্তা কর্তৃক শুল্কের জন্য দায়বদ্ধ ব্যক্তির নিকট একটি লিখিত দাবীনামা জারী করা হইবে।\n(৩) এই আইনে ভিন্নভাবে ব্যবস্থিত না থাকিলে পূর্বোল্লিখিত দাবীনামা পরিশোধের যথাযথ তারিখ হইবে কাস্টমস কর্মকর্তা কর্তৃক লিখিত দাবীনামা জারীর তারিখ হইতে ত্রিশটি কার্য দিবস।",
+      "entity_concepts": {
+        "Customs Assessment": [
+          "A Customs officer not below the rank of Assistant Commissioner is authorized to revise or correct the assessment of duties and the declared value of goods to ensure accuracy.",
+          "This authority for retrospective assessment applies even after the goods have been cleared from customs control or the initially assessed duty has been paid."
+        ],
+        "Appropriate Officer of Customs": [
+          "Officers holding the rank of Assistant Commissioner or higher are empowered to issue a formal written demand for the payment of additional duties arising from reassessments.",
+          "The officer must provide a written notice to the person liable for the duty whenever a revision results in an increased tax liability."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework under which customs duties and values may be revised and mandates the payment timelines for any resulting duty demands."
+        ],
+        "Duty Payment": [
+          "When a reassessment of duty results in an increased liability, the person responsible for the duty must settle the demand within a specified period of working days from the date of issuance of the written notice."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_109",
+      "entity_sub_entities": {
+        "Customs Assessment": [
+          "Customs officer",
+          "Assistant Commissioner",
+          "assessment of duties",
+          "declared value of goods",
+          "goods"
+        ],
+        "Appropriate Officer of Customs": [
+          "Assistant Commissioner",
+          "written demand",
+          "additional duties",
+          "written notice",
+          "person liable for the duty"
+        ],
+        "Customs Act 1969": [
+          "customs duties",
+          "values",
+          "duty demands"
+        ],
+        "Duty Payment": [
+          "reassessment of duty",
+          "increased liability",
+          "person responsible for the duty",
+          "demand",
+          "working days",
+          "written notice"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        14,
+        17,
+        49,
+        213,
+        316,
+        381,
+        539,
+        704,
+        1884,
+        2309,
+        3808,
+        5160,
+        5668,
+        7154,
+        7519,
+        8984,
+        10626,
+        10630,
+        11226
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_241",
+      "clause_title": "কাস্টমস কর্মকর্তাগণের উপর প্রথম শ্রেণীর ম্যাজিস্ট্রেটের কতিপয় ক্ষমতা অর্পণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_241",
+      "resolved_text": "১৫৮ক। কাস্টমস কর্মকর্তাগণের উপর প্রথম শ্রেণীর ম্যাজিস্ট্রেটের কতিপয় ক্ষমতা অর্পণ।— এই আইনের অধীন প্রবেশ, তল্লাশী, আটক এবং গ্রেফতারের উদ্দেশ্য পূরণকল্পে সরকার, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, ফৌজদারী কার্যবিধি ১৮৯৮ (১৮৯৮ এর ৫ নং আইন ) এর তৃতীয় তফসিলে বর্ণিত প্রথম শ্রেণীর ম্যাজিস্ট্রেটের ক্ষমতা সহকারী কমিশনার পদমর্যাদার নিম্নে নহেন এইরূপ কোন কর্মকর্তার উপর অর্পণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Act provides the legal framework under which the Government may authorize certain customs officials to exercise specific powers of a Magistrate."
+        ],
+        "Customs Authority": [
+          "The Government may empower customs officials holding the rank of Assistant Commissioner or above with the powers of a First Class Magistrate for the specific purposes of entry, search, seizure, and arrest as stipulated under the law."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "The powers conferred upon eligible customs officials are derived from those specified in the third schedule of this code for a First Class Magistrate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_245",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Government",
+          "customs officials",
+          "powers of a Magistrate"
+        ],
+        "Customs Authority": [
+          "Government",
+          "customs officials",
+          "Assistant Commissioner",
+          "First Class Magistrate",
+          "entry",
+          "search",
+          "seizure",
+          "arrest"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "customs officials",
+          "third schedule",
+          "First Class Magistrate"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        6,
+        23,
+        87,
+        128,
+        213,
+        387,
+        1202,
+        1474,
+        1542,
+        3045,
+        3996,
+        10820
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_259",
+      "clause_title": "কতিপয় ফ্যাক্টরীতে কর্মকর্তা মোতায়নের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_259",
+      "resolved_text": "১৭৬। কতিপয় ফ্যাক্টরীতে কর্মকর্তা মোতায়নের ক্ষমতা।— পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন এইরূপ কর্মকর্তা যদি উপযুক্ত বিবেচনা করেন, তাহা হইলে তিনি বাংলাদেশের সীমান্তের পাঁচ মাইলের মধ্যে অবস্থিত এবং বাণিজ্যিক উদ্দেশ্যে ব্যবহৃত কোন ফ্যাক্টরী অথবা ইমারতে কোন কাস্টমস কর্মকর্তা ইহা নিশ্চিত করার লক্ষ্যে মোতায়েন করিতে পারিবেন যে ফ্যাক্টরী অথবা ইমারতটি কোন অবৈধ অথবা অনিয়মিত পণ্য আমদানি অথবা রপ্তানির জন্য কোনভাবে ব্যবহৃত না হয় এবং উক্তরূপ মোতায়েনকৃত কর্মকর্তার যে কোন যুক্তিসঙ্গত সময়ে ফ্যাক্টরীটির রেকর্ডপত্র অথবা ইমারত পরিচালিত ব্যবসা পরিদর্শন করার ক্ষমতা এবং বিধিমালা দ্বারা নির্ধারিত অন্যান্য ক্ষমতা থাকিবে।",
+      "entity_concepts": {
+        "Customs Authority": [
+          "Officers holding the rank of Assistant Commissioner or higher are empowered to deploy customs staff to factories or premises located within a specified distance of the national border for monitoring purposes.",
+          "The primary objective of such deployment is to ensure that the factory or premises are not being used for the illegal or irregular import or export of goods."
+        ],
+        "Customs Officer": [
+          "A deployed customs officer is authorized to inspect the records of the factory or the business operations within the premises at any reasonable time.",
+          "These officers are further granted specific powers as prescribed under the relevant rules to ensure compliance with customs laws."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_263",
+      "entity_sub_entities": {
+        "Customs Authority": [
+          "Assistant Commissioner",
+          "customs staff",
+          "factories",
+          "premises",
+          "national border",
+          "goods"
+        ],
+        "Customs Officer": [
+          "deployed customs officer",
+          "records",
+          "factory",
+          "business operations",
+          "premises",
+          "customs laws"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        49,
+        131,
+        197,
+        213,
+        305,
+        849,
+        1052,
+        1343,
+        2622,
+        4387,
+        7217
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_39",
+      "clause_title": "ক্ষতিগ্রস্ত, অবনতিপ্রাপ্ত, নিখোঁজ অথবা ধ্বংসপ্রাপ্ত পণ্যের শুল্ক হ্রাসকরণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_39",
+      "resolved_text": "২৭। ক্ষতিগ্রস্ত, অবনতিপ্রাপ্ত, নিখোঁজ অথবা ধ্বংসপ্রাপ্ত পণ্যের শুল্ক হ্রাসকরণ।— (১) যে ক্ষেত্রে কোন আমদানিকৃত পণ্যের প্রথম পরীক্ষাকালে সহকারী কমিশনার পদমর্যাদার নিম্নে নহেন এমন কর্মকর্তার সন্তুষ্টিমতে মালিক কর্তৃক লিখিতভাবে প্রদর্শন করানো যায় যে -\n\n(ক) অবতরণকাল অথবা তাহার পূর্বে যে কোন সময় পণ্য ক্ষতিগ্রস্ত বা অবনতিপ্রাপ্ত হইয়াছে; অথবা\n\n(খ) অবতরণের পর, কিন্তু উক্ত পরীক্ষার পূর্বে যে কোন সময় কোন দুর্ঘটনা অথবা দৈবদুর্বিপাকের দ্বারা, এবং মালিক অথবা তাহার এজেন্টের কোন ইচ্ছাকৃত কর্ম, অবহেলা অথবা ব্যর্থতার কারণে নয়, পণ্য ক্ষতিগ্রস্ত হইয়াছে ; - সেই ক্ষেত্রে মালিকের লিখিত আবেদনক্রমে উক্ত পণ্যের মূল্য যথোপযুক্ত কাস্টমস কর্মকর্তা কর্তৃক নিরূপণ করা হইবে এবং পণ্যের উক্তরূপ হ্রাসকৃত মূল্য নিরূপণের অনুপাত অনুসারে মালিককে শুল্ক অব্যাহতি প্রদান করা হইবে।\n\n(২) যে ক্ষেত্রে কোন আমদানিকৃত পণ্যের মালিক কর্তৃক লিখিতভাবে কমিশনার অব কাস্টমস এর সন্তুষ্টিমত প্রদর্শন করানো যায় যে আমদানির পর কিন্তু দেশীয় ভোগের উদ্দেশ্যে খালাসের পূর্বে দুর্ঘটনার দ্বারা অথবা দৈব দুর্বিপাকের ফলে পণ্য ক্ষতিগ্রস্ত, অবনতিপ্রাপ্ত, নিখোঁজ অথবা ধ্বংসপ্রাপ্ত হইয়াছে সেই ক্ষেত্রে উক্ত ক্ষতি, অবনতি, নিখোঁজ অথবা ধ্বংসের সত্যতা প্রমাণের জন্য সকল প্রয়োজনীয় তথ্য উপস্থাপনপূর্বক পণ্যের মালিক কর্তৃক পেশকৃত আবেদনক্রমে কমিশনার উক্ত পণ্যের উপর প্রদেয় অথবা পরিশোধিত শুল্ক মওকুফ অথবা ফেরত প্রদান করিতে পারিবেন।\n\nব্যাখ্যাঃ এই উপ-ধারার উদ্দেশ্যে “দৈব দুর্বিপাক” বলিতে প্রাকৃতিক দুর্যোগ বুঝাইবে।\n\n(৩) যে ক্ষেত্রে কমিশনার অব কাস্টমস এর সন্তুষ্টিমতে দেখানো যায় যে ওয়্যারহাউসকৃত কোন পণ্য দেশীয় ভোগের জন্য খালাসের পূর্বে কোন দুর্ঘটনা অথবা দৈব দুর্বিপাকে ক্ষতিগ্রস্ত হইয়াছে সেই ক্ষেত্রে উক্ত ক্ষতির সত্যতা প্রমাণের জন্য সকল প্রয়োজনীয় তথ্য উপস্থাপনপূর্বক পণ্যের মালিক কর্তৃক পেশকৃত আবেদনক্রমে কমিশনার অব কাস্টমস একজন যথোপযুক্ত কাস্টমস কর্মকর্তা কর্তৃক উক্ত পণ্যের মূল্য নিরূপণের অনুমতি দিতে পারিবেন এবং পণ্যের মালিককে উক্তরূপ মূল্য নিরূপণ যে হারে মূল্যহ্রাস পাইয়াছে সেই আনুপাতিক হারে শুল্ক অব্যাহতি প্রদান করা হইবে।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "Provisions are established to allow for the reduction, remission, or refund of customs duty on imported goods that are damaged, deteriorated, lost, or destroyed.",
+          "Duty relief is calculated based on the proportional reduction in value of the affected goods as determined by the appropriate customs officer."
+        ],
+        "Appropriate Officer of Customs": [
+          "An officer not below the rank of Assistant Commissioner is authorized to verify claims regarding damage or deterioration of goods occurring prior to or during the initial examination.",
+          "The officer is empowered to assess the reduced value of goods to determine the appropriate amount of duty abatement."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner has the authority to grant a waiver or refund of duties for imported goods that suffer loss, destruction, or deterioration after import but before home consumption, provided the owner submits satisfactory evidence.",
+          "The Commissioner is empowered to authorize value assessment for warehoused goods damaged by accident or natural disaster, allowing for proportional duty relief."
+        ],
+        "Natural Disaster": [
+          "Defined under the Act as the specific category of 'force majeure' or 'Act of God' events that qualify goods for duty relief when damage occurs due to such natural occurrences."
+        ],
+        "Bonded Warehouse Operation": [
+          "Goods stored in a warehouse that suffer damage or loss due to accidents or natural disasters before clearance for home consumption are eligible for value assessment and duty relief."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_43",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "customs duty",
+          "imported goods"
+        ],
+        "Appropriate Officer of Customs": [
+          "Assistant Commissioner",
+          "duty abatement"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "imported goods",
+          "warehoused goods"
+        ],
+        "Natural Disaster": [
+          "force majeure",
+          "Act of God"
+        ],
+        "Bonded Warehouse Operation": [
+          "bonded warehouse",
+          "goods",
+          "accidents",
+          "natural disasters"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        10,
+        17,
+        61,
+        89,
+        146,
+        213,
+        2053,
+        2672,
+        3352,
+        4393,
+        5287,
+        10033
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_48",
+      "clause_title": "আমদানিকৃত পণ্য রপ্তানির উপর প্রত্যর্পণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_48",
+      "resolved_text": "৩৫। আমদানিকৃত পণ্য রপ্তানির উপর প্রত্যর্পণ।— এই অধ্যায়ে বর্ণিত পরবর্তী বিধানাবলী এবং বিধিমালা সাপেক্ষে, যখন সহজে সনাক্তযোগ্য কোন পণ্য যাহা বাংলাদেশে আমদানি করা হইয়াছে এবং আমদানিকাল যাহার উপর কাস্টমস শুল্ক পরিশোধ করা হইয়াছে, তাহা বাংলাদেশের বাহির রপ্তানি করা হয় অথবা বিদেশগামী কোন যানবাহন রসদ অথবা ভান্ডার সামগ্রী হিসাবে ব্যবহারের জন্য রপ্তানি করা হয়, তখন উক্ত শুল্কের অনধিক সাত-অষ্টমাংশ নিম্নবর্ণিত শর্ত সাপেক্ষে প্রত্যর্পণ হিসাবে ফেরত প্রদান করা হইবে, যথা:-\n\n(১) পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন এমন কর্মকর্তার সন্তুষ্টিমতে যে পণ্য আমদানি করা হইয়াছে সেই একই পণ্য হিসাবে উহা কাস্টমস স্টেশনে সনাক্ত করা হয়, এবং\n\n(২) পণ্য কাস্টম-হাউসের নথিতে প্রদর্শিত আমদানির তারিখ হইতে দুই বৎসরের মধ্যে অথবা যদি উক্ত সময় পর্যাপ্ত কারণে বোর্ড অথবা কমিশনার অব কাস্টমস কর্তৃক বর্ধিত করা হয় সেই বর্ধিত সময়ের মধ্যে রপ্তানির জন্য এন্ট্রি করা হয় :\n\nতবে শর্ত থাকে যে, কমিশনার অব কাস্টমস উক্ত পণ্য আমদানির পর তিন বৎসরের অধিক সময় বর্ধিত করিবেন না।\n\nব্যাখ্যা।- এই ধারার উদ্দেশ্য পূরণকল্পে ধারা ১৩১ এর অধীন যথোপযুক্ত কর্মকর্তার নিকট যে তারিখ বিল অব এক্সপোর্ট দাখিল করা হয় সেই তারিখ পণ্য রপ্তানির জন্য এন্ট্রি করা হইয়াছে বলিয়া গণ্য হইবে।",
+      "entity_concepts": {
+        "Drawback of Customs Duties": [
+          "A refund of up to seven-eighths of the customs duty paid on imported goods is permissible when those goods are exported out of Bangladesh or used as stores or provisions for vessels proceeding to a foreign destination.",
+          "The refund is subject to specific procedural conditions regarding the identification of goods and adherence to established time limits for export entry."
+        ],
+        "Assistant Commissioner of Customs": [
+          "An officer not below the rank of Assistant Commissioner must be satisfied that the goods being exported are the same as those originally imported."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to extend the period for export entry beyond the standard two-year limit if sufficient cause is shown."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs has the power to extend the time limit for export entry, provided the total extension does not exceed three years from the date of import."
+        ],
+        "Bill of Export": [
+          "For the purpose of calculating export time limits, the date on which the Bill of Export is submitted to the appropriate officer of customs is deemed the date of entry for export."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_52",
+      "entity_sub_entities": {
+        "Drawback of Customs Duties": [
+          "customs duty",
+          "imported goods",
+          "stores",
+          "provisions",
+          "vessels",
+          "export entry"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner",
+          "goods"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "export entry"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "export entry"
+        ],
+        "Bill of Export": [
+          "Bill of Export",
+          "officer of customs",
+          "date of entry for export"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        8,
+        10,
+        67,
+        78,
+        90,
+        97,
+        155,
+        213,
+        399,
+        2671,
+        2717,
+        7114
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_185",
+      "clause_title": "Conferring certain Powers of Magistrate 1st Class on Customs officers",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_185",
+      "resolved_text": "5[158A. Conferring certain Powers of Magistrate 1st Class on Customs officers.- For the purposes of entry search, seizure and arrest under this Act, the Government may, by notification in the official Gazette, confer the powers of a Magistrate of the First Class described in the Schedule III of the Code of Criminal Procedure, 1898 (Act V of 1898) on an officer of customs not below the rank of Assistant Commissioner.]",
+      "entity_concepts": {
+        "Customs Officer": [
+          "The Government is empowered to grant specific powers of a Magistrate of the First Class to officers of customs holding the rank of Assistant Commissioner or higher.",
+          "These conferred powers are limited to the purposes of conducting entry, search, seizure, and arrest as provided under the Customs Act 1969."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "This Act serves as the legal reference for the powers of a Magistrate of the First Class that can be conferred upon authorized customs officials under the customs law."
+        ],
+        "Government": [
+          "The Government has the authority to issue notifications in the official Gazette to formally grant magisterial powers to designated customs officials."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_512",
+      "entity_sub_entities": {
+        "Customs Officer": [
+          "officers of customs",
+          "Assistant Commissioner",
+          "Magistrate of the First Class"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "Magistrate of the First Class",
+          "customs law"
+        ],
+        "Government": [
+          "official Gazette"
+        ]
+      },
+      "clause_clusters": [
+        6,
+        49,
+        112,
+        213,
+        387,
+        455,
+        956,
+        2127
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

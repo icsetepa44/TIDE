@@ -1,0 +1,245 @@
+{
+  "thread_id": "cluster_00391_t1",
+  "cluster_id": 391,
+  "cluster_label": "declaration form",
+  "title": "Industrial Input/Raw Material Declaration Forms",
+  "source_num_member_objects": 12,
+  "num_qa_pairs": 16,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the scope of industrial declaration forms evolved since their initial introduction in 2017?",
+      "answer": "The scope has expanded from general templates for computer assembly and mould manufacturing in 2017 to highly specific sector-based requirements. By 2022 and 2024, the National Board of Revenue introduced specialized forms for products such as ATMs, CCTV cameras, washing machines, and lifts, reflecting a shift toward greater regulatory granularity for diverse manufacturing sectors.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_12",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What structural components have remained consistent across the evolution of declaration forms for industrial raw materials?",
+      "answer": "Across the various directives from 2017 to 2025, the forms consistently mandate the inclusion of the manufacturer's Value Added Tax (VAT) registration number, H.S. codes for both finished goods and inputs, and a comparative breakdown of material quantities required per unit, both including and excluding wastage percentages.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the countersignature of a Commissioner of Customs or VAT authority a critical element in the evolution of these declaration forms?",
+      "answer": "The requirement for a commissioner's countersignature, present in the 2017 directives and continuing through later updates, serves as a validation mechanism to confirm the accuracy of reported input-output coefficients and wastage percentages, ensuring regulatory compliance and preventing tax irregularities in the manufacturing process.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2024 NBR directive regarding damaged bonded goods differ in purpose from the standard manufacturing declaration forms?",
+      "answer": "While standard manufacturing forms focus on reporting input-output ratios for production, the 2024 directive (src=20240606_213) establishes a procedure for reporting accidental damage or destruction of bonded goods. This specific declaration is used to initiate an assessment committee process under the Customs Act 1969 to facilitate the potential remission of customs duties and taxes.",
+      "clause_text_ids": [
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the significance of the 2025-09-29 NBR directive in the context of export-linked supply chains?",
+      "answer": "The 2025 directive refines the declaration form structure specifically for export-oriented manufacturing. It mandates the disclosure of raw materials linked to specific export orders, serving as a standardized tool to monitor input-output coefficients and verify utilization and waste ratios within export-linked supply chains.",
+      "clause_text_ids": [
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the NBR Directive dated 2024-06-06, specific declaration forms were introduced for washing machine and lift manufacturing, as well as a new declaration for damaged bonded goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2024-06-06 NBR Directive introduced declaration forms for washing machines and lifts, and established the procedure for declaring damaged bonded goods.",
+      "clause_text_ids": [
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The NBR Directive issued on 2017-06-01 introduced standardized declaration templates for computer assembly and the manufacturing of television sets.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "television sets",
+      "correct_fact": "mould manufacturing",
+      "answer": "The statement is inaccurate. The 2017-06-01 NBR Directive introduced standardized declaration templates for computer assembly and mould manufacturing, not television sets.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Per the 2022-07-17 NBR Directive, manufacturers of Automated Teller Machines (ATMs) and Closed Circuit Cameras are required to document production inputs and raw materials using a standardized declaration form.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2022-07-17 directive expanded declaration requirements to include ATM and CCTV manufacturing.",
+      "clause_text_ids": [
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "To report damaged or destroyed goods in a bonded warehouse, the owner must submit a declaration to the Commissioner of Customs within five working days of the incident.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "five working days",
+      "correct_fact": "two working days",
+      "answer": "The statement is inaccurate. According to the 2024-06-06 directive, the owner must submit a declaration of damaged or destroyed bonded goods within two working days of the incident.",
+      "clause_text_ids": [
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The declaration form for computer manufacturing or assembly requires a counter-signature by the relevant Commissioner of Customs to validate the provided information.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate as per the 2017-06-01 NBR Directive.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The NBR Directive on 2025-09-29 refined the declaration form structure specifically for high-tech park manufacturing.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "high-tech park manufacturing",
+      "correct_fact": "export-linked supply chains",
+      "answer": "The statement is inaccurate. The 2025-09-29 NBR Directive refined the declaration form structure for export-linked supply chains.",
+      "clause_text_ids": [
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2017, the National Board of Revenue introduced a standardized declaration form specifically for washing machine and lift manufacturing to ensure regulatory compliance across all industrial sectors.",
+      "question": "Does the 2017 timeline accurately reflect the introduction of declaration forms for washing machine and lift manufacturing? Explain the correct timeline.",
+      "conflict": "The misaligned context claims washing machine and lift declarations were introduced in 2017, whereas the true timeline states these were introduced in 2024.",
+      "answer": "No, this is incorrect. According to the NBR Directive dated 2024-06-06, the specific declaration forms for washing machine and lift manufacturing were introduced in 2024, not 2017. The 2017 directives (2017-06-01) were limited to computer assembly and mould manufacturing.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer began producing computer components in 2017 and later expanded their operations to include the manufacturing of washing machines by mid-2024. They are reviewing their compliance obligations regarding the submission of raw material declaration forms.",
+      "question": "How has the regulatory requirement for the countersignature on these industrial declaration forms evolved or remained consistent for this manufacturer between 2017 and 2024?",
+      "answer": "The requirement has remained consistent; both the 2017 directive for computer manufacturing and the 2024 directive for washing machine manufacturing mandate that the declaration form be countersigned by the relevant Commissioner of Customs (or VAT Commissioner) to validate the reported production data.",
+      "clauses_involved": [
+        "2017-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "five years later",
+      "question": "Five years later, how did the NBR expand the scope of declaration requirements for industrial manufacturers?",
+      "answer": "In July 2022, the NBR expanded the declaration requirements to include specific production inputs and raw materials for the manufacturing of Automated Teller Machines (ATMs) and Closed Circuit Cameras.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_8",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_12"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-07-17",
+      "relative_offset": "two years later",
+      "question": "Two years after the 2022 directive regarding ATM and CCTV manufacturing, what new categories were introduced for declaration forms?",
+      "answer": "On June 6, 2024, the NBR introduced specific declaration forms for washing machine and lift manufacturing, and additionally established a new formal declaration process for reporting damaged or destroyed bonded goods.",
+      "clause_text_ids": [
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_12",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Specific declaration forms are introduced for washing machine and lift manufacturing, alongside a new declaration for damaged bonded goods.",
+        "The declaration requirements are expanded to include specific forms for ATM and CCTV manufacturing.",
+        "The declaration form structure is refined specifically for export-linked supply chains.",
+        "The National Board of Revenue introduces standardized declaration templates for computer assembly and mould manufacturing."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The National Board of Revenue introduces standardized declaration templates for computer assembly and mould manufacturing.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The declaration requirements are expanded to include specific forms for ATM and CCTV manufacturing.",
+          "date": "2022-07-17"
+        },
+        {
+          "event": "Specific declaration forms are introduced for washing machine and lift manufacturing, alongside a new declaration for damaged bonded goods.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The declaration form structure is refined specifically for export-linked supply chains.",
+          "date": "2025-09-29"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_12",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_12",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_8",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json",
+        "customs_sros_OCR/20220717_202-_2022_110/20220717_202-_2022_110_output.json",
+        "customs_sros_OCR/20240606_195-AIN_2024_47_Customs/20240606_195-AIN_2024_47_Customs_output.json",
+        "customs_sros_OCR/20250929/20250929_output.json"
+      ],
+      "thread_source_file": "cluster_00391_t1__industrial-input-raw-material-declaration-forms.json"
+    }
+  ]
+}

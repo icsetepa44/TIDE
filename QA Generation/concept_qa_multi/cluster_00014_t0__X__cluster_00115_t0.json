@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00014_t0__X__cluster_00115_t0",
+  "entities": [
+    "customs duties",
+    "charges"
+  ],
+  "cluster_ids": [
+    14,
+    115
+  ],
+  "thread_ids": [
+    "cluster_00014_t0",
+    "cluster_00115_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How must customs duties and charges be settled according to the 2024 Customs regulations regarding electronic payment systems?",
+      "answer": "Under clause 3(2), all customs duties, taxes, interest, and charges related to imported or exported goods must be paid through an electronic payment system.",
+      "entities_involved": [
+        "customs duties",
+        "charges"
+      ],
+      "clause_text_ids": [
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "For goods imported via express services, what are the mandatory payment methods for both customs duties and associated charges after clearance?",
+      "answer": "According to clauses 20(1) (referenced in both [1] and [2]), after the assessment of customs duties and charges is completed, payment must be made by the express service provider using a pre-payment method from their account held at Sonali Bank PLC, or by the customer/authorized agent using an electronic payment method.",
+      "entities_involved": [
+        "customs duties",
+        "charges"
+      ],
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_20",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00002_t0__X__cluster_00016_t0",
+  "entities": [
+    "Customs Act 1969",
+    "Section 19(1)"
+  ],
+  "cluster_ids": [
+    2,
+    16
+  ],
+  "thread_ids": [
+    "cluster_00002_t0",
+    "cluster_00016_t0"
+  ],
+  "num_shared_clauses": 49,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the government utilize Section 19(1) within the framework of the Customs Act 1969 to manage previous regulatory notifications?",
+      "answer": "Under the Customs Act 1969, the government exercises its authority granted by Section 19(1), in consultation with the National Board of Revenue and in the public interest, to cancel or modify previous notifications (SROs). For example, clause [0] demonstrates the cancellation of SRO No. 206-AIN/2009/2263/Customs, while clause [9] shows the modification of SRO No. 163-AIN/2007/2154/Customs.",
+      "entities_involved": [
+        "Customs Act 1969",
+        "Section 19(1)"
+      ],
+      "clause_text_ids": [
+        "20100610_170-AIN_2010_2288-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20110609_151-AIN_2011_2337-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    }
+  ]
+}

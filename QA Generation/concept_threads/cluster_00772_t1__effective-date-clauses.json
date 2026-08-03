@@ -1,0 +1,231 @@
+{
+  "cluster_id": 772,
+  "cluster_label": "fiscal year",
+  "thread_index": 1,
+  "thread_id": "cluster_00772_t1",
+  "title": "Effective Date Clauses",
+  "summary": "These clauses represent standard boilerplate language used to define the commencement date of various SROs and notifications. They are static in nature, serving only to anchor the legal instrument to a specific calendar date.",
+  "evolution": {
+    "structure": "The legal structure of the effective date clause remains identical across all instruments."
+  },
+  "timeline": [
+    {
+      "date": "2012-06-06",
+      "instrument": "SRO",
+      "change": "Initial effective date definition.",
+      "clause_ids": [
+        "20120606_161-AIN_2012_2389-Customs_০৭ জুন, ২০১২_clause_3"
+      ]
+    },
+    {
+      "date": "2012-06-07",
+      "instrument": "SRO",
+      "change": "Replicated effective date definition.",
+      "clause_ids": [
+        "20120607_169-AIN_2012_2397-Customs_০৭ জুন, ২০১২_clause_2"
+      ]
+    },
+    {
+      "date": "2019-06-29",
+      "instrument": "SRO",
+      "change": "Replicated effective date definition.",
+      "clause_ids": [
+        "20190629_225-AIN_2019_43_Customs_২৯ জুন, ২০১৯ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "date": "2022-06-28",
+      "instrument": "SRO",
+      "change": "Replicated effective date definition.",
+      "clause_ids": [
+        "20220628_219-_2022_127_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "date": "2022-07-17",
+      "instrument": "SRO",
+      "change": "Replicated effective date definition.",
+      "clause_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_9",
+        "20220717_203-_2022_111_২৮ জুন, ২০২২_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 6,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20120606_161-AIN_2012_2389-Customs_০৭ জুন, ২০১২_clause_3",
+      "resolved_text": "০৩। এই প্রজ্ঞাপন ১৭ আষাঢ়, ১৪১৯ বঙ্গাব্দ/১ জুলাই, ২০১২ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This order establishes a specific effective date for its legal enforcement, ensuring that all provisions and regulatory changes contained within the instrument become operative starting from the beginning of the next fiscal year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1338",
+      "entity_sub_entities": {
+        "Statutory Regulatory Order": [
+          "effective date",
+          "provisions",
+          "regulatory changes",
+          "instrument",
+          "fiscal year"
+        ]
+      },
+      "clause_clusters": [
+        15,
+        67,
+        85,
+        596,
+        772,
+        2219
+      ],
+      "source_file": "customs_sros_OCR/20120606_161-AIN_2012_2389-Customs/20120606_161-AIN_2012_2389-Customs_output.json",
+      "clause_date": "2012-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20120607_169-AIN_2012_2397-Customs_০৭ জুন, ২০১২_clause_2",
+      "resolved_text": "০২। এই প্রজ্ঞাপন ১৭ আষাঢ়, ১৪১৯ বঙ্গাব্দ/১ জুলাই, ২০১২ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the effective date of implementation for the order, which is set for the beginning of the new fiscal year in July 2012."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1372",
+      "entity_sub_entities": {
+        "Statutory Regulatory Order": [
+          "notification",
+          "effective date",
+          "fiscal year"
+        ]
+      },
+      "clause_clusters": [
+        15,
+        20,
+        85,
+        772
+      ],
+      "source_file": "customs_sros_OCR/20120607_169-AIN_2012_2397-Customs/20120607_169-AIN_2012_2397-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20190629_225-AIN_2019_43_Customs_২৯ জুন, ২০১৯ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "২। ইহা ১ জুলাই, ২০১৯ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The provisions contained within this SRO come into effect starting from the beginning of the new fiscal year in July 2019."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1973",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "SRO",
+          "fiscal year"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        504,
+        772
+      ],
+      "source_file": "customs_sros_OCR/20190629_225-AIN_2019_43_Customs/20190629_225-AIN_2019_43_Customs_output.json",
+      "clause_date": "2019-06-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220628_219-_2022_127_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ১ জুলাই, ২০২২ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Customs Notification": [
+          "This notification specifies that the legal provisions contained within it shall become effective from a designated date at the beginning of the fiscal year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2343",
+      "entity_sub_entities": {
+        "Customs Notification": [
+          "legal provisions",
+          "fiscal year"
+        ]
+      },
+      "clause_clusters": [
+        11,
+        130,
+        772
+      ],
+      "source_file": "customs_sros_OCR/20220628_219-_2022_127/20220628_219-_2022_127_output.json",
+      "clause_date": "2022-06-28"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "",
+      "text_id": "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_9",
+      "resolved_text": "৩। এই প্রজ্ঞাপন ১ জুলাই, ২০২২ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Customs Notification": [
+          "This notification specifies its date of entry into force, establishing that the provisions contained within shall become legally effective from the beginning of the next fiscal year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2359",
+      "entity_sub_entities": {
+        "Customs Notification": [
+          "date of entry into force",
+          "provisions",
+          "fiscal year"
+        ]
+      },
+      "clause_clusters": [
+        11,
+        67,
+        85,
+        772
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "",
+      "text_id": "20220717_203-_2022_111_২৮ জুন, ২০২২_clause_9",
+      "resolved_text": "৮। এই প্রজ্ঞাপন ১ জুলাই, ২০২২ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Customs Notification": [
+          "This notification specifies that its legal provisions will come into effect from the beginning of the next fiscal year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2381",
+      "entity_sub_entities": {
+        "Customs Notification": [
+          "legal provisions",
+          "fiscal year"
+        ]
+      },
+      "clause_clusters": [
+        11,
+        130,
+        772
+      ],
+      "source_file": "customs_sros_OCR/20220717_203-_2022_111/20220717_203-_2022_111_output.json",
+      "clause_date": "2022-07-17"
+    }
+  ]
+}

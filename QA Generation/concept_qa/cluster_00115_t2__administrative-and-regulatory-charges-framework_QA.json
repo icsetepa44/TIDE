@@ -1,0 +1,181 @@
+{
+  "thread_id": "cluster_00115_t2",
+  "cluster_id": 115,
+  "cluster_label": "charges",
+  "title": "Administrative and Regulatory Charges Framework",
+  "source_num_member_objects": 35,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to the Customs Act 1969, what is the statutory time limit for claiming a refund of customs duties or charges that were paid erroneously or mistakenly?",
+      "options": [
+        "Three months from the date of payment",
+        "Six months from the date of payment",
+        "One year from the date of payment",
+        "Two years from the date of payment"
+      ],
+      "answer_index": 1,
+      "answer": "Six months from the date of payment",
+      "explanation": "Under the Customs Act 1969 (undated text), section 33 explicitly states that claims for refunds of erroneously paid duties or charges must be submitted within six months from the date of payment.",
+      "clause_text_ids": [
+        "20130606_150-AIN_2013_2437-Customs_2013-06-06_clause_4",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_17"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established that administrative and other fees for transit and transshipment movements must be determined by an official gazette notification?",
+      "options": [
+        "The Customs Act 1969",
+        "SRO/Directive 2013-06-06",
+        "The 2025-05-18 regulatory framework",
+        "The 2024-06-06 Comprehensive Guarantee regime"
+      ],
+      "answer_index": 2,
+      "answer": "The 2025-05-18 regulatory framework",
+      "explanation": "The 2025-05-18 text specifies that fees and charges for transit and transshipment are to be determined by an official gazette notification issued by the National Board of Revenue, provided no contrary international agreement exists.",
+      "clause_text_ids": [
+        "20130606_150-AIN_2013_2437-Customs_2013-06-06_clause_4",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_17",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What requirement was introduced on 2013-06-06 regarding the construction of vessels or dredgers using imported machinery?",
+      "options": [
+        "Importers must pay a flat fee to the Customs Authority",
+        "Importers must obtain expert certification from BUET's Naval Architecture and Marine Engineering Department",
+        "Importers must use a government-approved bonded warehouse for all construction materials",
+        "Importers are exempt from all charges if they use local engineering expertise"
+      ],
+      "answer_index": 1,
+      "answer": "Importers must obtain expert certification from BUET's Naval Architecture and Marine Engineering Department",
+      "explanation": "The 2013-06-06 directive (src=20130606_150-AIN_2013_2437) mandates that importers obtain written expert opinion from BUET's Naval Architecture and Marine Engineering Department regarding the quantity of materials used in vessel/dredger construction.",
+      "clause_text_ids": [
+        "20130606_150-AIN_2013_2437-Customs_2013-06-06_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2024-06-06 Comprehensive Guarantee regime, what form must the guarantee take when it is required for the clearance of goods?",
+      "options": [
+        "A cash deposit only",
+        "A promissory note",
+        "A bank guarantee",
+        "A personal surety bond"
+      ],
+      "answer_index": 2,
+      "answer": "A bank guarantee",
+      "explanation": "The 2024-06-06 text (src=20240606_205-AIN_2024_57) specifies that for goods requiring a guarantee for clearance, the comprehensive guarantee must be in the form of a bank guarantee.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_17"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer of machinery for dredgers obtained an expert opinion from BUET in 2013 to verify material usage as required by the 2013 directive. In 2025, the importer is now processing transit operations for different goods and is informed that administrative fees and charges for these transit operations must follow a different regulatory framework than the specific expert assessment fees they previously paid.",
+      "question": "How does the legal basis for determining the rates of the transit/transshipment charges in 2025 differ from the requirement for the BUET expert assessment charges mandated in 2013?",
+      "answer": "While the 2013 directive required the importer to bear all costs associated with the expert assessment, the 2025 regulations mandate that transit and transshipment fees and charges must be determined by an official gazette notification issued by the National Board of Revenue.",
+      "clauses_involved": [
+        "2013-06-06",
+        "2025-05-18"
+      ],
+      "clause_text_ids": [
+        "20130606_150-AIN_2013_2437-Customs_2013-06-06_clause_4",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_17",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A business has been maintaining a current account for customs duties and charges under the long-standing provisions of the Customs Act 1969. In June 2024, the business qualifies for the new 'Comprehensive Guarantee' regime. The business wants to know if they can transition their existing security deposit to cover the new comprehensive guarantee requirements.",
+      "question": "Under the 2024 rules, what is the primary condition regarding the value of the comprehensive guarantee compared to the previous system of securing duties and charges?",
+      "answer": "Under the 2024 comprehensive guarantee regime, the total value of the guarantee must not be less than the cumulative duties and taxes payable on the goods, whereas the previous current account system required a deposit or security sufficient in the opinion of the officer to cover potential liabilities.",
+      "clauses_involved": [
+        "2024-06-06",
+        "undated_customs-act-1969-english_output"
+      ],
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_17"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-06-06",
+      "relative_offset": "11 years later",
+      "question": "In 2013-06-06, a directive was issued regarding expert services for vessel machinery; what regulatory change regarding Authorized Economic Operators occurred 11 years later?",
+      "answer": "In 2024-06-13, a provision was established allowing for the suspension or cancellation of an Authorized Economic Operator's recognition certificate due to violations such as false information, smuggling, tax evasion, or misuse of concessional imports.",
+      "clause_text_ids": [
+        "20130606_150-AIN_2013_2437-Customs_2013-06-06_clause_4",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_17"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The customs authority mandates that customs guarantees are released only upon the fulfillment of all stipulated conditions and the payment of all applicable duties, taxes, charges, fees, interest, and penalties.",
+        "The national board of revenue establishes operational procedures for transit and transshipment goods, including requirements for electronic manifesto filing and the application of specific administrative fees and charges.",
+        "The director general of the authorized economic operator program is granted the authority to suspend or cancel recognition certificates based on violations such as document falsification, smuggling, or misuse of concessional imports.",
+        "The customs authority formalizes the requirement for importers to obtain and submit expert opinions from the university for machinery and materials used in vessel or dredger construction, covering all associated fees."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The customs authority formalizes the requirement for importers to obtain and submit expert opinions from the university for machinery and materials used in vessel or dredger construction, covering all associated fees.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The national board of revenue establishes operational procedures for transit and transshipment goods, including requirements for electronic manifesto filing and the application of specific administrative fees and charges.",
+          "date": "2023-04-25"
+        },
+        {
+          "event": "The customs authority mandates that customs guarantees are released only upon the fulfillment of all stipulated conditions and the payment of all applicable duties, taxes, charges, fees, interest, and penalties.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The director general of the authorized economic operator program is granted the authority to suspend or cancel recognition certificates based on violations such as document falsification, smuggling, or misuse of concessional imports.",
+          "date": "2024-06-13"
+        }
+      ],
+      "clause_text_ids": [
+        "20130606_150-AIN_2013_2437-Customs_2013-06-06_clause_4",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_5",
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_17"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230425/20230425_output.json",
+        "customs_sros_OCR/20130606_150-AIN_2013_2437-Customs/20130606_150-AIN_2013_2437-Customs_output.json",
+        "customs_sros_OCR/20240606_205-AIN_2024_57_Customs/20240606_205-AIN_2024_57_Customs_output.json",
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00115_t2__administrative-and-regulatory-charges-framework.json"
+    }
+  ]
+}

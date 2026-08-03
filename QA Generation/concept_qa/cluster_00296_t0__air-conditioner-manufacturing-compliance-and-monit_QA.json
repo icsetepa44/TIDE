@@ -1,0 +1,153 @@
+{
+  "thread_id": "cluster_00296_t0",
+  "cluster_id": 296,
+  "cluster_label": "air conditioners",
+  "title": "Air Conditioner Manufacturing Compliance and Monitoring",
+  "source_num_member_objects": 9,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 3,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the regulatory framework established by SRO 2024, air conditioner manufacturers are required to produce at least three critical components, including the condenser, evaporator, and outdoor body, a requirement that was first introduced by the National Board of Revenue in the 2024 policy update.",
+      "question": "When was the mandatory local production threshold of at least three critical components for air conditioner manufacturers first introduced?",
+      "conflict": "The passage incorrectly attributes the introduction of the three-component production requirement to the 2024 policy, whereas it was established earlier.",
+      "answer": "The requirement for air conditioner manufacturers to produce at least three critical components was first established by SRO 2022 on 2022-07-17.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2022-07-17 SRO, manufacturers are exempt from physical inspections to ensure they maintain their status as Industrial IRC holders and VAT compliant entities.",
+      "question": "Is it accurate that manufacturers were exempt from physical inspections under the 2022-07-17 SRO?",
+      "conflict": "The passage claims an exemption from inspections, which contradicts the 2022-07-17 regulation that explicitly mandated a committee for bi-annual physical inspections.",
+      "answer": "No, it is inaccurate. The 2022-07-17 SRO specifically instituted a joint committee, comprised of a Joint Commissioner and a Divisional Officer, to conduct mandatory bi-annual physical inspections of production facilities to verify compliance.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the 2024-06-06 SRO, the requirement for manufacturers to hold an Industrial IRC and be VAT compliant was abolished to simplify the customs clearance process.",
+      "question": "Did the 2024-06-06 SRO abolish the requirement for manufacturers to hold an Industrial IRC and be VAT compliant?",
+      "conflict": "The passage suggests the criteria were abolished, but the 2024-06-06 SRO actually reaffirmed the existing oversight and compliance structures established in 2022.",
+      "answer": "No, the 2024-06-06 SRO did not abolish these requirements; it reaffirmed and updated the procedural requirements for compliance monitoring, maintaining the oversight structure and eligibility criteria established in 2022.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An air conditioner manufacturer has been operating since 2022 under the requirements established by the National Board of Revenue. In 2024, the manufacturer is preparing for its bi-annual physical inspection by the VAT committee to verify its input-output coefficients and production compliance.",
+      "question": "How has the role of the VAT Commissionerate regarding the verification of production compliance changed between the 2022 and 2024 regulatory frameworks?",
+      "answer": "The role remains consistent; in both the 2022 and 2024 frameworks, the Commissioner of the relevant VAT Commissionerate is mandated to form a committee comprising a Joint Commissioner and a Divisional Officer to conduct bi-annual physical inspections and report findings to the Commissioner for potential customs reassessment.",
+      "clauses_involved": [
+        "2022-07-17",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer submits their manufacturing input declaration form for air conditioners. They are comparing the administrative requirements for this declaration between the initial 2022 SRO and the updated 2024 SRO.",
+      "question": "What specific administrative addition appears on the manufacturing input declaration form in the 2024 SRO that was not explicitly detailed in the 2022 SRO's declaration form?",
+      "answer": "The 2024 SRO declaration form explicitly includes a requirement for the countersignature of the relevant Customs Commissioner, a procedural step not explicitly shown in the 2022 declaration form template.",
+      "clauses_involved": [
+        "2022-07-17",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-07-17",
+      "relative_offset": "two years later",
+      "question": "Two years later, following the initial 2022 establishment of air conditioner manufacturing oversight, what action did the National Board of Revenue take regarding the compliance monitoring and declaration processes?",
+      "answer": "In 2024-06-06 (SRO 2024), the National Board of Revenue reaffirmed and updated the procedural requirements for raw material declaration and compliance monitoring, maintaining the oversight structure established in 2022.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_10",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these regulatory milestones for air conditioner manufacturing in chronological order.",
+      "events_shuffled": [
+        "The National Board of Revenue mandates a formal declaration process for raw materials and inputs, requiring the countersignature of the relevant VAT Commissioner on the input-output declaration form.",
+        "The regulatory framework establishes strict eligibility criteria requiring manufacturers to hold an Industrial Import Registration Certificate and be VAT compliant, while mandating local production of at least three specific components and instituting bi-annual physical inspections by a joint committee.",
+        "Customs authorities implement a verification requirement for the Business Identification Number through online systems to prevent delays during the customs clearance process for imported manufacturing goods."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The regulatory framework establishes strict eligibility criteria requiring manufacturers to hold an Industrial Import Registration Certificate and be VAT compliant, while mandating local production of at least three specific components and instituting bi-annual physical inspections by a joint committee.",
+          "date": "2022-07-17"
+        },
+        {
+          "event": "Customs authorities implement a verification requirement for the Business Identification Number through online systems to prevent delays during the customs clearance process for imported manufacturing goods.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The National Board of Revenue mandates a formal declaration process for raw materials and inputs, requiring the countersignature of the relevant VAT Commissioner on the input-output declaration form.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_10",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+        "customs_sros_OCR/20240606_167-AIN_2024_19_Customs/20240606_167-AIN_2024_19_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00296_t0__air-conditioner-manufacturing-compliance-and-monit.json"
+    }
+  ]
+}

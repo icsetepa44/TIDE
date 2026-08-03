@@ -1,0 +1,325 @@
+{
+  "cluster_id": 565,
+  "cluster_label": "supporting documents",
+  "thread_index": 1,
+  "thread_id": "cluster_00565_t1",
+  "title": "Documentary Evidence for Trade Agreements and Compliance",
+  "summary": "This thread covers the use of supporting documents specifically for international trade agreements (D-8 PTA) and legal enforcement notices. It highlights the role of documents as legal evidence for origin verification and tax recovery.",
+  "evolution": {
+    "scope": "Expanded from trade facilitation (origin certificates) to legal enforcement (show-cause notices)."
+  },
+  "timeline": [
+    {
+      "date": "2022-10-18",
+      "instrument": "Clause 1",
+      "change": "Requirement for retrospective submission of origin certificates and supporting evidence for D-8 PTA compliance.",
+      "clause_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "Clause 2, 3",
+      "change": "Standardization of legal notice templates for tax recovery, referencing underlying bill of entry documents.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_22",
+      "clause_title": "Rule 19 - Goods in Transit and Storage",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+      "resolved_text": "Rule 19\nGoods in Transit and Storage\nGoods which conform to the provisions of D-8 Rules of Origin and which on the date of entry into force of the D-8 PTA are either being transported or are being held in a Contracting Member’s territory in temporary storage, in bonded warehouses or in free zones, may be accepted as originating products subject to the submission, within four months from the date of entry into force of the D-8 PTA, to the customs authorities of the importing country of D-8 Certificate of Origin, drawn up retrospectively, and of any documents that provide supporting evidence of the conditions of transport.",
+      "entity_concepts": {
+        "Originating Goods": [
+          "Goods that comply with the D-8 Rules of Origin and are in transit or storage at the time the D-8 PTA enters into force may qualify as originating products. This status is conditional upon the submission of a retrospective Certificate of Origin and supporting transport documents to customs authorities within a specified timeframe."
+        ],
+        "Bonded Warehouse": [
+          "Goods held in bonded warehouses at the time of the D-8 PTA entry into force may be treated as originating products if they satisfy specific origin criteria and relevant documentation requirements are met."
+        ],
+        "Certificate of Origin": [
+          "A certificate drawn up retrospectively must be submitted to the customs authorities of the importing country within four months of the D-8 PTA entry into force to validate the status of goods in transit or storage."
+        ],
+        "Documentary Evidence": [
+          "Supporting documents providing evidence of transport conditions must be submitted alongside a retrospective Certificate of Origin to confirm the eligibility of transit or stored goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2411",
+      "entity_sub_entities": {
+        "Originating Goods": [
+          "goods",
+          "Certificate of Origin",
+          "transport documents",
+          "customs authorities"
+        ],
+        "Bonded Warehouse": [
+          "goods",
+          "bonded warehouses"
+        ],
+        "Certificate of Origin": [
+          "certificate",
+          "customs authorities",
+          "goods"
+        ],
+        "Documentary Evidence": [
+          "supporting documents",
+          "transport conditions",
+          "Certificate of Origin",
+          "transit or stored goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        45,
+        146,
+        188,
+        208,
+        333,
+        423,
+        565,
+        730,
+        958,
+        12970,
+        12990
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_77",
+      "clause_title": "CUSTOMS ACT, 1969 এর SECTION 83A এর অধীন কারণ দর্শানো নোটিশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+      "resolved_text": "পরিশিষ্ট: ৬। CUSTOMS ACT, 1969 এর SECTION 83A এর অধীন কারণ দর্শানো নোটিশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-...................., তারিখঃ ....../........../......... খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ ............................ (....................................) টাকা আদায়ের জন্য Customs Act, 1969 এর Section 83A অনুযায়ী দাবীনামা জারির লক্ষ্যে কারণ দর্শাও নোটিশ।\n\nসূত্রঃ (১) এ দপ্তরের পত্র নং ................................................., তারিখ: ....../......./......... খ্রি.।\n(২) প্রতিষ্ঠানের পত্র নং ..............................................., তারিখ: ....../......./......... খ্রি.।\n\nউপযুক্ত বিষয় ও সূত্রের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান ........................ ঠিকানা: ........................\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ................................ নামীয় পণ্য বর্ণিত এসআরও নং- ........./আইন/......../......../কাস্টমস, তারিখঃ ....../....../........ খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত ................................ নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় ................................ (কথায় ............................................................ ) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে ................................ টাকা। অবশিষ্ট (................................ - .........................) = ................................ (কথায়:................................ ) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ ............................................................ (কথায়: ............................................................ ) টাকা Customs Act, 1969 এর Section 83A এর বিধান মোতাবেক আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব আগামী ১৫ (পনের) কার্যদিবসের মধ্যে দাখিল করার জন্য অনুরোধ করা হলো। এ বিষয়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধির মাধ্যমে व्यक्तिगत শুনানি দিতে চাইলে তাও লিখিত জবাবে উল্লেখ করার জন্য আপনাকে অনুরোধ করা হলো।\n\n৫। নির্ধারিত তারিখ বা তদ্পূর্বে এ নোটিশের জবাব পাওয়া না গেলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..............................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\nফোন নং-.....................................\n\nপ্রাপক: ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: ...................................................................\nঠিকানা: .............................................................................\nবিন নম্বর: ..........................................................................\n\nনথি নং-.................................. তারিখ: ......../...../........ খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ........................................ঠিকানা: ........................\nএআইএন: ........................................ আমদানিকারকের সাথে যোগাযোগ করে কারণ দর্শাও নোটিশের জবাব দাখিলের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\n(.........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act provides the legal framework under Section 83A for issuing show cause notices regarding the recovery of short-paid customs duties and taxes.",
+          "The act empowers customs officials to initiate proceedings for the recovery of dues based on evidence available on file if a formal response is not received within the specified timeframe."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff schedule, along with other relevant laws and explanatory notes, serves as the basis for post-clearance audit reviews conducted by customs authorities to verify the correctness of duty and tax assessments."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes issued by this organization are utilized by customs authorities during post-clearance audits to support the classification and duty assessment of imported goods."
+        ],
+        "Customs Duty": [
+          "The recovery process for short-paid duties and taxes is triggered when an importer receives duty-free benefits under an SRO for goods that are later determined to be ineligible for such exemptions.",
+          "Customs authorities require importers to pay the difference between the initially paid amount and the standard applicable duty rates when discrepancies are found during an audit."
+        ],
+        "Post Clearance Audit": [
+          "This process involves a detailed review of bills of entry and supporting documents by customs officials to ensure that all legal provisions and tariff classifications were correctly applied at the time of import.",
+          "Findings from these audits are used to identify revenue shortfalls and provide the justification for issuing formal show cause notices to importers."
+        ],
+        "Show Cause Notice": [
+          "This notice is issued by the customs authorities to an importer, requiring a written response within a set number of working days explaining why the short-paid duty amount should not be recovered.",
+          "The notice allows the importer or their authorized representative to request a personal hearing as part of their defense against the proposed duty recovery."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_748",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 83A",
+          "show cause notices",
+          "short-paid customs duties",
+          "taxes",
+          "dues"
+        ],
+        "Bangladesh Customs Tariff": [
+          "tariff schedule",
+          "laws",
+          "explanatory notes",
+          "duty",
+          "tax assessments"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "imported goods"
+        ],
+        "Customs Duty": [
+          "short-paid duties",
+          "taxes",
+          "importer",
+          "SRO",
+          "exemptions",
+          "standard applicable duty rates"
+        ],
+        "Post Clearance Audit": [
+          "bills of entry",
+          "supporting documents",
+          "tariff classifications",
+          "revenue shortfalls",
+          "show cause notices",
+          "importers"
+        ],
+        "Show Cause Notice": [
+          "customs authorities",
+          "importer",
+          "short-paid duty amount",
+          "authorized representative",
+          "personal hearing"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        10,
+        13,
+        39,
+        45,
+        79,
+        98,
+        109,
+        163,
+        164,
+        239,
+        276,
+        292,
+        344,
+        380,
+        424,
+        441,
+        504,
+        565,
+        607,
+        652,
+        703,
+        1470,
+        1477,
+        2261,
+        2262,
+        5000,
+        11529,
+        12182,
+        12367
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_81",
+      "clause_title": "Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী কারণ দর্শানো নোটিশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_81",
+      "resolved_text": "পরিশিষ্ট-১০। Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী কারণ দর্শানো নোটিশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nনথি নং-....................................................... তারিখ: ......../...../.........খ্রি:\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-...................., তারিখঃ ....../........../.......... খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ ................................ (.......................................) টাকা আদায়ের জন্য Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী কারণ দর্শাও নোটিশ।\n\nসূত্র: (১) এ দপ্তরের পত্র নং ................................., তারিখ: ....../........../.......... খ্রি.\n(২) প্রতিষ্ঠানের পত্র নং .............................., তারিখ: ....../........../.......... খ্রি.\n\nউপযুক্ত বিষয় ও সূত্রের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান .............................., ঠিকানা: ..............................\nবিআইএন নম্বর: ......................................... কর্তৃক এলসি নং-................., তারিখ: ....../....../........খ্রি., ইনভয়েস নং-.................., তারিখ:....../...../........ এর মাধ্যমে ........................ দেশ হতে ............................................. নামীয় পণ্য আমদানি করেন। আমদানিকারকের মনোনীত সিএন্ডএফ এজেন্ট ......................................... ঠিকানা:............................, এআইএন:..................................................... কর্তৃক পণ্যচালানটি খালাসের লক্ষ্যে বিল অব এন্ট্রি নং-সি-......................., তারিখ:......../......./....... খ্রি. এ দপ্তরে দাখিলপূর্বক অভ্যন্তরীণ সম্পদ বিভাগের এসআরও নং-......./আইন/...../কাস্টমস, তারিখ: ....../..../..... খ্রি. এর আওতায় শুল্কমুক্ত সুবিধায় (সিপিসি ....../....... ব্যবহার করে) পণ্যচালান খালাস গ্রহণ করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ......... নামীয় পণ্য বর্ণিত এসআরও নং-......./আইন/......./......../কাস্টমস, তারিখঃ ....../....../...... খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত .................... নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় . . . . . (কথায়. . . . . .) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে . . . . . টাকা। অবশিষ্ট (. . . . .) = . . . . . .. (. . . . . .) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উল্লেখ্য যে, আমদানিকারক কর্তৃক Fraudulent or wilfully misleading তথ্য ঘোষণা প্রদান করায় Customs Act, 1969 এর Section 83B(2) অনুযায়ী Section 83B(1) এর সময়সীমা প্রযোজ্য নয়।\n\n৫। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ . . . . . . . . . . . . . . . . . . . . . . . . . . . (কথায়: . . . . . . . . . . . . . . . . . . . . . . . . . . . .  Customs Act, 1969 1 Section-83A এর বিধান মোতাবেক আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব আগামী ১৫ (পনের) কার্যদিবসের মধ্যে দাখিল করার জন্য অনুরোধ করা হলো। এ বিষয়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধির মাধ্যমে ব্যক্তিগত শুনানি দিতে চাইলে তাও লিখিত জবাবে উল্লেখ করার জন্য আপনাকে অনুরোধ করা হলো।\n\n৬। নির্ধারিত তারিখ বা তদ্পূর্বে এ நோটিশের জবাব পাওয়া না গেলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..............................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\n\nপ্রাপক:  ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: .................................................\nঠিকানা: ...........................................................\nবিন নম্বর: .........................................................\n\nনথি নং-............................................. তারিখ: ......../...../......... খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ........................................ঠিকানা: .....................\nএআইএন: ............................... আমদানিকারকের সাথে যোগাযোগ করে কারণ দর্শাও নোটিশের জবাব দাখিলের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\n(.........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This instrument provides the legal framework for issuing show-cause notices when duties and taxes have been underpaid. It establishes procedures for post-clearance recovery of customs duties and authorizes the customs authority to demand payment and resolve cases based on official documentation if no response is received.",
+          "Section 83A provides the basis for issuing a show-cause notice for underpaid duties, while Section 83B(2) outlines the specific legal conditions, including exceptions to statutory time limits in cases of fraudulent or willfully misleading declarations."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff schedule is used during post-clearance audits to verify the classification and eligibility of imported goods for specific exemptions or duty-free status."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes produced by this organization are utilized as an authoritative reference during the audit process to review and determine the appropriate classification and taxability of imported goods."
+        ],
+        "Customs Authority": [
+          "Officers are instructed to use this standard show-cause notice template when conducting recovery proceedings against importers or clearing agents following a post-clearance audit. The authority is responsible for providing the importer an opportunity to respond or request a personal hearing before a final determination is made."
+        ],
+        "Post Clearance Audit": [
+          "This operational mechanism involves the systematic review of bills of entry, supporting documents, and relevant legal notifications to ensure that the correct amount of duties and taxes was paid upon importation."
+        ],
+        "Bill of Entry": [
+          "This is the formal import document audited by customs to verify the accuracy of declarations, the application of duty-free benefits, and the identification of potential underpayment of customs duties."
+        ],
+        "C&F Agent": [
+          "Clearing and Forwarding agents are responsible for receiving the show-cause notice on behalf of the importer and facilitating the submission of a formal response to the customs office."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_752",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "show-cause notices",
+          "duties",
+          "taxes",
+          "Section 83A",
+          "Section 83B(2)",
+          "fraudulent or willfully misleading declarations"
+        ],
+        "Bangladesh Customs Tariff": [
+          "tariff schedule",
+          "imported goods",
+          "exemptions",
+          "duty-free status"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "imported goods"
+        ],
+        "Customs Authority": [
+          "show-cause notice template",
+          "importers",
+          "clearing agents",
+          "personal hearing"
+        ],
+        "Post Clearance Audit": [
+          "bills of entry",
+          "supporting documents",
+          "legal notifications",
+          "duties",
+          "taxes"
+        ],
+        "Bill of Entry": [
+          "import document",
+          "declarations",
+          "duty-free benefits",
+          "customs duties"
+        ],
+        "C&F Agent": [
+          "Clearing and Forwarding agents",
+          "show-cause notice",
+          "importer",
+          "formal response",
+          "customs office"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        13,
+        14,
+        23,
+        27,
+        30,
+        39,
+        79,
+        98,
+        163,
+        164,
+        220,
+        276,
+        292,
+        378,
+        380,
+        424,
+        565,
+        607,
+        726,
+        815,
+        1183,
+        1470,
+        1702,
+        1948,
+        2253,
+        3558,
+        3877,
+        4043,
+        7569,
+        8299,
+        8841,
+        12187
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

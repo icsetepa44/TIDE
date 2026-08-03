@@ -1,0 +1,31 @@
+{
+  "group_id": "cluster_00554_t0__X__cluster_00572_t1",
+  "entities": [
+    "Department of Livestock Services",
+    "invoice"
+  ],
+  "cluster_ids": [
+    554,
+    572
+  ],
+  "thread_ids": [
+    "cluster_00554_t0",
+    "cluster_00572_t1"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the certification process for an animal or poultry farm link the Department of Livestock Services registration with the invoice of imported goods?",
+      "answer": "According to the certification template, a firm must be registered with the Department of Livestock Services to be eligible, and the certificate must explicitly reference the specific invoice number and date associated with the import transaction for which the certification is issued.",
+      "entities_involved": [
+        "Department of Livestock Services",
+        "invoice"
+      ],
+      "clause_text_ids": [
+        "metadata_8"
+      ]
+    }
+  ]
+}

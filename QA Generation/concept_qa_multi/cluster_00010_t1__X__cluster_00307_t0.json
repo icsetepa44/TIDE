@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00010_t1__X__cluster_00307_t0",
+  "entities": [
+    "Customs Duty",
+    "tariff values"
+  ],
+  "cluster_ids": [
+    10,
+    307
+  ],
+  "thread_ids": [
+    "cluster_00010_t1",
+    "cluster_00307_t0"
+  ],
+  "num_shared_clauses": 6,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How did the legal framework under the Customs Act, 1969, utilize 'tariff values' in the context of assessing 'Customs Duty' for imported goods?",
+      "answer": "Under section 25(3) of the Customs Act, 1969, the government was empowered to specify tariff values for goods subject to value-based customs duty, which were then used as the basis for assessing and imposing the relevant customs duty on those specific imports as outlined in the tables of the respective SROs.",
+      "entities_involved": [
+        "Customs Duty",
+        "tariff values"
+      ],
+      "clause_text_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_1",
+        "20210603_133-AIN_2021_22_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    }
+  ]
+}

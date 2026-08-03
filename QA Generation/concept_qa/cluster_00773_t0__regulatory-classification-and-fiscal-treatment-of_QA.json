@@ -1,0 +1,199 @@
+{
+  "thread_id": "cluster_00773_t0",
+  "cluster_id": 773,
+  "cluster_label": "furniture",
+  "title": "Regulatory Classification and Fiscal Treatment of Furniture",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "On June 6, 2024, furniture was officially reclassified as a standalone 'Industrial Sector' in the First Schedule to support industrial development.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 6, 2024",
+      "correct_fact": "September 29, 2025",
+      "answer": "The statement is inaccurate. Furniture was elevated to 'Industrial Sector' status in Schedule-1 on September 29, 2025, not June 6, 2024. On June 6, 2024, it was merely listed as a category of office equipment and household goods.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_15"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 237-AIN/2024/79/CUSTOMS, issued on July 8, 2024, introduced specific H.S. Codes such as 94.01 and 94.03 to move furniture from generic descriptions to precise tariff-based classification.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 237-AIN/2024/79/CUSTOMS dated July 8, 2024, did indeed introduce specific H.S. Codes (94.01 and 94.03) for furniture classification.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The document dated June 6, 2024, categorized furniture specifically as 'Industrial Sector' alongside steel products and ready-made garments.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 6, 2024",
+      "correct_fact": "September 29, 2025",
+      "answer": "The statement is inaccurate. Furniture was categorized as an 'Industrial Sector' in the Schedule-1 document dated September 29, 2025. The June 6, 2024, document listed furniture as a category of office equipment and household goods.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_15"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the July 8, 2024 customs instrument, H.S. Code 9403.82.00 was assigned specifically to furniture made of bamboo.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. According to the July 8, 2024 instrument, H.S. Code 9403.82.00 is designated for furniture of other materials, including cane, osier, bamboo or similar, specifically of bamboo.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The evolution of furniture policy in Bangladesh shows a shift from passive import regulation to industrial sector recognition between 2024 and 2025.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The policy focus transitioned from furniture being treated as generic household goods in 2024 to being recognized as a distinct 'Industrial Sector' by September 29, 2025.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_15"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In the regulatory schedule dated June 6, 2024, furniture was listed alongside items such as prefabricated building components, cement, and air conditioners.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The June 6, 2024 schedule explicitly lists office equipment and furniture alongside construction materials like cement, prefabricated building components, and air conditioners.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the 2024-06-06 regulatory schedule, furniture was already formally recognized as a standalone 'Industrial Sector' alongside electronics and light engineering, allowing for specialized industrial policy support.",
+      "question": "Was furniture classified as a standalone 'Industrial Sector' in the 2024-06-06 regulatory schedule, and if not, when did this classification occur?",
+      "conflict": "The context incorrectly attributes the 'Industrial Sector' status to the 2024-06-06 schedule, whereas the true evolution shows it was merely listed as 'office equipment and household goods' at that time.",
+      "answer": "No, furniture was not classified as a standalone 'Industrial Sector' in the 2024-06-06 schedule; it was listed generally under 'office equipment and household goods'. It was only elevated to a standalone 'Industrial Sector' status in Schedule-1 on 2025-09-29.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_15"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer has been importing goods categorized as 'office equipment and household goods' since June 2024. By September 2025, they notice that furniture is now explicitly listed under 'Schedule-1' as a standalone industrial sector.",
+      "question": "How has the regulatory status of furniture changed for this manufacturer between June 2024 and September 2025?",
+      "answer": "Furniture transitioned from being a general sub-category of 'office equipment and household goods' in June 2024 to being recognized as a distinct, standalone 'Industrial Sector' by September 2025.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2025-09-29"
+      ],
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_15"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer processed furniture shipments in early July 2024 using broad descriptions. Following the issuance of SRO 237-AIN/2024/79/CUSTOMS on July 8, 2024, the importer must now adjust their documentation process.",
+      "question": "What specific change in customs procedure did the importer face immediately following the July 8, 2024 directive compared to the general classification used prior?",
+      "answer": "The importer shifted from using general descriptions to applying precise H.S. Codes (specifically 94.01 and 94.03) for furniture classification.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2024-07-08"
+      ],
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one month later",
+      "question": "In the regulatory framework, what specific change occurred to furniture classification one month after it was listed as general office equipment and household goods on 2024-06-06?",
+      "answer": "On 2024-07-08, through SRO 237-AIN/2024/79/CUSTOMS, the classification moved from a general description to precise tariff-based classification using specific H.S. Codes such as 94.01 and 94.03.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-07-08",
+      "relative_offset": "about fourteen months later",
+      "question": "How did the regulatory status of furniture change about fourteen months after the introduction of specific H.S. Codes on 2024-07-08?",
+      "answer": "On 2025-09-29, under Schedule-1, furniture was elevated to a standalone 'Industrial Sector' status, shifting the focus from mere import regulation to industrial policy support.",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_15"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Furniture is elevated to a standalone industrial sector status within the regulatory schedule.",
+        "Furniture is explicitly listed as a category of office equipment and household goods within a regulatory schedule.",
+        "Specific H.S. Codes are introduced for furniture, moving from general descriptions to precise tariff-based classification."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Furniture is explicitly listed as a category of office equipment and household goods within a regulatory schedule.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Specific H.S. Codes are introduced for furniture, moving from general descriptions to precise tariff-based classification.",
+          "date": "2024-07-08"
+        },
+        {
+          "event": "Furniture is elevated to a standalone industrial sector status within the regulatory schedule.",
+          "date": "2025-09-29"
+        }
+      ],
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_1",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_15"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20240606_208-AIN_2024_60_Customs/20240606_208-AIN_2024_60_Customs_output.json",
+        "customs_sros_OCR/20240708_238-_2024_80/20240708_238-_2024_80_output.json",
+        "customs_sros_OCR/20250929/20250929_output.json"
+      ],
+      "thread_source_file": "cluster_00773_t0__regulatory-classification-and-fiscal-treatment-of.json"
+    }
+  ]
+}

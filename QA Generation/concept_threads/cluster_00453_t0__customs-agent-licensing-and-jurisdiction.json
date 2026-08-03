@@ -1,0 +1,451 @@
+{
+  "cluster_id": 453,
+  "cluster_label": "custom house",
+  "thread_index": 0,
+  "thread_id": "cluster_00453_t0",
+  "title": "Customs Agent Licensing and Jurisdiction",
+  "summary": "This thread tracks the formalization of customs agent licensing, specifically defining the jurisdictional scope and the composition of the licensing authority within Custom Houses.",
+  "evolution": {
+    "procedure": "Standardized the composition of the licensing authority (Additional/Deputy Commissioner vs Joint/Assistant Commissioner) and defined the territorial scope of the license."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "Customs Agent Licensing Rules",
+      "change": "Initial definition of licensing jurisdiction and authority structure.",
+      "clause_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3"
+      ]
+    },
+    {
+      "date": "2016-06-05",
+      "instrument": "Customs Agent Licensing Rules (Re-issue)",
+      "change": "Reiteration of definitions and jurisdiction.",
+      "clause_ids": [
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_10",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "লাইসেন্সের অধিক্ষেত্র",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_10",
+      "resolved_text": "১০। লাইসেন্সের অধিক্ষেত্র।— এই বিধিমালার অধীন প্রদত্ত লাইসেন্সের অধিক্ষেত্র হইবে লাইসেন্সে উল্লিখিত সংশ্লিষ্ট কাস্টমস বন্দর, কাস্টম হাউস বা কাস্টমস স্টেশন।",
+      "entity_concepts": {
+        "Customs License": [
+          "The jurisdiction of a license issued under these rules is specifically defined as the customs port, custom house, or customs station mentioned in the license document itself."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1666",
+      "entity_sub_entities": {
+        "Customs License": [
+          "customs port",
+          "custom house",
+          "customs station",
+          "license document"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        250,
+        453,
+        635,
+        4280
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়-\n\n(ক) “আইন” অর্থ, Customs Act, 1969 (Act No. IV of 1969);\n(খ) “কাস্টমস এজেন্ট” অর্থ আইনের section 207 এর উদ্দেশ্য পূরণকল্পে কাস্টমস স্টেশনে নিজস্ব পণ্য পরিবহনের জন্য হউক বা না হউক, কোন যানবাহনের প্রবেশ বা প্রস্থান অথবা কোন পণ্য বা ব্যাগেজের আমদানি বা রপ্তানি সংশ্লিষ্ট কাজ সম্পাদনকারী ব্যক্তি বা প্রতিষ্ঠান;\n(গ) “কাস্টমস সরকার” অর্থ বিধি ১৭ এর অধীন নিযুক্ত কাস্টমস সরকার;\n(ঘ) “কাস্টমস স্টেশন” অর্থ আইনের section 2(k) তে সংজ্ঞায়িত কাস্টমস স্টেশন;\n(ঙ) “কাস্টম হাউস” অর্থ আইনের section 9(e) অনুসারে ঘোষিত কাস্টম হাউস;\n(চ) “কোম্পানি” অর্থ কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এর ধারা ২(ঘ) তে সংজ্ঞায়িত কোম্পানি;\n(ছ) “গ্রাহক” অর্থ এমন ব্যক্তি বা প্রতিষ্ঠান যিনি বিদেশ হইতে কোন পণ্য আমদানি বা বিদেশে কোন পণ্য রপ্তানি করেন;\n(জ) “ফরম” অর্থ এই বিধিমালার সহিত সংযোজিত ফরম;\n(ঝ) “ফার্ম” অর্থ Partnership Act, 1932 (Act No. IX of 1932) এর section 4 এ সংজ্ঞায়িত ফার্ম;\n(ঞ) “বোর্ড” অর্থ আইনের section 2 (e) এ সংজ্ঞায়িত জাতীয় রাজস্ব বোর্ড;\n(ট) “রেফারেন্স লাইসেন্স” অর্থ বিধি ১১ এর অধীন প্রদত্ত রেফারেন্স লাইসেন্স;\n(ঠ) “লাইসেন্স” অর্থ কাস্টমস এজেন্ট হিসাবে কার্য সম্পাদনের জন্য বিধি ৫ এর অধীন প্রদত্ত লাইসেন্স; এবং\n(ড) “লাইসেন্সিং কর্তৃপক্ষ” অর্থ বিধি ৩ এর অধীন গঠিত লাইসেন্সিং কর্তৃপক্ষ।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This law is defined as the Customs Act, 1969 (Act No. IV of 1969) for the purposes of these rules."
+        ],
+        "Customs Agent": [
+          "A Customs Agent is defined as a person or institution performing tasks related to the import or export of goods or baggage, or the entry or exit of vehicles at a customs station, as per the objectives of section 207 of the Customs Act."
+        ],
+        "Customs Government": [
+          "This term refers to the customs authority or official appointed under rule 17 of these regulations."
+        ],
+        "Customs Station": [
+          "This refers to the definition of a customs station as specified in section 2(k) of the Customs Act."
+        ],
+        "Customs House": [
+          "This refers to a custom house declared according to section 9(e) of the Customs Act."
+        ],
+        "Company": [
+          "This refers to a company as defined in section 2(d) of the Companies Act, 1994."
+        ],
+        "Customer": [
+          "This refers to a person or institution that imports goods from abroad or exports goods to a foreign country."
+        ],
+        "Form": [
+          "This refers to the forms annexed to these rules for official use."
+        ],
+        "Firm": [
+          "This refers to a firm as defined in section 4 of the Partnership Act, 1932."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the National Board of Revenue, as specified in section 2(e) of the Customs Act."
+        ],
+        "Reference License": [
+          "This refers to a license granted under the provisions of rule 11 of these regulations."
+        ],
+        "Licensee": [
+          "This refers to a license granted under rule 5 which authorizes an entity to function as a Customs Agent."
+        ],
+        "Licensing Authority": [
+          "This refers to the authority constituted under rule 3 for the purposes of managing and issuing customs agent licenses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1658",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Customs Act, 1969",
+          "Act No. IV of 1969"
+        ],
+        "Customs Agent": [
+          "person",
+          "institution",
+          "goods",
+          "baggage",
+          "vehicles",
+          "customs station",
+          "section 207 of the Customs Act"
+        ],
+        "Customs Government": [
+          "customs authority",
+          "official",
+          "rule 17"
+        ],
+        "Customs Station": [
+          "customs station",
+          "section 2(k) of the Customs Act"
+        ],
+        "Customs House": [
+          "custom house",
+          "section 9(e) of the Customs Act"
+        ],
+        "Company": [
+          "company",
+          "section 2(d) of the Companies Act, 1994"
+        ],
+        "Customer": [
+          "person",
+          "institution",
+          "goods"
+        ],
+        "Form": [
+          "forms"
+        ],
+        "Firm": [
+          "firm",
+          "section 4 of the Partnership Act, 1932"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "National Board of Revenue",
+          "section 2(e) of the Customs Act"
+        ],
+        "Reference License": [
+          "license",
+          "rule 11"
+        ],
+        "Licensee": [
+          "license",
+          "rule 5",
+          "Customs Agent"
+        ],
+        "Licensing Authority": [
+          "authority",
+          "rule 3",
+          "customs agent licenses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        23,
+        25,
+        43,
+        47,
+        60,
+        70,
+        84,
+        92,
+        93,
+        190,
+        223,
+        246,
+        311,
+        339,
+        453,
+        461,
+        643,
+        691,
+        719,
+        1355,
+        1649,
+        2237,
+        2429,
+        2592,
+        3008,
+        4722,
+        6921,
+        11614,
+        11961,
+        11962,
+        11963,
+        11971,
+        11986,
+        12005
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "লাইসেন্সিং কর্তৃপক্ষ",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+      "resolved_text": "৩। লাইসেন্সিং কর্তৃপক্ষ।— (১) লাইসেন্সিং কর্তৃপক্ষ কাস্টমস এজেন্ট লাইসেন্স প্রদান করিবে।\n\n(২) উপ-বিধি (১) এর উদ্দেশ্যপূরণকল্পে নিম্নবর্ণিত কর্মকর্তাগণের সমন্বয়ে লাইসেন্সিং কর্তৃপক্ষ গঠিত হইবে, যথা:-\n(ক) কাস্টম হাউসে কর্মরত একজন অতিরিক্ত কমিশনার এবং একজন ডেপুটি কমিশনার; অথবা\n(খ) কাস্টম হাউসে অতিরিক্ত কমিশনার না থাকিলে একজন যুগ্ম কমিশনার এবং একজন সহকারী কমিশনার।\n\n(৩) উপ-বিধি (২) এর দফা (ক) এর ক্ষেত্রে অতিরিক্ত কমিশনার সভাপতি ও ডেপুটি কমিশনার সদস্য-সচিব হইবেন এবং দফা (খ) এর ক্ষেত্রে যুগ্ম-কমিশনার সভাপতি এবং সহকারী কমিশনার সদস্য-সচিব হইবেন।",
+      "entity_concepts": {
+        "Customs Agent License": [
+          "The Licensing Authority is responsible for granting licenses to customs agents."
+        ],
+        "Licensing Authority": [
+          "The Licensing Authority is formally constituted by specific customs officials designated to oversee the issuance of customs agent licenses.",
+          "The composition of the authority depends on the availability of specific senior ranking officers at the custom house, with defined roles for chairperson and member-secretary."
+        ],
+        "Commissioner of Customs": [
+          "The roles within the Licensing Authority are filled by officials such as the Additional Commissioner, Joint Commissioner, Deputy Commissioner, or Assistant Commissioner, depending on the available staffing levels at the custom house."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1659",
+      "entity_sub_entities": {
+        "Customs Agent License": [
+          "licenses",
+          "customs agents"
+        ],
+        "Licensing Authority": [
+          "customs officials",
+          "customs agent licenses",
+          "senior ranking officers",
+          "custom house",
+          "chairperson",
+          "member-secretary"
+        ],
+        "Commissioner of Customs": [
+          "Additional Commissioner",
+          "Joint Commissioner",
+          "Deputy Commissioner",
+          "Assistant Commissioner",
+          "custom house"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        43,
+        87,
+        213,
+        223,
+        262,
+        281,
+        338,
+        352,
+        453,
+        581,
+        744,
+        2132,
+        12116
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 2,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "লাইসেন্সের অধিক্ষেত্র",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_10",
+      "resolved_text": "১০। লাইসেন্সের অধিক্ষেত্র।— এই বিধিমালার অধীন প্রদত্ত লাইসেন্সের অধিক্ষেত্র হইবে লাইসেন্সে উল্লিখিত সংশ্লিষ্ট কাস্টমস বন্দর, কাস্টম হাউস বা কাস্টমস স্টেশন।",
+      "entity_concepts": {
+        "Customs Clearing and Forwarding Agent": [
+          "The jurisdictional scope of a license granted under these rules is limited to the specific customs port, custom house, or customs station explicitly mentioned in the license document."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1027",
+      "entity_sub_entities": {
+        "Customs Clearing and Forwarding Agent": [
+          "customs port",
+          "custom house",
+          "customs station",
+          "license document"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        250,
+        453,
+        1032,
+        4280
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালাতে-\n(ক) “আইন” অর্থ, Customs Act, 1969 (Act No. IV of 1969);\n(খ) “কাস্টমস এজেন্ট” অর্থ আইনের section 207 এর উদ্দেশ্য পূরণকল্পে কাস্টমস স্টেশনে নিজস্ব পণ্য পরিবহনের জন্য হউক বা না হউক, কোন যানবাহনের প্রবেশ বা প্রস্থান অথবা কোন পণ্য বা ব্যাগেজের আমদানি বা রপ্তানি সংশ্লিষ্ট কাজ সম্পাদনকারী ব্যক্তি বা প্রতিষ্ঠান;\n(গ) “কাস্টমস সরকার” অর্থ বিধি ১৭ এর অধীন নিযুক্ত কাস্টমস সরকার;\n(ঘ) “কাস্টমস স্টেশন” অর্থ আইনের section 2(k) তে সংজ্ঞায়িত কাস্টমস স্টেশন;\n(ঙ) “কাস্টম হাউস” অর্থ আইনের section 9(e) অনুসারে ঘোষিত কাস্টম হাউস;\n(চ) “কোম্পানি” অর্থ কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এর ধারা ২(ঘ) তে সংজ্ঞায়িত কোম্পানি;\n(ছ) “গ্রাহক” অর্থ এমন ব্যক্তি বা প্রতিষ্ঠান যিনি বিদেশ হইতে কোন পণ্য আমদানি বা বিদেশে কোন পণ্য রপ্তানি করেন;\n(জ) “ফরম” অর্থ এই বিধিমালার সহিত সংযোজিত ফরম;\n(ঝ) “ফার্ম” অর্থ Partnership Act, 1932 (Act No. IX of 1932) এর section 4 এ সংজ্ঞায়িত ফার্ম;\n(ঞ) “বোর্ড” অর্থ আইনের section 2 (e) এ সংজ্ঞায়িত জাতীয় রাজস্ব বোর্ড;\n(ট) “রেফারেন্স লাইসেন্স” অর্থ বিধি ১১ এর অধীন প্রদত্ত রেফারেন্স লাইসেন্স;\n(ঠ) “লাইসেন্স” অর্থ কাস্টমস এজেন্ট হিসাবে কার্য সম্পাদনের জন্য বিধি ৫ এর অধীন প্রদত্ত লাইসেন্স; এবং\n(ড) “লাইসেন্সিং কর্তৃপক্ষ” অর্থ বিধি ৩ এর অধীন গঠিত লাইসেন্সিং কর্তৃপক্ষ।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This law is formally referred to as the Act within these rules, establishing the legal framework for customs administration in Bangladesh."
+        ],
+        "Customs Agent": [
+          "A customs agent is defined as any person or organization that performs tasks related to the entry or exit of vehicles, or the import or export of goods and baggage at a customs station, as intended under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Broker": [
+          "Refers to the formal role defined under these rules, which governs those authorized to handle customs-related documentation and procedures on behalf of others."
+        ],
+        "Customs Station": [
+          "A customs station is defined in accordance with the specific definition provided under the Customs Act 1969."
+        ],
+        "Customs House": [
+          "A custom house is defined as an facility declared and authorized under the relevant section of the Customs Act 1969."
+        ],
+        "Company": [
+          "Refers to a business entity as defined under the specific section of the Companies Act 1994."
+        ],
+        "Importer and Exporter": [
+          "Defined as a person or institution involved in the importation of goods from abroad or the exportation of goods to other countries."
+        ],
+        "Form": [
+          "Refers to the official documents appended to these rules that must be utilized for procedural compliance."
+        ],
+        "Partnership Act 1932": [
+          "This Act provides the legal definition for a firm for the purposes of these licensing rules."
+        ],
+        "National Board of Revenue": [
+          "Identified as the Board within these rules, as defined under the Customs Act 1969."
+        ],
+        "Reference License": [
+          "A license issued under the specific rule of this framework to provide authorization for designated customs-related activities."
+        ],
+        "Licensee": [
+          "Authorization granted under these rules to an entity enabling them to operate as a customs agent."
+        ],
+        "Licensing Authority": [
+          "The body constituted under these rules responsible for the issuance and oversight of customs agent licenses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1019",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Act"
+        ],
+        "Customs Agent": [
+          "person",
+          "organization",
+          "vehicles",
+          "goods",
+          "baggage",
+          "customs station"
+        ],
+        "Customs Broker": [
+          "customs-related documentation",
+          "procedures"
+        ],
+        "Customs Station": [
+          "customs station"
+        ],
+        "Customs House": [
+          "custom house"
+        ],
+        "Company": [
+          "business entity",
+          "Companies Act 1994"
+        ],
+        "Importer and Exporter": [
+          "person",
+          "institution",
+          "goods"
+        ],
+        "Form": [
+          "official documents"
+        ],
+        "Partnership Act 1932": [
+          "firm"
+        ],
+        "National Board of Revenue": [
+          "Board"
+        ],
+        "Reference License": [
+          "license",
+          "customs-related activities"
+        ],
+        "Licensee": [
+          "authorization",
+          "customs agent"
+        ],
+        "Licensing Authority": [
+          "customs agent licenses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        25,
+        43,
+        47,
+        60,
+        70,
+        84,
+        92,
+        93,
+        144,
+        150,
+        190,
+        223,
+        246,
+        386,
+        453,
+        461,
+        514,
+        691,
+        716,
+        719,
+        1430,
+        1601,
+        1649,
+        1868,
+        1991,
+        2092,
+        2567,
+        3778
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    }
+  ]
+}

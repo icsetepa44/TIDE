@@ -1,0 +1,357 @@
+{
+  "cluster_id": 791,
+  "cluster_label": "prohibited items",
+  "thread_index": 0,
+  "thread_id": "cluster_00791_t0",
+  "title": "Regulatory Handling and Disposal of Prohibited Items",
+  "summary": "The concept of 'prohibited items' has evolved from a static detention mechanism for passengers to a complex regulatory framework involving disposal protocols, transit restrictions, and clearance limitations. Over time, the policy has shifted from simple temporary detention to active exclusion from specific customs procedures like transit and express services.",
+  "evolution": {
+    "scope": "Expanded from general baggage detention to specific exclusions for transit, express services, and warehouse disposal.",
+    "legal_basis": "Transitioned from general Customs Act provisions to specific procedural rules for different logistics channels."
+  },
+  "timeline": [
+    {
+      "date": "2021-12-20",
+      "instrument": "Customs Directive",
+      "change": "Established formal disposal and destruction protocols for prohibited items found in warehouses.",
+      "clause_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_23"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Baggage Rules",
+      "change": "Defined the legal threshold for clearing non-prohibited items while explicitly excluding prohibited items from standard adjudication-based clearance.",
+      "clause_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "Customs Rules",
+      "change": "Expanded the scope of prohibited/restricted items to include specific categories (e.g., perishables, live animals) that are ineligible for express service clearance.",
+      "clause_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13"
+      ]
+    },
+    {
+      "date": "2025-05-18",
+      "instrument": "Transit/Transshipment Rules",
+      "change": "Categorized specific goods as prohibited for transit/transshipment, creating a new layer of geographical and operational restriction.",
+      "clause_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_23",
+      "clause_title": "ধ্বংসযোগ্য পণ্যের নিষ্পত্তি প্রক্রিয়া",
+      "text_id": "20211220_২০ ডিসেম্বর, ২০২১_clause_23",
+      "resolved_text": "২৩ । ধ্বংসযোগ্য পণ্যের নিষ্পত্তি প্রক্রিয়া:\n\n(১) যে সকল পণ্য ধ্বংসযোগ্য হিসেবে বিবেচিত বা আমদানি নিষিদ্ধ পণ্য তা গুদামের পৃথক স্থানে সংরক্ষণপূর্বক উহার তথ্যাদি সদর দপ্তরের নিলাম বা ধ্বংস কমিটিকে অবহিত করতে হবে।\n\n(২) ধ্বংসযোগ্য পণ্যের গুদাম হতে অপসারণের পূর্বে গুদাম কর্মকর্তা হস্তান্তর ধ্বংস কমিটির নিকট হস্তান্তর করবেন এবং উক্ত কমিটির সদস্য সচিব সংশ্লিষ্ট এন্ট্রির বিপরীতে স্বাক্ষর প্রদান করবেন।\n\n(৩) উপঅনুচ্ছেদ (১) ও (২) এ বর্ণিত পদ্ধতির সাথে 'অথালাসাঙ্কুত বা চোরাচালানের অভিযোগে আটককৃত ও বাজেয়াপ্তকৃত পণ্যের নিষ্পত্তি পদ্ধতি সংক্রান্ত স্থায়ী আদেশ, ২০২১' এ বর্ণিত 'ধ্বংসের মাধ্যমে নিষ্পত্তি পদ্ধতি' সমন্বিতভাবে অনুসরণ করতে হবে।",
+      "entity_concepts": {
+        "Perishable Goods": [
+          "These goods or prohibited items must be stored in a separate area of the warehouse.",
+          "Detailed information regarding these goods must be communicated to the headquarters auction or destruction committee."
+        ],
+        "Auction or Destruction Committee": [
+          "This committee is responsible for overseeing the disposal process of perishable goods.",
+          "The member secretary of this committee must sign against the relevant entries when receiving goods from the warehouse officer before their removal."
+        ],
+        "Warehouse Officer": [
+          "The officer must hand over perishable goods to the destruction committee prior to their removal from the warehouse."
+        ],
+        "Standing Order 2021 on Disposal of Seized and Confiscated Goods": [
+          "The disposal procedures described in this standing order must be followed in conjunction with the instructions for managing perishable or prohibited goods.",
+          "The destruction method stipulated in this order serves as a mandatory framework for the final clearance of such items."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_649",
+      "entity_sub_entities": {
+        "Perishable Goods": [
+          "goods",
+          "prohibited items"
+        ],
+        "Auction or Destruction Committee": [
+          "committee",
+          "member secretary",
+          "goods",
+          "warehouse officer"
+        ],
+        "Warehouse Officer": [
+          "officer",
+          "perishable goods",
+          "destruction committee",
+          "warehouse"
+        ],
+        "Standing Order 2021 on Disposal of Seized and Confiscated Goods": [
+          "disposal procedures",
+          "standing order",
+          "perishable goods",
+          "prohibited goods",
+          "destruction method",
+          "items"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        74,
+        102,
+        114,
+        117,
+        158,
+        259,
+        327,
+        507,
+        617,
+        791,
+        3217,
+        7282,
+        7403,
+        12401
+      ],
+      "source_file": "customs_gos_OCR/20211220/20211220_output.json",
+      "clause_date": "2021-12-20"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।- এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোনো যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোনো পণ্য, আমদানি নীতি আদেশ বা অন্য কোনো আইনের অধীন নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত, আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রকের ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক ও কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Commercial Baggage Import": [
+          "Passengers may import goods beyond those specified in the relevant schedules, provided the goods are not restricted or prohibited under the Import Policy Order or other prevailing laws.",
+          "Clearance for such goods is subject to the presentation of a release order from the Chief Controller of Imports and Exports and the adjudication of all applicable customs duties, taxes, fines, and penalties."
+        ],
+        "Adjudication of Customs Cases": [
+          "The release of goods imported in commercial quantities by a passenger requires a formal adjudication process to determine and settle the customs duties, taxes, and any associated penalties or fines."
+        ],
+        "Import Policy Order": [
+          "This order sets the regulatory boundaries for commercial baggage imports, ensuring that any goods imported by passengers must comply with its provisions regarding restricted or prohibited items."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2717",
+      "entity_sub_entities": {
+        "Commercial Baggage Import": [
+          "goods",
+          "schedules",
+          "Import Policy Order",
+          "release order",
+          "Chief Controller of Imports and Exports",
+          "customs duties",
+          "taxes",
+          "fines",
+          "penalties"
+        ],
+        "Adjudication of Customs Cases": [
+          "goods",
+          "customs duties",
+          "taxes",
+          "penalties",
+          "fines"
+        ],
+        "Import Policy Order": [
+          "commercial baggage imports",
+          "goods",
+          "restricted items",
+          "prohibited items"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        46,
+        245,
+        284,
+        349,
+        530,
+        675,
+        791,
+        879,
+        1449,
+        1580,
+        6464
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "কতিপয় পণ্যের ক্ষেত্রে বিধি-নিষেধ",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+      "resolved_text": "১৩। কতিপয় পণ্যের ক্ষেত্রে বিধি-নিষেধ।— নিম্নবর্ণিত কতিপয় পণ্যের প্রকৃতি, মূল্য এবং বৈশিষ্ট্য বিবেচনায় অতিরিক্ত সতর্কতা অবলম্বনের প্রয়োজনীয়তা থাকায় উহা এক্সপ্রেস সার্ভিসযোগে আমদানি করা হইলেও এই বিধিমালার আওতায় উহার কাস্টমস আনুষ্ঠানিকতা সম্পন্ন করা যাইবে না, যথা:-\n(ক) অতি মূল্যবান এবং মূল্যবান দ্রব্য;\n(খ) প্রাণী এবং উদ্ভিদ;\n(গ) পচনশীল পণ্য;\n(ঘ) বিদ্যমান আমদানি নীতি আদেশ অনুসারে নিয়ন্ত্রিত পণ্য অথবা সংনিরোধ সনদের বাধ্যবাধকতা রহিয়াছে এইরূপ পণ্য অথবা ভৌত বা রাসায়নিক পরীক্ষার মাধ্যমে যথাযথ মান সনদ প্রাপ্তি সাপেক্ষে খালাসের বাধ্যবাধকতা রহিয়াছে এইরূপ কোনো পণ্য;\n(ঙ) ৩০ (ত্রিশ) কেজি বা তদূর্ধ্ব ওজনের কোনো পণ্যচালান বা পার্সেল যাহার ক্ষেত্রে স্বাভাবিক পণ্যচালান হিসাবে যাবতীয় কাস্টমস আনুষ্ঠানিকতা পরিপালনযোগ্য; এবং\n(চ) মেইলিং অপারেটর অ্যান্ড কুরিয়ার সার্ভিস বিধিমালা, ২০১৩ এর তফসিল ৬ এ বর্ণিত নিষিদ্ধ কোনো পণ্য।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "Certain categories of goods, due to their nature, value, or specific characteristics, are prohibited from undergoing standard customs clearance procedures even when imported via express courier services. These goods must instead follow regular customs formalities regardless of the method of transportation."
+        ],
+        "Restricted Goods": [
+          "Precious and high-value items, live animals and plants, and perishable goods are excluded from expedited express customs processing due to the need for additional security and oversight. Shipments exceeding a specific weight threshold or those subject to standard commercial customs requirements must also bypass simplified courier clearance procedures.",
+          "Goods that are regulated under existing import policy orders, require quarantine certification, or necessitate physical and chemical testing to obtain quality certificates are subject to mandatory formal customs scrutiny.",
+          "Any goods explicitly listed as prohibited in the schedule of the Mailing Operator and Courier Service Rules 2013 are strictly barred from being cleared under the express service framework."
+        ],
+        "Mailing Operator and Courier Service Rules 2013": [
+          "This regulatory instrument defines specific prohibited items in its schedule which are ineligible for the expedited customs clearance procedures provided to other courier shipments."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1208",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "goods"
+        ],
+        "Restricted Goods": [
+          "precious items",
+          "high-value items",
+          "live animals",
+          "plants",
+          "perishable goods",
+          "shipments exceeding a specific weight threshold",
+          "goods subject to standard commercial customs requirements",
+          "goods regulated under existing import policy orders",
+          "goods requiring quarantine certification",
+          "goods necessitating physical and chemical testing",
+          "goods listed as prohibited in the schedule of the Mailing Operator and Courier Service Rules 2013"
+        ],
+        "Mailing Operator and Courier Service Rules 2013": [
+          "prohibited items"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        51,
+        158,
+        791,
+        862,
+        1065,
+        1250,
+        1452,
+        1708,
+        4559,
+        4892,
+        8470,
+        8474,
+        8485,
+        8488,
+        8496
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "নিষেধাজ্ঞা",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_6",
+      "resolved_text": "৬। নিষেধাজ্ঞা।—এই বিধিমালার অধীন বাংলাদেশের অভ্যন্তর ব্যবহার করিয়া নিম্নবর্ণিত পণ্যসমূহ ট্রানজিট বা ট্রান্সশিপমেন্ট করা যাইবে না, যথা:—\n(ক) আইনের section 15 এর অধীন আমদানি নিষিদ্ধ পণ্য;\n(খ) অস্ত্রশস্ত্র, গোলাবারুদ ও বিস্ফোরক পদার্থ;\n(গ) মদ, মদ জাতীয় পানীয় ও মাদকদ্রব্য;\n(ঘ) wec`vcbœ cÖRvwZi ZvwjKvfz³ cÖvYx, Dw™¢` I RxeRšÍy; [বিপন্ন প্রজাতির তালিকাভুক্ত প্রাণী, উদ্ভিদ ও জীবজন্তু];\n(ঙ) পারমাণবিক এবং তেজস্ক্রিয় সামগ্রী;\n(চ) সকল ধরনের বর্জ্য ও দূষিত পদার্থ;\n(ছ) বিষাক্ত ও Hazardous chemical;\n(জ) ব্যাগেজ;\n(ঝ) ডাকযোগে আমদানিকৃত পণ্য; এবং\n(ঞ) বাংলাদেশে প্রচলিত আইন ও বিধি-বিধান দ্বারা আমদানি নিষিদ্ধ কোনো পণ্য।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "This regulation mandates that specific goods are prohibited from transit or transshipment through Bangladesh. The list includes items banned under the Customs Act, hazardous materials, weapons, controlled biological species, and waste products."
+        ],
+        "Customs Act 1969": [
+          "The Act serves as the legal basis for identifying goods that are prohibited from being imported into the country, which subsequently restricts these items from transit or transshipment processes."
+        ],
+        "Perishable and Hazardous Goods": [
+          "The regulations specifically exclude toxic and hazardous chemical substances from being eligible for transit or transshipment across the country."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2979",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "goods",
+          "items banned under the Customs Act",
+          "hazardous materials",
+          "weapons",
+          "controlled biological species",
+          "waste products"
+        ],
+        "Customs Act 1969": [
+          "goods",
+          "prohibited items"
+        ],
+        "Perishable and Hazardous Goods": [
+          "toxic chemical substances",
+          "hazardous chemical substances"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        216,
+        791,
+        2186,
+        2773,
+        3203,
+        6702,
+        8625,
+        9300,
+        12886,
+        13353
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_168",
+      "clause_title": "Temporary detention of baggage",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_168",
+      "resolved_text": "142. Temporary detention of baggage.- Where the baggage of passenger contains any article which is dutiable or the import of which is prohibited or restricted and in respect of which a true declaration has been made under section 139, the appropriate officer may, at the request of the passenger, detain such article for the purpose of being returned to him on his leaving 1[Bangladesh].",
+      "entity_concepts": {
+        "Baggage": [
+          "If a passenger's baggage contains dutiable, prohibited, or restricted items for which a true declaration has been made, the appropriate officer may detain these items at the passenger's request.",
+          "Detained baggage is held for the specific purpose of returning it to the passenger when they leave the country."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer is authorized to detain specific articles found within a passenger's baggage if the passenger makes a formal request and has properly declared the goods as required."
+        ],
+        "Customs Declaration": [
+          "The ability to detain baggage for return upon a passenger's departure is conditional upon the passenger having made a true declaration of the goods as required by law."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_495",
+      "entity_sub_entities": {
+        "Baggage": [
+          "dutiable items",
+          "prohibited items",
+          "restricted items",
+          "detained baggage"
+        ],
+        "Appropriate Officer of Customs": [
+          "officer",
+          "specific articles",
+          "passenger's baggage"
+        ],
+        "Customs Declaration": [
+          "true declaration",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        47,
+        114,
+        741,
+        791,
+        837,
+        879,
+        2179,
+        7291,
+        13032
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

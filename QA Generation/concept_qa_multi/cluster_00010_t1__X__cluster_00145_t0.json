@@ -1,0 +1,34 @@
+{
+  "group_id": "cluster_00010_t1__X__cluster_00145_t0",
+  "entities": [
+    "Customs Duty",
+    "amendments"
+  ],
+  "cluster_ids": [
+    10,
+    145
+  ],
+  "thread_ids": [
+    "cluster_00010_t1",
+    "cluster_00145_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the government utilize amendments to SROs under the Customs Act to regulate the assessment of Customs Duty?",
+      "answer": "The government utilizes amendments to SROs by exercising powers granted under section 25(3) of the Customs Act, 1969 (and subsequently under the Customs Act, 2023), to update, modify, or repeal previous notifications regarding tariff values and conditions for the collection of Customs Duty, as evidenced by the revisions made to earlier SROs in clauses [0], [1], and [3].",
+      "entities_involved": [
+        "Customs Duty",
+        "amendments"
+      ],
+      "clause_text_ids": [
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "metadata_1",
+        "metadata_2",
+        "metadata_3"
+      ]
+    }
+  ]
+}

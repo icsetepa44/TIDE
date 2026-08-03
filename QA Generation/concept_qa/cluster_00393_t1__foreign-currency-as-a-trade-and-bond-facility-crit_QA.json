@@ -1,0 +1,107 @@
+{
+  "thread_id": "cluster_00393_t1",
+  "cluster_id": 393,
+  "cluster_label": "foreign currency",
+  "title": "Foreign Currency as a Trade and Bond Facility Criterion",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to the Customs Rules 2024, how was a 'Duty Paid Bond' institution defined regarding its sales?",
+      "options": [
+        "It sells goods to local manufacturers in exchange for local currency.",
+        "It sells bonded imported goods to foreign citizens in Bangladesh in exchange for foreign currency.",
+        "It sells raw materials to shipbuilders duty-free.",
+        "It sells goods exclusively to government entities using international tenders."
+      ],
+      "answer_index": 1,
+      "answer": "It sells bonded imported goods to foreign citizens in Bangladesh in exchange for foreign currency.",
+      "explanation": "The Customs Rules 2024 (dated 2024-06-06) explicitly defines a 'Duty Paid Bond' institution as one that sells bonded imported goods to foreign citizens residing or present in Bangladesh, subject to duties and taxes paid in foreign currency.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the requirement for ship and dredger manufacturing industries to use foreign currency to qualify for duty-free raw material imports?",
+      "options": [
+        "Customs Act 2023, Section 109",
+        "Order 60/2024",
+        "The General Bond Policy of 2023",
+        "The Foreign Currency Exchange Act of 2024"
+      ],
+      "answer_index": 1,
+      "answer": "Order 60/2024",
+      "explanation": "Order 60/2024, issued on 2024-09-12, established the procedures for shipbuilding and dredger manufacturing industries to import raw materials duty-free, contingent upon local supply orders funded by international tenders and paid in foreign currency.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What change in the scope of foreign currency usage was formalized by the National Board of Revenue in September 2024?",
+      "options": [
+        "It was restricted solely to retail bond shops for arriving passengers.",
+        "It was expanded to include duty-free import privileges for industrial manufacturing sectors like shipbuilding.",
+        "It was abolished as a criterion for all bonded warehouse operations.",
+        "It was mandated for all domestic retail transactions within Bangladesh."
+      ],
+      "answer_index": 1,
+      "answer": "It was expanded to include duty-free import privileges for industrial manufacturing sectors like shipbuilding.",
+      "explanation": "As of 2024-09-12 (Order 60/2024), the scope of foreign currency as a policy criterion broadened from retail/commissariat settings to include industrial manufacturing sectors, specifically for duty-free raw material imports for ship and dredger construction.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the Customs Act 2023 (as referenced in the 2024-09-12 order), what is a key condition for licensed ship/dredger manufacturers to import raw materials duty-free?",
+      "options": [
+        "The materials must be paid for in local currency only.",
+        "The materials must be procured against local supply orders payable in foreign currency.",
+        "The manufacturer must be a government-owned entity.",
+        "The manufacturer must sell their finished goods only to domestic passengers."
+      ],
+      "answer_index": 1,
+      "answer": "The materials must be procured against local supply orders payable in foreign currency.",
+      "explanation": "The order dated 2024-09-12 specifies that duty-free import of raw materials for licensed shipbuilding or dredger manufacturing units is permitted specifically for materials procured against local supply orders payable in foreign currency through international tenders.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A business owner operates a bonded warehouse facility in Bangladesh. In June 2024, their facility was classified as a 'Duty Paid Bond' institution because they sold imported goods to foreign citizens in exchange for foreign currency. By September 2024, the owner decides to expand their operations to include the manufacturing of dredgers for local supply orders funded by international tenders paid in foreign currency.",
+      "question": "How did the regulatory application of 'foreign currency' as a criterion for duty-free privileges evolve for this business owner between June 2024 and September 2024?",
+      "answer": "In June 2024, foreign currency was primarily a criterion for defining 'Duty Paid Bond' institutions selling to foreign individuals. By September 2024, the scope expanded to allow licensed shipbuilding and dredger manufacturing industries to utilize foreign currency-denominated local supply orders as a basis for granting duty-free import privileges for raw materials.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2024-09-12"
+      ],
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "three months later",
+      "question": "In 2024-06-06, the Customs Rules defined 'Duty Paid Bond' institutions based on foreign currency sales. Three months later, what new industrial sector was granted duty-free import privileges linked to foreign currency payments?",
+      "answer": "On 2024-09-12, via Order 60/2024, the government linked duty-free import privileges for ship and dredger manufacturing industries to local supply orders payable in foreign currency.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    }
+  ]
+}

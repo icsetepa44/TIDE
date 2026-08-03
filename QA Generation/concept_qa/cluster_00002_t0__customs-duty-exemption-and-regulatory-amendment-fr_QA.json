@@ -1,0 +1,429 @@
+{
+  "thread_id": "cluster_00002_t0",
+  "cluster_id": 2,
+  "cluster_label": "Customs Act 1969",
+  "title": "Customs Duty Exemption and Regulatory Amendment Framework",
+  "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json",
+  "source_num_member_objects": 98,
+  "num_qa_pairs": 26,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 4
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In mid-2013, a customs officer named Mr. Rahman at Chittagong Port is reviewing a clearance file that references S.R.O. No. 148-AIN/2013/2435/Customs. He notices a typographical or administrative error in the Gregorian date originally written as '06 June, 2012' right after the Bengali date of '23 Jaistha, 1420 Bengali'. The National Board of Revenue issues Notification No. 324/2013/Customs on July 1, 2013, to rectify this exact date error.",
+      "question": "What is the corrected Gregorian date that replaced the erroneous '06 June, 2012' in the notification under this amendment?",
+      "answer": "06 June, 2013",
+      "date_or_instrument": "Notification No. 324/2013/Customs (2013-07-01)",
+      "clause_text_ids": [
+        "20130701_324-AIN_2013_2460-Customs_১ জুলাই, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130701_324-AIN_2013_2460-Customs/20130701_324-AIN_2013_2460-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A Bangladeshi manufacturing company, Bengal Synthetics, is planning its raw material imports for the upcoming fiscal year. They rely on the duty exemptions granted under S.R.O. No. 325-AIN/2000/1872/Customs, which was set to expire on June 30, 2013. On June 6, 2013, the government issues S.R.O. No. 158-AIN/2013/2445/Customs to extend this facility in the public interest.",
+      "question": "To what specific date was the exemption deadline in condition (b) of the original S.R.O. extended?",
+      "answer": "30 June, 2014",
+      "date_or_instrument": "S.R.O. 158-AIN/2013/2445/Customs (2013-06-06)",
+      "clause_text_ids": [
+        "20130606_158-AIN_2013_2445-Customs_০৬ জুন, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130606_158-AIN_2013_2445-Customs/20130606_158-AIN_2013_2445-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In June 2014, Rahim Electronics is importing monitors under H.S. Code '8528.51.10' listed under Heading 85.28 of S.R.O. No. 157-AIN/2011/2343/Customs. The customs assessment officer, Ms. Sultana, notes that the government has just issued S.R.O. No. 134-AIN/2014/2498/Customs to amend the table of the 2011 notification. The amendment changes a specific numerical value in column (3) for this exact H.S. Code.",
+      "question": "What new number replaces the original number '22' in column (3) of the table under this amendment?",
+      "answer": "19",
+      "date_or_instrument": "S.R.O. 134-AIN/2014/2498/Customs (2014-06-05)",
+      "clause_text_ids": [
+        "20140605_134-AIN_2014_2498-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_134-AIN_2014_2498-Customs/20140605_134-AIN_2014_2498-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In July 2013, 'The Daily Delta,' a prominent newspaper publisher in Dhaka, imports a shipment of newsprint paper classified under Heading 48.01 of the First Schedule. The publisher seeks to claim the duty concession under S.R.O. No. 215-AIN/2013/2454/Customs, which caps the import duty at 10% ad valorem. The customs appraiser at the port must verify if the physical width of the imported newsprint paper meets the maximum threshold specified in the first condition of the S.R.O.",
+      "question": "What is the maximum width (in inches) of imported newsprint paper allowed to qualify for this duty concession?",
+      "answer": "28 inches",
+      "date_or_instrument": "S.R.O. 215-AIN/2013/2454/Customs (2013-07-01)",
+      "clause_text_ids": [
+        "20130701_215-AIN_2013_2454-Customs_১ জুলাই, ২০১৩ খ্রিস্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130701_215-AIN_2013_2454-Customs/20130701_215-AIN_2013_2454-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A steel pipe fitting importer, Apex Fittings Ltd., is clearing a shipment in late June 2014. The customs agent is referencing S.R.O. No. 74-AIN/2005/2067/Customs (originally dated March 28, 2005) for tax calculations. However, S.R.O. No. 128-AIN/2014/2492/Customs has just been published, amending 'Part Ka' of the table of the 2005 notification specifically regarding a certain H.S. Code.",
+      "question": "Which new H.S. Code replaces the old H.S. Code '7307.99.00' under this amendment?",
+      "answer": "7307.99.90",
+      "date_or_instrument": "S.R.O. 128-AIN/2014/2492/Customs (2014-06-05)",
+      "clause_text_ids": [
+        "20140605_128-AIN_2014_2492-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_128-AIN_2014_2492-Customs/20140605_128-AIN_2014_2492-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In June 2010, a salt importing company, PureSalt Bangladesh, is processing a consignment. The customs clearing agent initially references S.R.O. No. 292-AIN/2007/2172/Customs (dated December 17, 2007) to determine the duty structure. However, the government has just issued S.R.O. No. 186-AIN/2010/2304/Customs to amend the classification code in the table.",
+      "question": "What specific entry replaces the old entry '2501.00.23' in column (1) of the table?",
+      "answer": "2501.00.20",
+      "date_or_instrument": "S.R.O. 186-AIN/2010/2304/Customs (2010-06-10)",
+      "clause_text_ids": [
+        "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_186-AIN_2010_2304-Customs/20100610_186-AIN_2010_2304-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the minimum valuation framework and documentation requirements for importing motor vehicles under Section 25(3) of the Customs Act 1969 evolve between June 2010 and June 2012?",
+      "answer": "In June 2010, S.R.O. 190-AIN/2010 established minimum valuation conditions specifically for new motor vehicles under Heading 87.03, requiring a 'Manufacturer’s Price Certificate' prior to assessment. By June 2011, this was replaced by S.R.O. 168-AIN/2011, which expanded the scope to include double cabin pick-ups and other vehicles under Heading 87.04, and shifted the mandatory documentation requirement to a 'Manufacturer's invoice'. This structure (Heading 87.03 and 87.04 with a Manufacturer's invoice) was maintained in the subsequent June 2012 update under S.R.O. 163-AIN/2012, which repealed the intervening S.R.O. 298-AIN/2011.",
+      "clause_text_ids": [
+        "20100610_190-AIN_2010_2308-Customs_১০ জুন, ২০১০ খ্রিষ্টাব্দ_clause_1",
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_163-AIN_2012_2391-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_190-AIN_2010_2308-Customs/20100610_190-AIN_2010_2308-Customs_output.json",
+        "customs_sros_OCR/20110609_168-AIN_2011_2355-Customs/20110609_168-AIN_2011_2355-Customs_output.json",
+        "customs_sros_OCR/20120607_163-AIN_2012_2391-Customs/20120607_163-AIN_2012_2391-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Analyze the regulatory mechanism and target categories for exemptions from mandatory pre-shipment inspections (PSI) as they transitioned from 2011 to 2012.",
+      "answer": "Under the proviso of Section 25B of the Customs Act 1969, the government systematically updated the PSI exemption list. In June 2011, S.R.O. 158-AIN/2011 repealed the 2010 baseline (S.R.O. 193-AIN/2010) to exempt goods with zero customs duty in the First Schedule, goods exempted under Section 20, and imports by government, semi-government, sector corporations, or autonomous bodies. This framework was carried forward in June 2012 when S.R.O. 178-AIN/2012 repealed S.R.O. 158-AIN/2011, maintaining the same exemption categories to streamline the import clearance process for public and specific industrial entities.",
+      "clause_text_ids": [
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_158-AIN_2011_2344-Customs/20110609_158-AIN_2011_2344-Customs_output.json",
+        "customs_sros_OCR/20120607_178-AIN_2012_2406-Customs/20120607_178-AIN_2012_2406-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the regulatory status of the exemptions originally granted under S.R.O. 340-AIN/2011 change from June 2012 to June 2013?",
+      "answer": "S.R.O. 340-AIN/2011, which was issued on November 3, 2011, initially underwent modification in June 2012 via S.R.O. 174-AIN/2012 to substitute its table of goods (such as synthetic staple fibres under H.S. Code 5503.20.00). However, in June 2013, the government decided to completely repeal S.R.O. 340-AIN/2011 using its powers under Section 19(1) of the Customs Act 1969 and Section 14(1) of the Value Added Tax Act 1991, thereby ending the specific duty and tax exemption framework established by that original 2011 notification.",
+      "clause_text_ids": [
+        "20120607_174-AIN_2012_2402-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_174-AIN_2012_2402-Customs/20120607_174-AIN_2012_2402-Customs_output.json",
+        "customs_sros_OCR/20130606_143-AIN_2013_2430-Customs/20130606_143-AIN_2013_2430-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Explain how the government utilized Section 19(1) of the Customs Act 1969 in June 2013 to manage the duration of long-standing duty exemptions, citing the specific instrument and dates involved.",
+      "answer": "On June 6, 2013, the government issued S.R.O. 158-AIN/2013 under Section 19(1) of the Customs Act 1969 to extend a long-standing exemption originally established under S.R.O. 325-AIN/2000 (dated October 26, 2000). By amending condition (b) of the 2000 notification, the government replaced the expiration date of '30 June, 2013' with '30 June, 2014', thereby prolonging the active window of the duty concession for an additional year in the public interest.",
+      "clause_text_ids": [
+        "20130606_158-AIN_2013_2445-Customs_০৬ জুন, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130606_158-AIN_2013_2445-Customs/20130606_158-AIN_2013_2445-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "What distinct legal authority is highlighted in S.R.O. 324/2013, and how was it applied to correct or update a previous regulatory reference?",
+      "answer": "Unlike many other notifications issued by the government under Section 18 or 19, S.R.O. 324/2013 was issued directly by the National Board of Revenue under the authority of Section 21(b) of the Customs Act 1969. The Board used this power to amend S.R.O. 148-AIN/2013 (originally dated 23 Jyaishtha 1420 Bengali calendar) by correcting a temporal error in its text, replacing the incorrect Gregorian reference of '06 June, 2012' with the correct year of '06 June, 2013'.",
+      "clause_text_ids": [
+        "20130701_324-AIN_2013_2460-Customs_১ জুলাই, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130701_324-AIN_2013_2460-Customs/20130701_324-AIN_2013_2460-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Compare the statutory authorities cited in S.R.O. 179-AIN/2010 and S.R.O. 128-AIN/2014 for amending previous customs notifications, and identify the specific H.S. Code substitutions made in each.",
+      "answer": "S.R.O. 179-AIN/2010 was issued under Section 19 of the Customs Act 1969 and Section 14(1) of the Value Added Tax Act 1991 to amend S.R.O. 169-AIN/2005, substituting entries such as H.S. Code '2833.29.40' with '2833.29.90' and '2905.12.10' with '2905.12.00'. In contrast, S.R.O. 128-AIN/2014 cited Section 20 of the Customs Act 1969 alongside Section 14(1) of the Value Added Tax Act 1991 to amend S.R.O. 74-AIN/2005, substituting H.S. Code '7307.99.00' with '7307.99.90'. Both demonstrate the joint use of the Customs and VAT Acts to refine tariff classifications over time, but they relied on different sections of the Customs Act (Section 19 vs Section 20).",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+        "20140605_128-AIN_2014_2492-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_179-AIN_2010_2297-Customs/20100610_179-AIN_2010_2297-Customs_output.json",
+        "customs_sros_OCR/20140605_128-AIN_2014_2492-Customs/20140605_128-AIN_2014_2492-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under S.R.O. No. 169-AIN/2010/2287/Customs, issued on June 10, 2010, the government exercised its powers under Section 18(2) of the Customs Act 1969 to formally repeal S.R.O. No. 46-AIN/2008 (originally dated 14 February 2010) and S.R.O. No. 62-AIN/2010 (originally dated 4 March 2010).",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "S.R.O. No. 46-AIN/2008",
+      "correct_fact": "S.R.O. No. 46-AIN/2009",
+      "answer": "No, the statement is incorrect. The S.R.O. originally dated 14 February 2010 (2 Falgun 1416 Bangabda) that was repealed is S.R.O. No. 46-AIN/2009/2274/Customs (এস,আর,ও নং ৪৬-আইন/২০০৯/২২৭৪/শুল্ক), not S.R.O. No. 46-AIN/2008.",
+      "clause_text_ids": [
+        "20100610_169-AIN_2010_2287-Customs_১০ জুন, ২০১০_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_169-AIN_2010_2287-Customs/20100610_169-AIN_2010_2287-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "S.R.O. No. 158-AIN/2013/2445/Customs, issued on June 6, 2013, under Section 19(1) of the Customs Act 1969, amended S.R.O. No. 325-AIN/2000/1872/Customs by replacing the date '30 June, 2013' with '30 June, 2015' in condition (b).",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "30 June, 2015",
+      "correct_fact": "30 June, 2014",
+      "answer": "No, the statement is incorrect. S.R.O. No. 158-AIN/2013/2445/Customs replaced the date '30 June, 2013' with '30 June, 2014' (৩০ জুন, ২০১৪ তারিখের), not '30 June, 2015'.",
+      "clause_text_ids": [
+        "20130606_158-AIN_2013_2445-Customs_০৬ জুন, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130606_158-AIN_2013_2445-Customs/20130606_158-AIN_2013_2445-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "S.R.O. No. 128-AIN/2014/2492/Customs, issued on June 5, 2014, under Section 20 of the Customs Act 1969 and Section 14(1) of the Value Added Tax Act 1991, amended S.R.O. No. 74-AIN/2005/2067/Customs by replacing H.S. Code '7307.99.00' with '7307.99.99' in Column 2 of the Table in Part A.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "7307.99.99",
+      "correct_fact": "7307.99.90",
+      "answer": "No, the statement is incorrect. The H.S. Code '7307.99.00' was replaced with '7307.99.90' (৭৩০৭.৯৯.৯০), not '7307.99.99'.",
+      "clause_text_ids": [
+        "20140605_128-AIN_2014_2492-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_128-AIN_2014_2492-Customs/20140605_128-AIN_2014_2492-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "S.R.O. No. 173-AIN/2010/2291/Customs, issued on June 10, 2010, under Section 18(2) of the Customs Act 1969, amends S.R.O. No. 183-AIN/2009/2263/Customs (dated July 1, 2009) to delete specific references to H.S. Codes 0402.10.90 and 0402.21.90 under Heading 04.02.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "Yes, this statement is fully accurate. S.R.O. No. 173-AIN/2010/2291/Customs, acting under Section 18(2) of the Customs Act 1969, amended S.R.O. No. 183-AIN/2009/2263/Customs to delete references to H.S. Codes 0402.10.90 and 0402.21.90 under Heading 04.02.",
+      "clause_text_ids": [
+        "20100610_173-AIN_2010_2291-Customs_১০ জুন, ২০১০_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_173-AIN_2010_2291-Customs/20100610_173-AIN_2010_2291-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Notification No. 324/2013/Customs, issued on July 1, 2013, under Section 21(a) of the Customs Act 1969, amended S.R.O. No. 148-AIN/2013/2435/Customs to replace the text '06 June, 2012' with '06 June, 2013'.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Section 21(a)",
+      "correct_fact": "Section 21(b)",
+      "answer": "No, the statement is incorrect. The legal authority cited under the Customs Act 1969 for Notification No. 324/2013/Customs is Section 21(b), not Section 21(a).",
+      "clause_text_ids": [
+        "20130701_324-AIN_2013_2460-Customs_১ জুলাই, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130701_324-AIN_2013_2460-Customs/20130701_324-AIN_2013_2460-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under S.R.O. No. 117-AIN/2014/2481/Customs, issued on June 5, 2014, the government exercised its authority under Section 18(2) of the Customs Act 1969 to repeal S.R.O. No. 02-AIN/2014/2472/Customs, which was originally dated June 2, 2014.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 2, 2014",
+      "correct_fact": "January 2, 2014",
+      "answer": "No, the statement is incorrect. S.R.O. No. 02-AIN/2014/2472/Customs was originally dated January 2, 2014 (০২ জানুয়ারি, ২০১৪ খ্রিস্টাব্দ), not June 2, 2014.",
+      "clause_text_ids": [
+        "20140605_117-AIN_2014_2481-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_117-AIN_2014_2481-Customs/20140605_117-AIN_2014_2481-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In a review of regulatory changes under the Customs Act 1969, an industrial summary report claims that S.R.O. 340-AIN/2011 (originally issued on November 3, 2011) was completely repealed on June 7, 2012, by S.R.O. 174-AIN/2012. The report further claims that a subsequent notification, S.R.O. 143-AIN/2013, was issued on June 6, 2013, to amend the table of S.R.O. 340-AIN/2011 to include synthetic staple fibres under Heading 55.03.",
+      "question": "According to the official chronology of Bangladeshi customs notifications, how does the actual relationship and timeline between S.R.O. 340-AIN/2011, S.R.O. 174-AIN/2012, and S.R.O. 143-AIN/2013 resolve the conflict presented in the summary report?",
+      "conflict": "The misaligned context incorrectly claims that S.R.O. 340-AIN/2011 was repealed on June 7, 2012, by S.R.O. 174-AIN/2012, and that it was amended on June 6, 2013, by S.R.O. 143-AIN/2013 to include synthetic staple fibres. The actual timeline reverses these actions.",
+      "answer": "The summary report's timeline and description of regulatory actions are incorrect. According to the actual clauses: 1) On June 7, 2012, S.R.O. 174-AIN/2012/2402/Customs was issued to amend (not repeal) S.R.O. 340-AIN/2011 by replacing its TABLE, which included Heading 55.03 and H.S. Code 5503.20.00 for synthetic staple fibres. 2) On June 6, 2013, S.R.O. 143-AIN/2013/2430/Customs was issued to formally repeal and cancel (not amend) S.R.O. 340-AIN/2011 in its entirety.",
+      "clause_text_ids": [
+        "20120607_174-AIN_2012_2402-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_174-AIN_2012_2402-Customs/20120607_174-AIN_2012_2402-Customs_output.json",
+        "customs_sros_OCR/20130606_143-AIN_2013_2430-Customs/20130606_143-AIN_2013_2430-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer of synthetic staple fibres (H.S. Code 5503.20.00) tracks the regulatory status of S.R.O. No. 340-AIN/2011/2371/Customs (originally issued on 3 November 2011). They note that a regulatory update in June 2012 replaces the S.R.O.'s table, but a year later, another notification is issued regarding the same 2011 S.R.O.",
+      "question": "Identify the S.R.O. that amended the table of S.R.O. No. 340-AIN/2011/2371/Customs on June 7, 2012, and state the final status of this 2011 S.R.O. after the notification issued on June 6, 2013.",
+      "answer": "On June 7, 2012, S.R.O. No. 174-AIN/2012/2402/Customs amended the table. On June 6, 2013, S.R.O. No. 143-AIN/2013/2430/Customs completely repealed (বাতিল) S.R.O. No. 340-AIN/2011/2371/Customs, meaning it was no longer in force.",
+      "clauses_involved": [
+        "S.R.O. 174-AIN/2012/2402/Customs",
+        "S.R.O. 143-AIN/2013/2430/Customs"
+      ],
+      "clause_text_ids": [
+        "20120607_174-AIN_2012_2402-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_174-AIN_2012_2402-Customs/20120607_174-AIN_2012_2402-Customs_output.json",
+        "customs_sros_OCR/20130606_143-AIN_2013_2430-Customs/20130606_143-AIN_2013_2430-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial importer relies on mandatory pre-shipment inspection (PSI) exemptions. They track the evolution of these exemptions starting from S.R.O. No. 193-AIN/2010/2311/Customs (dated 10 June 2010).",
+      "question": "Which S.R.O. first repealed the 2010 notification on June 9, 2011, and which subsequent S.R.O. repealed that 2011 notification on June 7, 2012, to establish the next updated list of PSI exemptions?",
+      "answer": "S.R.O. No. 158-AIN/2011/2344/Customs (issued on June 9, 2011) first repealed the 2010 notification. Subsequently, S.R.O. No. 178-AIN/2012/2406/Customs (issued on June 7, 2012) repealed S.R.O. No. 158-AIN/2011/2344/Customs.",
+      "clauses_involved": [
+        "S.R.O. 158-AIN/2011/2344/Customs",
+        "S.R.O. 178-AIN/2012/2406/Customs"
+      ],
+      "clause_text_ids": [
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_158-AIN_2011_2344-Customs/20110609_158-AIN_2011_2344-Customs_output.json",
+        "customs_sros_OCR/20120607_178-AIN_2012_2406-Customs/20120607_178-AIN_2012_2406-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "four years later",
+      "question": "On June 10, 2010, the government issued several customs notifications. Four years later, on June 5, 2014, S.R.O. 128-AIN/2014/2492/Customs was issued. Under which section of the Customs Act 1969 was this 2014 S.R.O. issued, which previous notification did it amend, and what specific H.S. Code substitution was made?",
+      "answer": "S.R.O. 128-AIN/2014/2492/Customs was issued under Section 20 of the Customs Act 1969. It amended the notification S.R.O. 74-AIN/2005/2067/Customs (originally dated March 28, 2005). The amendment substituted the H.S. Code '7307.99.00' with '7307.99.90' in column (2) of the TABLE in part 'Ka' ('ক') of the notification.",
+      "clause_text_ids": [
+        "20140605_128-AIN_2014_2492-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_128-AIN_2014_2492-Customs/20140605_128-AIN_2014_2492-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "one year later",
+      "question": "On June 9, 2011, S.R.O. 158-AIN/2011/2344/Customs was issued regarding exemptions from mandatory pre-shipment inspections. One year later, on June 7, 2012, a new S.R.O. was issued that repealed this 2011 notification. What is the number of this 2012 S.R.O., and under what specific legal provision of the Customs Act 1969 was it issued?",
+      "answer": "The 2012 notification is S.R.O. 178-AIN/2012/2406/Customs. It was issued under the authority of the proviso to Section 25B of the Customs Act 1969.",
+      "clause_text_ids": [
+        "20110609_158-AIN_2011_2344-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_158-AIN_2011_2344-Customs/20110609_158-AIN_2011_2344-Customs_output.json",
+        "customs_sros_OCR/20120607_178-AIN_2012_2406-Customs/20120607_178-AIN_2012_2406-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "three years later",
+      "question": "On June 10, 2010, S.R.O. 190-AIN/2010/2308/Customs was issued regarding valuation conditions. Three years later, on June 6, 2013, S.R.O. 158-AIN/2013/2445/Customs was issued. What previous S.R.O. did this 2013 notification amend, and what specific date substitution did it make in condition (b)?",
+      "answer": "S.R.O. 158-AIN/2013/2445/Customs amended S.R.O. 325-AIN/2000/1872/Customs (dated October 26, 2000). In condition (b), it substituted '30 June, 2013' with '30 June, 2014'.",
+      "clause_text_ids": [
+        "20130606_158-AIN_2013_2445-Customs_০৬ জুন, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130606_158-AIN_2013_2445-Customs/20130606_158-AIN_2013_2445-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "three years later",
+      "question": "On June 9, 2011, S.R.O. 157-AIN/2011/2343/Customs was issued. Three years later, on June 5, 2014, S.R.O. 134-AIN/2014/2498/Customs was issued to amend it. What specific substitution was made under Heading 85.28 of the TABLE in S.R.O. 157-AIN/2011/2343/Customs by this 2014 amendment?",
+      "answer": "Under Heading 85.28 of the TABLE, for the H.S. Code '8528.51.10' in column (2), the number '22' in column (3) was substituted with the number '19'.",
+      "clause_text_ids": [
+        "20140605_134-AIN_2014_2498-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_134-AIN_2014_2498-Customs/20140605_134-AIN_2014_2498-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government repeals the requirement for a Manufacturer’s Price Certificate and introduces a new condition requiring the submission of a Manufacturer’s invoice during the customs valuation process for motor vehicles and double cabin pick-ups.",
+        "The government mandates that for the customs valuation of new motor vehicles, double cabin pick-ups, and other vehicles, importers must submit an invoice issued by the vehicle manufacturer.",
+        "The government mandates that importers of new motor vehicles and automobiles must submit a Manufacturer’s Price Certificate to determine the minimum value for customs duty assessment."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government mandates that importers of new motor vehicles and automobiles must submit a Manufacturer’s Price Certificate to determine the minimum value for customs duty assessment.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The government repeals the requirement for a Manufacturer’s Price Certificate and introduces a new condition requiring the submission of a Manufacturer’s invoice during the customs valuation process for motor vehicles and double cabin pick-ups.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The government mandates that for the customs valuation of new motor vehicles, double cabin pick-ups, and other vehicles, importers must submit an invoice issued by the vehicle manufacturer.",
+          "date": "2012-06-07"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_190-AIN_2010_2308-Customs_১০ জুন, ২০১০ খ্রিষ্টাব্দ_clause_1",
+        "20110609_168-AIN_2011_2355-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_163-AIN_2012_2391-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_190-AIN_2010_2308-Customs/20100610_190-AIN_2010_2308-Customs_output.json",
+        "customs_sros_OCR/20110609_168-AIN_2011_2355-Customs/20110609_168-AIN_2011_2355-Customs_output.json",
+        "customs_sros_OCR/20120607_163-AIN_2012_2391-Customs/20120607_163-AIN_2012_2391-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00002_t0__customs-duty-exemption-and-regulatory-amendment-fr.json"
+    }
+  ]
+}

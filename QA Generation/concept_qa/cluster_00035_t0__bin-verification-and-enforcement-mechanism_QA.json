@@ -1,0 +1,221 @@
+{
+  "thread_id": "cluster_00035_t0",
+  "cluster_id": 35,
+  "cluster_label": "Business Identification Number",
+  "title": "BIN Verification and Enforcement Mechanism",
+  "source_num_member_objects": 12,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the Business Identification Number (BIN) first explicitly required in the context of advance ruling applications?",
+      "options": [
+        "2022-06-09",
+        "2016-06-05",
+        "2024-06-06",
+        "2025-06-02"
+      ],
+      "answer_index": 1,
+      "answer": "2016-06-05",
+      "explanation": "The Advance Ruling Rules dated 2016-06-05 introduced the requirement for applicants to provide their Business Identification Number on the application form.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_16",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_193-AIN_2024_45_Customs_২০২৪-০৫-২৯_clause_1",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_13",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced mandatory electronic verification of the BIN by customs officials to prevent processing delays?",
+      "options": [
+        "Advance Ruling Rules, 2016",
+        "Cargo Declaration Rules, 2025",
+        "Customs SROs, 2022",
+        "Bonded Warehouse Rules, 2024"
+      ],
+      "answer_index": 2,
+      "answer": "Customs SROs, 2022",
+      "explanation": "The 2022-06-09 Customs SROs mandated that officials verify BIN authenticity via online systems to avoid delays in the assessment process.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_16",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_193-AIN_2024_45_Customs_২০২৪-০৫-২৯_clause_1",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_13",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under which regulatory framework were authorities granted the power to suspend a BIN due to audit non-compliance?",
+      "options": [
+        "Bonded Warehouse Rules, 2024",
+        "Advance Ruling Rules, 2016",
+        "Cargo Declaration Rules, 2025",
+        "Customs SROs, 2022"
+      ],
+      "answer_index": 0,
+      "answer": "Bonded Warehouse Rules, 2024",
+      "explanation": "The 2024-06-06 Bonded Warehouse Rules established that failure to submit documents or prepare for audits allows commissioners to suspend the BIN and associated licenses.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_16",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_193-AIN_2024_45_Customs_২০২৪-০৫-২৯_clause_1",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_13",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the status of the BIN enforcement mechanism prior to the 2022 electronic verification mandate?",
+      "options": [
+        "It was linked to license suspension for audit failures.",
+        "It was classified as a serious procedural violation.",
+        "It was primarily a passive data field in application forms.",
+        "It was verified manually by the National Board of Revenue."
+      ],
+      "answer_index": 2,
+      "answer": "It was primarily a passive data field in application forms.",
+      "explanation": "According to the concept evolution summary, the BIN shifted from a passive data field (as seen in the 2016 rules) to an active enforcement instrument starting in 2022.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_16",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A business entity has been consistently filing advance rulings for their imported goods since 2016. In 2022, they noticed that customs officials began performing mandatory electronic verification of their BIN during the clearance process. By 2024, the business failed to comply with a mandatory audit requested by customs authorities.",
+      "question": "How did the consequences of the entity's non-compliance evolve from the initial BIN usage in 2016 to the enforcement measures available to the Commissioner of Customs (Bond) as of 2024?",
+      "answer": "In 2016, the BIN served as a passive identification field for advance ruling applications. By 2024, the legal framework transformed the BIN into an active enforcement instrument, allowing the Commissioner of Customs (Bond) to suspend the entity's BIN and associated licenses due to audit non-compliance.",
+      "clauses_involved": [
+        "2016-06-05",
+        "2022-06-09",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_16",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_193-AIN_2024_45_Customs_২০২৪-০৫-২৯_clause_1",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_13"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "two years later",
+      "question": "In 2022, electronic verification of BINs was introduced; what enforcement change occurred two years later regarding BIN status and bonded warehouse operations?",
+      "answer": "In 2024, the Bonded Warehouse Rules were updated to link BIN status directly to legal enforcement, allowing authorities to suspend a licensee's BIN and operational licenses if they fail to submit required documents or comply with audits.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_193-AIN_2024_45_Customs_২০২৪-০৫-২৯_clause_1",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_13"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year later",
+      "question": "Following the 2024 linkage of BIN status to license suspension, what procedural shift regarding BIN errors in cargo declarations was introduced one year later?",
+      "answer": "In 2025, the Cargo Declaration Rules classified BIN errors in cargo declarations as serious procedural violations, requiring formal approval from a senior official for any related amendments.",
+      "clause_text_ids": [
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_193-AIN_2024_45_Customs_২০২৪-০৫-২৯_clause_1",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_13",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Authorities gain the power to suspend the Business Identification Number and operational licenses of entities that fail to submit required documentation or undergo audits.",
+        "Customs officials are mandated to verify the authenticity of the Business Identification Number using online databases to prevent processing delays during customs clearance.",
+        "The Business Identification Number is introduced as a required data field for applicants seeking an advance ruling on the classification of goods.",
+        "Errors in the Business Identification Number within cargo declarations are formally classified as serious procedural violations requiring senior official approval."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Business Identification Number is introduced as a required data field for applicants seeking an advance ruling on the classification of goods.",
+          "date": "2016-06-05"
+        },
+        {
+          "event": "Customs officials are mandated to verify the authenticity of the Business Identification Number using online databases to prevent processing delays during customs clearance.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "Authorities gain the power to suspend the Business Identification Number and operational licenses of entities that fail to submit required documentation or undergo audits.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Errors in the Business Identification Number within cargo declarations are formally classified as serious procedural violations requiring senior official approval.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_16",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_13",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+        "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+        "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json",
+        "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00035_t0__bin-verification-and-enforcement-mechanism.json"
+    }
+  ]
+}

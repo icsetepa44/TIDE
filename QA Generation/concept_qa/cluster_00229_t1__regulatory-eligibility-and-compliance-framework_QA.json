@@ -1,0 +1,245 @@
+{
+  "thread_id": "cluster_00229_t1",
+  "cluster_id": 229,
+  "cluster_label": "imported inputs",
+  "title": "Regulatory Eligibility and Compliance Framework",
+  "source_num_member_objects": 8,
+  "num_qa_pairs": 16,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the regulatory approach to industrial duty concessions evolved from 2017 to 2024 regarding eligibility and oversight?",
+      "answer": "The regulatory framework shifted from broad industry-based eligibility in 2017 (SRO 2017) to a highly specific, product-linked model by 2024, targeting items like ATMs and washing machines. Oversight also intensified, evolving from simple rule-based compliance in 2017 to a mandatory committee-based site verification process introduced in 2021 and reinforced in 2024 to ensure industrial enterprises meet stringent operational standards.",
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way has the management of production scrap changed for manufacturers utilizing imported inputs under Bangladeshi customs policy?",
+      "answer": "While the requirement to obtain approval from a departmental customs officer for the sale of scrap has remained a consistent procedural element since 2017, the policy has become more standardized. By 2024, specific protocols for scrap disposal were explicitly integrated into the duty concession frameworks for high-tech products like washing machines, ensuring that all applicable Value Added Tax and customs duties are paid upon local sale.",
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role does the committee-based site verification process play in the current duty concession framework?",
+      "answer": "Introduced in 2021 (SRO 2021) and continuing through 2024, the committee-based site verification process serves as a critical compliance gatekeeper. It requires representatives from the National Board of Revenue, the local VAT office, and the Ministry of Industries to inspect new industrial installations and submit a formal report before the manufacturer can be granted approval for duty-free or concessional import of raw materials.",
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the legal foundations for granting duty concessions compare between the 2017 and 2024 policy instruments?",
+      "answer": "The legal basis for granting concessions has transitioned alongside the update of national legislation. While early instruments relied on the Customs Act, 1969, the 2024 regulations (SRO 168-AIN/2024 and SRO 195-AIN/2024) are grounded in the updated Customs Act, 2023, and the Value Added Tax and Supplementary Duty Act, 2012, reflecting a modernized legal framework for managing industrial fiscal incentives.",
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why does the current policy framework require applicants to submit specific identifiers like the Business Identification Number (BIN) and Tax Identification Number (TIN)?",
+      "answer": "The requirement for BIN and TIN, formalized in the 2021 site verification process, is designed to ensure that only VAT-compliant and formally registered industrial entities receive duty concessions. This documentation is mandatory for the committee to assess the legitimacy of the industrial installation and verify the applicant's status before authorizing concessional imports.",
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to SRO 2021-06-03, a committee consisting of representatives from the National Board of Revenue, the local VAT office, and the Ministry of Industries must inspect a factory before granting duty concessions for motorcycle manufacturing.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. As per the 2021-06-03 SRO, a committee comprising the National Board of Revenue, the local VAT office, and the Ministry of Industries is required to perform a site verification for new industrial installations seeking duty concessions.",
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2017-06-01 regulations, manufacturers of pharmaceuticals and bio-hygiene water processing machinery are eligible for duty concessions on imported inputs, provided they comply with specific production conditions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 2017-06-01 SRO restricted concessional benefits to specific units producing pharmaceuticals, pharmaceutical raw materials, or bio-hygiene machinery for the food and beverage industry.",
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-06-06 SRO 195-AIN established that scrap generated from washing machine production using imported inputs is exempt from all Value Added Tax and customs duties upon local sale.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "exempt from all Value Added Tax and customs duties",
+      "correct_fact": "must pay applicable Value Added Tax and other customs duties",
+      "answer": "The statement is inaccurate. According to the 2024-06-06 SRO 195-AIN, scrap generated from washing machine production may be sold locally with official approval, but the importer is required to pay the applicable Value Added Tax and other customs duties on the value of that scrap.",
+      "clause_text_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-06-06 framework for ATM and Closed Circuit Camera production mandates that customs duty on specified imported raw materials be capped at a value-based rate of 10 percent.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "10 percent",
+      "correct_fact": "5 percent",
+      "answer": "The statement is inaccurate. The 2024-06-06 SRO 168-AIN specifies that the customs duty on imported raw materials for ATM and Closed Circuit Camera production is capped at a value-based rate of 5 percent.",
+      "clause_text_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2017-06-01 SRO 155-AIN allows for the local sale of production scrap generated from imported motorcycle parts, provided the departmental customs officer approves the sale.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 2017-06-01 SRO 155-AIN permits the local sale of motorcycle production scrap with the approval of the relevant departmental customs officer, subject to the payment of applicable taxes.",
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2022-06-09 SRO 120-AIN introduced fiscal measures for refrigerator manufacturing, allowing for partial customs duty exemption based on the Customs Act 1969, Section 21(b).",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Section 21(b)",
+      "correct_fact": "Section 19(1)",
+      "answer": "The statement is inaccurate. The 2022-06-09 SRO 120-AIN relies on Section 19(1) of the Customs Act 1969, which empowers the government to grant exemptions in the public interest, rather than Section 21(b).",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A motorcycle manufacturer began operations and obtained duty concessions under the 2017 regulatory framework. In 2021, they seek to understand the new procedural requirements for maintaining their duty concession status for imported raw materials compared to when they first started.",
+      "question": "How has the procedural requirement for obtaining duty concessions for motorcycle manufacturing changed between the 2017 framework and the 2021 regulations?",
+      "answer": "While the 2017 framework established general eligibility for specific industry units, the 2021 regulations introduced a mandatory committee-based site verification process involving the National Board of Revenue, local VAT officials, and the Ministry of Industries for new installations seeking concessions.",
+      "clauses_involved": [
+        "2017-06-01",
+        "2021-06-03"
+      ],
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial unit produced motorcycle components in 2017 and is now diversifying into washing machine production in 2024. They need to know if the tax obligations regarding the disposal of production scrap have changed for their new product line compared to their original motorcycle manufacturing operations.",
+      "question": "Does the tax liability for disposing of production scrap from washing machines in 2024 differ from the requirements set for motorcycle scrap in 2017?",
+      "answer": "No. Both the 2017 motorcycle production rules and the 2024 washing machine production rules require the importer to obtain approval from the relevant customs official and pay the applicable Value Added Tax and other duties on the value of the scrap material sold locally.",
+      "clauses_involved": [
+        "2017-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "four years later",
+      "question": "Following the 2017-06-01 SRO, what major procedural change regarding industrial duty concessions was introduced four years later?",
+      "answer": "In 2021-06-03 (SRO 2021), a committee-based site verification process was introduced for new industrial installations seeking duty concessions.",
+      "clause_text_ids": [
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_2",
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-06-03",
+      "relative_offset": "three years later",
+      "question": "Three years after the implementation of the committee-based site verification process in 2021, how did the regulatory framework evolve regarding specific high-tech products?",
+      "answer": "In 2024-06-06 (SRO 2024), the framework was standardized for high-tech products like ATMs and washing machines, including explicit protocols for the local sale and taxation of production-related scrap.",
+      "clause_text_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_1",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The national authority implements a committee-based site verification process for new industrial installations applying for duty concessions.",
+        "The government mandates that production scrap generated from imported inputs used in motorcycle manufacturing must be sold locally only with the approval of the relevant customs officer, subject to applicable taxation.",
+        "The government standardizes duty concessions for the local production of high-tech items like washing machines, incorporating explicit requirements for the local sale of production-related scrap under customs supervision."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government mandates that production scrap generated from imported inputs used in motorcycle manufacturing must be sold locally only with the approval of the relevant customs officer, subject to applicable taxation.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The national authority implements a committee-based site verification process for new industrial installations applying for duty concessions.",
+          "date": "2021-06-03"
+        },
+        {
+          "event": "The government standardizes duty concessions for the local production of high-tech items like washing machines, incorporating explicit requirements for the local sale of production-related scrap under customs supervision.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_2",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_155-AIN_/20170601_155-AIN__output.json",
+        "customs_sros_OCR/20210603_128-AIN_2021_17_Customs/20210603_128-AIN_2021_17_Customs_output.json",
+        "customs_sros_OCR/20240606_195-AIN_2024_47_Customs/20240606_195-AIN_2024_47_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00229_t1__regulatory-eligibility-and-compliance-framework.json"
+    }
+  ]
+}

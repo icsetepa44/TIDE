@@ -1,0 +1,340 @@
+{
+  "cluster_id": 730,
+  "cluster_label": "transport documents",
+  "thread_index": 0,
+  "thread_id": "cluster_00730_t0",
+  "title": "Evolution of Transport Documents in Customs Procedures",
+  "summary": "The role of transport documents has evolved from a basic requirement for cargo manifest verification to a central pillar of digital customs automation. Initially serving as proof of carriage, these documents are now integrated into automated risk management systems and electronic cargo declaration processes under the Customs Act, 2023.",
+  "evolution": {
+    "legal_basis": "Shifted from manual documentary evidence to digital system-based cargo registration.",
+    "procedure": "Moved from simple submission to automated verification and risk management integration.",
+    "scope": "Expanded from basic import/export compliance to complex master/house bill of lading management."
+  },
+  "timeline": [
+    {
+      "date": "2022-10-18",
+      "instrument": "D-8 PTA Rules",
+      "change": "Establishes transport documents as supporting evidence for retrospective origin certification.",
+      "clause_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Customs Declaration Rules",
+      "change": "Formalizes the mandatory submission of specific transport documents (B/L, Air Way Bill, etc.) as part of the standard import/export declaration package.",
+      "clause_ids": [
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Customs Act 2023 Implementation",
+      "change": "Transitions to digital cargo declaration, allowing transport documents to serve as the basis for automated clearance and risk-based physical inspection.",
+      "clause_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_22",
+      "clause_title": "Rule 19 - Goods in Transit and Storage",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+      "resolved_text": "Rule 19\nGoods in Transit and Storage\nGoods which conform to the provisions of D-8 Rules of Origin and which on the date of entry into force of the D-8 PTA are either being transported or are being held in a Contracting Member’s territory in temporary storage, in bonded warehouses or in free zones, may be accepted as originating products subject to the submission, within four months from the date of entry into force of the D-8 PTA, to the customs authorities of the importing country of D-8 Certificate of Origin, drawn up retrospectively, and of any documents that provide supporting evidence of the conditions of transport.",
+      "entity_concepts": {
+        "Originating Goods": [
+          "Goods that comply with the D-8 Rules of Origin and are in transit or storage at the time the D-8 PTA enters into force may qualify as originating products. This status is conditional upon the submission of a retrospective Certificate of Origin and supporting transport documents to customs authorities within a specified timeframe."
+        ],
+        "Bonded Warehouse": [
+          "Goods held in bonded warehouses at the time of the D-8 PTA entry into force may be treated as originating products if they satisfy specific origin criteria and relevant documentation requirements are met."
+        ],
+        "Certificate of Origin": [
+          "A certificate drawn up retrospectively must be submitted to the customs authorities of the importing country within four months of the D-8 PTA entry into force to validate the status of goods in transit or storage."
+        ],
+        "Documentary Evidence": [
+          "Supporting documents providing evidence of transport conditions must be submitted alongside a retrospective Certificate of Origin to confirm the eligibility of transit or stored goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2411",
+      "entity_sub_entities": {
+        "Originating Goods": [
+          "goods",
+          "Certificate of Origin",
+          "transport documents",
+          "customs authorities"
+        ],
+        "Bonded Warehouse": [
+          "goods",
+          "bonded warehouses"
+        ],
+        "Certificate of Origin": [
+          "certificate",
+          "customs authorities",
+          "goods"
+        ],
+        "Documentary Evidence": [
+          "supporting documents",
+          "transport conditions",
+          "Certificate of Origin",
+          "transit or stored goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        45,
+        146,
+        188,
+        208,
+        333,
+        423,
+        565,
+        730,
+        958,
+        12970,
+        12990
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "পণ্য ঘোষণার সহিত দাখিলতব্য দলিলাদি",
+      "text_id": "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+      "resolved_text": "৪। পণ্য ঘোষণার সহিত দাখিলতব্য দলিলাদি।⎯ পণ্য ঘোষণার সহিত নিম্নবর্ণিত দলিলাদির মূল কপি ও অন্যান্য প্রাসঙ্গিক দলিলাদি দাখিল করিতে হইবে, যথা:-\n(ক) আমদানির ক্ষেত্রে⎯\n(অ) Bill of Lading বা, ক্ষেত্রমত, Air Way Bill বা Truck Receipt বা Railway Receipt;\n(আ) Invoice;\n(ই) Packing List;\n(ঈ) পণ্যের আমদানিযোগ্যতা এবং/অথবা দাবীকৃত শুল্ক ও কর রেয়াতের প্রাপ্যতা প্রমাণের জন্য প্রয়োজনীয় অন্যান্য প্রামাণিক দলিলাদি; এবং\n(উ) সরকার, বোর্ড এবং/অথবা সংশ্লিষ্ট সরকারি দপ্তর কর্তৃক, সময় সময়, জারিকৃত আদেশ মোতাবেক দাখিলযোগ্য প্রামাণিক দলিলাদি;\n(খ) রপ্তানির ক্ষেত্রে⎯\n(অ) Export Letter of Credit (L/C) বা export/sales contract বা Order;\n(আ) Invoice;\n(ই) Packing List;\n(ঈ) Certificate of Origin (C/O); এবং\n(উ) সরকার, বোর্ড এবং/অথবা সংশ্লিষ্ট সরকারি দপ্তর কর্তৃক, সময় সময়, জারিকৃত আদেশ মোতাবেক দাখিলযোগ্য প্রামাণিক দলিলাদি।",
+      "entity_concepts": {
+        "Bill of Lading": [
+          "This document is a mandatory requirement to be submitted along with the goods declaration during the import process."
+        ],
+        "Certificate of Origin": [
+          "This document is a mandatory requirement to be submitted along with the goods declaration during the export process."
+        ],
+        "National Board of Revenue": [
+          "The board, along with the government and other relevant departments, has the authority to issue orders from time to time specifying additional documentation requirements for both imports and exports."
+        ],
+        "Customs Invoice and Documentation": [
+          "General invoices and packing lists are required for both import and export declarations, along with specific transport documents for imports and commercial contracts for exports."
+        ],
+        "Export": [
+          "Exporters must provide specific supporting documents including sales contracts or letters of credit, invoices, packing lists, and certificates of origin during the customs declaration process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2736",
+      "entity_sub_entities": {
+        "Bill of Lading": [
+          "document",
+          "goods declaration"
+        ],
+        "Certificate of Origin": [
+          "document",
+          "goods declaration"
+        ],
+        "National Board of Revenue": [
+          "board",
+          "government",
+          "relevant departments",
+          "documentation requirements"
+        ],
+        "Customs Invoice and Documentation": [
+          "invoices",
+          "packing lists",
+          "transport documents",
+          "commercial contracts"
+        ],
+        "Export": [
+          "sales contracts",
+          "letters of credit",
+          "invoices",
+          "packing lists",
+          "certificates of origin"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        6,
+        208,
+        234,
+        251,
+        268,
+        325,
+        463,
+        701,
+        707,
+        730,
+        1242,
+        1606,
+        1939,
+        2225,
+        2246,
+        3623
+      ],
+      "source_file": "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "বিশেষ বিধান",
+      "text_id": "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12",
+      "resolved_text": "১২। বিশেষ বিধান।─ (১) কাস্টমস আইন, ২০২৩ এর ধারা ৯৬ এর উদ্দেশ্যপূরণকল্পে, যেই সকল পণ্যচালানের কার্গো ঘোষণা এককভাবে কাস্টমস কম্পিউটার সিস্টেমে দাখিল বা প্রেরণ করা সম্ভবপর নহে, সেই সকল পণ্যচালানের বিল অব লেডিং বা এয়ারওয়ে বিল বা ট্রাক রিসিপ্ট বা রেল কার্গোরিসিপ্ট, যেই ক্ষেত্রে যেইটি প্রযোজ্য, এর ভিত্তিতে পণ্যের ঘোষণা দাখিলের সুযোগ প্রদান করা যাইবে এবং এইক্ষেত্রে ঝুঁকি ব্যবস্থাপনার আওতায় কায়িক পরীক্ষার জন্য নির্বাচিত চালান ব্যতীত, দাখিলকৃত পণ্যের ঘোষণা, সত্যতা প্রতিপাদন এবং ছাড়ের জন্য শুল্ক ও কর পরিশোধের সুযোগ পাইবে।\n(২) ক্ষমতাপ্রাপ্ত ব্যক্তি বা এজেন্ট কর্তৃক দাখিলকৃত কার্গো ঘোষণা ও পণ্যের ঘোষণা তথ্যের সহিত পরিপূরক যাচাই সাপেক্ষে, এক্সিট নম্বর প্রদান ও পোর্ট রিলিজ নিশ্চিত করিতে হইবে।\n(৩) উক্তরূপ চালান সহজে সনাক্তকরণে কাস্টমস কম্পিউটার সিস্টেমে ভিন্নভাবে চিহ্নিতকরণ [যেমন, IM Code (Import Code)] ব্যবহার করা যাইবে এবং প্রচলিত পদ্ধতিতে একাধিক কার্গোঘোষণা সৃষ্টি হইলে উহার এক্সিট নম্বর প্রদানের পূর্বেই অতিরিক্ত কার্গো ঘোষণা অবলোপন (write off) করিবার জন্য দপ্তরসমূহ প্রয়োজনীয় ব্যবস্থা গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This clause provides specific provisions to facilitate the fulfillment of the objectives stated under Section 96 of the Customs Act 2023."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "For shipments where cargo declaration cannot be filed electronically as a single entry, the system allows for the submission of declarations based on transport documents like bills of lading, airway bills, or transport receipts.",
+          "The system may be used to uniquely flag shipments using specific import codes and is responsible for providing exit numbers and ensuring port release after data verification.",
+          "Except for shipments selected for physical inspection under risk management, the system facilitates the verification of declarations and the payment of duties and taxes for clearance."
+        ],
+        "Import Clearance": [
+          "Clearance is granted for shipments based on transport documents when standard electronic cargo declaration is not feasible, provided the goods are not selected for physical examination under risk management."
+        ],
+        "Risk Management": [
+          "Shipments are subjected to risk assessment, where physical examination remains mandatory for those selected by the system, while others may proceed based on the authenticity of the submitted declarations."
+        ],
+        "Import Duty": [
+          "The clause stipulates that duties and taxes must be paid to enable the clearance of goods that have had their declarations and authenticity verified."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3148",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Section 96"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "cargo declaration",
+          "bills of lading",
+          "airway bills",
+          "transport receipts",
+          "import codes",
+          "exit numbers",
+          "duties",
+          "taxes"
+        ],
+        "Import Clearance": [
+          "transport documents",
+          "goods"
+        ],
+        "Risk Management": [
+          "shipments",
+          "declarations"
+        ],
+        "Import Duty": [
+          "duties",
+          "taxes",
+          "goods",
+          "declarations"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        19,
+        30,
+        52,
+        66,
+        220,
+        240,
+        247,
+        363,
+        626,
+        730,
+        1005,
+        1400,
+        2709,
+        4146,
+        12011,
+        13000
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "কার্গো ঘোষণার নিবন্ধন",
+      "text_id": "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_9",
+      "resolved_text": "৯। কার্গো ঘোষণার নিবন্ধন।─ কার্গো ঘোষণার নিবন্ধন নিম্নবর্ণিতভাবে সম্পন্ন হইবে; যথা:-\n(ক) দাখিলকৃত কার্গো ঘোষণার ওয়েববিল সেগমেন্টটি একক পণ্যচালান সংশ্লিষ্ট হইলে তাহা জেনারেল সেগমেন্ট ঘোষণার সহিত সামঞ্জস্যপূর্ণ প্রাপ্তি সাপেক্ষে স্বয়ংক্রিয়ভাবে কার্গো ঘোষণার রেজিস্ট্রেশন সম্পন্ন হইবে;\n(খ) কার্গো ঘোষণার ওয়েববিল সেগমেন্টটি এক বা একাধিক পণ্যচালান এবং আমদানি কারক সংশ্লিষ্ট হইলে উক্ত ঘোষণাটি মাস্টার বিল অব লেডিং (B/L) ঘোষণা হিসেবে বিবেচ্য হইবে এবং উক্ত মাস্টার B/L সংশ্লিষ্ট অন্যান্য শিপিং এজেন্ট বা এয়ারলাইন্স কর্তৃপক্ষ বা ফ্রেট ফরোয়ার্ডার্স এজেন্ট বা অনুমোদিত অন্য কোনো এজেন্ট কর্তৃক এক বা একাধিক হাউস বিল অব লেডিং (B/L) দাখিল করিতে হইবে;\n(গ) আকাশপথভিত্তিক কাস্টমস বিমানবন্দরে কেবল এয়ারলাইন্স কর্তৃপক্ষ বা তাহার এজেন্ট, ওয়েববিল সেগমেন্টভুক্ত মাস্টার এয়ারওয়ে বিল এবং প্রযোজ্য ক্ষেত্রে, উহার বিপরীতে হাউস এয়ারওয়ে বিল দাখিল করিবে;\n(ঘ) স্থল কাস্টমস স্টেশনের ক্ষেত্রে প্রতিটি পণ্যচালানের জন্য কার্গো ঘোষণার উভয় অংশের সমন্বয়ে একক ঘোষণা দাখিল করিতে হইবে এবং স্বয়ংক্রিয়ভাবে রেজিস্ট্রেশন সম্পন্ন হইবে;\n(ঙ) জেনারেল সেগমেন্ট ঘোষণার সহিত দাখিলকৃত সকল মাস্টার বিল অফ লেডিং (বিএল) এবং হাউস বিল অফ লেডিং (বিএল) সমূহ সামঞ্জস্যপূর্ণ হইলে স্বয়ংক্রিয়ভাবে কার্গো ঘোষণার রেজিস্ট্রেশন সম্পন্ন হইবে;\n(চ) জেনারেল সেগমেন্ট ঘোষণার সহিত দাখিলকৃত সকল মাস্টার B/L এবং হাউস B/L সমূহ সামঞ্জস্যপূর্ণ না হইলে কার্গো ঘোষণা দাখিলকারীর আবেদনের ভিত্তিতে সংশ্লিষ্ট কাস্টমস কর্মকর্তা কর্তৃক উক্ত অসামঞ্জস্যতা দূর করিয়া কাস্টমস কম্পিউটার সিস্টেমে উক্ত কার্গো ঘোষণার রেজিস্ট্রেশন প্রদান করা যাইবে; এবং\n(ছ) কারিগরি ত্রুটি বা অন্য কোনো কারণে কাস্টমস কম্পিউটার সিস্টেমে কার্গো ঘোষণার স্বয়ংক্রিয় রেজিস্ট্রেশন প্রদান সম্পন্ন করা না গেলে বা কার্গো ঘোষণা দাখিল করা না গেলে সংশ্লিষ্ট এজেন্টের আবেদনের পরিপ্রেক্ষিতে কাস্টমস স্টেশন কর্তৃপক্ষ প্রয়োজনীয় যাচাই-বাছাই এর মাধ্যমে যথাযথ ঘোষণা প্রদানের বিষয়ে নিশ্চিত হইয়া ম্যানুয়াল পদ্ধতিতে উক্ত কার্গো ঘোষণার রেজিস্ট্রেশন প্রদানের ব্যবস্থা করিতে পারিবে।",
+      "entity_concepts": {
+        "Cargo Declaration": [
+          "The registration of a cargo declaration is mandated to follow specific automated and manual procedures based on the nature of the shipment and the entry point. The process ensures consistency between the general segment declaration and the relevant bills of lading or airway bills.",
+          "In cases where automated registration fails due to technical errors or data mismatches, customs authorities are empowered to verify and register declarations manually upon the application of the relevant agent."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The system acts as the primary platform for the automated registration of cargo declarations. It performs validation checks to ensure consistency between general segments and specific transport documents.",
+          "Customs officials may intervene in the system to resolve data discrepancies or execute manual registrations when the automated process is unavailable or hindered by technical issues."
+        ],
+        "Bill of Lading": [
+          "Master and House Bills of Lading are central to cargo declaration registration. A single shipment may correspond directly to a general segment, while more complex shipments involving multiple consignments require the filing of both Master and House Bills of Lading.",
+          "The registration of a cargo declaration is contingent upon the alignment and consistency of these documents with the general segment declaration."
+        ],
+        "Airway Bill": [
+          "For cargo arriving via air, airlines or their agents must file Master Airway Bills and, where applicable, House Airway Bills into the customs system. These documents serve as the foundation for cargo registration at customs airports."
+        ],
+        "Appropriate Officer of Customs": [
+          "Customs officials are responsible for resolving inconsistencies between declarations and transport documents upon a formal application from the declarant. They are also authorized to conduct manual registrations when the automated customs system cannot process a declaration."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3145",
+      "entity_sub_entities": {
+        "Cargo Declaration": [
+          "cargo declaration",
+          "general segment declaration",
+          "bills of lading",
+          "airway bills"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs Computerised Entry Processing System",
+          "general segments",
+          "transport documents"
+        ],
+        "Bill of Lading": [
+          "Master Bills of Lading",
+          "House Bills of Lading",
+          "general segment declaration"
+        ],
+        "Airway Bill": [
+          "Master Airway Bills",
+          "House Airway Bills"
+        ],
+        "Appropriate Officer of Customs": [
+          "Customs officials",
+          "declarations",
+          "transport documents",
+          "automated customs system"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        66,
+        87,
+        220,
+        240,
+        268,
+        626,
+        730,
+        1005,
+        1321,
+        1659,
+        4063,
+        4130,
+        5849,
+        8758,
+        9766,
+        9767
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

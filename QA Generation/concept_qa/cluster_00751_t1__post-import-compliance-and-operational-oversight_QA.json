@@ -1,0 +1,110 @@
+{
+  "thread_id": "cluster_00751_t1",
+  "cluster_id": 751,
+  "cluster_label": "Bangladesh Export Processing Zones Authority",
+  "title": "Post-Import Compliance and Operational Oversight",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the requirement for BEPZA officials to conduct physical inspections of imported machinery and report to Customs within six months formally introduced?",
+      "options": [
+        "2024-06-06",
+        "2023-06-01",
+        "2022-01-01",
+        "2023-12-31"
+      ],
+      "answer_index": 1,
+      "answer": "2023-06-01",
+      "explanation": "The 2023-06-01 SRO/Clause (src=20230601_114-AIN_2023_158_Customs_output) mandated that authorized BEPZA personnel conduct physical inspections and submit reports to the Commissioner of Customs within six months of clearance.",
+      "clause_text_ids": [
+        "20230601_114-AIN_2023_158_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "According to the 2024-06-06 regulatory update, which document must be submitted alongside import/purchase documents to request the inclusion of machinery in a license?",
+      "options": [
+        "A tax clearance certificate from the NBR",
+        "A BEPZA-issued Investment Permit (IP)",
+        "A physical inspection report from the Commissioner of Customs",
+        "A bank guarantee for the machinery value"
+      ],
+      "answer_index": 1,
+      "answer": "A BEPZA-issued Investment Permit (IP)",
+      "explanation": "The 2024-06-06 instrument (src=20240606_209-AIN_2024_61_Customs_output) explicitly mandates the submission of BEPZA or BEZA-issued Investment Permits (IP) as part of the post-installation documentation for machinery.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary procedural change introduced by the 2023-06-01 instrument regarding BEPZA's oversight of imported machinery?",
+      "options": [
+        "The shift from physical verification to remote digital document submission",
+        "The introduction of mandatory physical site verification and reporting to Customs",
+        "The removal of the requirement for General Manager certification",
+        "The extension of the reporting deadline to 24 months"
+      ],
+      "answer_index": 1,
+      "answer": "The introduction of mandatory physical site verification and reporting to Customs",
+      "explanation": "The 2023-06-01 clause established the requirement for BEPZA authorized personnel to conduct physical inspections and for the General Manager to submit a report to the Commissioner of Customs within six months.",
+      "clause_text_ids": [
+        "20230601_114-AIN_2023_158_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the procedures effective as of 2024-06-06, what is the deadline for an importer to apply for the inclusion of installed machinery into a license?",
+      "options": [
+        "Within 6 months of clearance",
+        "Within 15 working days of installation",
+        "Within 30 days of import",
+        "Within 1 year of purchase"
+      ],
+      "answer_index": 1,
+      "answer": "Within 15 working days of installation",
+      "explanation": "The 2024-06-06 clause (src=20240606_209-AIN_2024_61_Customs_output) specifies that applications for machinery inclusion must be submitted within 15 working days of installing the machinery at the facility.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer cleared machinery for their factory in an EPZ in early 2024 and complied with the physical inspection and reporting requirements established in 2023. After June 6, 2024, they seek to have this machinery formally added to their factory license.",
+      "question": "What additional documentation must the importer now submit for license inclusion that was not explicitly mandated as part of the post-import compliance reporting process under the 2023 rule?",
+      "answer": "The importer must now submit the BEPZA-issued Investment Permit (IP), which became a mandatory requirement for machinery installation documentation under the 2024 clause.",
+      "clauses_involved": [
+        "2023-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20230601_114-AIN_2023_158_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "one year later",
+      "question": "Following the introduction of mandatory physical inspections for machinery in 2023-06-01, what specific documentation requirement was added one year later to the post-installation process?",
+      "answer": "In 2024-06-06, the documentation requirements were expanded to mandate the submission of BEPZA-issued Investment Permits (IP) as part of the formal machinery installation and inclusion process.",
+      "clause_text_ids": [
+        "20230601_114-AIN_2023_158_Customs_২১ মে, ২০২৩_clause_1",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    }
+  ]
+}

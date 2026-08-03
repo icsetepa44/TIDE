@@ -1,0 +1,360 @@
+{
+  "cluster_id": 491,
+  "cluster_label": "licensees",
+  "thread_index": 0,
+  "thread_id": "cluster_00491_t0",
+  "title": "Operational Compliance and Digital Integration",
+  "summary": "The concept of licensee obligations has evolved from basic administrative record-keeping and physical warehouse management to a sophisticated digital-first framework. Requirements have shifted from manual audits and physical document production to mandatory integration with Customs Computer Systems, including the use of ESPINs and digital user credentials.",
+  "evolution": {
+    "compliance_mode": "From manual/physical record-keeping to digital system integration.",
+    "financial_oversight": "From general audit requirements to specific lien bank transaction mandates."
+  },
+  "timeline": [
+    {
+      "date": "2011-06-09",
+      "instrument": "SRO/Clause",
+      "change": "Introduced mandatory annual audits for licensees.",
+      "clause_ids": [
+        "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Warehouse Licensing Rules 2024",
+      "change": "Mandated digital integration (User ID, Password, ESPIN) and formalization of financial transactions through lien banks.",
+      "clause_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "Customs Directive",
+      "change": "Refined digital access requirements for licensees to include specific Customs Authorities interaction protocols.",
+      "clause_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "বিধি ৭ এর পরিবর্তে নিম্নরূপ বিধি ৭ প্রতিস্থাপিত হইবে, যথা",
+      "text_id": "20110609_162-AIN_2011_2349-Customs_০৯ জুন, ২০১১_clause_1",
+      "resolved_text": "১। বিধি ৭ এর পরিবর্তে নিম্নরূপ বিধি ৭ প্রতিস্থাপিত হইবে, যথা :—\n\n“৭। লাইসেন্সের মেয়াদ।—\n(ক) লাইসেন্সের মেয়াদ হইবে লাইসেন্স প্রদানের তারিখ হইতে ২(দুই) বৎসর; এবং\n(খ) লাইসেন্সীকে প্রতি বৎসর তদসংশ্লিষ্ট প্রতিষ্ঠানের অডিট সম্পন্ন করিতে হইবে।”",
+      "entity_concepts": {
+        "Customs License": [
+          "The license validity period is set at two years from the date of its issuance.",
+          "Licensees are required to undergo an annual audit of their relevant institution."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1305",
+      "entity_sub_entities": {
+        "Customs License": [
+          "license validity period",
+          "date of issuance",
+          "Licensees",
+          "annual audit",
+          "relevant institution"
+        ]
+      },
+      "clause_clusters": [
+        491,
+        635,
+        1324,
+        1367,
+        4671,
+        9472
+      ],
+      "source_file": "customs_sros_OCR/20110609_162-AIN_2011_2349-Customs/20110609_162-AIN_2011_2349-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "কাস্টমস কম্পিউটার সিস্টেমের মাধ্যমে কার্য পরিচালনার জন্য ইউজার আইডি, পাসওয়ার্ড ও এজেন্ট নম্বর প্রদান",
+      "text_id": "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_9",
+      "resolved_text": "৯। কাস্টমস কম্পিউটার সিস্টেমের মাধ্যমে কার্য পরিচালনার জন্য ইউজার আইডি, পাসওয়ার্ড ও এজেন্ট নম্বর প্রদান।— (১) লাইসেন্সীকে আমদানিকৃত পণ্যচালানের জন্য কাস্টমস কম্পিউটার সিস্টেমে কার্গো ঘোষণা দাখিল, পণ্য গ্রহণ, সংরক্ষণ, শুল্কায়ন, শুল্ক ও কর এবং অন্যান্য কর পরিশোধ, খালাস ও গ্রাহক পর্যায়ে সরবরাহের নিমিত্ত কার্য পরিচালনার জন্য কাস্টমস কর্তৃপক্ষের নিকট হইতে ইউজার আইডি, পাসওয়ার্ড ও Express Service Providers Identification Number (ESPIN) গ্রহণ করিতে হইবে।\n(২) ইউজার আইডি, পাসওয়ার্ড ও ESPIN প্রাপ্তির জন্য লাইসেন্সীর নিম্নবর্ণিত জনবল, অফিস সরঞ্জাম, তথ্য প্রযুক্তি নির্ভর সিস্টেম থাকিতে হইবে, যথা:—\n(ক) তথ্য প্রযুক্তি ও কাস্টমস কম্পিউটার সিস্টেম সম্পর্কে জ্ঞানসম্পন্ন প্রয়োজনীয় সংখ্যক কর্মচারী;\n(খ) অফিস সরঞ্জামাদি ও ইকুইপমেন্ট;\n(গ) কাস্টমস কম্পিউটার সিস্টেমের গেটওয়ের মাধ্যমে আন্তঃসংযোগ স্থাপনের সুবিধা সম্বলিত স্বয়ংক্রিয় সিস্টেম (automated system), যাহাতে নিম্নবর্ণিত সুবিধাদি থাকিবে—\n(অ) ইলেকট্রনিক পদ্ধতিতে কার্গো ঘোষণা দাখিলের ব্যবস্থা;\n(আ) প্রয়োজনীয় অবকাঠামো এবং প্রতিটি চালান স্ক্যানিং সম্পন্নের জন্য নন-ইনট্রুসিভ ইন্সপেকশন ব্যবস্থা;\n(ই) জিপিএস ট্র্যাকার/ বারকোড রিডার/ ট্র্যাক এবং ট্রেস সিস্টেম;\n(ঈ) ডেটা সিনক্রোনাইজেশন সিস্টেম;\n(উ) স্বয়ংক্রিয়ভাবে অ্যারাইভাল নোটিশ, রিলিজ অর্ডার ও এক্সিট নোট ইস্যুর ব্যবস্থা;\n(ঊ) সোনালী ব্যাংক পিএলসিতে শুল্ক ও কর এবং অন্যান্য কর পরিশোধের জন্য প্রিপেইড অ্যাকাউন্ট ও ইলেকট্রনিক পেমেন্ট সুবিধা;\n(ঋ) স্বয়ংক্রিয় ইনভয়েস ইস্যুর ব্যবস্থা;\n(এ) প্রেরক ও গ্রাহক এর তথ্য সংরক্ষণের ব্যবস্থা;\n(ঘ) বন্দরের বাহিরে নিজস্ব ওয়ারহাউস ও ডেলিভারি পয়েন্ট;\n(ঙ) পণ্য গ্রাহকের নিকট পৌঁছাইয়া দেওয়ার জন্য প্রয়োজনীয় সংখ্যক ডেলিভারি ভ্যান;\n(চ) হাইড্রোলিক ট্রলি;\n(ছ) সংবেদনশীল পণ্য সংরক্ষণের জন্য তাপমাত্রা নিয়ন্ত্রণের ব্যবস্থা;\n(জ) ফর্ক লিফট;\n(ঝ) গ্রাহক সেবা প্রদানের জন্য অনলাইন পোর্টাল এবং উক্ত পোর্টালের মাধ্যমে গ্রাহক বা প্রেরক কর্তৃক ট্র্যাকিং এর মাধ্যমে তাহার প্রেরিত বা প্রাপ্য পণ্যের অবস্থান সম্পর্কে জানার সুযোগ;\n(ঞ) গ্রাহককে ইলেকট্রনিকালি পণ্য আগমনের তথ্য জানাইবার ব্যবস্থা;\n(ট) প্রেরক বা গ্রাহক কর্তৃক পণ্যের বিপরীতে পরিশোধিত বা অপরিশোধযোগ্য শুল্ক ও কর এবং অন্যান্য কর সম্পর্কে তাৎক্ষণিক অবহিত হইবার সুযোগ;\n(ঠ) গ্রাহক এবং প্রেরকের নিজস্ব পণ্য চালানের ট্রানজেকশন সম্পর্কে অবহিত হইবার এবং ডাউনলোড করিবার জন্য লগ ইন করিবার ব্যবস্থা।\n(৩) কাস্টমস কর্তৃপক্ষ কর্তৃক প্রয়োজনীয় অনুসন্ধান করিয়া উপ-বিধি (২) এ বর্ণিত জনবল, অফিস সরঞ্জাম, তথ্য প্রযুক্তি নির্ভর সিস্টেম সম্পর্কে নিশ্চিত হইয়া উক্ত প্রতিষ্ঠানের অনুকূলে কাস্টমস কম্পিউটার সিস্টেমের ইউজার আইডি ও পাসওয়ার্ড ইস্যু করিতে হইবে।\n(৪) নিম্নবর্ণিত কোনো কারণে, কারণ দর্শানো ব্যতিরেকে, লাইসেন্সীর অনুকূলে কাস্টমস কম্পিউটার সিস্টেমে বরাদ্দকৃত ইউজার আইডি ও পাসওয়ার্ড এবং ESPIN সাময়িকভাবে অকার্যকর করা যাইবে, যথা:-\n(ক) উপ-বিধি (২) এ বর্ণিত জনবল, অফিস সরঞ্জাম, তথ্য প্রযুক্তি নির্ভর সিস্টেমে কোনো শর্তের ঘাটতি পরিলক্ষিত হইলে;\n(খ) দায়িত্ব ও কর্তব্য পালনে ব্যর্থ হইলে;\n(গ) ধারাবাহিকভাবে ৩ (তিন) মাস কার্যক্রম পরিচালনা না করিলে;\n(ঘ) লাইসেন্স নবায়ন না করিলে;\n(ঙ) অসদাচরণ করিলে;\n(চ) চোরাচালান বা শুল্ক ও কর বা অন্যান্য কর ফাঁকির সহিত সম্পৃক্ততা পাওয়া গেলে।",
+      "entity_concepts": {
+        "Customs Computerised System": [
+          "Licensees are required to obtain a user ID, password, and identification number from the Customs Authority to perform operations such as cargo declaration, clearance, and payment of duties and taxes through this system.",
+          "The Customs Authority will grant access to the system only after conducting an inquiry to ensure the licensee possesses the necessary personnel, office equipment, and IT-based infrastructure.",
+          "Access to the system may be temporarily deactivated by the Customs Authority without prior notice for reasons such as failure to maintain infrastructure requirements, professional misconduct, inactivity, or involvement in smuggling or tax evasion."
+        ],
+        "Express Service Providers Identification Number (ESPIN)": [
+          "Licensees must obtain this unique identification number from the Customs Authority to enable cargo processing and digital interaction with the customs environment.",
+          "The identification number is subject to suspension or deactivation by the Customs Authority if the licensee fails to fulfill their responsibilities, neglects license renewal, or engages in illegal activities like duty evasion."
+        ],
+        "Automated System": [
+          "Licensees must maintain an automated system capable of connecting with the customs gateway, featuring capabilities for electronic declaration, cargo tracking, data synchronization, and automated issuance of release documents.",
+          "The system must support integrated electronic payments for duties and taxes, non-intrusive inspection infrastructure, and provide online portals for customers to track shipments and view transaction histories."
+        ],
+        "Customs Authority": [
+          "The Customs Authority is empowered to issue user IDs, passwords, and identification numbers to licensees after verifying their technical and operational compliance.",
+          "It holds the authority to investigate licensee facilities and deactivate system access for non-compliance, misconduct, or failure to perform duties."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2748",
+      "entity_sub_entities": {
+        "Customs Computerised System": [
+          "user ID",
+          "password",
+          "identification number",
+          "Customs Authority",
+          "cargo declaration",
+          "clearance",
+          "payment of duties and taxes",
+          "personnel",
+          "office equipment",
+          "IT-based infrastructure"
+        ],
+        "Express Service Providers Identification Number (ESPIN)": [
+          "identification number",
+          "Customs Authority",
+          "cargo processing",
+          "digital interaction",
+          "customs environment"
+        ],
+        "Automated System": [
+          "customs gateway",
+          "electronic declaration",
+          "cargo tracking",
+          "data synchronization",
+          "release documents",
+          "integrated electronic payments",
+          "duties and taxes",
+          "non-intrusive inspection infrastructure",
+          "online portals",
+          "shipments",
+          "transaction histories"
+        ],
+        "Customs Authority": [
+          "user IDs",
+          "passwords",
+          "identification numbers",
+          "licensees",
+          "licensee facilities"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        203,
+        240,
+        247,
+        491,
+        523,
+        630,
+        642,
+        684,
+        787,
+        1313,
+        1624,
+        1672,
+        2084,
+        2164,
+        2180,
+        2301,
+        2529,
+        3171,
+        3265,
+        3310,
+        3734,
+        3736,
+        3794,
+        6178,
+        7324,
+        9133,
+        9293,
+        9483,
+        10541,
+        11396,
+        12929
+      ],
+      "source_file": "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "লিয়েন ব্যাংক",
+      "text_id": "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_4",
+      "resolved_text": "৪। লিয়েন ব্যাংক।– লাইসেন্সি তাঁহার সকল লেনদেন অনুমোদিত লিয়েন ব্যাংকের মাধ্যমে সম্পাদন করিবেন এবং লিয়েন ব্যাংক অনুমোদন, সংযোজন, বিয়োজন, পরিবর্তন, শাখা পরিবর্তনসহ সংশ্লিষ্ট বিষয়াদি ওয়্যারহাউস লাইসেন্সিং বিধিমালা, ২০২৪ এর বিধান এবং এতদ্বিষয়ে বোর্ড ও লাইসেন্সিং কর্তৃপক্ষ কর্তৃক, সময় সময়, জারীকৃত আদেশ অনুযায়ী ব্যবস্থিত হইবে।",
+      "entity_concepts": {
+        "Lien Bank": [
+          "A licensee is mandated to conduct all their transactions exclusively through an authorized lien bank.",
+          "The approval, addition, removal, modification, or change of branches for a lien bank must strictly adhere to the Warehouse Licensing Rules 2024.",
+          "The administration and regulation of lien banks are subject to further orders and directives issued by the National Board of Revenue and the licensing authority."
+        ],
+        "Warehouse Licensing Rules 2024": [
+          "These rules establish the regulatory framework governing the selection and management of lien banks for licensees."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue holds the authority to issue periodic orders and directives that govern the operation and oversight of lien banks used by licensees."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is empowered to issue ongoing directives and orders regarding the management and regulatory compliance of lien banks."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2830",
+      "entity_sub_entities": {
+        "Lien Bank": [
+          "licensee",
+          "transactions",
+          "branches",
+          "Warehouse Licensing Rules 2024",
+          "National Board of Revenue",
+          "licensing authority"
+        ],
+        "Warehouse Licensing Rules 2024": [
+          "regulatory framework",
+          "lien banks",
+          "licensees"
+        ],
+        "National Board of Revenue": [
+          "orders",
+          "directives",
+          "lien banks",
+          "licensees"
+        ],
+        "Licensing Authority": [
+          "directives",
+          "orders",
+          "lien banks"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        43,
+        73,
+        190,
+        237,
+        491,
+        506,
+        711,
+        937,
+        1493,
+        1706,
+        2516
+      ],
+      "source_file": "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "কাস্টমস কম্পিউটার সিস্টেমের মাধ্যমে কার্য পরিচালনার জন্য ইউজার আইডি, পাসওয়ার্ড ও এজেন্ট নম্বর প্রদান",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+      "resolved_text": "৯। কাস্টমস কম্পিউটার সিস্টেমের মাধ্যমে কার্য পরিচালনার জন্য ইউজার আইডি, পাসওয়ার্ড ও এজেন্ট নম্বর প্রদান।— (১) লাইসেন্সীকে আমদানিকৃত পণ্যচালানের জন্য কাস্টমস কম্পিউটার সিস্টেমে কার্গো ঘোষণা দাখিল, পণ্য গ্রহণ, সংরক্ষণ, শুল্কায়ন, শুল্ক ও কর এবং অন্যান্য কর পরিশোধ, খালাস ও গ্রাহক পর্যায়ে সরবরাহের নিমিত্ত কার্য পরিচালনার জন্য কাস্টমস Authorities এর নিকট হইতে ইউজার আইডি, পাসওয়ার্ড ও Express Service Providers Identification Number (ESPIN) গ্রহণ করিতে হইবে।\n(২) ইউজার আইডি, পাসওয়ার্ড ও ESPIN প্রাপ্তির জন্য লাইসেন্সীর নিম্নবর্ণিত জনবল, অফিস সরঞ্জাম, তথ্য প্রযুক্তি নির্ভর সিস্টেম থাকিতে হইবে, যথা:—\n(ক) তথ্য প্রযুক্তি ও কাস্টমস কম্পিউটার সিস্টেম সম্পর্কে জ্ঞানসম্পন্ন প্রয়োজনীয় সংখ্যক কর্মচারী;\n(খ) অফিস সরঞ্জামাদি ও ইকুইপমেন্ট;\n(গ) কাস্টমস কম্পিউটার সিস্টেমের গেটওয়ের মাধ্যমে আন্তঃসংযোগ স্থাপনের সুবিধা সম্বলিত স্বয়ংক্রিয় সিস্টেম (automated system), যাহাতে নিম্নবর্ণিত সুবিধাদি থাকিবে—\n(অ) ইলেকট্রনিক পদ্ধতিতে কার্গো ঘোষণা দাখিলের ব্যবস্থা;\n(আ) প্রয়োজনীয় অবকাঠামো এবং প্রতিটি চালান স্ক্যানিং সম্পন্নের জন্য নন-ইন্ট্রুসিভ ইন্সপেকশন ব্যবস্থা;\n(ই) জিপিএস ট্র্যাকার/ বারকোড রিডার/ ট্র্যাক এবং ট্রেস সিস্টেম;\n(ঈ) ডেটা সিনক্রোনাইজেশন সিস্টেম;\n(উ) স্বয়ংক্রিয়ভাবে অ্যারাইভাল নোটিশ, রিলিজ অর্ডার ও এক্সিট নোট ইস্যুর ব্যবস্থা;\n(ঊ) সোনালী ব্যাংক পিএলসিতে শুল্ক ও কর এবং অন্যান্য কর পরিশোধের জন্য প্রিপেইড অ্যাকাউন্ট ও ইলেকট্রনিক পেমেন্ট সুবিধা;\n(ঋ) স্বয়ংক্রিয় ইনভয়েস ইস্যুর ব্যবস্থা;\n(এ) প্রেরক ও গ্রাহক এর তথ্য সংরক্ষণের ব্যবস্থা;\n(ঘ) Ports এর বাহিরে নিজস্ব ওয়্যারহাউস ও ডেলিভারি পয়েন্ট;\n(ঙ) পণ্য গ্রাহকের নিকট পৌঁছাইয়া দেওয়ার জন্য প্রয়োজনীয় সংখ্যক ডেলিভারি ভ্যান;\n(চ) হাইড্রোলিক ট্রলি;\n(ছ) সংবেদনশীল পণ্য সংরক্ষণের জন্য তাপমাত্রা নিয়ন্ত্রণের ব্যবস্থা;\n(জ) ফর্ক লিফট;\n(ঝ) গ্রাহক সেবা প্রদানের জন্য অনলাইন পোর্টাল এবং উক্ত পোর্টালের মাধ্যমে গ্রাহক বা প্রেরক কর্তৃক ট্র্যাকিং এর মাধ্যমে তাহার প্রেরিত বা প্রাপ্য পণ্যের অবস্থান সম্পর্কে জানার সুযোগ;\n(ঞ) গ্রাহককে ইলেকট্রনিকালি পণ্য আগমনের তথ্য জানাইবার ব্যবস্থা;\n(ট) প্রেরক বা গ্রাহক কর্তৃক পণ্যের বিপরীতে পরিশোধিত বা অপরিশোধিত শুল্ক ও কর এবং অন্যান্য কর সম্পর্কে তাৎক্ষণিক অবহিত হইবার সুযোগ;\n(ঠ) গ্রাহক এবং প্রেরকের নিজস্ব পণ্য চালানের ট্রানজেকশন সম্পর্কে অবহিত হইবার এবং ডাউনলোড করিবার জন্য লগ ইন করিবার ব্যবস্থা।\n(৩) কাস্টমস কর্তৃপক্ষ কর্তৃক প্রয়োজনীয় অনুসন্ধান করিয়া উপ-বিধি (২) এ বর্ণিত জনবল, অফিস সরঞ্জাম, তথ্য প্রযুক্তি নির্ভর সিস্টেম সম্পর্কে নিশ্চিত হইয়া উক্ত প্রতিষ্ঠানের অনুকূলে কাস্টমস কম্পিউটার সিস্টেমের ইউজার আইডি ও পাসওয়ার্ড ইস্যু করিতে হইবে।\n(৪) নিম্নবর্ণিত কোনো কারণে, কারণ দর্শানো ব্যতিরেকে, লাইসেন্সীর অনুকূলে কাস্টমস কম্পিউটার সিস্টেমে বরাদ্দকৃত ইউজার আইডি ও পাসওয়ার্ড এবং ESPIN সাময়িকভাবে অকার্যকর করা যাইবে, যথা:-\n(ক) উপ-বিধি (২) এ বর্ণিত জনবল, অফিস সরঞ্জাম, তথ্য প্রযুক্তি নির্ভর সিস্টেমে কোনো শর্তের ঘাটতি পরিলক্ষিত হইলে;\n(খ) দায়িত্ব ও कर्तव्य পালনে ব্যর্থ হইলে;\n(গ) ধারাবাহিকভাবে ৩ (তিন) মাস কার্যক্রম পরিচালনা না করিলে;\n(ঘ) লাইসেন্স নবায়ন না করিলে;\n(ঙ) অসদাচরণ করিলে;\n(চ) চোরাচালান বা শুল্ক ও কর বা অন্যান্য কর ফাঁকির সহিত সম্পৃক্ততা পাওয়া গেলে।",
+      "entity_concepts": {
+        "Customs Authority": [
+          "The Customs Authority is responsible for issuing user IDs, passwords, and the Express Service Providers Identification Number (ESPIN) to licensees for performing customs procedures electronically.",
+          "The authority must verify that licensees meet the required infrastructure, equipment, and staffing standards before issuing access credentials to the customs computer system.",
+          "The authority has the power to suspend or deactivate a licensee's system access credentials and ESPIN without prior notice if the licensee fails to meet operational requirements, commits misconduct, or engages in smuggling and tax evasion."
+        ],
+        "Express Service Providers Identification Number (ESPIN)": [
+          "Licensees must obtain an ESPIN from the Customs Authority to process cargo declarations, customs clearance, duty payments, and delivery tracking within the customs computer system."
+        ],
+        "Automated System": [
+          "Licensees are required to maintain an automated system capable of connecting to the customs gateway, which must include features for electronic cargo declaration, non-intrusive scanning, real-time tracking, data synchronization, and automated issuance of release notices.",
+          "The automated system must support electronic duty payments, automated invoice generation, maintenance of sender and recipient data, and customer-facing portals for shipment tracking and electronic notification of cargo arrival."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system serves as the central platform for managing the lifecycle of imported consignments, including declaration, valuation, payment of duties and taxes, and delivery to the customer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1204",
+      "entity_sub_entities": {
+        "Customs Authority": [
+          "user IDs",
+          "passwords",
+          "Express Service Providers Identification Number (ESPIN)",
+          "licensees",
+          "infrastructure",
+          "equipment",
+          "staffing standards",
+          "access credentials",
+          "customs computer system",
+          "system access credentials"
+        ],
+        "Express Service Providers Identification Number (ESPIN)": [
+          "cargo declarations",
+          "customs clearance",
+          "duty payments",
+          "delivery tracking",
+          "customs computer system"
+        ],
+        "Automated System": [
+          "customs gateway",
+          "electronic cargo declaration",
+          "non-intrusive scanning",
+          "real-time tracking",
+          "data synchronization",
+          "automated issuance of release notices",
+          "electronic duty payments",
+          "automated invoice generation",
+          "sender data",
+          "recipient data",
+          "customer-facing portals",
+          "shipment tracking",
+          "electronic notification of cargo arrival"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "imported consignments",
+          "declaration",
+          "valuation",
+          "duties",
+          "taxes",
+          "delivery"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        23,
+        30,
+        51,
+        66,
+        72,
+        156,
+        242,
+        448,
+        471,
+        491,
+        642,
+        684,
+        949,
+        1374,
+        1679,
+        2180,
+        2301,
+        2974,
+        3265,
+        3310,
+        3736,
+        3794,
+        5249,
+        5855,
+        5856,
+        6801,
+        7189,
+        7192,
+        7647,
+        7667,
+        10106,
+        11233,
+        12106,
+        12360,
+        12604
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

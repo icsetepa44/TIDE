@@ -1,0 +1,257 @@
+{
+  "thread_id": "cluster_00334_t0",
+  "cluster_id": 334,
+  "cluster_label": "country of origin",
+  "title": "Valuation and Origin-Based Assessment",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 18,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A car dealership owner in Dhaka is preparing to import a batch of reconditioned SUVs in 2014 to meet the rising local demand. Hoping to minimize the high tax burden, he considers declaring a significantly reduced value for these vehicles compared to their brand-new counterparts. He is uncertain if customs regulations allow him to benefit from this lower valuation based on the vehicle's used status. He needs to know if he can legally declare a value lower than the price of a brand-new vehicle of the same brand, model, and country of origin.",
+      "question": "Is the importer permitted to declare a value lower than the new vehicle of the same brand, model, and country of origin?",
+      "answer": "No. Under SRO 2013, the customs valuation of a used, old, or reconditioned vehicle cannot be lower than the valuation of a new vehicle of the same brand, model, cylinder capacity, and country of origin.",
+      "date_or_instrument": "2013-06-06 (SRO 2013)",
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs official at the Chittagong port is processing a complex import declaration filed in 2021. Upon reviewing the documentation, he notices that the importer has declared a value for the goods that seems suspiciously low given the prestige of the brand and its known country of origin. The officer is contemplating whether he is legally permitted to override the importer's declared value to ensure proper revenue collection. He needs to determine if he has the authority to set a higher assessable value than what the importer provided.",
+      "question": "Does the customs officer have the authority to set a higher assessable value than what the importer declared?",
+      "answer": "Yes. According to SRO 2020, the assessing authority is empowered to determine a higher assessable value for imported goods than their declared minimum value by taking into account factors such as the country of origin, brand, and model.",
+      "date_or_instrument": "2020-06-11 (SRO 2020)",
+      "clause_text_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "It is late 2023, and a senior customs official is tasked with streamlining the department's compliance efforts through a new transaction-based audit program. He is currently reviewing a massive backlog of shipments to identify which ones pose the highest risk for potential revenue leakage or misdeclaration. As he builds his risk-assessment framework, he wonders if the origin of the goods should be a primary indicator for his audit selection. He needs to confirm if 'country of origin' is recognized as a valid risk factor for selecting a transaction for an audit.",
+      "question": "Is 'country of origin' considered a valid risk factor for selecting a transaction for an audit?",
+      "answer": "Yes. The 2023 Audit Manual formally integrated 'country of origin' as a risk factor for transaction-based audits to manage customs risk and identify misdeclarations.",
+      "date_or_instrument": "2023-09-27 (Audit Manual)",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2025, a manufacturing firm is importing a large shipment of raw aluminum to support its factory operations. Because the specific type of aluminum imported does not have a pre-determined minimum price set by the regulatory authorities, the clearing agent is struggling to finalize the tax assessment. The agent needs to ensure the valuation process complies with current mandates to avoid penalties. He is seeking guidance on what specific legal framework must be used to determine the customs assessable value for these goods.",
+      "question": "What legal framework must be used to determine the customs assessable value for these goods?",
+      "answer": "The assessable value must be determined in accordance with the Customs Valuation (Determination of Value of Imported Goods) Rules, 2000, as stipulated in SRO 2025.",
+      "date_or_instrument": "2025-06-02 (SRO 2025)",
+      "clause_text_ids": [
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs auditor in 2024 is analyzing trade data to refine the department’s audit strategy and prioritize enforcement efforts. He is looking to create a profile of high-risk traders whose activities frequently trigger red flags during the clearance process. He wants to ensure his selection criteria are aligned with the official guidelines for identifying suspicious conduct. He is asking for clarity on exactly what types of trader behavior are specifically targeted for transaction-based audits.",
+      "question": "What types of trader behavior are specifically targeted for transaction-based audits?",
+      "answer": "Targeted traders include irregular importers/exporters, those who frequently provide false declarations, one-time traders, first-time traders, and those importing multiple products under various HS Codes in a single consignment.",
+      "date_or_instrument": "2023-09-27 (Audit Manual)",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A local industrialist is importing a substantial quantity of copper in 2025 and is reviewing his cost projections for the customs clearance process. He observes that the current international market price for copper is quite high and wonders if he can declare a lower value on his import documents to reduce his duty payments. He is unsure if the customs authorities will accept a valuation that deviates from global market trends. He needs to know if he is allowed to declare a value lower than the international market price for his copper shipment.",
+      "question": "Is an importer allowed to declare a value lower than the international market price for copper?",
+      "answer": "No. Under SRO 2025, the price of materials like copper must not be assessed for customs purposes at a value lower than the international market prices published by recognized sources such as Platts or the London Metal Exchange.",
+      "date_or_instrument": "2025-06-02 (SRO 2025)",
+      "clause_text_ids": [
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 2013, issued on 2013-06-06, established that the customs valuation of a used vehicle cannot be lower than the valuation of a new vehicle of the same brand, model, country of origin, and cylinder capacity.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. According to the 2013-06-06 SRO, the valuation of used, old, or reconditioned vehicles must not be lower than that of a new vehicle of the same brand, model, country of origin, and cylinder capacity.",
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under SRO 2020, dated 2020-06-11, the assessing authority is prohibited from setting a higher dutiable value for imported goods than their declared minimum value.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "prohibited from setting a higher dutiable value",
+      "correct_fact": "empowered to determine a higher assessable value",
+      "answer": "This statement is inaccurate. SRO 2020 (2020-06-11) actually empowered the assessing authority to determine a higher assessable value for imported goods than their declared minimum value, taking into account factors like country of origin, brand, and model.",
+      "clause_text_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2023-09-27 Audit Manual integrated 'country of origin' as a formal risk factor specifically for transaction-based audits to target potential misdeclaration.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The 2023-09-27 Audit Manual officially designated 'country of origin' as a criteria for selecting consignments for transaction-based audits.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 2025, issued on 2025-06-02, mandates that for goods without a predetermined minimum price, the customs assessable value must be determined in accordance with the Customs Valuation Rules of 2015.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Valuation Rules of 2015",
+      "correct_fact": "Customs Valuation (Determination of Value of Imported Goods) Rules, 2000",
+      "answer": "This statement is inaccurate. SRO 2025 (2025-06-02) mandates that for goods without a predetermined minimum price, the value must be determined according to the Customs Valuation (Determination of Value of Imported Goods) Rules, 2000.",
+      "clause_text_ids": [
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-06-02 SRO requires that the price of metallic materials like copper and aluminum must not be assessed for customs purposes at a value lower than international market prices published by sources like Platts or the London Metal Exchange.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The 2025-06-02 SRO explicitly states that copper, aluminum, steel, and plastic must not be assessed lower than international market prices from recognized sources like Platts and the London Metal Exchange.",
+      "clause_text_ids": [
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The policy evolution regarding 'country of origin' shifted from a simple descriptive requirement to a tool for general commodity risk management, as formalized in the 2020-06-11 SRO.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2020-06-11 SRO",
+      "correct_fact": "2023-09-27 Audit Manual",
+      "answer": "This statement is inaccurate. While the 2020 SRO formalized valuation overrides, the integration of 'country of origin' as a formal risk factor for transaction-based audits was specifically established in the 2023-09-27 Audit Manual.",
+      "clause_text_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been importing reconditioned vehicles since 2012, consistently declaring values based on the minimum benchmarks established in 2013. In 2021, the customs authority assessed their consignment at a value higher than the declared minimum, citing the importer's country of origin data. By 2026, the importer is preparing a new declaration and wants to know how the valuation hierarchy now applies to their goods.",
+      "question": "How has the authority's power to assess the importer's goods changed from 2013 to 2025 regarding the relationship between declared minimums and actual assessable value?",
+      "answer": "In 2013, the country of origin served as a floor (minimum) for valuation. By 2020, authorities gained the power to override these minimums to set higher assessable values, and by 2025, this authority was codified into a hierarchy that mandates the use of the 2000 Valuation Rules for goods where no specific minimum price has been established.",
+      "clauses_involved": [
+        "2013-06-06",
+        "2020-06-11",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3",
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A trader who first imported goods in 2015 is now facing a transaction-based audit in 2024. The trader argues that their valuation was previously accepted based solely on the vehicle-specific benchmarks established in 2013. The customs officer, however, is using the 'country of origin' not just for value benchmarks, but as a risk indicator for the audit selection.",
+      "question": "How did the function of 'country of origin' in customs operations expand between the 2013 vehicle valuation rules and the 2023 audit manual?",
+      "answer": "In 2013, 'country of origin' was a static benchmark used to set minimum valuation levels for vehicles. By 2023, it evolved into a dynamic risk management factor used to select specific consignments for transaction-based audits based on trader behavior and misdeclaration risk.",
+      "clauses_involved": [
+        "2013-06-06",
+        "2023-09-27"
+      ],
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-06-06",
+      "relative_offset": "seven years later",
+      "question": "In 2013-06-06, SRO 2013 established origin and brand as benchmarks for minimum vehicle valuation; what significant change occurred seven years later regarding the authority of the assessing officer?",
+      "answer": "Seven years later, in 2020-06-11, SRO 2020 was issued, which formalized the authority for the assessing officer to determine a higher assessable value for imported goods than the declared minimum value based on factors like country of origin, brand, and model, overriding previous constraints.",
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2020-06-11",
+      "relative_offset": "three years later",
+      "question": "Following the 2020-06-11 SRO that empowered authorities to set higher assessable values, what shift occurred three years later regarding how 'country of origin' was utilized in customs procedures?",
+      "answer": "Three years later, in 2023-09-27, the Audit Manual integrated 'country of origin' as a formal risk factor for selecting consignments for transaction-based audits, moving from a valuation-override tool to a component of risk-management strategy.",
+      "clause_text_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-09-27",
+      "relative_offset": "two years later",
+      "question": "After the 2023-09-27 Audit Manual established origin as a risk factor, what major legal codification occurred two years later?",
+      "answer": "Two years later, in 2025-06-02, SRO 2025 was issued, which codified the hierarchy of valuation by prioritizing origin-based assessment and explicitly linking it to the 2000 Valuation Rules for goods lacking a predetermined minimum price.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The customs assessable value of goods is codified into a hierarchy, linking origin-based assessment to the Valuation Rules.",
+        "The principle is established that the valuation of a used, old, or reconditioned vehicle cannot be lower than the valuation of a new vehicle of the same brand, model, country of origin, and cylinder capacity.",
+        "Customs authorities are empowered to determine a higher assessable value for imported goods than their declared minimum value by considering the country of origin, brand, and model.",
+        "The country of origin is integrated as a formal risk factor for selecting consignments for transaction-based audits."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The principle is established that the valuation of a used, old, or reconditioned vehicle cannot be lower than the valuation of a new vehicle of the same brand, model, country of origin, and cylinder capacity.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "Customs authorities are empowered to determine a higher assessable value for imported goods than their declared minimum value by considering the country of origin, brand, and model.",
+          "date": "2020-06-11"
+        },
+        {
+          "event": "The country of origin is integrated as a formal risk factor for selecting consignments for transaction-based audits.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "The customs assessable value of goods is codified into a hierarchy, linking origin-based assessment to the Valuation Rules.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4",
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_sros_OCR/20130606_148-AIN_2013_2435-Customs/20130606_148-AIN_2013_2435-Customs_output.json",
+        "customs_sros_OCR/20200611_135-AIN_2019_86_Customs/20200611_135-AIN_2019_86_Customs_output.json",
+        "customs_sros_OCR/20250602_226-AIN_2025_48_Customs/20250602_226-AIN_2025_48_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00334_t0__valuation-and-origin-based-assessment.json"
+    }
+  ]
+}

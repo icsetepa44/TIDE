@@ -1,0 +1,234 @@
+{
+  "thread_id": "cluster_00018_t3",
+  "cluster_id": 18,
+  "cluster_label": "Authorized Economic Operator",
+  "title": "AEO Trade Facilitation and International Cooperation",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 15,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the scope of benefits for Authorized Economic Operators (AEOs) evolve between the initial introduction of comprehensive guarantees and the formalization of international cooperation?",
+      "answer": "The AEO framework evolved from focusing on domestic trade facilitation, such as the introduction of comprehensive bank guarantees under the Customs Act 1969 on June 6, 2024, to incorporating international cooperation. By June 13, 2024, the AEO Rules formalized Mutual Recognition Agreements (MRAs), shifting the scope from purely internal financial and electronic facilitation to enabling reciprocal benefits for AEOs across different countries.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the relationship between the National Board of Revenue's authority to implement self-assessment and the broader objective of AEO trade facilitation?",
+      "answer": "The National Board of Revenue utilizes self-assessment as a key trade facilitation mechanism for AEOs, as established in the June 6, 2024 Customs Order. By allowing electronic green channel AEOs to perform self-assessment under Section 90(3) of the Customs Act 1969, the Board integrates risk management with operational efficiency, directly supporting the AEO program's goal of streamlining customs clearance.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the policy framework for Mutual Recognition Agreements (MRAs) progress from its initial rule-based formalization to its operational phase?",
+      "answer": "The policy framework for MRAs progressed from the AEO Rules 2024, issued on June 13, 2024, which provided the legal basis for the National Board of Revenue to sign agreements and grant reciprocal benefits to foreign-recognized AEOs. This was followed by a Standing Order on January 21, 2025, which provided the necessary directives to implement these agreements and formalize the operationalization of the MRA framework.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_136"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role do bank guarantees play in the evolution of the comprehensive guarantee regime for AEOs?",
+      "answer": "Under the June 6, 2024 Customs Order, bank guarantees were established as the mandatory instrument for the comprehensive guarantee regime whenever a guarantee is required for the clearance of goods. This ensures that the total value of the comprehensive guarantee remains sufficient to cover cumulative duties and taxes, providing a secure financial mechanism for AEOs, government entities, and transit/transshipment operations.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the distinction between domestic and international recognition significant in the evolution of the AEO program in Bangladesh?",
+      "answer": "The distinction is significant because it marks the transition from internal procedural improvements to global integration. While initial 2024 policies focused on domestic efficiency—such as self-assessment and consolidated guarantees—the introduction of MRAs in the AEO Rules 2024 and their subsequent operationalization in 2025 allowed the National Board of Revenue to extend AEO benefits beyond national borders, ensuring that Bangladeshi AEOs receive reciprocal treatment from international counterparts.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_136"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The legal framework for self-assessment procedures for Authorized Economic Operators was introduced on June 13, 2024, via the AEO Rules 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 13, 2024",
+      "correct_fact": "June 6, 2024",
+      "answer": "The statement is inaccurate. The self-assessment procedures for Authorized Economic Operators were introduced on June 6, 2024, through the Customs Order (src=20240606_206-AIN_2024_58_Customs_output), not June 13, 2024.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the June 6, 2024 Customs Order, comprehensive guarantees for Authorized Economic Operators must be provided in the form of a bank guarantee when such a guarantee is otherwise required for the clearance of goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate according to the Customs Order dated June 6, 2024 (src=20240606_205-AIN_2024_57_Customs_output).",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The formalization of Mutual Recognition Agreements (MRAs) within the AEO framework was first established by a Standing Order issued on January 21, 2025.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "January 21, 2025",
+      "correct_fact": "June 13, 2024",
+      "answer": "The statement is inaccurate. The formalization of Mutual Recognition Agreements was established in the AEO Rules 2024 on June 13, 2024 (src=20240613_217-_2024_67_output.json), while the January 21, 2025 Standing Order was for the operationalization of these agreements.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_136"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the June 6, 2024 Customs Order, the total value of a comprehensive guarantee must be less than the cumulative duties and taxes payable on the goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "less than",
+      "correct_fact": "not less than",
+      "answer": "The statement is inaccurate. According to the June 6, 2024 Customs Order, the total value of the comprehensive guarantee must not be less than the cumulative duties and taxes payable on the goods.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The National Board of Revenue is empowered to issue orders to define terms and conditions for entities recognized by foreign countries under reciprocal MRA arrangements.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate as per the AEO Rules 2024 dated June 13, 2024 (src=20240613_217-_2024_67_output.json).",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Self-assessment under Section 90(3) is applicable to all importers, regardless of their risk profile or AEO status.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "all importers, regardless of their risk profile or AEO status",
+      "correct_fact": "Authorized Economic Operators, low-risk goods, or specific entities authorized by the National Board of Revenue",
+      "answer": "The statement is inaccurate. According to the June 6, 2024 Customs Order (src=20240606_206-AIN_2024_58_Customs_output), self-assessment is specifically applicable to Authorized Economic Operators, low-risk goods identified through automated risk management, or specific entities authorized by the National Board of Revenue.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An Authorized Economic Operator (AEO) in Bangladesh was granted benefits under the 2024 regulations. In June 2024, the AEO was aware of the legal basis for Mutual Recognition Agreements (MRAs) being established. By January 2025, the AEO seeks to understand if the operational pathway for these international benefits has changed since the initial formalization of the MRA framework.",
+      "question": "How did the operational status of Mutual Recognition Agreements evolve from the initial formalization in the AEO Rules 2024 to the Standing Order of January 2025?",
+      "answer": "While the AEO Rules 2024 (June 13) established the legal authority for the Board to sign MRAs and issue orders for benefits, the January 21, 2025 Standing Order specifically empowered the Board to issue directives to operationalize the implementation of those agreements.",
+      "clauses_involved": [
+        "2024-06-13",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_136"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one week later",
+      "question": "Exactly one week after the introduction of comprehensive guarantees for AEOs, what new legal foundation was formalized regarding international cooperation?",
+      "answer": "On 2024-06-13, the AEO Rules 2024 were issued, providing the formal legal basis for the National Board of Revenue to enter into Mutual Recognition Agreements (MRAs) with other countries.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-13",
+      "relative_offset": "seven months later",
+      "question": "Seven months after the formalization of Mutual Recognition Agreements in the AEO Rules 2024, what specific action did the Board take to operationalize these agreements?",
+      "answer": "On 2025-01-21, a Standing Order was issued authorizing the Board to sign MRAs with foreign customs administrations and issue directives to implement such agreements under the AEO programme.",
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_136"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The National Board of Revenue gains the authority to sign mutual recognition agreements with other countries to provide reciprocal benefits to authorized economic operators.",
+        "Authorized economic operators are permitted to utilize comprehensive guarantees for duty and tax coverage and self-assessment procedures for green channel goods declarations.",
+        "The National Board of Revenue issues a directive to operationalize the implementation of mutual recognition agreements with foreign nations."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Authorized economic operators are permitted to utilize comprehensive guarantees for duty and tax coverage and self-assessment procedures for green channel goods declarations.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The National Board of Revenue gains the authority to sign mutual recognition agreements with other countries to provide reciprocal benefits to authorized economic operators.",
+          "date": "2024-06-13"
+        },
+        {
+          "event": "The National Board of Revenue issues a directive to operationalize the implementation of mutual recognition agreements with foreign nations.",
+          "date": "2025-01-21"
+        }
+      ],
+      "clause_text_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_15",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_136"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_sros_OCR/20240606_205-AIN_2024_57_Customs/20240606_205-AIN_2024_57_Customs_output.json",
+        "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json",
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00018_t3__aeo-trade-facilitation-and-international-cooperati.json"
+    }
+  ]
+}

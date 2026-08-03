@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00171_t0__X__cluster_00482_t1",
+  "entities": [
+    "Passenger Baggage Allowance",
+    "clothing"
+  ],
+  "cluster_ids": [
+    171,
+    482
+  ],
+  "thread_ids": [
+    "cluster_00171_t0",
+    "cluster_00482_t1"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the total duty-free weight allowance for an air or sea passenger's primary baggage compare to the specific secondary allowance provided for clothing under the most recent 2025 regulations?",
+      "answer": "Under the 2025 regulations [4], an air or sea passenger (aged 12 or older) is entitled to a primary baggage allowance of up to 36kg, while they are permitted an additional duty-free allowance of up to 35kg specifically for clothing and personal items.",
+      "entities_involved": [
+        "Passenger Baggage Allowance",
+        "clothing"
+      ],
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the relationship between the primary Passenger Baggage Allowance and the secondary allowance for clothing changed between the 2024 and 2025 customs regulations?",
+      "answer": "In the 2024 regulations [3], the primary passenger baggage allowance was 65kg, with an additional 35kg allowed for clothing. In the 2025 regulations [4], the primary allowance was reduced to 36kg, while the secondary allowance for clothing remained unchanged at 35kg.",
+      "entities_involved": [
+        "Passenger Baggage Allowance",
+        "clothing"
+      ],
+      "clause_text_ids": [
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    }
+  ]
+}

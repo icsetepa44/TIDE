@@ -1,0 +1,68 @@
+{
+  "cluster_id": 410,
+  "cluster_label": "manufacturing entities",
+  "thread_index": 1,
+  "thread_id": "cluster_00410_t1",
+  "title": "Enforcement and Penalties for Regulatory Non-Compliance",
+  "summary": "This thread tracks the legal consequences for manufacturing entities that violate the terms of tax exemption notifications, emphasizing the application of existing Customs and VAT laws.",
+  "evolution": {
+    "enforcement_basis": "Explicitly links exemption violations to the broader Customs and VAT Act frameworks."
+  },
+  "timeline": [
+    {
+      "date": "2021-06-03",
+      "instrument": "SRO/Clause",
+      "change": "Defined the legal basis for punitive action against entities violating exemption conditions.",
+      "clause_ids": [
+        "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_7"
+      ]
+    }
+  ],
+  "num_member_objects": 1,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_7",
+      "resolved_text": "৭। কোনো উৎপাদনকারী বা সংযোজনকারী প্রতিষ্ঠান এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাহার বিরুদ্ধে কাস্টমস আইন ও মূল্য সংযোজন কর আইনের বিধান অনুযায়ী ও প্রযোজ্যক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইন মোতাবেক প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act serves as a primary legal basis for taking necessary actions against manufacturing or assembly entities that violate the conditions of the current notification and cause revenue loss."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This act provides the legal framework for initiating necessary actions against manufacturing or assembly entities that cause revenue loss due to the violation of notification conditions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2074",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "manufacturing entities",
+          "assembly entities",
+          "notification",
+          "revenue loss"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "manufacturing entities",
+          "assembly entities",
+          "notification conditions",
+          "revenue loss"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        20,
+        22,
+        410,
+        500,
+        1236,
+        3439
+      ],
+      "source_file": "customs_sros_OCR/20210603_116-AIN_2021_05_Customs/20210603_116-AIN_2021_05_Customs_output.json",
+      "clause_date": "2021-06-03"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

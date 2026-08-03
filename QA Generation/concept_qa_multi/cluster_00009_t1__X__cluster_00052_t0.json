@@ -1,0 +1,42 @@
+{
+  "group_id": "cluster_00009_t1__X__cluster_00052_t0",
+  "entities": [
+    "Value Added Tax",
+    "import duty"
+  ],
+  "cluster_ids": [
+    9,
+    52
+  ],
+  "thread_ids": [
+    "cluster_00009_t1",
+    "cluster_00052_t0"
+  ],
+  "num_shared_clauses": 17,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under which legal authorities does the government provide exemptions for both import duty and Value Added Tax (VAT) when issuing SROs in the public interest?",
+      "answer": "The government provides these exemptions by exercising powers under section 19(1) of the Customs Act, 1969, in consultation with the National Board of Revenue. For Value Added Tax, the legal authority transitioned from section 14(1) of the Value Added Tax Act, 1991 to section 126(1) of the Value Added Tax and Supplementary Duty Act, 2012.",
+      "entities_involved": [
+        "Value Added Tax",
+        "import duty"
+      ],
+      "clause_text_ids": [
+        "20110609_156-AIN_2011_2342-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_157-AIN_2012_2385-Customs_07 June, 2012_clause_1",
+        "20120607_160-AIN_2012_2388-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130606_151-AIN_2013_2438-Customs_২০১৩-০৬-০৬_clause_1",
+        "20150604_145-AIN_2015_25-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_148-AIN_2015_28-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_149-AIN_2015_29-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150701_203-AIN_2015_40-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20200611_130-AIN_2020_81_Customs_৩ জুন, ২০২০_clause_1",
+        "20210603_113-AIN_2021_02_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20210603_120-AIN_2021_09_Customs_২০২১-০৫-২৪_clause_1"
+      ]
+    }
+  ]
+}

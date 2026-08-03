@@ -1,0 +1,182 @@
+{
+  "thread_id": "cluster_00263_t0",
+  "cluster_id": 263,
+  "cluster_label": "official notifications",
+  "title": "Regulatory Authority via Official Notifications",
+  "source_num_member_objects": 14,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2010-06-10 SRO 188-Ain/2010, the government is empowered by Section 19(1) of the Customs Act 1969 to amend duty-related notifications, including those for pulses and coriander seeds.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. SRO 188-Ain/2010 dated 2010-06-10 confirms the government's power under Section 19(1) of the Customs Act 1969 to amend duty tables for specific H.S. Codes, including pulses and seeds.",
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The AEO Rules 2024, issued on 2025-02-17, provide a procedural framework that allows for the immediate permanent cancellation of AEO status without the requirement of a show-cause notice.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "immediate permanent cancellation of AEO status without the requirement of a show-cause notice",
+      "correct_fact": "a formal show-cause notice must be issued to the entity before a final decision to cancel their AEO recognition certificate is made",
+      "answer": "The statement is inaccurate. According to the AEO Rules 2024, a formal show-cause notice must be issued to the entity, and they must be given an opportunity to provide a written response before a final decision to cancel their AEO recognition certificate is made.",
+      "clause_text_ids": [
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, the National Board of Revenue is authorized to determine the boundaries of customs stations through official notifications published in the government gazette.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The Customs Act 1969 empowers the Board to determine customs station boundaries and approve locations for loading/unloading goods via official notifications in the government gazette.",
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 158-Ain/2012, issued on 2012-06-07, repealed SRO 188-Ain/2010 and adjusted duty rates for specific goods under the First Schedule of the Customs Act 1969.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "repealed SRO 188-Ain/2010",
+      "correct_fact": "repealed SRO 155-Ain/2011",
+      "answer": "The statement is inaccurate. SRO 158-Ain/2012, issued on 2012-06-07, explicitly repealed SRO 155-Ain/2011, not SRO 188-Ain/2010.",
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Anti-dumping duties imposed under the Customs Act 1969 are generally effective for a period of ten years from the date of imposition, unless revoked earlier.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "ten years",
+      "correct_fact": "five years",
+      "answer": "The statement is inaccurate. Anti-dumping duties are generally effective for a period of five years from the date of imposition, not ten years.",
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The government may prohibit the payment of customs duty drawbacks on the export of goods to specified foreign ports or areas via an official notification in the government gazette.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. Section 38 of the Customs Act 1969 empowers the government to issue notifications in the official gazette to prohibit duty drawbacks for exports to specified foreign ports or territories.",
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "In 2010, an importer of coriander seeds relied on SRO 188-Ain/2010 to determine their customs duty obligations based on a specific table of H.S. Codes. By 2012, the government issued SRO 158-Ain/2012, which explicitly referenced the repeal of a prior SRO (155-Ain/2011) and established a new table for import duty exemptions.",
+      "question": "How did the mechanism for modifying customs duty regulations evolve between 2010 and 2012 regarding the treatment of previous notifications?",
+      "answer": "The mechanism evolved from using notifications to amend or replace specific tables of goods (as seen in 2010) to explicitly repealing specific previous SROs (as seen in 2012) while issuing new duty exemption tables.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2012-06-07"
+      ],
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company operating as an Authorized Economic Operator (AEO) has been subject to customs regulations since the 1969 Act, which focused on broad administrative powers like setting station boundaries. In 2025, the AEO Rules 2024 introduced a formal, document-based process for administrative enforcement, specifically requiring a show-cause notice before cancelling an AEO recognition certificate.",
+      "question": "How does the administrative enforcement process for an AEO in 2025 differ in structure from the general regulatory authority established under the Customs Act 1969?",
+      "answer": "The 1969 Act relied on broad, general notification powers for customs administration, whereas the 2025 AEO Rules transitioned to a standardized, rule-based procedural framework requiring formal show-cause notices and written responses for specific administrative actions like suspension or cancellation.",
+      "clauses_involved": [
+        "undated",
+        "2025-02-17"
+      ],
+      "clause_text_ids": [
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "two years later",
+      "question": "In the context of the government's notification power under Section 19(1) of the Customs Act, what shift occurred two years later in terms of how notifications were utilized for duty adjustments?",
+      "answer": "Two years later, in 2012 (SRO 158-Ain/2012), the government utilized its notification power not only to adjust duty rates for specific goods but also to explicitly repeal previous SROs, reinforcing the framework for granting import duty exemptions.",
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "thirteen years later",
+      "question": "Thirteen years later, how did the scope of official notifications evolve regarding administrative enforcement compared to the duty-related notifications issued in 2012?",
+      "answer": "Thirteen years later, with the AEO Rules 2024 (effective 2025), the scope transitioned from primarily duty-related adjustments to formalizing procedural frameworks for administrative actions, specifically establishing rules for the issuance, suspension, and cancellation of Authorized Economic Operator (AEO) status.",
+      "clause_text_ids": [
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government repeals an existing notification to adjust duty rates for specific goods.",
+        "The government formalizes procedural forms for the suspension and cancellation of Authorized Economic Operator status.",
+        "The government amends the duty tables for specific H.S. Codes through an official notification."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government amends the duty tables for specific H.S. Codes through an official notification.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The government repeals an existing notification to adjust duty rates for specific goods.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The government formalizes procedural forms for the suspension and cancellation of Authorized Economic Operator status.",
+          "date": "2025-02-17"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20120607_158-AIN_2012_2386-Customs_০৭ জুন, ২০১২_clause_1",
+        "20250217_2024_2024-06-06_clause_74"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+        "customs_sros_OCR/20100610_188-AIN_2010_2306-Customs/20100610_188-AIN_2010_2306-Customs_output.json",
+        "customs_sros_OCR/20120607_158-AIN_2012_2386-Customs/20120607_158-AIN_2012_2386-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00263_t0__regulatory-authority-via-official-notifications.json"
+    }
+  ]
+}

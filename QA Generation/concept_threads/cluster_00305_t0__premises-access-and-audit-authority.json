@@ -1,0 +1,919 @@
+{
+  "cluster_id": 305,
+  "cluster_label": "premises",
+  "thread_index": 0,
+  "thread_id": "cluster_00305_t0",
+  "title": "Premises Access and Audit Authority",
+  "summary": "This thread tracks the evolution of customs authority to access, inspect, and audit business premises. It transitions from general enforcement powers under the Customs Act to specific, structured audit requirements for Authorized Economic Operators (AEOs) and licensed entities.",
+  "evolution": {
+    "scope": "From general search/seizure to specific AEO compliance and security auditing.",
+    "procedure": "From ad-hoc inspection to structured system-based audits and physical security checks."
+  },
+  "timeline": [
+    {
+      "date": "2016-07-01",
+      "instrument": "SRO/Regulation",
+      "change": "Formalized the requirement for premises ownership or rental documentation as a condition for license application.",
+      "clause_ids": [
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_3"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "AEO Guidelines",
+      "change": "Introduced system-based audit requirements for AEOs, including physical inspection of premises.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_63"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "AEO Guidelines",
+      "change": "Expanded audit scope to include on-site physical inspection and coordination with local VAT/Excise offices for warehouse verification.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_86"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "AEO Guidelines",
+      "change": "Added security-focused requirements regarding co-located entities and physical/electronic access control for employees.",
+      "clause_ids": [
+        "20250217_2024_2024-06-06_clause_23",
+        "20250217_2024_2024-06-06_clause_55"
+      ]
+    }
+  ],
+  "num_member_objects": 14,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_3",
+      "resolved_text": "(৩) বিধি ৫ এর উপ-বিধি (২) এর দফা (১১) এর প্রান্তস্থিত “।” দাড়ি এর পরিবর্তে “;” সেমিকোলন প্রতিস্থাপিত হইবে এবং অতঃপর দফা (১১) এর পর নিম্নরূপ নতুন দফা (১২) সন্নিবেশিত হইবে, যথা :-\n\n“(১২) লাইসেন্সের অধীন কার্যক্রম পরিচালনার উদ্দেশ্যে অফিস সংশ্লিষ্ট স্থান, স্থাপনা ভাড়ার চুক্তিপত্র বা উক্ত স্থান ও স্থাপনার মালিকানার স্বপক্ষে দলিলপত্র।”;",
+      "entity_concepts": {
+        "Customs License": [
+          "The regulatory requirements for operating activities under a customs license are amended to include documentation regarding the physical office space.",
+          "Applicants must now provide a formal rental agreement or evidence of legal ownership for the premises used to conduct authorized operations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1705",
+      "entity_sub_entities": {
+        "Customs License": [
+          "regulatory requirements",
+          "documentation",
+          "physical office space",
+          "rental agreement",
+          "evidence of legal ownership",
+          "premises"
+        ]
+      },
+      "clause_clusters": [
+        63,
+        305,
+        635,
+        1265,
+        7824,
+        10685,
+        11439
+      ],
+      "source_file": "customs_sros_OCR/20160701_220-AIN_2016_47-Customs/20160701_220-AIN_2016_47-Customs_output.json",
+      "clause_date": "2016-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_63",
+      "clause_title": "৭.৩ AEO প্রতিষ্ঠানের অডিট কার্যক্রমে বিশেষভাবে লক্ষ্যণীয় বিষয়সমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+      "resolved_text": "৭.৩ AEO প্রতিষ্ঠানের অডিট কার্যক্রমে বিশেষভাবে লক্ষ্যণীয় বিষয়সমূহ—AEO প্রতিষ্ঠানের ক্ষেত্রে সিস্টেম বেইজড অডিটের প্রতি গুরুত্ব দেয়া জরুরি। অন্যান্য প্রতিষ্ঠানের পিসিএ’র ক্ষেত্রে অনুসরণীয় পদ্ধতি অবলম্বনের পাশাপাশি যে সকল বিষয় অধিক গুরুত্ব সহকারে যাচাই করা প্রয়োজন তা নিম্নরূপ:\n(১) Large volume ও High price product এর HS Code এর সঠিকতা যাচাই;\n(২) প্রতিষ্ঠান প্রাঙ্গণে Randomly পণ্যের কায়িক পরীক্ষণ;\n(৩) প্রতিষ্ঠানের নিজস্ব ব্যবহৃত ডাটাবেজ, কম্পিউটার সিস্টেম, সফটওয়্যার এর সাপ্লাই চেইন মডিউল সহ অন্যান্য তথ্য যাচাই;\n(৪) মোট আমদানিকৃত পণ্য হতে কী পরিমাণ ফিনিশড প্রোডাক্ট উৎপাদিত হয়েছে এবং কী পরিমাণ শুল্ক-করাদি পরিশোধিত হয়েছে, সে বিষয়টিকে প্রাধান্য দিতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Audit activities for these entities should focus on system-based audits to ensure regulatory compliance.",
+          "When conducting post-clearance audits for these organizations, specific procedures beyond standard practices must be prioritized to verify the accuracy of declarations and internal operations."
+        ],
+        "H.S. Code": [
+          "Auditors are required to verify the accuracy of these codes specifically for high-volume and high-value products to prevent misclassification."
+        ],
+        "Customs Clearance": [
+          "Physical verification of goods at the premises of the authorized entity should be conducted on a random basis to ensure consistency with declared information."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Auditors must inspect the entity's internal databases, computer systems, and software modules, particularly those related to supply chain management, to validate transaction integrity."
+        ],
+        "Customs Duty": [
+          "Audit procedures must prioritize verifying the ratio of finished goods produced against total imported inputs to ensure that all relevant duties and taxes have been correctly calculated and paid."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_734",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "system-based audits",
+          "post-clearance audits",
+          "declarations",
+          "internal operations"
+        ],
+        "H.S. Code": [
+          "high-volume products",
+          "high-value products"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "premises",
+          "declared information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "internal databases",
+          "computer systems",
+          "software modules",
+          "supply chain management"
+        ],
+        "Customs Duty": [
+          "finished goods",
+          "imported inputs",
+          "duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        13,
+        18,
+        30,
+        51,
+        66,
+        220,
+        229,
+        305,
+        497,
+        593,
+        1118,
+        3803,
+        6587,
+        8722,
+        8723,
+        9173,
+        9180,
+        12251,
+        12574
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_122",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+      "resolved_text": "৭. নিরীক্ষাকালে অডিট টিম স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানে সরজমিনে পরিদর্শন করতে পারবে।",
+      "entity_concepts": {
+        "Audit Team": [
+          "The audit team is operationally authorized to conduct physical inspections at the premises of recognized institutions during the audit process."
+        ],
+        "Customs Audit": [
+          "This instruction mandates that the audit process includes the power to perform on-site verification at the location of the entity being audited."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_912",
+      "entity_sub_entities": {
+        "Audit Team": [
+          "audit team",
+          "recognized institutions",
+          "premises"
+        ],
+        "Customs Audit": [
+          "audit process",
+          "on-site verification",
+          "location",
+          "entity being audited"
+        ]
+      },
+      "clause_clusters": [
+        277,
+        305,
+        388,
+        792,
+        861,
+        1549,
+        7749,
+        10275
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_86",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_86",
+      "resolved_text": "২৪. শ্রেণি-৩ এর স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের অনুরোধের পরিপ্রেক্ষিতে, সংশ্লিষ্ট কাস্টমস স্টেশন দায়িত্বপ্রাপ্ত কাস্টমস কর্মকর্তারা স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের আমদানিকৃত আমদানিকৃত পণ্য বা রপ্তানিকৃত কায়িক পরীক্ষার অনুমতি প্রদান করতে পারবে। এক্ষেত্রে, সাময়িক শুল্কায়নপূর্বক প্রযোজ্য শুল্ক ও কর আদায়পূর্বক পণ্যচালান বন্দর হতে অবমুক্ত করে সংশ্লিষ্ট স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠান বা প্রতিষ্ঠানের ওয়ারহাউস সেই এলাকায় অবস্থিত সেই এলাকার দায়িত্বপ্রাপ্ত কাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ বরাবর পরীক্ষণের প্রতিবেদন প্রেরণের জন্য অনুরোধ করবে। উক্ত অনুরোধের পরিপ্রেক্ষিতে কাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ হতে মনোনীত কর্মকর্তা কাস্টমস স্টেশনের অজ্ঞানে আমদানিকৃত আমদানিকৃত বা রপ্তানিকৃত কায়িক পরীক্ষা সম্পাদন করে প্রতিবেদন প্রেরণ করবে। উক্ত প্রতিবেদনের পরিপ্রেক্ষিতে কাস্টমস স্টেশন হতে চূড়ান্ত শুল্কায়ন করে প্রযোজ্য ক্ষেত্রে, শুল্ক ও কর আদায়পূর্বক পণ্যচালান কাস্টমস প্রক্রিয়া সম্পন্ন হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "A Class-3 recognized institution may request physical examination of their imported or exported goods at the premises of the institution or their warehouse rather than the customs station.",
+          "Upon completion of the physical examination by authorized officers, the entity must ensure that the examination report is sent to the relevant customs, excise, and VAT authorities for final processing."
+        ],
+        "Customs Clearance": [
+          "The customs clearance process for recognized institutions allows for provisional assessment and release of goods prior to full physical examination.",
+          "Final clearance is completed by the customs station only after receiving the examination report from the relevant customs, excise, and VAT division and collecting all applicable duties and taxes."
+        ],
+        "Customs, Excise and VAT Department": [
+          "Designated officers from this department are responsible for conducting physical examinations of goods at the recognized institution's premises or warehouse upon request.",
+          "This department must submit a formal examination report to the relevant customs station to facilitate the final assessment and clearance of the goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_876",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "Class-3 recognized institution",
+          "imported goods",
+          "exported goods",
+          "premises",
+          "warehouse",
+          "customs station",
+          "authorized officers",
+          "examination report",
+          "customs authorities",
+          "excise authorities",
+          "VAT authorities"
+        ],
+        "Customs Clearance": [
+          "recognized institutions",
+          "goods",
+          "provisional assessment",
+          "physical examination",
+          "customs station",
+          "examination report",
+          "customs division",
+          "excise division",
+          "VAT division",
+          "duties",
+          "taxes"
+        ],
+        "Customs, Excise and VAT Department": [
+          "Designated officers",
+          "goods",
+          "recognized institution's premises",
+          "warehouse",
+          "examination report",
+          "customs station"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        13,
+        18,
+        25,
+        30,
+        45,
+        51,
+        74,
+        142,
+        205,
+        305,
+        550,
+        792,
+        1099,
+        1128,
+        1162,
+        1618,
+        1836,
+        2706,
+        3243,
+        3728,
+        7841,
+        7843,
+        13214
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_23",
+      "clause_title": "",
+      "text_id": "20250217_2024_2024-06-06_clause_23",
+      "resolved_text": "5.3.4 Details of other entities, co-located at the same premises / site as the EO, should be provided by the EO.",
+      "entity_concepts": {
+        "Manufacturing Entities": [
+          "The manufacturing entity is required to disclose the details of any other business entities that are operating within the same premises or site location."
+        ],
+        "Site Inspection": [
+          "The oversight of a site involves the identification and documentation of all different entities sharing the same physical location to ensure proper administrative or regulatory compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1136",
+      "entity_sub_entities": {
+        "Manufacturing Entities": [
+          "business entities",
+          "premises",
+          "site location"
+        ],
+        "Site Inspection": [
+          "entities",
+          "physical location"
+        ]
+      },
+      "clause_clusters": [
+        305,
+        366,
+        410,
+        580,
+        2929,
+        3084,
+        12219
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_55",
+      "clause_title": "",
+      "text_id": "20250217_2024_2024-06-06_clause_55",
+      "resolved_text": "5.11.2 (a) To what extent are the following types of employees of the EO subjected to security checks, for example, police check to confirm whether any of them has a criminal record—\n(i) new employees who will be working in security-sensitive fields,\n(ii) existing employees who are to be transferred into security-sensitive fields.\n\n(b) How is it ensured that when staff leave, they no Longer have any physical or electronic access to the EO’s premises or data?",
+      "entity_concepts": {
+        "Security Check": [
+          "The regulations require that employees in security-sensitive roles, whether newly hired or transferred from other internal positions, undergo background verification to ensure they do not possess a criminal record."
+        ],
+        "Electronic Access": [
+          "Upon the termination of an employee, the organization must ensure that all digital access to company data and electronic systems is immediately revoked."
+        ],
+        "Physical Examination": [
+          "Organizations are required to implement procedures to ensure that departing staff members lose all physical access to the premises to maintain security integrity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1168",
+      "entity_sub_entities": {
+        "Security Check": [
+          "employees",
+          "newly hired employees",
+          "transferred employees",
+          "background verification",
+          "criminal record"
+        ],
+        "Electronic Access": [
+          "digital access",
+          "company data",
+          "electronic systems"
+        ],
+        "Physical Examination": [
+          "departing staff members",
+          "physical access",
+          "premises"
+        ]
+      },
+      "clause_clusters": [
+        205,
+        305,
+        591,
+        940,
+        4865,
+        5881,
+        6524,
+        6775,
+        7200,
+        7315,
+        7632,
+        10074,
+        10668,
+        12943
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_107",
+      "clause_title": "নথিপত্রের অডিট অথবা পরীক্ষা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_107",
+      "resolved_text": "৮৩গ। নথিপত্রের অডিট অথবা পরীক্ষা।— (১) এই আইনের ধারা ২১১ অনুসারে কোন কাস্টমস কর্মকর্তা যে কোন সময়ে যেখানে নথিপত্র রাখা হয় সেই অঙ্গন অথবা স্থানে প্রবেশ করিতে পারিবেন এবং যে সকল নথিপত্র হস্তলিখিত হয় অথবা ইলেকট্রনিক সিস্টেমে অথবা সিস্টেমসমূহে প্রস্তুত এবং সংরক্ষণ করা হয় উহার সুনির্দিষ্ট লেনদেন সম্পর্কিত অথবা উহার পর্যাপ্ততা অথবা সত্যতা সম্পর্কিত বিষয়ে অডিট এবং পরীক্ষা করিতে পারিবেন।\n(২) এই ধারার উপ-ধারা (১) এর উদ্দেশ্য পূরণকল্পে কোন হিসাব পুস্তক, নথিপত্র এবং দলিলপত্র এবং কোন সম্পত্তি, পদ্ধতি অথবা বিষয় পরীক্ষা করার উদ্দেশ্যে কোন লাইসেন্সধারী, আমদানিকারক, রপ্তানিকারক অথবা অন্য কোন ব্যক্তির হেফাজতে অথবা নিয়ন্ত্রণে থাকা সকল ভূমি, ইমারত এবং স্থানে কোন কাস্টমস্ কর্মকর্তার প্রবেশের এবং সকল হিসাব পুস্তক, নথিপত্র এবং দলিলপত্রে সম্পূর্ণ এবং অবাধ প্রবেশের অধিকার থাকিবে, যাহা উক্ত কর্মকর্তার বিবেচনায়-\n(ক) এই আইনের অধীন কোন শুল্ক আহরণের জন্য অথবা কর্মকর্তার উপর আইনানুগভাবে অর্পিত কোন कर्तव्य পালনের উদ্দেশ্যে প্রয়োজনীয় অথবা প্রাসঙ্গিক হইতে পারে; অথবা\n(খ) এই আইনের উদ্দেশ্য পূরণকল্পে অথবা এই আইনের অধীন কোন কর্তব্য সম্পাদনের জন্য অন্যবিধ প্রয়োজনীয় কোন তথ্য সরবরাহ করিতে পারে।\n(৩) কাস্টমস কর্মকর্তা উক্তরূপ কোন পুস্তক, নথিপত্র অথবা দলিলপত্রের উদ্ধৃতি অথবা অনুলিপি গ্রহণ করিতে পারিবেন।\n(৪) এই ধারার উপ-ধারা (২) এবং (৩) সত্ত্বেও, কোন কাস্টমস কর্মকর্তা কোন বেসরকারি আবাসস্থলে উহার বাসিন্দা অথবা মালিকের সম্মতি ব্যতীত অথবা এই আইনের অধীন জারীকৃত কোন পরোয়ানা ব্যতীত উক্তরূপ আবাসস্থলে প্রবেশ করিবেন না।",
+      "entity_concepts": {
+        "Customs Officer": [
+          "A Customs Officer is authorized to enter premises where customs-related documents are kept to audit and examine records, whether manual or electronic, regarding transaction accuracy and authenticity.",
+          "Customs Officers have the right of full and unrestricted access to premises and documents held by licensees, importers, exporters, or other persons to perform their duties or collect duties under the Act.",
+          "Customs Officers are empowered to extract or copy any books, documents, or records necessary for the execution of the Act.",
+          "Customs Officers are prohibited from entering private residential premises without the consent of the occupant or owner, or without a valid warrant issued under the Act."
+        ],
+        "Customs Audit": [
+          "The law establishes a framework for the audit and examination of business records, allowing officials to verify the accuracy and validity of transactions documented in physical or electronic systems."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal mandate for customs authorities to access business premises, audit documentation, and perform inspections to ensure compliance with customs duties and administrative obligations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_111",
+      "entity_sub_entities": {
+        "Customs Officer": [
+          "premises",
+          "customs-related documents",
+          "records",
+          "manual records",
+          "electronic records",
+          "licensees",
+          "importers",
+          "exporters",
+          "books",
+          "private residential premises",
+          "warrant"
+        ],
+        "Customs Audit": [
+          "business records",
+          "physical systems",
+          "electronic systems"
+        ],
+        "Customs Act 1969": [
+          "business premises",
+          "documentation",
+          "customs duties",
+          "administrative obligations"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        14,
+        49,
+        63,
+        79,
+        131,
+        157,
+        305,
+        384,
+        388,
+        491,
+        755,
+        940,
+        1200,
+        1344,
+        1820,
+        3782,
+        5351,
+        9716,
+        10690,
+        10947
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_191",
+      "clause_title": "",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_191",
+      "resolved_text": "৫২। যদি এই আইনের অধীন লাইসেন্সকৃত কোন বেসরকারি ওয়্যারহাউসের লাইসেন্সধারী উক্ত ওয়্যারহাউসে প্রবেশের অধিকারী কোন কাস্টমস কর্মকর্তার নির্দেশ অনুযায়ী উহা না খোলেন অথবা উক্ত কর্মকর্তার দাবীমত উহাতে তাহাকে প্রবেশাধিকার দিতে অস্বীকার করেন, — তাহা হইলে উক্ত লাইসেন্সধারী অনধিক এক লক্ষ টাকা অর্থদণ্ডে দণ্ডনীয় হইবেন; এবং তাহার লাইসেন্স অবিলম্বে বাতিলযোগ্যও হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "A licensee of a private warehouse is required to allow entry to customs officers and follow their instructions to open the premises for inspection.",
+          "Failure to comply with an authorized customs officer's request for entry or refusal to open the warehouse is a punishable offence."
+        ],
+        "Customs Offence Penalties": [
+          "A licensee who prevents a customs officer from accessing a private warehouse is liable to a monetary fine.",
+          "In addition to a fine, the licensee faces the immediate cancellation of their warehouse license for non-compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_195",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "licensee",
+          "private warehouse",
+          "customs officers",
+          "premises",
+          "authorized customs officer"
+        ],
+        "Customs Offence Penalties": [
+          "licensee",
+          "customs officer",
+          "private warehouse",
+          "monetary fine",
+          "fine",
+          "warehouse license"
+        ]
+      },
+      "clause_clusters": [
+        49,
+        61,
+        111,
+        116,
+        190,
+        288,
+        305,
+        309,
+        425,
+        605,
+        3468
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_246",
+      "clause_title": "পরোয়ানা ব্যতীত তল্লাশী এবং গ্রেফতারের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_246",
+      "resolved_text": "১৬৩। পরোয়ানা ব্যতীত তল্লাশী এবং গ্রেফতারের ক্ষমতা।— (১) পদমর্যাদায় সহকারী কমিশনার অব কাস্টমস এর নিম্নে নহেন এমন কোন কাস্টমস কর্মকর্তা অথবা চোরাচালান নিরোধে নিয়োজিত অন্য কোন কর্মকর্তার যখন বিশ্বাস করার যুক্তিসঙ্গত কারণ থাকে যে, বাজেয়াপ্তযোগ্য কোন পণ্য অথবা কোন দলিলপত্র অথবা কোন জিনিসপত্র, যাহা তাহার মতে এই আইনের অধীন গৃহীত কোন কার্যধারার জন্য ব্যবহার উপযোগী অথবা প্রাসঙ্গিক হইবে, তাহা কোন স্থানে লুকানো অথবা সংরক্ষিত রহিয়াছে এবং ধারা ১৬২ এর অধীন তল্লাশী কার্যকর করার পূর্বে উহা অপসারিত হওয়ার বিপদ রহিয়াছে তখন তিনি তাহার বিশ্বাসের কারণ সমূহের এবং তল্লাশী করা হইবে সেইরূপ পণ্য সমূহ, দলিলপত্র অথবা জিনিসপত্রের একটি লিখিত বিবরণ প্রস্তুতপূর্বক ঐ স্থানে উক্ত পণ্য, দলিলপত্র অথবা জিনিসপত্রের জন্য তল্লাশী করিবেন অথবা করাইবেন।\n\n(২) উপ-ধারা (১) এর অধীন যে কর্মকর্তা অথবা ব্যক্তি তল্লাশী করিবেন অথবা করাইবেন তিনি পূর্বোল্লিখিত বিবরণের একখানি স্বাক্ষরিত কপি তল্লাশীকৃত স্থান অথবা উহার কাছে রাখিয়া আসিবেন এবং তল্লাশী করার সময়ে অথবা ইহার পর যথাতীঘ্র সম্ভব উক্ত বিবরণের আরও একটি স্বাক্ষরিত অনুলিপি স্থানটির বাসিন্দার me©kl Rvbv ঠিকানায় প্রেরণ করিবেন।\n\n(৩) এই ধারার অধীন সকল তল্লাশী ফৌজদারী কার্যবিধি, ১৮৯৮ (১৮৯৮ সনের ৫ নং আইন) এর বিধানাবলী অনুসারে, প্রয়োজনীয় cwieZ©b সাপেক্ষে, পরিচালিত হইবে।\n\n(৪) পূর্বোল্লিখিত উপ-ধারায় যাহা কিছুই থাকুক না কেন, এবং সহকারী কমিশনার অব কাস্টমস পদমর্যাদার নিম্নে নহেন এমন কর্মকর্তার পূর্ব-মনোনয়ন সাপেক্ষে, কোন কাস্টমস কর্মকর্তা অথবা এইরূপ ক্ষমতাপ্রাপ্ত কোন ব্যক্তি কোন চোরাচালান অপরাধের ক্ষেত্রে -\n\n(ক) উক্ত অপরাধের সাথে সংশ্লিষ্ট কোন ব্যক্তিকে, অথবা যাহার বিরুদ্ধে যুক্তিসঙ্গত m`n বিদ্যমান যে তিনি উক্ত অপরাধের সাথে সহসা সংশ্লিষ্ট হইবেন তাহাকে বিনা পরোয়ানায় গ্রেফতার করিতে পারিবেন ;\n\n(খ) দফা (ক) এর অধীন গ্রেফতার করিতে বিনা পরোয়ানায় কোন আঙ্গিনায় প্রবেশ এবং তল্লাশী করিতে পারিবেন অথবা আপাততঃ বলবৎ নিষিদ্ধকরণ অথবা নিয়ন্ত্রণের পরিপন্থীভাবে চোরাচালান হইতে পারে এইরূপ যুক্তিসঙ্গত সন্দেহযুক্ত কোন পণ্য, এবং এই আইনের অধীন কোন কার্যধারায় তাহার বিবেচনায় প্রাসঙ্গিক অথবা উপযোগী হইতে পারে এমন সকল দলিলপত্র অথবা জিনিসপত্র আটক করিতে পারিবেন; এবং\n\n(গ) উক্ত অপরাধের সাথে সংশ্লিষ্ট অথবা সংশ্লিষ্ট হওয়ার সম্ভাবনা রহিয়াছে এইরূপ ব্যক্তিকে গ্রেফতার করা, আটক করা বা হেফাজতে নেওয়া অথবা তাহার পলায়ন রোধ করার উদ্দেশ্যে অথবা যে পণ্যের ক্ষেত্রে উক্তরূপ কোন অপরাধ সংঘটিত হইয়াছে অথবা সংঘটিত হওয়ার সম্ভাবনা রহিয়াছে উহা আটক করার অথবা উহার অপসারণ রোধ করার উদ্দেশ্যে প্রয়োজনবোধে মৃত্যু সংঘটিত হইতে পারে এমন মাত্রায় বল প্রয়োগ করিতে অথবা করাইতে পারিবেন।\n\n(৫) উপ-ধারা (৪) এর বিধানাবলী শুধু বাংলাদেশের স্থল সীমান্তের পাঁচ মাইলের মধ্যবর্তী এলাকায়, এবং বাংলাদেশের সমুদ্র উপকূল বরাবর পাঁচ মাইলের মধ্যবর্তী বলয়ের মধ্যে cÖhvR¨ হইবে।\n\n(৬) উপ-ধারা (১) বা উপ-ধারা (২) এর অধীন অথবা উপ-ধারা (৫) এ উল্লেখিত এলাকাসমূহে উপ-ধারা (৪) এর অধীন অর্পিত ক্ষমতা প্রয়োগে কোন ব্যক্তি কর্তৃক কোন কিছু করার জন্য অথবা করার অভিপ্রায়ের জন্য সরকারের লিখিত অনুমোদন ব্যতিরেকে তাহার বিরুদ্ধে কোন দেওয়ানী মোকদ্দমা, ফৌজদারী মামলা অথবা অন্য কোন আইনগত কার্যধারা দায়ের করা যাইবে না।",
+      "entity_concepts": {
+        "Assistant Commissioner of Customs": [
+          "This officer is designated as the minimum rank required for authorizing search and seizure operations under this Act.",
+          "The officer is also responsible for granting prior authorization for the arrest of individuals suspected of smuggling offences within specific border zones."
+        ],
+        "Customs Officer": [
+          "Officers are empowered to conduct searches of premises without a warrant if there is a reasonable belief that relevant goods, documents, or items are concealed there and are at risk of being removed.",
+          "In designated border areas, officers are authorized to arrest individuals involved in smuggling, enter premises, seize contraband or relevant evidence, and use necessary force to prevent escape or the removal of illicit goods."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "All search operations conducted under this provision must adhere to the rules and procedures established by this code, subject to necessary modifications."
+        ],
+        "Government of Bangladesh": [
+          "The government's written permission is a mandatory requirement before any civil suit, criminal prosecution, or legal action can be initiated against an official for acts performed or intended in the exercise of search and arrest powers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_250",
+      "entity_sub_entities": {
+        "Assistant Commissioner of Customs": [
+          "search and seizure operations",
+          "arrest",
+          "smuggling offences",
+          "border zones"
+        ],
+        "Customs Officer": [
+          "premises",
+          "goods",
+          "documents",
+          "items",
+          "border areas",
+          "individuals",
+          "smuggling",
+          "contraband",
+          "evidence",
+          "illicit goods"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "search operations",
+          "rules",
+          "procedures"
+        ],
+        "Government of Bangladesh": [
+          "written permission",
+          "civil suit",
+          "criminal prosecution",
+          "legal action",
+          "official",
+          "search and arrest powers"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        29,
+        32,
+        49,
+        59,
+        78,
+        117,
+        150,
+        211,
+        236,
+        301,
+        305,
+        339,
+        387,
+        985,
+        1542,
+        1594,
+        1700,
+        2336,
+        2590,
+        3090,
+        3541,
+        4142,
+        6065,
+        11904,
+        11905,
+        11909
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_258",
+      "clause_title": "কতিপয় সংকেত অথবা সংবাদ প্রস্তুত অথবা প্রেরণ নিরোধ করার ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_258",
+      "resolved_text": "১৭৫। কতিপয় সংকেত অথবা সংবাদ প্রস্তুত অথবা প্রেরণ নিরোধ করার ক্ষমতা।— যদি কোন কাস্টমস অথবা পুলিশ কর্মকর্তা অথবা বাংলাদেশ সশস্ত্র বাহিনীর কোন সদস্যের m`n করার যুক্তিসঙ্গত কারণ থাকে যে, কোন পণ্য বাংলাদেশের অভ্যন্তরে অথবা বাংলাদেশ হইতে বাহিরে চোরাচালানের অথবা চোরাচালানের অভিপ্রায়ে অথবা অভিসন্ধির সাথে সংপৃক্ত কোন সংকেত অথবা সংবাদ কোন যানবাহন, গৃহ অথবা স্থানে প্রস্তুত অথবা সেখান হইতে প্রেরণ করা হইতেছে অথবা প্রস্তুত অথবা প্রেরণের উপক্রম হইতেছে, তাহা হইলে তিনি উক্ত যানবাহনে আরোহণ অথবা উক্ত গৃহে অথবা স্থানে প্রবেশ করিতে পারিবেন এবং সংকেত অথবা সংবাদটি প্রস্তুত অথবা প্রেরণ বন্ধ করার অথবা নিরোধ করার জন্য যুক্তিসঙ্গতভাবে প্রয়োজনীয় পদক্ষেপ গ্রহণ করিতে পারিবেন।",
+      "entity_concepts": {
+        "Customs Authority": [
+          "The customs officer, alongside police or armed forces personnel, is empowered to take action against the transmission of signals or messages related to smuggling activities.",
+          "They have the authority to enter or board any vehicle, house, or premises where they have reason to believe such prohibited communications are being prepared or transmitted."
+        ],
+        "Smuggling": [
+          "The law grants enforcement officials the power to intervene when they suspect that signals or messages are being generated or sent to facilitate smuggling or intended smuggling into or out of Bangladesh.",
+          "Officials are authorized to take necessary and reasonable measures to stop or prevent the transmission of such signals."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_262",
+      "entity_sub_entities": {
+        "Customs Authority": [
+          "customs officer",
+          "police",
+          "armed forces personnel",
+          "vehicle",
+          "house",
+          "premises"
+        ],
+        "Smuggling": [
+          "signals",
+          "messages"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        49,
+        161,
+        211,
+        305,
+        1478,
+        1717,
+        2082,
+        4536,
+        5629
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_259",
+      "clause_title": "কতিপয় ফ্যাক্টরীতে কর্মকর্তা মোতায়নের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_259",
+      "resolved_text": "১৭৬। কতিপয় ফ্যাক্টরীতে কর্মকর্তা মোতায়নের ক্ষমতা।— পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন এইরূপ কর্মকর্তা যদি উপযুক্ত বিবেচনা করেন, তাহা হইলে তিনি বাংলাদেশের সীমান্তের পাঁচ মাইলের মধ্যে অবস্থিত এবং বাণিজ্যিক উদ্দেশ্যে ব্যবহৃত কোন ফ্যাক্টরী অথবা ইমারতে কোন কাস্টমস কর্মকর্তা ইহা নিশ্চিত করার লক্ষ্যে মোতায়েন করিতে পারিবেন যে ফ্যাক্টরী অথবা ইমারতটি কোন অবৈধ অথবা অনিয়মিত পণ্য আমদানি অথবা রপ্তানির জন্য কোনভাবে ব্যবহৃত না হয় এবং উক্তরূপ মোতায়েনকৃত কর্মকর্তার যে কোন যুক্তিসঙ্গত সময়ে ফ্যাক্টরীটির রেকর্ডপত্র অথবা ইমারত পরিচালিত ব্যবসা পরিদর্শন করার ক্ষমতা এবং বিধিমালা দ্বারা নির্ধারিত অন্যান্য ক্ষমতা থাকিবে।",
+      "entity_concepts": {
+        "Customs Authority": [
+          "Officers holding the rank of Assistant Commissioner or higher are empowered to deploy customs staff to factories or premises located within a specified distance of the national border for monitoring purposes.",
+          "The primary objective of such deployment is to ensure that the factory or premises are not being used for the illegal or irregular import or export of goods."
+        ],
+        "Customs Officer": [
+          "A deployed customs officer is authorized to inspect the records of the factory or the business operations within the premises at any reasonable time.",
+          "These officers are further granted specific powers as prescribed under the relevant rules to ensure compliance with customs laws."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_263",
+      "entity_sub_entities": {
+        "Customs Authority": [
+          "Assistant Commissioner",
+          "customs staff",
+          "factories",
+          "premises",
+          "national border",
+          "goods"
+        ],
+        "Customs Officer": [
+          "deployed customs officer",
+          "records",
+          "factory",
+          "business operations",
+          "premises",
+          "customs laws"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        49,
+        131,
+        197,
+        213,
+        305,
+        849,
+        1052,
+        1343,
+        2622,
+        4387,
+        7217
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_272",
+      "clause_title": "দণ্ডাদেশের নোটিশ প্রদর্শন করিতে হইবে",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_272",
+      "resolved_text": "১৮৯। `Ûv`ki নোটিশ প্রদর্শন করিতে হইবে।— (১) PvivPvjvbi অপরাধে কোন ব্যক্তির `Ûv`k হওয়ার পর সরকার তাহাকে তাহার e¨emv¯ji, যদি থাকে, ভিতরে অথবা বাহিরে অথবা ভিতরে এবং বাহিরের উভয় দিকে সরকার যেরূপ wbav©iY করে সেইরূপ b¤^i, AvqZb এবং অক্ষর, এবং তেমন স্থানে স্থাপন এবং `Ûv`k সম্পর্কিত তেমন তথ্য সম্বলিত নোটিশ প্রদর্শন করিতে এবং `Ûv`k প্রাপ্তির তারিখ হইতে কমপক্ষে তিন মাসকাল Ae¨vnZfve উক্তরূপ প্রদর্শন করিতে বাধ্য করিতে পারিবে; যদি তিনি উক্ত বাধ্যবাধকতা সম্পূর্ণরূপ পরিপালন করিতে ব্যর্থ হন, তাহা হইলে তিনি এই আইনের অধীন প্রথম যে অপরাধের জন্য `wÛZ হইয়াছেন সেই অপরাধের অনুরূপ প্রকৃতির আরও একটি অপরাধ সংঘটিত করিয়াছেন বলিয়া গণ্য হইবেন।\n\n(২) যদি উক্ত `ÛcÖvß কোন ব্যক্তি উক্তরূপ কোন বাধ্যবাধকতা সম্পূর্ণরূপ পরিপালন করিতে অস্বীকার করেন অথবা ব্যর্থ হন, তাহা হইলে GZ`welq সরকারের wjwLZ আদেশ দ্বারা ক্ষমতাপ্রাপ্ত যে কোন কর্মকর্তা উক্তরূপ কোন A¯^xKwZ অথবা ব্যর্থতার ক্ষেত্রে যে কার্যধারা গ্রহণ করা যাইতে পারে তাহা n«vm না করিয়া উপ-ধারা (১) এর অনুসরণে সরকারের আবশ্যকতা অনুযায়ী উক্ত ব্যক্তির e¨emv¯ji ভিতরে অথবা বাহিরে অথবা ভিতরে অথবা বাহিরে উভয় দিক নোটিশটি AvuwUqv দিতে পারিবেন।\n\n(৩) যদি কোন ক্ষেত্রে সরকার এই মর্মে সন্তুষ্ট হয় যে উপ-ধারা (১) অথবা উপ-ধারা (২) এর বিধানাবলীর বাধ্যবাধকতা অনুযায়ী নোটিশ সমূহের cÖ`k©bx `wÛZ ব্যক্তির `Ûv`k তাহার সহিত কাজ করিবার জড়িত লোকজনের djcÖm~fve bRi আসিবে না, তাহা হইলে সরকার উক্ত বাধ্যবাধকতার পরিবর্তে অথবা ইহার অতিরিক্ত হিসাবে `wÛZ ব্যক্তিকে তাহার ব্যবসায় ব্যবহৃত ókbvixZ বাধ্যবাধকতা অনুসারে নির্ধারিত AvqZbi UvBc এবং আকারে মুদ্রিত `Ûv`ki বিবরণ সম্বলিত একটি নোটিশ অনূ্যন তিন মাস সময়ের জন্য প্রদর্শন করিতে বাধ্য করিতে পারিবে; এবং এইরূপ বাধ্যবাধকতা সম্পূর্ণরূপ পরিপালনে ব্যর্থ হইলে, তিনি এই আইনের অধীন প্রথম যে অপরাধে `wÛZ হইয়াছিলেন তাহার অনুরূপ প্রকৃতির আরও একটি অপরাধ সংঘটিত করিয়াছেন বলিয়া গণ্য হইবেন।",
+      "entity_concepts": {
+        "Customs Offence Penalties": [
+          "The government may require a person convicted of a customs offence to display a public notice at their place of business detailing the conviction for a minimum period of three months.",
+          "Failure to comply with the requirement to display such a notice is deemed a repeat of the original offence for which the person was convicted.",
+          "Customs authorities are empowered to enter the premises of a convicted person to affix the required notice if the person refuses or fails to comply with the display mandate.",
+          "In cases where a standard notice is deemed insufficient for public awareness, the government may require the convicted person to display a notice in a specific format or font size as prescribed, failure of which also constitutes a repeat offence."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_276",
+      "entity_sub_entities": {
+        "Customs Offence Penalties": [
+          "public notice",
+          "place of business",
+          "conviction",
+          "premises",
+          "standard notice",
+          "format",
+          "font size"
+        ]
+      },
+      "clause_clusters": [
+        116,
+        305,
+        1206,
+        2410,
+        2583,
+        2931,
+        3280
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_107",
+      "clause_title": "Audit or examination of records",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_107",
+      "resolved_text": "83C. Audit or examination of records.- (1) An officer of Customs may at any time enter any premises or place where records are kept pursuant to section 211 of this Act and audit and examine those records either in relation to specific transactions or to the adequacy or integrity of the manual or electronic system or systems by which such records are created and stored.\n(2) For the purposes of sub-section (1) of this section, an officer of Custom shall have full and free access to all lands, buildings and places and to all books, records and documents, whether in the custody or under the control of the licensee, importer, exporter or any other person, for the purpose of inspecting any books, records, and documents and any property, process, or matter that the officer considers.-\n(a) necessary or relevant for the purpose of collecting any duty under the Act or for the purpose of carrying out any other function lawfully conferred on the officer, or\n(b) likely to provide any information otherwise required for the purposes of this Act or for the discharge of any functions under this Act.\n(3) The officer of Customs may make extracts from or copies of any such books, documents or records.\n(4) Notwithstanding sub-section (2) and (3) of this section, an officer of Customs shall not enter any private dwelling except with the consent of an occupier or owner thereof or pursuant to a warrant issued under this Act.]",
+      "entity_concepts": {
+        "Customs Officer": [
+          "A Customs Officer is authorized to enter premises where records are kept to audit and examine them in relation to specific transactions or the integrity of the systems used to store them.",
+          "A Customs Officer has the power to access lands, buildings, places, books, and documents held by any person to collect duty or perform functions under the Act, including making copies or extracts of such documents.",
+          "A Customs Officer is restricted from entering a private dwelling without the consent of the owner or occupier, or unless they have obtained a warrant issued under the Act."
+        ],
+        "Customs Records Retention": [
+          "Records that are required to be kept under the Act are subject to audit and examination by an officer of Customs at any time."
+        ],
+        "Licensee": [
+          "A licensee must grant the officer of Customs full and free access to their books, records, documents, and premises for the purpose of an audit or examination."
+        ],
+        "Importer": [
+          "An importer must provide the officer of Customs with full and free access to their books, records, and documents to facilitate the audit and examination process as required by the Act."
+        ],
+        "Exporter": [
+          "An exporter is subject to the authority of a Customs Officer who may examine their records and premises to ensure compliance with duty collection and other legal functions."
+        ],
+        "Search Warrant": [
+          "A warrant is required if a Customs Officer intends to enter a private dwelling for the purposes of audit or examination without the consent of the occupant or owner."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_434",
+      "entity_sub_entities": {
+        "Customs Officer": [
+          "premises",
+          "records",
+          "transactions",
+          "systems",
+          "lands",
+          "buildings",
+          "places",
+          "books",
+          "documents",
+          "duty",
+          "private dwelling",
+          "warrant"
+        ],
+        "Customs Records Retention": [
+          "records"
+        ],
+        "Licensee": [
+          "books",
+          "records",
+          "documents",
+          "premises"
+        ],
+        "Importer": [
+          "books",
+          "records",
+          "documents"
+        ],
+        "Exporter": [
+          "records",
+          "premises"
+        ],
+        "Search Warrant": [
+          "warrant",
+          "private dwelling"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        49,
+        59,
+        77,
+        109,
+        131,
+        190,
+        305,
+        384,
+        1273,
+        1493,
+        1563,
+        1820,
+        1987,
+        2278,
+        4578,
+        9381,
+        10705
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_190",
+      "clause_title": "Power to search and arrest without warrant",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_190",
+      "resolved_text": "163. Power to search and arrest without warrant.- (1) Whenever any officer or customs not below the rank of an 1[Assistant Commissioner of Customs] or any other officer 2[* * * *] employed for the prevention of smuggling has reasonable grounds for believing that any goods liable to confiscation or any documents or things which in his opinion will be useful for or relevant to any proceeding under this Act are concealed or kept in any place and that there is a danger that they may be removed before a search can be effected under section 162, he may, after preparing a statement in writing of the grounds of his belief and of the goods, documents or things for which search is to be made, search or cause of search to be made for such goods, documents or things in that place.\n(2) Any officer or person who makes a search or causes a search to be made under sub-section (1) shall leave a signed copy of the aforementioned statement in or about the place searched and shall, at the time the search is made or as soon as is practicable thereafter, deliver furthermore a signed copy of such statement to the occupier of the place at his last known address.\n(3) All searches made under this section shall be carried out mutatis mutandis in accordance with the provisions of the Code of Criminal Procedure, 1898 (Act V of 1898).\n(4) Notwithstanding anything contained in the foregoing sub-sections and subject to previous authorization by an officer of customs not below the rank of an 1[Assistant Commissioner of Customs], any officer of customs or any person duly empowered as such may, with respect to an offence 3[of smuggling]-\n(a) arrest without warrant any person concerned in such offence or against whom reasonable suspicion exists that he is about to be concerned in such offence;\n(b) enter and search without warrant any premises to make an arrest under clause (a), or to seize an goods which are reasonable suspected to be intended for 4[smuggling] contrary to any prohibition or restriction for the time being in force, and all documents or things which in his opinion will be useful for or relevant to any proceeding under this Act; and\n(c) for the purpose of arresting, detaining or taking into custody or preventing the escape of any person concerned or likely to be concerned in such offence, or for the purpose of seizing or preventing the removal of any goods in respect of which any such offence has occurred or is likely to occur, use or cause to be used such force to the extent of causing death as may be necessary.\n(5) The provisions of sub-section (4) shall apply only to the areas within five miles of the land frontier of 1[Bangladesh], and within a five mile belt running along the sea coast of 1[Bangladesh].\n(6) No suit, prosecution or other legal proceeding shall be instituted, except with the previous sanction in writing of the 2[Government], against any person in respect of anything done or purporting to be done in exercise of the powers conferred by sub-section (1) or sub-section (2) or, in the areas specified in sub-section (3), by sub-section (4).",
+      "entity_concepts": {
+        "Assistant Commissioner of Customs": [
+          "This officer is authorized to form beliefs regarding the concealment of goods or documents subject to search and to authorize officers to conduct searches or arrests without a warrant under specified conditions."
+        ],
+        "Smuggling": [
+          "The prevention of smuggling is a primary function that empowers customs officers to carry out searches and arrests without a warrant in defined circumstances.",
+          "Specific enforcement powers, including the use of force and warrantless entry of premises, are granted to customs officers when dealing with offences related to smuggling."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "All searches conducted under this section must adhere to the procedural requirements established in the Code of Criminal Procedure, 1898."
+        ],
+        "Officer of Customs": [
+          "Officers are empowered to enter and search premises, seize goods suspected of smuggling, and arrest individuals involved in such offences without a warrant under specific conditions.",
+          "When necessary to execute duties such as arresting persons or seizing goods, these officers may use force, including lethal force, to prevent escape or the removal of illicit items."
+        ],
+        "Government": [
+          "Legal proceedings cannot be instituted against any person acting under the powers granted in this section without the prior written sanction of the Government."
+        ],
+        "Customs Offence": [
+          "Special enforcement provisions apply to offences related to smuggling, allowing for warrantless arrests, entry of premises, and the use of force within designated border and coastal zones."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_517",
+      "entity_sub_entities": {
+        "Assistant Commissioner of Customs": [
+          "goods",
+          "documents"
+        ],
+        "Smuggling": [
+          "offences"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "searches"
+        ],
+        "Officer of Customs": [
+          "premises",
+          "goods",
+          "individuals",
+          "persons",
+          "illicit items"
+        ],
+        "Government": [
+          "legal proceedings"
+        ],
+        "Customs Offence": [
+          "offences",
+          "smuggling",
+          "premises"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        6,
+        59,
+        78,
+        97,
+        211,
+        236,
+        305,
+        375,
+        387,
+        495,
+        600,
+        764,
+        3046,
+        8819
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

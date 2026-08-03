@@ -1,0 +1,268 @@
+{
+  "thread_id": "cluster_00427_t1",
+  "cluster_id": 427,
+  "cluster_label": "household items",
+  "title": "Taxation and Classification Schedules for Household Items",
+  "source_num_member_objects": 10,
+  "num_qa_pairs": 17,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A traveler returning to Dhaka International Airport in 2012 is navigating the customs terminal with several suitcases filled with various goods. While they assume most of their belongings are personal effects, they are concerned about the specific regulations governing items that might not qualify for standard duty-free treatment. They approach the customs desk to clarify the rules regarding their cargo to ensure full compliance. According to the Baggage Rules 2012, which categories of items are liable for fixed duties and taxes when imported as baggage?",
+      "question": "According to the Baggage Rules 2012, which categories of items are liable for fixed duties and taxes when imported as baggage?",
+      "answer": "Items subject to fixed duties include goods not for personal or household use, baggage exceeding the allowed quantity of suitcases, goods imported in commercial quantities, and specific household/electronic items like televisions, home theatre systems, cooling appliances, and gold or silver bars.",
+      "date_or_instrument": "2012-06-07 | Baggage Rules 2012",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A freelance photographer returning from an overseas assignment is packing their gear, which includes high-end camera bodies and a variety of specialized lenses. They are aware that baggage rules often allow for certain personal items to be brought in duty-free, but they are uncertain if their professional-grade equipment qualifies for this exemption under the latest customs regulations. They need to verify their status before landing to avoid unexpected charges. Are professional-grade cameras and interchangeable lenses eligible for duty-free import under the current baggage rules?",
+      "question": "Are professional-grade cameras and interchangeable lenses eligible for duty-free import under the current baggage rules?",
+      "answer": "No, professional-grade equipment including DSLR, Mirrorless, and interchangeable lens cameras are explicitly excluded from the list of duty-free goods.",
+      "date_or_instrument": "2025-06-03",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs officer at the cargo terminal is reviewing the latest regulatory updates to ensure correct processing of incoming household goods. Following the issuance of SRO 152-Law/2015, there have been adjustments to how certain appliances are treated during the assessment process. The officer needs to refresh their knowledge on which specific household items fall under these revised baggage treatment guidelines. What specific appliances were added or updated in the list of household and personal items under SRO 152-Law/2015?",
+      "question": "What specific appliances were added or updated in the list of household and personal items under SRO 152-Law/2015?",
+      "answer": "The updated list includes television sets, refrigerators, deep freezers, household cookers and ovens, washing machines, cloth dryers, dishwashers, VCP/VCR, sewing machines, knitting machines, music centers, laser/compact disc players, video players, home theaters, CD/DVD players, and movie cameras.",
+      "date_or_instrument": "2016-04-08 | SRO 152-Law/2015",
+      "clause_text_ids": [
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An industrial importer planning a major project in 2024 is preparing to bring in a substantial shipment of construction materials and office equipment. They are reviewing the updated Baggage Rules 2024 to determine if these specific industrial and commercial goods qualify for any customs duty exemptions. They need to be absolutely certain about the scope of the new schedule before finalizing their logistics. Does the Baggage Rules 2024 schedule include construction materials and office equipment?",
+      "question": "Does the Baggage Rules 2024 schedule include construction materials and office equipment?",
+      "answer": "Yes, the 2024 schedule expanded to include categories such as MS rods/bars, angles, MS wire, prefabricated buildings, cement, cables, paint, fuel/lubricating oil, and all types of office equipment and furniture.",
+      "date_or_instrument": "2024-06-06 | Baggage Rules 2024",
+      "clause_text_ids": [
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A student returning home for the holidays is bringing back their personal laptop and a printer to assist with their academic work. They want to ensure that these essential electronics are handled correctly at the customs checkpoint to avoid any unnecessary financial burden. They are checking the official schedule to confirm the taxation status of these items. Are desktop/laptop computers and computer printers included in the duty-free baggage list?",
+      "question": "Are desktop/laptop computers and computer printers included in the duty-free baggage list?",
+      "answer": "Yes, desktop/laptop computers (with one UPS) and computer printers are listed as duty and tax-free items in the schedule.",
+      "date_or_instrument": "undated | src=20160602_164-AIN_2016_26-Customs_output",
+      "clause_text_ids": [
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics coordinator is working on the documentation for a large shipment of industrial steel sheets arriving at the port. To accurately file the customs entry and determine the correct tax implications, they must classify the cargo correctly within the consumable goods schedule. They need to verify the exact technical criteria that define whether these sheets fall under the consumable category. How are steel sheets classified under the consumable goods schedule?",
+      "question": "How are steel sheets classified under the consumable goods schedule?",
+      "answer": "Steel sheets are classified as consumable goods if they meet American Standard Testing Method (ASTM) specifications, specifically being 10mm or less A36 or equivalent MS plate.",
+      "date_or_instrument": "undated | src=20200611_46_2020_Customs_output.json",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the initial schedule for dutiable and duty-free household items in the Bangladeshi baggage rules?",
+      "options": [
+        "SRO 152-Law/2015",
+        "Baggage Rules 2012",
+        "Baggage Rules 2024",
+        "Customs Act 1969"
+      ],
+      "answer_index": 1,
+      "answer": "Baggage Rules 2012",
+      "explanation": "The Baggage Rules 2012, dated 2012-06-07, established the initial schedule for dutiable and duty-free household items.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When was the list of household appliances eligible for specific baggage treatment updated via SRO 152-Law/2015?",
+      "options": [
+        "2012-06-07",
+        "2024-06-06",
+        "2016-04-08",
+        "2020-06-11"
+      ],
+      "answer_index": 2,
+      "answer": "2016-04-08",
+      "explanation": "SRO 152-Law/2015 was dated 2016-04-08 and updated the list of household appliances eligible for specific baggage treatment.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument expanded the scope of items categorized under household and office equipment schedules in 2024?",
+      "options": [
+        "Baggage Rules 2024",
+        "Baggage Rules 2012",
+        "SRO 152-Law/2015",
+        "Customs Tariff Schedule 2020"
+      ],
+      "answer_index": 0,
+      "answer": "Baggage Rules 2024",
+      "explanation": "The Baggage Rules 2024, dated 2024-06-06, expanded the scope of items categorized under household and office equipment schedules.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What change occurred regarding professional-grade cameras in the duty-free baggage schedule compared to earlier versions?",
+      "options": [
+        "They were added to the duty-free list in 2012.",
+        "They were explicitly excluded from the duty-free list in the undated 2025 version.",
+        "They were made tax-exempt in 2016.",
+        "They were removed from all schedules in 2024."
+      ],
+      "answer_index": 1,
+      "answer": "They were explicitly excluded from the duty-free list in the undated 2025 version.",
+      "explanation": "The undated 2025-06-03 source explicitly excludes professional-grade cameras, including DSLR and Mirrorless types, from the list of duty-free goods.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the Baggage Rules 2012, the schedule for household items was already expanded to include industrial construction materials like prefabricated buildings, steel rods, and cement, which were integrated into the initial 2012 framework to support industrial project requirements.",
+      "question": "Does the Baggage Rules 2012 accurately reflect the inclusion of construction materials like prefabricated buildings and steel rods as described in the provided context?",
+      "conflict": "The context states that construction materials such as prefabricated buildings and steel rods were added in the 2024-06-06 Baggage Rules 2024, not the 2012 rules.",
+      "answer": "No. The inclusion of construction materials such as prefabricated buildings, MS rods, and cement occurred in the Baggage Rules 2024 (2024-06-06), whereas the Baggage Rules 2012 (2012-06-07) focused on basic household appliances, electronic items, and personal effects.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "The 2016 SRO 152-Law/2015 update established the initial legal framework for categorizing prefabricated building components and industrial steel as dutiable household goods for the first time.",
+      "question": "Was the 2016 SRO 152-Law/2015 responsible for introducing prefabricated building components into the baggage schedule?",
+      "conflict": "The 2016 SRO 152-Law/2015 updated the list of household appliances (e.g., refrigerators, ovens), while construction materials like prefabricated buildings were introduced in the 2024-06-06 Baggage Rules 2024.",
+      "answer": "No. The 2016 SRO 152-Law/2015 (2016-04-08) updated the list of household appliances such as refrigerators, washing machines, and home theaters. Prefabricated building components were introduced as a distinct category under the schedule in the Baggage Rules 2024 (2024-06-06).",
+      "clause_text_ids": [
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger imports a professional DSLR camera in 2016 and another identical unit in 2025. They wish to know if both are eligible for duty-free status under the baggage rules.",
+      "question": "How did the eligibility for duty-free importation of professional cameras change between the 2016 list and the 2025 schedule?",
+      "answer": "The 2016 list allowed duty-free entry for cameras, excluding only professional-grade video cameras. By 2025, the rules were updated to explicitly exclude DSLR, Mirrorless, and interchangeable lens cameras, as well as any camera used for professional purposes, from the duty-free list.",
+      "clauses_involved": [
+        "20160602_164-AIN_2016_26-Customs_output",
+        "20250603_._._._output.json"
+      ],
+      "clause_text_ids": [
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer brings in construction materials, specifically MS rods and prefabricated building parts, in 2012 and again in 2024.",
+      "question": "How did the classification of construction materials like MS rods and prefabricated buildings evolve in the customs schedules from 2012 to 2024?",
+      "answer": "In 2012, the baggage schedules focused on household appliances and personal items. By 2024, the scope was expanded to explicitly categorize construction materials, including MS rods, bars, and prefabricated building components, within the customs duty exemption schedules.",
+      "clauses_involved": [
+        "20120607_172-AIN_2012_2400-Customs_outpu",
+        "20240606_208-AIN_2024_60_Customs_output."
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "four years later",
+      "question": "The Baggage Rules 2012 established the initial schedule for dutiable and duty-free household items. What significant regulatory update occurred four years later regarding the list of household appliances?",
+      "answer": "Four years later, on 2016-04-08, SRO 152-Law/2015 was issued, which updated the list of household appliances eligible for specific baggage treatment under the authority of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "eight years later",
+      "question": "Following the SRO 152-Law/2015 update in 2016, what major change to the scope of household and office equipment schedules was introduced eight years later?",
+      "answer": "Eight years later, on 2024-06-06, the Baggage Rules 2024 were introduced, which significantly expanded the scope of items categorized under household and office equipment schedules to include construction materials and industrial inputs.",
+      "clause_text_ids": [
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240912_১২-০৯-২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The scope of items categorized under household and office equipment schedules was broadened to include construction materials and industrial inputs.",
+        "The list of household appliances eligible for specific baggage treatment underwent a modification to replace the existing inventory of items.",
+        "The regulatory framework established a schedule for goods imported as baggage, specifically categorizing items subject to customs duties when they exceed personal use limits or quantity allowances."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The regulatory framework established a schedule for goods imported as baggage, specifically categorizing items subject to customs duties when they exceed personal use limits or quantity allowances.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The list of household appliances eligible for specific baggage treatment underwent a modification to replace the existing inventory of items.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "The scope of items categorized under household and office equipment schedules was broadened to include construction materials and industrial inputs.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20240606_208-AIN_2024_60_Customs_২৯ মে, ২০২৪_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION/20160408_TRANSFER_OF_RESIDENCE_RULES_CORRECTION_output.json",
+        "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+        "customs_sros_OCR/20240606_208-AIN_2024_60_Customs/20240606_208-AIN_2024_60_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00427_t1__taxation-and-classification-schedules-for-househol.json"
+    }
+  ]
+}

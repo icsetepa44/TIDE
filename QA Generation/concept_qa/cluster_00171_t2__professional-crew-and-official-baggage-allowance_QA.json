@@ -1,0 +1,215 @@
+{
+  "thread_id": "cluster_00171_t2",
+  "cluster_id": 171,
+  "cluster_label": "Passenger Baggage Allowance",
+  "title": "Professional Crew and Official Baggage Allowance",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 13,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 5,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "After completing a long-haul international flight, a Bangladeshi flight crew member touches down at the airport in 2012. As they clear customs after their shift, they are carrying personal items acquired abroad. The customs official at the terminal needs to verify the specific limit for duty-free imports applicable to them at that time.",
+      "question": "What was the maximum value of baggage this crew member could import duty-free under the 2012 policy?",
+      "answer": "The crew member was permitted to import baggage up to a maximum value of 100 USD free of all duties and taxes.",
+      "date_or_instrument": "2012-06-07 | SRO 2012",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A Bangladeshi sailor finishes a multi-month contract and finally arrives at a local port from a foreign destination in 2016. While gathering their belongings to head home, they prepare to pass through customs inspection. They inquire about the specific financial limit for importing personal baggage without incurring customs duties.",
+      "question": "What was the duty-free baggage allowance for this sailor upon arrival?",
+      "answer": "The sailor was permitted to import baggage up to a maximum value of 300 USD free of all duties and taxes.",
+      "date_or_instrument": "2016-06-02 | SRO 2016",
+      "clause_text_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A Bangladeshi sailor has officially decided to sign off from their vessel after returning from a long voyage to a foreign port in 2023. They have brought back several personal items and are now navigating the customs clearance process at the port. They need to understand the maximum value allowed for their belongings and the specific tax implications associated with this import.",
+      "question": "What is the maximum baggage value allowed for this sailor upon signing off, and what is the condition?",
+      "answer": "The sailor may import baggage up to 2,000 USD, subject to the payment of all applicable duties and taxes.",
+      "date_or_instrument": "2023-06-01 | SRO 2023",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A Bangladeshi flight crew member finishes their international rotation and lands in Dhaka in 2025. As they go through the crew channel, they have some personal goods in their luggage that they purchased while abroad. They need to know the exact threshold for importing these goods without paying any duties or taxes under the current 2025 policy.",
+      "question": "How much baggage value can this crew member import duty-free under the current 2025 policy?",
+      "answer": "The crew member is permitted to import baggage up to a maximum value of 150 USD free of all duties and taxes.",
+      "date_or_instrument": "2025-06-03 | SRO 2025",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2024, a customs officer is stationed at a busy port, processing the arrival of a ship officer who has just returned from international waters. The officer is declaring their personal baggage for clearance. The customs official must determine the precise amount of the duty-free allowance permitted for this returning professional.",
+      "question": "What is the duty-free baggage limit for this officer?",
+      "answer": "The officer is permitted to import baggage up to a maximum value of 300 USD free of all duties and taxes.",
+      "date_or_instrument": "2024-06-06 | SRO 2024",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the duty-free baggage allowance for Bangladeshi airline crew returning from professional duty abroad under the 2012-06-07 SRO?",
+      "options": [
+        "100 USD",
+        "150 USD",
+        "300 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 0,
+      "answer": "100 USD",
+      "explanation": "According to the 2012-06-07 SRO, airline crew were permitted to import baggage up to 100 USD free of all duties and taxes.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument adjusted the duty-free baggage allowance for airline crew to 150 USD?",
+      "options": [
+        "SRO 2012",
+        "SRO 2016",
+        "SRO 2023",
+        "SRO 2025"
+      ],
+      "answer_index": 3,
+      "answer": "SRO 2025",
+      "explanation": "The SRO 2025, dated 2025-06-03, specifically adjusted the airline crew allowance to 150 USD.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Between 2016 and 2024, what was the standard duty-free baggage allowance for Bangladeshi sailors arriving from foreign seaports?",
+      "options": [
+        "100 USD",
+        "300 USD",
+        "1,000 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 1,
+      "answer": "300 USD",
+      "explanation": "The allowance for sailors arriving from foreign seaports remained 300 USD in the 2016-06-02, 2023-06-01, and 2024-06-06 policy documents.",
+      "clause_text_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_6",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What is the maximum baggage value allowed for a Bangladeshi sailor upon 'signing off' (sign off), subject to the payment of applicable duties and taxes, as established in the 2012-06-07 SRO?",
+      "options": [
+        "100 USD",
+        "300 USD",
+        "1,000 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 3,
+      "answer": "2,000 USD",
+      "explanation": "The 2012-06-07 SRO established that upon signing off, sailors or officers could import baggage up to 2,000 USD subject to applicable duties.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi flight crew member has been working on international flights since 2012. They recall that when they started, they were allowed to bring in baggage worth 100 USD duty-free. They continued their service through the updates in 2016, 2023, and 2024, and are now planning a return flight in late 2025.",
+      "question": "How has the duty-free baggage allowance for this flight crew member changed from their start date in 2012 to the current regulation in 2025?",
+      "answer": "The duty-free allowance increased from 100 USD (2012) to 300 USD (2016, 2023, 2024), and was subsequently reduced to 150 USD in 2025.",
+      "clauses_involved": [
+        "2012-06-07",
+        "2016-06-02",
+        "2023-06-01",
+        "2024-06-06",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_6",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "four years later",
+      "question": "In 2012-06-07, the baggage allowance for airline crew was defined at 100 USD. How did this allowance change four years later?",
+      "answer": "In 2016-06-02, the baggage allowance for airline crew was increased to 300 USD.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "nine years later",
+      "question": "Starting from the 2016-06-02 policy which set the airline crew baggage allowance at 300 USD, what was the adjustment made nine years later?",
+      "answer": "In 2025-06-03, the allowance for airline crew was adjusted downward to 150 USD.",
+      "clause_text_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Bangladeshi airline crew and officers are permitted to import baggage up to a value of 150 USD free of all duties and taxes.",
+        "Bangladeshi airline crew and officers are permitted to import baggage up to a value of 100 USD free of all duties and taxes.",
+        "Bangladeshi airline crew and officers are permitted to import baggage up to a value of 300 USD free of all duties and taxes."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Bangladeshi airline crew and officers are permitted to import baggage up to a value of 100 USD free of all duties and taxes.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "Bangladeshi airline crew and officers are permitted to import baggage up to a value of 300 USD free of all duties and taxes.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "Bangladeshi airline crew and officers are permitted to import baggage up to a value of 150 USD free of all duties and taxes.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00171_t2__professional-crew-and-official-baggage-allowance.json"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "cluster_id": 76,
+  "cluster_label": "date",
+  "thread_index": 1,
+  "thread_id": "cluster_00076_t1",
+  "title": "Procedural Timeframes and Documentation",
+  "summary": "This thread covers the evolution of procedural deadlines and record-keeping requirements, specifically regarding the amendment of certificates and the review of administrative rulings.",
+  "evolution": {
+    "procedure": "Shifted from short-term operational amendments (10 days) to more formal administrative review processes (60 days)."
+  },
+  "timeline": [
+    {
+      "date": "2013-06-06",
+      "instrument": "Amendment to Rules",
+      "change": "Established a 10-day window for amending certificates.",
+      "clause_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_7"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Customs Ruling (Advance) Rules, 2025",
+      "change": "Established a 60-day window for filing and disposing of administrative review applications.",
+      "clause_ids": [
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_14"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "প্রত্যয়নপত্র সংশোধন",
+      "text_id": "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_7",
+      "resolved_text": "(৭) বিধি ১৫ এর পরিবর্তে বিধি ১৫ প্রতিস্থাপিত হইবে, যথা :-\n\n“১৫। প্রত্যয়নপত্র সংশোধন।- পরিদর্শন সংস্থা ইস্যুকৃত কোন প্রত্যয়নপত্র সংশোধনের প্রয়োজন মনে করিলে উহা ইস্যু করিবার ১০ (দশ) কার্যদিবসের মধ্যে এবং বিল অফ এন্ট্রি দাখিলের পূর্বে যথাযথ কারণ উল্লেখপূর্বক উহা সংশোধনক্রমে সংশোধিত প্রত্যয়নপত্র ইস্যু করিতে পারিবে:\n\nতবে শর্ত থাকে যে, উক্তরূপে সংশোধিত প্রত্যয়নপত্রে ‘সংশোধিত প্রত্যয়ন পত্র’ শব্দগুলি এবং মূল প্রত্যয়নপত্রের নম্বর ও তারিখ উল্লেখ করিতে হইবে এবং তদমর্মে সংশ্লিষ্ট সকলকে অবহিত করিবে।”;",
+      "entity_concepts": {
+        "Certificate of Inspection": [
+          "The issuing inspection agency is authorized to amend a previously issued certificate of inspection if necessary.",
+          "Amendments must be made within a specified timeframe of working days after initial issuance and must be completed before the filing of the bill of entry.",
+          "The amended certificate must clearly state that it is a revised document and must include the reference number and date of the original certificate.",
+          "The inspection agency is required to notify all relevant stakeholders regarding the issuance of any such amended certificate."
+        ],
+        "Bill of Entry": [
+          "The submission of a bill of entry serves as a strict procedural deadline before which any necessary amendments to the certificate of inspection must be finalized."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1435",
+      "entity_sub_entities": {
+        "Certificate of Inspection": [
+          "issuing inspection agency",
+          "certificate of inspection",
+          "amended certificate",
+          "revised document",
+          "reference number",
+          "date",
+          "original certificate",
+          "stakeholders"
+        ],
+        "Bill of Entry": [
+          "bill of entry",
+          "certificate of inspection"
+        ]
+      },
+      "clause_clusters": [
+        27,
+        76,
+        414,
+        2539,
+        4463,
+        4637,
+        5469,
+        9291,
+        11534
+      ],
+      "source_file": "customs_sros_OCR/20130606_156-AIN_2013_2443-Customs/20130606_156-AIN_2013_2443-Customs_output.json",
+      "clause_date": "2013-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_14",
+      "clause_title": "অগ্রিম রুলিং এর রিভিউ",
+      "text_id": "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_14",
+      "resolved_text": "১৪। অগ্রিম রুলিং এর রিভিউ।— (১) বিধি ৯ এর অধীন জারীকৃত অগ্রিম রুলিং অথবা বিধি ১৩ এর অধীন রুলিং এর সংশোধন, রদ বা বাতিল বিষয়ক সিদ্ধান্তে রুলিংধারী সংক্ষুব্ধ হইলে অগ্রিম রুলিং ইউনিটের নিকট উক্ত সিদ্ধান্ত রিভিউ এর জন্য লিখিতভাবে আবেদন করিতে পারিবে।\n(২) রিভিউ এর আবেদন রুলিং প্রাপ্তির বা, ক্ষেত্রমত, রুলিং এর সংশোধন, রদ বা বাতিলের বিষয়ে অবহিত হইবার, তারিখ হইতে ৬০ (ষাট) কার্যদিবসের মধ্যে দাখিল করিতে হইবে, এবং উহাতে উক্তরূপ আবেদনের যৌক্তিকতা সবিস্তারে উল্লেখ করিতে হইবে।\n(৩) অগ্রিম রুলিং ইউনিট রিভিউ আবেদন প্রাপ্তির ৬০ (ষাট) কার্যদিবসের মধ্যে উহা নিষ্পত্তি করিবে।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "An applicant who is aggrieved by a decision concerning the issuance, amendment, revocation, or cancellation of an advance ruling may file a written application for a review of that decision.",
+          "The application for review must be submitted within a specified timeframe following the date the decision was received or the notification of the amendment, revocation, or cancellation was issued, and it must include a detailed justification for the request."
+        ],
+        "Advance Ruling Unit": [
+          "The Advance Ruling Unit acts as the authority to which an aggrieved party submits a formal written request for the review of previous decisions made regarding advance rulings.",
+          "The unit is mandated to dispose of and finalize any received review application within a prescribed maximum period of working days from the date of receipt."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3134",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "applicant",
+          "decision",
+          "issuance",
+          "amendment",
+          "revocation",
+          "cancellation",
+          "advance ruling",
+          "written application",
+          "review",
+          "timeframe",
+          "date",
+          "notification",
+          "detailed justification"
+        ],
+        "Advance Ruling Unit": [
+          "Advance Ruling Unit",
+          "aggrieved party",
+          "formal written request",
+          "review",
+          "previous decisions",
+          "advance rulings",
+          "review application",
+          "prescribed maximum period",
+          "working days",
+          "date of receipt"
+        ]
+      },
+      "clause_clusters": [
+        20,
+        76,
+        103,
+        104,
+        125,
+        254,
+        351,
+        381,
+        403,
+        436,
+        756,
+        1454,
+        1491,
+        1757,
+        1893,
+        2748,
+        2815,
+        4705,
+        7123,
+        7287,
+        10869,
+        10895
+      ],
+      "source_file": "customs_sros_OCR/20250602_229-AIN_2025_51_Customs/20250602_229-AIN_2025_51_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

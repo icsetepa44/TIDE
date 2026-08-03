@@ -1,0 +1,216 @@
+{
+  "thread_id": "cluster_00291_t0",
+  "cluster_id": 291,
+  "cluster_label": "sub-section (1)",
+  "title": "Customs Duty Exemption and Regulatory Framework",
+  "source_num_member_objects": 15,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The legal basis for granting customs duty exemptions has evolved from Section 19(1) of the Customs Act 1969 to Section 25(1) of the Customs Act 2023.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate as it correctly reflects the transition in legal authority for fiscal relief from the 1969 Act to the 2023 Act.",
+      "clause_text_ids": [
+        "20230601_105-AIN_2023_149_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_125-AIN_2023_169_Customs_২১ মে, ২০২৩_clause_1",
+        "20231112_._._._৩১ অক্টোবর, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 219-AIN/2019, issued on June 29, 2019, granted a specific duty exemption for paper products under Heading 48.10, waiving import duties exceeding 25 percent ad valorem.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "25 percent",
+      "correct_fact": "15 percent",
+      "answer": "The statement is inaccurate. According to SRO 219-AIN/2019, the duty exemption for goods under Heading 48.10 applied to amounts exceeding 15 percent ad valorem, not 25 percent.",
+      "clause_text_ids": [
+        "20190629_219-AIN_2019_37_Customs_২৯ জুন, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under SRO 299-AIN/2023, dated November 12, 2023, the government set the specific Customs Duty rate for raw sugar (Heading 17.01) at BDT 2500 per metric ton.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "BDT 2500",
+      "correct_fact": "BDT 1500",
+      "answer": "The statement is inaccurate. SRO 299-AIN/2023 established the Customs Duty rate for raw sugar at BDT 1500 per metric ton, not BDT 2500.",
+      "clause_text_ids": [
+        "20230601_105-AIN_2023_149_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_125-AIN_2023_169_Customs_২১ মে, ২০২৩_clause_1",
+        "20231112_._._._৩১ অক্টোবর, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 223-AIN/2025, issued on June 2, 2025, provides a conditional exemption for newsprint paper under Heading 48.01, limiting the Customs Duty to any amount exceeding three percent ad valorem.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 223-AIN/2025 grants this conditional relief for newsprint paper imported by publishers, capping the duty at three percent ad valorem.",
+      "clause_text_ids": [
+        "20250602_190-AIN_2025_12_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_205-AIN_2025_27_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_223-AIN_2025_45_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_1",
+        "20250602_244-AIN_2025_66_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_247-AIN_2025_69_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The initial duty exemption framework under the Customs Act 1969 was established on June 5, 2015, through SRO 136-AIN/2014.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 5, 2015",
+      "correct_fact": "June 5, 2014",
+      "answer": "The statement is inaccurate. The framework was established on June 5, 2014, as stated in SRO 136-AIN/2014.",
+      "clause_text_ids": [
+        "20140605_136-AIN_2014_2500-Customs_০৫ জুন, ২০১৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 205-AIN/2025, implemented on June 2, 2025, grants customs duty relief for industrial inputs under the Customs Act 2023, for any amount exceeding one percent ad valorem.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 205-AIN/2025 provides this relief under the 2023 Act for amounts exceeding one percent ad valorem.",
+      "clause_text_ids": [
+        "20230601_105-AIN_2023_149_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_125-AIN_2023_169_Customs_২১ মে, ২০২৩_clause_1",
+        "20231112_._._._৩১ অক্টোবর, ২০২৩_clause_1",
+        "20250602_190-AIN_2025_12_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_205-AIN_2025_27_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_223-AIN_2025_45_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_1",
+        "20250602_244-AIN_2025_66_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_247-AIN_2025_69_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial manufacturer has been relying on customs duty exemptions for their inputs under the framework established in 2014. Following the legislative transition from the Customs Act 1969 to the Customs Act 2023, the manufacturer is uncertain about the legal basis for their continued duty relief and how the regulatory authority has shifted.",
+      "question": "How did the legal foundation for granting customs duty exemptions evolve for the manufacturer between the 2014 framework and the 2025 regulatory environment?",
+      "answer": "The legal basis shifted from Section 19(1) of the Customs Act 1969 to Section 25(1) of the Customs Act 2023.",
+      "clauses_involved": [
+        "2014-06-05 | SRO 136-AIN/2014",
+        "2025-06-02 | SRO 205-AIN/2025"
+      ],
+      "clause_text_ids": [
+        "20140605_136-AIN_2014_2500-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20230601_105-AIN_2023_149_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_125-AIN_2023_169_Customs_২১ মে, ২০২৩_clause_1",
+        "20231112_._._._৩১ অক্টোবর, ২০২৩_clause_1",
+        "20250602_190-AIN_2025_12_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_205-AIN_2025_27_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_223-AIN_2025_45_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_1",
+        "20250602_244-AIN_2025_66_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_247-AIN_2025_69_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2014-06-05",
+      "relative_offset": "five years later",
+      "question": "Five years after the initial establishment of the duty exemption framework in 2014, what specific regulatory action was taken regarding paper products under Heading 48.10?",
+      "answer": "On 2019-06-29, the government issued SRO 219-AIN/2019, which granted a specific duty exemption for goods classified under Heading 48.10 of the First Schedule.",
+      "clause_text_ids": [
+        "20140605_136-AIN_2014_2500-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20190629_219-AIN_2019_37_Customs_২৯ জুন, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "five months later",
+      "question": "Five months after the regulatory transition marked by the repeal of previous SROs in mid-2023, what specific measure was introduced regarding raw sugar?",
+      "answer": "On 2023-11-12, the government issued SRO 299-AIN/2023, which utilized the powers under section 19(1) of the Customs Act 1969 to directly set specific Customs Duty rates for raw sugar.",
+      "clause_text_ids": [
+        "20230601_105-AIN_2023_149_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_125-AIN_2023_169_Customs_২১ মে, ২০২৩_clause_1",
+        "20231112_._._._৩১ অক্টোবর, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "two years later",
+      "question": "Two years after the regulatory oversight transition of 2023, what new legal basis was implemented for duty relief?",
+      "answer": "On 2025-06-02, the government implemented new duty relief under SRO 205-AIN/2025, which shifted the legal authority from the Customs Act 1969 to Section 25(1) of the Customs Act 2023.",
+      "clause_text_ids": [
+        "20230601_105-AIN_2023_149_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_125-AIN_2023_169_Customs_২১ মে, ২০২৩_clause_1",
+        "20231112_._._._৩১ অক্টোবর, ২০২৩_clause_1",
+        "20250602_190-AIN_2025_12_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_205-AIN_2025_27_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_223-AIN_2025_45_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_1",
+        "20250602_244-AIN_2025_66_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_247-AIN_2025_69_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these regulatory events in chronological order based on the evolution of customs duty frameworks.",
+      "events_shuffled": [
+        "The government repeals multiple existing regulatory orders to transition oversight mechanisms.",
+        "A specific duty exemption is granted for paper products classified under Heading 48.10.",
+        "The government mandates a direct setting of specific customs duty rates for raw sugar.",
+        "A duty exemption framework is established under the Customs Act to provide fiscal relief on imported goods.",
+        "Existing exemption tables are modified through the substitution of specific H.S. Codes."
+      ],
+      "answer_ordered": [
+        {
+          "event": "A duty exemption framework is established under the Customs Act to provide fiscal relief on imported goods.",
+          "date": "2014-06-05"
+        },
+        {
+          "event": "Existing exemption tables are modified through the substitution of specific H.S. Codes.",
+          "date": "2016-07-01"
+        },
+        {
+          "event": "A specific duty exemption is granted for paper products classified under Heading 48.10.",
+          "date": "2019-06-29"
+        },
+        {
+          "event": "The government repeals multiple existing regulatory orders to transition oversight mechanisms.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The government mandates a direct setting of specific customs duty rates for raw sugar.",
+          "date": "2023-11-12"
+        }
+      ],
+      "clause_text_ids": [
+        "20140605_136-AIN_2014_2500-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20160701_216-AIN_2016_43-Customs_০১ জুলাই, ২০১৬_clause_1",
+        "20190629_219-AIN_2019_37_Customs_২৯ জুন, ২০১৯_clause_1",
+        "20230601_105-AIN_2023_149_Customs_২১ মে, ২০২৩_clause_1",
+        "20231112_._._._৩১ অক্টোবর, ২০২৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_136-AIN_2014_2500-Customs/20140605_136-AIN_2014_2500-Customs_output.json",
+        "customs_sros_OCR/20160701_216-AIN_2016_43-Customs/20160701_216-AIN_2016_43-Customs_output.json",
+        "customs_sros_OCR/20190629_219-AIN_2019_37_Customs/20190629_219-AIN_2019_37_Customs_output.json",
+        "customs_sros_OCR/20230601_105-AIN_2023_149_Customs/20230601_105-AIN_2023_149_Customs_output.json",
+        "customs_sros_OCR/20231112_._._./20231112_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00291_t0__customs-duty-exemption-and-regulatory-framework.json"
+    }
+  ]
+}

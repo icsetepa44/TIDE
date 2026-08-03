@@ -1,0 +1,525 @@
+{
+  "cluster_id": 47,
+  "cluster_label": "baggage",
+  "thread_index": 0,
+  "thread_id": "cluster_00047_t0",
+  "title": "Baggage Definition and Weight Thresholds",
+  "summary": "The definition of baggage has evolved from a general description of personal effects to include specific technical constraints. Notably, a weight limit per individual item was introduced in 2016 and refined in subsequent years to ensure clarity in customs assessment.",
+  "evolution": {
+    "definition_scope": "Expanded from qualitative (reasonable quantity) to quantitative (15kg per item limit)."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Baggage Rules 2010",
+      "change": "Initial definition established.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2"
+      ]
+    },
+    {
+      "date": "2016-06-02",
+      "instrument": "Baggage Rules 2016",
+      "change": "Introduced a 15kg weight limit per individual item.",
+      "clause_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "instrument": "Baggage Rules 2023",
+      "change": "Reaffirmed the 15kg per item threshold.",
+      "clause_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Baggage Rules 2024",
+      "change": "Maintained the 15kg per item threshold in the new legal framework.",
+      "clause_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 9,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(ক) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী অথবা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(খ) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী;\n(গ) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল।",
+      "entity_concepts": {
+        "Baggage": [
+          "Baggage is defined as a reasonable quantity of food items, apparel, household goods, or other personal effects imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as any person arriving from abroad."
+        ],
+        "Schedule": [
+          "A schedule is defined as any schedule attached to these rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1276",
+      "entity_sub_entities": {
+        "Baggage": [
+          "food items",
+          "apparel",
+          "household goods",
+          "personal effects"
+        ],
+        "Passenger": [
+          "person"
+        ],
+        "Schedule": [
+          "schedule"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        70,
+        136,
+        257,
+        283,
+        465,
+        521,
+        1325
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(ক) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী অথবা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(খ) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী;\n(গ) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল।",
+      "entity_concepts": {
+        "Baggage": [
+          "Baggage is defined as reasonable quantities of food, clothing, household, or other personal items imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as any person arriving from abroad."
+        ],
+        "Schedule": [
+          "The term schedule refers to any schedule attached to these rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1317",
+      "entity_sub_entities": {
+        "Baggage": [
+          "food",
+          "clothing",
+          "household items",
+          "personal items"
+        ],
+        "Passenger": [
+          "person"
+        ],
+        "Schedule": [
+          "schedule"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        70,
+        136,
+        257,
+        427,
+        482,
+        525,
+        1204
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(১) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল;\n(২) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(৩) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term Schedule refers to any schedule contained within these rules."
+        ],
+        "Baggage": [
+          "Baggage is defined as a reasonable quantity of food items, clothing, household goods, or other personal effects imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as an individual arriving from abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1377",
+      "entity_sub_entities": {
+        "Schedule": [
+          "schedule"
+        ],
+        "Baggage": [
+          "food items",
+          "clothing",
+          "household goods",
+          "personal effects"
+        ],
+        "Passenger": [
+          "individual"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        136,
+        257,
+        283,
+        465,
+        482,
+        521,
+        710
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(১) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল;\n(২) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(৩) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term Schedule is defined as any schedule appended to these rules."
+        ],
+        "Baggage": [
+          "Baggage is defined as a reasonable quantity of food items, apparel, household goods, or other personal effects imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as any individual arriving from abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_991",
+      "entity_sub_entities": {
+        "Schedule": [
+          "schedule"
+        ],
+        "Baggage": [
+          "food items",
+          "apparel",
+          "household goods",
+          "personal effects"
+        ],
+        "Passenger": [
+          "individual"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        136,
+        257,
+        283,
+        465,
+        521,
+        710,
+        1325
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(১) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল;\n(২) “e¨v‡MRÓ A_© †Kvb hvÎx KZ…©K Avg`vwbK…Z hyw³msMZ cwigv‡Yi Lv`¨`ªe¨, cwi‡aq, M„n¯’vwj ev Ab¨wea e¨w³MZ mvgMÖx, hvi cÖwZwU AvB‡U‡gi IRb ১৫ †KwRi AwaK bq; \n(৩) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term Schedule is defined as any schedule appended to these rules."
+        ],
+        "Baggage": [
+          "Baggage is defined as reasonable quantities of food items, apparel, household goods, or other personal effects imported by a passenger, provided that no individual item exceeds the specified weight limit."
+        ],
+        "Passenger": [
+          "A passenger is defined as any person arriving from abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1639",
+      "entity_sub_entities": {
+        "Schedule": [
+          "schedule"
+        ],
+        "Baggage": [
+          "food items",
+          "apparel",
+          "household goods",
+          "personal effects"
+        ],
+        "Passenger": [
+          "person"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        70,
+        136,
+        257,
+        283,
+        465,
+        521,
+        1325
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায় -\n(১) ‘‘তফসিল’’ অর্থ এই বিধিমালার কোনো তফসিল;\n(২) ‘‘ব্যাগেজ’’ অর্থ কোনো যাত্রী কর্তৃক আমদানিকৃত যুক্তিসঙ্গত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী, যার প্রতিটি আইটেমের ওজন ১৫ কেজির অধিক নহে; এবং\n(৩) ‘‘যাত্রী’’ অর্থ বিদেশ হইতে আগত কোনো যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term is defined as any schedule specifically contained within these rules."
+        ],
+        "Baggage": [
+          "Baggage refers to food items, clothing, household goods, or other personal effects imported by a passenger in reasonable quantities. Each individual item of baggage must not exceed a specified weight threshold."
+        ],
+        "Passenger": [
+          "A passenger is defined as any individual arriving from abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2511",
+      "entity_sub_entities": {
+        "Schedule": [
+          "schedule"
+        ],
+        "Baggage": [
+          "food items",
+          "clothing",
+          "household goods",
+          "personal effects",
+          "individual item of baggage"
+        ],
+        "Passenger": [
+          "individual"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        136,
+        257,
+        283,
+        465,
+        482,
+        521,
+        710,
+        9001
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।– (১) বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায়, -\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “আন-অ্যাকম্পানিড ব্যাগেজ (unaccompanied baggage)” অর্থ যাত্রীর সঙ্গে আনীত হয় নাই এইরূপ ব্যাগেজ;\n(গ) ‘‘তফসিল’’ অর্থ এই বিধিমালার তফসিল;\n(ঘ) ‘‘ব্যাগেজ’’ অর্থ যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী, যাহার প্রতিটি আইটেমের ওজন ১৫ (পনেরো) কেজির অধিক নহে;\n(ঙ) ‘‘যাত্রী’’ অর্থ বিদেশ হইতে আগত কোনো অপর্যটক যাত্রী (Non-Tourist); এবং\n(চ) “স্বর্ণালংকার” অর্থ ২২ (বাইশ) বা তদূর্ধ্ব ক্যারেটের স্বর্ণ দ্বারা নির্মিত নকশা খচিত ও পরিধানযোগ্য অলংকার।\n(২) এই বিধিমালায় ব্যবহৃত যে সকল শব্দ বা অভিব্যক্তির সংজ্ঞা প্রদান করা হয় নাই, সেই সকল শব্দ বা অভিব্যক্তি আইনে যে অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "The term Act is defined as the Customs Act 2023 for the purpose of these rules.",
+          "Terms and expressions not defined in these rules shall carry the same meaning as attributed to them under this Act."
+        ],
+        "Unaccompanied Baggage": [
+          "Unaccompanied baggage is defined as any baggage that is not brought by the passenger themselves."
+        ],
+        "Baggage": [
+          "Baggage refers to food items, clothing, household items, or other personal effects imported by a passenger in reasonable quantities, provided that no single item exceeds a specified weight limit."
+        ],
+        "Passenger": [
+          "A passenger is defined as any non-tourist individual arriving from abroad."
+        ],
+        "Gold Jewelry": [
+          "Gold jewelry is defined as wearable and ornamental items crafted from gold of a specific karat purity or higher."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2709",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Customs Act 2023"
+        ],
+        "Unaccompanied Baggage": [
+          "baggage"
+        ],
+        "Baggage": [
+          "food items",
+          "clothing",
+          "household items",
+          "personal effects"
+        ],
+        "Passenger": [
+          "non-tourist individual"
+        ],
+        "Gold Jewelry": [
+          "wearable items",
+          "ornamental items",
+          "gold"
+        ]
+      },
+      "clause_clusters": [
+        19,
+        47,
+        217,
+        257,
+        368,
+        427,
+        465,
+        482,
+        521,
+        1059,
+        10115,
+        10424,
+        13363
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সাংজ্ঞা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। সাংজ্ঞা।– (১) ববষয় বা প্রসদঙ্গর পবরপবি বকাদনা বকছু না র্াবকদল, এই বববধমালায়, -\n(ক) “আইন” অর্থকাস্টমস আইন, ২০২৩ (২০২৩ সদনর ৫৭ নাং আইন);\n(খ) “আন-অযাদকাম্পাবনর্ ব্যাদগজ (unaccompanied baggage)” অর্থযাত্রীর সঙ্গে আনীত হয় নাই এইরূপ ব্যাঙ্গেয;\n(গ) ‘‘তফবসল’’ অর্থএই বববধমালার ম াঙ্গনা তফবসল;\n(ঘ) ‘‘ব্যাদগজ’’ অর্থম াঙ্গনা যাত্রী কর্তকথ আমোবনকৃত যুবিসাংগত পবরমাদণর খাদ্যদ্রব্য, পবরদধয়, গৃহস্থাবল বা অন্যববধ ব্যবিগত সামগ্রী, যাহার প্রবতটি আইদটদমর ওজন ১৫ (পদনদরা) বকবজর অবধক নদহ;\n(ঙ) ‘‘যাত্রী’’ অর্থ ববদেশ হইদত আগত বকাদনা অপযটথক যাত্রী (Non Tourist); এবং\n(চ) “স্বর্াথলং ার” অর্থ২২ (বাইশ) বা তদ ননম্ন ৈাঙ্গরঙ্গের স্বর্ থদ্বারা নননেতথ ন শা খনিত ও পনরধানঙ্গযাগ্য অলং ার।\n(২) এই নবনধোলায় ব্যবহৃত ময স ল শব্দ বা অনিব্যনির সংজ্ঞা প্রদান রা হয় নাই, মসই স ল শব্দ বা অনিব্যনি আইঙ্গন ময অঙ্গর্থব্যবহৃত হইয়াঙ্গে মসই অঙ্গর্থপ্রঙ্গযাযৈ হইঙ্গব।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This act serves as the foundational legislation for these baggage rules and is referred to as the 'Act' throughout the document."
+        ],
+        "Unaccompanied Baggage": [
+          "Unaccompanied baggage refers to any baggage that is not brought by the passenger themselves."
+        ],
+        "Baggage": [
+          "Baggage is defined as reasonable quantities of food, apparel, household items, or other personal effects imported by a passenger for personal use. Each individual item categorized as baggage must not exceed a specific weight threshold."
+        ],
+        "Passenger": [
+          "The term passenger refers specifically to any non-tourist arriving from abroad."
+        ],
+        "Gold Ornament": [
+          "Gold ornaments are defined as wearable jewelry made of gold that is twenty-two karat or less in purity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1056",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Act"
+        ],
+        "Unaccompanied Baggage": [
+          "baggage"
+        ],
+        "Baggage": [
+          "food",
+          "apparel",
+          "household items",
+          "personal effects"
+        ],
+        "Passenger": [
+          "non-tourist"
+        ],
+        "Gold Ornament": [
+          "wearable jewelry",
+          "gold"
+        ]
+      },
+      "clause_clusters": [
+        19,
+        47,
+        144,
+        217,
+        257,
+        368,
+        427,
+        465,
+        1204,
+        1325,
+        4412,
+        8432,
+        13364
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_2",
+      "resolved_text": "২। সংজ্ঞা।—(১) বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায়,—\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “আন-অ্যাকোম্পানিড ব্যাগেজ (unaccompanied baggage)” অর্থ যাত্রীর সঙ্গে আনীত হয় নাই এইরূপ ব্যাগেজ;\n(গ) “তফসিল” অর্থ এই বিধিমালার কোনো তফসিল;\n(ঘ) “ব্যাগেজ” অর্থ কোনো যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালি বা অন্যবিধ ব্যক্তিগত সামগ্রী, যাহার প্রতিটি আইটেমের ওজন ১৫ (পনেরো) কেজির অধিক নহে;\n(ঙ) “যাত্রী” অর্থ বিদেশ হইতে আগত কোনো অপর্যটক যাত্রী (Non-Tourist); এবং\n(চ) “স্বর্ণালঙ্কার” অর্থ ২২ (বাইশ) বা তন্নিম্ন ক্যারেটের স্বর্ণ দ্বারা নির্মিত নকশা খচিত ও পরিধানযোগ্য অলঙ্কার।\n(২) এই বিধিমালায় ব্যবহৃত যে সকল শব্দ বা অভিব্যক্তির সংজ্ঞা প্রদান করা হয় নাই, সেই সকল শব্দ বা অভিব্যক্তি আইনে যে অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "The term Act refers to the Customs Act, 2023, which serves as the primary legislation governing these rules."
+        ],
+        "Unaccompanied Baggage": [
+          "This term is defined as baggage that is not brought by the passenger themselves."
+        ],
+        "Baggage": [
+          "Baggage refers to reasonable quantities of food, clothing, household items, or other personal effects imported by a passenger, provided that no single item exceeds a specified weight limit."
+        ],
+        "Passenger": [
+          "The term passenger is defined specifically as a non-tourist arriving from abroad."
+        ],
+        "Gold Jewelry": [
+          "Gold jewelry is defined as wearable, designed ornaments made of gold with a purity of twenty-two carats or less."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3191",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Customs Act, 2023"
+        ],
+        "Unaccompanied Baggage": [
+          "baggage"
+        ],
+        "Baggage": [
+          "food",
+          "clothing",
+          "household items",
+          "personal effects"
+        ],
+        "Passenger": [
+          "non-tourist"
+        ],
+        "Gold Jewelry": [
+          "wearable ornaments",
+          "designed ornaments",
+          "gold"
+        ]
+      },
+      "clause_clusters": [
+        19,
+        47,
+        217,
+        257,
+        368,
+        427,
+        465,
+        482,
+        1059,
+        1204,
+        1975,
+        4412,
+        7276,
+        13365
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

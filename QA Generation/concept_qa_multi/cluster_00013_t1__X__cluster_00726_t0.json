@@ -1,0 +1,32 @@
+{
+  "group_id": "cluster_00013_t1__X__cluster_00726_t0",
+  "entities": [
+    "taxes",
+    "show-cause notices"
+  ],
+  "cluster_ids": [
+    13,
+    726
+  ],
+  "thread_ids": [
+    "cluster_00013_t1",
+    "cluster_00726_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the legal framework under the Customs Act, 1969, facilitate the interaction between the recovery of taxes and the issuance of show-cause notices?",
+      "answer": "Under the Customs Act, 1969, the procedural framework for handling tax matters involves specific documentation: Section 83A, read with Section 83B(2), governs the issuance of show-cause notices [0], while the subsequent process for formal tax recovery (dabinama) is also standardized under the same sections [1].",
+      "entities_involved": [
+        "taxes",
+        "show-cause notices"
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_83"
+      ]
+    }
+  ]
+}

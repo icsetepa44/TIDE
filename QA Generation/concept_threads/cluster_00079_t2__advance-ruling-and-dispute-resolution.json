@@ -1,0 +1,641 @@
+{
+  "cluster_id": 79,
+  "cluster_label": "importers",
+  "thread_index": 2,
+  "thread_id": "cluster_00079_t2",
+  "title": "Advance Ruling and Dispute Resolution",
+  "summary": "The legal framework for importers to seek advance rulings on classification and resolve disputes through Alternative Dispute Resolution (ADR) has been codified and expanded to include electronic submission and reference-based usage.",
+  "evolution": {
+    "legal_basis": "Codification of ADR and Advance Ruling processes within the Customs Act framework.",
+    "accessibility": "Expanded from individual applicant rights to a reference-based system for all importers."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "Advance Ruling Rules",
+      "change": "Established the right for importers to seek advance rulings on classification.",
+      "clause_ids": [
+        "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_3",
+        "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_6"
+      ]
+    },
+    {
+      "date": "2016-06-05",
+      "instrument": "Advance Ruling Rules",
+      "change": "Allowed other importers to use existing rulings as references.",
+      "clause_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Advance Ruling Rules",
+      "change": "Re-affirmed and updated the scope of advance ruling eligibility.",
+      "clause_ids": [
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_11",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_6"
+      ]
+    }
+  ],
+  "num_member_objects": 10,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "অগ্রিম রুলিং",
+      "text_id": "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_3",
+      "resolved_text": "৩। অগ্রিম রুলিং।— কোন ব্যক্তি, এই বিধিমালার অন্যান্য বিধানাবলি সাপেক্ষে, কোন পণ্য আমদানি বা রপ্তানির পূর্বে উহার শ্রেণিবিন্যাস সম্পর্কে বোর্ডের অগ্রিম রুলিং গ্রহণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "Any person may obtain an advance ruling from the National Board of Revenue regarding the classification of goods before importing or exporting them, subject to the other provisions of these rules."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority empowered to issue advance rulings concerning the classification of goods for importers and exporters."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1682",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "advance ruling",
+          "classification of goods"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "advance rulings",
+          "classification of goods",
+          "importers",
+          "exporters"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        79,
+        103,
+        157,
+        254,
+        450
+      ],
+      "source_file": "customs_sros_OCR/20160602_188-AIN_2016_37-Customs/20160602_188-AIN_2016_37-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "আবেদনকারীর যোগ্যতা",
+      "text_id": "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_6",
+      "resolved_text": "৬। আবেদনকারীর যোগ্যতা।— অগ্রিম রুলিং প্রাপ্তির লক্ষ্যে বাংলাদেশে প্রতিষ্ঠিত নিম্নবর্ণিত কোন ব্যক্তি আবেদন করিতে পারিবেন, যথা:-\n(ক) আমদানিকারক, রপ্তানিকারক বা তৎকর্তৃক মনোনীত কোন ব্যক্তি;\n(খ) আবেদনে উল্লিখিত বিষয়ে সংশ্লিষ্টতা রহিয়াছে এমন কোন ব্যক্তি বা তৎকর্তৃক মনোনীত কোন ব্যক্তি।\nব্যাখ্যা: এই বিধির উদ্দেশ্য পূরণকল্পে, \"বাংলাদেশে প্রতিষ্ঠিত\" অর্থ বাংলাদেশের কোন স্থায়ী অধিবাসী এবং বাংলাদেশে অবস্থানের অনুমতিপ্রাপ্ত বা আইনগতভাবে ক্ষমতাপ্রাপ্ত ও নিবন্ধিত প্রতিষ্ঠান বা ব্যক্তিসংঘ।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "This clause identifies the categories of persons eligible to apply for an advance ruling within Bangladesh.",
+          "The eligibility criteria specifically extend to importers, exporters, and any related persons or their authorized nominees."
+        ],
+        "Importer": [
+          "An importer or their authorized nominee is formally recognized as an eligible applicant for an advance ruling under these provisions."
+        ],
+        "Exporter": [
+          "An exporter or their authorized nominee is formally recognized as an eligible applicant for an advance ruling under these provisions."
+        ],
+        "Established in Bangladesh": [
+          "For the purpose of these rules, being established in Bangladesh is defined as being a permanent resident of the country or a legally registered entity, organization, or association of persons authorized to reside or operate within Bangladesh."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1685",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "importers",
+          "exporters",
+          "related persons",
+          "authorized nominees"
+        ],
+        "Importer": [
+          "importer",
+          "authorized nominee"
+        ],
+        "Exporter": [
+          "exporter",
+          "authorized nominee"
+        ],
+        "Established in Bangladesh": [
+          "permanent resident",
+          "legally registered entity",
+          "organization",
+          "association of persons"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        77,
+        79,
+        103,
+        157,
+        716,
+        2401,
+        2481,
+        2700,
+        3478,
+        5819,
+        9447,
+        11390
+      ],
+      "source_file": "customs_sros_OCR/20160602_188-AIN_2016_37-Customs/20160602_188-AIN_2016_37-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "অগ্রিম রুলিং প্রতিপালনের বাধ্যবাধকতা",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11",
+      "resolved_text": "১১। অগ্রিম রুলিং প্রতিপালনের বাধ্যবাধকতা।— (১) অগ্রিম রুলিং প্রতিপালন করা নিম্নবর্ণিত ব্যক্তি বা দপ্তরের জন্য আবশ্যকীয় হিসাবে গণ্য হইবে, যথা:-\n(ক) রুলিংধারী; এবং\n(খ) সকল কাস্টমস স্টেশন।\n(২) উপ-বিধি (১) এ উল্লিখিত রুলিং অভিন্ন পণ্যের শুল্কায়নের ক্ষেত্রে অন্য কোন আমদানিকারক, রপ্তানিকারক বা ব্যক্তি রেফারেন্স হিসাবে ব্যবহার করিতে পারিবেন।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "The holder of an advance ruling and all customs stations are mandatorily required to comply with the issued ruling. The ruling serves as a binding instruction for these parties regarding the specific customs matters it addresses."
+        ],
+        "Customs Station": [
+          "Every customs station is obligated to follow and uphold the requirements specified in an advance ruling."
+        ],
+        "Importer and Exporter": [
+          "Other importers, exporters, or relevant persons may use an existing advance ruling as a reference when clearing identical goods through customs."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1012",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "advance ruling",
+          "customs stations",
+          "customs matters"
+        ],
+        "Customs Station": [
+          "customs station",
+          "advance ruling"
+        ],
+        "Importer and Exporter": [
+          "importers",
+          "exporters",
+          "relevant persons",
+          "advance ruling",
+          "identical goods"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        79,
+        103,
+        118,
+        157,
+        169,
+        709,
+        2092,
+        11416
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "অগ্রিম রুলিং",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3",
+      "resolved_text": "৩। অগ্রিম রুলিং।— কোন ব্যক্তি, এই বিধিমালার অন্যান্য বিধানাবলি সাপেক্ষে, কোন পণ্য আমদানি বা রপ্তানির পূর্বে উহার শ্রেণীবিন্যাস সম্পর্কে বোর্ডের অগ্রিম রুলিং গ্রহণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "An applicant may request an advance ruling from the National Board of Revenue regarding the classification of goods prior to their import or export. This process is subject to all other provisions stipulated within these rules."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for issuing advance rulings on the classification of goods for importers and exporters."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1004",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "applicant",
+          "National Board of Revenue",
+          "classification of goods"
+        ],
+        "National Board of Revenue": [
+          "classification of goods",
+          "importers",
+          "exporters"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        79,
+        103,
+        104,
+        157,
+        450
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_19",
+      "clause_title": "Rule 16 - Dispute Settlement",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_19",
+      "resolved_text": "Rule 16\nDispute Settlement\n1. Any dispute that may arise among the Contracting Members regarding the implementation or interpretation of the provisions of the D-8 Rules of Origin shall be dealt in accordance with Article 26 of the D-8 PTA.\n\n2. In all cases, the settlement of disputes between the importer and the customs authorities of the importing country shall be under the legislation of the said country.",
+      "entity_concepts": {
+        "Rules of Origin": [
+          "Disputes concerning the implementation or interpretation of these rules among Contracting Members are governed by the established dispute resolution mechanism of the Preferential Trade Agreement Among D-8 Member States."
+        ],
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "Article 26 of this agreement serves as the governing framework for resolving disputes arising from the application of the D-8 Rules of Origin."
+        ],
+        "Importer": [
+          "Disputes between an importer and customs authorities are subject to the domestic legislation of the importing country."
+        ],
+        "Customs": [
+          "Customs authorities follow the domestic laws of their respective importing country when settling disputes with importers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2408",
+      "entity_sub_entities": {
+        "Rules of Origin": [
+          "Preferential Trade Agreement Among D-8 Member States",
+          "dispute resolution mechanism"
+        ],
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "Article 26",
+          "D-8 Rules of Origin"
+        ],
+        "Importer": [
+          "importer",
+          "customs authorities",
+          "domestic legislation",
+          "importing country"
+        ],
+        "Customs": [
+          "Customs authorities",
+          "domestic laws",
+          "importing country",
+          "importers"
+        ]
+      },
+      "clause_clusters": [
+        21,
+        39,
+        45,
+        79,
+        306,
+        498,
+        1039,
+        2093,
+        2667,
+        5644,
+        7411,
+        7454
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "অগ্রিম রুলিং প্রতিপালনের বাধ্যবাধকতা",
+      "text_id": "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_11",
+      "resolved_text": "১১। অগ্রিম রুলিং প্রতিপালনের বাধ্যবাধকতা।— (১) অগ্রিম রুলিং প্রতিপালন করা নিম্নবর্ণিত ব্যক্তি বা দপ্তরের জন্য আবশ্যকীয় হিসাবে গণ্য হইবে, যথা:-\n(ক) রুলিংধারী; এবং\n(খ) সকল কাস্টমস স্টেশন।\n(২) উপ-বিধি (১) এ উল্লিখিত রুলিং অভিন্ন পণ্যের শুল্কায়নের ক্ষেত্রে অন্য কোন আমদানিকারক, রপ্তানিকারক বা ব্যক্তি রেফারেন্স হিসাবে ব্যবহার করিতে পারিবেন।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "The compliance with an advance ruling is mandatory for the person who obtained the ruling and for all customs stations.",
+          "An advance ruling may be utilized as a reference by other importers, exporters, or persons for the purpose of assessing the duties and taxes on identical goods."
+        ],
+        "Customs Station": [
+          "All customs stations are legally obligated to comply with the directives stipulated in an issued advance ruling."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3131",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "advance ruling",
+          "person",
+          "customs stations",
+          "importers",
+          "exporters",
+          "duties",
+          "taxes",
+          "identical goods"
+        ],
+        "Customs Station": [
+          "customs stations",
+          "advance ruling"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        25,
+        30,
+        70,
+        79,
+        103,
+        118,
+        157,
+        709
+      ],
+      "source_file": "customs_sros_OCR/20250602_229-AIN_2025_51_Customs/20250602_229-AIN_2025_51_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "আবেদনকারীর যোগ্যতা",
+      "text_id": "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_6",
+      "resolved_text": "৬। আবেদনকারীর যোগ্যতা।— অগ্রিম রুলিং প্রাপ্তির লক্ষ্যে বাংলাদেশে প্রতিষ্ঠিত নিম্নবর্ণিত কোন ব্যক্তি আবেদন করিতে পারিবেন, যথা:-\n(ক) আমদানিকারক, রপ্তানিকারক বা তৎকর্তৃক মনোনীত কোন ব্যক্তি;\n(খ) আবেদনে উল্লিখিত বিষয়ে সংশ্লিষ্টতা রহিয়াছে এমন কোন ব্যক্তি বা তৎকর্তৃক মনোনীত কোন ব্যক্তি।\n\nব্যাখ্যা: এই বিধির উদ্দেশ্য পূরণকল্পে, “বাংলাদেশে প্রতিষ্ঠিত” অর্থ বাংলাদেশের কোন স্থায়ী অধিবাসী এবং বাংলাদেশে অবস্থানের অনুমতিপ্রাপ্ত বা আইনগতভাবে ক্ষমতাপ্রাপ্ত ও নিবন্ধিত প্রতিষ্ঠান বা ব্যক্তিসংঘ।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "This clause establishes the eligibility criteria for applicants seeking to obtain an advance ruling in Bangladesh."
+        ],
+        "Importer": [
+          "Importers or their nominated representatives are eligible to apply for an advance ruling."
+        ],
+        "Exporter": [
+          "Exporters or their nominated representatives are eligible to apply for an advance ruling."
+        ],
+        "Applicant": [
+          "Any person or their nominee who has a relevant interest in the subject matter of the application is eligible to apply for an advance ruling."
+        ],
+        "Established in Bangladesh": [
+          "This term is defined for the purposes of these rules as a permanent resident of Bangladesh or any entity or association of persons that is legally registered, permitted, or authorized to operate within Bangladesh."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3126",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "advance ruling"
+        ],
+        "Importer": [
+          "Importers",
+          "nominated representatives"
+        ],
+        "Exporter": [
+          "Exporters",
+          "nominated representatives"
+        ],
+        "Applicant": [
+          "person",
+          "nominee"
+        ],
+        "Established in Bangladesh": [
+          "permanent resident of Bangladesh",
+          "entity",
+          "association of persons"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        70,
+        77,
+        79,
+        103,
+        104,
+        157,
+        337,
+        2401,
+        2481,
+        2700,
+        4405,
+        10082
+      ],
+      "source_file": "customs_sros_OCR/20250602_229-AIN_2025_51_Customs/20250602_229-AIN_2025_51_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_276",
+      "clause_title": "বিকল্প বিরোধ নিষ্পত্তি",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_276",
+      "resolved_text": "১৯২ক। weKí weiva wb®úwË।— এই আইনের অন্য কোন বিধান যাহা কিছুই থাকুক না কেন, ১৯২গ ধারায় সংজ্ঞায়িত এবং বর্ণিত কোন weivai b¨vqwbY©qb অথবা নিষ্পত্তি সংশ্লিষ্ট কাস্টমস কর্তৃপক্ষ অথবা কাস্টমস এবং মূল্য সংযোজন কর আপীলাত কর্তৃপক্ষের নিকট নিষ্পন্নাধীন অথবা অনিষ্পন্নাধীন থাকা অবস্থায় উক্ত weivai সাথে সংশ্লিষ্ট কোন আমদানিকারক অথবা রপ্তানিকারক অথবা wcÖ-wkcgU BÝcKkb GRÝx weivawU wef-ewY©Z avivmg~n এবং Z`axb cÖYxZ wewagvjvq নির্ধারিত পদ্ধতিতে weKí weiva wb®úwË প্রক্রিয়ায় নিষ্পত্তির জন্য সংশ্লিষ্ট কর্তৃপক্ষের নিকট আবেদন করিতে পারিবেন এবং এই আইনের b¨vqwbY©qb অথবা আপীল বিষয়ক বিধানের অধীন কার্যধারা সম্পন্ন হওয়ার পূর্বে weKí weiva wb®úwË প্রক্রিয়ার আশ্রয় গ্রহণ করিতে হইবে।",
+      "entity_concepts": {
+        "Alternative Dispute Resolution": [
+          "This clause establishes the Alternative Dispute Resolution mechanism as a process for resolving customs-related disputes.",
+          "Importers, exporters, or Pre-shipment Inspection Agencies may apply for this process to resolve disputes pending before customs authorities or customs and VAT appellate authorities.",
+          "Applicants must initiate the Alternative Dispute Resolution process before the conclusion of adjudication or appellate proceedings under the Customs Act 1969."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the foundational legal framework under which Alternative Dispute Resolution may be invoked, notwithstanding any other provisions contained within the Act."
+        ],
+        "Customs Authority": [
+          "These authorities are responsible for managing disputes and receiving applications for the Alternative Dispute Resolution process."
+        ],
+        "Customs and Value Added Tax Appellate Authority": [
+          "This body is recognized as a competent authority before which disputes may be pending and to which an application for Alternative Dispute Resolution can be submitted."
+        ],
+        "Importer": [
+          "Importers are granted the right to apply for Alternative Dispute Resolution to resolve specific disputes relating to their customs transactions."
+        ],
+        "Exporter": [
+          "Exporters are granted the right to apply for Alternative Dispute Resolution to resolve specific disputes relating to their customs transactions."
+        ],
+        "Pre-shipment Inspection Agency": [
+          "Pre-shipment Inspection Agencies are permitted to participate in the Alternative Dispute Resolution process to resolve customs-related disputes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_280",
+      "entity_sub_entities": {
+        "Alternative Dispute Resolution": [
+          "Alternative Dispute Resolution mechanism",
+          "customs-related disputes"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969"
+        ],
+        "Customs Authority": [
+          "customs authorities"
+        ],
+        "Customs and Value Added Tax Appellate Authority": [
+          "customs and VAT appellate authorities"
+        ],
+        "Importer": [
+          "Importers"
+        ],
+        "Exporter": [
+          "Exporters"
+        ],
+        "Pre-shipment Inspection Agency": [
+          "Pre-shipment Inspection Agencies"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        23,
+        39,
+        45,
+        77,
+        79,
+        157,
+        304,
+        332,
+        740,
+        1090,
+        3706,
+        3781,
+        6826
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_224",
+      "clause_title": "Application for ADR",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_224",
+      "resolved_text": "192 E. Application for ADR.- For seeking Alternative Resolution of a dispute, referred to in section 192C, the concerned importer, or exporter [or Pre-shipment Inspection Agency], as the case may be, shall apply to the following authorities:\n(a) for a dispute which was created and not already been adjudicated or settled before the commencement of the ADR System, the application is to be submitted in such form and manner as may be prescribed in the rules, to the concerned Customs Commissioner or Adjudicating officer or Appellate authorities, as the case may be;\n(b) for a dispute which arises after the commencement of the ADR System, the application is to be made before seeking or trying for settlement of the said dispute under sections 179, 193 or 196 as the case may be, of this Act, to the concerned customs commissioner or Adjudicating officer, as the case may be, in the manner prescribed in the rules, within ten working days from the date of issue of the concerned show cause notice or assessment order, or demand notice, as the case may be.\n(c) for an application on a matter suitable for ADR which is pending before the Supreme Court of Bangladesh, the concerned petitioner, if he so desires, may apply to the concerned Customs Commissioner for Alternative Resolution, after obtaining permission from the said court, and upon granting of such permission by the court the matter shall remain in abeyance for the duration of the ADR process:\nProvided that, if the court disposes any such Writ Petition with directions to any of the above authorities to settle the matter through ADR, therefore the authority shall settle the case accordingly, if not otherwise barred by law.",
+      "entity_concepts": {
+        "Alternative Dispute Resolution": [
+          "This clause provides the framework for applying for Alternative Dispute Resolution regarding customs disputes. It establishes specific requirements for parties to seek resolution before, during, or in relation to pending legal proceedings."
+        ],
+        "Importer": [
+          "Importers are authorized to apply for Alternative Dispute Resolution to settle disputes under the procedures outlined in this section."
+        ],
+        "Exporter": [
+          "Exporters are authorized to apply for Alternative Dispute Resolution to settle disputes under the procedures outlined in this section."
+        ],
+        "Pre-shipment Inspection Agency": [
+          "Pre-shipment Inspection Agencies are authorized to apply for Alternative Dispute Resolution to settle disputes under the procedures outlined in this section."
+        ],
+        "Customs Act 1969": [
+          "This section establishes the procedural rules for Alternative Dispute Resolution and references specific sections of the Act governing dispute adjudication and settlement."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is one of the designated authorities to whom an application for Alternative Dispute Resolution must be submitted."
+        ],
+        "Show Cause Notice": [
+          "For disputes arising after the commencement of the Alternative Dispute Resolution system, an application must be filed within a specified timeframe following the issuance of a show cause notice, assessment order, or demand notice."
+        ],
+        "Rules": [
+          "The application for Alternative Dispute Resolution must be submitted in the form and manner prescribed by the rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_551",
+      "entity_sub_entities": {
+        "Alternative Dispute Resolution": [
+          "Alternative Dispute Resolution",
+          "legal proceedings"
+        ],
+        "Importer": [
+          "Importers"
+        ],
+        "Exporter": [
+          "Exporters"
+        ],
+        "Pre-shipment Inspection Agency": [
+          "Pre-shipment Inspection Agencies"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "dispute adjudication",
+          "settlement"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "application"
+        ],
+        "Show Cause Notice": [
+          "show cause notice",
+          "assessment order",
+          "demand notice"
+        ],
+        "Rules": [
+          "rules"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        7,
+        29,
+        39,
+        58,
+        77,
+        79,
+        157,
+        304,
+        332,
+        344,
+        553,
+        600,
+        1090,
+        5671,
+        7408,
+        12149
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_225",
+      "clause_title": "Processing and Disposal of Applications for ADR",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_225",
+      "resolved_text": "192 F. Processing and Disposal of Applications for ADR.- Applications received from the aggrieved or disputant importer or exporter [or Pre-shipment Inspection Agency] for ADR within this chapter, is to be processed and disposed of, according to the rules.",
+      "entity_concepts": {
+        "Alternative Dispute Resolution": [
+          "The application and disposal process for Alternative Dispute Resolution is governed by the established rules.",
+          "Aggrieved parties, including importers, exporters, and Pre-shipment Inspection Agencies, are eligible to submit applications for this process."
+        ],
+        "Importer": [
+          "An importer may submit an application for Alternative Dispute Resolution if they are aggrieved or involved in a dispute."
+        ],
+        "Exporter": [
+          "An exporter may submit an application for Alternative Dispute Resolution if they are aggrieved or involved in a dispute."
+        ],
+        "Pre-shipment Inspection Agency": [
+          "A Pre-shipment Inspection Agency has the standing to submit an application for Alternative Dispute Resolution if they are an aggrieved party in a dispute."
+        ],
+        "Rules": [
+          "The processing and disposal of applications for Alternative Dispute Resolution must be conducted in accordance with the relevant rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_552",
+      "entity_sub_entities": {
+        "Alternative Dispute Resolution": [
+          "application",
+          "disposal process",
+          "importers",
+          "exporters",
+          "Pre-shipment Inspection Agencies"
+        ],
+        "Importer": [
+          "importer",
+          "application"
+        ],
+        "Exporter": [
+          "exporter",
+          "application"
+        ],
+        "Pre-shipment Inspection Agency": [
+          "Pre-shipment Inspection Agency",
+          "application"
+        ],
+        "Rules": [
+          "rules"
+        ]
+      },
+      "clause_clusters": [
+        29,
+        39,
+        58,
+        77,
+        79,
+        157,
+        304,
+        332,
+        1090,
+        7404
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

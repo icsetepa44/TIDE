@@ -1,0 +1,235 @@
+{
+  "thread_id": "cluster_00052_t0",
+  "cluster_id": 52,
+  "cluster_label": "import duty",
+  "title": "Industrial Import Duty Exemption Thresholds",
+  "source_num_member_objects": 37,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the initial 1% excess threshold for industrial machinery import duty in Bangladesh?",
+      "options": [
+        "SRO 156/2011",
+        "SRO 178/2010",
+        "SRO 151/2016",
+        "SRO 200/2025"
+      ],
+      "answer_index": 1,
+      "answer": "SRO 178/2010",
+      "explanation": "According to the timeline provided, SRO 178/2010, issued on 2010-06-10, was the instrument that established the 1% excess threshold for industrial machinery.",
+      "clause_text_ids": [
+        "20100610_178-AIN_2010_2296-Customs_২০১০-০৬-১০_clause_1",
+        "20110609_156-AIN_2011_2342-Customs_০৯ জুন, ২০১১_clause_1",
+        "20130606_151-AIN_2013_2438-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_178-AIN_2013_2440-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_151-AIN_2016_13-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_158-AIN_2016_20-Customs_২ জুন, ২০১৬_clause_1",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_1",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the specific import duty threshold introduced for local washing machine production in 2021?",
+      "options": [
+        "1% excess",
+        "3% excess",
+        "5% excess",
+        "10% excess"
+      ],
+      "answer_index": 2,
+      "answer": "5% excess",
+      "explanation": "The timeline explicitly states that SRO 125/2021, issued on 2021-06-03, applied a 5% threshold specifically for local washing machine production.",
+      "clause_text_ids": [
+        "20210603_113-AIN_2021_02_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20210603_120-AIN_2021_09_Customs_২০২১-০৫-২৪_clause_1",
+        "20210603_121-AIN_2021_10_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_129-AIN_2021_18_Customs_১০ জ্যৈষ্ঠ, ১৪২৮ বঙ্গাব্দ/২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which regulatory instrument introduced a 3% excess threshold for machinery and components in 2011?",
+      "options": [
+        "SRO 156/2011",
+        "SRO 178/2010",
+        "SRO 151/2016",
+        "SRO 125/2021"
+      ],
+      "answer_index": 0,
+      "answer": "SRO 156/2011",
+      "explanation": "The timeline indicates that SRO 156/2011, dated 2011-06-09, introduced the 3% excess threshold for machinery and components.",
+      "clause_text_ids": [
+        "20100610_178-AIN_2010_2296-Customs_২০১০-০৬-১০_clause_1",
+        "20110609_156-AIN_2011_2342-Customs_০৯ জুন, ২০১১_clause_1",
+        "20130606_151-AIN_2013_2438-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_178-AIN_2013_2440-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_151-AIN_2016_13-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_158-AIN_2016_20-Customs_২ জুন, ২০১৬_clause_1",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_1",
+        "20210603_113-AIN_2021_02_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20210603_120-AIN_2021_09_Customs_২০২১-০৫-২৪_clause_1",
+        "20210603_121-AIN_2021_10_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_129-AIN_2021_18_Customs_১০ জ্যৈষ্ঠ, ১৪২৮ বঙ্গাব্দ/২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_1",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What threshold was applied to local industrial mould/die production by SRO 200/2025?",
+      "options": [
+        "3% excess",
+        "1% excess",
+        "5% excess",
+        "10% excess"
+      ],
+      "answer_index": 1,
+      "answer": "1% excess",
+      "explanation": "As noted in the timeline for 2025-06-02, SRO 200/2025 applied a 1% threshold specifically for local industrial mould or die production.",
+      "clause_text_ids": [
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial manufacturer has been importing machinery since 2010 under the original 1% excess duty threshold established by SRO 178/2010. In 2016, they observed that SRO 151/2016 repealed the 2010 order. The manufacturer wants to know if their eligibility for the 1% threshold for machinery and spare parts remains consistent despite this change.",
+      "question": "Does the repeal of SRO 178/2010 by SRO 151/2016 in 2016 remove the 1% excess duty threshold for industrial machinery, or does the new instrument maintain it?",
+      "answer": "The 1% excess threshold is maintained; SRO 151/2016 explicitly repealed SRO 178/2010 while simultaneously codifying the 1% excess duty threshold for the specified industrial goods.",
+      "clauses_involved": [
+        "2010-06-10 | SRO 178/2010",
+        "2016-06-02 | SRO 151/2016"
+      ],
+      "clause_text_ids": [
+        "20100610_178-AIN_2010_2296-Customs_২০১০-০৬-১০_clause_1",
+        "20130606_151-AIN_2013_2438-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_178-AIN_2013_2440-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_151-AIN_2016_13-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_158-AIN_2016_20-Customs_২ জুন, ২০১৬_clause_1",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A local manufacturer producing industrial moulds and dies has been following the general import duty frameworks since 2010. They are now evaluating the fiscal impact of the newly issued SRO 200/2025 compared to the historical 1% threshold established in 2010 for general industrial machinery.",
+      "question": "How does the duty threshold for local industrial mould/die production under SRO 200/2025 compare to the general industrial machinery threshold established in 2010?",
+      "answer": "Both the 2010 threshold and the 2025 threshold for local industrial mould/die production are set at the same level: a 1% excess duty threshold.",
+      "clauses_involved": [
+        "2010-06-10 | SRO 178/2010",
+        "2025-06-02 | SRO 200/2025"
+      ],
+      "clause_text_ids": [
+        "20100610_178-AIN_2010_2296-Customs_২০১০-০৬-১০_clause_1",
+        "20130606_151-AIN_2013_2438-Customs_২০১৩-০৬-০৬_clause_1",
+        "20130606_178-AIN_2013_2440-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "one year later",
+      "question": "Following the 2010 establishment of the 1% excess threshold for industrial machinery, what change occurred one year later regarding machinery and component duty thresholds?",
+      "answer": "In 2011-06-09, SRO 156/2011 was issued, which introduced a 3% excess threshold for industrial machinery and components.",
+      "clause_text_ids": [
+        "20100610_178-AIN_2010_2296-Customs_২০১০-০৬-১০_clause_1",
+        "20110609_156-AIN_2011_2342-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "five years later",
+      "question": "Starting from the standardization of the 1% excess threshold in 2016, what specific sector-based duty adjustment was introduced five years later?",
+      "answer": "In 2021-06-03, SRO 125/2021 was issued, which applied a 5% threshold specifically for local washing machine production.",
+      "clause_text_ids": [
+        "20160602_151-AIN_2016_13-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_158-AIN_2016_20-Customs_২ জুন, ২০১৬_clause_1",
+        "20210603_113-AIN_2021_02_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20210603_120-AIN_2021_09_Customs_২০২১-০৫-২৪_clause_1",
+        "20210603_121-AIN_2021_10_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_129-AIN_2021_18_Customs_১০ জ্যৈষ্ঠ, ১৪২৮ বঙ্গাব্দ/২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-06-03",
+      "relative_offset": "four years later",
+      "question": "After the 2021 introduction of the 5% threshold for washing machines, what policy change regarding industrial production was implemented four years later?",
+      "answer": "In 2025-06-02, SRO 200/2025 was issued, which applied a 1% threshold for local industrial mould and die production.",
+      "clause_text_ids": [
+        "20210603_113-AIN_2021_02_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_119-AIN_2021_08_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20210603_120-AIN_2021_09_Customs_২০২১-০৫-২৪_clause_1",
+        "20210603_121-AIN_2021_10_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_129-AIN_2021_18_Customs_১০ জ্যৈষ্ঠ, ১৪২৮ বঙ্গাব্দ/২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these industrial import duty events in chronological order based on their implementation.",
+      "events_shuffled": [
+        "A three percent excess threshold was introduced for imported machinery and components.",
+        "The government established a one percent excess threshold for industrial machinery import duties.",
+        "A one percent threshold was applied for local industrial mould and die production.",
+        "A five percent threshold was applied specifically for local washing machine production."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government established a one percent excess threshold for industrial machinery import duties.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "A three percent excess threshold was introduced for imported machinery and components.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "A five percent threshold was applied specifically for local washing machine production.",
+          "date": "2021-06-03"
+        },
+        {
+          "event": "A one percent threshold was applied for local industrial mould and die production.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_178-AIN_2010_2296-Customs_২০১০-০৬-১০_clause_1",
+        "20120607_157-AIN_2012_2385-Customs_07 June, 2012_clause_1",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_1",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_178-AIN_2010_2296-Customs/20100610_178-AIN_2010_2296-Customs_output.json",
+        "customs_sros_OCR/20120607_157-AIN_2012_2385-Customs/20120607_157-AIN_2012_2385-Customs_output.json",
+        "customs_sros_OCR/20210603_125-AIN_2021_14_Customs/20210603_125-AIN_2021_14_Customs_output.json",
+        "customs_sros_OCR/20250602_200-AIN_2025_22_Customs/20250602_200-AIN_2025_22_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00052_t0__industrial-import-duty-exemption-thresholds.json"
+    }
+  ]
+}

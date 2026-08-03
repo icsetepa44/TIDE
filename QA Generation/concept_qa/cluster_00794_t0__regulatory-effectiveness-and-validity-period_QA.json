@@ -1,0 +1,197 @@
+{
+  "thread_id": "cluster_00794_t0",
+  "cluster_id": 794,
+  "cluster_label": "regulatory provisions",
+  "title": "Regulatory Effectiveness and Validity Period",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 13,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 5,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs compliance manager is deep in the archives, reviewing the documentation for a long-standing import project initiated in mid-2018. As the team prepares for a retrospective audit, they need to confirm the precise legal timeline for when their operations fell under the jurisdiction of S.R.O. 193-AIN/2018. The manager carefully examines the gazette notification issued in July 2018 to pinpoint the exact moment the regulatory framework became active.",
+      "question": "What is the official commencement date for the regulatory provisions established by S.R.O. 193-AIN/2018?",
+      "answer": "The regulatory provisions became effective on 28 June 2018.",
+      "date_or_instrument": "2018-07-26",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs officer at the Chittagong port is processing a shipment under the guidelines of the Statutory Regulatory Order issued on 6 June 2024 (168-AIN/2024). To ensure proper clearance and long-term planning for the client, the officer needs to determine the operational lifespan of these specific tax provisions. They are consulting the official text to identify the exact calendar date when these current regulations are scheduled to expire.",
+      "question": "Until what date will the regulatory provisions under the Statutory Regulatory Order dated 6 June 2024 remain in effect?",
+      "answer": "The regulatory provisions remain in effect until 30 June 2026.",
+      "date_or_instrument": "2024-06-06",
+      "clause_text_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A local manufacturer is reviewing their production cost projections for the next two years, relying on the incentives provided by the Statutory Regulatory Order 199-AIN/2024. Concerned about the long-term stability of their tax benefits, the company’s legal counsel is examining the document to see if there is a fixed expiration date embedded within the text. They need to verify if the government has placed a definitive limit on the life of these specific provisions.",
+      "question": "Does the Statutory Regulatory Order dated 6 June 2024 (199-AIN/2024) contain a sunset clause?",
+      "answer": "Yes, the order defines a specific duration of validity, setting an expiry date of 30 June 2026.",
+      "date_or_instrument": "2024-06-06",
+      "clause_text_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A policy analyst is compiling a comprehensive report on the evolution of customs legislation in Bangladesh over the past six years. While reviewing the notification from 2018 alongside the current 2024 regulations, the analyst notices a fundamental difference in how the government approaches the lifespan of tax rules. They are currently analyzing the shift in drafting styles to explain how the regulatory framework has evolved regarding the duration of its effectiveness.",
+      "question": "How has the validity structure of regulatory provisions shifted between 2018 and 2024?",
+      "answer": "The structure shifted from indefinite validity in 2018 to the inclusion of time-bound sunset clauses by 2024.",
+      "date_or_instrument": "2018-07-26 and 2024-06-06",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs official is verifying the paperwork for a fresh shipment that arrived at the port shortly after the latest policy changes were announced on 6 June 2024. As the importer claims the benefits outlined in the Statutory Regulatory Order (168-AIN/2024), the officer must confirm that the goods were cleared strictly during the period the law was active. To finalize the assessment, the officer needs to establish the exact date these specific regulatory provisions entered into force.",
+      "question": "On what date did the regulations in the 6 June 2024 Statutory Regulatory Order (168-AIN/2024) become effective?",
+      "answer": "The regulations became effective on 6 June 2024.",
+      "date_or_instrument": "2024-06-06",
+      "clause_text_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "How did the validity structure of regulatory provisions evolve between the 2018 SRO and the 2024 SROs?",
+      "options": [
+        "From time-bound expiration to indefinite validity.",
+        "From indefinite validity to time-bound sunset clauses.",
+        "From annual renewal requirements to permanent enforcement.",
+        "There was no change in the validity structure."
+      ],
+      "answer_index": 1,
+      "answer": "From indefinite validity to time-bound sunset clauses.",
+      "explanation": "The context states that the evolution marked a shift from simple effective dates (indefinite validity) in 2018 to the introduction of sunset clauses (time-bound) in 2024.",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced a specific expiration date for regulatory provisions in the provided timeline?",
+      "options": [
+        "S.R.O. 193-AIN/2018",
+        "The 2018-07-26 instrument",
+        "S.R.O. 168-AIN/2024",
+        "None of the instruments contain expiration dates."
+      ],
+      "answer_index": 2,
+      "answer": "S.R.O. 168-AIN/2024",
+      "explanation": "S.R.O. 168-AIN/2024, issued on 2024-06-06, introduced a sunset clause valid until 2026-06-30, unlike the 2018 instrument which only established a commencement date.",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What is the defined duration of validity for the regulatory provisions established in S.R.O. 199-AIN/2024?",
+      "options": [
+        "Indefinite validity.",
+        "Effective until 2024-06-06.",
+        "Effective until 2026-06-30.",
+        "Effective until 2028-06-30."
+      ],
+      "answer_index": 2,
+      "answer": "Effective until 2026-06-30.",
+      "explanation": "According to the text of S.R.O. 199-AIN/2024 (2024-06-06), the provisions are effective from 2024-06-06 and remain in force until 2026-06-30.",
+      "clause_text_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary characteristic of the regulatory provisions established by S.R.O. 193-AIN/2018?",
+      "options": [
+        "It included a sunset clause valid for two years.",
+        "It established an official commencement date without a sunset clause.",
+        "It required annual legislative review for validity.",
+        "It was valid only for the calendar year 2018."
+      ],
+      "answer_index": 1,
+      "answer": "It established an official commencement date without a sunset clause.",
+      "explanation": "The 2018-07-26 instrument (S.R.O. 193-AIN/2018) established the official commencement date but did not include the sunset clauses that were introduced later in 2024.",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In the 2018 SRO 193-AIN/2018, the regulatory provisions were established with a sunset clause, mandating that the policy would expire on June 30, 2026.",
+      "question": "Does the 2018 SRO 193-AIN/2018 contain a sunset clause expiring in 2026, and how does this align with the historical evolution of customs policy?",
+      "conflict": "The 2018 SRO only established a commencement date; the sunset clause was not introduced until the 2024 SROs.",
+      "answer": "No. The 2018 SRO 193-AIN/2018 only established an official commencement date. The introduction of a sunset clause, specifically one valid until June 30, 2026, did not occur until the Statutory Regulatory Orders issued on June 6, 2024 (e.g., 168-AIN/2024 and 199-AIN/2024).",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "The regulatory framework in 2024 transitioned away from time-bound expiration periods, reverting to the 2018 model where provisions remained in effect indefinitely from their commencement date.",
+      "question": "How does the 2024 regulatory framework compare to the 2018 model regarding the validity of provisions?",
+      "conflict": "The context states 2024 introduced time-bound sunset clauses, it did not revert to indefinite validity.",
+      "answer": "The 2024 framework actually moved toward time-bound policy enforcement. Unlike the 2018 model, which established a simple effective date, the June 6, 2024 Statutory Regulatory Orders introduced sunset clauses that define a specific duration of validity, ending on June 30, 2026.",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer reviews the regulatory instruments from 2018 and 2024. They note that the 2018 instrument established an effective date without mentioning an end date, whereas the 2024 instrument includes a specific expiration date.",
+      "question": "How does the legal duration of the 2024 regulatory provision differ from the structure established in the 2018 provision?",
+      "answer": "The 2018 provision established an indefinite validity period by only specifying a commencement date, whereas the 2024 provision introduces a sunset clause, defining a specific expiration date of June 30, 2026.",
+      "clauses_involved": [
+        "2018-07-26",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2018-07-26",
+      "relative_offset": "six years later",
+      "question": "In 2018-07-26, regulations were established with a standard effective date. How did the regulatory validity structure change six years later?",
+      "answer": "Six years later, in 2024-06-06, the regulatory framework shifted from indefinite validity to a time-bound model by introducing a sunset clause, which specified that the provisions would remain in effect only until 2026-06-30.",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    }
+  ]
+}

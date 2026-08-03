@@ -1,0 +1,221 @@
+{
+  "thread_id": "cluster_00079_t0",
+  "cluster_id": 79,
+  "cluster_label": "importers",
+  "title": "Pre-Shipment Inspection (PSI) and Compliance",
+  "source_num_member_objects": 9,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2013-07-01 SRO 219-2013, the fee for inspecting a consignment with a CIF value of US$ 5000 or less is set at US$ 250.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "US$ 250",
+      "correct_fact": "US$ 175",
+      "answer": "The statement is inaccurate. According to SRO 219-2013 dated 2013-07-01, the fee for a CIF value of US$ 5000 or less is US$ 175, while the US$ 250 fee applies to consignments valued above US$ 5000.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-03-10 Customs Rules formalize selectivity criteria for risk management, categorizing consignments into Red, Yellow, Blue, and Green lanes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2025-03-10 Customs Rules establish the automated risk management framework using Red, Yellow, Blue, and Green lanes.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2013-06-06 SRO, importers are required to specify their chosen inspection agency only after the goods have arrived at the customs port.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "after the goods have arrived at the customs port",
+      "correct_fact": "when opening a Letter of Credit",
+      "answer": "The statement is inaccurate. According to the 2013-06-06 SRO, importers must specify their chosen inspection agency at the time of opening a Letter of Credit.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 204B of the Customs Act 1969 mandates the strict maintenance of confidentiality for sensitive information provided by importers or agents for official customs audit purposes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate as per the NBR Directive dated 2023-09-27.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_18",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_44"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2023-09-27 NBR Directive introduced a new tiered fee structure for PSI agencies based on the CIF value of the imported goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2023-09-27 NBR Directive",
+      "correct_fact": "2013-07-01 SRO 219-2013",
+      "answer": "The statement is inaccurate. The tiered fee structure for PSI agencies was introduced by SRO 219-2013 on 2013-07-01, not the 2023-09-27 NBR Directive, which focused on post-clearance audits.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_18",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_44"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-03-10 Customs Rules define 'economic risk' to include money laundering, terror financing, and evasion of customs duties and taxes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate according to the definitions provided in the 2025-03-10 Customs Rules.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "In 2013, an importer was required to select an inspection agency when opening a Letter of Credit and pay tiered fees based on CIF value for pre-shipment inspections. By 2025, the importer is now subject to an automated risk management system that assigns their consignment to specific lanes like Red, Yellow, Blue, or Green.",
+      "question": "How has the importer's primary compliance burden shifted from the 2013 regulatory framework to the 2025 customs rules?",
+      "answer": "The burden has shifted from manual, mandatory third-party pre-shipment inspection (PSI) with associated tiered fees to a risk-based automated selectivity system that determines clearance channels based on risk profiles rather than mandatory pre-shipment certification.",
+      "clauses_involved": [
+        "2013-06-06 | SRO 2013",
+        "2013-07-01 | SRO 219-2013",
+        "2025-03-10 | Customs Rules"
+      ],
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer operating in 2013 was legally required to follow specific procedures for PSI certification and dispute resolution. In 2023, the importer is now subject to a Post-Clearance Audit (PCA) where they must provide sensitive documentation for desk audits, and they are granted a final meeting to address discrepancies before the audit report is finalized.",
+      "question": "Regarding the verification of import data, what fundamental change exists in the importer's role between the 2013 PSI regime and the 2023 PCA framework?",
+      "answer": "In 2013, the importer's role focused on pre-shipment inspection agency coordination and compliance with mandatory certification; in 2023, the focus shifted to post-clearance accountability, where importers must provide sensitive data for desk audits and have the right to address findings in a final meeting before report finalization.",
+      "clauses_involved": [
+        "2013-06-06 | SRO 2013",
+        "2023-09-27 | NBR Directive"
+      ],
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_18",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_44"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-06-06",
+      "relative_offset": "less than one month later",
+      "question": "Given the importer responsibilities defined on June 6, 2013, what regulatory change occurred less than one month later regarding PSI agency interactions?",
+      "answer": "On July 1, 2013, through SRO 219-2013, the government introduced a tiered fee structure for importers to pay PSI agencies based on CIF value, amending the existing pre-shipment inspection rules.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-07-01",
+      "relative_offset": "over ten years later",
+      "question": "Following the introduction of the tiered PSI fee structure in 2013, what significant policy shift occurred over ten years later regarding customs compliance?",
+      "answer": "On September 27, 2023, the NBR issued a directive shifting the customs focus from pre-shipment inspection to post-clearance audit (PCA) and risk-based selection criteria for importers.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_18",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_44"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-09-27",
+      "relative_offset": "about one and a half years later",
+      "question": "After the 2023 directive on post-clearance audits, what advancement in customs risk management occurred about one and a half years later?",
+      "answer": "On March 10, 2025, the Customs Rules formalized an automated selectivity framework, classifying consignments into Red, Yellow, Blue, and Green lanes to manage risks based on pre-defined indicators.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_18",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_44",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government introduced a tiered fee structure for importers to pay inspection agencies based on the CIF value of their shipments.",
+        "The regulations governing the responsibilities of importers under the pre-shipment inspection system were updated, requiring importers to specify their chosen inspection agency when opening a Letter of Credit.",
+        "Formalized selectivity criteria including Red, Yellow, Blue, and Green lanes were established for automated risk management of goods.",
+        "The focus of customs compliance shifted from pre-shipment inspection to post-clearance audit and risk-based selection criteria for importers."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The regulations governing the responsibilities of importers under the pre-shipment inspection system were updated, requiring importers to specify their chosen inspection agency when opening a Letter of Credit.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The government introduced a tiered fee structure for importers to pay inspection agencies based on the CIF value of their shipments.",
+          "date": "2013-07-01"
+        },
+        {
+          "event": "The focus of customs compliance shifted from pre-shipment inspection to post-clearance audit and risk-based selection criteria for importers.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "Formalized selectivity criteria including Red, Yellow, Blue, and Green lanes were established for automated risk management of goods.",
+          "date": "2025-03-10"
+        }
+      ],
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+        "customs_sros_OCR/20130606_156-AIN_2013_2443-Customs/20130606_156-AIN_2013_2443-Customs_output.json",
+        "customs_sros_OCR/20130701_219-AIN_2013_2458-Customs/20130701_219-AIN_2013_2458-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00079_t0__pre-shipment-inspection-psi-and-compliance.json"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "cluster_id": 63,
+  "cluster_label": "documentation",
+  "thread_index": 0,
+  "thread_id": "cluster_00063_t0",
+  "title": "Digitalization and Electronic Documentation",
+  "summary": "The documentation requirement for customs clearance has evolved from manual, paper-based submissions to a mandatory electronic system. This shift emphasizes the use of electronic manifests, online payment systems, and digital verification, reducing reliance on physical paper trails while maintaining strict auditability.",
+  "evolution": {
+    "procedure": "From manual/physical to electronic/automated",
+    "institution": "Increased reliance on centralized digital systems for verification"
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "SRO 156-Law/2016",
+      "change": "Introduction of electronic communication (phone, fax, email) for verification.",
+      "clause_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_3",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 191-Law/2024",
+      "change": "Mandatory electronic submission of declarations and electronic payment systems.",
+      "clause_ids": [
+        "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Audit Manual",
+      "change": "Formalization of digital communication for audit-related document requests.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_119"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_3",
+      "resolved_text": "(২) বিল অব এন্ট্রি দাখিলকালে যথাযথ মূল্যসংযোজন কর (মূসক) কর্তৃপক্ষ কর্তৃক মূসক বিধিমালার অনুমোদিত মূসক-৭ ফরম অথবা কাঁচামালের আবশ্যকতা সংক্রান্ত দলিলাদির সত্যায়িত কপি সংযুক্ত করিতে হইবে।",
+      "entity_concepts": {
+        "Bill of Entry": [
+          "The submission of a Bill of Entry requires the attachment of specific documentation related to value added tax compliance."
+        ],
+        "Value Added Tax": [
+          "At the time of filing a Bill of Entry, taxpayers must provide either the authorized Value Added Tax Form 7 or certified copies of documentation substantiating the requirement for raw materials."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1592",
+      "entity_sub_entities": {
+        "Bill of Entry": [
+          "Bill of Entry",
+          "documentation",
+          "value added tax compliance"
+        ],
+        "Value Added Tax": [
+          "Bill of Entry",
+          "Value Added Tax Form 7",
+          "certified copies of documentation",
+          "raw materials"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        12,
+        27,
+        63,
+        5104,
+        5107,
+        6283
+      ],
+      "source_file": "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+      "resolved_text": "(৫) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে ফোন, ফ্যাক্স বা ই-মেইলে সংশ্লিষ্ট মূসক এলাকার ডেপুটি কমিশনার বা সহকারী কমিশনারগণের সহিত যোগাযোগ করিয়া ১, ২ ও ৩ নং শর্তের তথ্য ও সঠিকতা যাচাই করিয়া লইবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs official overseeing the assessment process is mandated to communicate with their counterparts in the relevant Value Added Tax area to verify information and ensure the accuracy of conditions related to the shipment.",
+          "This administrative measure is implemented specifically to prevent unnecessary delays during the customs clearance process."
+        ],
+        "Deputy Commissioner of Customs": [
+          "The Deputy Commissioner is tasked with coordinating with the corresponding Value Added Tax authorities via digital or telephonic means to facilitate the verification of documentation and conditions."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The Assistant Commissioner is authorized to liaise with the relevant Value Added Tax officials to confirm the accuracy of specific regulatory conditions, thereby ensuring operational efficiency."
+        ],
+        "Value Added Tax": [
+          "The respective authorities managing Value Added Tax are required to cooperate with customs officials to verify data and conditions to expedite the customs assessment procedure."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1595",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "customs official",
+          "Value Added Tax area",
+          "shipment",
+          "customs clearance process"
+        ],
+        "Deputy Commissioner of Customs": [
+          "Deputy Commissioner",
+          "Value Added Tax authorities",
+          "documentation",
+          "conditions"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner",
+          "Value Added Tax officials",
+          "regulatory conditions"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "authorities",
+          "customs officials",
+          "data",
+          "conditions",
+          "customs assessment procedure"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        51,
+        63,
+        78,
+        87,
+        99,
+        213,
+        270,
+        318,
+        352,
+        359,
+        457,
+        483,
+        615,
+        682,
+        721,
+        5110,
+        6839,
+        13170
+      ],
+      "source_file": "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "ইলেকট্রনিক দলিল ও পেমেন্ট নির্দিষ্টকরণ",
+      "text_id": "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "৩। ইলেকট্রনিক দলিল ও পেমেন্ট নির্দিষ্টকরণ।— (১) পণ্য ঘোষণা, শুল্কায়ন ও পুনঃশুল্কায়ন বিধিমালা, ২০২৪ এর বিধি ৪ এ উল্লিখিত সকল দলিল ইলেকট্রনিক মাধ্যমে গ্রহণ করা যাইবে।\n\n(২) আমদানি বা রপ্তানি পণ্য সংশ্লিষ্ট শুল্ক ও কর এবং সুদ ও চার্জসহ অন্যান্য ফি ইলেকট্রনিক পেমেন্ট সিস্টেমের মাধ্যমে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Declaration and Assessment Rules 2024": [
+          "These rules mandate that all documentation specified in Rule 4 shall be accepted via electronic means for the purpose of goods declaration, assessment, and reassessment."
+        ],
+        "Electronic Payment System": [
+          "All customs duties, taxes, interest, charges, and other associated fees related to the import or export of goods must be paid through this system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2721",
+      "entity_sub_entities": {
+        "Customs Declaration and Assessment Rules 2024": [
+          "documentation",
+          "goods declaration",
+          "assessment",
+          "reassessment"
+        ],
+        "Electronic Payment System": [
+          "customs duties",
+          "taxes",
+          "interest",
+          "charges",
+          "associated fees"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        63,
+        115,
+        324,
+        707,
+        825,
+        2975,
+        5688,
+        6888,
+        7669
+      ],
+      "source_file": "customs_sros_OCR/20240606_204-AIN_2024_56_Customs/20240606_204-AIN_2024_56_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "শুল্কায়ন",
+      "text_id": "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+      "resolved_text": "৫। শুল্কায়ন।⎯ (১) আইনের ধারা ৮১ অনুযায়ী দাখিলকৃত পণ্য ঘোষণা ধারা ৯০ এর বিধান অনুযায়ী শুল্কায়ন করিতে হইবে।\n(২) শুল্কায়নের ক্ষেত্রে নিম্নবর্ণিত বিষয়সমূহ অনুসরণীয় হইবে, যথা:-\n(ক) আমদানিকারক বা রপ্তানিকারক বা তাহার মনোনীত এজেন্ট কর্তৃক বিধি ৪ অনুযায়ী পণ্য ঘোষণা সম্পর্কিত দলিলাদি নির্দিষ্ট সময়ের মধ্যে যথাযথ কর্মকর্তার নিকট দাখিল করিবেন;\n(খ) যথাযথ কর্মকর্তা তদ্কর্তৃক শুল্কায়নের জন্য নির্ধারিত পণ্য ঘোষণা শুল্কায়নকালে-\n(অ) পুঙ্খানুপুঙ্খরূপে পরীক্ষা করিয়া পণ্যের আমদানি/রপ্তানিযোগ্যতা নিশ্চিত করিবেন;\n(আ) প্রযোজ্য ক্ষেত্রে, বিধি ৪ অনুযায়ী প্রয়োজনীয় দলিলাদি দাখিল করা হইয়াছে কিনা নিশ্চিত করিবেন;\n(ই) দাখিলকৃত দলিলাদির সহিত পণ্য ঘোষণার মিল রহিয়াছে কিনা তাহা যাচাই করিবেন;\n(ঈ) প্রযোজ্য ক্ষেত্রে আইনের ধারা ৮৭ অনুযায়ী পণ্য ঘোষণার সত্যতা প্রতিপাদনের লক্ষ্যে কোনো কার্যক্রম গৃহীত হইলে উক্ত কার্যক্রমের ফলাফল বিশ্লেষণ করিয়া পণ্য ঘোষণার সঠিকতা যাচাই করিবেন;\n(উ) আইন, তদ্বাধীন প্রণীত বিধি এবং অন্যান্য আইনগত বিধানাবলী অনুসরণপূর্বক পণ্যের শ্রেণিবিন্যাস, উৎস দেশ এবং কাস্টমস মূল্য নিরূপণ করিবেন;\n(ঊ) উপ-দফা (অ) হইতে (উ) এর কার্যক্রম সম্পন্ন করিয়া উক্ত পণ্যের উপর, প্রযোজ্য ক্ষেত্রে, পরিশোধযোগ্য শুল্ক, কর ও অন্যান্য চার্জের পরিমাণ নির্ধারণ করিয়া শুল্কায়ন আদেশ (Assessment Notice) জারি করিবেন;\n(ঋ) উক্ত শুল্কায়ন আদেশের বিষয়ে অনতিবিলম্বে ইলেকট্রনিক মাধ্যমে স্বয়ংক্রিয়ভাবে বা ম্যানুয়ালি আমদানিকারক বা রপ্তানিকারক বা তাহার মনোনীত এজেন্টকে অবহিত করিবেন।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Act provides the legal framework for the assessment of goods and specifies the powers and duties of the appropriate officer of customs regarding the verification and determination of customs duty."
+        ],
+        "Customs Assessment": [
+          "This process requires the submission of declarations and documentation by the importer, exporter, or their authorized agent according to specific rules.",
+          "The appropriate officer must ensure the validity of the declaration, perform classification, verify the country of origin, determine customs value, and calculate applicable duties and taxes.",
+          "The assessment process concludes with the issuance of an assessment notice, which must be communicated promptly to the importer, exporter, or their agent."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer is responsible for examining goods to confirm their importability, verifying submitted documentation, and checking the accuracy of the declaration against provided evidence.",
+          "The officer must adhere to the Act and relevant rules to conduct systematic verification, including assessment of classification and customs value, leading to the formal issuance of an assessment notice."
+        ],
+        "Goods Declaration": [
+          "Goods declarations must be submitted by importers or exporters in accordance with established rules and within the prescribed timeframe.",
+          "The declaration is subject to thorough verification and validation against submitted documents and legal requirements to ensure its accuracy before customs duty is finalized."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2737",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "goods",
+          "customs duty",
+          "appropriate officer of customs"
+        ],
+        "Customs Assessment": [
+          "declarations",
+          "documentation",
+          "importer",
+          "exporter",
+          "authorized agent",
+          "classification",
+          "country of origin",
+          "customs value",
+          "duties",
+          "taxes",
+          "assessment notice"
+        ],
+        "Appropriate Officer of Customs": [
+          "goods",
+          "documentation",
+          "declaration",
+          "evidence",
+          "Act",
+          "rules",
+          "classification",
+          "customs value",
+          "assessment notice"
+        ],
+        "Goods Declaration": [
+          "goods declarations",
+          "importers",
+          "exporters",
+          "rules",
+          "documents",
+          "legal requirements",
+          "customs duty"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        10,
+        13,
+        17,
+        29,
+        30,
+        39,
+        59,
+        63,
+        77,
+        79,
+        144,
+        157,
+        220,
+        242,
+        294,
+        301,
+        316,
+        334,
+        418,
+        707,
+        766,
+        1060,
+        1703,
+        3443
+      ],
+      "source_file": "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_119",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_119",
+      "resolved_text": "৪. নিরীক্ষাকালে অতিরিক্ত কোনো তথ্য-উপাত্ত বা দলিলাদির প্রয়োজন হলে অডিট টিম সংশ্লিষ্ট প্রতিষ্ঠানের ফোকাল পয়েন্ট কর্মকর্তার সাথে যোগাযোগপূর্বক লিখিতভাবে বা ই-মেইলের মাধ্যমে জানাতে পারবে এবং উক্ত প্রতিষ্ঠান দ্রুততম সময়ের মধ্যে উক্ত তথ্য-উপাত্ত ও দলিলাদি দাখিল করবে। প্রতিষ্ঠান কর্তৃক তথ্য-উপাত্ত বা দলিলাদি দাখিলে বিলম্ব হলে উক্ত বিলম্বজনিত সময় নিরীক্ষার জন্য বরাদ্দকৃত (৪৫ দিন) সময়ের মধ্যে গণ্যযোগ্য হবে না।",
+      "entity_concepts": {
+        "Customs Audit": [
+          "During an audit, if the audit team requires additional information or documentation, they are authorized to request it from the auditee's focal point officer via written communication or email.",
+          "The audited entity is required to provide the requested information or documentation promptly.",
+          "Any delay caused by the auditee in submitting requested data will not be counted towards the total duration allocated for the audit."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_909",
+      "entity_sub_entities": {
+        "Customs Audit": [
+          "audit team",
+          "additional information",
+          "documentation",
+          "auditee's focal point officer",
+          "written communication",
+          "email",
+          "audited entity",
+          "requested information",
+          "requested data",
+          "total duration"
+        ]
+      },
+      "clause_clusters": [
+        63,
+        277,
+        388,
+        671,
+        821,
+        1332,
+        2992,
+        5159,
+        5755,
+        11477,
+        12867
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

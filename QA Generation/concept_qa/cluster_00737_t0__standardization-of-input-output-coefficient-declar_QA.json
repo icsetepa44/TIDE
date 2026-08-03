@@ -1,0 +1,211 @@
+{
+  "thread_id": "cluster_00737_t0",
+  "cluster_id": 737,
+  "cluster_label": "quantities of materials",
+  "title": "Standardization of Input-Output Coefficient Declaration",
+  "source_num_member_objects": 7,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The 'Input-Output Coefficient' submission process was first formalized in an SRO/Directive on 2017-06-01, requiring manufacturers to submit 3 copies of the declaration to the Commissioner.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2017-06-01",
+      "correct_fact": "2019-05-30",
+      "answer": "This statement is inaccurate. While the 2017-06-01 directive introduced a standardized declaration table for cellular phones, the formal 'Input-Output Coefficient' (Upokoron-Utpad Sohog) submission process requiring 3 copies to be submitted to the Commissioner was formalized on 2019-05-30.",
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_12",
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_4",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2022-06-28 directive, refrigerator and freezer manufacturers are required to forward the second copy of their approved Input-Output Coefficient to the National Board of Revenue Member (Customs: Policy and ICT).",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. According to the 2022-06-28 directive, the Commissioner must forward the second copy of the approved coefficient to the National Board of Revenue Member (Customs: Policy and ICT).",
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Act, 2023, which was codified on 2024-06-06, provides the legal basis for 'Import Availability' and 'Utilization Permission' (UP) to calculate material quantities.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The Customs Act, 2023, effective as of 2024-06-06, formally codified 'Import Availability' and 'Utilization Permission' within the legal framework.",
+      "clause_text_ids": [
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2022-06-09 directive, the standardized Input-Output Coefficient declaration model was extended to include the pharmaceutical industry.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "pharmaceutical industry",
+      "correct_fact": "pre-fabricated building industry",
+      "answer": "This statement is inaccurate. The 2022-06-09 directive extended the standardized coefficient declaration model to the pre-fabricated building industry, not the pharmaceutical industry.",
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In the declaration process for production materials, entities are required to provide their Value Added Tax registration number and, as of the 2024-09-12 update, their warehouse license number.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The 2024-09-12 notification requires both the Value Added Tax registration number and the warehouse license number for the declaration of production materials.",
+      "clause_text_ids": [
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The procedure for submitting the Input-Output Coefficient requires the manufacturer to submit 5 copies to the Commissioner for customs clearance.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "5 copies",
+      "correct_fact": "3 copies",
+      "answer": "This statement is inaccurate. According to the directives from 2019 and 2022, manufacturers are required to submit 3 copies of the input-output coefficient to the Commissioner, not 5.",
+      "clause_text_ids": [
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_4",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_6",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A refrigerator manufacturer began their operations and established their 'Input-Output Coefficient' submission process in early 2022. By mid-2022, they were required to adjust their administrative reporting line for these documents. Later, in 2024, the legal landscape shifted with the enactment of the Customs Act, 2023.",
+      "question": "How did the reporting requirement for the second copy of the Input-Output Coefficient change between the 2022 directive and the 2024 legal framework?",
+      "answer": "Under the 2022 directive, the second copy was specifically directed to the Member (Customs: Policy and ICT), whereas the 2024 Customs Act, 2023 codified the broader concepts of 'Import Availability' and 'Utilization Permission' (UP) as the legal basis for material quantity calculations.",
+      "clauses_involved": [
+        "2022-06-28",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer of cellular phones has been submitting input-output declarations since 2017. As the company expanded its operations to include warehousing and international tenders, it noted changes in the required documentation fields.",
+      "question": "What additional identifier is required in the 2024 declaration format for production materials compared to the 2017 cellular phone production declaration?",
+      "answer": "The 2024 declaration requires the inclusion of an official 'Warehouse License Number', which was not a specified requirement in the 2017 cellular phone production declaration format.",
+      "clauses_involved": [
+        "2017-06-01",
+        "2024-09-12"
+      ],
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_12",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "two years later",
+      "question": "Two years later, how did the regulatory submission process for the 'Input-Output Coefficient' evolve regarding the number of copies and approval authority?",
+      "answer": "In 2019-05-30, the process was formalized to require the submission of 3 copies of the Input-Output Coefficient to the Commissioner of the concerned VAT Commissionerate for approval prior to importation.",
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_12",
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_4",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "three years later",
+      "question": "Three years later, how was the administrative reporting line for the Input-Output Coefficient declaration refined?",
+      "answer": "On 2022-06-28, the reporting line was refined to direct copies of the approved Input-Output Coefficient to the NBR Member (Customs: Policy and ICT).",
+      "clause_text_ids": [
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_4",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_6",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "two years later",
+      "question": "Two years after the inclusion of the pre-fabricated building industry in the coefficient declaration model, what significant legal change occurred regarding material quantity calculations?",
+      "answer": "On 2024-06-06, the Customs Act, 2023 was enacted, providing a formal legal basis for material quantity calculations through the codification of 'Import Availability' and 'Utilization Permission' (UP).",
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Manufacturers are required to submit the Input-Output Coefficient in three copies to the Commissioner, who approves and distributes copies to the NBR Member (Customs: Policy) and the manufacturer.",
+        "The standardized declaration table for raw materials and waste quantities is introduced specifically for cellular phone production.",
+        "The Input-Output Coefficient declaration model is extended to include the pre-fabricated building industry.",
+        "The administrative reporting line is refined to direct copies of the approved Input-Output Coefficient to the NBR Member (Customs: Policy and ICT)."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The standardized declaration table for raw materials and waste quantities is introduced specifically for cellular phone production.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "Manufacturers are required to submit the Input-Output Coefficient in three copies to the Commissioner, who approves and distributes copies to the NBR Member (Customs: Policy) and the manufacturer.",
+          "date": "2019-05-30"
+        },
+        {
+          "event": "The Input-Output Coefficient declaration model is extended to include the pre-fabricated building industry.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The administrative reporting line is refined to direct copies of the approved Input-Output Coefficient to the NBR Member (Customs: Policy and ICT).",
+          "date": "2022-06-28"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_12",
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_4",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_4",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_132-AIN_/20170601_132-AIN__output.json",
+        "customs_sros_OCR/20190530_157-AIN_2019_26_Customs/20190530_157-AIN_2019_26_Customs_output.json",
+        "customs_sros_OCR/20220609_122-AIN_2022_70_Customs/20220609_122-AIN_2022_70_Customs_output.json",
+        "customs_sros_OCR/20220628_199-_2022_107/20220628_199-_2022_107_output.json"
+      ],
+      "thread_source_file": "cluster_00737_t0__standardization-of-input-output-coefficient-declar.json"
+    }
+  ]
+}

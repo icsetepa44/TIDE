@@ -1,0 +1,1063 @@
+{
+  "cluster_id": 13,
+  "cluster_label": "taxes",
+  "thread_index": 0,
+  "thread_id": "cluster_00013_t0",
+  "title": "Baggage Allowance and Duty Exemption",
+  "summary": "The baggage allowance policy for passengers arriving by land has evolved from a fixed $300 USD exemption to $400 USD, with the introduction of frequency limits (max 3 times per calendar year) to prevent abuse. The regulatory framework consistently maintains provisions for duty-free clearance for specific categories, including deceased persons and medical equipment for vulnerable passengers, and has been updated in 2025 to standardize declaration processes.",
+  "evolution": {
+    "allowance_value": "Increased from $300 to $400 USD.",
+    "eligibility_constraints": "Introduced annual frequency caps to regulate usage.",
+    "structure": "Standardized the declaration process and duty-free lists."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Baggage Rules",
+      "change": "Established $300 USD duty-free allowance for land passengers.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4"
+      ]
+    },
+    {
+      "date": "2011-06-09",
+      "instrument": "Baggage Rules",
+      "change": "Maintained $300 limit; added specific duty exemption for deceased persons.",
+      "clause_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_4",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9"
+      ]
+    },
+    {
+      "date": "2012-06-07",
+      "instrument": "Baggage Rules",
+      "change": "Replicated existing rules.",
+      "clause_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_4",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_9"
+      ]
+    },
+    {
+      "date": "2016-04-08",
+      "instrument": "Baggage Rules",
+      "change": "Increased land passenger allowance to $400 USD.",
+      "clause_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4"
+      ]
+    },
+    {
+      "date": "2016-06-02",
+      "instrument": "Baggage Rules",
+      "change": "Replicated existing rules.",
+      "clause_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "instrument": "Baggage Rules",
+      "change": "Added frequency limit of 3 times per calendar year.",
+      "clause_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Baggage Rules",
+      "change": "Maintained $400 limit and frequency cap; added specific exemption for medical equipment for sick/disabled/elderly.",
+      "clause_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "instrument": "Baggage Rules 2025",
+      "change": "Defined duty-free limits for land-based passengers and adjudication procedures for excess baggage.",
+      "clause_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_10",
+        "20250603_._._._০২ জুন, ২০২৫_clause_4"
+      ]
+    }
+  ],
+  "num_member_objects": 22,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of customs duties and taxes up to a specified maximum value, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1278",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a designated maximum monetary limit, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1319",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "maximum monetary limit"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2394
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।- এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their baggage is granted a full exemption from all applicable customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1324",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a specified maximum value limit.",
+          "This duty-free allowance applies to passengers regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1379",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "maximum value limit"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2394
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The baggage of a Bangladeshi citizen who passes away while abroad is exempt from the payment of all customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1384",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "Bangladeshi citizen",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        2502
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৬[৪০০ (চারশত)] মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a defined maximum value without the obligation to pay any customs duties or taxes. This allowance is applicable regardless of the duration the passenger spent abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_993",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value without the payment of any customs duties or taxes, regardless of the duration of their stay abroad."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1641",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।— এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage": [
+          "The baggage of a Bangladeshi citizen who dies abroad is granted a complete exemption from all types of customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1646",
+      "entity_sub_entities": {
+        "Passenger Baggage": [
+          "baggage",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        178
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।— বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্ত হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes may import baggage up to a specific maximum monetary value without paying customs duties or taxes, regardless of their duration of stay abroad.",
+          "This duty-free import benefit is restricted to a maximum of three times per calendar year for each passenger."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2513",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "duty-free import benefit",
+          "passenger"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        257,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশ অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪ (চার) শত মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্য হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value free of all duties and taxes, regardless of the duration of their stay abroad.",
+          "This duty-free concession for land-based passengers is subject to a frequency limitation, allowing it to be availed no more than a specified number of times within a single calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2711",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "duties",
+          "taxes",
+          "duty-free concession",
+          "calendar year"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        30,
+        47,
+        171,
+        1933,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "৫। অসুস্থ, পঙ্গু ও বৃদ্ধ যাত্রীর জন্য সুবিধা।- আকাশপথ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage": [
+          "A passenger arriving by air, sea, or land who is ill, disabled, or elderly is entitled to import medical equipment and wheelchairs for personal use.",
+          "Such medical items are exempt from the payment of all customs duties and taxes upon arrival."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2712",
+      "entity_sub_entities": {
+        "Passenger Baggage": [
+          "medical equipment",
+          "wheelchairs",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        178,
+        464,
+        984
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পদর্ আগত যাত্রীর জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4",
+      "resolved_text": "৪। স্থল পদর্ আগত যাত্রীর জন্য সুববধা।- ববদেদশ অবস্থাদনর বময়াে বনববদথশদষ স্থলপদর্ আগত একজন যাত্রী সদবাথচ্চ ৪ (চার) শত মাবকথন র্লার মূদের ব্যাদগজ সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন:\nতবে শতথর্াদক বয, উিরূপ সুববধা একজন যাত্রী এক পবিকা বৎসদর ৩ (বতন) বাদরর অবধক প্রাপ্য হইদবন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to a defined maximum value, regardless of the duration of their stay abroad.",
+          "This duty-free import facility is subject to a specific frequency limit, restricting passengers to a maximum number of claims within a single calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1058",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "claims"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        47,
+        171,
+        1022
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "ব্যাগেজ সুবিধার অতিরিক্ত পরিমাণ পণ্য আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_10",
+      "resolved_text": "১০। ব্যাগেজ সুবিধার অতিরিক্ত পরিমাণ পণ্য আমদানির ক্ষেত্রে শুল্ক ও কর।—এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোনো যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোনো পণ্য, আমদানি নীতি আদেশ বা অন্য কোনো আইনের অধীন নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত, আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রকের ছাড়পত্র উপস্থাপন সাপেক্ষে, আইন অনুযায়ী ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক ও কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "This clause outlines the conditions for importing goods that exceed the standard baggage allowance or categories defined in the relevant schedules.",
+          "Passengers may import items outside the specified schedules, provided the goods are not restricted or prohibited under import policy orders or other applicable laws.",
+          "The release of such goods is contingent upon the presentation of a clearance certificate from the Chief Controller of Imports and Exports.",
+          "The goods may be cleared only after undergoing the Adjudication of Customs Offences process, which includes the payment of all applicable duties, taxes, fines, and penalties."
+        ],
+        "Adjudication of Customs Offences": [
+          "This process is mandated for the clearance of baggage goods that exceed specified schedules or limits.",
+          "It serves as the legal mechanism to determine and collect the required duties, taxes, and any associated fines or penalties before the release of non-standard baggage imports."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The entity is designated as the authority whose clearance certificate must be obtained and presented by a passenger to import goods outside of the permitted baggage schedules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3199",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "goods",
+          "standard baggage allowance",
+          "schedules",
+          "items",
+          "import policy orders",
+          "applicable laws",
+          "clearance certificate",
+          "duties",
+          "taxes",
+          "fines",
+          "penalties"
+        ],
+        "Adjudication of Customs Offences": [
+          "baggage goods",
+          "schedules",
+          "limits",
+          "duties",
+          "taxes",
+          "fines",
+          "penalties",
+          "non-standard baggage imports"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "clearance certificate",
+          "passenger",
+          "goods",
+          "baggage schedules"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        30,
+        46,
+        117,
+        171,
+        245,
+        257,
+        349,
+        530,
+        1228,
+        1307,
+        1506,
+        1887,
+        2460,
+        2789,
+        3227,
+        12370
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।—দেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৪০০ (চারশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন:\nতবে শর্ত থাকে যে, উক্তরূপ সুবিধা একজন যাত্রী এক পঞ্জিকা বৎসরে ৩ (তিন) বারের অধিক প্রাপ্য হইবেন না।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a specified maximum value free of all duties and taxes, regardless of their duration of stay abroad.",
+          "This duty-free import privilege is restricted to a maximum of three occurrences per calendar year for each passenger."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3193",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "duties",
+          "taxes",
+          "duty-free import privilege"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        30,
+        47,
+        171,
+        2339
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-৩",
+      "text_id": "metadata_11",
+      "resolved_text": "তফসিল-৩\n[ বিধি ৩(৫), ৩(৭) ও ১০ দ্রষ্টব্য ]\n[শুল্ক ও কর মুক্ত পণ্যের তালিকা]",
+      "entity_concepts": {
+        "Duty-Free Goods": [
+          "This schedule provides a categorized list of goods that are exempt from the payment of customs duties and taxes upon import.",
+          "The application of these exemptions is regulated by specific provisions stipulated in the customs rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1359",
+      "entity_sub_entities": {
+        "Duty-Free Goods": [
+          "goods",
+          "customs duties",
+          "taxes",
+          "exemptions",
+          "customs rules"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        163,
+        170,
+        1375
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-২",
+      "text_id": "metadata_13",
+      "resolved_text": "তফবসল-২\n[বববধ ৩ এর উপ-বববধ (৫) ও (৭) এবাং বববধ ১০ দ্রষ্টব্য]\nশুল্ক ও কর আদরাপদযাগ্য পদের সাংবক্ষপ্ত তাবলকা\n(ক) ব্যবিগত এবাং গৃহস্থাবল কাদয থব্যবহৃত হয় না এইরূপ ম াঙ্গনা পে।\n(খ) বববধ ৩ এ ববণতথ প্রাপ্যতা সীমার অবতবরি আনীত ব্যাদগজ।\n(গ) ব্যাদগদজ আমোবনকৃত বাবণবজযক পবরমাদণ বয ম াঙ্গনা পে।\n(ঘ) বনম্নববণতথ গৃহস্থাবল ও ব্যবিগত পে ব্যাদগজ বহসাদব আমোবন হইদলও প্রবতটির পাদবথউবিবখত বনবেষ্টথ পবরমাণ শুল্ক ও কর পবরদশাধ কবরদত হইদব, যর্া:-",
+      "entity_concepts": {
+        "Baggage Rules": [
+          "This schedule provides the list of items subject to duty and taxes under the specific sub-rules referenced. It delineates categories of goods, including non-personal/non-household items and excess baggage quantities that fall outside standard duty-free allowances."
+        ],
+        "Customs Duty and Taxes": [
+          "Specified categories of imported baggage, including commercial quantities and designated household items, are subject to mandatory payment of customs duties and taxes upon arrival."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1461",
+      "entity_sub_entities": {
+        "Baggage Rules": [
+          "items",
+          "non-personal items",
+          "non-household items",
+          "excess baggage quantities",
+          "duty-free allowances"
+        ],
+        "Customs Duty and Taxes": [
+          "imported baggage",
+          "commercial quantities",
+          "household items",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        117,
+        255,
+        427,
+        634,
+        1839,
+        1954,
+        2381,
+        8901
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফবসল-৩",
+      "text_id": "metadata_14",
+      "resolved_text": "তফবসল-৩\n[ বববধ ৩ এর উপ-বববধ (৫) ও (৭) এবাং বববধ ১০ দ্রষ্টব্য ]\nশুল্ক ও কর মুি পদের তাবলকা",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage Rules 2024": [
+          "The third schedule of these rules provides a list of baggage items that are eligible for exemption from customs duties and taxes. This list is referenced by specific sub-rules relating to baggage import allowances."
+        ],
+        "Customs Duty": [
+          "The schedule outlines the categories of goods which qualify for duty-free import status for passengers under the specified rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_190",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage Rules 2024": [
+          "baggage items",
+          "customs duties",
+          "taxes",
+          "baggage import allowances"
+        ],
+        "Customs Duty": [
+          "goods",
+          "duty-free import status"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        13,
+        14,
+        871,
+        1554,
+        5891,
+        7562
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-৩",
+      "text_id": "metadata_15",
+      "resolved_text": "তফবসল-৩\n[ বববধ ৩ এর উপ-বববধ (৫) ও (৭) এবাং বববধ ১০ দ্রষ্টব্য ]\nশুল্ক ও কর মুি পদের তাবলকা",
+      "entity_concepts": {
+        "Customs Duty and Tax Exemption Schedule": [
+          "This schedule provides the list of items eligible for exemptions from customs duty and taxes.",
+          "It is referenced in connection with specific procedural rules regarding the application of these exemptions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1462",
+      "entity_sub_entities": {
+        "Customs Duty and Tax Exemption Schedule": [
+          "items",
+          "customs duty",
+          "taxes",
+          "procedural rules",
+          "exemptions"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        13,
+        117,
+        163,
+        1256,
+        6897
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-১",
+      "text_id": "metadata_8",
+      "resolved_text": "তফসিল-১\n[বিধি ৩ এর উপ-বিধি (৪) এবং বিধি ৮ এর উপ-বিধি (১), (২) ও (৩) দ্রষ্টব্য]\nব্যাগেজ ঘোষণা ফরম\n\n১। যাত্রীর নাম (Name of the Passenger):\n২। পাসপোর্ট নং (Passport Number):\n৩। জাতীয়তা (Nationality):\n৪। আগমনের তারিখ (Date of arrival): (দিন/মাস/বৎসর) (DD/MM/YYYY)\n৫। ফ্লাইট নং (Flight No.):\n৬। ব্যাগেজের সংখ্যা (Number of baggage):\n৭। কোন দেশ হইতে আগমন (Country from where coming):\n৮। আপনি বিগত ১ (এক) মাসে যে সকল দেশ ভ্রমণ করিয়াছেন (Countries you have travelled in the last one month):\n\n| দেশের নাম (Name of the Country) | ভ্রমণের তারিখ (Travel Date) |\n| --- | --- |\n| (ক) |  |\n| (খ) |  |\n| (গ) |  |\n\n\n৯। শুল্ক ও কর আরোপযোগ্য আমদানিকৃত পণ্যের মোট মূল্য (টাকায়) [Total value of dutiable goods being imported (Tk.)]:\n\n১০। আপনি কী নিম্নবর্ণিত পণ্যসমূহ বাংলাদেশে আনিয়াছেন (Are you bringing the following items into Bangladesh):\n\n| বিবরণ | হ্যাঁ/না (Yes/No) |\n| --- | --- |\n| (ক) তফসিল-২ এ বর্ণিত একটির অধিক শুল্ক ও কর আরোপযোগ্য কোনো পণ্য (More than one of any goods which are dutitable as described in Schedule-2) | হ্যাঁ/না (Yes/No) |\n| (খ) তফসিল-৩ এ বর্ণিত শুল্ক ও কর মুক্ত একটির অধিক কোনো পণ্য (মোবাইল ফোনের ক্ষেত্রে দুটির অধিক) [ More than one of any goods (More than two for cellular phone) which are duty free as described in Schedule-3] | হ্যাঁ/না (Yes/No) |\n| (গ) আমদানি নিষিদ্ধ পণ্য (Prohibited articles) | হ্যাঁ/না (Yes/No) |\n| (ঘ) ১ (এক) শত গ্রাম ওজনের ঊর্ধ্বে স্বর্ণালঙ্কার বা ২ (দুই) শত গ্রাম ওজনের ঊর্ধ্বে রৌপ্যের তৈরি অলঙ্কার [Gold jewellery in excess of 100 gm or Silver jewellery in excess of 200 gm] | হ্যাঁ/না (Yes/No) |\n| (ঙ) প্রাপ্যতা সীমার ঊর্ধ্বে (১১৭ গ্রাম স্বর্ণ/২০০ গ্রাম রুপা) যেকোনো পরিমাণ স্বর্ণ বা রৌপ্যের বার বা পিণ্ড [Gold or Silver Bar or Bullion in excess of allowable limit (117 Gram Gold/200 Gram Silver)] | হ্যাঁ/না (Yes/No) |\n| (চ) প্রতি বৎসরে ০১ (এক) বার স্বর্ণবার/স্বর্ণপিণ্ড/রৌপ্যবার/রৌপ্যপিণ্ড/স্বর্ণালঙ্কার/রুপার অলঙ্কার (Gold or Silver Bar or Bullion or Gold or Silver ornaments once every year) | হ্যাঁ/না (Yes/No) |\n| (ছ) মাংস এবং মাংস দ্বারা তৈরি পণ্য/ডেইরি প্রোডাক্টস/মাছ/পোলট্রি প্রোডাক্টস (Meat and meat products/dairy products/fish/poultry products) | হ্যাঁ/না (Yes/No) |\n| (জ) বীজ/গাছের চারা/ফলমূল/ফুল/অন্যান্য উদ্ভিজ্জ পণ্য (Seeds/plants/fruits/ flowers/other planting materials) | হ্যাঁ/না (Yes/No) |\n| (ঝ) নতুন মোবাইল/সেলুলার ফোন (New Mobile/cellular phone) | হ্যাঁ/না (Yes/No) |\n| (ঞ) ১০ (দশ) হাজার মার্কিন ডলারের অতিরিক্ত বা তাহার সমপরিমাণ অর্থের অধিক কোনো বৈদেশিক মুদ্রা (Foreign currency exceeding US $ 10,000 or equivalent) [এক্ষেত্রে $10,000 এর অধিক বৈদেশিক মুদ্রা থাকিলে কাস্টমস হলে বৈদেশিক মুদ্রা ফরমে পৃথকভাবে ঘোষণা প্রদান করিতে হইবে] | হ্যাঁ/না (Yes/No) |\n\n\nউপরি-উক্ত কোনো প্রশ্নের জবাব যদি হ্যাঁ হয়, তাহা হইলে অনুগ্রহ করিয়া রেড চ্যানেলে কর্তব্যরত কাস্টমস কর্মকর্তাকে অবহিত করুন (Please report to Customs Officer at the Red Channel counter in case answer to any of the above questions is 'Yes'.)\n\nস্বাক্ষর (Signature):\nরেভিনিউ অফিসার (Revenue Officer)\n\nযাত্রীর স্বাক্ষর (পাসপোর্ট অনুসারে):\nSignature of the Passenger (according to Passport)\nতারিখ (Date):",
+      "entity_concepts": {
+        "Passenger Baggage Declaration Form": [
+          "This form serves as the official declaration document for passengers arriving in Bangladesh to declare their baggage and imported goods. It requires passengers to provide personal details, travel history, and information on whether they are carrying specific categories of restricted or dutiable items."
+        ],
+        "Schedule": [
+          "The form references specific schedules that categorize goods for the purpose of customs assessment and duty-free allowances."
+        ],
+        "Schedule-2": [
+          "Schedule-2 specifies goods that are subject to customs duty and taxes, requiring passengers to declare if they are carrying more than the prescribed quantity."
+        ],
+        "Schedule-3": [
+          "Schedule-3 lists goods that are eligible for duty-free entry, with specific quantitative limits defined for items like mobile phones."
+        ],
+        "Red Channel": [
+          "The Red Channel is the designated clearance area where passengers must report to a customs officer if they are carrying dutiable, prohibited, or excess quantity items as indicated in their baggage declaration."
+        ],
+        "Customs Officer": [
+          "Customs officers are responsible for receiving declarations from passengers at the Red Channel and verifying the imported goods against the declared items."
+        ],
+        "Gold and Silver Bullion": [
+          "Specific declaration requirements apply to gold and silver bars, bullion, and ornaments based on their weight and frequency of import."
+        ],
+        "Revenue Officer": [
+          "The Revenue Officer is the designated official authorized to validate the baggage declaration process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1712",
+      "entity_sub_entities": {
+        "Passenger Baggage Declaration Form": [
+          "baggage",
+          "imported goods",
+          "personal details",
+          "travel history",
+          "restricted items",
+          "dutiable items"
+        ],
+        "Schedule": [
+          "goods",
+          "customs assessment",
+          "duty-free allowances"
+        ],
+        "Schedule-2": [
+          "goods",
+          "customs duty",
+          "taxes"
+        ],
+        "Schedule-3": [
+          "goods",
+          "mobile phones"
+        ],
+        "Red Channel": [
+          "clearance area",
+          "dutiable items",
+          "prohibited items",
+          "excess quantity items",
+          "baggage declaration"
+        ],
+        "Customs Officer": [
+          "declarations",
+          "imported goods",
+          "declared items"
+        ],
+        "Gold and Silver Bullion": [
+          "gold bars",
+          "silver bars",
+          "bullion",
+          "ornaments"
+        ],
+        "Revenue Officer": [
+          "baggage declaration process"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        10,
+        13,
+        47,
+        49,
+        136,
+        220,
+        313,
+        316,
+        402,
+        439,
+        478,
+        501,
+        658,
+        741,
+        791,
+        879,
+        919,
+        1058,
+        1079,
+        1125,
+        1240,
+        1465,
+        2249,
+        2381,
+        2641,
+        2925,
+        5888,
+        7838
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফবসল-১",
+      "text_id": "metadata_9",
+      "resolved_text": "তফবসল-১\n[বববধ ৩ এর উপ-বববধ (৪) এবাং বববধ ৮ এর উপ-বববধ (১), (২) ও (৩) দ্রষ্টব্য]\nব্যাদগজ বঘাষণা ফরম\n১। যাত্রীর নাম (Name of the Passenger):\n২। পাসদপাট থনাং (Passport Number):\n৩। জাতীয়তা (Nationality):\n৪। আগমদনর তাবরখ (Date of arrival): (বেন/মাস/বৎসর) (DD/MM/YYYY)\n৫। ফ্লাইট নাং (Flight No.):\n৬। ব্যাদগদজর সাংখ্যা (Number of baggage):\n৭। বকান্ বেশ হইদত আগমন (Country from where coming):\n৮। আপবন ববগত ১ (এক) মাদস বয সকল বেশ ভ্রমণ কবরয়াদছন (Countries you have travelled in the last one month):\n\n  | বেদশর নাম (Name of the Country) | ভ্রমণদণর তাবরখ (Travel Date)\n(ক) |\n(খ) |\n(গ) |\n\n৯। শুল্ক ও কর আদরাপদযাগ্য আমোবনকৃত পদের বমাট মূে (টাকায়) [Total value of dutiable goods being imported (Tk.)]:\n১০। আপবন কী বনম্নববণতথ পেসমূহ বাাংলাদেদশ আবনয়াদছন ( Are you bringing the following items into Bangladesh):\n(ক) তফবসল-২ এ ববণতথ একটির অবধক শুল্ক ও কর আদরাপদযাগ্য বকাদনা পে (More than one of any goods which are dutitable as described in Schedule-2) | হযাঁ/না (Yes/No)\n(খ) তফবসল-৩ এ ববণতথ শুল্ক ও কর মুি একটির অবধক বকাদনা পে (দমাবাইল বফাদনর বক্ষদত্র দুটির অবধক) [ More than one of any goods (More than two for cellular phone) which are duty free as described in Schedule-3] | হযাঁ/না (Yes/No)\n(গ) আমোবন বনবষদ্ধ পে (Prohibited articles) | হযাঁ/না (Yes/No)\n(ঘ) ১ (এ ) শত গ্রাে ওযঙ্গনর ঊঙ্গবথস্বর্াথলং ার বা ২ (দুই) শত গ্রাে ওযঙ্গনর ঊঙ্গবথ বরৌদপ্যর দতবর অলাংকার [Gold jewellery in excess of 100 gm or Silver jewellery in excess of 200 gm | হযাঁ/না (Yes/No)\n(ঙ) প্রাপ্যতা সীমার ঊদর্ধ্থবযদকাদনা পবরমাণ স্বণ থবা বরৌদপ্যর বার বা বপন্ড (Gold or Silver Bar or Bullion in excess of allowable limit) | হযাঁ/না (Yes/No)\n(চ) মাাংস এবাং মাাংস িারা দতনর পে/দর্ইনর বপ্রার্াক্টস/মাছ/দপালবট্র বপ্রার্াক্টস (Meat and meat products/dairy products/fish/poultry products) | হযাঁ/না (Yes/No)\n(ছ) বীজ/গাদছর চারা/ফলমূল/ফুল/অন্যান্য উবিজ্জ পে (Seeds/plants/fruits/flowers/other planting materials) | হযাঁ/না (Yes/No)\n(জ) নূতন বমাবাইল/দসলুলার বফান ( New Mobile/cellular phone) | হযাঁ/না (Yes/No)\n(ঝ) ৫ (পাঁচ) হাজার মাবকথন র্লাদরর অবতবরি বা তাহার সমপবরমাণ অদর্রথ অবধক বকাদনা দবদেবশক মুদ্রা (Foreign currency exceeding US $ 5,000 or equivalent) | হযাঁ/না (Yes/No)\n\nউপবর-উি বকাদনা প্রদের জবাব যবে হযাঁ হয়, তাহা হইদল অনুগ্রহ কবরয়া বরর্ চযাদনদল কতব্যথ রত কাস্টমস কমকথ তাথদক অববহত করুন (Please report to Customs Officer at the Red Channel counter in case answer to any of the above questions is 'Yes'.)\n\nস্বাক্ষর (Signature):\nবরবভ্বনউ অবফসার অব কাস্টমস\n(Revenue officer of Customs)\n\nযাত্রীর স্বাক্ষর (পাসদপাট থঅনুসাদর):\nSignature of the Passenger (according to Passport)\nতাবরখ (Date):",
+      "entity_concepts": {
+        "Passenger Baggage Declaration Form": [
+          "This form serves as the official declaration for passengers arriving in Bangladesh to report their baggage and imported goods to Customs authorities.",
+          "It collects essential passenger identification details, travel history, and requires a declaration of specific dutiable, duty-free, prohibited, or restricted items."
+        ],
+        "Schedule-2": [
+          "This schedule lists items subject to customs duty and taxes, and passengers must declare if they are importing more than one of these goods."
+        ],
+        "Schedule-3": [
+          "This schedule lists duty-free items for which specific quantitative limits apply for baggage import, with a higher allowance for cellular phones."
+        ],
+        "Red Channel": [
+          "Passengers who answer yes to any of the declaration questions regarding dutiable, restricted, or prohibited items must report to the Customs Officer at this counter for clearance."
+        ],
+        "Customs Officer": [
+          "Passengers are instructed to approach the officer at the Red Channel counter if they are carrying items that require declaration or are subject to regulatory restrictions."
+        ],
+        "Revenue Officer": [
+          "This officer is responsible for receiving and validating the passenger's baggage declaration to ensure compliance with customs procedures."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_188",
+      "entity_sub_entities": {
+        "Passenger Baggage Declaration Form": [
+          "passenger identification details",
+          "travel history",
+          "dutiable items",
+          "duty-free items",
+          "prohibited items",
+          "restricted items"
+        ],
+        "Schedule-2": [
+          "items subject to customs duty",
+          "taxes"
+        ],
+        "Schedule-3": [
+          "duty-free items",
+          "cellular phones"
+        ],
+        "Red Channel": [
+          "dutiable items",
+          "restricted items",
+          "prohibited items",
+          "Customs Officer"
+        ],
+        "Customs Officer": [
+          "Red Channel counter"
+        ],
+        "Revenue Officer": [
+          "passenger's baggage declaration"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        49,
+        439,
+        501,
+        628,
+        658,
+        741,
+        791,
+        879,
+        1125,
+        1140,
+        1465,
+        2018,
+        2249,
+        9311,
+        10529
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-২",
+      "text_id": "metadata_9",
+      "resolved_text": "তফসিল-২\n[বিধি ৩(৫), ৩(৭) ও ১০ দ্রষ্টব্য]\n[শুল্ক-কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা]\n(ক) ব্যক্তিগত এবং গৃহস্থালী কাজে ব্যবহৃত হয়না এমন কোনো পণ্য।\n(খ) বিধি-৩ এ বর্ণিত প্রাপ্যতা সীমার অতিরিক্ত আনীত ব্যাগেজ।\n(গ) ব্যাগেজে আমদানিকৃত বাণিজ্যিক পরিমাণে যে কোনো পণ্য।\n(ঘ) নিম্নবর্ণিত গৃহস্থালী ও ব্যক্তিগত পণ্য ব্যাগেজ হিসাবে আমদানি হইলেও প্রতিটির পার্শ্বে উল্লিখিত নির্দিষ্ট পরিমাণ শুল্ক ও কর পরিশোধ করিতে হইবে, যথা:-",
+      "entity_concepts": {
+        "Schedule-2": [
+          "This schedule lists categories of imported goods that are subject to customs duties and taxes. It serves as a reference for specific rules regarding baggage clearance as stipulated in the relevant regulatory provisions."
+        ],
+        "Baggage Rules": [
+          "The rules establish procedures and limitations for the importation of goods as baggage, including provisions for goods used for non-personal purposes, excess quantities beyond established limits, and items imported in commercial quantities.",
+          "Specific household and personal items listed in the schedule remain subject to the payment of applicable duties and taxes even when imported as baggage."
+        ],
+        "Customs Duty": [
+          "Customs duties and taxes are applicable to items exceeding the permissible baggage allowance, commercial quantities of imported baggage, and goods not intended for personal or household use."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1358",
+      "entity_sub_entities": {
+        "Schedule-2": [
+          "imported goods",
+          "customs duties",
+          "taxes",
+          "baggage clearance"
+        ],
+        "Baggage Rules": [
+          "goods",
+          "baggage",
+          "goods used for non-personal purposes",
+          "excess quantities",
+          "items imported in commercial quantities",
+          "household items",
+          "personal items",
+          "duties",
+          "taxes"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "taxes",
+          "items exceeding the permissible baggage allowance",
+          "commercial quantities of imported baggage",
+          "goods not intended for personal or household use"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        10,
+        13,
+        14,
+        30,
+        47,
+        255,
+        427,
+        525,
+        1465,
+        1832,
+        5886,
+        6475,
+        7837,
+        8475,
+        8505,
+        9303
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-১",
+      "text_id": "metadata_9",
+      "resolved_text": "তফবসল-১\n[বববধ ৩ এর উপ-বববধ (৪) এবাং বববধ ৮ এর উপ-বববধ (১), (২) ও (৩) দ্রষ্টব্য]\nব্যাদগজ বঘাষণা ফরম\n\n১। যাত্রীর নাম (Name of the Passenger):\n২। পাসদপাট থনাং (Passport Number):\n৩। জাতীয়তা (Nationality):\n৪। আগমদনর তাবরখ (Date of arrival): (বেন/মাস/বৎসর) (DD/MM/YYYY)\n৫। ফ্লাইট নাং (Flight No.):\n৬। ব্যাদগদজর সাংখ্যা (Number of baggage):\n৭। বকান্ বেশ হইদত আগমন (Country from where coming):\n৮। আপবন ববগত ১ (এক) মাদস বয সকল বেশ ভ্রমণ কবরয়াদছন (Countries you have travelled in the last one month):\nবেদশর নাম (Name of the Country) | ভ্রমদণর তাবরখ (Travel Date)\n(ক)\n(খ)\n(গ)\n\n৯। শুল্ক ও কর আদরাপদযাগ্য আমোবনকৃত পদের বমাট মূে (টাকায়) [Total value of dutiable goods being imported (Tk.)]:\n\n১০। আপবন কী বনম্নববণতথ পেসমূহ বাাংলাদেদশ আবনয়াদছন ( Are you bringing the following items into Bangladesh):\n(ক) তফবসল-২ এ ববণতথ একটির অবধক শুল্ক ও কর আদরাপদযাগ্য বকাদনা পে (More than one of any goods which are dutitable as described in Schedule-2) | হযাঁ/না (Yes/No)\n(খ) তফবসল-৩ এ ববণতথ শুল্ক ও কর মুি একটির অবধক বকাদনা পে (দমাবাইল বফাদনর বক্ষদত্র দুটির অবধক) [ More than one of any goods (More than two for cellular phone) which are duty free as described in Schedule-3] | হযাঁ/না (Yes/No)\n(গ) আমোবন বনবষদ্ধ পে (Prohibited articles) | হযাঁ/না (Yes/No)\n(ঘ) ১ (এক) শত গ্রাে ওযঙ্গনর ঊঙ্গবথস্বর্াথলং ার বা ২ (দুই) শত গ্রাে ওযঙ্গনর ঊঙ্গবথ বরৌদপ্যর দতবর অলাংকার [Gold jewellery in excess of 100 gm or Silver jewellery in excess of 200 gm | হযাঁ/না (Yes/No)",
+      "entity_concepts": {
+        "Passenger Baggage Declaration Form": [
+          "This form is established for passengers to declare their personal baggage upon arrival.",
+          "It serves as a mandatory document for reporting imported goods, travel history, and compliance with specific duty-free and dutiable goods regulations as per defined rules."
+        ],
+        "Schedule-2": [
+          "This schedule lists specific goods that are subject to customs duty and taxes.",
+          "Passengers are required to declare if they are bringing more than one item from this category."
+        ],
+        "Duty-Free Goods": [
+          "These items are eligible for duty-free import under specific quantitative limits defined in the relevant schedule.",
+          "The declaration form requires passengers to specify if they are exceeding the authorized quantity for duty-free items, with a higher threshold allowed specifically for mobile phones."
+        ],
+        "Prohibited Goods": [
+          "Passengers must declare whether they are carrying any items prohibited for import into Bangladesh."
+        ],
+        "Baggage": [
+          "The baggage declaration requires specific information including weight thresholds for gold and silver jewelry, where amounts exceeding defined limits must be disclosed."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1459",
+      "entity_sub_entities": {
+        "Passenger Baggage Declaration Form": [
+          "personal baggage",
+          "imported goods",
+          "travel history",
+          "duty-free goods",
+          "dutiable goods"
+        ],
+        "Schedule-2": [
+          "goods",
+          "customs duty",
+          "taxes"
+        ],
+        "Duty-Free Goods": [
+          "items",
+          "mobile phones"
+        ],
+        "Prohibited Goods": [
+          "items prohibited for import"
+        ],
+        "Baggage": [
+          "gold jewelry",
+          "silver jewelry"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        10,
+        13,
+        47,
+        117,
+        226,
+        327,
+        658,
+        785,
+        1059,
+        1079,
+        1125,
+        1152,
+        1375,
+        1465,
+        9310
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

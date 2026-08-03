@@ -1,0 +1,121 @@
+{
+  "thread_id": "cluster_00781_t1",
+  "cluster_id": 781,
+  "cluster_label": "Ministry of Industries",
+  "title": "Standardization of Certification Documentation",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 4,
+    "perturbation_detection": 5,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the administrative requirement for certifying industrial declarations evolved in terms of signatory oversight between the 2022 and 2025 regulatory instruments?",
+      "answer": "While both the 2022 (src=20220717_200-_2022_108_output.json) and 2025 (src=20250602_193-AIN_2025_15_Customs_output) instruments maintain the requirement for signatures from the Ministry of Industries, the National Board of Revenue, and the VAT departmental official, the 2022 document additionally mandates a countersignature by the relevant Commissioner of Customs and the signature of the management authority. This indicates an evolution toward a more streamlined, sector-specific certification process for electric bike production in the 2025 instrument compared to the broader administrative oversight required in 2022.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the significance of the Ministry of Industries' role in the documentation process across these regulatory periods?",
+      "answer": "The Ministry of Industries serves as a key certifying entity for production materials and declarations in both the 2022 and 2025 instruments. Its role is to provide a representative's name, signature, and date, which functions as a standardized administrative procedure to validate production declarations across various industrial sectors, including the specific production of electric bikes and accessories.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2025 regulatory instrument expand the technical detail required for industrial declarations compared to the general signature requirements seen in 2022?",
+      "answer": "The 2025 instrument (src=20250602_193-AIN_2025_15_Customs_output) evolves the concept by shifting from simple signature validation to requiring detailed technical data, such as the H.S. Code for both finished goods and raw materials, as well as specific metrics on waste percentages. While the 2022 instrument focused primarily on establishing the hierarchy of signatories, the 2025 update integrates these signatures into a comprehensive framework for declaring inputs and waste for electric bike production.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the inclusion of the Value Added Tax registration number critical to the administrative procedure established in the 2025 regulatory instrument?",
+      "answer": "The inclusion of the Value Added Tax registration number is mandated in the 2025 instrument to formalize the identification of industrial entities involved in the production of electric bikes and accessories. This requirement ensures that the production declaration is linked directly to the entity's tax status, alongside the existing requirement for signatures from the Ministry of Industries and the National Board of Revenue.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 20250602_193-AIN_2025_15_Customs_output, the National Board of Revenue is the sole entity responsible for signing production declarations, excluding any requirement for Ministry of Industries representation.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "excluding any requirement for Ministry of Industries representation",
+      "correct_fact": "the document requires the signature of a representative from the Ministry of Industries",
+      "answer": "The statement is inaccurate. The regulation actually mandates that a representative from the Ministry of Industries must provide their name, signature, and date on the production declaration, alongside the National Board of Revenue representative.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 20220717_200-_2022_108_output document mandates a countersignature by the relevant Commissioner of Customs.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 20220717_200-_2022_108_output document explicitly requires a countersignature by the relevant Commissioner of Customs.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Per the 20250602_193-AIN_2025_15_Customs_output, industrial entities producing electric bikes are required to declare the H.S. Code for finished products but are exempt from declaring the H.S. Code for raw materials.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "are exempt from declaring the H.S. Code for raw materials",
+      "correct_fact": "the regulation requires the formal declaration of H.S. Code for both the finished products and the raw materials",
+      "answer": "The statement is inaccurate. The regulation mandates the formal declaration of H.S. Code for both the finished products (such as electric bikes and accessories) and the raw materials used in their production.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The administrative procedures for production declarations require the inclusion of the Value Added Tax registration number for industrial entities involved in the production of specified goods, as noted in the 20250602_193-AIN_2025_15_Customs_output.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The 20250602_193-AIN_2025_15_Customs_output mandates the inclusion of the Value Added Tax registration number for industrial entities.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 20220717_200-_2022_108_output requires the name and signature of the VAT Departmental Official, but does not require the signature of the company's management authority.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "does not require the signature of the company's management authority",
+      "correct_fact": "the document requires the signature and date of the institution's management authority",
+      "answer": "The statement is inaccurate. The document explicitly requires the signature and date of the institution's management authority in addition to the VAT departmental official.",
+      "clause_text_ids": [
+        "metadata_3",
+        "metadata_9"
+      ]
+    }
+  ]
+}

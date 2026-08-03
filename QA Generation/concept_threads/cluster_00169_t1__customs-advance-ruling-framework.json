@@ -1,0 +1,109 @@
+{
+  "cluster_id": 169,
+  "cluster_label": "customs matters",
+  "thread_index": 1,
+  "thread_id": "cluster_00169_t1",
+  "title": "Customs Advance Ruling Framework",
+  "summary": "This thread establishes the formal mechanism for Advance Rulings in customs matters, defining the scope of applicability and the binding nature of these rulings for customs stations and stakeholders.",
+  "evolution": {
+    "procedure": "Formalized the process for obtaining and applying advance rulings."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-05",
+      "instrument": "Customs Ruling (Advance) Rules, 2016",
+      "change": "Introduction of the legal framework for Advance Rulings.",
+      "clause_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "সংক্ষিপ্ত শিরোনাম ও প্রবর্তন",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "১। সংক্ষিপ্ত শিরোনাম ও প্রবর্তন।— (১) এই বিধিমালা কাস্টমস রুলিং (অগ্রিম) বিধিমালা, ২০১৬ নামে অভিহিত হইবে।\n(২) এই বিধিমালা অবিলম্বে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Advance Rulings Rules 2016": [
+          "These rules are officially titled the Advance Rulings Rules 2016 and provide the procedural framework for issuing advance rulings in customs matters.",
+          "The rules come into force immediately upon their issuance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1002",
+      "entity_sub_entities": {
+        "Advance Rulings Rules 2016": [
+          "Advance Rulings Rules 2016",
+          "procedural framework",
+          "advance rulings",
+          "customs matters"
+        ]
+      },
+      "clause_clusters": [
+        169,
+        254,
+        1096,
+        1142
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "অগ্রিম রুলিং প্রতিপালনের বাধ্যবাধকতা",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11",
+      "resolved_text": "১১। অগ্রিম রুলিং প্রতিপালনের বাধ্যবাধকতা।— (১) অগ্রিম রুলিং প্রতিপালন করা নিম্নবর্ণিত ব্যক্তি বা দপ্তরের জন্য আবশ্যকীয় হিসাবে গণ্য হইবে, যথা:-\n(ক) রুলিংধারী; এবং\n(খ) সকল কাস্টমস স্টেশন।\n(২) উপ-বিধি (১) এ উল্লিখিত রুলিং অভিন্ন পণ্যের শুল্কায়নের ক্ষেত্রে অন্য কোন আমদানিকারক, রপ্তানিকারক বা ব্যক্তি রেফারেন্স হিসাবে ব্যবহার করিতে পারিবেন।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "The holder of an advance ruling and all customs stations are mandatorily required to comply with the issued ruling. The ruling serves as a binding instruction for these parties regarding the specific customs matters it addresses."
+        ],
+        "Customs Station": [
+          "Every customs station is obligated to follow and uphold the requirements specified in an advance ruling."
+        ],
+        "Importer and Exporter": [
+          "Other importers, exporters, or relevant persons may use an existing advance ruling as a reference when clearing identical goods through customs."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1012",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "advance ruling",
+          "customs stations",
+          "customs matters"
+        ],
+        "Customs Station": [
+          "customs station",
+          "advance ruling"
+        ],
+        "Importer and Exporter": [
+          "importers",
+          "exporters",
+          "relevant persons",
+          "advance ruling",
+          "identical goods"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        79,
+        103,
+        118,
+        157,
+        169,
+        709,
+        2092,
+        11416
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

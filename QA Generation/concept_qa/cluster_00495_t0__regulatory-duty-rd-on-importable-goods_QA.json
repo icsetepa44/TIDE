@@ -1,0 +1,178 @@
+{
+  "thread_id": "cluster_00495_t0",
+  "cluster_id": 495,
+  "cluster_label": "persons",
+  "title": "Regulatory Duty (RD) on Importable Goods",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 5,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 3,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A business owner is preparing the necessary documentation for a shipment arriving at the Chittagong port on July 15, 2012. The goods are classified under a category that carries a statutory import duty of 25%. As the owner navigates the customs clearance process, they need to determine if any additional levies apply to their consignment. Given the current regulatory environment, they are trying to calculate the total tax liability before finalizing their budget for the clearance.",
+      "question": "What is the applicable Regulatory Duty (RD) rate for these goods?",
+      "answer": "A 5% Regulatory Duty is imposed as per the Customs Act 1969.",
+      "date_or_instrument": "2012-06-30 (20120630_249-AIN_2012_2418-Customs_outpu)",
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs officer is meticulously auditing a declaration filed on August 10, 2013, regarding a large incoming shipment. The items are subject to a statutory import duty rate of 25%, and the officer is verifying the tax assessment to ensure compliance with national trade regulations. They must determine the correct legal foundation and the specific percentage for the Regulatory Duty to be levied on these particular goods. The officer needs to ensure the calculation is precise to avoid any discrepancies in the duty assessment.",
+      "question": "Under which legal basis and at what rate should the Regulatory Duty be applied?",
+      "answer": "The Regulatory Duty should be applied at a rate of 5% under the authority of Section 18(2) of the Customs Act 1969.",
+      "date_or_instrument": "2013-07-01 (SRO 220-AIN/2013)",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An industrial manufacturer in Dhaka is finalizing the import of essential raw materials for their production line on June 20, 2024. These materials fall under a category that carries a 25% statutory customs duty. With recent policy changes fresh in mind, the procurement manager is carefully checking the latest SRO to understand the exact financial impact on their import costs. They require clarity on the specific Regulatory Duty rate currently mandated for these materials.",
+      "question": "What is the current Regulatory Duty rate applicable to these goods following the most recent policy update?",
+      "answer": "The Regulatory Duty rate is 3%.",
+      "date_or_instrument": "2024-06-06 (SRO 201-AIN/2024)",
+      "clause_text_ids": [
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A compliance team for a multinational trading firm is reviewing the updated fiscal landscape in late 2024. They are updating their internal manuals to reflect the most recent changes in the national customs regime. As they analyze the current legal framework governing imports, they need to identify the specific legislative authority that empowers the government to impose a Regulatory Duty on incoming goods.",
+      "question": "Which specific act now provides the authority for the government to impose Regulatory Duty under the 2024 policy framework?",
+      "answer": "The authority is provided by Section 18(2) of the Customs Act 2023.",
+      "date_or_instrument": "2024-06-06 (SRO 201-AIN/2024)",
+      "clause_text_ids": [
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A veteran trader is examining the evolution of import taxation policies over the last decade to plan a long-term logistics strategy. They are comparing the tax burden for goods subject to a 25% statutory import duty as they were treated under the 2013 SRO versus the current 2024 SRO. By evaluating these two distinct time periods, the trader hopes to understand the downward shift in the Regulatory Duty rate over the years.",
+      "question": "How has the Regulatory Duty rate for goods with a 25% statutory import duty changed between the 2013 SRO and the 2024 SRO?",
+      "answer": "The rate was reduced from 5% in 2013 to 3% in 2024.",
+      "date_or_instrument": "2013-07-01 and 2024-06-06",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the Customs Act 1969, the government issued SRO 201-AIN/2024 to formalize the reduction of the Regulatory Duty (RD) rate from 5% to 3% for imported goods.",
+      "question": "Is the regulatory framework mentioned in SRO 201-AIN/2024 legally based on the Customs Act 1969, and what is the correct rate adjustment?",
+      "conflict": "The context incorrectly attributes SRO 201-AIN/2024 to the Customs Act 1969, whereas the policy evolution dictates a transition to the Customs Act 2023.",
+      "answer": "No, the legal basis for SRO 201-AIN/2024, issued on 2024-06-06, is the Customs Act 2023, not the Customs Act 1969. The instrument formally reduced the Regulatory Duty rate from 5% to 3%.",
+      "clause_text_ids": [
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2012, the government transitioned the regulatory duty framework to the Customs Act 2023, setting the initial duty rate at 5% for goods with a 25% statutory import duty.",
+      "question": "Does the 2012 regulatory duty policy align with the implementation of the Customs Act 2023?",
+      "conflict": "The context incorrectly suggests the 2023 Act was in effect in 2012, while the timeline confirms the 1969 Act was the legal basis in 2012.",
+      "answer": "No, the 2012 policy (SRO 249-AIN/2012, dated 2012-06-30) was based on the Customs Act 1969. The transition to the Customs Act 2023 occurred later, specifically with the issuance of SRO 201-AIN/2024 on 2024-06-06.",
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of 2013-07-01, per SRO 220-AIN/2013, the government updated the regulatory duty rate to 3% under the authority of the Customs Act 2023.",
+      "question": "What is the error regarding the rate and legal basis in the 2013 regulatory duty announcement?",
+      "conflict": "The context misstates both the rate (3% instead of 5%) and the legal basis (2023 Act instead of 1969 Act) for the 2013 SRO.",
+      "answer": "The information is incorrect. On 2013-07-01, SRO 220-AIN/2013 maintained the Regulatory Duty at 5% and was based on the Customs Act 1969. The reduction to 3% and the adoption of the Customs Act 2023 did not occur until 2024-06-06.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been consistently importing goods subject to a 25% statutory rate of import duty since 2012. They paid the regulatory duty under the prevailing rules in 2013 and continued their business operations through the transition to the new 2023 legal framework.",
+      "question": "How has the regulatory duty rate applicable to this importer's goods changed from the 2013 SRO 220-AIN/2013 period to the current 2024 SRO 201-AIN/2024 period?",
+      "answer": "The regulatory duty rate has been reduced from 5% to 3%.",
+      "clauses_involved": [
+        "2013-07-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer is reviewing the historical compliance of a company that has been importing the same category of goods since 2012. The officer notes that the legal authority for imposing regulatory duties has shifted in the most recent regulatory update.",
+      "question": "What is the primary change in the legal basis for the regulatory duty imposed on these goods between the 2013 notification and the 2024 notification?",
+      "answer": "The legal basis shifted from the Customs Act 1969 to the Customs Act 2023.",
+      "clauses_involved": [
+        "2013-07-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-07-01",
+      "relative_offset": "nearly 11 years later",
+      "question": "In 2013-07-01, the Regulatory Duty was set at 5% under the Customs Act 1969. Nearly 11 years later, what major changes were introduced regarding the duty rate and the governing legal framework?",
+      "answer": "In 2024-06-06 (SRO 201-AIN/2024), the Regulatory Duty rate was reduced from 5% to 3%, and the legal basis transitioned from the Customs Act 1969 to the Customs Act 2023.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government imposes a five percent regulatory duty on goods subject to a twenty-five percent statutory import duty rate under the Customs Act.",
+        "The regulatory duty rate on goods subject to a twenty-five percent statutory import duty is reduced to three percent, with the legal authority transitioning to the Customs Act.",
+        "The government reiterates the five percent regulatory duty on goods subject to a twenty-five percent statutory import duty rate, while updating administrative references under the Customs Act."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government imposes a five percent regulatory duty on goods subject to a twenty-five percent statutory import duty rate under the Customs Act.",
+          "date": "2012-06-30"
+        },
+        {
+          "event": "The government reiterates the five percent regulatory duty on goods subject to a twenty-five percent statutory import duty rate, while updating administrative references under the Customs Act.",
+          "date": "2013-07-01"
+        },
+        {
+          "event": "The regulatory duty rate on goods subject to a twenty-five percent statutory import duty is reduced to three percent, with the legal authority transitioning to the Customs Act.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240606_201-AIN_2024_53_Customs_২৯ মে, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120630_249-AIN_2012_2418-Customs/20120630_249-AIN_2012_2418-Customs_output.json",
+        "customs_sros_OCR/20130701_220-AIN_2013_2459-Customs/20130701_220-AIN_2013_2459-Customs_output.json",
+        "customs_sros_OCR/20240606_201-AIN_2024_53_Customs/20240606_201-AIN_2024_53_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00495_t0__regulatory-duty-rd-on-importable-goods.json"
+    }
+  ]
+}

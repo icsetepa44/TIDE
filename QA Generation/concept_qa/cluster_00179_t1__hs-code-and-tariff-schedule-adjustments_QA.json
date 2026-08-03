@@ -1,0 +1,246 @@
+{
+  "thread_id": "cluster_00179_t1",
+  "cluster_id": 179,
+  "cluster_label": "Section 19",
+  "title": "HS Code and Tariff Schedule Adjustments",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 17,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 5,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics manager at a chemical trading firm in Dhaka is finalizing paperwork for an incoming consignment in June 2010. While cross-referencing the tariff schedule, they notice a discrepancy regarding the classification for entry 2833.29.40. To ensure the shipment clears customs without penalties, they need to verify the specific regulatory update that dictates the new classification for this item.",
+      "question": "What is the new HS Code entry that replaced 2833.29.40 according to the June 2010 regulation?",
+      "answer": "The entry 2833.29.40 was replaced by 2833.29.90.",
+      "date_or_instrument": "SRO 179/2010",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A senior customs official at the Chittagong port is conducting an audit of plastic product imports processed during June 2011. They are cross-referencing the declarations against the updated mandates found in SRO 176-AIN/2010 to confirm compliance. During the review, they encounter a classification issue with code 3921.19.00 and must determine the precise code that superseded it under the latest amendment.",
+      "question": "What code replaced 3921.19.00 under the 2011 amendment?",
+      "answer": "The entry 3921.19.00 was replaced by 3921.19.90.",
+      "date_or_instrument": "SRO 170/2011",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A chemical manufacturer is preparing the documentation for a large raw material shipment scheduled for import in June 2014. Upon reviewing their internal database, they realize that the HS Code previously utilized, 2905.31.00, might no longer be valid under current regulations. They are now working to identify the specific regulatory order that mandates the new classification for this commodity.",
+      "question": "Which HS Code replaced 2905.31.00 as per the 2014 regulatory order?",
+      "answer": "The HS Code 2905.31.00 was replaced by 2905.31.90.",
+      "date_or_instrument": "SRO 126/2014",
+      "clause_text_ids": [
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An import compliance officer is meticulously reviewing the updated duty schedule in June 2015 to prepare for upcoming chemical shipments. They are particularly concerned about ensuring that every item is correctly classified to avoid delays at the border. While checking the list, they find that the entry for 3204.13.00 has been modified and need to confirm the new code that has replaced it.",
+      "question": "What new HS Code replaced 3204.13.00 in the 2015 update?",
+      "answer": "The HS Code 3204.13.00 was replaced by 3204.13.90.",
+      "date_or_instrument": "SRO 156/2015",
+      "clause_text_ids": [
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A policy analyst is drafting a report on the regulatory mechanisms that govern the Bangladeshi customs landscape. They are investigating the specific legal foundations that empower the government to issue and adjust duty notifications in the public interest. To complete their analysis, they need to cite the exact legislative acts that authorize these adjustments in coordination with the National Board of Revenue.",
+      "question": "Which legal acts provide the government with the authority to issue and amend customs duty notifications in consultation with the National Board of Revenue?",
+      "answer": "The Customs Act 1969 (Section 19) and the Value Added Tax Act 1991 (Section 14(1)).",
+      "date_or_instrument": "SRO 179/2010, SRO 170/2011, SRO 126/2014, SRO 156/2015",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1",
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs official is tasked with updating the classification system for chemical products in June 2015 to align with recent government notifications. They are currently reviewing the schedule to ensure all duty calculations are accurate for the new tax period. They have reached a point in their verification process where they must identify the specific replacement code for 3206.19.00.",
+      "question": "What is the replacement code for 3206.19.00 as specified in the June 2015 notification?",
+      "answer": "The HS Code 3206.19.00 was replaced by 3206.19.90.",
+      "date_or_instrument": "SRO 156/2015",
+      "clause_text_ids": [
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 179/2010, issued on June 10, 2010, substituted the HS Code 2833.29.40 with 2833.29.90.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 179/2010, dated June 10, 2010, explicitly lists the substitution of HS Code 2833.29.40 with 2833.29.90 in its table.",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 170/2011, dated June 9, 2011, updated the HS Code for plastic goods by replacing 3921.19.00 with 3921.19.90.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 170/2011, issued on June 9, 2011, confirms the substitution of HS Code 3921.19.00 with 3921.19.90.",
+      "clause_text_ids": [
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 126/2014, issued on June 5, 2014, replaced HS Code 2905.31.00 with 2905.31.90, citing authority from the Customs Act 1969 and the Income Tax Ordinance 1984.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Income Tax Ordinance 1984",
+      "correct_fact": "Value Added Tax Act 1991",
+      "answer": "The statement is inaccurate. While SRO 126/2014 did replace HS Code 2905.31.00 with 2905.31.90 on June 5, 2014, it cites the Customs Act 1969 and the Value Added Tax Act 1991, not the Income Tax Ordinance 1984.",
+      "clause_text_ids": [
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 156/2015 was issued on June 4, 2015, and modified the HS Code entries for 3204.13.00 and 3206.19.00.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 156/2015, dated June 4, 2015, substituted 3204.13.00 with 3204.13.90 and 3206.19.00 with 3206.19.90.",
+      "clause_text_ids": [
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 19 of the Customs Act 1969 empowers the government to issue notifications regarding customs duties only after obtaining direct approval from the Parliament.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "obtaining direct approval from the Parliament",
+      "correct_fact": "consultation with the National Board of Revenue",
+      "answer": "The statement is inaccurate. According to the context, Section 19 of the Customs Act 1969 empowers the government to issue notifications in the public interest after consultation with the National Board of Revenue, not by obtaining direct approval from the Parliament.",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1",
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to SRO 126/2014, the government updated the HS Code '3921.19.00' to '3921.19.90' to maintain alignment with international standards.",
+      "question": "Does SRO 126/2014 contain the update for HS Code '3921.19.00', and if not, which instrument actually enacted this change?",
+      "conflict": "The context misattributes an HS Code update from SRO 170/2011 to SRO 126/2014.",
+      "answer": "No, SRO 126/2014 does not contain that update. The substitution of HS Code '3921.19.00' with '3921.19.90' was enacted by SRO 170/2011 on 2011-06-09. SRO 126/2014 specifically updated HS Code '2905.31.00' to '2905.31.90'.",
+      "clause_text_ids": [
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1",
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2010, the government issued SRO 179/2010 to replace the HS Code '3204.13.00' with '3204.13.90'.",
+      "question": "Is the claim that SRO 179/2010 updated HS Code '3204.13.00' correct based on the provided timeline?",
+      "conflict": "The context incorrectly assigns a 2015 update to the 2010 instrument.",
+      "answer": "No, this is incorrect. The update of HS Code '3204.13.00' to '3204.13.90' was actually performed by SRO 156/2015 on 2015-06-04, not by SRO 179/2010.",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been reviewing the legal basis for duty exemptions under SRO 170/2011 (issued June 9, 2011) and later SRO 126/2014 (issued June 5, 2014). They note that both instruments cite Section 19 of the Customs Act, 1969 and Section 14(1) of the Value Added Tax Act, 1991 as the authority for their issuance.",
+      "question": "How does the scope of authority granted to the government under Section 19 of the Customs Act, 1969 evolve in the descriptions provided between the 2011 and 2014 instruments?",
+      "answer": "In 2011, Section 19 is described as providing authority to issue notifications and amendments regarding customs duties. By 2014, the description expands to explicitly state that Section 19 empowers the government to grant exemptions from customs duties and amend relevant notification schedules.",
+      "clauses_involved": [
+        "2011-06-09 | SRO 170/2011",
+        "2014-06-05 | SRO 126/2014"
+      ],
+      "clause_text_ids": [
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1",
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "one year later",
+      "question": "Following the SRO 179/2010, what was the specific instrument issued one year later regarding HS Code substitution?",
+      "answer": "One year later, on 2011-06-09, SRO 170/2011 was issued, which continued the administrative practice of HS Code substitution under the authority of Section 19 of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2014-06-05",
+      "relative_offset": "one year later",
+      "question": "What administrative change occurred one year after the issuance of SRO 126/2014?",
+      "answer": "One year later, on 2015-06-04, SRO 156/2015 was issued, serving as the next administrative step for HS Code substitution and duty regulation modifications under Section 19 of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these HS Code substitution events in chronological order.",
+      "events_shuffled": [
+        "The HS Code 2905.31.00 is replaced by 2905.31.90 in the existing notification.",
+        "The HS Codes 2833.29.40, 2905.12.10, and 2905.31.00 are replaced by 2833.29.90, 2905.12.00, and 2905.31.90 respectively.",
+        "The HS Codes 3204.13.00 and 3206.19.00 are replaced by 3204.13.90 and 3206.19.90 respectively.",
+        "The HS Codes 3921.19.00 and 3921.90.90 are replaced by 3921.19.90 and 3921.90.99 respectively."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The HS Codes 2833.29.40, 2905.12.10, and 2905.31.00 are replaced by 2833.29.90, 2905.12.00, and 2905.31.90 respectively.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The HS Codes 3921.19.00 and 3921.90.90 are replaced by 3921.19.90 and 3921.90.99 respectively.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The HS Code 2905.31.00 is replaced by 2905.31.90 in the existing notification.",
+          "date": "2014-06-05"
+        },
+        {
+          "event": "The HS Codes 3204.13.00 and 3206.19.00 are replaced by 3204.13.90 and 3206.19.90 respectively.",
+          "date": "2015-06-04"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_170-AIN_2011_2357-Customs_০৯ জুন, ২০১১_clause_1",
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_179-AIN_2010_2297-Customs/20100610_179-AIN_2010_2297-Customs_output.json",
+        "customs_sros_OCR/20110609_170-AIN_2011_2357-Customs/20110609_170-AIN_2011_2357-Customs_output.json",
+        "customs_sros_OCR/20140605_126-AIN_2014_2490-Customs/20140605_126-AIN_2014_2490-Customs_output.json",
+        "customs_sros_OCR/20150604_156-AIN_2015_36-Customs/20150604_156-AIN_2015_36-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00179_t1__hs-code-and-tariff-schedule-adjustments.json"
+    }
+  ]
+}

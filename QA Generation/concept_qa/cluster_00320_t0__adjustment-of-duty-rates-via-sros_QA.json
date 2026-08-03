@@ -1,0 +1,187 @@
+{
+  "thread_id": "cluster_00320_t0",
+  "cluster_id": 320,
+  "cluster_label": "duty rates",
+  "title": "Adjustment of Duty Rates via SROs",
+  "source_num_member_objects": 13,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the legal framework governing duty rate adjustments evolved from 2013 to 2024?",
+      "answer": "The legal basis for duty rate adjustments shifted from the Customs Act, 1969, which served as the primary authority for early SROs like SRO 145-AIN/2013, to the Customs Act, 2023, as evidenced by SRO 164-AIN/2024. This evolution reflects a transition in the regulatory foundation used by the government, in consultation with the National Board of Revenue, to grant exemptions and amend fiscal notifications.",
+      "clause_text_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what ways did the structural complexity of duty rate SROs change between 2013 and 2022?",
+      "answer": "Early adjustments, such as SRO 145-AIN/2013, primarily involved direct percentage modifications. Over time, the structure evolved into complex multi-column tables, as seen in the 2018 industrial raw material tables and the 2022 formalization of Margin of Preference (MoP) calculations, which introduced conditional exemptions and specific applicability criteria for shared H.S. Codes.",
+      "clause_text_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1",
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_1",
+        "20220609_126-AIN_2022_74_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_133-AIN_2022_81_Customs_১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the scope of entities eligible for duty concessions expanded over the evolution of this policy?",
+      "answer": "The scope expanded from general goods and broad categories to targeting specific industrial sectors and VAT-compliant manufacturers. By 2022 and 2024, the policy specifically required entities to be Industrial IRC holders and VAT-compliant, creating distinct categories for industries like refrigerator and freezer manufacturing to qualify for duty and tax concessions.",
+      "clause_text_ids": [
+        "20220609_126-AIN_2022_74_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_133-AIN_2022_81_Customs_১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the government introduce the 'Exclusively Applicable' (Ex) designation in the duty rate tables?",
+      "answer": "The 'Exclusively Applicable' designation was introduced to clarify tax liabilities when a single H.S. Code covers multiple types of goods. As noted in the 2022 SRO 251-Act/2022, this mechanism ensures that specific customs duty rates pertain solely to the item described in the table column, preventing ambiguity in applying duty rates across shared H.S. classifications.",
+      "clause_text_ids": [
+        "20220609_126-AIN_2022_74_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_133-AIN_2022_81_Customs_১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the integration of Regulatory Duty (RD) and Supplementary Duty (SD) change the nature of customs notifications?",
+      "answer": "The integration of RD and SD, notably formalized in SRO 117-AIN/2021, shifted customs notifications from focusing solely on Customs Duty to a multi-tax adjustment framework. This allowed the government to adjust RD and SD alongside Customs Duty to manage the total tax burden on industrial raw materials and other commodities.",
+      "clause_text_ids": [
+        "20210603_117-AIN_2021_06_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_134-AIN_2021_23_Customs_২৪ মে, ২০২১_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the significance of the Margin of Preference (MoP) in the evolution of supplementary duty adjustments?",
+      "answer": "The MoP serves as a mechanism to maintain proportional tax rates when supplementary duties are adjusted at the supply or import stages. According to SRO 259-Act/2022, the MoP allows for the automatic recalculation of duty rates based on changes to the second schedule of the Value Added Tax and Supplementary Duty Act, 2012, ensuring consistency in tax policy.",
+      "clause_text_ids": [
+        "20220609_126-AIN_2022_74_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_133-AIN_2022_81_Customs_১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial manufacturer has been importing raw materials under the Customs Act, 1969 since 2021, benefiting from duty exemptions granted via SRO 117-AIN/2021. In June 2024, the manufacturer seeks to understand the legal basis for their continued duty concessions for these industrial raw materials.",
+      "question": "How has the legal foundation for the manufacturer's duty concessions changed between the 2021 SRO and the 2024 SRO?",
+      "answer": "The legal basis transitioned from Section 19(1) of the Customs Act, 1969 (used in SRO 117-AIN/2021) to Section 25(1) of the Customs Act, 2023 (used in SRO 164-AIN/2024).",
+      "clauses_involved": [
+        "2021-06-03 | SRO 117-AIN/2021",
+        "2024-06-06 | SRO 164-AIN/2024"
+      ],
+      "clause_text_ids": [
+        "20210603_117-AIN_2021_06_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_134-AIN_2021_23_Customs_২৪ মে, ২০২১_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company importing goods under a specific H.S. Code has been subject to duty rates defined in tables since 2018. In 2022, the company encounters a situation where their H.S. Code covers multiple types of goods, but they only import one specific item listed in the table.",
+      "question": "How does the 2022 clarification regarding 'Exclusively Applicable' (Ex) affect the application of customs duty rates compared to the general table-based structure used in 2018?",
+      "answer": "While the 2018 structure applied rates based on H.S. Codes, the 2022 clarification specifies that if a table marks an item as 'Exclusively Applicable' (Ex), the duty rate applies solely to the specific item described in the table, even if the H.S. Code encompasses other types of goods.",
+      "clauses_involved": [
+        "2018-07-26 | SRO 197-AIN/2018",
+        "2022-10-18 | SRO 251-Act/2022"
+      ],
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_1",
+        "20220609_126-AIN_2022_74_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_133-AIN_2022_81_Customs_১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2018-07-26",
+      "relative_offset": "three years later",
+      "question": "Starting from the implementation of specific duty tables for industrial raw materials in 2018, what significant change occurred three years later regarding the scope of duty adjustments?",
+      "answer": "Three years later, in 2021 (SRO 117-AIN/2021), the scope of duty adjustments was expanded to include the integration of Regulatory Duty and Supplementary Duty adjustments alongside the existing Customs Duty.",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_1",
+        "20210603_117-AIN_2021_06_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_134-AIN_2021_23_Customs_২৪ মে, ২০২১_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-06-03",
+      "relative_offset": "three years later",
+      "question": "Following the 2021 integration of various duties, what major shift in the legal framework for industrial raw material duty concessions occurred three years later?",
+      "answer": "Three years later, in 2024 (SRO 164-AIN/2024), the legal framework transitioned from the Customs Act, 1969 to the Customs Act, 2023 for granting duty concessions on industrial raw materials.",
+      "clause_text_ids": [
+        "20210603_117-AIN_2021_06_Customs_২৪ মে, ২০২১_clause_1",
+        "20210603_134-AIN_2021_23_Customs_২৪ মে, ২০২১_clause_1",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these milestones in the evolution of Bangladeshi customs duty adjustments in chronological order.",
+      "events_shuffled": [
+        "Implementation of specific duty tables for industrial raw materials.",
+        "Formalization of Margin of Preference calculations and clarification of exclusive applicability for duty rates.",
+        "Transition to the legal framework of the Customs Act for industrial raw material duty concessions.",
+        "Introduction of conditional duty rates based on H.S. Code and statutory rate thresholds."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Introduction of conditional duty rates based on H.S. Code and statutory rate thresholds.",
+          "date": "2016-07-01"
+        },
+        {
+          "event": "Implementation of specific duty tables for industrial raw materials.",
+          "date": "2018-07-26"
+        },
+        {
+          "event": "Formalization of Margin of Preference calculations and clarification of exclusive applicability for duty rates.",
+          "date": "2022-10-18"
+        },
+        {
+          "event": "Transition to the legal framework of the Customs Act for industrial raw material duty concessions.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1",
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_1",
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160701_223-AIN_2016_50-Customs/20160701_223-AIN_2016_50-Customs_output.json",
+        "customs_sros_OCR/20180726_193-AIN_2018_32_Customs/20180726_193-AIN_2018_32_Customs_output.json",
+        "customs_sros_OCR/20221018_251-Act_2022_133_Customs/20221018_251-Act_2022_133_Customs_output.json",
+        "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00320_t0__adjustment-of-duty-rates-via-sros.json"
+    }
+  ]
+}

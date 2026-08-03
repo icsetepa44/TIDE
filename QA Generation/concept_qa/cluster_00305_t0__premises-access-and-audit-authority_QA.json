@@ -1,0 +1,190 @@
+{
+  "thread_id": "cluster_00305_t0",
+  "cluster_id": 305,
+  "cluster_label": "premises",
+  "title": "Premises Access and Audit Authority",
+  "source_num_member_objects": 14,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2016-07-01 SRO regulation, applicants for a customs license are required to provide a formal rental agreement or evidence of legal ownership for the premises used for authorized operations.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2016-07-01 regulation formalized the requirement for premises ownership or rental documentation as a condition for license application.",
+      "clause_text_ids": [
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2023-09-27 AEO Guidelines introduced a mandate requiring all employees to undergo police background checks to ensure they do not possess a criminal record.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2023-09-27 AEO Guidelines",
+      "correct_fact": "2025-02-17 AEO Guidelines",
+      "answer": "The statement is inaccurate. The security-focused requirements regarding employee background verification were introduced in the 2025-02-17 AEO Guidelines, not the 2023-09-27 guidelines.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_86",
+        "20250217_2024_2024-06-06_clause_23",
+        "20250217_2024_2024-06-06_clause_55"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2025-01-21 AEO Guidelines, audit teams are authorized to conduct on-site physical inspections at the premises of recognized institutions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2025-01-21 guidelines explicitly mandate that the audit process includes the power to perform on-site physical verification at the location of the entity being audited.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_86",
+        "20250217_2024_2024-06-06_clause_23",
+        "20250217_2024_2024-06-06_clause_55"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the Customs Act 1969, a customs officer may enter private residential premises to conduct an audit at any time without a warrant or the consent of the occupant.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "without a warrant or the consent of the occupant",
+      "correct_fact": "with the consent of the occupant or owner, or with a valid warrant",
+      "answer": "The statement is inaccurate. The Customs Act 1969 prohibits customs officers from entering private residential premises without the consent of the occupant or owner, or without a valid warrant issued under the Act.",
+      "clause_text_ids": [
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-02-17 AEO Guidelines require manufacturing entities to disclose details of other business entities operating within the same premises or site location.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Clause 5.3.4 of the 2025-02-17 guidelines specifies that details of co-located entities at the same premises must be provided by the Economic Operator.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_86",
+        "20250217_2024_2024-06-06_clause_23",
+        "20250217_2024_2024-06-06_clause_55"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "If a licensee of a private warehouse refuses entry to a customs officer, the Customs Act 1969 mandates a mandatory prison sentence of five years.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "mandatory prison sentence of five years",
+      "correct_fact": "monetary fine of up to one lakh taka and potential license cancellation",
+      "answer": "The statement is inaccurate. Under the Customs Act 1969, a licensee who refuses entry to a customs officer is liable to a monetary fine of up to one lakh taka and the immediate cancellation of their warehouse license, not a prison sentence.",
+      "clause_text_ids": [
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company obtained a customs license in 2018, providing the required rental agreement for their office premises. In 2023, the company became an Authorized Economic Operator (AEO). By early 2025, they were notified of an upcoming audit and were also asked to provide additional documentation regarding other business entities co-located at their site.",
+      "question": "How has the regulatory burden regarding premises documentation and audit scope evolved for this entity from its initial licensing in 2018 to the requirements enforced by February 2025?",
+      "answer": "The entity moved from a baseline requirement of providing a rental agreement or ownership proof (2016) to facing structured system-based audits (2023), mandatory on-site physical inspections (2025), and the additional obligation to disclose details of any other business entities sharing the same premises (2025).",
+      "clauses_involved": [
+        "2016-07-01",
+        "2023-09-27",
+        "2025-01-21",
+        "2025-02-17"
+      ],
+      "clause_text_ids": [
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_86",
+        "20250217_2024_2024-06-06_clause_23",
+        "20250217_2024_2024-06-06_clause_55"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-09-27",
+      "relative_offset": "one year and four months later",
+      "question": "Starting from the AEO Guidelines issued on 2023-09-27, what significant expansion in audit scope and inter-agency coordination occurred in the AEO Guidelines published one year and four months later?",
+      "answer": "On 2025-01-21, the AEO Guidelines were updated to expand the audit scope to include on-site physical inspections and mandatory coordination with local VAT/Excise offices for the purpose of warehouse verification.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_86",
+        "20250217_2024_2024-06-06_clause_23",
+        "20250217_2024_2024-06-06_clause_55"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "less than one month later",
+      "question": "Following the 2025-01-21 guidelines regarding physical examination at premises, what specific security-focused requirements were added to the AEO Guidelines less than one month later?",
+      "answer": "On 2025-02-17, the AEO Guidelines were updated to include requirements for disclosing co-located business entities and implementing physical and electronic access controls for employees at the premises.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_86",
+        "20250217_2024_2024-06-06_clause_23",
+        "20250217_2024_2024-06-06_clause_55"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The audit scope is expanded to include on-site physical inspections and coordination with regional authorities for warehouse verification.",
+        "System-based audit requirements for Authorized Economic Operators are introduced, including physical inspection of premises.",
+        "Security-related requirements are implemented regarding the disclosure of co-located entities and the management of physical and electronic access for employees.",
+        "Applicants for a customs license are required to submit formal documentation of premises ownership or rental agreements."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Applicants for a customs license are required to submit formal documentation of premises ownership or rental agreements.",
+          "date": "2016-07-01"
+        },
+        {
+          "event": "System-based audit requirements for Authorized Economic Operators are introduced, including physical inspection of premises.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "The audit scope is expanded to include on-site physical inspections and coordination with regional authorities for warehouse verification.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "Security-related requirements are implemented regarding the disclosure of co-located entities and the management of physical and electronic access for employees.",
+          "date": "2025-02-17"
+        }
+      ],
+      "clause_text_ids": [
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_122",
+        "20250217_2024_2024-06-06_clause_23"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+        "customs_sros_OCR/20160701_220-AIN_2016_47-Customs/20160701_220-AIN_2016_47-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00305_t0__premises-access-and-audit-authority.json"
+    }
+  ]
+}

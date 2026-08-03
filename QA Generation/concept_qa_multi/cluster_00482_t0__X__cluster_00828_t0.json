@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00482_t0__X__cluster_00828_t0",
+  "entities": [
+    "clothing",
+    "bedding"
+  ],
+  "cluster_ids": [
+    482,
+    828
+  ],
+  "thread_ids": [
+    "cluster_00482_t0",
+    "cluster_00828_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under the 2025 customs regulations, what is the maximum duty-free baggage allowance for a Bangladeshi airline crew member importing items such as clothing or bedding?",
+      "answer": "According to clause [3] of the 2025 regulations, a Bangladeshi crew member or official working for a Bangladeshi airline or a foreign airline operating at a Bangladeshi airport may import baggage up to a maximum value of 150 US dollars duty-free, which would apply to items like clothing or bedding.",
+      "entities_involved": [
+        "clothing",
+        "bedding"
+      ],
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How did the duty-free allowance for airline crew members importing personal effects like clothing and bedding change between the 2016 and 2025 customs notifications?",
+      "answer": "As per clause [2], the duty-free allowance for airline crew was set at 300 US dollars in 2016. By 2025, according to clause [3], this allowance was reduced to 150 US dollars for the same category of crew members importing personal items.",
+      "entities_involved": [
+        "clothing",
+        "bedding"
+      ],
+      "clause_text_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    }
+  ]
+}

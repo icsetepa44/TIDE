@@ -1,0 +1,38 @@
+{
+  "group_id": "cluster_00035_t0__X__cluster_00352_t0",
+  "entities": [
+    "Business Identification Number",
+    "Deputy Commissioner"
+  ],
+  "cluster_ids": [
+    35,
+    352
+  ],
+  "thread_ids": [
+    "cluster_00035_t0",
+    "cluster_00352_t0"
+  ],
+  "num_shared_clauses": 8,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the interaction between the Business Identification Number (BIN) compliance verification and the role of the Deputy Commissioner in the customs clearance process?",
+      "answer": "The customs official must verify that all conditions related to import and customs clearance, which include BIN-related compliance, are met. Following this verification, the customs clearance must be approved at the level of the Deputy Commissioner or Assistant Commissioner to ensure the avoidance of delays in the clearance process.",
+      "entities_involved": [
+        "Business Identification Number",
+        "Deputy Commissioner"
+      ],
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "thread_id": "cluster_00482_t1",
+  "cluster_id": 482,
+  "cluster_label": "clothing",
+  "title": "Passenger Baggage Duty-Free Weight Limits",
+  "source_num_member_objects": 7,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 4,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the primary duty-free baggage allowance for passengers in Bangladesh changed between 2011 and 2025?",
+      "answer": "The primary duty-free baggage allowance remained stable at 65kg from its establishment in the 2011 Baggage Rules until 2024. However, according to the 2025-06-03 Baggage Rules, this primary allowance was significantly reduced to 36kg.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_3",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Did the secondary duty-free allowance for personal items like clothing undergo the same structural changes as the primary baggage allowance?",
+      "answer": "No, the secondary allowance for personal items, including clothing, books, and study materials, remained consistent at 35kg throughout the period from 2011 to 2025, even while the primary baggage allowance was reduced in 2025.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the distinction in baggage allowance entitlement for passengers under the age of twelve compared to those twelve and older?",
+      "answer": "Passengers aged twelve and older are entitled to both a primary baggage allowance and an additional secondary allowance for personal items like clothing. In contrast, passengers under the age of twelve are restricted to a single allowance of 40kg for personal baggage and are explicitly excluded from other baggage concessions, as stated in the 2011-06-09 and subsequent rules.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the regulatory framework for baggage allowances evolve between 2011 and 2024 regarding the primary weight limit?",
+      "answer": "Between 2011 and 2024, the primary baggage allowance for passengers aged twelve and older remained fixed at 65kg. During this period, the rules were reiterated multiple times—such as in 2012, 2016, 2023, and 2024—without altering the primary weight limit until the reduction to 36kg occurred in 2025.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_3",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_3",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_3",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger arrived in Bangladesh in 2024 with 60kg of general baggage and 30kg of clothing. The same passenger arrived again in 2025 with the exact same baggage composition.",
+      "question": "How did the duty-free status of the passenger's total baggage change between their 2024 and 2025 arrivals?",
+      "answer": "In 2024, the passenger's 60kg primary baggage was fully duty-free under the 65kg allowance. In 2025, the primary allowance was reduced to 36kg, meaning 24kg of the passenger's primary baggage became subject to duties, while the 35kg secondary allowance for clothing remained unchanged.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "14 years later",
+      "question": "In 2011, the primary duty-free baggage allowance for passengers was established at 65kg. What change occurred to this primary allowance 14 years later?",
+      "answer": "In the 2025-06-03 baggage rules, the primary duty-free baggage allowance was reduced from 65kg to 36kg.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year later",
+      "question": "The baggage rules in 2024 maintained the long-standing primary weight limit of 65kg. What was the status of this primary limit one year later?",
+      "answer": "One year later, in the 2025-06-03 baggage rules, the primary duty-free weight allowance was reduced to 36kg.",
+      "clause_text_ids": [
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The primary baggage allowance for passengers is reduced to 36kg.",
+        "The baggage rules are updated to introduce a specific 40kg weight limit for passengers under twelve years of age.",
+        "The baggage rules establish a 65kg primary allowance and a 35kg secondary allowance for clothing and personal items.",
+        "The language regarding baggage composition is refined to specify that the 65kg allowance applies to total baggage brought by any means."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The baggage rules establish a 65kg primary allowance and a 35kg secondary allowance for clothing and personal items.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The baggage rules are updated to introduce a specific 40kg weight limit for passengers under twelve years of age.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "The language regarding baggage composition is refined to specify that the 65kg allowance applies to total baggage brought by any means.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The primary baggage allowance for passengers is reduced to 36kg.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_3",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00482_t1__passenger-baggage-duty-free-weight-limits.json"
+    }
+  ]
+}

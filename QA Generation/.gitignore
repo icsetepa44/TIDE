@@ -1,0 +1,50 @@
+# ─────────────────────────────────────────────────────────────
+# Secrets — NEVER commit real API keys
+# ─────────────────────────────────────────────────────────────
+all_api.txt
+gemini_api.txt
+*.key
+.env
+.env.*
+!*.example
+
+# ─────────────────────────────────────────────────────────────
+# Python
+# ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ─────────────────────────────────────────────────────────────
+# Run logs & resume checkpoints (regenerated on every run)
+# ─────────────────────────────────────────────────────────────
+*.log
+*_done.json
+entity_judge_ckpt.json
+
+# ─────────────────────────────────────────────────────────────
+# Large / regenerable artifacts (kept out of git; see README)
+# ─────────────────────────────────────────────────────────────
+# Full per-cluster split — 389 MB / ~13k files. Regenerate: python split_by_cluster.py
+# (a small clusters_by_id_sample/ is committed instead)
+clusters_by_id/
+# Embedding cache — 42 MB binary. Regenerate: python cluster_entities.py --stage embed
+entity_embeddings.npy
+entity_embeddings.bak.npy
+*.tmp.npy
+# One-time backups the scripts create
+concept_qa_backup/
+concept_qa_backup_premap/
+concept_qa_v1/
+concept_qa_multi_v1/
+
+# ─────────────────────────────────────────────────────────────
+# OS junk
+# ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

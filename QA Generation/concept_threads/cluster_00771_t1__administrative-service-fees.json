@@ -1,0 +1,227 @@
+{
+  "cluster_id": 771,
+  "cluster_label": "fee",
+  "thread_index": 1,
+  "thread_id": "cluster_00771_t1",
+  "title": "Administrative Service Fees",
+  "summary": "These clauses represent the legal authority for the Board to determine fees for specific administrative services, such as document certification, amendment, and information supply. These provisions establish a discretionary power for customs officers to charge fees as determined by the Board.",
+  "evolution": {
+    "authority": "Delegated to the Board to determine specific fee amounts.",
+    "scope": "Covers document duplicates, amendments, and certified copies of decisions."
+  },
+  "timeline": [
+    {
+      "date": "1969-01-01",
+      "instrument": "Customs Act, 1969",
+      "change": "Establishment of the legal framework allowing the Board to set fees for document issuance, amendments, and information requests.",
+      "clause_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_259",
+      "clause_title": "Issue of certificate and duplicates of customs' document",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_259",
+      "resolved_text": "204. Issue of certificate and duplicates of customs' document.- A certificate or a duplicate of any certificate, manifest, bill or other customs' document may, 43[on payment of such fee as the Board may determine for this purpose], be furnished, at the discretion of an officer of customs not below the rank of an 10[Assistant Commissioner of Customs], to any person applying for the same, if the said officer is satisfied that no fraud has been committed or is intended to be committed by the applicant.",
+      "entity_concepts": {
+        "Customs Documents": [
+          "A person may apply for and be issued a certificate or a duplicate of any certificate, manifest, bill, or other customs document.",
+          "The issuance of these documents is subject to the payment of a fee determined by the National Board of Revenue and is at the discretion of an authorized officer."
+        ],
+        "National Board of Revenue": [
+          "The Board is empowered to determine the fees applicable for the issuance of customs certificates and duplicate documents."
+        ],
+        "Assistant Commissioner of Customs": [
+          "This officer or any customs official of a higher rank has the discretionary authority to issue requested certificates or duplicate documents."
+        ],
+        "Officer of Customs": [
+          "The officer must be satisfied that the applicant has not committed and does not intend to commit any fraud before approving the issuance of the requested customs documents."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_586",
+      "entity_sub_entities": {
+        "Customs Documents": [
+          "certificate",
+          "duplicate of any certificate",
+          "manifest",
+          "bill",
+          "customs document",
+          "fee"
+        ],
+        "National Board of Revenue": [
+          "fees",
+          "customs certificates",
+          "duplicate documents"
+        ],
+        "Assistant Commissioner of Customs": [
+          "certificates",
+          "duplicate documents"
+        ],
+        "Officer of Customs": [
+          "customs documents"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        78,
+        97,
+        151,
+        188,
+        287,
+        404,
+        757,
+        771,
+        1559,
+        3864,
+        6859,
+        6891,
+        7497
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_261",
+      "clause_title": "Amendment of documents",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_261",
+      "resolved_text": "44[205. Amendment of documents.- Except in the case provided for by sections 29, 45, 53 and 88, an officer of customs not below the rank of an Assistant Commissioner of Customs may, in his discretion, on payment of such fee as the Board may determined for this purpose, authorize any document, after it has been presented at the customs house, to be amended.]",
+      "entity_concepts": {
+        "Document Amendment": [
+          "The law allows for the amendment of customs documents after they have been presented at a customs house, provided specific conditions are met. This process is subject to the discretion of an authorized customs officer and the payment of a prescribed fee."
+        ],
+        "Assistant Commissioner of Customs": [
+          "An officer of this rank or higher is empowered to authorize the amendment of customs documents at their discretion, provided the required fee has been paid."
+        ],
+        "National Board of Revenue": [
+          "The Board is responsible for determining the fee required for the amendment of customs documents."
+        ],
+        "Customs House": [
+          "This is the official location where documents must be presented before they can be considered for amendment under the specified legal provisions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_588",
+      "entity_sub_entities": {
+        "Document Amendment": [
+          "customs documents",
+          "prescribed fee"
+        ],
+        "Assistant Commissioner of Customs": [
+          "authorized customs officer",
+          "customs documents",
+          "fee"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "fee",
+          "customs documents"
+        ],
+        "Customs House": [
+          "customs house",
+          "documents"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        59,
+        60,
+        78,
+        404,
+        771,
+        1093,
+        3468,
+        3854
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_272",
+      "clause_title": "Supply of information and copy of decisions",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_272",
+      "resolved_text": "3[215A. Supply of information and copy of decisions.- (1) Upon an application of a person directly interested in a decision taken by a customs officer under this Act, the Commissioner of Customs or an officer authorised by him shall, subject to payment by the applicant of a fee specified by the Board, deliver within 15 (fifteen) days of the application, a true copy of that decision with a certificate that it is a true copy :\n\nProvided that a copy or other copy or reproduction of the certified copy shall not be admissible as evidence or otherwise accepted in any court of law.\n\n(2) Upon an application of a person directly interested in a decision taken or omitted to have been taken by a customs officer, the Commissioner of Customs shall inform that person in writing within a period of 60 days of the application the reasons for such decision or omission.]",
+      "entity_concepts": {
+        "Customs Decision": [
+          "A person directly interested in a decision taken by a customs officer has the right to obtain a certified true copy of that decision upon application and payment of the prescribed fee.",
+          "A person directly interested in a decision or omission by a customs officer has the right to receive a written explanation of the reasons for such action or inaction from the Commissioner of Customs within a specified period."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs or an authorized officer is responsible for providing a certified true copy of a customs decision to an interested applicant within a defined timeframe upon payment of the specified fee.",
+          "The Commissioner of Customs is mandated to provide a written explanation for a decision or omission to an interested applicant within the stipulated time limit."
+        ],
+        "Documentary Evidence": [
+          "Any copy or reproduction of a certified true copy of a customs decision is explicitly declared inadmissible as evidence in any court of law."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to specify the fee payable by an applicant for obtaining a certified true copy of a customs decision."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_599",
+      "entity_sub_entities": {
+        "Customs Decision": [
+          "certified true copy",
+          "application",
+          "prescribed fee",
+          "written explanation",
+          "reasons"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "authorized officer",
+          "certified true copy",
+          "customs decision",
+          "interested applicant",
+          "specified fee",
+          "written explanation",
+          "decision",
+          "omission"
+        ],
+        "Documentary Evidence": [
+          "copy",
+          "reproduction",
+          "certified true copy",
+          "customs decision"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "fee",
+          "certified true copy",
+          "customs decision"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        58,
+        351,
+        423,
+        445,
+        771,
+        928,
+        1093,
+        1171,
+        1821,
+        1969,
+        3093,
+        3239,
+        4627,
+        9151,
+        10266
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

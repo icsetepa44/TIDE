@@ -1,0 +1,48 @@
+{
+  "group_id": "cluster_00057_t0__X__cluster_00064_t0",
+  "entities": [
+    "materials",
+    "Commissioner"
+  ],
+  "cluster_ids": [
+    57,
+    64
+  ],
+  "thread_ids": [
+    "cluster_00057_t0",
+    "cluster_00064_t0"
+  ],
+  "num_shared_clauses": 7,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Commissioner ensure that imported materials are being utilized according to the approved input-output coefficients?",
+      "answer": "The Commissioner ensures compliance by forming a committee, typically consisting of a Joint Commissioner and relevant VAT divisional officials, to conduct physical inspections of the production process every 6 months. Following these inspections, the committee is required to submit a report to the Commissioner, as mandated in regulations regarding various goods like air conditioners and refrigerators.",
+      "entities_involved": [
+        "materials",
+        "Commissioner"
+      ],
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_8",
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_5",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_5",
+        "20210603_117-AIN_2021_06_Customs_২৪ মে, ২০২১_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the role of the Commissioner regarding the materials before they are imported for production?",
+      "answer": "Before importing materials, the importer must submit three copies of the input-output coefficient declaration (detailing the required materials and reasonable wastage) to the Commissioner of the relevant VAT commissionerate. The Commissioner is responsible for approving these coefficients and countersigning the documents.",
+      "entities_involved": [
+        "materials",
+        "Commissioner"
+      ],
+      "clause_text_ids": [
+        "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_4"
+      ]
+    }
+  ]
+}

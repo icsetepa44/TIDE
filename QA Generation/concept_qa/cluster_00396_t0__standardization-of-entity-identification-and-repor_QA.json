@@ -1,0 +1,225 @@
+{
+  "thread_id": "cluster_00396_t0",
+  "cluster_id": 396,
+  "cluster_label": "name",
+  "title": "Standardization of Entity Identification and Reporting",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "How did the role of the 'name' field in customs documentation evolve between 2014 and 2024?",
+      "options": [
+        "It shifted from a mandatory digital data segment to an optional paper-based placeholder.",
+        "It evolved from a manual placeholder in 2014 to a mandatory, structured digital data field for stakeholders in 2024.",
+        "It was removed from all customs declarations in 2024 to protect business privacy.",
+        "It remained unchanged, serving as a manual entry field throughout the entire period."
+      ],
+      "answer_index": 1,
+      "answer": "It evolved from a manual placeholder in 2014 to a mandatory, structured digital data field for stakeholders in 2024.",
+      "explanation": "According to the summary and timeline, 'name' transitioned from a manual placeholder in 2014-06-05 (Clause 0) to a mandatory, categorized digital data field for carriers, agents, and consignors by 2024-06-05.",
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When were formal procedures introduced for Authorized Economic Operators (AEOs) to report changes to their business names?",
+      "options": [
+        "2014-06-05",
+        "2024-06-05",
+        "2024-06-13",
+        "2025-01-21"
+      ],
+      "answer_index": 2,
+      "answer": "2024-06-13",
+      "explanation": "The timeline and Clauses 4 and 5 (dated 2024-06-13) specify the introduction of formal procedures for AEO-certified entities to report changes to business names and identity.",
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_156"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which requirement regarding 'name' fields was introduced in the operational document dated 2025-01-21?",
+      "options": [
+        "Standardization of name fields for focal point officers in customs station reporting.",
+        "Mandatory reporting of vessel master names in the waybill segment.",
+        "Requirement for importers to sign using only their official seal.",
+        "Abolishment of the name field for shipping agents."
+      ],
+      "answer_index": 0,
+      "answer": "Standardization of name fields for focal point officers in customs station reporting.",
+      "explanation": "Clause 6, dated 2025-01-21, specifically addresses the standardization of 'name' fields for designated focal point officers in customs station reporting.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_156"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary function of the 'name' field in the 2014-06-05 customs certification?",
+      "options": [
+        "To identify the vessel master for cargo arrival.",
+        "To identify the shipping agent for digital manifests.",
+        "To act as a manual placeholder for the importer in paper-based certification.",
+        "To report changes in business identity for AEO entities."
+      ],
+      "answer_index": 2,
+      "answer": "To act as a manual placeholder for the importer in paper-based certification.",
+      "explanation": "The 2014-06-05 entry (Clause 0) describes the initial use of 'name' as a manual placeholder for importers in paper-based certification documents.",
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2014, the customs declaration process for carriers and shipping agents was modernized to require mandatory digital reporting of their official name, code, and address to ensure standardized entity identification.",
+      "question": "Why is the claim that carriers and shipping agents were required to submit digital name and address data in 2014 incorrect?",
+      "conflict": "The context states that in 2014, 'name' was only a manual placeholder for importers in paper-based certification, while mandatory digital data fields for carriers and agents were introduced in 2024.",
+      "answer": "The claim is incorrect because, according to the 2014-06-05 documentation, 'name' was used only as a manual placeholder for importers in paper-based certification. Mandatory digital data fields for carriers, agents, and consignors were not formalized until the 2024-06-05 cargo declaration requirements.",
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "In 2014, an importer manually entered their name on a paper-based certification document. By 2024, the same entity, now operating as an Authorized Economic Operator (AEO), needs to update their business name following a corporate restructuring.",
+      "question": "How does the procedure for reporting a change in the entity's name differ between the 2014 certification process and the 2024 AEO regulatory framework?",
+      "answer": "In 2014, the name was a manual placeholder on a static certification document; under the 2024 AEO rules, there is a formal, mandatory procedure to notify the AEO Centre of business name changes using specific forms and supporting documentation.",
+      "clauses_involved": [
+        "2014-06-05",
+        "2024-06-13"
+      ],
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs agent has been filing declarations since 2014. In 2014, they provided their name as a manual entry on paper. In June 2024, they are filing a digital cargo declaration for a vessel. In January 2025, they are assigned as a focal point officer for a customs station.",
+      "question": "How has the requirement for providing a 'name' evolved for this agent from the 2014 paper-based system to the 2025 digital reporting requirements?",
+      "answer": "The requirement shifted from a manual text entry in 2014 to mandatory, categorized digital data fields in 2024 (for agents/carriers), and finally to standardized reporting of name, designation, and contact details for focal point officers in 2025.",
+      "clauses_involved": [
+        "2014-06-05",
+        "2024-06-05",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_156"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2014-06-05",
+      "relative_offset": "10 years later",
+      "question": "Ten years after the initial use of 'name' as a manual placeholder in paper-based certifications, what change occurred regarding the 'name' field in customs cargo declarations?",
+      "answer": "On 2024-06-05, the 'name' field was formalized as a mandatory data field within digital cargo declaration segments, expanding the scope to include carriers, agents, and consignors.",
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-05",
+      "relative_offset": "eight days later",
+      "question": "Eight days after the formalization of 'name' as a mandatory field in cargo declarations, what new procedure was introduced for AEO-certified entities regarding their business identity?",
+      "answer": "On 2024-06-13, formal procedures were introduced for AEO-certified entities to report changes to their business name and identity using a specific notification form.",
+      "clause_text_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-13",
+      "relative_offset": "seven months later",
+      "question": "Seven months after the introduction of procedures for reporting business name changes for AEO entities, how was the 'name' field requirement further standardized in customs reporting?",
+      "answer": "On 2025-01-21, the standardization of 'name' fields was extended to include designated focal point officers in customs station reporting.",
+      "clause_text_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_156"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The identification of focal point officers and their respective customs stations is standardized in operational reporting.",
+        "The use of 'name' is established as a manual placeholder for importers within paper-based certification processes.",
+        "Formal procedures are introduced for Authorized Economic Operator entities to report changes to their business identity.",
+        "Mandatory data fields for 'name' are implemented for carriers, agents, and consignors within digital cargo declaration segments."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The use of 'name' is established as a manual placeholder for importers within paper-based certification processes.",
+          "date": "2014-06-05"
+        },
+        {
+          "event": "Mandatory data fields for 'name' are implemented for carriers, agents, and consignors within digital cargo declaration segments.",
+          "date": "2024-06-05"
+        },
+        {
+          "event": "Formal procedures are introduced for Authorized Economic Operator entities to report changes to their business identity.",
+          "date": "2024-06-13"
+        },
+        {
+          "event": "The identification of focal point officers and their respective customs stations is standardized in operational reporting.",
+          "date": "2025-01-21"
+        }
+      ],
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_156"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20240605/20240605_output.json",
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_sros_OCR/20140605_137-AIN_2014_2501-Customs/20140605_137-AIN_2014_2501-Customs_output.json",
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00396_t0__standardization-of-entity-identification-and-repor.json"
+    }
+  ]
+}

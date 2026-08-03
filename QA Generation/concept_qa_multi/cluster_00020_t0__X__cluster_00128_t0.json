@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00020_t0__X__cluster_00128_t0",
+  "entities": [
+    "notification",
+    "Third Schedule"
+  ],
+  "cluster_ids": [
+    20,
+    128
+  ],
+  "thread_ids": [
+    "cluster_00020_t0",
+    "cluster_00128_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the legal authorities for issuing a notification under the Customs Act evolve across the provided SROs, and how does this relate to the legislative framework established by the Third Schedule?",
+      "answer": "The legal authority for issuing a notification has transitioned from Section 19(1) of the Customs Act, 1969, as seen in SRO No. 210-আইন/২০২২/১১৮/কাস্টমস [2], to Section 25(1) of the Customs Act, 2023, as seen in SRO No. 219-আইন/২০২৫/৪১/কাস্টমস [0] and SRO No. 224-আইন/২০২৫/৪৬/কাস্টমস [1]. While the Third Schedule serves as the anchor for subordinate legislation under Section 219 of the 1969 Act, the current notifications [0, 1] exercise regulatory power directly through the 2023 Act in consultation with the NBR to amend previous notifications.",
+      "entities_involved": [
+        "notification",
+        "Third Schedule"
+      ],
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    }
+  ]
+}

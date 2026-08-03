@@ -1,0 +1,45 @@
+{
+  "group_id": "cluster_00047_t0__X__cluster_00136_t0",
+  "entities": [
+    "baggage",
+    "schedule"
+  ],
+  "cluster_ids": [
+    47,
+    136
+  ],
+  "thread_ids": [
+    "cluster_00047_t0",
+    "cluster_00136_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How are 'baggage' and 'schedule' defined in the 2023 customs rules, and what specific constraint was added to the definition of baggage?",
+      "answer": "According to clause [2], 'schedule' (তফসিল) is defined as any schedule attached to the rules, and 'baggage' (ব্যাগেজ) is defined as reasonable quantities of food, clothing, household, or other personal items imported by a passenger, with the added constraint that no single item shall exceed 15 kg in weight.",
+      "entities_involved": [
+        "baggage",
+        "schedule"
+      ],
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Are the definitions of 'baggage' and 'schedule' consistent across the 2010, 2016, and 2023 rules?",
+      "answer": "Yes, in all three sets of rules [0], [1], and [2], 'schedule' is consistently defined as any schedule attached to the respective rules, and 'baggage' is defined as reasonable quantities of food, clothing, household, or other personal items imported by a passenger. However, the 2023 rule [2] further qualifies the 'baggage' definition by adding a weight limit of no more than 15 kg per item.",
+      "entities_involved": [
+        "baggage",
+        "schedule"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    }
+  ]
+}

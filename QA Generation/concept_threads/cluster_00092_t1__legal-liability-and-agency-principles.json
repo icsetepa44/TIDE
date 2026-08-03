@@ -1,0 +1,557 @@
+{
+  "cluster_id": 92,
+  "cluster_label": "Customs Agent",
+  "thread_index": 1,
+  "thread_id": "cluster_00092_t1",
+  "title": "Legal Liability and Agency Principles",
+  "summary": "These clauses define the fundamental legal relationship between the Customs Agent, the principal (importer/exporter), and the Customs authority, primarily derived from the Customs Act 1969.",
+  "evolution": {
+    "legal_basis": "Remains anchored in the 1969 Act, defining the agent as a proxy for the principal's liabilities."
+  },
+  "timeline": [
+    {
+      "date": "1969-01-01",
+      "instrument": "Customs Act 1969",
+      "change": "Establishment of the legal basis for agency, liability, and security requirements.",
+      "clause_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_228",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_302",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_303",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_304",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_68",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_70",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_91"
+      ]
+    }
+  ],
+  "num_member_objects": 7,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_228",
+      "clause_title": "",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_228",
+      "resolved_text": "৮৮। যদি কোন ব্যক্তি ধারা ২০৭ এর অধীন ওমনজুরীকৃত লাইসেন্সধারী না হইয়া এজেন্ট হিসাবে লাইসেন্সে বর্ণিত কোন কার্য পরিচালনা করেন, — তাহা হইলে উক্ত ব্যক্তি অনূ্যন বিশ হাজার টাকা অর্থদণ্ডে দণ্ডনীয় হইবেন।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "Any person acting as a customs agent without holding a valid license as required under the Customs Act is prohibited from performing agency functions.",
+          "Performing the duties of a licensed customs agent without proper authorization is a punishable offence subject to a specified monetary fine."
+        ],
+        "Customs Offence Penalties": [
+          "The law prescribes a mandatory minimum financial penalty for individuals who operate as customs agents without obtaining the necessary license mandated by the governing statute."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_232",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "person",
+          "customs agent",
+          "valid license",
+          "Customs Act",
+          "agency functions",
+          "duties",
+          "authorization",
+          "monetary fine"
+        ],
+        "Customs Offence Penalties": [
+          "mandatory minimum financial penalty",
+          "individuals",
+          "customs agents",
+          "license",
+          "governing statute"
+        ]
+      },
+      "clause_clusters": [
+        30,
+        37,
+        70,
+        84,
+        92,
+        116,
+        236,
+        281,
+        514,
+        605,
+        2765,
+        3172,
+        5404,
+        9687
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_302",
+      "clause_title": "প্রয়োজন হইলে এজেন্টকে কর্তৃত্ব দাখিল করিতে হইবে",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_302",
+      "resolved_text": "২০৮। প্রয়োজন হইলে এজেন্টকে কর্তৃত্ব দাখিল করিতে হইবে।— (১) যখন কোন ব্যক্তি অন্য কোন ব্যক্তির পক্ষে কোন কাস্টমস কর্মকর্তার সঙ্গে কোন নির্দিষ্ট কার্য সম্পাদনের অনুমতির জন্য উক্ত কর্মকর্তার নিকট আবেদন করেন তখন তিনি আবেদনকারীকে যে ব্যক্তির পক্ষে কার্য সম্পাদন করা হইবে তাহার নিকট হইতে লিখিত কর্তৃত্ব দাখিল করিতে বাধ্য করিতে পারিবেন, এবং উক্ত কর্তৃত্ব দাখিল করিতে ব্যর্থ হইলে এইরূপ অনুমতি প্রদান অসম্মত হইতে পারিবেন।\n(২) কোন ব্যক্তি অথবা বাণিজ্যিক ফার্মের করণিক, কর্মচারী অথবা এজেন্ট উক্ত ব্যক্তি অথবা ফার্মের পক্ষে কাস্টম-হাউসে কার্য সম্পাদন করিতে পারিবেন :\nতবে শর্ত থাকে যে, উক্ত ব্যক্তি অথবা ফার্মের কোন সদস্য এইরূপ করণিক, কর্মচারী অথবা এজেন্টকে উক্ত কার্য সম্পাদনের জন্য ক্ষমতাপ্রাপ্ত যথোপযুক্ত কর্মকর্তার নিকট শনাক্ত না করিলে এবং এইরূপ করণিক, কর্মচারী অথবা এজেন্টকে উক্ত ব্যক্তি অথবা ফার্মের পক্ষে উক্ত কার্য সম্পাদনের ক্ষমতা প্রদান করিয়া লিখিত এবং যথাযথভাবে স্বাক্ষরিত লিখিত কর্তৃত্ব উপরি-উক্ত কর্মকর্তার নিকট জমা প্রদান না করিলে তিনি এইরূপ করণিক, কর্মচারী অথবা এজেন্টকে আমলে নিতে অস্বীকার করিতে পারিবেন।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A Customs Agent or authorized representative acting on behalf of a person or commercial firm must submit a formal, written, and signed authorization to the appropriate Customs Officer when performing duties at a customs house.",
+          "Customs Officers are empowered to refuse to recognize any clerk, employee, or agent who fails to present valid written authorization or who is not properly identified by the principal or firm they represent."
+        ],
+        "Appropriate Officer of Customs": [
+          "The Appropriate Officer of Customs has the legal authority to require any person acting on behalf of another to produce written authorization for specific customs-related tasks.",
+          "The officer may refuse to grant permission to proceed with customs business if the required written authorization is not produced or if the agent has not been properly identified by their principal."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_306",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "Customs Agent",
+          "authorized representative",
+          "person",
+          "commercial firm",
+          "written authorization",
+          "Customs Officer",
+          "clerk",
+          "employee",
+          "agent",
+          "principal"
+        ],
+        "Appropriate Officer of Customs": [
+          "Appropriate Officer of Customs",
+          "person",
+          "written authorization",
+          "agent",
+          "principal"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        49,
+        70,
+        92,
+        94,
+        239,
+        659,
+        1292,
+        1949,
+        6471,
+        7711
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_303",
+      "clause_title": "প্রিন্সিপাল এবং এজেন্টের দায়",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_303",
+      "resolved_text": "২০৯। প্রিন্সিপাল এবং এজেন্টের দায়।— ধারা ২০৭ এবং ধারা ২০৮ এর বিধানাবলী সাপেক্ষে এই আইনের অধীন কোন পণ্যের মালিক কোন কিছু করিতে বাধ্য অথবা ক্ষমতাপ্রাপ্ত হইলে মালিক হইতে এতদুদ্দেশ্যে স্পষ্টভাবে অথবা নিহিতভাবে ক্ষমতাপ্রাপ্ত ব্যক্তি কর্তৃক উহা করা যাইবে।\n(২) যে ক্ষেত্রে কোন পণ্যের মালিক, আমদানিকারক অথবা রপ্তানিকারককে কোন কিছু করিতে এই আইন বাধ্য করে সেই ক্ষেত্রে এইরূপ কোন কিছু যদি পণ্যের মালিকের, আমদানিকারকের অথবা রপ্তানিকারকের এজেন্ট, করণিক অথবা কর্মচারী কর্তৃক করা হয়, তাহা হইলে পরিপন্থী কিছু প্রমাণিত না হইলে, উহা উক্ত মালিক, আমদানিকারক অথবা রপ্তানিকারকের জ্ঞাতসারে এবং সম্মতিক্রমে করা হইয়াছে বলিয়া গণ্য হইবে, যাহাতে এই আইনের অধীন কোন কার্যধারায় পণ্যের মালিক, আমদানিকারক অথবা রপ্তানিকারকও দায়ী হইবেন, যেন উহা তিনি নিজেই করিয়াছেন।\n(৩) যখন কোন ব্যক্তি কোন পণ্যের মালিক, আমদানিকারক অথবা রপ্তানিকারক কর্তৃক উক্ত পণ্য সম্পর্কে এই আইনের অধীন সকল অথবা কোন একটি উদ্দেশ্য পূরণকল্পে স্পষ্টভাবে অথবা নিহিতভাবে ক্ষমতাপ্রাপ্ত হন তখন মালিক, আমদানিকারক অথবা রপ্তানিকারকের দায় ক্ষুণ্ণ না করিয়া, সেই ব্যক্তি উক্ত উদ্দেশ্যসমূহ পূরণের জন্য উক্ত পণ্যের মালিক, আমদানিকারক অথবা রপ্তানিকারক হিসাবে গণ্য হইবেন :\nতবে শর্ত থাকে যে, যে ক্ষেত্রে এজেন্টের ইচ্ছাকৃত কার্য, অবহেলা অথবা ত্রুটির কারণ ব্যতীত অন্য কোন কারণে কোন শুল্ক অনারোপিত থাকে, কম আরোপিত হয় অথবা ভুলক্রমে ফেরত প্রদত্ত হয় সেই ক্ষেত্রে এজেন্টের নিকট হইতে উক্ত শুল্ক আদায় করা হইবে না।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Act allows customs-related actions required or authorized for a cargo owner to be performed by an agent or authorized representative.",
+          "The Act establishes legal liability for owners, importers, or exporters regarding the actions of their agents, clerks, or employees, deeming such actions to have been performed with the principal's knowledge and consent unless proven otherwise."
+        ],
+        "Customs Agent": [
+          "A person authorized by a cargo owner to act on their behalf is considered the owner, importer, or exporter for the purposes of fulfilling legal requirements under this Act.",
+          "An agent is not held personally liable for customs duties that are unpaid, undercharged, or erroneously refunded, provided the situation did not arise from the agent's willful misconduct, negligence, or error."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_307",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "cargo owner",
+          "agent",
+          "authorized representative",
+          "owners",
+          "importers",
+          "exporters",
+          "clerks",
+          "employees",
+          "principal"
+        ],
+        "Customs Agent": [
+          "person",
+          "cargo owner",
+          "owner",
+          "importer",
+          "exporter",
+          "agent",
+          "customs duties"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        14,
+        39,
+        70,
+        77,
+        79,
+        92,
+        94,
+        120,
+        157,
+        239,
+        591,
+        659,
+        1089,
+        1348,
+        3564
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_304",
+      "clause_title": "যানবাহনের ভারপ্রাপ্ত ব্যক্তি কর্তৃক নিযুক্ত এজেন্টের দায়",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_304",
+      "resolved_text": "২১০। যানবাহনের ভারপ্রাপ্ত ব্যক্তি কর্তৃক নিযুক্ত এজেন্টের দায়।— (১) এই আইনের অধীন কোন যানবাহনের ভারপ্রাপ্ত ব্যক্তি কোন কিছু করিতে বাধ্য হইলে অথবা ক্ষমতাপ্রাপ্ত হইলে উহা ভারপ্রাপ্ত ব্যক্তির স্পষ্ট অথবা নিহিত সম্মতিক্রমে এবং যথোপযুক্ত কর্মকর্তার অনুমোদনক্রমে তাঁহার এজেন্ট কর্তৃক করা যাইবে।\n(২) যানবাহনের ভারপ্রাপ্ত ব্যক্তি কর্তৃক নিযুক্ত কোন এজেন্ট, এবং কোন কাস্টমস কর্মকর্তার নিকট উক্ত ভারপ্রাপ্ত ব্যক্তির উপর এজেন্ট হিসাবে পরিচয়দানকারী এবং উক্ত কর্মকর্তা কর্তৃক সেইভাবে গৃহীত কোন ব্যক্তি এই আইনের অথবা আপাতততঃ বলবৎ অন্য কোন আইনের দ্বারা অথবা অধীন উক্ত ভারপ্রাপ্ত ব্যক্তির উপর যে সকল বিষয়ের প্রশ্নে দায়িত্ব অর্পিত রহিয়াছে তাহা এবং সেইরূপ বিষয় হইতে উদ্ভূত অর্থদণ্ড সমূহ (বাজেয়াপ্তিসহ) পরিপূরণ করিতে দায়ী থাকিবেন।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A person in charge of a conveyance may perform mandatory or authorized acts under the Customs Act 1969 through a duly authorized agent, subject to the approval of the proper officer.",
+          "An agent appointed by the person in charge of a conveyance, or anyone holding themselves out as such and recognized by a customs officer, is legally liable for fulfilling all obligations imposed upon the person in charge.",
+          "The agent is held accountable for all liabilities, including the payment of fines and penalties such as confiscation, arising from the matters for which the person in charge is responsible under this Act or any other currently enforceable law."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework under which an agent may act on behalf of the person in charge of a conveyance for customs purposes.",
+          "The Act establishes the scope of liability for agents regarding the obligations and financial penalties incurred by the person in charge of the conveyance."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appointment of an agent to act on behalf of the person in charge of a conveyance requires the approval of the appropriate officer of customs.",
+          "The officer is responsible for recognizing individuals who present themselves as agents, thereby formalizing their legal accountability under the Act."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_308",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "person in charge of a conveyance",
+          "duly authorized agent",
+          "proper officer",
+          "customs officer",
+          "fines",
+          "penalties",
+          "confiscation"
+        ],
+        "Customs Act 1969": [
+          "agent",
+          "person in charge of a conveyance",
+          "obligations",
+          "financial penalties"
+        ],
+        "Appropriate Officer of Customs": [
+          "agent",
+          "person in charge of a conveyance",
+          "individuals"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        17,
+        46,
+        49,
+        92,
+        94,
+        236,
+        245,
+        294,
+        431,
+        511,
+        1054,
+        2152,
+        4602
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_68",
+      "clause_title": "জাহাজের পোর্ট-ক্লিয়ারেন্স অথবা অন্যান্য যানবাহনের প্রস্থানের অনুমতি প্রদান অস্বীকার করার ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_68",
+      "resolved_text": "৫৫। জাহাজের পোর্ট-ক্লিয়ারেন্স অথবা অন্যান্য যানবাহনের প্রস্থানের অনুমতি প্রদান অস্বীকার করার ক্ষমতা।— (১) যথোপযুক্ত কর্মকর্তা জাহাজের পোর্ট-ক্লিয়ারেন্স অথবা অন্যান্য যানবাহনের প্রস্থান-অনুমতি প্রদান অস্বীকার করিতে পারিবেন, যতক্ষণ পর্যন্ত না-\n\n(ক) ধারা ৫৩ অথবা, ক্ষেত্রমত, ধারা ৫৪ এর বিধান পরিপালন করা হয় ;\n\n(খ) উক্ত জাহাজের ক্ষেত্রে উহার মালিক অথবা মাস্টার কর্তৃক অথবা অন্য যানবাহনের ক্ষেত্রে উহার মালিক অথবা ভারপ্রাপ্ত ব্যক্তি কর্তৃক জাহাজের জন্য প্রদেয় স্টেশন অথবা বন্দরের সকল পাওনা, অন্যান্য চার্জ এবং অর্থদন্ড এবং উহাতে বোঝাইকৃত পণ্য সমূহের উপর প্রদেয় সকল শুল্ক, কর এবং অন্যান্য পাওনা যথাযথভাবে পরিশোধ করা হয় অথবা উক্ত কর্মকর্তা যেমন নির্দেশ করেন তেমন গ্যারান্টি দ্বারা অথবা তেমন হারে অর্থ জমা প্রদান দ্বারা নিশ্চিত করা হয় ;\n\n(গ) যে ক্ষেত্রে উপরের বর্ণনামতে প্রদেয় সকল শুল্ক, কর এবং অন্যান্য পাওনা পরিশোধ ব্যতীত অথবা পরিশোধের নিশ্চয়তা প্রদান ব্যতীত অথবা এই আইনের অথবা বিধিমালার অথবা আপাততঃ বলবৎ পণ্য রপ্তানি সম্পর্কিত অন্য কোন আইনের বিধান লঙ্ঘন করিয়া রপ্তানি পণ্য বোঝাই করা হইয়াছে সেই ক্ষেত্রে -\n(অ) উক্ত পণ্য নামানো হয়, অথবা -\n(আ) যদি যথোপযুক্ত কর্মকর্তা এই মর্মে সন্তুষ্ট হন যে উক্ত পণ্য নামানো বাস্তবসম্মত নয়, তাহা হইলে পণ্য বাংলাদেশে ফেরত আনার জন্য ভারপ্রাপ্ত ব্যক্তি অথবা তাহার যথাযথ ক্ষমতাপ্রাপ্ত এজেন্ট অঙ্গীকারনামা প্রদান করেন অথবা উক্ত কর্মকর্তা যেমন নির্দেশ করেন তেমন গ্যারান্টি অথবা তেমন পরিমাণ অর্থ জমা প্রদান করেন ;\n\n(ঘ) এজেন্ট, যদি থাকেন, যথোপযুক্ত কর্মকর্তার নিকট এই মর্মে লিখিত ঘোষণা প্রদান করেন যে তিনি ধারা ১৫৬ এর উপধারা (১) এর অধীন টেবিলের দফা ২৪ অনুসারে আরোপিত কোন অর্থদন্ডের জন্য দায়বদ্ধ থাকিবেন এবং উহা সম্পাদন করার জন্য জামানত পেশ করেন ;\n\n(ঙ) এজেন্ট,যদি থাকেন, যথোপযুক্ত কর্মকর্তার নিকট এই মর্মে লিখিত ঘোষণা প্রদান করেন যে আমদানি পণ্যের অন্তর্ভুক্ত কোন পণ্যের মালিক কর্তৃক উক্ত পণ্যের ক্ষতি হওয়ার অথবা কম পণ্য অর্পণ করার দাবী প্রতিষ্ঠিত হইলে তিনি উহা পূরণের জন্য দায়বদ্ধ থাকিবেন।\n\n(২) উপধারা (১) এর দফা (ঘ) এর অধীন ঘোষণা প্রদানকারী এজেন্ট ধারা ১৫৬ এর উপধারা (১) এর অধীন টেবিলের দফা ২৪ অনুযায়ী আরোপিত সকল অর্থদন্ডের জন্য দায়বদ্ধ থাকিবেন এবং উপধারা (১) এর দফা (ঙ) এর অধীন ঘোষণা প্রদানকারী এজেন্ট উক্ত ঘোষণায় বর্ণিত সকল দাবী পূরণ করিতে বাধ্য থাকিবেন।",
+      "entity_concepts": {
+        "Appropriate Officer of Customs": [
+          "The Appropriate Officer of Customs is empowered to withhold port clearance for a ship or departure permission for other modes of transport until all legal requirements, tax obligations, and penalty settlements are satisfied.",
+          "This officer exercises discretion to determine the form of security, guarantee, or monetary deposit required to cover outstanding customs dues, charges, or potential liabilities."
+        ],
+        "Customs Clearance": [
+          "Port clearance or departure permission is conditional upon the fulfillment of procedures outlined under the Customs Act 1969.",
+          "Clearance may be denied if there are outstanding duties, taxes, fines, or other charges related to the vehicle, its crew, or the goods loaded on board."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the statutory basis for withholding transport clearance and stipulates the conditions regarding documentation, payment of dues, and liability of agents.",
+          "It mandates adherence to export regulations and governs the process for offloading or guaranteeing goods that have been loaded in violation of trade laws."
+        ],
+        "Customs Agent": [
+          "The agent is required to provide written declarations accepting liability for penalties imposed under specific provisions of the Customs Act 1969.",
+          "The agent assumes legal responsibility for satisfying claims related to the loss of goods or shortages reported by importers and must provide necessary security or guarantees for these liabilities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_72",
+      "entity_sub_entities": {
+        "Appropriate Officer of Customs": [
+          "port clearance",
+          "departure permission",
+          "legal requirements",
+          "tax obligations",
+          "penalty settlements",
+          "security",
+          "guarantee",
+          "monetary deposit",
+          "customs dues",
+          "charges",
+          "liabilities"
+        ],
+        "Customs Clearance": [
+          "port clearance",
+          "departure permission",
+          "Customs Act 1969",
+          "duties",
+          "taxes",
+          "fines",
+          "charges",
+          "vehicle",
+          "crew",
+          "goods"
+        ],
+        "Customs Act 1969": [
+          "transport clearance",
+          "documentation",
+          "dues",
+          "liability of agents",
+          "export regulations",
+          "goods",
+          "trade laws"
+        ],
+        "Customs Agent": [
+          "written declarations",
+          "penalties",
+          "Customs Act 1969",
+          "claims",
+          "loss of goods",
+          "shortages",
+          "importers",
+          "security",
+          "guarantees",
+          "liabilities"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        13,
+        17,
+        30,
+        46,
+        51,
+        63,
+        79,
+        92,
+        115,
+        161,
+        172,
+        209,
+        245,
+        555,
+        703,
+        836,
+        951,
+        1022,
+        1062,
+        1063,
+        1703,
+        3939,
+        6895,
+        9461,
+        9624,
+        9930,
+        10561,
+        12184,
+        12672,
+        12903,
+        12989,
+        13423
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_70",
+      "clause_title": "এজেন্টের জামানতের ভিত্তিতে পোর্ট-ক্লিয়ারেন্স অথবা প্রস্থানের অনুমতি মঞ্জুরী",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_70",
+      "resolved_text": "৫৭। এজেন্টের জামানতের ভিত্তিতে পোর্ট-ক্লিয়ারেন্স অথবা প্রস্থানের অনুমতি মঞ্জুরী।— ধারা ৫৫ অথবা ধারা ৫৬ এ যাহা কিছুই থাকুক না কেন, এবং বিধিমালা সাপেক্ষে, যথোপযুক্ত কর্মকর্তা জাহাজের ক্ষেত্রে পোর্ট ক্লিয়ারেন্স এবং অন্যান্য যানবাহনের ক্ষেত্রে প্রস্থানের অনুমতি প্রদান করিতে পারিবেন যদি ধারা ৫৩ অথবা, ক্ষেত্রমত, ধারা ৫৪ এ নির্ধারিত রপ্তানি ম্যানিফেস্ট এবং অন্যান্য দলিলপত্র উক্ত মঞ্জুরীর তারিখ হইতে দশ দিবসের মধ্যে যথাযথভাবে অর্পণের জন্য এজেন্ট এমন জামানত পেশ করেন যাহা উক্ত কর্মকর্তার নিকট পর্যাপ্ত মনে হয়।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The appropriate officer may grant port clearance to a vessel or departure permission to other conveyances based on the provision of adequate security by the agent.",
+          "This permission is contingent upon the agent committing to submit the export manifest and other required documentation within a specified time frame after the grant of clearance."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer is empowered to exercise discretion in determining the adequacy of the security provided by an agent before granting clearance or departure permission for vessels and other conveyances."
+        ],
+        "Customs Agent": [
+          "An agent is required to provide sufficient security to the customs authorities to secure the timely submission of mandatory export documentation, such as the export manifest, within a defined period after receiving clearance or departure authorization."
+        ],
+        "Export Manifest": [
+          "The submission of the export manifest is a prerequisite condition for obtaining port clearance or departure permission, and it must be filed within a specific deadline following the grant of such authorization."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_74",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "port clearance",
+          "departure permission",
+          "vessel",
+          "conveyances",
+          "security",
+          "agent",
+          "export manifest",
+          "documentation"
+        ],
+        "Appropriate Officer of Customs": [
+          "officer",
+          "security",
+          "agent",
+          "clearance",
+          "departure permission",
+          "vessels",
+          "conveyances"
+        ],
+        "Customs Agent": [
+          "agent",
+          "security",
+          "customs authorities",
+          "export documentation",
+          "export manifest",
+          "clearance",
+          "departure authorization"
+        ],
+        "Export Manifest": [
+          "export manifest",
+          "port clearance",
+          "departure permission",
+          "authorization"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        45,
+        51,
+        63,
+        71,
+        92,
+        94,
+        114,
+        155,
+        172,
+        209,
+        261,
+        280,
+        514,
+        555,
+        630,
+        845,
+        7213
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_91",
+      "clause_title": "অবিলম্বে নামানোর অনুমতি প্রদানের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_91",
+      "resolved_text": "৭৮। অবিলম্বে নামানোর অনুমতি প্রদানের ক্ষমতা।— (১) ধারা ৭৪, ৭৬ এবং ৭৭ এ যাহা কিছুই থাকুক না কেন, বোর্ড, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, যে কাস্টমস- স্টেশনের ক্ষেত্রে এই ধারা প্রযোজ্য ঘোষণা করিয়াছে সেই স্টেশনের যথোপযুক্ত কর্মকর্তা ধারা ৪৭ এর অধীন প্রদত্ত আদেশ অথবা ধারা ৪৯ এর অধীন প্রদত্ত বিশেষ পাস প্রাপ্তির সাথে সাথে কোন জাহাজের মাস্টারকে অথবা আমদানি ম্যানিফেস্ট প্রাপ্তির অব্যবহিত পর জাহাজ ব্যতীত অন্য যানবাহনের ভারপ্রাপ্ত ব্যক্তিকে উক্ত যানবাহন আমদানিকৃত সকল পণ্য অথবা উহার অংশ বিশেষ তাহার এজেন্টের জিম্মায়, যদি তিনি উহা গ্রহণ করিতে সম্মত থাকেন, উহা নিম্নে বর্ণিত স্থানে খালাসের উদ্দেশ্যে নামানোর অনুমতি দিতে পারিবেন-\n\n(ক) কোন কাস্টম-হাউসে, নির্ধারিত অথবা কোন অবতরণ স্থানে অথবা জেটিতে; অথবা\n\n(খ) পোর্ট কমিশনার, পোর্ট ট্রাস্ট, রেলওয়ে অথবা অন্য কোন সরকারী সংস্থা অথবা কোম্পানীর মালিকানাধীন কোন অবতরণ স্থানে অথবা জেটিতে; অথবা\n\n(গ) হেফাজতে দেওয়ার জন্য কমিশনার অব কাস্টমস কর্তৃক অনুমোদিত কোন ব্যক্তির নিকট।\n\n(২) উক্ত পণ্য অথবা উহার অংশবিশেষ গ্রহণকারী কোন এজেন্ট উক্ত পণ্যের মালিক কর্তৃক প্রতিষ্ঠিত এতদসম্পর্কিত কোন ক্ষতি অথবা কম সরবরাহের সকল দাবী মিটাইতে বাধ্য থাকিবেন এবং উক্ত মালিকের নিকট হইতে প্রদত্ত সেবা বাবদ চার্জসমূহ আদায় করার অধিকারী হইবেন, কিন্তু যে ক্ষেত্রে উক্ত পণ্য অথবা উহার অংশবিশেষ নামানোর জন্য মালিক কর্তৃক কোন এজেন্ট পূর্বাহ্নে নিযুক্ত হইয়া থাকেন এবং উক্ত নিযুক্তি বাতিল না হয় সেই ক্ষেত্রে উক্ত এজেন্ট কমিশন অথবা অনুরূপ কোন কিছু পাইবেন না :\n\nতবে শর্ত থাকে যে, যথোপযুক্ত কর্মকর্তার লিখিত আদেশ ব্যতীত উক্ত পণ্য অথবা উহার অংশবিশেষ গ্রহণকারী কোন এজেন্ট ইহা অপসারণ করিতে অথবা অন্যভাবে ব্যবস্থাপনা করিতে পারিবেন না।\n\n(৩) যথোপযুক্ত কর্মকর্তা উপধারা (১) এর দফা (ক) এর অধীন খালাসকৃত সকল পণ্যের দায়িত্ব গ্রহণ করিবেন এবং ধারা ৭৬ এবং ধারা ৮২ এর বিধানমতে তাহাদের ব্যাপারে ব্যবস্থা গ্রহণ করিবেন।\n\n(৪) উপধারা (১) এর দফা (খ) বা দফা (গ) এর অধীন কোন সরকারী সংস্থা অথবা কোম্পানী অথবা পোর্ট কর্তৃপক্ষ অথবা এয়ারলাইন্স অথবা ব্যক্তির মালিকানাধীন অবতরণ স্থানে অথবা জেটিতে বা মজুদ করার স্থানে কোন পণ্য নামানো হইলে তাহারা যথোপযুক্ত কর্মকর্তার লিখিত আদেশ ব্যতীত উহা অপসারণ করিতে অথবা অন্য কোন ভাবে ব্যবস্থাপনা করিতে পারিবেন না।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to issue a notification in the official gazette specifying the customs stations where the authority to grant immediate unloading permission applies."
+        ],
+        "Appropriate Officer of Customs": [
+          "The Appropriate Officer of Customs is authorized to permit the master of a vessel or person in charge of a conveyance to unload imported goods into the custody of an agent, subject to specific regulatory conditions and procedural requirements."
+        ],
+        "Customs Agent": [
+          "A Customs Agent acts as a custodian for unloaded goods and is responsible for settling claims related to damages or shortages made by the owner of the goods.",
+          "A Customs Agent is entitled to charge the owner for services rendered, provided that they have not been previously appointed by the owner, in which case they may be restricted from claiming commissions for unloading services.",
+          "A Customs Agent is prohibited from moving or disposing of any goods in their custody without a written order from the Appropriate Officer of Customs."
+        ],
+        "Customs Act 1969": [
+          "This section operates notwithstanding the provisions of Sections 74, 76, and 77 of the Customs Act 1969, facilitating the immediate unloading of imported goods under specific controls.",
+          "Goods unloaded under the authority of this section are subject to the procedures and requirements mandated by Section 76 and Section 82 of the Customs Act 1969."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is authorized to approve persons or entities to whom goods may be delivered for safekeeping under the provisions of this section."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_95",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "notification",
+          "official gazette",
+          "customs stations",
+          "immediate unloading permission"
+        ],
+        "Appropriate Officer of Customs": [
+          "master of a vessel",
+          "person in charge of a conveyance",
+          "imported goods",
+          "agent"
+        ],
+        "Customs Agent": [
+          "unloaded goods",
+          "claims",
+          "owner of the goods",
+          "services",
+          "commissions",
+          "unloading services",
+          "written order"
+        ],
+        "Customs Act 1969": [
+          "Section 74",
+          "Section 76",
+          "Section 77",
+          "Section 82",
+          "imported goods"
+        ],
+        "Commissioner of Customs": [
+          "persons",
+          "entities",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        7,
+        8,
+        17,
+        20,
+        92,
+        94,
+        112,
+        118,
+        366,
+        431,
+        495,
+        563,
+        657,
+        863,
+        1022,
+        1499,
+        1955,
+        8824,
+        11991,
+        11992,
+        11994,
+        11998,
+        13101,
+        13102
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

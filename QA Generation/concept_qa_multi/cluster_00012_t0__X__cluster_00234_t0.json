@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00012_t0__X__cluster_00234_t0",
+  "entities": [
+    "raw materials",
+    "export"
+  ],
+  "cluster_ids": [
+    12,
+    234
+  ],
+  "thread_ids": [
+    "cluster_00012_t0",
+    "cluster_00234_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the regulatory definitions of 'Utilization Declaration (UD)' and 'Utilization Permission (UP)' connect the import of raw materials to the production of goods intended for export under the warehouse system?",
+      "answer": "Under the warehouse system, 'Utilization Declaration (UD)' as defined in [1] is the form submitted by the bond holder to declare raw materials imported duty-free for the production of goods, while 'Utilization Permission (UP)' as defined in [0] serves the purpose of sections 117 and 118 of the Customs Act, 2023. Additionally, [2] requires a formal declaration of materials necessary for the production of goods against specific export orders, linking the raw materials used to the final export product.",
+      "entities_involved": [
+        "raw materials",
+        "export"
+      ],
+      "clause_text_ids": [
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_12"
+      ]
+    }
+  ]
+}

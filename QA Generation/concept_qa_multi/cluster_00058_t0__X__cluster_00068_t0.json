@@ -1,0 +1,37 @@
+{
+  "group_id": "cluster_00058_t0__X__cluster_00068_t0",
+  "entities": [
+    "application",
+    "applications"
+  ],
+  "cluster_ids": [
+    58,
+    68
+  ],
+  "thread_ids": [
+    "cluster_00058_t0",
+    "cluster_00068_t0"
+  ],
+  "num_shared_clauses": 9,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the processing of an AEO application evolved from the 2018 regulations to the 2024-2025 framework regarding evaluation and rejection/approval protocols?",
+      "answer": "Under the 2018 regulations [0, 1], the application process involved a committee reviewing applications within 15 working days and the Commissioner disposing of them within 30 working days based on committee recommendations, with formal rejection notices required. Under the 2024-2025 framework [5, 7], the process shifted to a specialized institutional structure where the Director General of the AEO Center forms evaluation teams for assessing eligibility and conditions, and formal rejection protocols are standardized through specific forms such as Form-Chha [2] and Form-Nya [3, 8] for initial applications and class upgrades respectively.",
+      "entities_involved": [
+        "application",
+        "applications"
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_7",
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_8",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_30",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_33",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_7",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_48",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_33"
+      ]
+    }
+  ]
+}

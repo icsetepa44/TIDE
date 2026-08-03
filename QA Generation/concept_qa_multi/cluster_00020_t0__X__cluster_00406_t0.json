@@ -1,0 +1,32 @@
+{
+  "group_id": "cluster_00020_t0__X__cluster_00406_t0",
+  "entities": [
+    "notification",
+    "factory inspection report"
+  ],
+  "cluster_ids": [
+    20,
+    406
+  ],
+  "thread_ids": [
+    "cluster_00020_t0",
+    "cluster_00406_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the regulatory framework for issuing a 'notification' (SRO) interact with the legislative authority required for verifying industrial capacity under the Customs Act, 2023?",
+      "answer": "The issuance of a notification (SRO) is executed by the government in consultation with the National Board of Revenue (NBR) under the authority granted by Section 25(1) of the Customs Act, 2023 and Section 126(1) of the Value Added Tax and Supplementary Duty Act, 2012. This legal mechanism provides the regulatory basis for the NBR to implement formal verification processes, such as those involving factory inspection reports, to ensure industrial capacity meets the criteria for duty concessions.",
+      "entities_involved": [
+        "notification",
+        "factory inspection report"
+      ],
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3"
+      ]
+    }
+  ]
+}

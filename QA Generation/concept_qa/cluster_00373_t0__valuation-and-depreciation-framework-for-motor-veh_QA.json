@@ -1,0 +1,175 @@
+{
+  "thread_id": "cluster_00373_t0",
+  "cluster_id": 373,
+  "cluster_label": "motor vehicles",
+  "title": "Valuation and Depreciation Framework for Motor Vehicles",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to SRO 190-Law/2010 dated 2010-06-10, what was the updated consolidated tax rate for imported motor vehicles up to 4 years old?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "answer_index": 1,
+      "answer": "25%",
+      "explanation": "SRO 190-Law/2010, issued on 2010-06-10, explicitly replaced the previous rate with a 25% consolidated tax rate for motor vehicles up to 4 years old.",
+      "clause_text_ids": [
+        "20100610_191-AIN_2010_2309-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which international guides were formalized for motor vehicle valuation under SRO 163-Law/2012?",
+      "options": [
+        "Only the Japan Auto Appraisal Institute guide",
+        "Yellow Book, Glass's Guide, and Magazine Automobiles",
+        "The Global Vehicle Valuation Handbook only",
+        "Customs Act 1969 Valuation Manual"
+      ],
+      "answer_index": 1,
+      "answer": "Yellow Book, Glass's Guide, and Magazine Automobiles",
+      "explanation": "SRO 163-Law/2012, dated 2012-06-07, formalized the use of Yellow Book, Glass's Guide, and Magazine Automobiles for determining the average value of imported motor vehicles.",
+      "clause_text_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the rules established on 2012-06-07 (SRO 163-Law/2012), how is the duty calculated if the declared value of a vehicle exceeds the minimum threshold?",
+      "options": [
+        "The duty is calculated based on the minimum threshold value only.",
+        "The duty is calculated based on the declared value without depreciation benefits.",
+        "The duty is calculated by applying an additional 10% penalty.",
+        "The duty is waived entirely."
+      ],
+      "answer_index": 1,
+      "answer": "The duty is calculated based on the declared value without depreciation benefits.",
+      "explanation": "SRO 163-Law/2012 states that if the declared value exceeds the minimum threshold, the customs assessment must be conducted based on the declared value without applying depreciation concessions.",
+      "clause_text_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What specific rule regarding the 'date of first registration' was introduced by SRO 217-Law/2013 on 2013-07-01?",
+      "options": [
+        "The date of shipment is used as the registration date.",
+        "The manufacturing year is used as the registration date.",
+        "If the exact date is missing, the first day of the month following the registration month is used.",
+        "The registration date must be verified by the Japan Auto Appraisal Institute."
+      ],
+      "answer_index": 2,
+      "answer": "If the exact date is missing, the first day of the month following the registration month is used.",
+      "explanation": "SRO 217-Law/2013, dated 2013-07-01, introduced a clarification stating that if the exact date of first registration is missing, the first day of the month following the month of registration is treated as the official date.",
+      "clause_text_ids": [
+        "20130701_217-AIN_2013_2457-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer brought a 4-year-old vehicle into Bangladesh in 2011, benefiting from the consolidated depreciation rate established in 2010. In 2013, the importer wishes to understand the evolution of how the vehicle's age is calculated compared to the rules that were in place at the time of their 2011 import.",
+      "question": "How did the regulatory framework for determining vehicle age and valuation change between the 2010/2011 period and the 2013 update?",
+      "answer": "While the 2010 rule set a consolidated depreciation rate for vehicles up to 4 years old, the 2012 rule shifted the valuation methodology to international guides (e.g., Yellow Book, Glass's Guide). By 2013, the framework was further refined to include specific rules for determining the 'date of first registration' and standardized rounding methods for age calculation.",
+      "clauses_involved": [
+        "2010-06-10 | SRO 190-Law/2010",
+        "2012-06-07 | SRO 163-Law/2012",
+        "2013-07-01 | SRO 217-Law/2013"
+      ],
+      "clause_text_ids": [
+        "20100610_191-AIN_2010_2309-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4",
+        "20130701_217-AIN_2013_2457-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer declares a value for a reconditioned vehicle that is significantly higher than the minimum value calculated using international guides. They want to know if they can still claim the depreciation benefits that were common in earlier customs assessments.",
+      "question": "Based on the evolution of the valuation policy, what happens to the depreciation benefit if the declared value exceeds the minimum value determined by the international guide-based methodology?",
+      "answer": "Under the 2012 policy, if the declared value exceeds the minimum value calculated using international guides, the customs assessment must be conducted based on the declared value without applying any depreciation benefits.",
+      "clauses_involved": [
+        "2012-06-07 | SRO 163-Law/2012 (Methodology)",
+        "2012-06-07 | SRO 163-Law/2012 (Declared Value Clause)"
+      ],
+      "clause_text_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "two years later",
+      "question": "Two years later, how did the valuation framework for imported used and reconditioned motor vehicles change regarding the use of international pricing references?",
+      "answer": "In 2012-06-07 (SRO 163-Law/2012), the framework shifted from simple consolidated depreciation to a structured methodology requiring the use of internationally recognized valuation guides such as the Yellow Book, Glass's Guide, or Magazine Automobiles.",
+      "clause_text_ids": [
+        "20100610_191-AIN_2010_2309-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "one year later",
+      "question": "One year later, what specific administrative refinements were introduced regarding the calculation of vehicle age for customs purposes?",
+      "answer": "In 2013-07-01 (SRO 217-Law/2013), the government introduced specific rules for determining the 'date of first registration' and established precise rounding methods for calculating vehicle age.",
+      "clause_text_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4",
+        "20130701_217-AIN_2013_2457-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Specific rules are introduced to determine the date of registration for motor vehicles when the documentation does not explicitly state it, utilizing the month following the initial registration month as the benchmark.",
+        "The consolidated tax rate for the import of motor vehicles within a specified age limit is reduced, and the allowable age limit for such vehicles is tightened.",
+        "The valuation of used, old, or reconditioned motor vehicles is determined by applying a percentage depreciation to values published in internationally recognized guides, and assessments are conducted based on declared values if they exceed the minimum calculated value."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The consolidated tax rate for the import of motor vehicles within a specified age limit is reduced, and the allowable age limit for such vehicles is tightened.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The valuation of used, old, or reconditioned motor vehicles is determined by applying a percentage depreciation to values published in internationally recognized guides, and assessments are conducted based on declared values if they exceed the minimum calculated value.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "Specific rules are introduced to determine the date of registration for motor vehicles when the documentation does not explicitly state it, utilizing the month following the initial registration month as the benchmark.",
+          "date": "2013-07-01"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_191-AIN_2010_2309-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130701_217-AIN_2013_2457-Customs_১ জুলাই, ২০১৩_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_191-AIN_2010_2309-Customs/20100610_191-AIN_2010_2309-Customs_output.json",
+        "customs_sros_OCR/20120607_162-AIN_2012_2390-Customs/20120607_162-AIN_2012_2390-Customs_output.json",
+        "customs_sros_OCR/20130701_217-AIN_2013_2457-Customs/20130701_217-AIN_2013_2457-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00373_t0__valuation-and-depreciation-framework-for-motor-veh.json"
+    }
+  ]
+}

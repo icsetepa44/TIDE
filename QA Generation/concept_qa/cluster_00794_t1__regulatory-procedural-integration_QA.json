@@ -1,0 +1,204 @@
+{
+  "thread_id": "cluster_00794_t1",
+  "cluster_id": 794,
+  "cluster_label": "regulatory provisions",
+  "title": "Regulatory Procedural Integration",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 13,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The legal authority for issuing customs duty notifications was initially invoked in 2016 through SRO 153-AIN/2016, citing Section 19(1) of the Customs Act 1969 and Section 14(1) of the VAT Act 1991.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. SRO 153-AIN/2016, issued on June 2, 2016, utilized Section 19(1) of the Customs Act 1969 and Section 14(1) of the VAT Act 1991 as the legal basis for regulatory authority.",
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the June 6, 2024 SRO, the Customs Clearing Agent Licensing Rules 2022 were established as the fallback regulatory provision for procedural matters not covered by existing rules.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Clearing Agent Licensing Rules 2022",
+      "correct_fact": "Customs Clearing Agent Licensing Rules 2020",
+      "answer": "The statement is inaccurate. The correct instrument mandated as the fallback regulatory provision in the June 6, 2024 SRO is the Customs Clearing Agent Licensing Rules 2020, not 2022.",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "On February 16, 2025, regulatory recognition was expanded to include the branding and status of the Authorized Economic Operator (AEO), including the prescription of an official logo.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. According to the SRO dated February 16, 2025, regulatory recognition was expanded to include AEO status and the use of a standardized official logo for certified operators.",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_47"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The National Board of Revenue serves as the primary advisory body to the government for the issuance and amendment of statutory regulatory orders, a role formalized in the 2024 update.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "a role formalized in the 2024 update",
+      "correct_fact": "a role established in the 2016 SRO 153-AIN/2016",
+      "answer": "The statement is inaccurate regarding the timeline. The National Board of Revenue's role as the primary advisory body was documented in the 2016 SRO 153-AIN/2016, not the 2024 update.",
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 153-AIN/2016 replaced a previous table of goods to update the list of items subject to regulatory provisions, specifically including coral materials under H.S. Code 0508.00.00.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. SRO 153-AIN/2016 dated June 2, 2016, replaced the table in the earlier SRO 147-AIN/2013 to include items such as coral materials (H.S. Code 0508.00.00).",
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The regulatory framework evolution expanded from basic tax authority to include AEO recognition by June 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 2024",
+      "correct_fact": "February 2025",
+      "answer": "The statement is inaccurate. The expansion of regulatory recognition to include AEO branding and status occurred on February 16, 2025, not June 2024.",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_47"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the regulatory update on 2016-06-02 (SRO 153-AIN/2016), the government mandated that all procedural matters not covered by existing provisions must be resolved by applying the Customs Clearing Agent Licensing Rules 2020.",
+      "question": "Does the 2016-06-02 SRO 153-AIN/2016 mandate the use of the Customs Clearing Agent Licensing Rules 2020 as a fallback regulatory provision?",
+      "conflict": "The misaligned context incorrectly attributes the 2020 rules to an SRO issued in 2016, which is chronologically impossible.",
+      "answer": "No. The Customs Clearing Agent Licensing Rules 2020 were established as the fallback regulatory provision in the SRO issued on 2024-06-06, not in 2016. SRO 153-AIN/2016, issued on 2016-06-02, focused on the legal authority under the Customs Act 1969 and the VAT Act 1991 to amend tables of goods.",
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In accordance with the foundational regulatory framework established in 2016-06-02, institutions are authorized to use the official Authorized Economic Operator (AEO) logo to signify their certified status.",
+      "question": "Was the official AEO logo branding introduced as part of the 2016 regulatory framework?",
+      "conflict": "The context incorrectly suggests that AEO branding was part of the 2016 framework, whereas it was actually introduced in 2025.",
+      "answer": "No. The official logo for Authorized Economic Operator (AEO) recognition was introduced in the SRO dated 2025-02-16. The 2016-06-02 SRO 153-AIN/2016 dealt with the legal basis for customs duties and VAT notifications, not AEO status or branding.",
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_47"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs clearing agent encounters a procedural gap while conducting operations in 2025. They recall that in 2016, their operations were governed primarily by the general legal authority granted under the Customs Act 1969 and VAT Act 1991. They are unsure whether they should still rely solely on those 2016-era authorities or if a specific procedural hierarchy has since been established to resolve gaps.",
+      "question": "How has the regulatory framework for addressing procedural gaps changed from the 2016 legal basis to the current provisions established in 2024?",
+      "answer": "While the 2016 framework established general legal authority under the Customs Act 1969 and VAT Act 1991, the 2024 rules introduced a specific hierarchy, mandating that any procedural issues not explicitly covered must be resolved according to the Customs Clearing Agent Licensing Rules 2020.",
+      "clauses_involved": [
+        "2016-06-02 | SRO 153-AIN/2016",
+        "2024-06-06 | SRO"
+      ],
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_47"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An organization received their Authorized Economic Operator (AEO) recognition in 2025. They are reviewing their compliance requirements and comparing them to the foundational regulatory framework established in 2016, which focused on basic tax authority. They want to know if the 2016 framework provided for the specific identification branding they are now required to use.",
+      "question": "Does the 2016 regulatory framework support the use of the AEO logo currently required under the 2025 provisions?",
+      "answer": "No. The 2016 framework was limited to general legal authority for customs duties and VAT, whereas the specific regulatory recognition and identification requirements for AEO logo usage were only introduced in the 2025 provisions.",
+      "clauses_involved": [
+        "2016-06-02 | SRO 153-AIN/2016",
+        "2025-02-16 | SRO"
+      ],
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_47"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "eight years later",
+      "question": "Starting from the initial regulatory authority established in 2016-06-02, what procedural change was mandated eight years later regarding the hierarchy of rules for customs agents?",
+      "answer": "In 2024-06-06, the regulatory framework was updated to mandate that the Customs Clearing Agent Licensing Rules 2020 serve as the fallback provision for any procedural matters not explicitly covered by existing regulations.",
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "the following year",
+      "question": "Following the 2024-06-06 mandate on licensing rules, what development occurred the following year regarding regulatory recognition for specific operator statuses?",
+      "answer": "In 2025-02-16, the regulatory framework expanded to include formal recognition and branding for Authorized Economic Operators (AEO), including the prescription of an official logo for certified institutions.",
+      "clause_text_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_47"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government invokes the Customs Act and the Value Added Tax Act as the legal basis for issuing notifications concerning customs duties.",
+        "A standardized logo is prescribed for official use by institutions holding Authorized Economic Operator recognition.",
+        "The Customs Clearing Agent Licensing Rules are established as the fallback regulatory framework for any procedural matters not explicitly addressed by current provisions."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government invokes the Customs Act and the Value Added Tax Act as the legal basis for issuing notifications concerning customs duties.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The Customs Clearing Agent Licensing Rules are established as the fallback regulatory framework for any procedural matters not explicitly addressed by current provisions.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "A standardized logo is prescribed for official use by institutions holding Authorized Economic Operator recognition.",
+          "date": "2025-02-16"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_153-AIN_2016_15-Customs_২ জুন, ২০১৬_clause_1",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_47"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+        "customs_sros_OCR/20160602_153-AIN_2016_15-Customs/20160602_153-AIN_2016_15-Customs_output.json",
+        "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00794_t1__regulatory-procedural-integration.json"
+    }
+  ]
+}

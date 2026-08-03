@@ -1,0 +1,194 @@
+{
+  "thread_id": "cluster_00774_t0",
+  "cluster_id": 774,
+  "cluster_label": "government treasury",
+  "title": "Procedural Formalization of Treasury Deposits",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 3,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the initial procedure established for depositing erroneously received drawback amounts into the government treasury?",
+      "options": [
+        "2021-08-16",
+        "2024-07-08",
+        "2025-01-21",
+        "2020-01-01"
+      ],
+      "answer_index": 0,
+      "answer": "2021-08-16",
+      "explanation": "The Customs Rules dated 2021-08-16 established the initial procedure for depositing erroneously received refunds or drawbacks into the government treasury.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_11",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_108"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the terminology 'proof of payment' to replace 'treasury challan'?",
+      "options": [
+        "Customs Rules (2021-08-16)",
+        "Amendment Notification (2024-07-08)",
+        "Customs Directive (2025-01-21)",
+        "Treasury Collection Act (2023-05-12)"
+      ],
+      "answer_index": 1,
+      "answer": "Amendment Notification (2024-07-08)",
+      "explanation": "The 2024-07-08 Amendment Notification modernized terminology by replacing 'treasury challan' with 'proof of payment' (pramanak).",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_11",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_108"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the change in the compliance deadline for refund adjustments according to the 2024-07-08 Amendment Notification?",
+      "options": [
+        "From 15 to 30 days",
+        "From 30 to 60 days",
+        "From 60 to 90 days",
+        "From 90 to 120 days"
+      ],
+      "answer_index": 2,
+      "answer": "From 60 to 90 days",
+      "explanation": "The Amendment Notification dated 2024-07-08 extended the compliance deadline for specific refund adjustments under Rule 11 from sixty days to ninety days.",
+      "clause_text_ids": [
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What expansion in the scope of treasury deposits was introduced by the 2025-01-21 Customs Directive?",
+      "options": [
+        "Exclusively for drawback recovery",
+        "Inclusion of standard customs clearance and temporary assessment protocols",
+        "Mandatory deposits for all private banking transactions",
+        "Removal of all treasury deposit requirements"
+      ],
+      "answer_index": 1,
+      "answer": "Inclusion of standard customs clearance and temporary assessment protocols",
+      "explanation": "The 2025-01-21 Customs Directive expanded the scope of treasury deposits to include standard customs clearance procedures and temporary assessment protocols based on declarations.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_108"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer needs to adjust an erroneously received drawback amount. They were initially operating under the rules established in 2021, but now need to finalize the adjustment process following the 2024 amendment.",
+      "question": "How has the deadline for the administrative adjustment of erroneously received drawback amounts changed between the 2021 rules and the 2024 amendment?",
+      "answer": "The compliance deadline for refund adjustments was extended from 60 days to 90 days.",
+      "clauses_involved": [
+        "2021-08-16",
+        "2024-07-08"
+      ],
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_11",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company is submitting proof of a treasury deposit for customs duties. They have documentation from 2023 and are preparing new documentation in 2025.",
+      "question": "Regarding the terminology for treasury deposit verification, what specific change was introduced in the 2024 amendment that differentiates it from the previous 'treasury challan' requirement?",
+      "answer": "The terminology was modernized to replace 'treasury challan' with 'proof of payment' (pramanak).",
+      "clauses_involved": [
+        "2021-08-16",
+        "2024-07-08"
+      ],
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_11",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_108"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer is reviewing the scope of treasury deposits. They recall that in 2021, the procedure was focused specifically on drawback adjustments, but they are now processing standard customs clearance in 2025.",
+      "question": "How has the functional scope of treasury deposits evolved from the 2021 procedure to the 2025 directive?",
+      "answer": "The scope expanded from being limited to refund/drawback recovery to including standard customs clearance procedures and temporary assessment protocols.",
+      "clauses_involved": [
+        "2021-08-16",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_108"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-08-16",
+      "relative_offset": "nearly three years later",
+      "question": "Nearly three years after the initial procedure for depositing erroneous refunds via treasury challan was established, how did the 2024 amendment modernize the terminology and compliance requirements?",
+      "answer": "In the 2024-07-08 Amendment Notification, the terminology was modernized by replacing 'treasury challan' with 'proof of payment' (pramanak), and the compliance deadline for refund adjustments was extended from 60 to 90 days.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_11",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-07-08",
+      "relative_offset": "the following year",
+      "question": "What significant expansion in the scope of treasury deposits occurred the following year after the 2024 terminology updates?",
+      "answer": "On 2025-01-21, the Customs Directive expanded the scope of treasury deposits beyond refund adjustments to include standard customs clearance procedures and temporary assessment protocols based on bill of entry or bill of export declarations.",
+      "clause_text_ids": [
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_108"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Customs station authority is empowered to allow entities to deposit duties and taxes into the government treasury based on goods declarations and formal clearance applications.",
+        "The requirement to submit a treasury challan is replaced with a broader proof of payment mechanism, and the deadline for administrative refund adjustments is extended to ninety days.",
+        "A procedure is established requiring erroneously received drawback amounts to be deposited into the government treasury within fifteen days if adjustment against future applications is not possible."
+      ],
+      "answer_ordered": [
+        {
+          "event": "A procedure is established requiring erroneously received drawback amounts to be deposited into the government treasury within fifteen days if adjustment against future applications is not possible.",
+          "date": "2021-08-16"
+        },
+        {
+          "event": "The requirement to submit a treasury challan is replaced with a broader proof of payment mechanism, and the deadline for administrative refund adjustments is extended to ninety days.",
+          "date": "2024-07-08"
+        },
+        {
+          "event": "The Customs station authority is empowered to allow entities to deposit duties and taxes into the government treasury based on goods declarations and formal clearance applications.",
+          "date": "2025-01-21"
+        }
+      ],
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_11",
+        "20240708_238-_2024_80_২৯ জুন, ২০২৪_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_108"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+        "customs_sros_OCR/20240708_238-_2024_80/20240708_238-_2024_80_output.json"
+      ],
+      "thread_source_file": "cluster_00774_t0__procedural-formalization-of-treasury-deposits.json"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "thread_id": "cluster_00791_t0",
+  "cluster_id": 791,
+  "cluster_label": "prohibited items",
+  "title": "Regulatory Handling and Disposal of Prohibited Items",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 13,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2021-12-20 Customs Directive, perishable goods identified as prohibited items must be stored in a separate warehouse area and reported to the headquarters auction or destruction committee.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "The statement is accurate as per the 2021-12-20 Customs Directive.",
+      "answer": "The statement is accurate. The 2021-12-20 Customs Directive specifies that prohibited or perishable goods must be stored in a separate area and reported to the headquarters auction or destruction committee.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_23"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024-06-06 Baggage Rules allow passengers to clear prohibited items through a formal adjudication process if they pay the required customs duties and fines.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "allow passengers to clear prohibited items through a formal adjudication process",
+      "correct_fact": "explicitly excluding prohibited items from standard adjudication-based clearance",
+      "answer": "The statement is inaccurate. The 2024-06-06 Baggage Rules explicitly exclude prohibited items from standard adjudication-based clearance; adjudication is only applicable to non-prohibited goods imported in commercial quantities.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2025-02-17 Customs Rules, perishable goods and live animals are ineligible for express service clearance and must undergo regular customs formalities.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "The statement is accurate as per the 2025-02-17 Customs Rules.",
+      "answer": "The statement is accurate. The 2025-02-17 Customs Rules mandate that items such as perishable goods, live animals, and plants must follow regular customs formalities rather than express courier clearance.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-05-18 Transit/Transshipment Rules permit the transit of hazardous chemical substances through Bangladesh provided they are properly declared.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "permit the transit of hazardous chemical substances",
+      "correct_fact": "specifically exclude toxic and hazardous chemical substances from being eligible for transit or transshipment",
+      "answer": "The statement is inaccurate. The 2025-05-18 Transit/Transshipment Rules specifically exclude toxic and hazardous chemical substances from being eligible for transit or transshipment across Bangladesh.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 142 of the Customs Act 1969 allows an officer to detain prohibited items in a passenger's baggage at the passenger's request for the purpose of returning them upon departure.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "The statement is accurate as per the Customs Act 1969.",
+      "answer": "The statement is accurate. Under the Customs Act 1969, an appropriate officer may detain prohibited or restricted items found in a passenger's baggage, provided the passenger has made a true declaration and requested the detention for return upon leaving the country.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-02-17 Customs Rules state that any parcel exceeding 50 kg must bypass simplified courier clearance procedures.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "50 kg",
+      "correct_fact": "30 kg",
+      "answer": "The statement is inaccurate. According to the 2025-02-17 Customs Rules, the threshold for bypassing simplified courier clearance is 30 kg or more.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2021, the Customs Directive established that perishable goods and live animals were strictly ineligible for express service clearance, requiring all such items to undergo formal customs scrutiny instead of simplified courier processing.",
+      "question": "Was the exclusion of live animals and perishable goods from express service clearance established in the 2021 Customs Directive, or did this regulation arise later?",
+      "conflict": "The misaligned context attributes the 2025-02-17 regulation regarding express service exclusions to the 2021-12-20 directive.",
+      "answer": "No, the exclusion of live animals and perishable goods from express service clearance was not part of the 2021 directive. According to the 'Customs Rules' dated 2025-02-17, these categories were explicitly excluded from expedited express customs processing due to the need for additional security and oversight, whereas the 2021-12-20 Customs Directive focused specifically on disposal and destruction protocols for goods stored in warehouses.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_23",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2024 Baggage Rules, the transit and transshipment of hazardous chemical substances and waste products through Bangladesh were officially prohibited to ensure operational security.",
+      "question": "Did the 2024 Baggage Rules introduce the prohibition on transit and transshipment of hazardous chemical substances and waste products?",
+      "conflict": "The misaligned context attributes transit/transshipment restrictions to the 2024 Baggage Rules, whereas these were established in the 2025-05-18 Transit/Transshipment Rules.",
+      "answer": "No, the 2024 Baggage Rules did not establish these transit prohibitions. The prohibition on the transit or transshipment of hazardous chemical substances and waste products was established by the 'Transit/Transshipment Rules' dated 2025-05-18, which created a new layer of geographical and operational restrictions.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A logistics operator is managing a shipment of perishable goods. Under the undated baggage rules, a passenger could have their prohibited items temporarily detained for return upon departure. However, the operator now faces the 2025-02-17 Customs Rules and the 2021-12-20 Directive regarding these goods.",
+      "question": "How has the handling of prohibited/restricted goods evolved from the undated detention practice to the current regulatory framework for express and warehouse management?",
+      "answer": "The policy has shifted from simple temporary detention for passenger retrieval to a mandatory disposal/destruction protocol for warehouse items (2021-12-20) and a total exclusion of specific categories like perishables from express service clearance, requiring them to undergo regular customs formalities instead (2025-02-17).",
+      "clauses_involved": [
+        "undated",
+        "2021-12-20",
+        "2025-02-17"
+      ],
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_23",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer intended to transit specific biological species through Bangladesh. They noted that under the 2024-06-06 Baggage Rules, prohibited items were excluded from standard adjudication-based clearance. They are now evaluating if they can proceed with transit under the current 2025-05-18 Transit/Transshipment Rules.",
+      "question": "Does the 2024-06-06 Baggage Rules exclusion provide a pathway for the transit of biological species, and how does the 2025-05-18 rule affect this?",
+      "answer": "No. While the 2024-06-06 rules explicitly excluded prohibited items from standard baggage clearance, the 2025-05-18 Transit/Transshipment Rules created a new, specific geographical prohibition, explicitly banning the transit or transshipment of controlled biological species through Bangladesh.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2025-05-18"
+      ],
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-12-20",
+      "relative_offset": "three years and nearly six months later",
+      "question": "Following the 2021-12-20 directive on warehouse disposal, what new layer of restriction was introduced three years and nearly six months later regarding prohibited items?",
+      "answer": "On 2025-05-18, the Transit/Transshipment Rules were introduced, which categorized specific goods as prohibited for transit or transshipment, adding a new layer of geographical and operational restriction beyond warehouse disposal.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_23",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "eight months later",
+      "question": "Eight months after the 2024-06-06 Baggage Rules established thresholds for clearance, how did the scope of prohibited items change regarding express services?",
+      "answer": "On 2025-02-17, the Customs Rules expanded the scope of prohibited items to include specific categories like perishables and live animals, making them ineligible for express service clearance and requiring them to undergo regular customs formalities.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Clearance for non-prohibited goods imported in commercial quantities is permitted through adjudication, while explicitly excluding prohibited items from this process.",
+        "A range of items, including hazardous materials and weapons, are formally prohibited from transit or transshipment through the country.",
+        "Specific categories of goods, including perishables and animals, are deemed ineligible for express service clearance and must undergo standard customs formalities.",
+        "Prohibited goods identified in warehouses are required to be stored in designated areas and reported to the auction or destruction committee for disposal."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Prohibited goods identified in warehouses are required to be stored in designated areas and reported to the auction or destruction committee for disposal.",
+          "date": "2021-12-20"
+        },
+        {
+          "event": "Clearance for non-prohibited goods imported in commercial quantities is permitted through adjudication, while explicitly excluding prohibited items from this process.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Specific categories of goods, including perishables and animals, are deemed ineligible for express service clearance and must undergo standard customs formalities.",
+          "date": "2025-02-17"
+        },
+        {
+          "event": "A range of items, including hazardous materials and weapons, are formally prohibited from transit or transshipment through the country.",
+          "date": "2025-05-18"
+        }
+      ],
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_23",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_13",
+        "20250518_._২৭ মে, ২০২১_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20211220/20211220_output.json",
+        "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+        "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+        "customs_sros_OCR/20250518_./20250518_._output.json"
+      ],
+      "thread_source_file": "cluster_00791_t0__regulatory-handling-and-disposal-of-prohibited-ite.json"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "group_id": "cluster_00171_t2__X__cluster_00828_t0",
+  "entities": [
+    "Passenger Baggage Allowance",
+    "bedding"
+  ],
+  "cluster_ids": [
+    171,
+    828
+  ],
+  "thread_ids": [
+    "cluster_00171_t2",
+    "cluster_00828_t0"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the duty-free Passenger Baggage Allowance for airline crew evolved in comparison to the stable allowance for maritime sailors between 2012 and 2025?",
+      "answer": "According to the shared clauses, the airline crew's Passenger Baggage Allowance was $100 in 2012 [0], increased to $300 by 2016 [1], remained at $300 through 2023 [2] and 2024 [3], and was finally reduced to $150 in 2025 [4]. In contrast, the allowance for maritime sailors (bedding) has remained stable at $300 throughout this period.",
+      "entities_involved": [
+        "Passenger Baggage Allowance",
+        "bedding"
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_6",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    }
+  ]
+}

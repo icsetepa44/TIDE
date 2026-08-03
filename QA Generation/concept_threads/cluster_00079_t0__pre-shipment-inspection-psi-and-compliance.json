@@ -1,0 +1,1098 @@
+{
+  "cluster_id": 79,
+  "cluster_label": "importers",
+  "thread_index": 0,
+  "thread_id": "cluster_00079_t0",
+  "title": "Pre-Shipment Inspection (PSI) and Compliance",
+  "summary": "The concept of importer responsibility evolved from mandatory PSI requirements to a more nuanced framework involving fee structures, dispute settlement, and eventually shifting towards risk management and post-clearance audit systems.",
+  "evolution": {
+    "policy_model": "From mandatory third-party inspection (PSI) to risk-based automated selectivity and post-clearance audit.",
+    "procedure": "Transitioned from manual L/C-based inspection to electronic risk management and audit-based compliance."
+  },
+  "timeline": [
+    {
+      "date": "2013-06-06",
+      "instrument": "SRO 2013",
+      "change": "Defined specific responsibilities for importers under the PSI system.",
+      "clause_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8"
+      ]
+    },
+    {
+      "date": "2013-07-01",
+      "instrument": "SRO 219-2013",
+      "change": "Introduced a tiered fee structure for importers to pay PSI agencies based on CIF value.",
+      "clause_ids": [
+        "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "NBR Directive",
+      "change": "Shifted focus from pre-shipment to post-clearance audit (PCA) and risk-based selection criteria for importers.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_18",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_44"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "instrument": "Customs Rules",
+      "change": "Formalized selectivity criteria (Red, Yellow, Blue, Green lanes) for risk management.",
+      "clause_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 9,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "আমদানিকারকের দায়িত্ব",
+      "text_id": "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_8",
+      "resolved_text": "(৮) বিধি ১৮ এর পরিবর্তে বিধি ১৮ প্রতিস্থাপিত হইবে, যথা :-\n\n“১৮। আমদানিকারকের দায়িত্ব।- প্রি-শিপমেন্ট ইনস্পেকশন পদ্ধতিতে পণ্য আমদানির ক্ষেত্রে আমদানিকারকের দায়িত্ব হইবে নিম্নরূপ, যথা:-\n\n(ক) ঋণপত্র (L/C) খুলিবার সময় যে পরিদর্শন সংস্থা কর্তৃক পরিদর্শন করাইতে ইচ্ছুক উহার নাম উল্লেখকরণ;\n\n(খ) বোর্ড বা পরিদর্শন সংস্থার স্থানীয় অফিস বা এফবিসিসিআই এর সাথে যোগাযোগক্রমে প্রি-শিপমেন্ট ইনস্পেকশনের পদ্ধতি সম্পর্কে প্রয়োজনীয় তথ্যাদি অবহিতকরণ; এবং\n\n(গ) পরিদর্শন সংস্থা কর্তৃক প্রত্যয়নপত্র বিষয়ে কোন বিরোধ নিষ্পত্তির ক্ষেত্রে আইন, বিধিমালা, ইত্যাদি অনুসরণ।”;",
+      "entity_concepts": {
+        "Pre-shipment Inspection": [
+          "The regulations governing the responsibilities of importers under the pre-shipment inspection system have been updated and replaced in their entirety.",
+          "Importers are required to specify their chosen inspection agency when opening a Letter of Credit for goods subject to pre-shipment inspection.",
+          "Importers must remain informed about inspection procedures by coordinating with the National Board of Revenue, local inspection offices, or the Federation of Bangladesh Chambers of Commerce and Industry.",
+          "In the event of a dispute regarding inspection certification, importers are legally required to adhere to the existing laws and regulatory frameworks."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue serves as a primary point of contact for importers to obtain necessary information regarding the procedures for pre-shipment inspection of imported goods."
+        ],
+        "Federation of Bangladesh Chambers of Commerce and Industry": [
+          "The Federation of Bangladesh Chambers of Commerce and Industry is identified as an organization that importers should consult to clarify and understand the mandatory pre-shipment inspection requirements."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1436",
+      "entity_sub_entities": {
+        "Pre-shipment Inspection": [
+          "regulations",
+          "importers",
+          "pre-shipment inspection system",
+          "inspection agency",
+          "Letter of Credit",
+          "goods",
+          "inspection procedures",
+          "National Board of Revenue",
+          "local inspection offices",
+          "Federation of Bangladesh Chambers of Commerce and Industry",
+          "inspection certification",
+          "laws",
+          "regulatory frameworks"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "importers",
+          "procedures",
+          "pre-shipment inspection",
+          "imported goods"
+        ],
+        "Federation of Bangladesh Chambers of Commerce and Industry": [
+          "Federation of Bangladesh Chambers of Commerce and Industry",
+          "importers",
+          "pre-shipment inspection requirements"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        8,
+        79,
+        121,
+        150,
+        601,
+        652,
+        858,
+        966,
+        2042,
+        4558,
+        4655,
+        9104,
+        9110,
+        9569,
+        10834
+      ],
+      "source_file": "customs_sros_OCR/20130606_156-AIN_2013_2443-Customs/20130606_156-AIN_2013_2443-Customs_output.json",
+      "clause_date": "2013-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ২১৯-আইন/২০১৩/২৪৫৮/কাস্টমস",
+      "text_id": "20130701_219-AIN_2013_2458-Customs_১ জুলাই, ২০১৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ২১৯-আইন/২০১৩/২৪৫৮/কাস্টমস ।— Customs Act, 1969 (IV of 1969) এর section 25A এর প্রদত্ত ক্ষমতাবলে সরকার, প্রি-শিপমেন্ট ইনস্পেকশন বিধিমালা, ২০০২ এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত বিধিমালার -\n\n(১) বিধি ৩২ এর উপ-বিধি (১) এর পর নিম্নরূপ উপ-বিধি (১ক) সন্নিবেশিত হইবে, যথা:-\n\n“(১ক) উপ-বিধি (১) এ যাহা কিছুই থাকুক না কেন, সংশ্লিষ্ট আমদানিকারককে নিম্নবর্ণিত ক্ষেত্রে পিএসআই সংস্থাকে নিম্নবর্ণিত ফি পরিশোধ করিতে হইবে, যথা :-\n\n(ক) US$ 5000 এর সমান কিংবা কম মূল্যের (CIF) মানের পণ্য চালান পরীক্ষাপূর্বক প্রত্যয়নপত্র অথবা ক্ষেত্রমত এনএনআরএফ ইস্যুর জন্য US$ 175; এবং\n\n(খ) US$ 5000 এর অধিক মূল্যের (CIF) পণ্যচালান পরীক্ষাপূর্বক প্রত্যয়নপত্র অথবা ক্ষেত্রমত এনএনআরএফ ইস্যুর জন্য US$ 250:\n\nতবে শর্ত থাকে যে, ঋণপত্রে আংশিক বোঝাইকরণের শর্ত না থাকিলে প্রতিটি L/C এর পণ্যের বিপরীতে একাধিক প্রত্যয়নপত্র অথবা ক্ষেত্রমত এনএনআরএফ ইস্যু করিয়া সর্বনিম্ন ফিস দাবী করা যাইবে না; এবং\n\n(গ) ক্ষেত্রমত কন্টেইনার সীলকরণের জন্য চালান প্রতি অতিরিক্ত US$ 25 প্রাপ্য হইবে।”;\n\n(২) পরিশিষ্ট -৮ এর পরিবর্তে নিম্নরূপ পরিশিষ্ট ৮ প্রতিস্থাপিত হইবে, যথা:-\n\n“পরিশিষ্ট-৮\n[বিধি ৯(২) দ্রষ্টব্য]\n\n\n| Sl No. | Name of the course (Sl.No. 1-4) | place | No. of Officer | Duration (Days) |\n| --- | --- | --- | --- | --- |\n| 1 | 02 | 3 | 4 | 5 |\n| 1 | Valuation | Foreign | 3 | 5 |\n| 2. | Post Clearance Audit Techniques | Foreign | 3 | 5 |\n| 3. | Customs Valuation | Local | 5 | 5 |\n| 4. | Post Clearance Audit Techniques | Local | 5 | 5 |\n| 5. | Investigation Requirement (Not training) | Foreign | 2 | 5\" |\n”",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 25A of the Act empowers the Government to amend rules related to pre-shipment inspection processes."
+        ],
+        "Pre-Shipment Inspection Rules 2002": [
+          "These rules are amended to include specific fee structures for inspection agencies and to update the requirements for training and investigation schedules listed in the appendix."
+        ],
+        "Pre-shipment Inspection": [
+          "The rules prescribe a tiered fee structure for inspection agencies based on the CIF value of the imported goods consignment.",
+          "An additional fee is applicable for each container sealed during the inspection process.",
+          "Importers are prohibited from splitting consignments under a single Letter of Credit to claim lower inspection fees when partial shipment conditions are not applicable."
+        ],
+        "Customs Valuation": [
+          "Training courses on valuation techniques are provided for customs officers, with specific programs scheduled for both foreign and local locations."
+        ],
+        "Customs Audit": [
+          "Training on post-clearance audit techniques is mandated for customs officers, covering both local and foreign training environments."
+        ],
+        "Customs Investigation": [
+          "The rules specify requirements for investigation-related activities for customs officers as part of the official training and operational curriculum."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1462",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 25A",
+          "Government",
+          "pre-shipment inspection processes"
+        ],
+        "Pre-Shipment Inspection Rules 2002": [
+          "fee structures",
+          "inspection agencies",
+          "training schedules",
+          "investigation schedules",
+          "appendix"
+        ],
+        "Pre-shipment Inspection": [
+          "tiered fee structure",
+          "inspection agencies",
+          "CIF value",
+          "imported goods consignment",
+          "additional fee",
+          "container",
+          "Importers",
+          "Letter of Credit",
+          "inspection fees",
+          "partial shipment conditions"
+        ],
+        "Customs Valuation": [
+          "Training courses",
+          "valuation techniques",
+          "customs officers",
+          "foreign locations",
+          "local locations"
+        ],
+        "Customs Audit": [
+          "Training",
+          "post-clearance audit techniques",
+          "customs officers",
+          "local training environments",
+          "foreign training environments"
+        ],
+        "Customs Investigation": [
+          "investigation-related activities",
+          "customs officers",
+          "official training curriculum",
+          "operational curriculum"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        6,
+        79,
+        111,
+        141,
+        233,
+        315,
+        388,
+        601,
+        922,
+        966,
+        1255,
+        2107,
+        2290,
+        3275,
+        3743,
+        4020,
+        4847,
+        5312,
+        8238,
+        8914,
+        9106,
+        9260,
+        9262,
+        9572,
+        9593,
+        10248,
+        10330,
+        10505,
+        10769,
+        10833,
+        12922,
+        12924,
+        13167
+      ],
+      "source_file": "customs_sros_OCR/20130701_219-AIN_2013_2458-Customs/20130701_219-AIN_2013_2458-Customs_output.json",
+      "clause_date": "2013-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "১.৬ গোপনীয়তা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+      "resolved_text": "১.৬ গোপনীয়তা—কাস্টমস পোস্ট ক্লিয়ারেন্স অডিট এর জন্য নির্বাচিত ব্যক্তি/প্রতিষ্ঠান/আমদানিকারক/রপ্তানিকারক বা কাস্টমস এজেন্ট কর্তৃক সরবরাহকৃত যেকোনো তথ্য/দলিলাদি সংবেদনশীল হওয়ায় Customs Act, 1969 এর Section 204B অনুযায়ী উক্ত তথ্য/দলিলাদির গোপনীয়তা রক্ষা করতে হবে।",
+      "entity_concepts": {
+        "Customs Post Clearance Audit": [
+          "This process involves the review of information and documentation provided by importers, exporters, or customs agents. All data collected during this procedure is treated as sensitive information."
+        ],
+        "Customs Act 1969": [
+          "Section 204B of this Act mandates that the confidentiality of sensitive information and documents provided for official customs audit purposes must be strictly maintained."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_681",
+      "entity_sub_entities": {
+        "Customs Post Clearance Audit": [
+          "information",
+          "documentation",
+          "importers",
+          "exporters",
+          "customs agents",
+          "data",
+          "sensitive information"
+        ],
+        "Customs Act 1969": [
+          "Section 204B",
+          "confidentiality",
+          "sensitive information",
+          "documents",
+          "official customs audit"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        59,
+        63,
+        79,
+        148,
+        157,
+        270,
+        281,
+        1518,
+        3756,
+        4842,
+        10194
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_18",
+      "clause_title": "৩.২.১ ট্র্যানজ্যাকশন বেইজড ডেস্ক অডিট",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_18",
+      "resolved_text": "৩.২.১ ট্র্যানজ্যাকশন বেইজড ডেস্ক অডিট—ট্র্যানজ্যাকশন বেইজড ডেস্ক অডিট হলো অপেক্ষাকৃত কম ঝুঁকিপূর্ণ এক বা একাধিক চালানের ক্ষেত্রে পরিচালিত অডিট যা সংশ্লিষ্ট আমদানিকারক/রপ্তানিকারক এবং অন্যান্য সংশ্লিষ্টদের সাথে লিখিত বা টেলিফোন যোগাযোগের মাধ্যমে সম্পাদিত হয়। যদি কোন পণ্যচালানের মূল্য নির্ধারণ, শ্রেণিবিন্যাস সংক্রান্ত বিষয় অথবা সুনির্দিষ্ট অন্যকোন বিষয়ে অধিকতর যাচাই/স্পষ্টীকরণের প্রয়োজন হয়, তাহলে সংশ্লিষ্ট কাস্টম হাউস/কাস্টমস এক্সাইজ ও ভ্যাট কমিশনারেটে দায়িত্বরত কাস্টমস কর্মকর্তা সে পণ্যচালানটিকে ডেস্ক অডিটের জন্য স্ব-স্ব পিসিএ ইউনিটে প্রেরণ করতে পারবেন।",
+      "entity_concepts": {
+        "Transaction Based Audit": [
+          "A transaction-based desk audit is an audit mechanism applied to low-risk cargo shipments. It is conducted through written or telephonic communication with importers, exporters, and other relevant stakeholders.",
+          "Customs officers stationed at customs houses or customs, excise, and VAT commissionerates have the authority to refer a shipment to their respective post-clearance audit units for a desk audit if valuation, classification, or other specific matters require further verification or clarification."
+        ],
+        "Post-Clearance Audit Unit": [
+          "This unit serves as the designated department where customs officers refer shipments for a transaction-based desk audit to resolve valuation or classification uncertainties."
+        ],
+        "Appropriate Officer of Customs": [
+          "Officers assigned to customs houses or customs, excise, and VAT commissionerates are responsible for identifying the need for further verification of shipments and initiating the desk audit process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_689",
+      "entity_sub_entities": {
+        "Transaction Based Audit": [
+          "low-risk cargo shipments",
+          "importers",
+          "exporters",
+          "stakeholders",
+          "customs officers",
+          "customs houses",
+          "customs, excise, and VAT commissionerates",
+          "post-clearance audit units",
+          "valuation",
+          "classification"
+        ],
+        "Post-Clearance Audit Unit": [
+          "customs officers",
+          "shipments",
+          "valuation",
+          "classification"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs houses",
+          "customs, excise, and VAT commissionerates",
+          "shipments",
+          "desk audit process"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        79,
+        111,
+        157,
+        247,
+        414,
+        418,
+        454,
+        471,
+        535,
+        3775,
+        7277,
+        9634,
+        10770,
+        10771
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_28",
+      "clause_title": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+      "resolved_text": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ—ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ নিম্নরূপ:\n(১) আমদানিকারক/রপ্তানিকারক:\nএকটি নির্দিষ্ট সময়ে কোন আমদানিকারক/রপ্তানিকারক মোট নথিবুক্ত ট্র্যানজ্যাকশনের সংখ্যা ঝুঁকির নির্ণায়ক হিসাবে কাজ করতে পারে বলে অডিট নির্বাচনের ক্ষেত্রে একে একটি মানদণ্ড হিসাবে ব্যবহার করা যায়। যেমন:\n(ক) অনিয়মিত আমদানিকারক/রপ্তানিকারক;\n(খ) প্রায়শই অসত্য ঘোষণা দেয় এমন আমদানিকারক/রপ্তানিকারক;\n(গ) একই চালানে একাধিক এইচ.এস কোডের পণ্য আমদানিকারক\n(ঘ) কোন পণ্যের এককালীন আমদানিকারক/রপ্তানিকারক;\n(ঙ) প্রথমবারের মত আমদানিকারক/রপ্তানিকারক।\n\n(২) ট্র্যানজ্যাকশনের ভ্যালু\nকোন আমদানিকারক/রপ্তানিকারক অস্বাভাবিক উচ্চমূল্য/নিম্নমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই (TTI) দিয়ে সম্পন্ন করে থাকলে অথবা তার বিপরীত হয়ে থাকলে তা ঝুঁকিসম্পন্ন বিবেচনা করে তাদের প্রতি বিশেষ নজর দেওয়া যেতে পারে। যেমন:\nট্র্যানজ্যাকশন ভ্যালু সংক্রান্ত যে সকল নিয়ামক বিবেচনায় পণ্যচালান অডিটের জন্য নির্বাচন করতে হবে তা নিম্নরূপ:\n(ক) কোনো ট্র্যানজ্যাকশন মূল্য শিপিং বা পরিবহন ব্যয়ের কম/সমান;\n(খ) পণ্যের মূল্য পণ্যের কাঁচামালের মূল্যের প্রায় সমান;\n(গ) ঘোষিত ইউনিট মূল্যের তুলনায় প্যাকিং/প্যাকেজিংয়ের ব্যয় বেশি;\n(ঘ) কোনো পণ্যের মূল্য আন্তর্জাতিক বাজারে উক্ত পণ্যের ঘোষিত মূল্যের চেয়ে অস্বাভাবিক কম/বেশি;\n(ঙ) রপ্তানিকারক দেশের মুদ্রার বাইরে অন্য মুদ্রা ব্যবহার;\n(চ) শুল্কায়ন বিধিমালা অনুযায়ী কাস্টমস ডিক্লারেশন করা হয়নি;\n(ছ) উচ্চমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই অথবা তার বিপরীত।\n\n(৩) কাস্টমস ডিউটির হার\nউচ্চ বা নিম্ন উভয় কাস্টমস ডিউটির পণ্যের ট্র্যানজ্যাকশনেই বিভিন্ন ধরনের ঝুঁকি থাকে। শূন্য রেটের পণ্যসমূহে সাধারণত রাজস্ব ফাঁকির ঝুঁকি বেশি না হলেও জাল-জালিয়াতির মাধ্যমে সুবিধালাভের উদ্দেশ্যে অসত্য ক্লাসিফিকেশনের ঝুঁকি থেকেই যায়। যেহেতু উচ্চ শুল্কের পণ্যের ক্ষেত্রে যেকোনো ত্রুটি উল্লেখযোগ্য রাজস্ব ক্ষতির কারণ হতে পারে তাই এগুলোকে ঝুঁকিপূর্ণ বিবেচনা করে এই ক্ষেত্রে বিশেষ মনোযোগ দিতে হবে। যেমন:\n(ক) যন্ত্রাংশ ও আনুসাঙ্গিক উপকরণকে মূল যন্ত্রপাতির কোডে শ্রেণিবিন্যাস করা;\n(খ) পণ্যের অস্পষ্ট বিবরণ, হ্রাসকৃত কাস্টমস ডিউটির সুবিধা নিতে এমন এইচ. এস. কোড ব্যবহার যা ব্যবসা প্রতিষ্ঠানের কাজের সাথে সঙ্গতিপূর্ণ নয়;\n(গ) কোনো এক বা একাধিক নির্দিষ্ট HS Code এর আওতায় অস্বাভাবিক পরিমাণের আমদানি যা সাধারণত সংশ্লিষ্ট দেশে আমদানি বা রপ্তানি করা হয়না;\n(ঘ) খুব কম পরিমাণ আমদানি/রপ্তানি যা বাজার পরিসংখ্যান বা অবস্থার সাথে মেলে না;\n(ঙ) কোনো কোডে কাস্টমস ডিউটি হার পরিবর্তিত হলে আমদানির পরিমাণকে এক কোড থেকে অন্য কোডে পরিবর্তন করা।\n\n(৪) কান্ট্রি অব অরিজিন\nবেশ কয়েকটি ক্ষেত্রে যেমন, যেক্ষেত্রে পণ্যের ওপর কোটা বা অন্যান্য বিধি-নিষেধ রয়েছে, সেক্ষেত্রে কান্ট্রি অব অরিজিনে অসত্য ঘোষণার ঝুঁকি বেড়ে যায়। এমন ক্ষেত্রে আরো যাচাই-বাছাই ফলপ্রসূ প্রমাণিত হতে পারে। 'অরিজিন'-এর ক্ষেত্রে আশঙ্কার অন্যান্য ক্ষেত্রসমূহ:\n(ক) কান্ট্রি অব অরিজিন যদি কান্ট্রি অব শিপমেন্ট থেকে ভিন্ন হয়;\n(খ) আইপিও অনুসারে নিষিদ্ধ দেশ বা উৎস হতে আমদানি করা হয়;\n(গ) Bill of Lading (BL)/Airway Bill (AWB)/অন্যান্য পরিবহন চালান-এ ঘোষিত অরিজিনের সাথে সামঞ্জস্যপূর্ণ কি না।\n\n(৫) ইমপোর্ট জেনারেল ম্যানিফেস্ট (আইজিএম)\nআইজিএম জাহাজের মাস্টার বা তার এজেন্ট কর্তৃক দাখিল করা হয়। আইজিএম এ শিপার, কনসাইনি, প্যাকেজের সংখ্যা, প্যাকেজের ধরন, পণ্যের বিবরণ, এয়ারওয়ে বিল বা বিল অব লেডিং নম্বর এবং তারিখ, ফ্লাইট বা জাহাজের বিবরণ ইত্যাদির বিবরণ থাকে। আইজিএমে নিম্নলিখিত বিষয়াদির প্রতি লক্ষ্য রাখতে হবে।\n(ক) বি/এল তে দাখিলকৃত পণ্যের বর্ণনা, মূল্য ও পরিমাণের সাথে আইজিএমে দাখিলকৃত পণ্যের বর্ণনার সাথে মিল রয়েছে কিনা?\n(খ) কন্টেইনারের বিবরণের সাথে দাখিলকৃত ঘোষণার মিল রয়েছে কিনা?\n\n(৬) পণ্যচালান সম্পর্কিত অন্যান্য গুরুত্বপূর্ণ তথ্যাদি পর্যালোচনা:\n(ক) এমন কিছু পণ্য আমদানি হতে পারে যেগুলো উল্লিখিত দেশে উৎপাদিত বা সেখান থেকে রপ্তানি করা হয়নি;\n(খ) ঝুঁকিপূর্ণ কোনো দেশ থেকে রপ্তানি করা করা হয়েছে কি না;\n(গ) কোনো দেশ থেকে আমদানিকৃত পণ্যের গড় ইউনিট মূল্যে অস্বাভাবিক পরিবর্তন।",
+      "entity_concepts": {
+        "Transaction Based Audit": [
+          "This standing order provides the criteria and indicators for selecting consignments for transaction-based audits to manage customs risk effectively.",
+          "The selection strategy focuses on identifying high-risk transactions based on importer/exporter behavior, transaction values, duty rates, country of origin, and discrepancies in manifest data."
+        ],
+        "Importer and Exporter": [
+          "Audit selection criteria consider the frequency and history of importers or exporters.",
+          "Operational focus is placed on irregular traders, those frequently providing false declarations, one-time traders, first-time traders, or those importing multiple products under various HS Codes in a single consignment."
+        ],
+        "H.S. Code": [
+          "Discrepancies in HS Code usage, such as misclassification of accessories as primary machinery or selecting codes inconsistent with the business nature, are key indicators for audit selection.",
+          "Abnormal import volumes under specific codes that do not match market statistics or intentional switching of codes following duty rate changes are flagged as high risk."
+        ],
+        "Customs Duty": [
+          "Transactions involving high or low customs duty rates are monitored for risks of revenue leakage or fraudulent classification.",
+          "Special attention is required for high-duty items where errors could lead to significant revenue loss, and for zero-rated items susceptible to misclassification to gain improper benefits."
+        ],
+        "Country of Origin": [
+          "Misdeclaration of the country of origin is a significant risk factor, particularly for goods subject to quotas or specific import restrictions.",
+          "Discrepancies between the declared country of origin and the country of shipment, or importing from restricted sources according to Import Policy Orders, trigger mandatory further verification."
+        ],
+        "Bill of Lading": [
+          "The Bill of Lading must be cross-verified against the Import General Manifest to ensure consistency in shipper, consignee, and cargo details.",
+          "Declarations of origin and product details in the Bill of Lading are validated as part of the customs audit process to prevent misdeclaration."
+        ],
+        "Airway Bill": [
+          "The Airway Bill serves as a critical transport document where declared details such as origin must align with other customs documents to mitigate the risk of fraud."
+        ],
+        "Import General Manifest": [
+          "The Import General Manifest submitted by the ship's master or agent is reviewed to compare declarations of product description, value, and quantity against other shipping documents.",
+          "Operational checks include verifying the consistency of container details with the provided declarations to ensure accuracy in cargo clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_699",
+      "entity_sub_entities": {
+        "Transaction Based Audit": [
+          "consignments",
+          "importer/exporter behavior",
+          "transaction values",
+          "duty rates",
+          "country of origin",
+          "manifest data"
+        ],
+        "Importer and Exporter": [
+          "importers",
+          "exporters",
+          "irregular traders",
+          "one-time traders",
+          "first-time traders",
+          "products",
+          "HS Codes",
+          "consignment"
+        ],
+        "H.S. Code": [
+          "accessories",
+          "primary machinery",
+          "import volumes",
+          "duty rate"
+        ],
+        "Customs Duty": [
+          "customs duty rates",
+          "high-duty items",
+          "zero-rated items"
+        ],
+        "Country of Origin": [
+          "country of origin",
+          "goods",
+          "quotas",
+          "import restrictions",
+          "country of shipment",
+          "restricted sources",
+          "Import Policy Orders"
+        ],
+        "Bill of Lading": [
+          "Bill of Lading",
+          "Import General Manifest",
+          "shipper",
+          "consignee",
+          "cargo details",
+          "origin",
+          "product details"
+        ],
+        "Airway Bill": [
+          "Airway Bill",
+          "origin",
+          "customs documents"
+        ],
+        "Import General Manifest": [
+          "Import General Manifest",
+          "ship's master",
+          "agent",
+          "product description",
+          "value",
+          "quantity",
+          "shipping documents",
+          "container details",
+          "cargo clearance"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        79,
+        83,
+        94,
+        157,
+        162,
+        192,
+        206,
+        219,
+        235,
+        268,
+        295,
+        320,
+        334,
+        350,
+        404,
+        535,
+        763,
+        843,
+        883,
+        1097,
+        1239,
+        1321,
+        2092,
+        2528,
+        2788,
+        2789,
+        2847,
+        3077,
+        3562,
+        4150,
+        4583,
+        4615,
+        4893,
+        6672,
+        6756,
+        8151,
+        8705,
+        8876,
+        8952,
+        9282,
+        10282,
+        10911,
+        11505,
+        12930,
+        13447
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_44",
+      "clause_title": "৫.৩.৩ চূড়ান্ত সভা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_44",
+      "resolved_text": "৫.৩.৩ চূড়ান্ত সভা—যদি অডিটের জন্য প্রতিষ্ঠান পরিদর্শনের প্রয়োজন হয়, তাহলে চূড়ান্ত প্রতিবেদনের সমাপ্তির আগে অডিটের ফলাফলগুলো নিয়ে অডিট টিম আমদানিকারক/রপ্তানিকারকের সাথে একটি বৈঠক করবেন। এই সভায় আমদানিকারক/রপ্তানিকারক অডিট থেকে চিহ্নিত যেকোনো ঘাটতি, ত্রুটিপূর্ণ ব্যাখ্যা, ভুল বা বাস্তববিক ত্রুটি সংশোধন করার সুযোগ দিতে হবে।\n\nএই চূড়ান্ত সভার উদ্দেশ্য নিচের বিষয়গুলো নিয়ে আনুষ্ঠানিকভাবে আমদানিকারক/রপ্তানিকারককে অবগত করা:\n(ক) অডিটের ফলাফল;\n(খ) ভবিষ্যতে পুনরায় অডিটের আওতায় আসলে;\n(গ) সংঘটিত ভুল/পুনরাবৃত্তি এড়াতে করণীয়;\n(ঘ) অডিটের ফলাফলের উপর ভিত্তি করে কাস্টমস কর্তৃক গৃহীত যেকোনো পদক্ষেপ;\n(ঙ) চিহ্নিত বিষয়গুলো অন্তর্ভুক্ত করে প্রতিবেদন তৈরি;\n(চ) অডিট ফলাফলের সাথে আমদানিকারক/রপ্তানিকারকের একমত না হলে আপিলের পদ্ধতিসমূহ।\n\nচূড়ান্ত সভায় আলোচনা এবং পর্যবেক্ষণ/উত্তর ইত্যাদি অডিট টিম রেকর্ড করবেন। সভাশেষে অগ্রাধিকার ভিত্তিতে সভার কার্যবিবরণী অডিট টিম স্বাক্ষর করবেন।",
+      "entity_concepts": {
+        "Customs Audit": [
+          "Before finalizing an audit report, the audit team is required to conduct a meeting with the importer or exporter if physical inspection of the premises was necessary.",
+          "The purpose of this meeting is to inform the auditee about audit findings, future audit expectations, corrective actions to avoid repeating errors, subsequent customs actions, report preparation, and the appeals process.",
+          "The audit team must record all discussions and observations from the meeting and formally sign the minutes of the meeting on a priority basis."
+        ],
+        "Importer and Exporter": [
+          "During the final audit meeting, importers and exporters are provided the opportunity to address and correct any identified discrepancies, faulty interpretations, or factual errors regarding the audit findings.",
+          "Importers and exporters are entitled to receive formal information regarding the audit outcomes and are instructed on the procedures for filing an appeal if they disagree with the findings."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_715",
+      "entity_sub_entities": {
+        "Customs Audit": [
+          "audit report",
+          "audit team",
+          "importer",
+          "exporter",
+          "physical inspection",
+          "premises",
+          "audit findings",
+          "future audit expectations",
+          "corrective actions",
+          "subsequent customs actions",
+          "report preparation",
+          "appeals process",
+          "discussions",
+          "observations",
+          "minutes of the meeting"
+        ],
+        "Importer and Exporter": [
+          "importers",
+          "exporters",
+          "discrepancies",
+          "faulty interpretations",
+          "factual errors",
+          "audit findings",
+          "audit outcomes",
+          "procedures",
+          "appeal"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        77,
+        79,
+        150,
+        157,
+        277,
+        297,
+        305,
+        385,
+        388,
+        466,
+        747,
+        784,
+        1595,
+        1621,
+        1896,
+        2092,
+        3457,
+        4683,
+        7389,
+        8017,
+        8032,
+        8367,
+        9892,
+        12523
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+      "resolved_text": "২। সংজ্ঞা।—(১) বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায়—\n(ক) “অর্থনৈতিক ঝুঁকি (economic risk)” অর্থ মানিলন্ডারিং, সন্ত্রাসে অর্থায়ন, অপরাধলব্ধ অর্থ (proceeds of crime), অন্যান্য অবৈধ আর্থিক কার্যক্রম, যে কোনো শুল্ক ও কর ফাঁকি সংক্রান্ত কার্যক্রম এবং আন্তঃদেশীয় সংঘবদ্ধ অর্থনৈতিক অপরাধ (trans-national organized economic crime) সংশ্লিষ্ট ঝুঁকি;\n(খ) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(গ) “ইয়েলো লেন (yellow lane)” অর্থ কাস্টমস কম্পিউটার সিস্টেমে রক্ষিত একটি সিলেক্টভিটি লেন যাহা নির্বাচিত পণ্যচালানের কায়িক পরীক্ষা (physical examination) ব্যতিরেক শুধু দলিলাদি পরীক্ষার জন্য নির্দিষ্ট ও চিহ্নিত;\n(ঘ) “উপাত্ত বিশ্লেষণ পদ্ধতি (data analytics)” অর্থ ঝুঁকি নির্ণায়ক নির্ধারণ ও সিদ্ধান্ত গ্রহণের উদ্দেশ্যে ডিজিটাল ও এনালগ পদ্ধতিতে তথ্য ও উপাত্ত প্রাপ্তি, প্রাপ্ত তথ্য-উপাত্ত পরীক্ষা ও নিরীক্ষা, তথ্য-উপাত্ত ক্লিনজিং এবং তথ্য-উপাত্ত মডেলিং করিবার পদ্ধতি;\n(ঙ) “কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট (সিআরএমসি)” অর্থ জাতীয় রাজস্ব বোর্ড কর্তৃক গঠিত কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট;\n(চ) “গ্রিন চ্যানেল (green channel)” অর্থ আন্তর্জাতিক বিমানবন্দর, সমুদ্র বন্দর, নদী বন্দর ও স্থল বন্দর এর মাধ্যমে শুল্ক-কর আরোপযোগ্য পণ্য বহন করেন নাই এইরূপ আগত যাত্রীর জন্য কাস্টমস অধিক্ষেত্রাধীন নির্ধারিত প্রস্থান;\n(ছ) “গ্রিন লেন (green lane)” অর্থ কাস্টমস কম্পিউটার সিস্টেমে রক্ষিত একটি নির্বাচিত লেন, যাহা দলিলাদি পরীক্ষা, কায়িক পরীক্ষণ বা অন্য কোনো প্রকার ঝুঁকি নিরসন পদ্ধতি প্রয়োগ ব্যতিরেকে পণ্য খালাস-কে খালাসের জন্য নির্দিষ্ট করে;\n(জ) “ঘোষণা” অর্থ কোনো ব্যক্তি বা এজেন্ট কর্তৃক কাস্টমস কর্তৃপক্ষের নিকট দাখিলকৃত ম্যানিফেস্ট বা আমদানি পণ্য ঘোষণা বা রপ্তানি পণ্য ঘোষণা অথবা অন্যান্য তথ্যসহ পণ্যচালান এবং যাত্রী সংক্রান্ত সকল তথ্য;\n(ঝ) “ঘোষণা প্রদানকারী” অর্থ কোনো পণ্যচালান খালাসের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি বা লাইসেন্সপ্রাপ্ত এজেন্ট যিনি দাখিলকৃত ঘোষণার সকল তথ্য ও দলিলাদির জন্য দায়বদ্ধ;\n(ঞ) “ঝুঁকি (risk)” অর্থ অর্থনৈতিক ঝুঁকি এবং আইনের যেকোনো ধারা এবং পণ্য খালাস সংশ্লিষ্ট অন্যান্য আইন, বিধি ও আদেশ লঙ্ঘনের সম্ভাবনা;\n(ট) “ঝুঁকি নির্দেশক (risk indicator)” অর্থ সুনির্দিষ্ট নির্ণায়ক যাহা ঝুঁকিপূর্ণ পণ্যচালান অথবা যাত্রী নির্বাচন ও চিহ্নিতকরণের উদ্দেশ্যে ব্যবহার্য;\n(ঠ) “ঝুঁকি চিহ্নিতকরণ (risk identification)” অর্থ ঝুঁকি ব্যবস্থাপনার আওতায় বিভিন্ন উৎস হইতে প্রাপ্ত তথ্যের ভিত্তিতে সম্ভাব্য ঝুঁকির ক্ষেত্রসমূহ চিহ্নিতকরণ এবং উহা তালিকাভুক্তকরণ;\n(ড) “ঝুঁকি নিরূপণ (risk assessment)” অর্থ ঝুঁকির চিহ্নিত ক্ষেত্রসমূহ বিশ্লেষণের মাধ্যমে সম্ভাব্য ঝুঁকির পরিমাণ (impact), মাত্রা (intensity) ও সম্ভাব্যতা (likelihood) নির্ধারণ;\n(ঢ) “ঝুঁকি ব্যবস্থাপনা (risk management)” অর্থ ঝুঁকির ক্ষেত্রসমূহ চিহ্নিতকরণ, বিশ্লেষণ, নির্ধারণ, নিরূপণ ও নিয়ন্ত্রণের উদ্দেশ্যে ব্যবহৃত কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট কর্তৃক গৃহীত আইনানুগ কার্যক্রম;\n(ণ) “দলিল (documents)” অর্থ তথ্য সংবলিত যে কোনো ভৌত অথবা ইলেকট্রনিক অথবা অন্য কোনো মাধ্যম;\n(ত) “পণ্য” অর্থ আইনের ধারা ২ এর দফা (৩০) এ সংজ্ঞায়িত পণ্য;\n(থ) “পণ্য চালান” অর্থ নির্ধারিত ফরমে ও পদ্ধতিতে আমদানিকৃত, রপ্তানিকৃত, ট্রানজিট অথবা ট্রান্সশিপমেন্টের মাধ্যমে বাহিত অথবা কাস্টমস বন্ডেড ওয়্যারহাউসে সংরক্ষিত পণ্য বা পণ্যসমূহ;\n(দ) “পণ্যচালান খালাস (clearance of goods)” অর্থ পণ্যচালান সংক্রান্ত প্রয়োজনীয় আইন ও বিধিগত প্রক্রিয়া পরিপালনপূর্বক কাস্টমস কর্তৃপক্ষের নিয়ন্ত্রণ হইতে পণ্যচালান ছাড়করণ;\n(ধ) “পণ্য ছাড়করণ (release of goods)” অর্থ আমদানিকৃত পণ্যচালানের শুল্কায়ন কার্যক্রম সম্পন্ন করতঃ প্রদেয় শুল্ক-করাদি পরিশোধপূর্বক খালাসের অপেক্ষাধীন পণ্যচালান যথাযথ ব্যক্তি বা এজেন্টের নিকট হস্তান্তর করিবার লক্ষ্যে কাস্টমস কর্তৃক গৃহীত ব্যবস্থা;\n(ন) “প্রোফাইল (profile)” অর্থ কোনো আমদানিকারক, রপ্তানিকারক, এজেন্ট, যাত্রী, পণ্য সম্পর্কিত ঝুঁকি নির্দেশকসমূহ সংগ্রহ, সনিবেশ, বিশ্লেষণ ও শ্রেণিবিন্যাসকরণ; উক্ত প্রোফাইল কাস্টমস কম্পিউটার সিস্টেমে ঝুঁকি ব্যবস্থাপনা প্রয়োগের মাধ্যমে রেড লেন বা ইয়েলো লেন বা গ্রিন লেন বা ব্লু লেন নির্বাচন অথবা যাত্রীর জন্য গ্রিন চ্যানেল বা রেড চ্যানেল নির্ধারণ;\n(প) “ব্যক্তি” অর্থ আইনের ধারা ২ এর দফা (৩৯) এ সংজ্ঞায়িত ব্যক্তি;\n(ফ) “ব্লু লেন (blue lane)” অর্থ কাস্টমস কম্পিউটার সিস্টেমে একটি সিলেক্টভিটি লেন যাহা কায়িক পরীক্ষণ ও দলিলাদি যাচাই ব্যতীত পণ্যচালান খালাসপূর্বক, খালাসোত্তর নিরীক্ষার জন্য নির্বাচন করে;\n(ব) “ম্যানিফেস্ট ডাটা (manifest data)” অর্থ আইনের ধারা ৪৮ এ উল্লিখিত যানবাহন ও কার্গো ঘোষণা এবং Advance Passenger Information (API) ও Passenger Name Record (PNR) এর মাধ্যমে প্রাপ্ত তথ্য-উপাত্ত এবং আইনের ধারা ৫১, ৫২, ১০৬(২) এবং ১৪২ এ উল্লিখিত যথাক্রমে আগমন ও অন্তর্মুখী (inward) প্রতিবেদন বা রপ্তানি, ট্রান্সশিপমেন্ট এবং ট্রানজিট সংশ্লিষ্ট পণ্য ঘোষণা- এর মাধ্যমে প্রাপ্ত তথ্য-উপাত্ত;\n(ভ) “যাত্রী” অর্থ ক্রু বা যাত্রী;\n(ম) “রেড চ্যানেল (red channel)” অর্থ আন্তর্জাতিক বিমানবন্দর বা নৌ বন্দর বা সমুদ্র বন্দর বা স্থল বন্দরে কাস্টমস অধিক্ষেত্রাধীন নির্ধারিত চ্যানেলে যাহা শুল্ক-কর আরোপযোগ্য পণ্য বহন করে বা আমদানি নিষিদ্ধ বা শর্তযুক্ত পণ্য পরিবহন করে এমন আগত যাত্রী কর্তৃক ব্যবহার্য;\n(য) “রেড লেন (red lane)” অর্থ কাস্টমস কম্পিউটার সিস্টেমে রক্ষিত একটি সিলেক্টভিটি লেন যাহা নির্বাচিত পণ্যচালানের দলিলাদি পরীক্ষা ও নিরীক্ষা এবং পণ্য শতভাগ কায়িক পরীক্ষার জন্য নির্দিষ্ট ও চিহ্নিত করে;\n(র) “সিলেক্টভিটি (selectivity)” অর্থ কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট কর্তৃক পরিচালিত কাস্টমস কম্পিউটার সিস্টেম দ্বারা বা উক্ত দপ্তর কর্তৃক ম্যানুয়ালি নির্ধারিত কার্যক্রম যাহা কোনো পণ্যচালানের ক্ষেত্রে নির্ধারিত ঝুঁকি নিরসন পদ্ধতি নির্দিষ্ট ও চিহ্নিত করে এবং যাহা ঝুঁকি নির্ণায়ক (risk indicator) অথবা দৈবচয়ন অথবা উভয়ের ভিত্তিতে ব্যবহার্য;\n(ল) “স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি (Automated Risk Management System) (এআরএমএস)” অর্থ কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট কর্তৃক পরিচালিত একটি স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা যাহা পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত কোনো পণ্যচালান বা যাত্রীর ঘোষণা ও অন্যান্য তথ্য-উপাত্ত তুলনা করিয়া পণ্যচালান বা যাত্রীর ঝুঁকির সম্ভাব্যতা নিরূপণ করে।\n(২) এই বিধিমালায় ব্যবহৃত যেই সকল শব্দ বা অভিব্যক্তির সংজ্ঞা প্রদান করা হয় নাই সেই সকল শব্দ বা অভিব্যক্তি, ক্ষেত্রমত, আইনে যেই অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Economic Risk": [
+          "This is defined as risks related to money laundering, terror financing, proceeds of crime, illegal financial activities, evasion of customs duties and taxes, and trans-national organized economic crime."
+        ],
+        "Customs Act 2023": [
+          "Referred to as the Act, this is the primary legislation governing these rules."
+        ],
+        "Yellow Lane": [
+          "A selectivity lane in the automated system designated for reviewing documents without requiring physical examination of the goods."
+        ],
+        "Data Analytics": [
+          "A method involving the collection, examination, audit, cleansing, and modeling of digital or analog data for the purpose of risk identification and decision-making."
+        ],
+        "Customs Risk Management Commissionerate": [
+          "An entity established by the National Board of Revenue for the management of customs risks and implementation of risk management strategies."
+        ],
+        "Green Channel": [
+          "A designated passage at entry points for arriving passengers who are not carrying goods subject to customs duties or taxes."
+        ],
+        "Green Lane": [
+          "A selectivity lane in the automated system where goods are cleared without document verification, physical examination, or other risk mitigation procedures."
+        ],
+        "Goods Declaration": [
+          "Refers to manifests, import or export declarations, and any other information regarding goods or passengers submitted by a person or agent to the customs authority."
+        ],
+        "Declarant": [
+          "A person or licensed agent responsible for the clearance of goods, who is liable for the accuracy of all information and documents submitted in a declaration."
+        ],
+        "Risk": [
+          "Defined as economic risks and the potential for violation of the Act or any other customs-related laws, rules, or orders during the clearance of goods."
+        ],
+        "Risk Indicator": [
+          "Specific criteria used to select and identify high-risk goods consignments or passengers."
+        ],
+        "Risk Identification": [
+          "The process of identifying and listing potential risk areas based on information obtained from various sources under risk management protocols."
+        ],
+        "Risk Assessment": [
+          "The process of determining the impact, intensity, and likelihood of potential risks through the analysis of identified risk areas."
+        ],
+        "Risk Management": [
+          "The lawful activities conducted by the Customs Risk Management Commissionerate to identify, analyze, determine, assess, and control risk areas."
+        ],
+        "Documents": [
+          "Defined as any information stored in physical, electronic, or any other medium."
+        ],
+        "Goods": [
+          "Defined as per the meaning assigned in Section 2(30) of the Customs Act."
+        ],
+        "Consignment of Goods": [
+          "Refers to goods imported, exported, transited, transshipped, or stored in a bonded warehouse, following prescribed methods and forms."
+        ],
+        "Clearance of Goods": [
+          "The process of releasing goods from the control of customs authorities upon compliance with all necessary legal and procedural requirements."
+        ],
+        "Release of Goods": [
+          "The action taken by customs to hand over goods to the appropriate person or agent after completion of assessment and payment of duties and taxes."
+        ],
+        "Profile": [
+          "A collection and analysis system for risk indicators related to importers, exporters, agents, passengers, or goods to determine the appropriate lane (red, yellow, green, blue) or channel for clearance."
+        ],
+        "Person": [
+          "Defined as per the meaning assigned in Section 2(39) of the Customs Act."
+        ],
+        "Blue Lane": [
+          "A selectivity lane in the automated system where goods are cleared without immediate physical or document verification, pending post-clearance audit."
+        ],
+        "Manifest Data": [
+          "Data obtained from vehicle and cargo declarations, Advance Passenger Information (API), Passenger Name Record (PNR), and reports related to inward/outward movement, transit, or transshipment."
+        ],
+        "Passenger": [
+          "Defined to include both regular passengers and crew members."
+        ],
+        "Red Channel": [
+          "A passage for arriving passengers at entry points who are carrying goods subject to customs duties, restricted goods, or prohibited items."
+        ],
+        "Red Lane": [
+          "A selectivity lane in the automated system where selected consignments are subject to document verification and mandatory 100% physical examination."
+        ],
+        "Selectivity": [
+          "A function performed by the automated system or manually by the Customs Risk Management Commissionerate to assign specific risk mitigation procedures to a consignment based on risk indicators or random selection."
+        ],
+        "Automated Risk Management System": [
+          "An automated system operated by the Customs Risk Management Commissionerate that assesses the likelihood of risk for a consignment or passenger by comparing declaration data against predefined risk indicators."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1224",
+      "entity_sub_entities": {
+        "Economic Risk": [
+          "money laundering",
+          "terror financing",
+          "proceeds of crime",
+          "illegal financial activities",
+          "evasion of customs duties",
+          "evasion of taxes",
+          "trans-national organized economic crime"
+        ],
+        "Customs Act 2023": [
+          "Act"
+        ],
+        "Yellow Lane": [
+          "selectivity lane",
+          "automated system",
+          "documents",
+          "goods"
+        ],
+        "Data Analytics": [
+          "digital data",
+          "analog data"
+        ],
+        "Customs Risk Management Commissionerate": [
+          "National Board of Revenue"
+        ],
+        "Green Channel": [
+          "entry points",
+          "arriving passengers",
+          "goods",
+          "customs duties",
+          "taxes"
+        ],
+        "Green Lane": [
+          "selectivity lane",
+          "automated system",
+          "goods"
+        ],
+        "Goods Declaration": [
+          "manifests",
+          "import declarations",
+          "export declarations",
+          "goods",
+          "passengers",
+          "person",
+          "agent",
+          "customs authority"
+        ],
+        "Declarant": [
+          "person",
+          "licensed agent",
+          "goods",
+          "declaration"
+        ],
+        "Risk": [
+          "economic risks",
+          "Act",
+          "customs-related laws",
+          "rules",
+          "orders",
+          "goods"
+        ],
+        "Risk Indicator": [
+          "high-risk goods consignments",
+          "passengers"
+        ],
+        "Risk Identification": [
+          "risk areas"
+        ],
+        "Risk Assessment": [
+          "risk areas"
+        ],
+        "Risk Management": [
+          "Customs Risk Management Commissionerate",
+          "risk areas"
+        ],
+        "Documents": [
+          "physical medium",
+          "electronic medium"
+        ],
+        "Goods": [
+          "Section 2(30) of the Customs Act"
+        ],
+        "Consignment of Goods": [
+          "goods",
+          "bonded warehouse"
+        ],
+        "Clearance of Goods": [
+          "goods",
+          "customs authorities"
+        ],
+        "Release of Goods": [
+          "customs",
+          "goods",
+          "person",
+          "agent",
+          "duties",
+          "taxes"
+        ],
+        "Profile": [
+          "risk indicators",
+          "importers",
+          "exporters",
+          "agents",
+          "passengers",
+          "goods",
+          "red lane",
+          "yellow lane",
+          "green lane",
+          "blue lane"
+        ],
+        "Person": [
+          "Section 2(39) of the Customs Act"
+        ],
+        "Blue Lane": [
+          "selectivity lane",
+          "automated system",
+          "goods",
+          "post-clearance audit"
+        ],
+        "Manifest Data": [
+          "vehicle declarations",
+          "cargo declarations",
+          "Advance Passenger Information (API)",
+          "Passenger Name Record (PNR)",
+          "inward movement reports",
+          "outward movement reports",
+          "transit",
+          "transshipment"
+        ],
+        "Passenger": [
+          "regular passengers",
+          "crew members"
+        ],
+        "Red Channel": [
+          "entry points",
+          "arriving passengers",
+          "goods",
+          "customs duties",
+          "restricted goods",
+          "prohibited items"
+        ],
+        "Red Lane": [
+          "selectivity lane",
+          "automated system",
+          "consignments"
+        ],
+        "Selectivity": [
+          "automated system",
+          "Customs Risk Management Commissionerate",
+          "consignment",
+          "risk indicators"
+        ],
+        "Automated Risk Management System": [
+          "Customs Risk Management Commissionerate",
+          "consignment",
+          "passenger",
+          "declaration data",
+          "risk indicators"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        13,
+        14,
+        19,
+        21,
+        23,
+        29,
+        30,
+        45,
+        59,
+        70,
+        73,
+        79,
+        94,
+        135,
+        144,
+        146,
+        157,
+        162,
+        167,
+        219,
+        242,
+        248,
+        257,
+        361,
+        363,
+        394,
+        439,
+        442,
+        448,
+        481,
+        487,
+        603,
+        684,
+        707,
+        759,
+        791,
+        817,
+        888,
+        1102,
+        1103,
+        1174,
+        1191,
+        1211,
+        1253,
+        1262,
+        1380,
+        1452,
+        1500,
+        1637,
+        1842,
+        1927,
+        2257,
+        2400,
+        2474,
+        2636,
+        2704,
+        2847,
+        3001,
+        3186,
+        3885,
+        3921,
+        4597,
+        4665,
+        4709,
+        5488,
+        7056,
+        7145,
+        7320,
+        7594,
+        7662,
+        8712,
+        8815,
+        9273,
+        9934,
+        10447,
+        10684,
+        10976,
+        11348,
+        11557,
+        11558,
+        11959,
+        11960,
+        12090,
+        12786,
+        12925
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "সিলেক্টভিটি নির্ণায়ক",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9",
+      "resolved_text": "৯। সিলেক্টভিটি নির্ণায়ক।—কাস্টমস কম্পিউটার সিস্টেম নিম্নরূপ সিলেক্টভিটি নির্ণায়ক ব্যবহার করিবে, যথা:—\n(ক) এক বা একাধিক নির্ধারিত ঝুঁকি নির্দেশকের বিপরীতে ঘোষণার উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য উপাত্তসমূহ তুলনা করিয়া সম্ভাব্য ঝুঁকি নিরূপণের লক্ষ্যে একটি স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি প্রতিষ্ঠা করা হইবে;\n(খ) ঝুঁকি ব্যবস্থাপনার মাধ্যমে ঝুঁকি নিরসনের লক্ষ্যে পণ্যচালান কাস্টমস কম্পিউটার সিস্টেমে রেড লেন, ইয়েলো লেন, ব্লু লেন ও গ্রিন লেন হিসেবে চিহ্নিত হইবে এবং আগত যাত্রী এর ক্ষেত্রে রেড চ্যানেল ও গ্রিন চ্যানেলের মাধ্যমে ব্যবস্থিত হইবে;\n(গ) এআরএমএস এ রক্ষিত পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত কোনো পণ্যচালান অথবা যাত্রী এর তথ্য-উপাত্ত হুবহু মিলিয়া যাক অথবা না যাক, পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত সাদৃশ্যের মাত্রার সাপেক্ষে ঝুঁকির আপেক্ষিক মাত্রা নির্ধারণ করা হইবে;\n(ঘ) এক বা একাধিক পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত ঘোষণার তথ্য-উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য তথ্য উপাত্তসমূহ তুলনা এবং তথ্য প্রক্রিয়াকরণের মাধ্যমে সম্ভাব্য ঝুঁকি চিহ্নিতকরণের লক্ষ্যে ঝুঁকিপূর্ণ আমদানিকারক, রপ্তানিকারক, এজেন্ট, যাত্রী এর জন্য ঝুঁকি ব্যবস্থাপনা সিস্টেমের মধ্যে প্রোফাইল প্রতিষ্ঠা করা হইবে;\n(ঙ) স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি কাস্টমস রেকর্ড ও দলিল-দস্তাবেজ, বিভিন্ন উৎস হইতে প্রাপ্ত তথ্য, গোয়েন্দা তথ্য, কৃত্রিম বুদ্ধিমত্তা ব্যবহার করিয়া প্রাপ্তর উপাত্ত বিশ্লেষণ পদ্ধতি (Advanced Data Analytics), মেশিন লার্নিং এবং অন্যান্য উপযোগী পদ্ধতি ব্যবহার ও প্রয়োগ করিয়া ঝুঁকি নির্দেশক নির্ধারণ করিবে।",
+      "entity_concepts": {
+        "Automated System for Customs Data": [
+          "The system uses selectivities to determine processing channels for cargo and passengers. It establishes an automated risk management framework to evaluate shipment risks based on pre-defined indicators.",
+          "The system classifies consignments into red, yellow, blue, and green lanes, and passengers into red and green channels for customs clearance. It also assigns risk scores based on the degree of similarity to established risk indicators.",
+          "It creates profiles for importers, exporters, agents, and passengers to identify potential risks through data processing. The system incorporates historical records, intelligence data, and advanced analytical methods to refine its risk assessment indicators."
+        ],
+        "Data Analytics": [
+          "Advanced data analytics, machine learning, and artificial intelligence are utilized to process customs documentation and records. These methodologies serve as the technical foundation for identifying and setting risk indicators within the automated management framework."
+        ],
+        "Manifest Data": [
+          "Consignment information and related data are compared against established risk indicators to determine potential security or compliance threats during the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1231",
+      "entity_sub_entities": {
+        "Automated System for Customs Data": [
+          "selectivities",
+          "processing channels",
+          "cargo",
+          "passengers",
+          "automated risk management framework",
+          "shipment risks",
+          "risk indicators",
+          "consignments",
+          "red lane",
+          "yellow lane",
+          "blue lane",
+          "green lane",
+          "red channel",
+          "green channel",
+          "customs clearance",
+          "risk scores",
+          "profiles",
+          "importers",
+          "exporters",
+          "agents",
+          "historical records",
+          "intelligence data",
+          "analytical methods"
+        ],
+        "Data Analytics": [
+          "advanced data analytics",
+          "machine learning",
+          "artificial intelligence",
+          "customs documentation",
+          "records",
+          "risk indicators",
+          "automated management framework"
+        ],
+        "Manifest Data": [
+          "consignment information",
+          "risk indicators",
+          "security threats",
+          "compliance threats",
+          "customs clearance process"
+        ]
+      },
+      "clause_clusters": [
+        51,
+        79,
+        113,
+        131,
+        135,
+        157,
+        219,
+        394,
+        439,
+        481,
+        483,
+        487,
+        696,
+        1103,
+        1262,
+        1500,
+        1916,
+        1927,
+        2636,
+        2847,
+        3438,
+        4214,
+        5374,
+        5493,
+        5858,
+        5862,
+        6562,
+        6638,
+        8737,
+        9648,
+        10981,
+        11037,
+        11575,
+        12068,
+        12089,
+        12169
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_32",
+      "clause_title": "বাধ্যতামূলক প্রি-শিপমেন্ট ইন্সপেকশন",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_32",
+      "resolved_text": "২৫খ। বাধ্যতামূলক প্রি-শিপমেন্ট ইন্সপেকশন।— আমদানিতব্য পণ্য জাহাজ, উড়োজাহাজে অথবা অন্য কোন যানবাহনে বোঝাই করার পূর্বে অথবা বোঝাই করার সময়ে কোন প্রি-শিপমেন্ট ইন্সপেকশন সংস্থা কর্তৃক পরিদর্শন করানো আমদানিকারকদের জন্য বাধ্যতামূলক :\n\nতবে শর্ত থাকে যে, সরকার, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, কোন শ্রেণীর আমদানিকারক কর্তৃক কোন পণ্য অথবা পণ্যশ্রেণী অথবা কোন কাস্টমস বন্দর অথবা কাস্টমস স্টেশন অথবা উক্ত বন্দর বা স্টেশনের অন্তর্গত অন্য কোন এলাকা হইতে আমদানিকৃত কোন পণ্যকে বাধ্যতামূলক প্রি-শিপমেন্ট ইন্সপেকশন হইতে অব্যাহতি প্রদান করিতে পারিবে।",
+      "entity_concepts": {
+        "Pre-shipment Inspection": [
+          "It is mandatory for importers to have their goods inspected by a pre-shipment inspection agency before or during the loading of the goods onto a ship, aircraft, or any other mode of transport.",
+          "The Government has the authority to issue notifications in the official gazette to exempt specific categories of importers, products, or goods imported through designated customs ports or stations from this mandatory inspection requirement."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_36",
+      "entity_sub_entities": {
+        "Pre-shipment Inspection": [
+          "goods",
+          "pre-shipment inspection agency",
+          "ship",
+          "aircraft",
+          "mode of transport",
+          "Government",
+          "notifications",
+          "official gazette",
+          "importers",
+          "products",
+          "customs ports",
+          "customs stations"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        6,
+        28,
+        79,
+        83,
+        112,
+        118,
+        304,
+        620,
+        931,
+        966,
+        972,
+        2139
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

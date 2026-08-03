@@ -1,0 +1,119 @@
+{
+  "thread_id": "cluster_00352_t1",
+  "cluster_id": 352,
+  "cluster_label": "Deputy Commissioner",
+  "title": "Licensing Authority Composition",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the flexible 'either/or' structure for the Licensing Authority, allowing for a Deputy Commissioner or Assistant Commissioner to serve as member-secretary?",
+      "options": [
+        "SRO 2016 dated 2016-06-02",
+        "SRO 2016 dated 2016-07-01",
+        "CF Agents Licensing Rules 2016 dated 2016-06-05",
+        "The Customs Act 2016 amendment dated 2016-06-02"
+      ],
+      "answer_index": 1,
+      "answer": "SRO 2016 dated 2016-07-01",
+      "explanation": "The instrument dated 2016-07-01 (src=20160701_220-AIN_2016_47-Customs_output) replaced the previous rule to allow for the flexible appointment of a Deputy Commissioner or Assistant Commissioner as the member-secretary.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the initial 2016-06-02 SRO, what was the specific requirement for the Licensing Authority member-secretary if an Additional Commissioner was present?",
+      "options": [
+        "The member-secretary had to be a Joint Commissioner.",
+        "The member-secretary had to be an Assistant Commissioner.",
+        "The member-secretary had to be a Deputy Commissioner.",
+        "The member-secretary had to be the Commissioner of Customs."
+      ],
+      "answer_index": 2,
+      "answer": "The member-secretary had to be a Deputy Commissioner.",
+      "explanation": "According to the 2016-06-02 SRO, if an Additional Commissioner was present, the Deputy Commissioner was designated as the member-secretary.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What structural change was implemented regarding the Licensing Authority composition by the 2016-07-01 amendment?",
+      "options": [
+        "It removed the chairperson role entirely.",
+        "It shifted from a rigid hierarchy to a flexible 'either/or' designation for officials.",
+        "It mandated that only Joint Commissioners could serve as chairpersons.",
+        "It removed the Assistant Commissioner from the Licensing Authority."
+      ],
+      "answer_index": 1,
+      "answer": "It shifted from a rigid hierarchy to a flexible 'either/or' designation for officials.",
+      "explanation": "The 2016-07-01 amendment introduced flexibility, allowing for an Additional or Joint Commissioner to serve as chairperson and a Deputy or Assistant Commissioner to serve as member-secretary.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which of the following was true regarding the Licensing Authority composition as of 2016-06-05?",
+      "options": [
+        "The composition allowed for any customs officer to serve as member-secretary.",
+        "The authority was exclusively composed of Joint Commissioners.",
+        "The composition was strictly defined by the availability of specific senior ranking officers at the custom house.",
+        "The structure was already fully flexible with no hierarchy."
+      ],
+      "answer_index": 2,
+      "answer": "The composition was strictly defined by the availability of specific senior ranking officers at the custom house.",
+      "explanation": "The 2016-06-05 context confirms that the composition was dependent on available staffing levels, requiring specific combinations (Additional/Deputy or Joint/Assistant) at that time.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "Under the June 2016 rules, a Custom House lacked an Additional Commissioner, necessitating the formation of a Licensing Authority consisting of a Joint Commissioner as chairperson and an Assistant Commissioner as member-secretary. Following the July 1, 2016 amendment, the Custom House management is reviewing the eligibility of their current officials to serve in these roles.",
+      "question": "How did the July 2016 amendment change the flexibility of selecting a member-secretary compared to the rigid pairing requirements defined in the June 2016 rules?",
+      "answer": "The July 2016 amendment removed the rigid requirement to pair specific senior officers with specific junior officers, instead allowing the member-secretary role to be filled by either a Deputy Commissioner or an Assistant Commissioner, regardless of whether an Additional or Joint Commissioner serves as the chairperson.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2016-07-01"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "one month later",
+      "question": "In the month following the initial rigid structure defined by SRO 2016 on 2016-06-02, how did the composition of the Licensing Authority change regarding the designation of officials?",
+      "answer": "On 2016-07-01, the Licensing Authority structure was amended to provide more flexibility, allowing the composition to include either an Additional or Joint Commissioner and a Deputy or Assistant Commissioner, moving away from the previously rigid hierarchy.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    }
+  ]
+}

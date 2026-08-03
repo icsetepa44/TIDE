@@ -1,0 +1,46 @@
+{
+  "group_id": "cluster_00006_t1__X__cluster_00300_t1",
+  "entities": [
+    "Government",
+    "Bangladesh"
+  ],
+  "cluster_ids": [
+    6,
+    300
+  ],
+  "thread_ids": [
+    "cluster_00006_t1",
+    "cluster_00300_t1"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Government exercise its legal authority to regulate the movement of goods in relation to the borders of Bangladesh?",
+      "answer": "Under the Customs Act, 1969, the Government has the power to prohibit or restrict the bringing of goods into or taking goods out of Bangladesh by air, sea, or land through notifications published in the official Gazette [1], [2].",
+      "entities_involved": [
+        "Government",
+        "Bangladesh"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the scope of the Government's authority regarding the enforcement of the Customs Act, 1969, across Bangladesh?",
+      "answer": "The Customs Act, 1969, applies to the whole of Bangladesh [0], and the Government is empowered to determine the date of its enforcement through a notification in the official Gazette [0]. Additionally, the Government may use official Gazette notifications to prohibit or restrict the import or export of specific goods into or out of Bangladesh [1], [2].",
+      "entities_involved": [
+        "Government",
+        "Bangladesh"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_1",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_16",
+        "customs-act-1969-english_8th March, 1969_clause_16"
+      ]
+    }
+  ]
+}

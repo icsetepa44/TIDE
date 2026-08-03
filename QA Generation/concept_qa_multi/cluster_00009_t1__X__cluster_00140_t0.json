@@ -1,0 +1,42 @@
+{
+  "group_id": "cluster_00009_t1__X__cluster_00140_t0",
+  "entities": [
+    "Value Added Tax",
+    "regulatory duties"
+  ],
+  "cluster_ids": [
+    9,
+    140
+  ],
+  "thread_ids": [
+    "cluster_00009_t1",
+    "cluster_00140_t0"
+  ],
+  "num_shared_clauses": 15,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Which legal authorities and legislative acts govern the joint administration of Value Added Tax exemptions and customs-related fiscal tools like regulatory duties?",
+      "answer": "The government, in consultation with the National Board of Revenue (NBR), exercises powers under section 19(1) of the Customs Act, 1969, and either section 14(1) of the Value Added Tax Act, 1991, or section 126(1) of the Value Added Tax and Supplementary Duty Act, 2012, to administer exemptions for both Value Added Tax and customs-related duties.",
+      "entities_involved": [
+        "Value Added Tax",
+        "regulatory duties"
+      ],
+      "clause_text_ids": [
+        "20150604_148-AIN_2015_28-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150701_208-AIN_2015_45-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20150701_210-AIN_2015_47-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20150701_212-AIN_2015_49-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20151129_352-AIN_2015_60-Customs_২৯ নভেম্বর ২০১৫_clause_1",
+        "20160602_161-AIN_2016_23-Customs_2016-06-02_clause_1",
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_1",
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_1",
+        "20170601_134-AIN__১ জুন, ২০১৭_clause_1",
+        "20170601_158-AIN__১ জুন, ২০১৭_clause_1",
+        "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_1",
+        "20200611_134-AIN_2019_85_Customs_৩ জুন, ২০২০ খ্রিষ্টাব্দ_clause_1"
+      ]
+    }
+  ]
+}

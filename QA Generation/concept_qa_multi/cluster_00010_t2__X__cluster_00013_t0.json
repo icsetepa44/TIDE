@@ -1,0 +1,45 @@
+{
+  "group_id": "cluster_00010_t2__X__cluster_00013_t0",
+  "entities": [
+    "Customs Duty",
+    "taxes"
+  ],
+  "cluster_ids": [
+    10,
+    13
+  ],
+  "thread_ids": [
+    "cluster_00010_t2",
+    "cluster_00013_t0"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How are Customs Duty and taxes regulated for items that exceed the baggage allowance limits or are considered commercial quantities?",
+      "answer": "According to Schedule-2 [0], items that exceed the baggage allowance limits or are imported in commercial quantities are subject to the imposition of Customs Duty and taxes.",
+      "entities_involved": [
+        "Customs Duty",
+        "taxes"
+      ],
+      "clause_text_ids": [
+        "metadata_11"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Which regulatory schedules define the duty-free status and the imposition of Customs Duty and taxes for baggage?",
+      "answer": "Schedule-2 [0] defines the list of items subject to Customs Duty and taxes (such as items exceeding baggage limits or commercial quantities), while Schedule-3 [1, 2] provides the list of items exempt from Customs Duty and taxes.",
+      "entities_involved": [
+        "Customs Duty",
+        "taxes"
+      ],
+      "clause_text_ids": [
+        "metadata_11",
+        "metadata_14",
+        "metadata_15"
+      ]
+    }
+  ]
+}

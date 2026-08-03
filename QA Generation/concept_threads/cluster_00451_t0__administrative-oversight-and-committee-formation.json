@@ -1,0 +1,319 @@
+{
+  "cluster_id": 451,
+  "cluster_label": "Commissionerate",
+  "thread_index": 0,
+  "thread_id": "cluster_00451_t0",
+  "title": "Administrative Oversight and Committee Formation",
+  "summary": "This thread tracks the evolution of administrative structures within the Commissionerate, moving from basic auction committee formation to specialized operational teams for compliance and trade facilitation. The scope expanded from simple disposal of goods to managing complex regulatory frameworks like AEO (Authorized Economic Operator) and audit verification.",
+  "evolution": {
+    "scope": "From localized disposal of goods to comprehensive trade facilitation and fiscal audit.",
+    "institutional_depth": "Increased from ad-hoc committees to permanent specialized teams and reporting hierarchies."
+  },
+  "timeline": [
+    {
+      "date": "2019-01-21",
+      "instrument": "Clause 6",
+      "change": "Initial establishment of auction committees led by Additional/Joint Commissioners.",
+      "clause_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_5"
+      ]
+    },
+    {
+      "date": "2021-08-29",
+      "instrument": "Clause 8",
+      "change": "Formalized committee structure for perishable goods management based on value thresholds.",
+      "clause_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Clause 14",
+      "change": "Shift toward institutionalizing AEO teams and focal points for trade facilitation.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Clause 5",
+      "change": "Expansion of the Commissionerate's role into post-import audit and verification of VAT/Supplementary Duty compliance.",
+      "clause_ids": [
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "নিলাম কমিটি",
+      "text_id": "20190121_১০/০১/২০১৯খ্রি:_clause_5",
+      "resolved_text": "৬। নিলাম কমিটি:\nএডিশনাল কমিশনার বা জয়েন্ট কমিশনারকে আহ্বায়ক করে সংশ্লিষ্ট কাস্টম হাউস/কমিশনারেটে দায়িত্বপ্রাপ্ত কমিশনার একটি নিলাম কমিটি গঠন করবেন। কমিটিতে নিলাম সংশ্লিষ্ট কর্মকর্তাগণ ছাড়াও অন্যান্য কর্মকর্তাগণকে অন্তর্ভুক্ত করা যাবে। তবে এসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস (নিলাম) উক্ত কমিটির সদস্য সচিব হবেন।",
+      "entity_concepts": {
+        "Auction Committee": [
+          "The Commissioner of the concerned Customs House or Commissionerate is responsible for forming an auction committee.",
+          "The committee is led by an Additional Commissioner or Joint Commissioner as the convener, with an Assistant or Deputy Commissioner of Customs serving as the member secretary.",
+          "The committee structure allows for the inclusion of both auction-related officials and other personnel as deemed necessary by the Commissioner."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner is tasked with the authority to constitute an auction committee within their respective jurisdiction."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_622",
+      "entity_sub_entities": {
+        "Auction Committee": [
+          "Commissioner of the concerned Customs House",
+          "Commissionerate",
+          "Additional Commissioner",
+          "Joint Commissioner",
+          "Assistant Commissioner of Customs",
+          "Deputy Commissioner of Customs",
+          "auction-related officials",
+          "personnel",
+          "Commissioner"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner",
+          "auction committee"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        64,
+        78,
+        262,
+        451,
+        457,
+        744,
+        787,
+        914,
+        5708,
+        6482
+      ],
+      "source_file": "customs_gos_OCR/20190121/20190121_output.json",
+      "clause_date": "2019-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "পচনশীল পণ্যের ব্যবস্থাপনা কমিটি",
+      "text_id": "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+      "resolved_text": "৮। পচনশীল পণ্যের ব্যবস্থাপনা কমিটি।—(১) প্রতিটি কাস্টমস হাউস, কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেটে বা কাস্টমস স্টেশনের দায়িত্বপ্রাপ্ত কমিশনার পচনশীল পণ্য নিলাম বা অন্য কোনো পদ্ধতিতে ব্যবস্থাপনার লক্ষ্যে অনধিক ৫ (পাঁচ) সদস্য বিশিষ্ট একটি কমিটি গঠন করিবে এবং অনধিক ৫ (পাঁচ) লক্ষ টাকা মূল্যের পণ্য চালানের ক্ষেত্রে অ্যাসিস্ট্যান্ট কমিশনারের নিম্নে নহেন এইরূপ একজন কর্মকর্তা বা সংশ্লিষ্ট কমিশনার আইন অনুযায়ী যেইরূপ উপযুক্ত মনে করিবে সেইরূপ কমিটির প্রধান নির্ধারণ করিবে।\n(২) উপ-বিধি (১) এ উল্লিখিত ক্ষেত্র ব্যতীত ৫ (পাঁচ) লক্ষ টাকার অধিক মূল্যের পচনশীল পণ্যচালানের ব্যবস্থাপনার ক্ষেত্রে কমিশনার কর্তৃক নির্ধারিত কমিটি কর্তৃক, সময় সময়, জারীকৃত নিলাম আদেশ অনুযায়ী ব্যবস্থা গ্রহণ করিতে হইবে।\n(৩) উপ-বিধি (১) ও (২) এর অধীন গঠিত কমিটি অনধিক ৪৮ (আটচল্লিশ) ঘণ্টার মধ্যে নিলাম বা অন্য কোনো পদ্ধতিতে পচনশীল পণ্যের ব্যবস্থাপনা কার্যক্রম সম্পন্ন করিবে :\nতবে শর্ত থাকে যে, কমিশনার যুক্তিসঙ্গত কারণে উক্ত সময়সীমা বর্ধিত করিতে পারিবেন।",
+      "entity_concepts": {
+        "Perishable Goods Management Committee": [
+          "The Commissioner of Customs, Excise and VAT or the officer in charge of a Customs Station is required to form a committee with a maximum of five members to manage the disposal of perishable goods.",
+          "For consignments valued below a specified threshold, the committee head must be an officer not below the rank of Assistant Commissioner or another official as deemed appropriate by the Commissioner.",
+          "For consignments exceeding the specified value threshold, the committee must conduct disposal actions according to orders issued by the Commissioner.",
+          "The committee is mandated to complete the disposal process of perishable goods within a specified time limit, although the Commissioner retains the authority to extend this deadline for valid reasons."
+        ],
+        "Customs House": [
+          "Each Customs House is required to establish a management committee to facilitate the disposal of perishable goods through auction or other specified methods."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "The Commissionerate is required to establish a management committee to facilitate the disposal of perishable goods through auction or other specified methods."
+        ],
+        "Customs Station": [
+          "Each Customs Station is required to establish a management committee to facilitate the disposal of perishable goods through auction or other specified methods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1048",
+      "entity_sub_entities": {
+        "Perishable Goods Management Committee": [
+          "Commissioner of Customs, Excise and VAT",
+          "officer in charge",
+          "Customs Station",
+          "committee",
+          "members",
+          "perishable goods",
+          "consignments",
+          "committee head",
+          "Assistant Commissioner",
+          "Commissioner",
+          "disposal actions",
+          "time limit"
+        ],
+        "Customs House": [
+          "Customs House",
+          "management committee",
+          "perishable goods",
+          "auction"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "Commissionerate",
+          "management committee",
+          "perishable goods",
+          "auction"
+        ],
+        "Customs Station": [
+          "Customs Station",
+          "management committee",
+          "perishable goods",
+          "auction"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        60,
+        64,
+        102,
+        158,
+        213,
+        219,
+        269,
+        451,
+        631,
+        746,
+        864,
+        955,
+        1490,
+        1856,
+        6504,
+        10599
+      ],
+      "source_file": "customs_rules_OCR/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_output.json",
+      "clause_date": "2021-08-29"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+      "resolved_text": "৩. বিধিমালার বিধি ৩(৪) এর আওতায় প্রত্যেক কাস্টমস হাউস-এ বা নিজ অধিক্ষেত্রে কাস্টমস স্টেশন রয়েছে এরূপ কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেটে জয়েন্ট কমিশনার বা কাস্টমস বা তদূর্ধ্ব পদমর্যাদার একজন কর্মকর্তা এর নেতৃত্বে প্রয়োজনীয় সংখ্যক অন্যান্য কর্মকর্তার সমন্বয়ে একটি করে অথরাইজড ইকোনমিক অপারেটর টিম গঠন করতে হবে এবং উক্ত টিম হতে একজন ফোকাল পয়েন্ট কর্মকর্তা মনোনয়ন প্রদান করতে হবে। ফোকাল পয়েন্ট কর্মকর্তা মনোনয়নের বিষয়টি কাস্টমস হাউস/কমিশনারেটের নোটিস বোর্ড, ওয়েবসাইট, দাপ্তরিক সামাজিক যোগাযোগ মাধ্যম (যেমন, পেইজ, গ্রুপ) এ যোগাযোগ নম্বর ও ই-মেইল আইডিসহ প্রচার করতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Each Customs House or Customs, Excise and VAT Commissionerate must establish a dedicated team to handle matters related to Authorized Economic Operators.",
+          "The team must be led by an officer at the rank of Joint Commissioner of Customs or higher and include an appropriate number of additional staff."
+        ],
+        "Focal Point Officer": [
+          "An officer must be nominated as the dedicated focal point for the Authorized Economic Operator team.",
+          "The contact details of the nominated focal point, including telephone numbers and email addresses, must be publicized on the official website, social media channels, and notice boards of the relevant Customs House or Commissionerate."
+        ],
+        "Customs House": [
+          "Each Customs House is required to form an Authorized Economic Operator team and ensure the nomination and public disclosure of a focal point officer for external communication."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "Every Commissionerate that includes a customs station must establish an Authorized Economic Operator team and ensure that the contact information for its focal point officer is made available to the public."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_793",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "Customs House",
+          "Customs, Excise and VAT Commissionerate",
+          "dedicated team",
+          "officer",
+          "Joint Commissioner of Customs",
+          "additional staff"
+        ],
+        "Focal Point Officer": [
+          "officer",
+          "Authorized Economic Operator team",
+          "contact details",
+          "telephone numbers",
+          "email addresses",
+          "official website",
+          "social media channels",
+          "notice boards",
+          "Customs House",
+          "Commissionerate"
+        ],
+        "Customs House": [
+          "Authorized Economic Operator team",
+          "focal point officer"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "customs station",
+          "Authorized Economic Operator team",
+          "focal point officer"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        25,
+        60,
+        114,
+        269,
+        376,
+        451,
+        650,
+        943,
+        1131,
+        1161,
+        2578,
+        3905,
+        4415,
+        5321,
+        12240,
+        12754
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5",
+      "resolved_text": "৫। এই প্রজ্ঞাপনের আওতায় রেয়াতী হারে আমদানিকৃত উপকরণ বা কাঁচামাল অনুযায়ী ব্যবহারপূর্বক মূসক আইন ও মূসক বিধিমালা অনুযায়ী যথাযথ পরিমাণ মূসক ও সম্পূরক শুল্ক (যদি থাকে) প্রদান করা হইয়াছে বা হইতেছে কিনা তাহা সংশ্লিষ্ট মূসক কমিশনারেট অডিট বা যাচাইপূর্বক নিশ্চিত করিবে।",
+      "entity_concepts": {
+        "Value Added Tax": [
+          "The relevant Customs Commissionerate must audit or verify that the correct amount of Value Added Tax has been or is being paid on imported raw materials or inputs that benefited from a concessional duty rate under this notification."
+        ],
+        "Supplementary Duty": [
+          "The relevant Customs Commissionerate must audit or verify that any applicable Supplementary Duty has been or is being paid in accordance with the provisions of the Value Added Tax and Supplementary Duty Act and the associated Rules."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This act and its associated rules serve as the regulatory framework against which the payment of taxes on imported goods is verified."
+        ],
+        "Customs Commissioner": [
+          "The Commissionerate is mandated to conduct audits and verify that all necessary tax obligations have been met for goods imported under the concessional rates stipulated in this notification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3003",
+      "entity_sub_entities": {
+        "Value Added Tax": [
+          "imported raw materials",
+          "inputs"
+        ],
+        "Supplementary Duty": [
+          "Supplementary Duty",
+          "Value Added Tax and Supplementary Duty Act",
+          "Rules"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "act",
+          "rules",
+          "imported goods"
+        ],
+        "Customs Commissioner": [
+          "Commissionerate",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        9,
+        22,
+        29,
+        36,
+        106,
+        132,
+        144,
+        224,
+        451,
+        734
+      ],
+      "source_file": "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,526 @@
+{
+  "cluster_id": 565,
+  "cluster_label": "supporting documents",
+  "thread_index": 0,
+  "thread_id": "cluster_00565_t0",
+  "title": "Standardization of Documentary Submission Procedures",
+  "summary": "The concept of 'supporting documents' has evolved from a general requirement for specific import verification (e.g., chemical analysis) to a structured, digitized, and formalised submission process. Over time, the policy has shifted toward requiring standardized forms (Form-Ka), self-assessment questionnaires (SAQ), and digital submission protocols, reflecting a transition from manual verification to automated compliance frameworks.",
+  "evolution": {
+    "procedure": "Shift from ad-hoc technical document submission to standardized, form-based, and digital-first submission.",
+    "institutions": "Increased reliance on automated systems (BGMEA/BKMEA portals) and formal evaluation teams.",
+    "legal_basis": "Transition from general customs authority discretion to specific, rule-based documentary compliance."
+  },
+  "timeline": [
+    {
+      "date": "2020-06-11",
+      "instrument": "Clause 0",
+      "change": "Initial focus on specific technical supporting documents (literature, chemical analysis) for import verification.",
+      "clause_ids": [
+        "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Clause 4, 5, 6",
+      "change": "Introduction of standardized declaration forms and specific document checklists for licensing and utility declarations.",
+      "clause_ids": [
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Clause 8",
+      "change": "Integration of Self-Assessment Questionnaires (SAQ) as a mandatory supporting document for evaluation.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "Clause 9",
+      "change": "Formalization of digital submission (email) and affidavit requirements alongside SAQ.",
+      "clause_ids": [
+        "20250217_2024_2024-06-06_clause_6"
+      ]
+    }
+  ],
+  "num_member_objects": 7,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_6",
+      "resolved_text": "(৫) প্রতিটি পণ্যের H.S. Code, বিবরণ এবং কান্ট্রি অব অরিজিন সংক্রান্ত তথ্য আমদানি দলিলাদিতে স্পষ্টভাবে উল্লেখ থাকিতে হইবে এবং আমদানিকারককে পণ্যের printed literature, chemical analysis এবং Detailed packing list দাখিল করিতে হইবে এবং কাস্টমস কর্তৃপক্ষ উহাতে সন্তুষ্ট না হইলে স্বীয় ল্যাবরেটরিতে অথবা সরকার কর্তৃক অনুমোদিত নির্ভরযোগ্য কোন পরীক্ষাগারে উহার রাসায়নিক পরীক্ষা করাইতে পারিবে;",
+      "entity_concepts": {
+        "H.S. Code": [
+          "Importers must clearly state the H.S. Code, detailed description, and country of origin for every product on all import documentation."
+        ],
+        "Customs Authority": [
+          "Customs authorities reserve the right to verify product information and may mandate chemical testing of goods at their own laboratory or a government-authorized reliable testing facility if they are not satisfied with the provided documents."
+        ],
+        "Import Documentation": [
+          "Importers are required to submit essential supporting documents including printed product literature, chemical analysis reports, and detailed packing lists to facilitate the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2013",
+      "entity_sub_entities": {
+        "H.S. Code": [
+          "H.S. Code",
+          "detailed description",
+          "country of origin",
+          "product",
+          "import documentation"
+        ],
+        "Customs Authority": [
+          "Customs authorities",
+          "product information",
+          "chemical testing",
+          "goods",
+          "laboratory",
+          "government-authorized reliable testing facility",
+          "documents"
+        ],
+        "Import Documentation": [
+          "supporting documents",
+          "printed product literature",
+          "chemical analysis reports",
+          "detailed packing lists"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        23,
+        45,
+        59,
+        334,
+        409,
+        432,
+        565,
+        830,
+        3833,
+        4585,
+        6327,
+        7285,
+        8544,
+        9363,
+        10925
+      ],
+      "source_file": "customs_sros_OCR/20200611_128-AIN_2020_79_Customs/20200611_128-AIN_2020_79_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "পণ্য ঘোষণা ফরম",
+      "text_id": "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+      "resolved_text": "৩। পণ্য ঘোষণা ফরম।⎯ সকল প্রকার আমদানি ও রপ্তানি পণ্যচালানের জন্য পরিশিষ্ট-১ এ বর্ণিত পণ্য ঘোষণা ফরম আমদানিকারক বা রপ্তানিকারক বা তাহার নিয়োজিত এজেন্ট কর্তৃক সঠিকভাবে পূরণ করিয়া সকল প্রয়োজনীয় দলিলাদিসহ যথাযথ কর্মকর্তার নিকট দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Goods Declaration Form": [
+          "Importers, exporters, or their authorized agents must use the specific declaration form provided in the relevant appendix for all import and export shipments.",
+          "The declaration form must be accurately completed and submitted to the appropriate customs officer along with all necessary supporting documentation."
+        ],
+        "Appropriate Officer of Customs": [
+          "This official is designated as the authority to whom importers or exporters must submit their completed goods declaration forms and all required supporting documents for clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2735",
+      "entity_sub_entities": {
+        "Goods Declaration Form": [
+          "declaration form",
+          "appendix",
+          "import shipments",
+          "export shipments",
+          "supporting documentation"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs officer",
+          "goods declaration forms",
+          "supporting documents"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        49,
+        141,
+        230,
+        391,
+        565,
+        1403,
+        1644,
+        2758,
+        8444
+      ],
+      "source_file": "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "লাইসেন্সের আবেদন",
+      "text_id": "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "৫। লাইসেন্সের আবেদন।— আবেদনকারীকে লাইসেন্সের জন্য লাইসেন্সিং Authorities-এর নিকট ফরম ক অনুযায়ী নিম্নবর্ণিত কাগজপত্রাদিসহ আবেদন করিতে হইবে, যথা:-\n(ক) আর্থিক স্বচ্ছলতার সাপেক্ষে ব্যাংক কর্তৃক প্রদত্ত প্রত্যয়নপত্র;\n(খ) মূসক নিবন্ধন সনদ ও হালনাগাদ মূসক পরিশোধের প্রমাণপত্র;\n(গ) আয়কর কর্তৃপক্ষ কর্তৃক প্রদত্ত সর্বশেষ করবর্ষে নিরূপিত আয়ের সার্টিফিকেট এবং আয়কর রিটার্ন দাখিলের প্রাপ্তি স্বীকারপত্রের কপি;\n(ঘ) মেইলিং অপারেটর ও কুরিয়ার সার্ভিস বিধিমালা, ২০১৩ এর অধীন অন বোর্ড বা আন্তর্জাতিক মেইলিং অপারেটর অথবা কুরিয়ার সার্ভিস প্রতিষ্ঠান হিসাবে প্রাপ্ত লাইসেন্সের কপি, যেক্ষেত্রে যাহা প্রযোজ্য;\n(ঙ) প্রিন্সিপাল বা প্রিন্সিপালের বৈধ এজেন্ট বা কাউন্টার পার্টের সহিত সম্পাদিত চুক্তিপত্রের কপি;\n(চ) পণ্য সংরক্ষণের জন্য সংশ্লিষ্ট কাস্টমস স্টেশনের অভ্যন্তরে যথাযথ কর্তৃপক্ষ কর্তৃক চৌহদ্দি উল্লেখপূর্বক স্থান চিহ্নিতকরণসহ যুক্তিসংগত পরিমাণ স্পেসের বরাদ্দপত্রের কপি;\n(ছ) আবেদনকারীর অথবা আবেদনকারী কোনো সংস্থা বা প্রতিষ্ঠান হইলে, উক্ত সংস্থা বা প্রতিষ্ঠানের প্রধানসহ ক্ষমতাপ্রাপ্ত প্রতিনিধি এবং প্রযোজ্য ক্ষেত্রে, উক্ত সংস্থা বা প্রতিষ্ঠানের পরিচালকবৃন্দের প্রত্যেকের ৩ (তিন) কপি করিয়া পাসপোর্ট সাইজের সত্যায়িত ছবি; এবং\n(জ) আবেদনকারীর সংশ্লিষ্ট কাস্টমস স্টেশনের সোনালী ব্যাংক পিএলসি এর শাখায় চলতি হিসাব পরিচালনা সংক্রান্ত দলিলাদি।",
+      "entity_concepts": {
+        "Customs License Application": [
+          "Applicants are required to submit their application for a license to the licensing authorities using a prescribed form, accompanied by a comprehensive list of supporting documents.",
+          "Required documentation includes evidence of financial solvency, tax registration and compliance status, and proof of income tax filings.",
+          "Applicants must also provide proof of valid operating agreements, documentation for dedicated operational space within the customs station, and evidence of a designated bank account at a specific branch for transaction management.",
+          "Specific credentials such as existing courier service licenses and identification photographs for company representatives or directors are mandatory for the application process."
+        ],
+        "Value Added Tax Authorities": [
+          "Applicants must provide proof of value added tax registration and evidence of up-to-date tax payments as part of the license application requirements."
+        ],
+        "Income Tax Authorities": [
+          "Applicants must submit a certificate of assessed income for the latest tax year and a copy of the acknowledgment receipt for the filing of the income tax return."
+        ],
+        "Mailing Operator and Courier Service Rules 2013": [
+          "Applicants operating as international mailing operators or courier services must submit a copy of their license obtained under these specific rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2744",
+      "entity_sub_entities": {
+        "Customs License Application": [
+          "prescribed form",
+          "supporting documents",
+          "evidence of financial solvency",
+          "tax registration",
+          "compliance status",
+          "proof of income tax filings",
+          "operating agreements",
+          "operational space",
+          "customs station",
+          "designated bank account",
+          "courier service licenses",
+          "identification photographs",
+          "company representatives",
+          "directors"
+        ],
+        "Value Added Tax Authorities": [
+          "value added tax registration",
+          "tax payments"
+        ],
+        "Income Tax Authorities": [
+          "certificate of assessed income",
+          "acknowledgment receipt",
+          "income tax return"
+        ],
+        "Mailing Operator and Courier Service Rules 2013": [
+          "international mailing operators",
+          "courier services",
+          "license"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        84,
+        527,
+        537,
+        565,
+        615,
+        674,
+        770,
+        862,
+        1029,
+        1792,
+        1828,
+        2095,
+        2571,
+        3249,
+        3580,
+        3820,
+        4174,
+        4231,
+        5283,
+        6527,
+        6944,
+        7821,
+        8800,
+        10313,
+        11063
+      ],
+      "source_file": "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "ইউডি'র আবেদন ও নিষ্পত্তি",
+      "text_id": "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "৫। ইউডি'র আবেদন ও নিষ্পত্তি।– (১) ওয়্যারহাউস লাইসেন্সধারী শিল্প প্রতিষ্ঠান কর্তৃক ইউডি'র প্রাপ্তির উদ্দেশ্যে তফসিল-১ এর ফরম অনুযায়ী একটি ঘোষণাপত্র বাংলাদেশ গার্মেন্টস ম্যানুফ্যাকচারার্স ও এক্সপোর্টার্স অ্যাসোসিয়েশন (BGMEA) অথবা বাংলাদেশ নিটওয়্যার ম্যানুফ্যাকচারার্স ও এক্সপোর্টার্স অ্যাসোসিয়েশন (BKMEA) এর অটোমেটেড ইউডি সিস্টেমে নিম্নলিখিত দলিলাদি দাখিল করিতে হইবে, যথা:-\n(ক) ক্রেতার ঋণপত্র (মাস্টার রপ্তানি ঋণপত্র), চুক্তিনামা ও ক্রয়াদেশের একটি করিয়া অনুলিপি;\n(খ) প্রোফরমা ইনভয়েস;\n(গ) রপ্তানিতব্য পোশাকের স্কেচ; এবং\n(ঘ) হালনাগাদ সাধারণ বন্ডের কপি।\n\n(২) বন্ডদাতা কর্তৃক BGMEA অথবা BKMEA এর সিস্টেমে দাখিলকৃত ইউডি ফরম ও আনুষঙ্গিক দলিলাদি যাচাইয়াস্তে সঠিক পাওয়া গেলে BGMEA অথবা BKMEA উহা কমিশনার অব কাস্টমস (বন্ড) বা এতদুদ্দেশ্যে জাতীয় রাজস্ব বোর্ড কর্তৃক ক্ষমতাপ্রাপ্ত অন্য কোনো কমিশনার অব কাস্টমস বরাবর প্রেরণ করিবে এবং BGMEA ও BKMEA কর্তৃক তাহাদের নিজ নিজ ইউডি সিস্টেমে শিল্প প্রতিষ্ঠানের নিয়ন্ত্রণকারী কমিশনারেটের চাহিদা মোতাবেক প্রয়োজনীয় এক্সেস নিশ্চিত করিবে।\n\n(৩) আইনের ধারা ১১৮ এর উদ্দেশ্যপূরণকল্পে সরাসরি রপ্তানিমুখী পোশাক শিল্প প্রতিষ্ঠানের ক্ষেত্রে ইউডি বহির্ভূত কোনো কাঁচামাল ওয়্যারহাউসে প্রবেশ, সংরক্ষণ, ওয়্যারহাউস হইতে দেশীয় ভোগ বা রপ্তানির জন্য খালাস অথবা অন্য কোনো ওয়্যারহাউসে অপসারণ অথবা আইনে ব্যবস্থিত অন্য কোনো প্রক্রিয়ার জন্য প্রেরণ করা যাইবে না।\n\n(৪) যে মাস্টার রপ্তানি ঋণপত্র বা সেলস কন্ট্রাক্ট এর অধীন খোলা সকল ব্যাক টু-ব্যাক এলসি উক্ত ইউডিতে অন্তর্ভুক্ত থাকিতে হইবে:\nতবে শর্ত থাকে যে, রপ্তানি পণ্য জাহাজীকরণের পরে এইরূপ কোনো ব্যাক টু ব্যাক ঋণপত্র (BBLC) ইউডিতে অন্তর্ভুক্ত করা যাইবে না।\n\n(৪) সরাসরি রপ্তানিমুখী নিট কম্পোজিট প্রতিষ্ঠান কর্তৃক বন্ড সুবিধায় আমদানিকৃত অথবা স্থানীয় উৎস হইতে আইনানুগ প্রক্রিয়ায় সংগৃহীত কাঁচামাল ইউটিলাইজেশন পারমিশন (ইউপি) গ্রহণ ব্যতিরেকে সংশ্লিষ্ট ইউডির ভিত্তিতে ব্যবহার করা যাইবে।\n\n\n| 14. Bank Code | 15. Bank Name | 16. Address | 17. Phone no. | 18. Fax no. |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n \n| 19. Buyer Name | 20. Address | 21. Country | 22. Phone | 23. Fax | 24. Email |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n \n| Sl. No | 25. Export L/C/Contract No. (as per Bangladesh Bank Format) | 26. Date | 27. Value | Used Value | 28. Currency | Tolerance (%) | 29. Shipment Date | 30. Expiry Date |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n \n| Sl. No | 32. Import L/C No. | 33. Date | 34. Value | Used Value | 35. Currency | Tolerance% |\n| --- | --- | --- | --- | --- | --- | --- |\n| Local |  |  |  |  |  |  |\n| 1 |  |  |  |  |  |  |\n \n| Sl. No | 36. Notify Party Name | 37. Address | 38. Country | 39. Fax No | 40. Email |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n \n| Sl. No | 41. Port Name | Country Name | 42. Ultimate Destination |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n \n| Sl. No | Style No | HS Code | Description of Garments | Quantity | Used Qty. | Unit |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |\n \n| Style No | Garments Description | Garments Qty | H.S. Code | Description of Fabric | Construction & Trade Name | Qty. of Fabric | Con. Per Unit |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |\n \n| Sl No | H.S. Code | Commercial Description | Supplier's Name | Address | Country | Qty | Unit Name |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |\n \n| BB LC No, | BB LC Value | Style No | Garments Description | Garments Qty | H.S. Code | Description of Fabric | Construction & Trade Name | Qty. of Fabric | Con. Per Unit |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |\n \n| BB LC No | BB LC Value | Sl No | H.S. Code | Commercial Description | Supplier's Name | Address | Country | Qty | Unit Name |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |\n \n| UD No | Date | H.S. Code | Description | Qty | Unit | Value |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n \n| BB LC No. | BB LC Value | Fabric Description | Qty | Unit | Net Weight | Unit | Country | Supplierinfo |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n",
+      "entity_concepts": {
+        "Utilization Declaration": [
+          "Warehouse license holders must submit an application for a Utilization Declaration through the automated systems of trade associations by providing specific documentation such as export letters of credit, contracts, purchase orders, proforma invoices, garment sketches, and general bond copies.",
+          "Upon verification, the trade associations transmit the Utilization Declaration and supporting documents to the Commissioner of Customs (Bond) or other customs commissioners authorized by the National Board of Revenue.",
+          "For direct export-oriented garment industries, no raw materials can be processed, stored, or cleared from a warehouse without a valid Utilization Declaration as per the relevant section of the Customs Act.",
+          "Utilization Declarations must include all associated back-to-back letters of credit, provided that such credit instruments are not added after the export shipment date.",
+          "The application forms and processes for the Utilization Declaration require the reporting of detailed commercial and technical data, including bank details, buyer information, shipment schedules, garment specifications, and harmonized system codes."
+        ],
+        "Bangladesh Garments Manufacturers and Exporters Association": [
+          "This association acts as an authorized body for processing and verifying Utilization Declaration applications for warehouse license holders through its automated system.",
+          "It is responsible for forwarding verified applications to the relevant Commissioner of Customs and ensuring that customs authorities have the necessary access to its internal systems."
+        ],
+        "Bangladesh Knitwear Manufacturers and Exporters Association": [
+          "This association acts as an authorized body for processing and verifying Utilization Declaration applications for warehouse license holders through its automated system.",
+          "It is responsible for forwarding verified applications to the relevant Commissioner of Customs and ensuring that customs authorities have the necessary access to its internal systems."
+        ],
+        "Commissioner of Customs": [
+          "This office is the designated recipient of verified Utilization Declaration documents from trade associations for further processing and oversight."
+        ],
+        "National Board of Revenue": [
+          "This body holds the authority to designate any Commissioner of Customs to handle the receipt and processing of Utilization Declarations submitted by trade associations."
+        ],
+        "Direct Export-Oriented Industrial Unit": [
+          "These units are strictly prohibited from moving, storing, or clearing raw materials outside of the authorized processes defined by the Utilization Declaration and the Customs Act."
+        ],
+        "Direct Export-Oriented Knit Composite Unit": [
+          "These units may use raw materials sourced legally or imported under bond without needing a separate Utilization Permission, provided they operate under the basis of a valid Utilization Declaration."
+        ],
+        "H.S. Code": [
+          "The Utilization Declaration and its associated forms require the reporting of harmonized system codes for all garments, fabrics, and imported raw materials to ensure accurate customs classification."
+        ],
+        "Value": [
+          "Financial information, including the value of letters of credit, contracts, and imported goods, must be declared in the Utilization Declaration documentation to track usage and compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2831",
+      "entity_sub_entities": {
+        "Utilization Declaration": [
+          "export letters of credit",
+          "contracts",
+          "purchase orders",
+          "proforma invoices",
+          "garment sketches",
+          "general bond copies",
+          "supporting documents",
+          "raw materials",
+          "back-to-back letters of credit",
+          "application forms",
+          "bank details",
+          "buyer information",
+          "shipment schedules",
+          "garment specifications",
+          "harmonized system codes"
+        ],
+        "Bangladesh Garments Manufacturers and Exporters Association": [
+          "automated system"
+        ],
+        "Bangladesh Knitwear Manufacturers and Exporters Association": [
+          "automated system"
+        ],
+        "Commissioner of Customs": [
+          "Utilization Declaration documents"
+        ],
+        "National Board of Revenue": [
+          "Utilization Declarations"
+        ],
+        "Direct Export-Oriented Industrial Unit": [
+          "raw materials"
+        ],
+        "Direct Export-Oriented Knit Composite Unit": [
+          "raw materials"
+        ],
+        "H.S. Code": [
+          "garments",
+          "fabrics",
+          "imported raw materials"
+        ],
+        "Value": [
+          "letters of credit",
+          "contracts",
+          "imported goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        7,
+        8,
+        12,
+        132,
+        192,
+        463,
+        565,
+        684,
+        733,
+        1334,
+        1354,
+        1395,
+        1556,
+        1811,
+        1921,
+        2464,
+        2954,
+        3845,
+        3935,
+        3957,
+        4051,
+        4056,
+        5922,
+        6127,
+        7364,
+        8372,
+        8373,
+        11124,
+        12170,
+        13139
+      ],
+      "source_file": "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_32",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+      "resolved_text": "৪. মূল্যায়নকারী টিম বিধি ৭(৪) এ উল্লিখিত সময়ের মধ্যে প্রতিটি আবেদন, দাখিলকৃত Self-Assessment Questionnaire (SAQ) ও এর সাথে দাখিলকৃত দলিলাদি যাচাই-বাছাই করবে এবং অতিরিক্ত কোনো তথ্য বা দলিলাদির প্রয়োজন হলে তা দাখিলের জন্য আবেদনকারীকে লিখিতভাবে অনুরোধ করবে।",
+      "entity_concepts": {
+        "Assessment Team": [
+          "The Assessment Team is responsible for reviewing each application, the Self-Assessment Questionnaire, and all supporting documents within the period specified in the relevant rule.",
+          "If further information or documentation is required, the Assessment Team must formally request the applicant to provide it in writing."
+        ],
+        "Self-Assessment Questionnaire": [
+          "The Self-Assessment Questionnaire must be submitted along with an application and supporting documents for review by the Assessment Team."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_822",
+      "entity_sub_entities": {
+        "Assessment Team": [
+          "application",
+          "Self-Assessment Questionnaire",
+          "supporting documents",
+          "further information",
+          "documentation",
+          "applicant"
+        ],
+        "Self-Assessment Questionnaire": [
+          "application",
+          "supporting documents"
+        ]
+      },
+      "clause_clusters": [
+        58,
+        63,
+        104,
+        159,
+        565,
+        826,
+        4049
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "আবেদন দাখিল ও আনুষঙ্গিক বিষয়াদি",
+      "text_id": "20250217_2024_2024-06-06_clause_6",
+      "resolved_text": "৬। আবেদন দাখিল ও আনুষঙ্গিক বিষয়াদি।— (১) আবেদনকারীকে নিজস্ব প্যাডে “ফরম-ক” মোতাবেক মহাপরিচালক, সেন্টার বরাবরে ৩ (তিন) প্রস্থে আবেদন করিতে হইবে এবং উক্ত আবেদনের সফটকপি ই-মেইলযোগে প্রেরণ করিতে হইবে।\n(২) উপ-বিধি (১) এর অধীন আবেদনের সহিত নিম্নবর্ণিত দলিলাদি দাখিল করিতে হইবে, যথা:—\n(ক) বিধিমালার তফসিল-১ অনুযায়ী Self Assessment Questionnaire (SAQ) এর উত্তর সংবলিত কপি;\n(খ) দফা (ক)-তে উল্লিখিত SAQ-তে প্রদত্ত তথ্যের স্বপক্ষে সকল প্রকার দলিলাদি; এবং\n(গ) পরিশিষ্ট-১ অনুযায়ী ৩০০ (তিনশত) টাকার নন-জুডিশিয়াল স্ট্যাম্পে আবেদনকারী প্রতিষ্ঠানের পরিচিতি সংক্রান্ত সার-সংক্ষেপ এফিডেভিট আকারে দাখিল করিতে হইবে।\n(৩) সেন্টার আবেদনসমূহ গ্রহণের একটি পৃথক রেজিস্টার সংরক্ষণ করিবে এবং আবেদন গ্রহণকালে রেজিস্টারে প্রদত্ত ক্রমিক নম্বর ও তারিখ মোতাবেক ফরম-খ অনুসারে প্রতিটি আবেদনের প্রাপ্তি স্বীকার করিবে, তবে ইলেকট্রনিক পদ্ধতিতে প্রাপ্ত আবেদন রেজিস্টারে অন্তর্ভুক্ত করত একইভাবে রেজিস্টারে প্রদত্ত ক্রমিক নম্বর ও তারিখ উল্লেখপূর্বক ইলেকট্রনিক পদ্ধতিতে প্রাপ্তি স্বীকার করা যাইবে।\n(৪) সেন্টার কর্তৃক আবেদনটি প্রাথমিক যাচাই করিতে হইবে এবং প্রাপ্ত আবেদনটি প্রাথমিক যাচাইকালে অসম্পূর্ণ পাওয়া গেলে বা কোনো তথ্য উপাত্তের ঘাটতি থাকিলে আবেদন প্রাপ্তির ৩০ (ত্রিশ) দিনের মধ্যে ফরম-গ মোতাবেক আবেদনকারীকে অবহিত করিতে হইবে।\n(৫) প্রাথমিক যাচাইয়ে নিম্নবর্ণিত ঘাটতি বা অসম্পূর্ণতা উদ্ঘাটিত হইলে এবং উহা আবেদনকারী কর্তৃক দূর করা না হইলে আবেদন প্রক্রিয়াকরণ করা হইবে না, যথা:—\n(ক) অসম্পূর্ণ আবেদন সম্পূর্ণ করিয়া পুনরায় দাখিল না করিলে;\n(খ) যথাযথ আইনগত কর্তৃত্বসম্পন্ন ব্যক্তি কর্তৃক আবেদন না করার ক্ষেত্রে আইনগত কর্তৃত্বসম্পন্ন ব্যক্তি কর্তৃক আবেদন পুনরায় দাখিল না করিলে;\n(গ) অথরাইজড ইকোনমিক অপারেটর সংক্রান্ত কার্যক্রম সম্পাদনের জন্য প্রতিষ্ঠানের পক্ষ হইতে দায়িত্বশীল ফোকাল পয়েন্ট কর্মকর্তার মনোনয়ন প্রদান না করিবার ক্ষেত্রে দায়িত্বশীল ফোকাল পয়েন্ট কর্মকর্তা মনোনয়ন প্রদানপূর্বক আবেদন পুনরায় দাখিল না করিলে; এবং\n(ঘ) প্রতিষ্ঠানের পূর্বের অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি সনদ বিধি ১৭ এর উপ-বিধি (১) এর দফা (চ) ও (ছ)-তে বর্ণিত ক্ষেত্র ব্যতীত অন্য কোনো কারণে বাতিল হইলে উক্ত বাতিলের তারিখ হইতে ৩ (তিন) বৎসর অতিক্রান্ত না হইলে।\n(৬) প্রাথমিক যাচাইয়ে নিম্নবর্ণিত কারণে উভয় হইলে অথরাইজড ইকোনমিক অপারেটরের আবেদন প্রাথমিকভাবে বাতিল বলিয়া গণ্য হইবে, যথা:—\n(ক) আবেদনকারী অথরাইজড ইকোনমিক অপারেটরের সনদ প্রাপ্তির জন্য বিধি ৫ এর উপ-বিধি (১) এর দফা (চ) ও (ছ) অনুসারে কাস্টমস প্রক্রিয়ার সহিত সরাসরি সংশ্লিষ্ট নহে এইরূপ কেহ সনদ প্রাপ্তির আবেদন করিলে; এবং\n(খ) আবেদনে অসম্পূর্ণতা বা ঘাটতি থাকিলে উহা সম্পূর্ণ করা বা ঘাটতি পূরণের জন্য অনুরোধ করার পরেও সর্বোচ্চ ৯০ (নব্বই) দিনের মধ্যে উক্ত অসম্পূর্ণতা দূর বা ঘাটতি পূরণ না করা হইলে।\n(৭) উপ-বিধি (৬) এর অধীন কোনো আবেদন বাতিল করা হইলে উক্ত সিদ্ধান্ত গ্রহণের ৩০ (ত্রিশ) দিনের মধ্যে আবেদন বাতিলের কারণ লিখিতভাবে অথবা ইলেকট্রনিক মাধ্যমে ফরম-ঘ মোতাবেক আবেদনকারীকে অবহিত করিতে হইবে।",
+      "entity_concepts": {
+        "Self-Assessment Questionnaire": [
+          "Applicants are required to submit a completed copy of the Self-Assessment Questionnaire as part of their official application package.",
+          "The supporting documents for the information provided in the Self-Assessment Questionnaire must also be submitted alongside the application."
+        ],
+        "Authorized Economic Operator": [
+          "Applicants must nominate a responsible focal point official to manage activities related to Authorized Economic Operator status, or the application will not be processed.",
+          "An application for Authorized Economic Operator status will be rejected if the applicant is not directly involved in customs processes or if specified deficiencies are not addressed within the prescribed timeframe.",
+          "Applications from entities whose previous Authorized Economic Operator status was revoked are subject to a waiting period before they are eligible to apply again, unless the revocation occurred under specific exempt circumstances."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1119",
+      "entity_sub_entities": {
+        "Self-Assessment Questionnaire": [
+          "Self-Assessment Questionnaire",
+          "supporting documents",
+          "application package"
+        ],
+        "Authorized Economic Operator": [
+          "responsible focal point official",
+          "Authorized Economic Operator status",
+          "application",
+          "customs processes"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        58,
+        159,
+        181,
+        565,
+        1362,
+        5593,
+        11502
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_3",
+      "resolved_text": "২। এই প্রজ্ঞাপনে উল্লেখিত অব্যাহতির সুযোগ গ্রহণের জন্য সংশ্লিষ্ট পণ্য উৎপাদনকারী প্রতিষ্ঠানকে অনুচ্ছেদ ১ এ উল্লিখিত শর্তাবলী পরিপালন করিতে হইবে এবং তদানুযায়ী প্রজ্ঞাপনে বর্ণিত উৎপাদন কার্যক্রম সম্পন্ন হইবে মর্মে ৩০০(তিনশত) টাকার নন-জুডিশিয়াল স্ট্যাম্পে অঙ্গীকারনামা প্রদান পূর্বক আনুষাঙ্গিক দলিলাদিসহ জাতীয় রাজস্ব বোর্ডের নিকট আবেদন দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Manufacturing entities seeking to avail of the duty exemptions specified in this notification must submit a formal application to the National Board of Revenue.",
+          "The application must be accompanied by supporting documents and a formal undertaking on non-judicial stamp paper affirming compliance with the stipulated manufacturing conditions."
+        ],
+        "Manufacturing Entities": [
+          "Manufacturing entities are required to fulfill specific conditions and adhere to prescribed manufacturing processes as a prerequisite for claiming tax exemptions under this notification.",
+          "They must provide a formal undertaking on non-judicial stamp paper and submit necessary documentation to the tax authorities to initiate the application process."
+        ],
+        "Customs Duty Exemption": [
+          "The exemption benefits granted under this notification are contingent upon strict adherence to specified operational conditions and the submission of a formal undertaking by the beneficiary."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3011",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "formal application",
+          "supporting documents",
+          "formal undertaking",
+          "non-judicial stamp paper"
+        ],
+        "Manufacturing Entities": [
+          "manufacturing processes",
+          "formal undertaking",
+          "non-judicial stamp paper",
+          "documentation",
+          "tax authorities"
+        ],
+        "Customs Duty Exemption": [
+          "exemption benefits",
+          "operational conditions",
+          "formal undertaking"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        63,
+        374,
+        410,
+        459,
+        486,
+        565,
+        1121,
+        1180,
+        1714,
+        2165,
+        7857
+      ],
+      "source_file": "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

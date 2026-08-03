@@ -1,0 +1,896 @@
+{
+  "cluster_id": 59,
+  "cluster_label": "documents",
+  "thread_index": 1,
+  "thread_id": "cluster_00059_t1",
+  "title": "Audit and Investigative Powers over Documents",
+  "summary": "The legal framework governing the inspection, seizure, and retention of documents during audits has been refined to grant customs officials broader powers. This includes the authority to demand production of records, make copies, and maintain custody of documents as evidence, with specific provisions for confidentiality and audit trails.",
+  "evolution": {
+    "scope": "Expanded from simple inspection to comprehensive audit trails and professional third-party auditing.",
+    "authority": "Increased specificity in the powers of Joint Commissioners and audit teams regarding document retention and copying."
+  },
+  "timeline": [
+    {
+      "date": "2023-09-27",
+      "instrument": "Post Clearance Audit Guidelines",
+      "change": "Formalization of audit file requirements and confidentiality obligations for sensitive documents.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_11",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_35"
+      ]
+    },
+    {
+      "date": "2024-03-31",
+      "instrument": "Customs Rules",
+      "change": "Empowerment of committees and professional auditors to monitor and audit service provider documents.",
+      "clause_ids": [
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 14,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "১.৬ গোপনীয়তা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+      "resolved_text": "১.৬ গোপনীয়তা—কাস্টমস পোস্ট ক্লিয়ারেন্স অডিট এর জন্য নির্বাচিত ব্যক্তি/প্রতিষ্ঠান/আমদানিকারক/রপ্তানিকারক বা কাস্টমস এজেন্ট কর্তৃক সরবরাহকৃত যেকোনো তথ্য/দলিলাদি সংবেদনশীল হওয়ায় Customs Act, 1969 এর Section 204B অনুযায়ী উক্ত তথ্য/দলিলাদির গোপনীয়তা রক্ষা করতে হবে।",
+      "entity_concepts": {
+        "Customs Post Clearance Audit": [
+          "This process involves the review of information and documentation provided by importers, exporters, or customs agents. All data collected during this procedure is treated as sensitive information."
+        ],
+        "Customs Act 1969": [
+          "Section 204B of this Act mandates that the confidentiality of sensitive information and documents provided for official customs audit purposes must be strictly maintained."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_681",
+      "entity_sub_entities": {
+        "Customs Post Clearance Audit": [
+          "information",
+          "documentation",
+          "importers",
+          "exporters",
+          "customs agents",
+          "data",
+          "sensitive information"
+        ],
+        "Customs Act 1969": [
+          "Section 204B",
+          "confidentiality",
+          "sensitive information",
+          "documents",
+          "official customs audit"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        59,
+        63,
+        79,
+        148,
+        157,
+        270,
+        281,
+        1518,
+        3756,
+        4842,
+        10194
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "২.১ কাস্টমস কর্মকর্তাদের অডিট পরিচালনার আইনগত ভিত্তি",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_11",
+      "resolved_text": "২.১ কাস্টমস কর্মকর্তাদের অডিট পরিচালনার আইনগত ভিত্তি—কাস্টমস কর্তৃপক্ষের আইনগত কর্তৃত্ব ও ক্ষমতা এবং ব্যবসা প্রতিষ্ঠানসমূহের আইনগত অধিকার ও বাধ্যবাধকতাসমূহ Customs Act, 1969 এর নিম্নে বর্ণিত ধারাসমূহে উল্লেখিত রয়েছে:\nSection 4 : কাস্টমস কর্মকর্তাদের ক্ষমতা\nSection 7 : সহায়তা দাবি করার অধিকার\nSection 26 : ডকুমেন্ট উপস্থাপন করার নির্দেশনা জানানোর ক্ষমতা\nSection 26A : যুগ্ম কমিশনার পদমর্যাদার নিম্নে নহে এরূপ কাস্টম কর্মকর্তার ডকুমেন্ট সংক্রান্ত অধিকতর ক্ষমতা\nSection 26B : ডকুমেন্ট ও রেকর্ড দখলে নেয়া ও রাখার ক্ষমতা\nSection 26C : অনুসন্ধানকালে প্রাপ্ত দলিলাদির অনুলিপি নেয়ার ক্ষমতা\nSection 26D : অনুসন্ধানকালে প্রাপ্ত দলিলাদি এবং পণ্যের কর্তৃত্ব গ্রহণ ও সংরক্ষণের ক্ষমতা\nSection 32 : সঠিক তথ্য দাখিল করার বাধ্যবাধকতা\nSection 48 : ডকুমেন্ট উপস্থাপন ও প্রশ্ন জিজ্ঞাসা করার ক্ষমতা\nSection 83A : নিরূপিত শুল্ক সংশোধন করার ক্ষমতা\nSection 83B : শুল্কায়ন সংশোধন করার সময়সীমা সম্পর্কিত ক্ষমতা\nSection 83C : রেকর্ডসমূহ অডিট বা পরীক্ষা করার ক্ষমতা\nSection 196L : সরকার কর্তৃক রেকর্ড চাওয়া ও পরীক্ষা করার ক্ষমতা\nSection 199 : পণ্যের নমুনা উত্তোলন ও পরীক্ষণের ক্ষমতা\nSection 211 : ব্যবসায়িক রেকর্ড সংরক্ষণের বাধ্যবাধকতা\n\nএছাড়াও জাতীয় রাজস্ব বোর্ড কর্তৃক সময়ে সময়ে জারীকৃত এসআরও, আদেশ, ব্যাখ্যাপত্র ইত্যাদি।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act serves as the foundational legal framework defining the powers, duties, and responsibilities of customs authorities as well as the rights and obligations of business entities regarding customs audits."
+        ],
+        "Customs Authority": [
+          "The customs authority derives its legal mandate and operational powers, such as conducting audits, demanding documents, and checking records, from various specific sections of the Customs Act 1969."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is authorized to issue statutory regulatory orders, official directives, and explanatory notices that provide supplementary operational instructions for customs procedures."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_682",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "powers",
+          "duties",
+          "responsibilities",
+          "rights",
+          "obligations",
+          "business entities",
+          "customs audits"
+        ],
+        "Customs Authority": [
+          "legal mandate",
+          "operational powers",
+          "audits",
+          "documents",
+          "records",
+          "sections",
+          "Customs Act 1969"
+        ],
+        "National Board of Revenue": [
+          "statutory regulatory orders",
+          "official directives",
+          "explanatory notices",
+          "operational instructions",
+          "customs procedures"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        23,
+        30,
+        59,
+        131,
+        186,
+        225,
+        298,
+        502,
+        580,
+        788,
+        1085,
+        1451,
+        2152,
+        2599,
+        3299,
+        7898,
+        11550
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_35",
+      "clause_title": "৫.১.২ অডিট ফাইল",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_35",
+      "resolved_text": "৫.১.২ অডিট ফাইল—অডিট পরিকল্পনা পর্যায়ে একটি 'অডিট ফাইল' খোলা জরুরী এবং অডিট সংক্রান্ত সমস্ত নথির একটি করে অনুলিপি এই ফাইলে রাখতে হবে। অডিট চলাকালে তৈরিকৃত সকল নথি, চিঠিপত্র, নোট ইত্যাদির একটি করে অনুলিপি একই অডিট ফাইলে রাখতে হবে।\n\nএই ফাইলে আবশ্যকীয়ভাবে নিম্নোক্ত দলিলাদি অন্তর্ভুক্ত করতে হবে:\n(ক) অডিটের জন্য নির্বাচন ও অডিট পরিকল্পনা সম্পর্কিত সমস্ত দলিলাদি;\n(খ) ব্যবসা প্রতিষ্ঠানকে পাঠানো নোটিফিকেশন লেটার ও প্রশ্নাবলি;\n(গ) প্রাথমিক সভার কার্যবিবরণী;\n(ঘ) অডিট কাজের ব্যবহারিক কাগজ পত্র (working papers);\n(ঙ) অডিট রিপোর্ট ও সংযুক্ত সময়সূচী, এবং\n(চ) চূড়ান্ত সভার কার্যবিবরণী।",
+      "entity_concepts": {
+        "Audit File": [
+          "An audit file must be initiated at the planning stage of an audit to serve as a central repository for all relevant documentation.",
+          "Officers are required to maintain copies of all audit-related correspondence, notes, and documents generated during the audit process within this file.",
+          "The audit file must mandatorily contain specific records, including audit selection criteria, audit planning documents, notification letters sent to the business entity, questionnaires, minutes of preliminary and final meetings, working papers, and the audit report with its associated schedules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_706",
+      "entity_sub_entities": {
+        "Audit File": [
+          "audit selection criteria",
+          "audit planning documents",
+          "notification letters",
+          "questionnaires",
+          "minutes of preliminary meetings",
+          "minutes of final meetings",
+          "working papers",
+          "audit report",
+          "schedules",
+          "audit-related correspondence",
+          "notes",
+          "documents"
+        ]
+      },
+      "clause_clusters": [
+        59,
+        297,
+        530,
+        1548,
+        2149,
+        5733,
+        5741,
+        5747,
+        9889,
+        9891,
+        10126,
+        11161,
+        13410
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "পরিবীক্ষণ ও নিরীক্ষা",
+      "text_id": "20240331_._._৩১ মার্চ, ২০২৪_clause_9",
+      "resolved_text": "৯। পরিবীক্ষণ ও নিরীক্ষা।—(১) বোর্ডসংশ্লিষ্ট সেবা প্রদানকারীর সেবা প্রদান সংশ্লিষ্ট কার্যক্রম ও এতদসংশ্লিষ্ট দলিলাদি পরিবীক্ষণের নিমিত্ত যথাযথ কাস্টমস কর্মকর্তার সমন্বয়ে অনধিক ৫ (পাঁচ) সদস্য বিশিষ্ট এক বা একাধিক কমিটি গঠন করিতে পারিবে এবং উক্ত কমিটি সেবা প্রদানকারী প্রতিষ্ঠানের সেবা প্রদান সংশ্লিষ্ট কার্যক্রম, হিসাব ও দলিলাদি পরিবীক্ষণ করিতে পারিবে।\n(২) বোর্ড আইনের section 83D এর অধীন নিযুক্ত পেশাদার নিরীক্ষক বা নিরীক্ষক ফার্ম (professional auditor or audit firm) এর দ্বারা সেবা প্রদানকারী প্রতিষ্ঠানের সেবা প্রদান সংক্রান্ত কার্যক্রম, হিসাব ও সংশ্লিষ্ট দলিলাদি নিরীক্ষা করিতে পারিবে।\n(৩) উপ-বিধি (১) এ বর্ণিত পরিবীক্ষণ এবং উপ-বিধি (২) এ বর্ণিত নিরীক্ষা প্রতিবেদনের আলোকে কোনো গুরুতর অনিয়ম উদ্ঘাটিত হইলে বোর্ড সেবা প্রদানকারীর বিরুদ্ধে শাস্তিমূলক ব্যবস্থা গ্রহণ করিতে পারিবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is authorized to establish committees for monitoring the activities of service providers.",
+          "The National Board of Revenue may engage a professional auditor or firm to conduct audits of service provider operations under the provisions of the Act.",
+          "The National Board of Revenue is empowered to initiate disciplinary action against service providers if monitoring or audit reports reveal serious irregularities."
+        ],
+        "Customs Authority": [
+          "The National Board of Revenue can form committees consisting of appropriate customs officers to conduct monitoring activities and review relevant documents of service providers."
+        ],
+        "Professional Auditor": [
+          "Professional auditors or audit firms may be appointed by the National Board of Revenue to examine the accounts, activities, and documents of service providers in accordance with the relevant section of the Act."
+        ],
+        "Firm": [
+          "Audit firms are subject to appointment by the National Board of Revenue to perform formal audits of service provider entities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2559",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "committees",
+          "service providers",
+          "professional auditor",
+          "firm",
+          "audit reports"
+        ],
+        "Customs Authority": [
+          "committees",
+          "customs officers",
+          "documents",
+          "service providers"
+        ],
+        "Professional Auditor": [
+          "professional auditors",
+          "audit firms",
+          "accounts",
+          "activities",
+          "documents",
+          "service providers",
+          "Act"
+        ],
+        "Firm": [
+          "audit firms",
+          "service provider entities"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        23,
+        59,
+        111,
+        144,
+        434,
+        576,
+        833,
+        910,
+        1098,
+        1155,
+        1331,
+        1649,
+        1743,
+        1874
+      ],
+      "source_file": "customs_sros_OCR/20240331_._./20240331_._._output.json",
+      "clause_date": "2024-03-31"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_34",
+      "clause_title": "দলিলপত্র পেশ করার জন্য তলব",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_34",
+      "resolved_text": "২৬। দলিলপত্র পেশ করার জন্য তলব।— (১) যে ক্ষেত্রে -\n\n(ক) কোন কাস্টমস কর্মকর্তার বিশ্বাস করার যুক্তিসঙ্গত কারণ রহিয়াছে যে, কোন পণ্য বেআইনীভাবে আমদানি, রপ্তানি, অবমূল্যায়ন, অধিমূল্যায়ন, প্রবেশ, অপসারণ অথবা এই আইনের পরিপন্থী প্রক্রিয়ায় কোন ব্যক্তি দ্বারা অবৈধভাবে লেনদেন করা হইয়াছে অথবা কোন ব্যক্তি উক্ত পণ্য আমদানি, রপ্তানি, অবমূল্যায়ন, অধিমূল্যায়ন, প্রবেশ, অপসারণ অথবা অন্য কোনভাবে লেনদেন করার চেষ্টা করিয়াছে ; অথবা\n\n(খ) এই আইনের অধীন পণ্য আটক করা হইয়াছে, সেই ক্ষেত্রে সহকারী কমিশনার পদমর্যাদার নিম্নে নহেন এমন কোন কাস্টমস কর্মকর্তা, লিখিত নোটিশ প্রদান করিয়া, উক্ত ব্যক্তিকে অথবা অন্য কোন ব্যক্তি, যাহাকে উক্ত কর্মকর্তা সংশ্লিষ্ট পণ্যের মালিক, আমদানিকারক অথবা রপ্তানিকারক বলিয়া সন্দেহ করেন, তাহাকে অথবা, ক্ষেত্রমত, তাহার এজেন্টের, যেভাবে এবং যখন প্রয়োজন মনে করিবেন সেই ভাবে এবং তখন উক্ত কর্মকর্তার নিকট অথবা অন্য কোন নির্ধারিত কর্মকর্তার নিকট সকল হিসাব পুস্তক, রেকর্ডপত্র অথবা দলিলপত্র, যাহাতে নোটিশ প্রদানের তারিখ হইতে তিন বৎসর পূর্ব পর্যন্ত সময়ের ক্রয়, আমদানি, রপ্তানি, ব্যয় অথবা মূল্য অথবা পরিশোধ সম্পর্কিত এন্ট্রি অথবা স্মারক লিপিবদ্ধ থাকে অথবা লিপিবদ্ধ থাকার কথা, তাহা পেশ এবং অর্পণ করার নির্দেশ দিতে পারিবেন।\n\n(২) পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন এমন কাস্টমস কর্মকর্তা এই ধারার উপ-ধারা (১) এর অধীন আবশ্যকতার অতিরিক্ত উক্তরূপ পণ্যের মালিক অথবা আমদানিকারক অথবা রপ্তানিকারক অথবা, ক্ষেত্রমত, এজেন্টেরকে -\n\n(ক) উক্ত কর্মকর্তার অথবা অন্য কোন নির্দিষ্ট কাস্টমস কর্মকর্তার পরিদর্শনের জন্য উপ-ধারা (১) এ উল্লেখিত দলিলপত্র, পুস্তক অথবা নথিপত্র উপস্থাপন করিতে এবং উহার কপি করিতে অথবা উহা হইতে উদ্ধৃতি নেওয়ার জন্য কর্মকর্তাকে অনুমতি দিতে,\n\n(খ) ইলেকট্রনিক অথবা অন্য কোন মাধ্যম মারফত উক্ত দলিলপত্র, পুস্তক অথবা রেকর্ডপত্রের ধারণকৃত তথ্য সঞ্চারিত অথবা প্রেরণ করিতে, এবং\n\n(গ) উক্ত দলিলপত্র, পুস্তক অথবা নথিপত্র সম্পর্কে কোন প্রশ্নের উত্তর দিতে\n- নির্দেশ দিতে পারিবেন।",
+      "entity_concepts": {
+        "Appropriate Officer of Customs": [
+          "An officer not below the rank of Assistant Commissioner of Customs is authorized to issue written notices requiring the production of documents, books, or records related to goods under investigation for suspected customs violations.",
+          "The officer is empowered to mandate the submission, inspection, copying, and electronic transmission of records, as well as require responses to inquiries regarding documents related to the import, export, or valuation of goods."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework under which customs officers are empowered to investigate suspected illegal imports, exports, undervaluation, or overvaluation of goods and to demand the production of relevant financial records and correspondence."
+        ],
+        "Customs Documentation and Records": [
+          "The law requires the production of all books of account, records, and documents containing entries or memoranda related to the purchase, import, export, cost, value, or payment of goods for a period of up to three years prior to the notice date."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_38",
+      "entity_sub_entities": {
+        "Appropriate Officer of Customs": [
+          "Assistant Commissioner of Customs",
+          "written notices",
+          "documents",
+          "books",
+          "records",
+          "goods"
+        ],
+        "Customs Act 1969": [
+          "illegal imports",
+          "exports",
+          "undervaluation of goods",
+          "overvaluation of goods",
+          "financial records",
+          "correspondence"
+        ],
+        "Customs Documentation and Records": [
+          "books of account",
+          "records",
+          "documents",
+          "entries",
+          "memoranda"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        17,
+        59,
+        78,
+        131,
+        367,
+        384,
+        847,
+        1646,
+        1822,
+        2587,
+        4348,
+        8817,
+        10454,
+        13078
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_35",
+      "clause_title": "দলিলপত্রের ব্যাপারে অধিকতর ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_35",
+      "resolved_text": "২৬ক। দলিলপত্রের ব্যাপারে অধিকতর ক্ষমতা।— যুগ্ম কমিশনার পদমর্যাদার নিম্নে নহেন এমন কাস্টমস কর্মকর্তা, নোটিশ দ্বারা, কোন সরকারী বিভাগে, কর্পোরেশনে, স্থানীয় সংস্থায় অথবা ব্যাংকে নিযুক্ত কোন কর্মকর্তাসহ কোন ব্যক্তিকে যেভাবে এবং যখন প্রয়োজন তখন -\n\n(ক) কোন দলিলপত্র অথবা নথিপত্র, যাহা যুগ্ম কমিশনার কোন তদন্ত বা অডিটের জন্য আবশ্যক বা প্রাসঙ্গিক বলিয়া মনে করেন, তাহা একজন কাস্টমস কর্মকর্তার পরিদর্শনের জন্য উপস্থাপন করিতে;\n\n(খ) উক্ত দলিলপত্র অথবা রেকর্ডপত্রের কপি বা অংশ বিশেষের উদ্ধৃতি নেওয়ার জন্য কাস্টমস কর্মকর্তাকে অনুমতি দিতে, এবং\n\n(গ) কোন পণ্য সম্পর্কিত অথবা উক্ত তদন্তাধীন পণ্যের বিনিময় সম্পর্কিত অথবা উক্ত তদন্তের সাথে সংশ্লিষ্ট দলিলপত্র বা রেকর্ডপত্র সম্পর্কিত বিষয় সকল প্রশ্নের উত্তর দেওয়ার জন্য যুগ্ম কমিশনারের সম্মুখে উপস্থিত হইতে বাধ্য করিতে পারিবেন।",
+      "entity_concepts": {
+        "Customs Authority": [
+          "A customs official not below the rank of Joint Commissioner is granted the authority to issue notices requiring the production of documents or the attendance of individuals for the purpose of investigations or audits. This power extends to requesting information from government departments, corporations, local authorities, or banks."
+        ],
+        "Customs Investigation and Audit": [
+          "Authorized customs officials may compel the production of relevant records and documents necessary for conducting an official inquiry. These officials are further empowered to take extracts or copies of such documents and require individuals to answer questions regarding goods or matters relevant to the ongoing investigation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_39",
+      "entity_sub_entities": {
+        "Customs Authority": [
+          "customs official",
+          "Joint Commissioner",
+          "notices",
+          "documents",
+          "individuals",
+          "government departments",
+          "corporations",
+          "local authorities",
+          "banks"
+        ],
+        "Customs Investigation and Audit": [
+          "customs officials",
+          "records",
+          "documents",
+          "extracts",
+          "copies",
+          "individuals",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        59,
+        87,
+        131,
+        236,
+        262,
+        318,
+        783,
+        816,
+        1341,
+        1663,
+        2123,
+        3686,
+        3744
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_36",
+      "clause_title": "কাস্টমস কর্মকর্তা দলিলপত্র এবং রেকর্ডপত্র দখলে নিতে এবং তত্ত্বাবধানে রাখিতে পারিবেন",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_36",
+      "resolved_text": "২৬খ। কাস্টমস কর্মকর্তা দলিলপত্র এবং রেকর্ডপত্র দখলে নিতে এবং তত্ত্বাবধানে রাখিতে পারিবেন।— (১) একজন কাস্টমস কর্মকর্তা কোন এন্ট্রি প্রসঙ্গে উপস্থাপিত অথবা এই আইনের অধীন আবশ্যকতার কারণে দাখিলকৃত কোন দলিলপত্র অথবা রেকর্ডপত্র দখলে নিতে এবং তত্ত্বাবধানে রাখিতে পারিবেন।\n\n(২) যে ক্ষেত্রে একজন কাস্টমস কর্মকর্তা এই ধারার উপধারা (১) এর অধীন কোন দলিল বা রেকর্ড দখলে নেন সেই ক্ষেত্রে উক্ত দলিল বা রেকর্ডর স্বত্ব সংরক্ষণ করেন এমন ব্যক্তির অনুরোধক্রমে উক্ত কর্মকর্তা তৎকর্তৃক অথবা তাহার পক্ষে প্রত্যায়িত দলিলের কাস্টমস সিলযুক্ত একটি কপি ট্রুকপি হিসাবে সেই ব্যক্তিকে প্রদান করিবেন।\n\n(৩) উক্তরূপ প্রত্যায়িত প্রতিটি কপি সকল আদালতে সাক্ষ্য হিসাবে গ্রহণযোগ্য হইবে, যেন উহাই মূল কপি।",
+      "entity_concepts": {
+        "Appropriate Officer of Customs": [
+          "The officer has the authority to take into possession and maintain custody of any documents or records presented or submitted under the requirements of the Customs Act 1969.",
+          "Upon the request of the individual who holds the title to the seized documents or records, the officer must provide a certified true copy of the documents, bearing the customs seal."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal basis for customs officers to seize and keep records related to entries or other statutory requirements.",
+          "Documents certified by a customs officer as true copies under this Act are admissible as evidence in all courts with the same legal effect as the original."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_40",
+      "entity_sub_entities": {
+        "Appropriate Officer of Customs": [
+          "documents",
+          "records",
+          "certified true copy",
+          "customs seal"
+        ],
+        "Customs Act 1969": [
+          "records",
+          "entries",
+          "documents",
+          "true copies"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        17,
+        59,
+        131,
+        367,
+        1171,
+        3768,
+        13031
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_37",
+      "clause_title": "তল্লাশিকালে প্রাপ্ত দলিলপত্রের অনুলিপি করা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_37",
+      "resolved_text": "২৬গ। তল্লাশিকালে প্রাপ্ত দলিলপত্রের অনুলিপি করা।— (১) এই আইনের অধীন যেক্ষেত্রে একজন কাস্টমস কর্মকর্তা অথবা ক্ষমতাপ্রাপ্ত ব্যক্তি কোন আইনানুগ তল্লাশী, পরিদর্শন, অডিট অথবা পরীক্ষা পরিচালনা করেন এবং যুক্তিসঙ্গত কারণে তাহার বিশ্বাস হয় যে উক্ত তল্লাশী, পরিদর্শন, অডিট অথবা পরীক্ষাকালে হস্তগত হওয়া দলিলপত্র এই আইনের অধীন সংঘটিত কোন অপরাধের সাক্ষ্য হইবে সেই ক্ষেত্রে তিনি উক্ত দলিলপত্র কপি করার উদ্দেশ্যে অপসারণ করিতে পারিবেন।\n\n(২) এই ভাবে অপসারিত দলিলপত্র অথবা নথিপত্র যথাতাড়াতাড়ি সম্ভব অনুলিপি করিয়া অবশ্যই উহা পাওয়ার অধিকারী ব্যক্তির নিকট ফেরত প্রদান করিতে হইবে।\n\n(৩) কাস্টমস কর্মকর্তা কর্তৃক অথবা তাহার পক্ষে প্রত্যায়িত কাস্টমস সিলযুক্ত উক্ত দলিলপত্রের কোন অনুলিপি সকল আদালতে সাক্ষ্য হিসাবে গ্রহণীয় হইবে, যেন উহাই মূল কপি।",
+      "entity_concepts": {
+        "Customs Officer": [
+          "A customs officer or an authorized person is empowered to remove documents found during a lawful search, inspection, audit, or examination if there is reasonable belief that such documents constitute evidence of an offence under the Customs Act 1969.",
+          "Documents removed by a customs officer for the purpose of copying must be returned to the person entitled to them as soon as possible after the copies are made."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal authority for customs officials to conduct searches and seize evidentiary documents.",
+          "The Act establishes that certified copies of documents, bearing the official customs seal, are admissible as evidence in all courts with the same legal standing as the original documents."
+        ],
+        "Documentary Evidence": [
+          "Documents identified as evidence of a customs-related offence may be legally seized for copying purposes during an authorized audit or search process.",
+          "Copies of documents that are certified by a customs officer or on their behalf and bear the customs seal are considered legally admissible in court, equivalent to the original records."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_41",
+      "entity_sub_entities": {
+        "Customs Officer": [
+          "customs officer",
+          "authorized person",
+          "documents"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "certified copies of documents",
+          "official customs seal",
+          "original documents"
+        ],
+        "Documentary Evidence": [
+          "documents",
+          "copies of documents",
+          "customs officer",
+          "customs seal",
+          "original records"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        49,
+        59,
+        423,
+        683,
+        1426,
+        3768,
+        4435,
+        6284,
+        6718,
+        10419
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_38",
+      "clause_title": "তল্লাশিকালে প্রাপ্ত দলিলপত্র এবং পণ্যের কর্তৃত্ব গ্রহণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_38",
+      "resolved_text": "২৬ঘ। তল্লাশিকালে প্রাপ্ত দলিলপত্র এবং পণ্যের কর্তৃত্ব গ্রহণ।— এই আইনের অধীন যে ক্ষেত্রে একজন কাস্টমস কর্মকর্তা অথবা ক্ষমতাপ্রাপ্ত ব্যক্তি কোন আইনানুগ তল্লাশী, পরিদর্শন, অডিট অথবা পরীক্ষা পরিচালনা করেন এবং যুক্তিসঙ্গত কারণে তাহার বিশ্বাস জন্ম যে উক্ত তল্লাশী, পরিদর্শন, অডিট অথবা পরীক্ষাকালে তাহার হস্তগত হওয়া দলিলপত্র ও পণ্য এই আইনের অধীন সংঘটিত কোন অপরাধের সাক্ষ্য হইবে অথবা এই আইনের অধীন কোন অপরাধ সংঘটনের উদ্দেশ্যে ব্যবহৃত হইবে সেক্ষেত্রে উক্ত কর্মকর্তা অথবা তাহার ক্ষমতাপ্রাপ্ত ব্যক্তি দলিলপত্রের বা, ক্ষেত্রমত, পণ্যের কর্তৃত্ব গ্রহণ এবং সংরক্ষণ করিতে পারিবেন।\n\n(২) যে ক্ষেত্রে কোন কাস্টমস কর্মকর্তা অথবা তাহার ক্ষমতাপ্রাপ্ত ব্যক্তি এই ধারার উপধারা (১) এর অধীন কোন দলিলের কর্তৃত্ব গ্রহণ করেন, সেই ক্ষেত্রে সেই দলিলের স্বত্ব সংরক্ষণ করেন এমন ব্যক্তির অনুরোধক্রমে তিনি তৎকর্তৃক অথবা তাহার পক্ষে প্রত্যায়িত উহার কাস্টমস সিলযুক্ত একটি কপি ট্রুকপি হিসাবে সেই ব্যক্তিকে প্রদান করিবেন।\n\n(৩) উক্তরূপ প্রত্যায়িত প্রতিটি কপি সকল আদালতে সাক্ষ্য হিসাবে গ্রহণীয় হইবে, যেন উহাই মূল কপি।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Act provides the legal authority for authorized customs officers to seize and store documents and goods during lawful searches, inspections, audits, or examinations when they have reason to believe such items serve as evidence of an offence or were intended for use in committing an offence.",
+          "The Act ensures that certified true copies of seized documents provided to the owner are admissible as evidence in all courts with the same legal status as the original copies."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer or an authorized person is empowered to seize and preserve documents and goods when they are suspected to be evidence or instruments of a customs offence during official duties.",
+          "Upon the request of the owner, the officer must provide a certified, customs-sealed true copy of any seized document."
+        ],
+        "Customs Seizure and Evidence": [
+          "Goods and documents obtained during official customs operations can be taken into custody if they are considered relevant to an investigation under the law.",
+          "Certified copies of seized documents are legally recognized as equivalent to original documents for judicial proceedings."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_42",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "documents",
+          "goods",
+          "certified true copies"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "authorized person",
+          "documents",
+          "goods",
+          "certified, customs-sealed true copy"
+        ],
+        "Customs Seizure and Evidence": [
+          "goods",
+          "documents",
+          "certified copies"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        17,
+        59,
+        69,
+        683,
+        1989,
+        2541,
+        3591,
+        6299
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_107",
+      "clause_title": "Audit or examination of records",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_107",
+      "resolved_text": "83C. Audit or examination of records.- (1) An officer of Customs may at any time enter any premises or place where records are kept pursuant to section 211 of this Act and audit and examine those records either in relation to specific transactions or to the adequacy or integrity of the manual or electronic system or systems by which such records are created and stored.\n(2) For the purposes of sub-section (1) of this section, an officer of Custom shall have full and free access to all lands, buildings and places and to all books, records and documents, whether in the custody or under the control of the licensee, importer, exporter or any other person, for the purpose of inspecting any books, records, and documents and any property, process, or matter that the officer considers.-\n(a) necessary or relevant for the purpose of collecting any duty under the Act or for the purpose of carrying out any other function lawfully conferred on the officer, or\n(b) likely to provide any information otherwise required for the purposes of this Act or for the discharge of any functions under this Act.\n(3) The officer of Customs may make extracts from or copies of any such books, documents or records.\n(4) Notwithstanding sub-section (2) and (3) of this section, an officer of Customs shall not enter any private dwelling except with the consent of an occupier or owner thereof or pursuant to a warrant issued under this Act.]",
+      "entity_concepts": {
+        "Customs Officer": [
+          "A Customs Officer is authorized to enter premises where records are kept to audit and examine them in relation to specific transactions or the integrity of the systems used to store them.",
+          "A Customs Officer has the power to access lands, buildings, places, books, and documents held by any person to collect duty or perform functions under the Act, including making copies or extracts of such documents.",
+          "A Customs Officer is restricted from entering a private dwelling without the consent of the owner or occupier, or unless they have obtained a warrant issued under the Act."
+        ],
+        "Customs Records Retention": [
+          "Records that are required to be kept under the Act are subject to audit and examination by an officer of Customs at any time."
+        ],
+        "Licensee": [
+          "A licensee must grant the officer of Customs full and free access to their books, records, documents, and premises for the purpose of an audit or examination."
+        ],
+        "Importer": [
+          "An importer must provide the officer of Customs with full and free access to their books, records, and documents to facilitate the audit and examination process as required by the Act."
+        ],
+        "Exporter": [
+          "An exporter is subject to the authority of a Customs Officer who may examine their records and premises to ensure compliance with duty collection and other legal functions."
+        ],
+        "Search Warrant": [
+          "A warrant is required if a Customs Officer intends to enter a private dwelling for the purposes of audit or examination without the consent of the occupant or owner."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_434",
+      "entity_sub_entities": {
+        "Customs Officer": [
+          "premises",
+          "records",
+          "transactions",
+          "systems",
+          "lands",
+          "buildings",
+          "places",
+          "books",
+          "documents",
+          "duty",
+          "private dwelling",
+          "warrant"
+        ],
+        "Customs Records Retention": [
+          "records"
+        ],
+        "Licensee": [
+          "books",
+          "records",
+          "documents",
+          "premises"
+        ],
+        "Importer": [
+          "books",
+          "records",
+          "documents"
+        ],
+        "Exporter": [
+          "records",
+          "premises"
+        ],
+        "Search Warrant": [
+          "warrant",
+          "private dwelling"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        49,
+        59,
+        77,
+        109,
+        131,
+        190,
+        305,
+        384,
+        1273,
+        1493,
+        1563,
+        1820,
+        1987,
+        2278,
+        4578,
+        9381,
+        10705
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_35",
+      "clause_title": "Further powers in relation to documents",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_35",
+      "resolved_text": "26A. Further powers in relation to documents.- An officer of Customs not below the rank of Joint Commissioner may, by notice in writing, require any person (including any officer employed in or in connection with any Government department, Corporation, or local authority, or any officer employed in or in connection with any bank), as and when required to-\n(a) produce for inspection by an officer of Customs any documents or records that the Joint Commissioner considers necessary or relevant to an investigation or audit under this Act;\n(b) allow the officer of Customs to make copies of or extracts from any such documents or records;\n(c) appear before the Joint Commissioner of Customs and answer all questions put to him concerning any goods or any transactions relating to those goods that are the subject of any such investigation, or concerning the documents or records that are relevant to any such investigation.",
+      "entity_concepts": {
+        "Joint Commissioner of Customs": [
+          "The Joint Commissioner of Customs is empowered to issue written notices requiring any person, including government or bank officials, to produce documents or records for customs inspection. They are further authorized to compel persons to appear before them to answer questions regarding goods, transactions, or relevant records during an investigation or audit."
+        ],
+        "Officer of Customs": [
+          "An officer of Customs not below the rank of Joint Commissioner has the authority to examine documents or records produced under notice. Additionally, they are permitted to make copies of or take extracts from any such documents or records provided for inspection."
+        ],
+        "Person": [
+          "Any individual, including officers employed by government departments, corporations, local authorities, or banks, is legally obligated to comply with a written notice to produce documents or records for inspection. Such individuals may also be required to appear before the Joint Commissioner of Customs to provide testimony regarding goods or transactions subject to a customs investigation."
+        ],
+        "Customs Documentation and Records": [
+          "Documents and records deemed necessary for a customs investigation or audit must be produced for inspection upon request by a qualified Customs official. These materials are subject to being copied or extracted by the customs officer to facilitate official oversight."
+        ],
+        "Customs Investigation and Audit": [
+          "The Joint Commissioner of Customs possesses broad authority to request information and documentation when deemed relevant to an investigation or audit conducted under the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_362",
+      "entity_sub_entities": {
+        "Joint Commissioner of Customs": [
+          "written notices",
+          "documents",
+          "records",
+          "goods",
+          "transactions"
+        ],
+        "Officer of Customs": [
+          "documents",
+          "records",
+          "copies",
+          "extracts"
+        ],
+        "Person": [
+          "individual",
+          "officers",
+          "government departments",
+          "corporations",
+          "local authorities",
+          "banks",
+          "written notice",
+          "documents",
+          "records",
+          "goods",
+          "transactions"
+        ],
+        "Customs Documentation and Records": [
+          "documents",
+          "records"
+        ],
+        "Customs Investigation and Audit": [
+          "information",
+          "documentation",
+          "Customs Act 1969"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        59,
+        63,
+        70,
+        97,
+        131,
+        148,
+        273,
+        539,
+        650,
+        710,
+        816,
+        1341,
+        1493,
+        1663,
+        1822,
+        2123,
+        3686,
+        3744
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_36",
+      "clause_title": "A Customs officer may take possession of and retain documents and records",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_36",
+      "resolved_text": "26B. A Customs officer may take possession of and retain documents and records.- (1) A Customs officer may take possession of and retain any document or record presented in connection with any entry or required to be produced under this Act.\n(2) Where the Customs officer takes possession of a document or record under sub-section (1) of this section, the said officer shall, at the request of the person otherwise entitled to the document or record, provide that person with a copy of the document certified by him or on his behalf under the seal of the Customs as a true copy.\n(3) Every copy so certified shall be admissible as evidence in all Courts as if it were the original.",
+      "entity_concepts": {
+        "Customs Officer": [
+          "A Customs officer is granted the authority to take possession of and retain any documents or records presented during the entry process or required to be produced under the Customs Act.",
+          "When a Customs officer retains such documents, they are required to provide a certified copy to the person entitled to the original if requested."
+        ],
+        "Customs Documentation and Records": [
+          "These items may be seized and retained by customs authorities during the course of official proceedings.",
+          "Certified copies of retained documents, when issued under the official customs seal, are considered legally admissible as evidence in all courts with the same weight as the original documents."
+        ],
+        "Person": [
+          "A person who is entitled to a document or record taken into possession by a customs officer has the right to request and receive a certified true copy of that document."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_363",
+      "entity_sub_entities": {
+        "Customs Officer": [
+          "Customs officer",
+          "documents",
+          "records",
+          "certified copy"
+        ],
+        "Customs Documentation and Records": [
+          "documents",
+          "records",
+          "certified copies",
+          "official customs seal",
+          "original documents"
+        ],
+        "Person": [
+          "person",
+          "document",
+          "record",
+          "certified true copy"
+        ]
+      },
+      "clause_clusters": [
+        49,
+        59,
+        70,
+        131,
+        251,
+        1020,
+        1171,
+        1426,
+        2541,
+        2979,
+        4435
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_37",
+      "clause_title": "Copying of documents obtained during search",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_37",
+      "resolved_text": "26C. Copying of documents obtained during search.- (1) Where an officer of Customs or an authorized person carries out any lawful search, inspection, audit, or examination under this Act, and has reasonable cause to believe that documents coming into his possession during such search, inspection, audit, or examination are evidence of the commission of an offence under this Act, he may remove the documents for the purpose of making copies.\n(2) The documents or records so removed must, as soon as practicable after copies thereof have been made, be returned to the person otherwise entitled to them.",
+      "entity_concepts": {
+        "Customs Documents": [
+          "Officers of Customs or authorized persons have the authority to remove documents obtained during a lawful search, inspection, audit, or examination if they possess reasonable cause to believe such documents constitute evidence of a customs offence.",
+          "Any documents or records removed for the purpose of making copies must be returned to the person entitled to them as soon as is practicable after the reproduction process is complete."
+        ],
+        "Customs Offence": [
+          "The power to remove and copy documents is strictly linked to the discovery of evidence indicating that an offence has been committed under the Customs Act 1969."
+        ],
+        "Officer of Customs": [
+          "An officer of Customs is granted the authority to remove and copy documents gathered during official investigative processes when such documents are deemed necessary as evidence."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_364",
+      "entity_sub_entities": {
+        "Customs Documents": [
+          "documents",
+          "records",
+          "copies"
+        ],
+        "Customs Offence": [
+          "evidence",
+          "Customs Act 1969"
+        ],
+        "Officer of Customs": [
+          "officer of Customs",
+          "documents"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        59,
+        97,
+        131,
+        301,
+        404,
+        764,
+        816
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_38",
+      "clause_title": "Retention of documents and goods obtained during search",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_38",
+      "resolved_text": "26D. Retention of documents and goods obtained during search.- Where an officer of Customs or an authorized person carries out any lawful search, inspection, audit, or examination under this Act, and has reasonable cause to believe that any document or goods coming into his possession during such search, inspection, audit, or examination are evidence of the commission of an offence under this Act, or are intended to be used for the purpose of committing any offence under this Act, the officer or his authorized person may take possession of and retain the documents or goods, as the case may be.\n(2) Where an officer of Customs or his authorized person takes possession of a document under sub-section (1) of this section, he shall, at the request of the person otherwise entitled to the document, provide that person with a copy of the document certified by or on behalf of the Custom officer under the seal of the Customs as a true copy.\n(3) Every copy so certified shall be admissible in evidence in Courts as if it were the original.]",
+      "entity_concepts": {
+        "Officer of Customs": [
+          "Officers are authorized to take possession of and retain documents or goods seized during a search, inspection, audit, or examination if they have reasonable cause to believe such items constitute evidence of a customs offence or are intended to be used in the commission of one.",
+          "When an officer seizes a document, they are required to provide a certified copy to the person entitled to it upon request, with such copies being admissible in court as originals."
+        ],
+        "Customs Records Retention": [
+          "This provision allows for the legal seizure and holding of goods and documentation encountered during official customs checks when such items are linked to the commission of an offence under the Customs Act."
+        ],
+        "Customs Seizure and Evidence": [
+          "Documents seized by customs officers can be copied and certified under official seal, and these certified copies hold the same legal status and admissibility as the original documents in court proceedings."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_365",
+      "entity_sub_entities": {
+        "Officer of Customs": [
+          "documents",
+          "goods",
+          "certified copy"
+        ],
+        "Customs Records Retention": [
+          "goods",
+          "documentation"
+        ],
+        "Customs Seizure and Evidence": [
+          "documents",
+          "certified copies",
+          "original documents"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        59,
+        63,
+        97,
+        1020,
+        1426,
+        1987,
+        1989,
+        2541
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,858 @@
+{
+  "cluster_id": 1,
+  "cluster_label": "goods",
+  "thread_index": 4,
+  "thread_id": "cluster_00001_t4",
+  "title": "Advance Ruling System",
+  "summary": "This thread tracks the establishment and operationalization of the Advance Ruling system for customs classification.",
+  "evolution": {
+    "procedure": "Formalized the application process, fee structure, and the legal weight of advance rulings."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "Advance Ruling Rules",
+      "change": "Initial establishment of the Advance Ruling Unit and scope.",
+      "clause_ids": [
+        "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_10",
+        "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_13",
+        "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_2",
+        "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_5"
+      ]
+    },
+    {
+      "date": "2016-06-05",
+      "instrument": "Advance Ruling Rules",
+      "change": "Procedural details for application submission and ruling issuance.",
+      "clause_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_7",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 8,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "অগ্রিম রুলিং জারী করা হইবে না এমন ক্ষেত্র",
+      "text_id": "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_10",
+      "resolved_text": "১০। অগ্রিম রুলিং জারী করা হইবে না এমন ক্ষেত্র।— (১) নিম্নবর্ণিত ক্ষেত্রসমূহে অগ্রিম রুলিং ইউনিট কোনরূপ অগ্রিম রুলিং জারী করিবে না, যথা:-\n(ক) আবেদনে উল্লিখিত বিষয়টি কোন সরকারি সংস্থা, আদালত বা ট্রাইব্যুনালের নিকট বিবেচনাধীন বা বিচারাধীন থাকিলে;\n(খ) আবেদনে উল্লিখিত বিষয়ে ইতোমধ্যে আদালত বা ট্রাইব্যুনাল সিদ্ধান্ত প্রদান করিলে; এবং\n(গ) যে ক্ষেত্রে সকল বস্তুগত ঘটনা (material facts) যথাযথভাবে নিরূপণ করা সম্ভব নয়।\n(২) অগ্রিম রুলিং ইউনিট কর্তৃক কোন আবেদন প্রত্যাখ্যান করা হইলে, প্রত্যাখ্যানের ভিত্তি (ground) পরিবর্তন না হওয়া পর্যন্ত একই ব্যক্তি একই পণ্য বা আইটেম সম্পর্কে নূতন করিয়া আবেদন করিতে পারিবেন না।",
+      "entity_concepts": {
+        "Advance Ruling Unit": [
+          "The Advance Ruling Unit is restricted from issuing advance rulings in specific circumstances including when the matter is currently pending before a government agency, court, or tribunal.",
+          "The unit shall not issue rulings on matters where a court or tribunal has already reached a decision.",
+          "The unit is prohibited from issuing rulings when the material facts of the application cannot be adequately determined.",
+          "When an application is rejected by the Advance Ruling Unit, the applicant cannot file a new application for the same goods or items unless the grounds for the initial rejection have changed."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1689",
+      "entity_sub_entities": {
+        "Advance Ruling Unit": [
+          "advance rulings",
+          "government agency",
+          "court",
+          "tribunal",
+          "material facts",
+          "application",
+          "goods",
+          "items"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        58,
+        117,
+        125,
+        254,
+        708,
+        835,
+        1126,
+        2852
+      ],
+      "source_file": "customs_sros_OCR/20160602_188-AIN_2016_37-Customs/20160602_188-AIN_2016_37-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "অগ্রিম রুলিং সংশোধন অথবা রদ বা বাতিল",
+      "text_id": "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_13",
+      "resolved_text": "১৩। অগ্রিম রুলিং সংশোধন অথবা রদ বা বাতিল।— (১) অগ্রিম রুলিং ইউনিট নিম্নবর্ণিত পরিস্থিতিতে কোন রুলিং যে কোন সময় সংশোধন করিতে পারিবে, যথা:-\n(ক) প্রাসঙ্গিক আইন বা বিধি সংশোধিত হওয়ায় সংশোধিত আইন বা বিধির ব্যাখ্যার (interpretation) সাথে উক্ত অগ্রিম রুলিং আর সামঞ্জস্যপূর্ণ নয়;\n(খ) অগ্রিম রুলিং যেই প্রেক্ষিতে (views) ভিত্তিতে প্রদান করা হইয়াছে উহা পরিবর্তিত হইলে;\n(গ) একই পণ্যের ক্ষেত্রে ভিন্নরূপ (conflicting) রুলিং প্রদান করা হইলে; এবং\n(ঘ) অগ্রিম রুলিং ইউনিট অগ্রিম রুলিং এর কোন ভুল বা ত্রুটি চিহ্নিত করিলে অথবা কোন কাস্টমস স্টেশন বা রুলিংধারী রুলিং এর কোন ভুল বা ত্রুটি উক্ত ইউনিটের নজরে আনিলে。\n(২) রুলিংধারী ইচ্ছাকৃতভাবে অসম্পূর্ণ, অসত্য বা বিভ্রান্তিকর তথ্য প্রদান করিয়া অথবা প্রাসঙ্গিক তথ্য গোপন করিয়া অগ্রিম রুলিং গ্রহণ করিলে অগ্রিম রুলিং ইউনিট যে কোন সময়ে উহা রদ বা বাতিল করিতে পারিবে।\n(৩) অসম্পূর্ণ, অসত্য বা বিভ্রান্তিকর তথ্যের ভিত্তিতে অগ্রিম রুলিং গ্রহণ করা হইলে, রুলিং ভূতাপেক্ষভাবে সংশোধন, রদ বা বাতিল করা যাইবে এবং অগ্রিম রুলিং জারীর তারিখ হইতে উহা সংশোধন, রদ বা বাতিলের তারিখের মধ্যে কোন পণ্য আমদানি বা রপ্তানির ক্ষেত্রে কোন সুবিধা গ্রহণ করিয়া থাকিলে উহা আদায় করা যাইবে।\n(৪) অগ্রিম রুলিং এর কোন ভুল বা ত্রুটি শুল্কায়ন কার্যক্রম চলমান অবস্থায় কোন কাস্টমস স্টেশন কর্তৃক চিহ্নিত হইলে, অগ্রিম রুলিং এর আলোকে আইনের ধারা ৮১ এর অধীন রাজস্ব সুরক্ষাসহ প্রয়োজনীয় কার্যক্রম গ্রহণ করতঃ সংশ্লিষ্ট কাস্টমস স্টেশন অনতিবিলম্বে বিষয়টি অগ্রিম রুলিং ইউনিটের গোচরীভূত করিবে।\n(৫) রুলিংধারীর কোন কার্যক্রমের জন্য উপ-বিধি (২) এর অধীন অগ্রিম রুলিং রদ বা বাতিল করা হইলে, উক্ত কার্যক্রমকে আইনের ধারা ৩২ এর অধীন কৃত অপরাধ হিসাবে গণ্য করিয়া প্রয়োজনীয় আইনানুগ ব্যবস্থা গ্রহণ করা যাইবে।\n(৬) অগ্রিম রুলিং সংশোধন, রদ বা বাতিলের পূর্বে রুলিংধারীকে বিষয়টি অবহিত করিতে হইবে এবং রুলিংধারী ইচ্ছা প্রকাশ করিলে তাহাকে ব্যক্তিগত শুনানির সুযোগ প্রদান করা যাইবে।\n(৭) অগ্রিম রুলিং সংশোধন, রদ বা বাতিল করা হইলে উক্ত সংশোধন, রদ বা বাতিল আদেশের বিরুদ্ধে উহা অবহিত হইবার ৬০ (ষাট) কার্যদিবসের মধ্যে বিধি ১৪ এর অধীন অগ্রিম রুলিং ইউনিটের নিকট রিভিউ আবেদন দাখিল করা যাইবে মর্মে উক্ত আদেশে উল্লেখ থাকিতে হইবে।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "The Advance Ruling Unit may amend an advance ruling if it becomes inconsistent with amended laws or rules, if the underlying circumstances change, if conflicting rulings are issued for the same goods, or if errors are identified by the unit or brought to its notice by a customs station or the ruling holder.",
+          "An advance ruling may be cancelled or revoked at any time if the ruling holder obtained it through the provision of incomplete, false, or misleading information, or by withholding relevant facts.",
+          "If a ruling is obtained through incorrect information, it can be cancelled retrospectively, and any customs benefits obtained based on the ruling between its issuance and revocation may be recovered.",
+          "The Advance Ruling Unit must notify the ruling holder before amending or cancelling a ruling, and must provide an opportunity for a personal hearing if requested.",
+          "An order to amend or cancel an advance ruling must include a provision stating that the ruling holder may file a review application with the Advance Ruling Unit within a specified period of working days from notification, as per the established rules."
+        ],
+        "Advance Ruling Unit": [
+          "This authority is responsible for the administration, amendment, cancellation, and review of advance rulings in accordance with the specified legal conditions.",
+          "The unit is tasked with receiving reports from customs stations regarding errors in rulings detected during ongoing clearance processes and taking necessary actions to ensure revenue protection."
+        ],
+        "Customs Station": [
+          "Customs stations are required to report identified errors in advance rulings to the Advance Ruling Unit immediately while ensuring revenue protection under Section 81 of the Customs Act during the assessment process."
+        ],
+        "Customs Act 1969": [
+          "The act provides the legal framework for revenue protection (Section 81) and defines penalties for offences, including actions resulting in the revocation of an advance ruling (Section 32), which may be invoked against a ruling holder for providing misleading information."
+        ],
+        "Ruling Holder": [
+          "A ruling holder is subject to potential penalties and legal action if a ruling is revoked due to the submission of fraudulent or incomplete information, treated as an offence under the Customs Act.",
+          "The ruling holder holds the right to be notified of any amendment or cancellation of their ruling and may request a personal hearing before such action is finalized."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1692",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "advance ruling",
+          "amended laws",
+          "rules",
+          "goods",
+          "customs station",
+          "ruling holder",
+          "incomplete information",
+          "false information",
+          "misleading information",
+          "relevant facts",
+          "customs benefits",
+          "personal hearing",
+          "order",
+          "review application",
+          "working days"
+        ],
+        "Advance Ruling Unit": [
+          "Advance Ruling Unit",
+          "advance rulings",
+          "customs stations",
+          "reports",
+          "revenue protection"
+        ],
+        "Customs Station": [
+          "customs stations",
+          "advance rulings",
+          "Advance Ruling Unit",
+          "revenue protection",
+          "Section 81 of the Customs Act",
+          "assessment process"
+        ],
+        "Customs Act 1969": [
+          "revenue protection",
+          "Section 81",
+          "penalties",
+          "offences",
+          "revocation",
+          "advance ruling",
+          "Section 32",
+          "ruling holder",
+          "misleading information"
+        ],
+        "Ruling Holder": [
+          "ruling holder",
+          "penalties",
+          "legal action",
+          "ruling",
+          "fraudulent information",
+          "incomplete information",
+          "offence",
+          "Customs Act",
+          "amendment",
+          "cancellation",
+          "personal hearing"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        25,
+        29,
+        37,
+        46,
+        53,
+        103,
+        118,
+        125,
+        254,
+        274,
+        375,
+        381,
+        403,
+        607,
+        714,
+        756,
+        796,
+        1110,
+        1203,
+        1454,
+        1545,
+        1700,
+        1757,
+        2096,
+        2137,
+        2231,
+        2252,
+        5471,
+        6850,
+        8334,
+        11406,
+        11997
+      ],
+      "source_file": "customs_sros_OCR/20160602_188-AIN_2016_37-Customs/20160602_188-AIN_2016_37-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়—\n(ক) \"অগ্রিম রুলিং (advance ruling)\" অর্থ বিধি ৯ এর উপ-বিধি (২) এর অধীন জারীকৃত অগ্রিম রুলিং;\n(খ) \"অগ্রিম রুলিং ইউনিট (advance ruling unit)\" অর্থ বিধি ৪ এর অধীন গঠিত অগ্রিম রুলিং ইউনিট;\n(গ) \"অভিন্ন পণ্য (Identical goods)\" অর্থ এইরূপ পণ্য, যাহা-\n(১) শ্রেণিবিন্যাস নির্ধারণের জন্য প্রক্রিয়াধীন পণ্যের দৈহিক বৈশিষ্ট্য, মান ও খ্যাতিসহ সর্বক্ষেত্রে পণ্যের শ্রেণিবিন্যাস প্রভাবিত করে না এইরূপ বাহ্যিক সামান্য পার্থক্য ব্যতীত, একইরূপ; এবং\n(২) শ্রেণিবিন্যাস নির্ধারণের জন্য প্রক্রিয়াধীন পণ্য যে দেশে উৎপাদিত, সেই দেশে উৎপাদিত;\n(ঘ) \"আইন\" অর্থ Customs Act, 1969 (Act No. IV of 1969);\n(ঙ) \"আবেদন\" অর্থ বিধি ৭ এর অধীন দাখিলকৃত কোন আবেদন;\n(চ) \"আবেদনকারী\" অর্থ অগ্রিম রুলিং চাহিয়া বোর্ডের নিকট আবেদনকারী কোন ব্যক্তি;\n(ছ) \"ট্রাইব্যুনাল\" অর্থ আইনের section 196 এর অধীন গঠিত Appellate Tribunal (Customs, Excise and মূল্য সংযোজন কর Appellate Tribunal);\n(জ) \"পণ্যের শ্রেণিবিন্যাস\" অর্থ World Customs Organization কর্তৃক নির্ধারিত Harmonized Commodity Description and Coding System অনুযায়ী নিরূপিত কোন পণ্যের শ্রেণিবিন্যাস;\n(ঝ) \"ফরম\" অর্থ এই বিধিমালার ফরম;\n(ঞ) \"বোর্ড\" অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ট) \"ব্যক্তি\" অর্থ আইন এর section 2(pp) তে সংজ্ঞায়িত person;\n(ঠ) \"রুলিংধারী (ruling holder)\" অর্থ কোন ব্যক্তি যাহার অনুকূলে কোন অগ্রিম রুলিং জারী করা হইয়াছে।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "This term refers to a ruling issued under the specific sub-rule of these regulations."
+        ],
+        "Advance Ruling Unit": [
+          "This term refers to the unit established under the specific rule governing its formation."
+        ],
+        "Identical Goods": [
+          "These are goods that are the same in physical characteristics, quality, and reputation, produced in the same country, allowing for minor external differences that do not affect their classification."
+        ],
+        "Customs Act 1969": [
+          "This is the parent legislation defined as the Act for the purposes of these regulations."
+        ],
+        "Application": [
+          "This refers to any application submitted under the prescribed rule of these regulations."
+        ],
+        "Applicant": [
+          "This refers to a person who submits an application for an advance ruling to the Board."
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "This entity is defined as the tribunal constituted under section 196 of the Customs Act."
+        ],
+        "Classification of Goods": [
+          "This refers to the classification determined according to the Harmonized Commodity Description and Coding System established by the World Customs Organization."
+        ],
+        "Form": [
+          "This refers to the forms prescribed within these regulations."
+        ],
+        "National Board of Revenue": [
+          "This is the Board constituted under the National Board of Revenue Order, 1972."
+        ],
+        "Person": [
+          "This is defined in accordance with the definition provided in section 2(pp) of the Customs Act."
+        ],
+        "Ruling Holder": [
+          "This refers to any person in whose favor an advance ruling has been issued."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1681",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "ruling"
+        ],
+        "Advance Ruling Unit": [
+          "unit"
+        ],
+        "Identical Goods": [
+          "goods"
+        ],
+        "Customs Act 1969": [
+          "Act"
+        ],
+        "Application": [
+          "application"
+        ],
+        "Applicant": [
+          "person",
+          "application",
+          "advance ruling",
+          "Board"
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "tribunal",
+          "section 196",
+          "Customs Act"
+        ],
+        "Classification of Goods": [
+          "Harmonized Commodity Description and Coding System",
+          "World Customs Organization"
+        ],
+        "Form": [
+          "forms"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "National Board of Revenue Order, 1972"
+        ],
+        "Person": [
+          "section 2(pp)",
+          "Customs Act"
+        ],
+        "Ruling Holder": [
+          "person",
+          "advance ruling"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        37,
+        58,
+        70,
+        103,
+        104,
+        125,
+        144,
+        246,
+        292,
+        335,
+        450,
+        643,
+        709,
+        796,
+        1126,
+        1418,
+        1810,
+        2074,
+        3058,
+        11964
+      ],
+      "source_file": "customs_sros_OCR/20160602_188-AIN_2016_37-Customs/20160602_188-AIN_2016_37-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অগ্রিম রুলিং ইউনিটের কার্যপরিধি",
+      "text_id": "20160602_188-AIN_2016_37-Customs_২ জুন, ২০১৬_clause_5",
+      "resolved_text": "৫। অগ্রিম রুলিং ইউনিটের কার্যপরিধি।— অগ্রিম রুলিং ইউনিটের কার্যপরিধি হইবে নিম্নরূপ, যথা:\n(ক) কোন পণ্যের শ্রেণিবিন্যাস নিরূপণ;\n(খ) পণ্যের শ্রেণিবিন্যাস সম্পর্কিত কোন বিধান অথবা পদ্ধতিগত কোন পরিবর্তন, যাহা কোন রুলিং এর কার্যকারিতাকে প্রভাবিত করে, উহা সংশ্লিষ্টদের অবহিত করা;\n(গ) অগ্রিম রুলিং এর ব্যবহার অথবা প্রয়োগ সম্পর্কিত ব্যবস্থাপনা ও পরিবীক্ষণ; এবং\n(ঘ) অগ্রিম রুলিং ডাটাবেইজ প্রতিষ্ঠা এবং সর্বসাধারণের ব্যবহারের জন্য উহা সহজলভ্যকরণ।",
+      "entity_concepts": {
+        "Advance Ruling Unit": [
+          "The Advance Ruling Unit is mandated to determine the classification of goods as part of its operational scope.",
+          "The unit is responsible for informing stakeholders about any changes in legal provisions or procedures related to the classification of goods that may impact the validity of issued rulings.",
+          "The unit oversees the management and monitoring of the application and implementation of advance rulings.",
+          "The unit is tasked with establishing an advance ruling database and ensuring it is accessible to the general public."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1684",
+      "entity_sub_entities": {
+        "Advance Ruling Unit": [
+          "goods",
+          "legal provisions",
+          "procedures",
+          "advance rulings",
+          "advance ruling database"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        125,
+        130,
+        150,
+        254,
+        2437
+      ],
+      "source_file": "customs_sros_OCR/20160602_188-AIN_2016_37-Customs/20160602_188-AIN_2016_37-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়—\n(ক) “অগ্রিম রুলিং (advance ruling)” অর্থ বিধি ৯ এর উপ-বিধি (২) এর অধীন জারীকৃত অগ্রিম রুলিং;\n(খ) “অগ্রিম রুলিং ইউনিট (advance ruling unit)” অর্থ বিধি ৪ এর অধীন গঠিত অগ্রিম রুলিং ইউনিট;\n(গ) “অভিন্ন পণ্য (Identical goods)” অর্থ এইরূপ পণ্য, যাহা-\n(১) শ্রেণীবিন্যাস নির্ধারণের জন্য প্রক্রিয়াধীন পণ্যের দৈহিক বৈশিষ্ট্য, মান ও খ্যাতিসহ সর্বক্ষেত্রে পণ্যের শ্রেণীবিন্যাস প্রভাবিত করে না এইরূপ বাহ্যিক সামান্য পার্থক্য ব্যতীত, একইরূপ; এবং\n(২) শ্রেণীবিন্যাস নির্ধারণের জন্য প্রক্রিয়াধীন পণ্য যে দেশে উৎপাদিত, সেই দেশে উৎপাদিত;\n(ঘ) “আইন” অর্থ Customs Act, 1969 (Act No. IV of 1969);\n(ঙ) “আবেদন” অর্থ বিধি ৭ এর অধীন দাখিলকৃত কোন আবেদন;\n(চ) “আবেদনকারী” অর্থ অগ্রিম রুলিং চাহিয়া বোর্ডের নিকট আবেদনকারী কোন ব্যক্তি;\n(ছ) “ট্রাইব্যুনাল” অর্থ আইনের section 196 এর অধীন গঠিত Appellate Tribunal (Customs, Excise and মূল্য সংযোজন কর Appellate Tribunal);\n(জ) “পণ্যের শ্রেণীবিন্যাস” অর্থ World Customs Organization কর্তৃক নির্ধারিত Harmonized Commodity Description and Coding System অনুযায়ী নিরূপিত কোন পণ্যের শ্রেণীবিন্যাস;\n(ঝ) “ফরম” অর্থ এই বিধিমালার ফরম;\n(ঞ) “বোর্ড” অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ট) “ব্যক্তি” অর্থ আইন এর section 2(pp) তে সংজ্ঞায়িত person;\n(ঠ) “রুলিংধারী (ruling holder)” অর্থ কোন ব্যক্তি যাহার অনুকূলে কোন অগ্রিম রুলিং জারী করা হইয়াছে।",
+      "entity_concepts": {
+        "Advance Ruling": [
+          "An advance ruling is defined as the ruling issued under the specific sub-rule of these regulations."
+        ],
+        "Advance Ruling Unit": [
+          "The advance ruling unit is the body formed under the provisions of these regulations to handle advance ruling requests."
+        ],
+        "Identical Goods": [
+          "Identical goods refer to items produced in the same country that are physically the same as the goods being classified, with only minor aesthetic differences that do not impact classification."
+        ],
+        "Customs Act 1969": [
+          "The term Act is defined as the Customs Act, 1969."
+        ],
+        "Advance Ruling Application": [
+          "An application is defined as any request submitted in accordance with the relevant rule of these regulations."
+        ],
+        "Applicant": [
+          "An applicant is defined as any person who submits a request to the National Board of Revenue for an advance ruling."
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "The Tribunal is defined as the Appellate Tribunal constituted under the relevant section of the Customs Act."
+        ],
+        "Harmonized System": [
+          "The classification of goods is determined based on the Harmonized Commodity Description and Coding System established by the World Customs Organization."
+        ],
+        "National Board of Revenue": [
+          "The Board is defined as the National Board of Revenue constituted under the President’s Order of 1972."
+        ],
+        "Person": [
+          "The term person refers to the definition provided in the relevant section of the Customs Act 1969."
+        ],
+        "Ruling Holder": [
+          "A ruling holder is any person in whose favor an advance ruling has been issued."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1003",
+      "entity_sub_entities": {
+        "Advance Ruling": [
+          "ruling"
+        ],
+        "Advance Ruling Unit": [
+          "advance ruling unit"
+        ],
+        "Identical Goods": [
+          "identical goods",
+          "goods"
+        ],
+        "Customs Act 1969": [
+          "Customs Act, 1969"
+        ],
+        "Advance Ruling Application": [
+          "application"
+        ],
+        "Applicant": [
+          "applicant",
+          "National Board of Revenue",
+          "advance ruling"
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "Appellate Tribunal",
+          "Customs Act"
+        ],
+        "Harmonized System": [
+          "Harmonized Commodity Description and Coding System",
+          "World Customs Organization"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "President’s Order of 1972"
+        ],
+        "Person": [
+          "person",
+          "Customs Act 1969"
+        ],
+        "Ruling Holder": [
+          "ruling holder",
+          "advance ruling"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        37,
+        58,
+        70,
+        103,
+        104,
+        125,
+        292,
+        335,
+        680,
+        709,
+        796,
+        1209,
+        1319,
+        2074,
+        2592,
+        10889
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অগ্রিম রুলিং ইউনিটের কার্যপরিধি",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5",
+      "resolved_text": "৫। অগ্রিম রুলিং ইউনিটের কার্যপরিধি।— অগ্রিম রুলিং ইউনিটের কার্যপরিধি হইবে নিম্নরূপ, যথা:\n(ক) কোন পণ্যের শ্রেণীবিন্যাস নিরূপণ;\n(খ) পণ্যের শ্রেণীবিন্যাস সম্পর্কিত কোন বিধান অথবা পদ্ধতিগত কোন পরিবর্তন, যাহা কোন রুলিং এর কার্যকারিতাকে প্রভাবিত করে, উহা সংশ্লিষ্টদের অবহিত করা;\n(গ) অগ্রিম রুলিং এর ব্যবহার অথবা প্রয়োগ সম্পর্কিত ব্যবস্থাপনা ও পরিবীক্ষণ; এবং\n(ঘ) অগ্রিম রুলিং ডাটাবেইজ প্রতিষ্ঠা এবং সর্বসাধারণের ব্যবহারের জন্য উহা সহজলভ্যকরণ।",
+      "entity_concepts": {
+        "Advance Ruling Unit": [
+          "The Advance Ruling Unit is mandated to determine the classification of goods under customs law.",
+          "The unit is responsible for informing relevant stakeholders about any changes to classification rules or procedures that might impact the effectiveness of an existing ruling.",
+          "The unit must manage and monitor the implementation and application of advance rulings.",
+          "The unit is tasked with establishing and maintaining an advance ruling database and ensuring it remains accessible to the general public."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1006",
+      "entity_sub_entities": {
+        "Advance Ruling Unit": [
+          "goods",
+          "customs law",
+          "stakeholders",
+          "classification rules",
+          "procedures",
+          "advance rulings",
+          "advance ruling database",
+          "general public"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        125,
+        150,
+        254,
+        414,
+        455,
+        2437,
+        3604,
+        8403
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "আবেদন দাখিল ও আনুষঙ্গিক বিষয়াদি",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_7",
+      "resolved_text": "৭। আবেদন দাখিল ও আনুষঙ্গিক বিষয়াদি।— (১) অগ্রিম রুলিং প্রাপ্তির লক্ষ্যে ফরম অনুযায়ী কোন আবেদন অগ্রিম রুলিং ইউনিটের নিকট সরাসরি, ডাকযোগে, কুরিয়ারযোগে বা ই-মেইলযোগে বা ফ্যাক্সযোগে দাখিল করিতে হইবে।\n(২) আবেদনের সহিত আবেদনকারী কর্তৃক প্রত্যায়িত প্রয়োজনীয় তথ্য ও দলিলাদি সংযোজন করিতে হইবে।\n(৩) আবেদনের সহিত অগ্রিম রুলিং ফি বাবদ ‘সভাপতি, অগ্রিম রুলিং ইউনিট, জাতীয় রাজস্ব বোর্ড’ এর অনুকূলে ২,০০০ (দুই হাজার) টাকার একটি অফেরতযোগ্য পে অর্ডার/ডিমান্ড ড্রাফট দাখিল করিতে হইবে।\n(৪) আমদানি বা রপ্তানি সংশ্লিষ্ট ক্ষেত্রে বিল অব এন্ট্রি বা বিল অব এক্সপোর্ট দাখিলের ন্যূনতম ৬০(ষাট) কার্যদিবস পূর্বে অগ্রিম রুলিং এর জন্য আবেদন দাখিল করিতে হইবে।\n(৫) কোন ব্যক্তি একই সময়ে একাধিক আবেদন দাখিল করিতে পারিবেন:\nতবে শর্ত থাকে যে, একটি আবেদনে কেবল একটি পণ্য বা আইটেম অন্তর্ভুক্ত করা যাইবে।\n(৬) আবেদনকারী আবেদনিত বিষয়ে মৌখিক বক্তব্য প্রদান করিতে ইচ্ছুক হইলে উহা আবেদন ফরমে উল্লেখ করিতে হইবে।\n(৭) আবেদন দাখিলের ৩০ (ত্রিশ) কার্যদিবসের মধ্যে অথবা, ক্ষেত্রমত, আবেদনকারী কর্তৃক বিধি ৮ এর উপ-বিধি (২) এর অধীন সময়সীমা বৃদ্ধির অনুরোধের প্রেক্ষিতে অগ্রিম রুলিং ইউনিট কর্তৃক বর্ধিত সময়ের মধ্যে উক্ত আবেদন প্রত্যাহার করা যাইবে।",
+      "entity_concepts": {
+        "Advance Ruling Unit": [
+          "Applications for an advance ruling must be submitted directly, by post, courier, email, or fax to the Advance Ruling Unit.",
+          "The Advance Ruling Unit collects a non-refundable application fee payable to its chairperson.",
+          "The unit is responsible for receiving and processing withdrawal requests for applications within a specified working day timeframe."
+        ],
+        "Advance Ruling Application": [
+          "Applicants must use the prescribed form and attach all certified information and supporting documentation.",
+          "A non-refundable fee is required to be paid via pay order or demand draft at the time of submission.",
+          "Applications for goods or services related to imports or exports must be submitted at least a minimum number of working days before the filing of a bill of entry or bill of export.",
+          "An applicant may submit multiple applications simultaneously, provided that each application is limited to a single product or item.",
+          "If an applicant wishes to make an oral submission, this preference must be clearly indicated on the application form.",
+          "An applicant may withdraw their application within a specific number of working days from submission, or within an extended timeframe if approved by the unit."
+        ],
+        "National Board of Revenue": [
+          "The application fee for an advance ruling must be made payable in favor of the chairperson of the Advance Ruling Unit of the National Board of Revenue."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1008",
+      "entity_sub_entities": {
+        "Advance Ruling Unit": [
+          "post",
+          "courier",
+          "email",
+          "fax",
+          "application fee",
+          "chairperson",
+          "withdrawal requests",
+          "applications"
+        ],
+        "Advance Ruling Application": [
+          "prescribed form",
+          "certified information",
+          "supporting documentation",
+          "non-refundable fee",
+          "pay order",
+          "demand draft",
+          "goods",
+          "services",
+          "bill of entry",
+          "bill of export",
+          "product",
+          "item",
+          "oral submission",
+          "application form"
+        ],
+        "National Board of Revenue": [
+          "application fee",
+          "chairperson",
+          "Advance Ruling Unit"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        27,
+        68,
+        90,
+        125,
+        230,
+        331,
+        432,
+        527,
+        563,
+        581,
+        671,
+        1319,
+        1412,
+        2181,
+        2463,
+        3689,
+        3809,
+        3966,
+        4411,
+        4541,
+        5153,
+        6294,
+        10380
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "অগ্রিম রুলিং জারি",
+      "text_id": "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_9",
+      "resolved_text": "৯। অগ্রিম রুলিং জারি।— (১) কোন আবেদন দাখিল হইবার ৪৫ (পঁয়তাল্লিশ) কার্যদিবসের মধ্যে অগ্রিম রুলিং ইউনিট বিধি ৮ এর উপ-বিধি (৪) এর অধীন সিদ্ধান্ত গ্রহণান্তে উহা নিষ্পত্তি করিবে।\n(২) অগ্রিম রুলিং ইউনিট ইতিবাচক সিদ্ধান্ত গ্রহণ করিলে রুলিং নাম্বার এবং জারীর তারিখ উল্লেখপূর্বক আবেদনকারী বরাবর পণ্যের শ্রেণীবিন্যাস সম্পর্কিত অগ্রিম রুলিং জারি করিবে অথবা শ্রেণীবিন্যাস করা সম্ভব না হইলে, কারণ উল্লেখ করিয়া, উহা সিদ্ধান্ত গ্রহণের ১৫(পনের) কার্যদিবসের মধ্যে তাহাকে অবহিত করিবে।\n(৩) উপ-বিধি (২) এর অধীন অগ্রিম রুলিং জারি বা কোন তথ্য অবহিতকরণের ক্ষেত্রে ইলেকট্রনিক মাধ্যম অগ্রাধিকার পাইবে।\n(৪) অগ্রিম রুলিং পত্রে নিম্নবর্ণিত বিষয়াদি উল্লেখ করিতে হইবে, যথা:-\n(ক) আবেদনকারীর নাম ও যোগাযোগের ঠিকানা;\n(খ) আবেদন দাখিলের তারিখ;\n(গ) যে বিষয় বা আইটেমের জন্য রুলিং এর আবেদন করা হইয়াছে উহার বিশদ বিবরণ;\n(ঘ) অগ্রিম রুলিং এ প্রদত্ত শ্রেণীবিন্যাস এবং উক্ত শ্রেণীবিন্যাসের পক্ষে যুক্তি;\n(ঙ) অগ্রিম রুলিং এর কার্যকারিতার মেয়াদ;\n(চ) আবেদনকারী কিভাবে এবং কোন সময়সীমার মধ্যে উক্ত রুলিং পুনর্বিবেচনার জন্য আবেদন করিতে পারিবেন সেই বিষয়ে দিক-নির্দেশনা; এবং\n(ছ) রুলিংধারী কিভাবে উক্ত রুলিং ব্যবহার করিবেন সেই বিষয়ে দিক-নির্দেশনা।",
+      "entity_concepts": {
+        "Advance Ruling Unit": [
+          "The Advance Ruling Unit is required to finalize an application for an advance ruling within a specified number of working days after receiving the request.",
+          "When issuing an advance ruling, the unit must provide a decision regarding the classification of goods, including a ruling number and date of issuance.",
+          "If the classification of the goods is not possible, the unit must notify the applicant of the specific reasons for this inability within a fixed timeframe.",
+          "The unit is mandated to prioritize the use of electronic means when issuing rulings or communicating information to applicants."
+        ],
+        "Advance Ruling": [
+          "An advance ruling document must contain mandatory information including applicant details, submission dates, product descriptions, classification justifications, validity periods, and instructions for re-consideration or usage.",
+          "The advance ruling acts as a formal determination of the classification of goods for the applicant."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1010",
+      "entity_sub_entities": {
+        "Advance Ruling Unit": [
+          "application",
+          "advance ruling",
+          "goods",
+          "ruling number",
+          "date of issuance",
+          "applicant",
+          "electronic means"
+        ],
+        "Advance Ruling": [
+          "advance ruling document",
+          "applicant details",
+          "submission dates",
+          "product descriptions",
+          "classification justifications",
+          "validity periods",
+          "instructions for re-consideration",
+          "instructions for usage",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        58,
+        103,
+        104,
+        125,
+        789,
+        1367,
+        1632,
+        3173,
+        3419,
+        4210,
+        4727,
+        4958,
+        5370,
+        6388,
+        9124
+      ],
+      "source_file": "customs_rules_OCR/20160605_Advance_Rulings_Rules_2016/20160605_Advance_Rulings_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    }
+  ],
+  "num_static_replicated_objects": 2,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_18",
+      "clause_title": "কাস্টমস সরকারের দায়িত্ব ও কর্তব্য",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_18",
+      "resolved_text": "১৮। কাস্টমস সরকারের দায়িত্ব ও কর্তব্য।— কাস্টমস সরকারের দায়িত্ব ও কর্তব্য হইবে নিম্নরূপ, যথা:-\n(ক) কাস্টমস সংক্রান্ত দায়িত্ব পালনে যথাযথ জ্ঞান, দক্ষতা, নিষ্ঠার প্রদর্শন এবং উক্ত দায়িত্ব পালনে কাস্টমস কর্তৃপক্ষকে সর্বোচ্চ সহযোগিতা করা;\n(খ) কাস্টমস সরকার নিজ কাস্টমস এজেন্টস এর পণ্য চালান ব্যতীত অন্য কোন পণ্য চালানের শুল্কায়ন বা খালাস এর সাথে যুক্ত হইতে পারিবেন না এবং একজন পারমিটধারী কাস্টমস সরকার একইসাথে শুধুমাত্র একটি লাইসেন্স এর অধীনে দায়িত্ব পালন করিবেন।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A Customs Agent must perform their duties with appropriate knowledge, competence, and integrity while providing full cooperation to the customs authorities.",
+          "A Customs Agent is restricted from being involved in the clearance or assessment of any goods other than those under their own company's consignment.",
+          "A Customs Agent holding a valid permit is prohibited from operating under more than one license simultaneously."
+        ],
+        "Customs Authority": [
+          "The Customs Authority is entitled to receive full cooperation from Customs Agents in the execution of customs-related responsibilities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1035",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "Customs Agent",
+          "duties",
+          "customs authorities",
+          "goods",
+          "company's consignment",
+          "valid permit",
+          "license"
+        ],
+        "Customs Authority": [
+          "Customs Authority",
+          "Customs Agents",
+          "customs-related responsibilities"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        30,
+        45,
+        84,
+        92,
+        281,
+        6528,
+        7067,
+        13149
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালাতে-\n(ক) “আইন” অর্থ, Customs Act, 1969 (Act No. IV of 1969);\n(খ) “কাস্টমস এজেন্ট” অর্থ আইনের section 207 এর উদ্দেশ্য পূরণকল্পে কাস্টমস স্টেশনে নিজস্ব পণ্য পরিবহনের জন্য হউক বা না হউক, কোন যানবাহনের প্রবেশ বা প্রস্থান অথবা কোন পণ্য বা ব্যাগেজের আমদানি বা রপ্তানি সংশ্লিষ্ট কাজ সম্পাদনকারী ব্যক্তি বা প্রতিষ্ঠান;\n(গ) “কাস্টমস সরকার” অর্থ বিধি ১৭ এর অধীন নিযুক্ত কাস্টমস সরকার;\n(ঘ) “কাস্টমস স্টেশন” অর্থ আইনের section 2(k) তে সংজ্ঞায়িত কাস্টমস স্টেশন;\n(ঙ) “কাস্টম হাউস” অর্থ আইনের section 9(e) অনুসারে ঘোষিত কাস্টম হাউস;\n(চ) “কোম্পানি” অর্থ কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এর ধারা ২(ঘ) তে সংজ্ঞায়িত কোম্পানি;\n(ছ) “গ্রাহক” অর্থ এমন ব্যক্তি বা প্রতিষ্ঠান যিনি বিদেশ হইতে কোন পণ্য আমদানি বা বিদেশে কোন পণ্য রপ্তানি করেন;\n(জ) “ফরম” অর্থ এই বিধিমালার সহিত সংযোজিত ফরম;\n(ঝ) “ফার্ম” অর্থ Partnership Act, 1932 (Act No. IX of 1932) এর section 4 এ সংজ্ঞায়িত ফার্ম;\n(ঞ) “বোর্ড” অর্থ আইনের section 2 (e) এ সংজ্ঞায়িত জাতীয় রাজস্ব বোর্ড;\n(ট) “রেফারেন্স লাইসেন্স” অর্থ বিধি ১১ এর অধীন প্রদত্ত রেফারেন্স লাইসেন্স;\n(ঠ) “লাইসেন্স” অর্থ কাস্টমস এজেন্ট হিসাবে কার্য সম্পাদনের জন্য বিধি ৫ এর অধীন প্রদত্ত লাইসেন্স; এবং\n(ড) “লাইসেন্সিং কর্তৃপক্ষ” অর্থ বিধি ৩ এর অধীন গঠিত লাইসেন্সিং কর্তৃপক্ষ।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This law is formally referred to as the Act within these rules, establishing the legal framework for customs administration in Bangladesh."
+        ],
+        "Customs Agent": [
+          "A customs agent is defined as any person or organization that performs tasks related to the entry or exit of vehicles, or the import or export of goods and baggage at a customs station, as intended under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Broker": [
+          "Refers to the formal role defined under these rules, which governs those authorized to handle customs-related documentation and procedures on behalf of others."
+        ],
+        "Customs Station": [
+          "A customs station is defined in accordance with the specific definition provided under the Customs Act 1969."
+        ],
+        "Customs House": [
+          "A custom house is defined as an facility declared and authorized under the relevant section of the Customs Act 1969."
+        ],
+        "Company": [
+          "Refers to a business entity as defined under the specific section of the Companies Act 1994."
+        ],
+        "Importer and Exporter": [
+          "Defined as a person or institution involved in the importation of goods from abroad or the exportation of goods to other countries."
+        ],
+        "Form": [
+          "Refers to the official documents appended to these rules that must be utilized for procedural compliance."
+        ],
+        "Partnership Act 1932": [
+          "This Act provides the legal definition for a firm for the purposes of these licensing rules."
+        ],
+        "National Board of Revenue": [
+          "Identified as the Board within these rules, as defined under the Customs Act 1969."
+        ],
+        "Reference License": [
+          "A license issued under the specific rule of this framework to provide authorization for designated customs-related activities."
+        ],
+        "Licensee": [
+          "Authorization granted under these rules to an entity enabling them to operate as a customs agent."
+        ],
+        "Licensing Authority": [
+          "The body constituted under these rules responsible for the issuance and oversight of customs agent licenses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1019",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Act"
+        ],
+        "Customs Agent": [
+          "person",
+          "organization",
+          "vehicles",
+          "goods",
+          "baggage",
+          "customs station"
+        ],
+        "Customs Broker": [
+          "customs-related documentation",
+          "procedures"
+        ],
+        "Customs Station": [
+          "customs station"
+        ],
+        "Customs House": [
+          "custom house"
+        ],
+        "Company": [
+          "business entity",
+          "Companies Act 1994"
+        ],
+        "Importer and Exporter": [
+          "person",
+          "institution",
+          "goods"
+        ],
+        "Form": [
+          "official documents"
+        ],
+        "Partnership Act 1932": [
+          "firm"
+        ],
+        "National Board of Revenue": [
+          "Board"
+        ],
+        "Reference License": [
+          "license",
+          "customs-related activities"
+        ],
+        "Licensee": [
+          "authorization",
+          "customs agent"
+        ],
+        "Licensing Authority": [
+          "customs agent licenses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        25,
+        43,
+        47,
+        60,
+        70,
+        84,
+        92,
+        93,
+        144,
+        150,
+        190,
+        223,
+        246,
+        386,
+        453,
+        461,
+        514,
+        691,
+        716,
+        719,
+        1430,
+        1601,
+        1649,
+        1868,
+        1991,
+        2092,
+        2567,
+        3778
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    }
+  ]
+}

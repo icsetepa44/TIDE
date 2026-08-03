@@ -1,0 +1,31 @@
+{
+  "group_id": "cluster_00022_t0__X__cluster_00088_t1",
+  "entities": [
+    "Value Added Tax and Supplementary Duty Act 2012",
+    "TABLE-2"
+  ],
+  "cluster_ids": [
+    22,
+    88
+  ],
+  "thread_ids": [
+    "cluster_00022_t0",
+    "cluster_00088_t1"
+  ],
+  "num_shared_clauses": 11,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the 'Value Added Tax and Supplementary Duty Act 2012' and the regulatory framework governing 'TABLE-2' interact in the context of government tax exemptions?",
+      "answer": "The government utilizes the powers granted under Section 126(1) of the 'Value Added Tax and Supplementary Duty Act 2012' in conjunction with Section 25(1) of the Customs Act 2023 to issue public interest notifications that define and update 'TABLE-2' (along with other tables) for tax exemption purposes, as evidenced by SROs like 192-AIN/2025/14/Customs.",
+      "entities_involved": [
+        "Value Added Tax and Supplementary Duty Act 2012",
+        "TABLE-2"
+      ],
+      "clause_text_ids": [
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    }
+  ]
+}

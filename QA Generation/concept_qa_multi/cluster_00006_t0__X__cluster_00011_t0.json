@@ -1,0 +1,42 @@
+{
+  "group_id": "cluster_00006_t0__X__cluster_00011_t0",
+  "entities": [
+    "Government",
+    "customs notification"
+  ],
+  "cluster_ids": [
+    6,
+    11
+  ],
+  "thread_ids": [
+    "cluster_00006_t0",
+    "cluster_00011_t0"
+  ],
+  "num_shared_clauses": 33,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under the Customs Act, 1969, what is the procedural requirement for the Government when issuing, amending, or canceling a customs notification (SRO)?",
+      "answer": "According to the provided clauses [0], [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], and [11], the Government exercises its authority under sections 18(2), 19(1), or 20 of the Customs Act, 1969, to issue, amend, or cancel customs notifications (SROs) in the public interest ('জনস্বার্থে') and always in consultation with the National Board of Revenue ('জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে').",
+      "entities_involved": [
+        "Government",
+        "customs notification"
+      ],
+      "clause_text_ids": [
+        "20100610_171-AIN_2010_2289-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_173-AIN_2010_2291-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_188-AIN_2010_2306-Customs_১০ জুন, ২০১০ খ্রিস্টাব্দ_clause_1",
+        "20110609_151-AIN_2011_2337-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_156-AIN_2012_2384-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_171-AIN_2012_2399-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130606_142-AIN_2013_2429-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20130606_144-AIN_2013_2431-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20140604_133-AIN_2014_2497-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20140605_117-AIN_2014_2481-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+        "20140605_118-AIN_2014_2482-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20140605_128-AIN_2014_2492-Customs_০৫ জুন, ২০১৪_clause_1"
+      ]
+    }
+  ]
+}

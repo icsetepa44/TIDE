@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00006_t1__X__cluster_00128_t1",
+  "entities": [
+    "Government",
+    "Third Schedule"
+  ],
+  "cluster_ids": [
+    6,
+    128
+  ],
+  "thread_ids": [
+    "cluster_00006_t1",
+    "cluster_00128_t1"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the role of the Government in granting Third Schedule powers to customs officers?",
+      "answer": "Under clause 241, the Government is authorized to confer the powers of a first-class magistrate, as described in the Third Schedule of the Code of Criminal Procedure 1898, upon customs officers not below the rank of Assistant Commissioner for the purposes of entry, search, detention, and arrest.",
+      "entities_involved": [
+        "Government",
+        "Third Schedule"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_241"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Government exert control over the Board's rule-making authority regarding matters in the Third Schedule?",
+      "answer": "While the Board may make rules regarding matters in the Third Schedule, the Government retains oversight authority; specifically, the Board cannot make rules relating to items 19 and 22 of the Third Schedule without the Government's prior written approval.",
+      "entities_involved": [
+        "Government",
+        "Third Schedule"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_317",
+        "customs-act-1969-english_8th March, 1969_clause_279"
+      ]
+    }
+  ]
+}

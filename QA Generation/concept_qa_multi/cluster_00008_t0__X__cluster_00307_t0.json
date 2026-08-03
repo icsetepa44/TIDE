@@ -1,0 +1,47 @@
+{
+  "group_id": "cluster_00008_t0__X__cluster_00307_t0",
+  "entities": [
+    "imported goods",
+    "tariff values"
+  ],
+  "cluster_ids": [
+    8,
+    307
+  ],
+  "thread_ids": [
+    "cluster_00008_t0",
+    "cluster_00307_t0"
+  ],
+  "num_shared_clauses": 6,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Under the authority of Section 25(3) of the Customs Act, 1969, how is the relationship between imported goods and tariff values structured for the purpose of imposing customs duty?",
+      "answer": "For imported goods subject to value-based customs duty, the government uses its powers under Section 25(3) of the Customs Act, 1969, to specify tariff values in a table format (often column 5) corresponding to specific H.S. Codes or headings, which then serve as the basis for the assessment of customs duties.",
+      "entities_involved": [
+        "imported goods",
+        "tariff values"
+      ],
+      "clause_text_ids": [
+        "20110609_159-AIN_2011_2346-Customs_2011-06-09_clause_1",
+        "20120607_159-AIN_2012_2387-Customs_07 June, 2012_clause_1",
+        "20130606_146-AIN_2013_2433-Customs_২০১৩-০৬-০৬_clause_1",
+        "20210603_133-AIN_2021_22_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_1",
+        "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the regulatory mechanism for determining tariff values for imported goods evolved in its legal descriptions within the provided SROs?",
+      "answer": "The mechanism has evolved from simple administrative determination to a more nuanced process, as seen in the 2017 amendment [3], which changed the terminology in the preamble from simply 'determining' to 'temporarily determining' (সাময়িকভাবে নির্ধারণ) tariff values for imported goods.",
+      "entities_involved": [
+        "imported goods",
+        "tariff values"
+      ],
+      "clause_text_ids": [
+        "20170601_142-AIN__১ জুন, ২০১৭_clause_1"
+      ]
+    }
+  ]
+}

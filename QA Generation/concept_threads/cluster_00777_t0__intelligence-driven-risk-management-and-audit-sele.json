@@ -1,0 +1,486 @@
+{
+  "cluster_id": 777,
+  "cluster_label": "intelligence",
+  "thread_index": 0,
+  "thread_id": "cluster_00777_t0",
+  "title": "Intelligence-Driven Risk Management and Audit Selection",
+  "summary": "The concept of 'intelligence' has evolved from a general basis for targeted audits into a formalized, multi-agency mechanism for risk management and compliance monitoring. Over time, the policy has shifted from broad discretionary use of information to specific, structured inter-agency data sharing and lane-based risk assessment protocols.",
+  "evolution": {
+    "institutional_scope": "Expanded from individual commissionerate-level discretion to a coordinated multi-agency intelligence framework.",
+    "procedural_rigor": "Transitioned from general audit selection criteria to strict lane-based operational constraints where intelligence acts as the primary gatekeeper for inspection."
+  },
+  "timeline": [
+    {
+      "date": "2023-09-27",
+      "instrument": "Audit Guidelines",
+      "change": "Established intelligence as a foundational basis for targeted audits and risk-based selection of entities.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_19",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_25"
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "instrument": "AEO Regulations",
+      "change": "Formalized the use of specific intelligence as a trigger for overriding standard AEO audit schedules to conduct ad-hoc investigations.",
+      "clause_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_14"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Customs Directive",
+      "change": "Institutionalized a multi-agency intelligence review process (CIID, CRMC, CVIAC, CIC) and restricted physical examination of low-risk lanes (Yellow/Green) to cases supported by intelligence.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_15",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_91"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_19",
+      "clause_title": "৩.২.২ ট্র্যানজ্যাকশন বেইজড টার্গেটেড অডিট",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_19",
+      "resolved_text": "৩.২.২ ট্র্যানজ্যাকশন বেইজড টার্গেটেড অডিট—রিস্ক ম্যানেজমেন্ট কমিশনারেট কর্তৃক ঝুঁকি ব্যবস্থাপনার আওতায় অথবা গোয়েন্দা তথ্য বা অন্য কোন তথ্যের ভিত্তিতে যেমন, ইন্টারনেট বা সংবাদ মাধ্যমে প্রচারিত বিভিন্ন উল্লেখযোগ্য খবরের/তথ্যের ভিত্তিতে টার্গেটেড অডিটের জন্য প্রতিষ্ঠান/ব্যক্তি নির্ধারণ করা হয়। এ ধরনের টার্গেটেড অডিটের জন্য প্রয়োজনে ব্যবসা প্রতিষ্ঠান প্রাঙ্গণ পরিদর্শন করা যাবে।\n\nট্র্যানজ্যাকশন বেইজড টার্গেটেড অডিটিকে দুইভাগে ভাগ করা যায়:\n১. ব্যবসা প্রতিষ্ঠান কেন্দ্রিক টার্গেটেড অডিট\n২. বিষয় ভিত্তিক টার্গেটেড অডিট",
+      "entity_concepts": {
+        "Risk Management Commissionerate": [
+          "This body is responsible for initiating targeted audits based on risk management protocols, intelligence, or publicly available information such as media or internet reports."
+        ],
+        "Targeted Audit": [
+          "This is an audit process initiated against specific entities or individuals based on identified risks or intelligence inputs. The audit may involve physical inspection of the business premises.",
+          "Targeted audits are categorized into two types: those centered on the business organization and those centered on specific subject matters."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_690",
+      "entity_sub_entities": {
+        "Risk Management Commissionerate": [
+          "targeted audits",
+          "risk management protocols",
+          "intelligence",
+          "publicly available information",
+          "media reports",
+          "internet reports"
+        ],
+        "Targeted Audit": [
+          "entities",
+          "individuals",
+          "risks",
+          "intelligence inputs",
+          "business premises",
+          "business organization",
+          "subject matters"
+        ]
+      },
+      "clause_clusters": [
+        236,
+        366,
+        777,
+        1344,
+        1789,
+        3003,
+        3005,
+        4718,
+        6118,
+        9137,
+        9241,
+        9798,
+        11119,
+        12506,
+        12630
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_25",
+      "clause_title": "৪.১.১ অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন ও অডিট বাস্তবায়নকারী দপ্তরসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_25",
+      "resolved_text": "৪.১.১ অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন ও অডিট বাস্তবায়নকারী দপ্তরসমূহ—কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট নিজস্ব রিস্ক ম্যানেজমেন্ট সফটওয়্যারের মাধ্যমে স্বয়ংক্রিয় কম্পিউটারাইজড পদ্ধতিতে বা সুনির্দিষ্ট অভিযোগ বা তথ্যের ভিত্তিতে পোস্ট ক্লিয়ারেন্স অডিটের জন্য সূচক নির্ধারণের পাশাপাশি প্রতিষ্ঠান বা পণ্য চালান নির্বাচন করবেন। কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট নির্বাচিত প্রতিষ্ঠান সিস্টেম বেইজড পিসিএ কার্যক্রম সম্পন্ন করার জন্য শুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেটে প্রেরণ করবেন এবং নির্বাচিত বিল অব এন্ট্রি/চালান ট্র্যানজ্যাকশন বেইজড পিসিএ কার্যক্রম সম্পন্ন করার জন্য সংশ্লিষ্ট কাস্টম হাউস বা কমিশনারেট এ প্রেরণ করবেন।\n\nশুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট সকল সিস্টেম বেইজড অডিট পরিচালনা করবেন; তবে, প্রয়োজনে অডিট কার্যক্রম পরিচালনার জন্য বিভিন্ন কাস্টম হাউস বা কমিশনারেট এবং/অথবা কাস্টমস গোয়েন্দা ও তদন্ত পরিদপ্তর থেকে প্রয়োজনীয় সংখ্যক কর্মকর্তা অডিট কমিটিতে অন্তর্ভুক্ত করতে পারবেন। সিস্টেম বেইজড অডিটের ক্ষেত্রে অডিট পরবর্তী সকল কার্যক্রম যেমনঃ শুল্ক-করাদি নিরূপণ, প্রযোজ্য ক্ষেত্রে জরিমানা আরোপ, কারণ দর্শানো নোটিশ, দাবীনামা জারী, বকেয়া রাজস্ব আদায় ও প্রয়োজনীয় আইনগত পদক্ষেপসমূহ স্ব স্ব কাস্টম হাউস কর্তৃক পরিচালিত হবে। শুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর নির্ধারিত প্রতিষ্ঠানের পাশাপাশি তাদের নিজস্ব রিস্ক ম্যানেজমেন্ট এর আওতায় নির্বাচিত প্রতিষ্ঠানের সিস্টেম বেইজড PCA এবং পণ্যচালানের ক্ষেত্রে ট্র্যানজ্যাকশন বেইজড অডিট সম্পাদন করিতে পারিবেন। কাস্টম হাউস/কাস্টমস স্টেশন, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর নির্ধারিত পণ্যচালানের পাশাপাশি তাদের নিজস্ব রিস্ক ম্যানেজমেন্ট এর আওতায় নির্বাচিত পণ্য চালানের ট্র্যানজ্যাকশন বেইজড PCA সম্পাদন করবেন।",
+      "entity_concepts": {
+        "Customs Risk Management Commissionerate": [
+          "This office is responsible for selecting individuals and entities for Post Clearance Audit using both automated risk management software and specific intelligence or complaints.",
+          "It acts as the central hub for determining audit indicators and forwarding selected cases to the appropriate customs authority for further audit processing."
+        ],
+        "Post Clearance Audit": [
+          "Post Clearance Audit is categorized into system-based audits and transaction-based audits to ensure compliance after the clearance of goods.",
+          "The audit process involves risk-based selection of entities and specific consignments for subsequent examination and revenue verification."
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "This authority is tasked with conducting all system-based audits and has the power to form audit committees that may include officers from various custom houses or the Customs Intelligence and Investigation Directorate.",
+          "Beyond cases referred by the Customs Risk Management Commissionerate, this office may initiate its own system-based and transaction-based audits based on independent risk assessments."
+        ],
+        "Customs House": [
+          "Custom Houses are responsible for the legal and administrative follow-up of system-based audits, including the determination of duties and taxes, issuance of show-cause notices, and recovery of outstanding revenue.",
+          "Each Custom House also performs transaction-based audit activities for selected consignments, either as designated by the Customs Risk Management Commissionerate or through its own internal risk management processes."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "Officers from this directorate may be included in audit committees to assist the Customs Valuation and Internal Audit Commissionerate in carrying out audit activities when necessary."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_696",
+      "entity_sub_entities": {
+        "Customs Risk Management Commissionerate": [
+          "individuals",
+          "entities",
+          "Post Clearance Audit",
+          "automated risk management software",
+          "intelligence",
+          "complaints",
+          "audit indicators",
+          "selected cases",
+          "customs authority"
+        ],
+        "Post Clearance Audit": [
+          "system-based audits",
+          "transaction-based audits",
+          "goods",
+          "entities",
+          "consignments",
+          "revenue"
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "system-based audits",
+          "audit committees",
+          "officers",
+          "custom houses",
+          "Customs Intelligence and Investigation Directorate",
+          "Customs Risk Management Commissionerate",
+          "transaction-based audits",
+          "risk assessments"
+        ],
+        "Customs House": [
+          "system-based audits",
+          "duties",
+          "taxes",
+          "show-cause notices",
+          "outstanding revenue",
+          "transaction-based audit activities",
+          "consignments",
+          "Customs Risk Management Commissionerate",
+          "internal risk management processes"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "officers",
+          "audit committees",
+          "Customs Valuation and Internal Audit Commissionerate",
+          "audit activities"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        23,
+        30,
+        60,
+        167,
+        219,
+        236,
+        273,
+        276,
+        365,
+        366,
+        405,
+        612,
+        726,
+        777,
+        1024,
+        1118,
+        1141,
+        1456,
+        1547,
+        2484,
+        3700,
+        4472,
+        5720,
+        5864,
+        9187,
+        12087
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_14",
+      "clause_title": "অথরাইজড ইকোনমিক অপারেটর (AEO) এর কার্যক্রম মূল্যায়ন",
+      "text_id": "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_14",
+      "resolved_text": "১৪। অথরাইজড ইকোনমিক অপারেটর (AEO) এর কার্যক্রম মূল্যায়ন।—(১) সাধারণভাবে সেন্টার কর্তৃক অথরাইজড ইকোনমিক অপারেটর সনদপ্রাপ্ত caravan এর ক্ষেত্রে ১ (এক) বৎসর অন্তর এর সার্বিক কার্যক্রম মূল্যায়নের লক্ষ্যে অনসাইট খালাসোত্তর নিরীক্ষা করা হইবে।\n(২) উপ-বিধি (১) বা এই বিধিমালার অন্যত্র যাহা কিছুই থাকুক না কেন কোনো অথরাইজড ইকোনমিক অপারেটরের সনদ প্রাপ্ত কোনো caravan এর বিরুদ্ধে শুল্ক বা কর ফাঁকি বা চোরাচালান বা অন্য কোনো সুনির্দিষ্ট গুরুতর অভিযোগ বা সুনির্দিষ্ট কোনো গোয়েন্দা তথ্য পাওয়া গেলে সেন্টার বা ক্ষমতাপ্রাপ্ত অন্য কোনো কাস্টমস দপ্তর বা যেকোনো সময় উক্ত caravan এর প্রয়োজনীয় নিরীক্ষা ও তদন্ত এবং অপরাপর আইনানুগ কার্যক্রম গ্রহণ করা যাইবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The activities and performance of entities certified as an Authorized Economic Operator must be evaluated through an onsite post-clearance audit at least once every year.",
+          "Customs authorities reserve the right to conduct investigations, audits, or other legal actions against an Authorized Economic Operator at any time if there are specific allegations of duty evasion, tax fraud, or smuggling, regardless of standard periodic audit schedules."
+        ],
+        "Customs Authority": [
+          "The Center or other authorized customs offices are empowered to conduct onsite post-clearance audits to monitor the activities of certified operators.",
+          "Customs offices maintain the authority to initiate immediate audits, investigations, or legal proceedings against operators in cases involving evidence or intelligence regarding non-compliance or illicit activities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2880",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "entities",
+          "onsite post-clearance audit",
+          "investigations",
+          "audits",
+          "legal actions",
+          "duty evasion",
+          "tax fraud",
+          "smuggling"
+        ],
+        "Customs Authority": [
+          "The Center",
+          "authorized customs offices",
+          "onsite post-clearance audits",
+          "certified operators",
+          "audits",
+          "investigations",
+          "legal proceedings",
+          "evidence",
+          "intelligence",
+          "non-compliance",
+          "illicit activities"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        23,
+        211,
+        298,
+        301,
+        366,
+        392,
+        600,
+        777,
+        998,
+        1694,
+        1720,
+        2905,
+        3589,
+        4141,
+        4451,
+        5005,
+        5778,
+        12799
+      ],
+      "source_file": "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json",
+      "clause_date": "2024-06-13"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_15",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_15",
+      "resolved_text": "৭. সভার নোটিশ প্রাপ্তির পর কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর (CIID), কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট (CRMC), কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট (CVIAC), সেন্ট্রাল ইন্টেলিজেন্স সেল (CIC) এর প্রতিনিধিগণ স্ব স্ব দপ্তরে রক্ষিত গোয়েন্দা তথ্য-উপাত্ত, রেকর্ড, ঝুঁকি বিশ্লেষণ, প্রভৃতি পর্যালোচনা করে পরিশিষ্ট ২.১ মোতাবেক আবেদনকারী প্রতিষ্ঠানের বিষয়ে একটি প্রতিবেদন প্রস্তুত করে সংশ্লিষ্ট কমিশনার বা মহাপরিচালকের অনুস্বাক্ষর গ্রহণপূর্বক কমিটির সদস্য সচিব বরাবর প্রেরণ করবে।",
+      "entity_concepts": {
+        "Customs Intelligence and Investigation Directorate": [
+          "This entity must review internal intelligence reports, records, and risk analysis data upon receiving a meeting notice.",
+          "They are required to prepare a report based on their findings, obtain approval from their Director General, and submit it to the committee member secretary."
+        ],
+        "Customs Risk Management Commissionerate": [
+          "This entity is responsible for evaluating intelligence data and risk management records following a meeting notification.",
+          "They must prepare and submit a formal report regarding the applicant institution to the committee member secretary after obtaining the relevant Commissioner's signature."
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "This entity is tasked with reviewing relevant valuation and audit data upon notification of a meeting.",
+          "They are required to draft a report on the applicant and ensure it is signed by the Commissioner before forwarding it to the committee member secretary."
+        ],
+        "Central Intelligence Cell": [
+          "This entity must analyze its held intelligence and data records upon receiving a notice for a committee meeting.",
+          "They are instructed to finalize a report on the applicant and submit it to the committee member secretary after obtaining the necessary institutional authorization."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_805",
+      "entity_sub_entities": {
+        "Customs Intelligence and Investigation Directorate": [
+          "internal intelligence reports",
+          "records",
+          "risk analysis data",
+          "meeting notice",
+          "report",
+          "Director General",
+          "committee member secretary"
+        ],
+        "Customs Risk Management Commissionerate": [
+          "intelligence data",
+          "risk management records",
+          "meeting notification",
+          "formal report",
+          "applicant institution",
+          "committee member secretary",
+          "Commissioner"
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "valuation data",
+          "audit data",
+          "meeting",
+          "report",
+          "applicant",
+          "Commissioner",
+          "committee member secretary"
+        ],
+        "Central Intelligence Cell": [
+          "intelligence",
+          "data records",
+          "notice",
+          "committee meeting",
+          "report",
+          "applicant",
+          "committee member secretary",
+          "institutional authorization"
+        ]
+      },
+      "clause_clusters": [
+        64,
+        104,
+        126,
+        131,
+        167,
+        365,
+        405,
+        433,
+        494,
+        617,
+        777,
+        920,
+        1205,
+        1899,
+        3792,
+        4214,
+        5715,
+        6505,
+        9116,
+        9177,
+        9819,
+        9820,
+        9822,
+        11551,
+        11569,
+        13156
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_91",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_91",
+      "resolved_text": "২. অটোমেটেড ঝুঁকি ব্যবস্থাপনা পদ্ধতির পূর্ণাঙ্গ বাস্তবায়নের পূর্ব পর্যন্ত সংশ্লিষ্ট কাস্টমস স্টেশন কাস্টমস কম্পিউটার সিস্টেম (আসইকুডা ওয়ার্ল্ড) এ ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে কেবল রেড লেন (Red Lane)-এর পণ্যচালান কায়িক পরীক্ষণের জন্য নির্বাচন করবে। ইয়েলো লেন (Yellow lane) বা গ্রিন লেন (Green Lane)-এর পণ্যচালান গোয়েন্দা তথ্য ব্যতীত কায়িক পরীক্ষার জন্য নির্বাচন করা যাবে না। এ ক্ষেত্রে, জাতীয় রাজস্ব বোর্ডের কাস্টমস অটোমেশন শাখা এবং সিস্টেমস ম্যানেজার প্রয়োজনীয় সহযোগিতা প্রদান করবে। কোনো কাস্টমস স্টেশনে এ ধরনের লেন ব্যবস্থা (Red/Yellow/Green) চালু না থাকলে উক্ত স্টেশনের দায়িত্বপ্রাপ্ত দপ্তর প্রধান অফিস আদেশ জারির মাধ্যমে লেন ব্যবস্থা চালু করবে এবং স্বীকৃতি সনদপ্রাপ্ত প্রতিষ্ঠানের ক্ষেত্রে আবশ্যকীয়ভাবে লেন অনুসারে প্রযোজ্য সুবিধা বাস্তবায়ন করবে।",
+      "entity_concepts": {
+        "Risk Management System": [
+          "Until the full implementation of the automated risk management system, customs stations must utilize the Customs Computerised Entry Processing System to apply risk parameters for selecting shipments.",
+          "Shipments assigned to the Green Lane or Yellow Lane cannot be selected for physical examination without specific intelligence information."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system serves as the platform for applying risk management procedures at customs stations."
+        ],
+        "Red Lane": [
+          "Shipments identified under this channel are subject to physical examination by customs authorities."
+        ],
+        "Yellow Lane": [
+          "Shipments assigned to this channel must not be selected for physical examination unless there is specific intelligence or information."
+        ],
+        "Green Lane": [
+          "Shipments assigned to this channel must not be selected for physical examination unless there is specific intelligence or information."
+        ],
+        "National Board of Revenue": [
+          "The Customs Automation Wing and the Systems Manager under the National Board of Revenue are responsible for providing necessary technical support for implementing the risk management system."
+        ],
+        "Commissioner of Customs": [
+          "Where lane-based processing is not yet operational, the head of the customs station must issue an office order to establish these systems.",
+          "The head of the station is responsible for ensuring that authorized entities receive the benefits mandated by their assigned lane."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_881",
+      "entity_sub_entities": {
+        "Risk Management System": [
+          "automated risk management system",
+          "Customs Computerised Entry Processing System",
+          "risk parameters",
+          "shipments",
+          "Green Lane",
+          "Yellow Lane",
+          "physical examination",
+          "intelligence information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "platform",
+          "risk management procedures",
+          "customs stations"
+        ],
+        "Red Lane": [
+          "shipments",
+          "physical examination",
+          "customs authorities"
+        ],
+        "Yellow Lane": [
+          "shipments",
+          "physical examination",
+          "intelligence",
+          "information"
+        ],
+        "Green Lane": [
+          "shipments",
+          "physical examination",
+          "intelligence",
+          "information"
+        ],
+        "National Board of Revenue": [
+          "Customs Automation Wing",
+          "Systems Manager",
+          "technical support",
+          "risk management system"
+        ],
+        "Commissioner of Customs": [
+          "lane-based processing",
+          "head of the customs station",
+          "office order",
+          "systems",
+          "authorized entities",
+          "benefits"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        45,
+        66,
+        118,
+        148,
+        205,
+        247,
+        278,
+        361,
+        487,
+        777,
+        976,
+        1011,
+        1262,
+        1356,
+        1500,
+        1691,
+        2235,
+        2278,
+        2891,
+        3314,
+        4104,
+        5019,
+        9383,
+        11573
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

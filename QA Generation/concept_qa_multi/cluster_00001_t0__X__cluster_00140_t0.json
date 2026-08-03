@@ -1,0 +1,32 @@
+{
+  "group_id": "cluster_00001_t0__X__cluster_00140_t0",
+  "entities": [
+    "goods",
+    "regulatory duties"
+  ],
+  "cluster_ids": [
+    1,
+    140
+  ],
+  "thread_ids": [
+    "cluster_00001_t0",
+    "cluster_00140_t0"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the government exercise its legal authority under the Customs Act, 1969, to regulate the import of specific goods through the imposition of regulatory duties?",
+      "answer": "Under the Customs Act, 1969, specifically section 18, sub-section (2), the government is empowered to impose Regulatory Duty (RD) on specific goods. This is executed by identifying the goods via their Heading and H.S. Code as listed in the FIRST SCHEDULE of the Act, and applying the specified amount of Regulatory Duty as determined by the government.",
+      "entities_involved": [
+        "goods",
+        "regulatory duties"
+      ],
+      "clause_text_ids": [
+        "20151129_353-AIN_2015_59-Customs_২৯ নভেম্বর ২০১৫_clause_1",
+        "20170701_219-AIN__01 July, 2017_clause_1"
+      ]
+    }
+  ]
+}

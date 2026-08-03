@@ -1,0 +1,158 @@
+{
+  "thread_id": "cluster_00017_t0",
+  "cluster_id": 17,
+  "cluster_label": "Appropriate Officer of Customs",
+  "title": "Operational Authority and Administrative Evolution of the Appropriate Officer of Customs",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A growing vessel manufacturing firm in Bangladesh has successfully cleared specialized industrial machinery through the port under a bonded warehouse facility. Now, the local customs authorities have requested formal proof that these assets are being actively utilized in the manufacturing process as originally declared. The plant manager is currently compiling the necessary paperwork to satisfy the customs audit requirements. What documentation must the enterprise obtain to verify the utilization of their imported machinery to the Appropriate Officer of Customs?",
+      "question": "What documentation must the enterprise obtain to verify the utilization of their imported machinery to the Appropriate Officer of Customs?",
+      "answer": "The enterprise must obtain a Certificate of Utilization, which includes details such as the importer's registration, letter of credit, invoice numbers, and bill of entry records.",
+      "date_or_instrument": "src=20130606_150-AIN_2013_2437-Customs_outpu",
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "After a long international flight, a traveler arrives at Hazrat Shahjalal International Airport with several crates of unaccompanied baggage following behind them. As they walk through the green channel, they realize they are carrying items that exceed duty-free limits as well as a significant amount of foreign currency. They approach the customs desk to ensure they remain fully compliant with national regulations. What is the official document the passenger must use to declare their baggage and foreign currency holdings to the officer on duty?",
+      "question": "What is the official document the passenger must use to declare their baggage and foreign currency holdings to the officer on duty?",
+      "answer": "The passenger must use the Passenger Baggage Declaration Form (Baggage Declaration Form) to report their baggage and foreign currency holdings.",
+      "date_or_instrument": "src=20120607_172-AIN_2012_2400-Customs_outpu",
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A busy shift at the Chittagong port terminal requires a customs official to meticulously update the digital cargo manifest for an incoming shipment. The official must ensure that every detail regarding the physical integrity and classification of the cargo is logged accurately into the national system to maintain compliance with the latest NBR directive. What specific container information must be recorded by the operational officer according to the June 2024 directive?",
+      "question": "According to the June 2024 directive, what specific container information must be recorded by the operational officer?",
+      "answer": "The officer must record the container number, number of packages, container type, status, seal numbers, IMCO and UN codes, container location, commodity code, gross weight, and Verified Gross Mass (VGM).",
+      "date_or_instrument": "2024-06-03 | NBR Directive",
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "During the final stages of cargo clearance, an expert customs officer reviews the documentation for a consignment that has raised minor administrative flags. The officer must now make a critical decision in the system to either allow the goods to proceed or to halt the process until further investigations are completed. What are the two specific delivery-related remarks an expert officer can provide during the customs processing flow?",
+      "question": "What are the two specific delivery-related remarks an expert officer can provide during the customs processing flow?",
+      "answer": "The expert officer can remark either 'Delivery Suspended' or 'Delivery Recommended'.",
+      "date_or_instrument": "2024-06-03 | NBR Directive",
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A legal scholar is drafting a thesis on the evolution of trade regulations in Bangladesh, focusing specifically on the evolution of administrative authority. They are tracing the origins of modern customs enforcement back to the primary legislation that first codified the roles and responsibilities of customs officials. What is the foundational legal instrument that established the comprehensive powers and duties of the Appropriate Officer of Customs?",
+      "question": "What is the foundational legal instrument that established the comprehensive powers and duties of the Appropriate Officer of Customs?",
+      "answer": "The Customs Act 1969 established the comprehensive legal framework defining the powers and duties of the Appropriate Officer.",
+      "date_or_instrument": "1969-01-01 | Customs Act 1969",
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A traveler lands in Dhaka carrying gifts that exceed the standard duty-free allowance, along with a substantial amount of foreign currency meant for business expenses. Anxious about potential penalties, they decide to proactively seek out a customs official to disclose these items before leaving the terminal. What is the passenger required to do if they have goods subject to duty or excess foreign currency?",
+      "question": "What is the passenger required to do if they have goods subject to duty or excess foreign currency?",
+      "answer": "The passenger is required to contact the officer on duty and declare the items using the prescribed Baggage Declaration Form.",
+      "date_or_instrument": "src=20120607_172-AIN_2012_2400-Customs_outpu",
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An officer has been performing duties under the Customs Act 1969 for decades. While they were previously accustomed to exercising broad statutory authority to clear goods, they are now tasked with processing container status remarks and passenger baggage declarations under the new metadata forms introduced in June 2024.",
+      "question": "How has the nature of the 'Appropriate Officer's' operational authority changed from the 1969 Act to the 2024 directive?",
+      "answer": "The role has shifted from exercising general statutory authority to following specific, documented operational workflows and standardized metadata procedures.",
+      "clauses_involved": [
+        "1969-01-01 | Customs Act 1969",
+        "2024-06-03 | NBR Directive/Metadata"
+      ],
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "1969-01-01",
+      "relative_offset": "55 years later",
+      "question": "Starting from the establishment of the Customs Act 1969, how did the operational requirements for the Appropriate Officer of Customs evolve 55 years later?",
+      "answer": "In 2024-06-03, the NBR introduced specific operational forms and certification procedures, shifting the Appropriate Officer's role from general statutory authority to a system defined by digitized operational workflows, such as mandatory container management and passenger baggage declarations.",
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Appropriate Officer of Customs is established as the primary operational authority under the Customs Act.",
+        "The NBR issues a directive requiring the documentation of specific container data such as identification numbers, safety codes, and verified gross mass.",
+        "The Certificate of Utilization is implemented to verify the use of imported machinery by vessel or dredger manufacturing enterprises.",
+        "The declaration form for passengers arriving in Bangladesh is introduced to report baggage and foreign currency holdings."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Appropriate Officer of Customs is established as the primary operational authority under the Customs Act.",
+          "date": "1969-01-01"
+        },
+        {
+          "event": "The declaration form for passengers arriving in Bangladesh is introduced to report baggage and foreign currency holdings.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The Certificate of Utilization is implemented to verify the use of imported machinery by vessel or dredger manufacturing enterprises.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The NBR issues a directive requiring the documentation of specific container data such as identification numbers, safety codes, and verified gross mass.",
+          "date": "2024-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "metadata_5",
+        "metadata_7",
+        "metadata_8"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20240605/20240605_output.json",
+        "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+        "customs_sros_OCR/20130606_150-AIN_2013_2437-Customs/20130606_150-AIN_2013_2437-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00017_t0__operational-authority-and-administrative-evolution.json"
+    }
+  ]
+}

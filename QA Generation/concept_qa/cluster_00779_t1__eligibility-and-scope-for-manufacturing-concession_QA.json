@@ -1,0 +1,168 @@
+{
+  "thread_id": "cluster_00779_t1",
+  "cluster_id": 779,
+  "cluster_label": "manufacturing facilities",
+  "title": "Eligibility and Scope for Manufacturing Concessions",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 5,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The legal basis for manufacturing concessions for LED and energy-saving lamps was first established in 2017 via SRO 132-AIN/2017.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2017 via SRO 132-AIN/2017",
+      "correct_fact": "2022 via SRO 201-AIN/2022",
+      "answer": "The statement is inaccurate. SRO 132-AIN/2017 defined eligibility for cellular phone manufacturing, whereas the scope for LED and energy-saving lamp manufacturers was expanded in 2022 under SRO 201-AIN/2022.",
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_2",
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under SRO 173-AIN/2024, the legal authority for lamp manufacturing concessions transitioned to the Customs Act 2023.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. SRO 173-AIN/2024 updated the legal basis for lamp manufacturing concessions to the Customs Act 2023.",
+      "clause_text_ids": [
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "To qualify for manufacturing concessions, an entity must hold a valid Import Registration Certificate (IRC) and be registered under the Customs Act 1969.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "registered under the Customs Act 1969",
+      "correct_fact": "registered under the Value Added Tax and Supplementary Duty Act 2012",
+      "answer": "The statement is inaccurate. While an IRC is required, the entity must be registered under the Value Added Tax and Supplementary Duty Act 2012 and the associated Rules to be considered VAT compliant.",
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_2",
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1",
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The eligibility criteria for manufacturing concessions have historically expanded from cellular phone assembly to include air conditioners, LED lamps, and energy-saving lamps.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. The scope of manufacturing concessions has broadened from cellular phone assembly to include sectors such as air conditioners, LED lamps, and energy-saving lamps.",
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_2",
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1",
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2022 SRO 201-AIN/2022 utilized the Customs Act 2023 as its primary legal framework for granting exemptions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Act 2023",
+      "correct_fact": "Customs Act 1969",
+      "answer": "The statement is inaccurate. SRO 201-AIN/2022 was issued under the Customs Act 1969 and the Value Added Tax and Supplementary Duty Act 2012; the Customs Act 2023 was only introduced as a legal basis in the 2024 SRO.",
+      "clause_text_ids": [
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1",
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In 2017, the National Board of Revenue issued SRO 132-AIN/2017 to establish the legal framework for LED lamp and energy-saving lamp manufacturing concessions under the Customs Act 2023.",
+      "question": "Does the 2017 notification (SRO 132-AIN/2017) provide the legal basis for LED lamp manufacturing concessions under the Customs Act 2023?",
+      "conflict": "The context misattributes the 2024 legal basis (Customs Act 2023) and the 2022 sectoral scope (LED/energy-saving lamps) to the 2017 SRO, which was limited to cellular phone manufacturing.",
+      "answer": "No. According to the timeline, SRO 132-AIN/2017, issued on 2017-06-01, was exclusively for cellular phone manufacturing and assembly. LED and energy-saving lamp manufacturing concessions were only introduced later via SRO 201-AIN/2022, and the legal basis was updated to the Customs Act 2023 only in 2024 via SRO 173-AIN/2024.",
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_2",
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1",
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company established an LED lamp manufacturing facility in 2022 under the regulatory framework provided by SRO 201-AIN/2022. By 2024, the company is reviewing its legal compliance documentation for ongoing customs duty exemptions.",
+      "question": "How has the legal basis for the company's customs duty exemptions changed from the time of their establishment in 2022 to the updated 2024 regulatory environment?",
+      "answer": "In 2022, the exemptions were granted under Section 19(1) of the Customs Act, 1969; as of 2024, the legal basis has transitioned to Section 25(1) of the Customs Act, 2023.",
+      "clauses_involved": [
+        "2022-06-28",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1",
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "five years later",
+      "question": "Five years later, how did the sectoral scope for manufacturing concessions change from the original focus on cellular phone assembly?",
+      "answer": "In 2022, under SRO 201-AIN/2022, the scope was expanded to include manufacturers of LED lamps and energy-saving lamps.",
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_2",
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-28",
+      "relative_offset": "two years later",
+      "question": "Two years after the expansion to include lamp manufacturers, what major change occurred regarding the legal basis for these concessions?",
+      "answer": "In 2024, through SRO 173-AIN/2024, the legal basis for the concessions was updated to incorporate the Customs Act 2023, specifically under section 25(1).",
+      "clause_text_ids": [
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1",
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government grants concessional benefits for the local production or assembly of cellular phones.",
+        "The legal foundation for lamp manufacturing concessions is updated to the Customs Act.",
+        "Concessional benefits are expanded to include local manufacturers of LED lamps and energy-saving lamps under the Value Added Tax and Supplementary Duty Act."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government grants concessional benefits for the local production or assembly of cellular phones.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "Concessional benefits are expanded to include local manufacturers of LED lamps and energy-saving lamps under the Value Added Tax and Supplementary Duty Act.",
+          "date": "2022-06-28"
+        },
+        {
+          "event": "The legal foundation for lamp manufacturing concessions is updated to the Customs Act.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_132-AIN__2017-06-01_clause_2",
+        "20220628_201-_2022_109_২৮ জুন, ২০২২_clause_1",
+        "20240606_173-AIN_2024_25_Customs_২৯ মে, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_132-AIN_/20170601_132-AIN__output.json",
+        "customs_sros_OCR/20220628_201-_2022_109/20220628_201-_2022_109_output.json",
+        "customs_sros_OCR/20240606_173-AIN_2024_25_Customs/20240606_173-AIN_2024_25_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00779_t1__eligibility-and-scope-for-manufacturing-concession.json"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "thread_id": "cluster_00090_t0",
+  "cluster_id": 90,
+  "cluster_label": "Bill of Export",
+  "title": "Digitalization and Procedural Formalization of Bill of Export",
+  "source_num_member_objects": 9,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument first explicitly formalized the requirement for Customs Agents to submit Bills of Export via either electronic or manual methods?",
+      "options": [
+        "Customs Act 1969",
+        "Customs Agent Licensing Rules (2016-06-02)",
+        "Export Policy/Directives (2024-06-06)",
+        "AEO Guidelines (2025-01-21)"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Agent Licensing Rules (2016-06-02)",
+      "explanation": "The Customs Agent Licensing Rules dated 2016-06-02 established the requirement for agents to submit Bills of Export using electronic or manual methods.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_14",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_106",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_178"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When did the policy shift to mandate the synchronization of the Bill of Export with the Export General Manifest (EGM) for audit purposes?",
+      "options": [
+        "2016-06-02",
+        "2024-06-06",
+        "2025-01-21",
+        "1969-01-01"
+      ],
+      "answer_index": 1,
+      "answer": "2024-06-06",
+      "explanation": "According to the Export Policy/Directives issued on 2024-06-06, the Bill of Export was mandated to be synchronized with the EGM and used for post-clearance audits.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_14",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_106",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_178"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What role was added to the Bill of Export under the AEO Guidelines issued on 2025-01-21?",
+      "options": [
+        "It became the primary document for manual-only filing.",
+        "It was abolished in favor of digital-only declarations.",
+        "It was expanded to facilitate self-inspection and duty payment for AEO-certified entities.",
+        "It was restricted to import-only usage."
+      ],
+      "answer_index": 2,
+      "answer": "It was expanded to facilitate self-inspection and duty payment for AEO-certified entities.",
+      "explanation": "The AEO Guidelines (2025-01-21) expanded the Bill of Export's role to allow AEO-certified entities to request physical examination and deposit duties based on their declarations.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_106",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_178"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Regarding the electronic transmission of a Bill of Export, what power was granted to the Commissioner of Customs in the Customs Act 1969 framework?",
+      "options": [
+        "The power to permanently ban manual paper submissions.",
+        "The power to require a signed paper Bill of Export within six months of an electronic transmission.",
+        "The power to waive all duties for electronic users.",
+        "The power to bypass the Customs Computerized System entirely."
+      ],
+      "answer_index": 1,
+      "answer": "The power to require a signed paper Bill of Export within six months of an electronic transmission.",
+      "explanation": "Under the Customs Act 1969, the Commissioner of Customs retains the authority to require the owner who transmitted a Bill of Export electronically to submit a signed paper copy within six months.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_14",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Customs Agent in 2016 was operating under rules that permitted both manual and electronic submission of the Bill of Export. By 2024, the exporter they represent is required to comply with new synchronization mandates for the Export General Manifest (EGM) and post-clearance audit requirements via the Customs Computerized System.",
+      "question": "How has the primary method of submitting a Bill of Export and its subsequent use changed for an agent between the 2016 licensing rules and the 2024 export directives?",
+      "answer": "The submission method shifted from an option of manual or electronic filing in 2016 to a mandatory electronic submission via the Customs Computerized System by 2024, with the document evolving from a simple clearance instrument to a core record required for EGM synchronization and post-clearance audits.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_14",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An entity was granted Authorized Economic Operator (AEO) status. In early 2025, they seek to utilize their status to expedite their export process, specifically regarding the physical examination of goods and the declaration process.",
+      "question": "Compared to standard export procedures established in the 2024 directives, what additional procedural flexibility does the 2025 AEO guideline grant an authorized entity regarding the Bill of Export?",
+      "answer": "While the 2024 directives mandate standard electronic processing and audit preservation, the 2025 AEO guidelines allow authorized entities to request physical examination of goods at their own premises and provide them the specific opportunity to file the Bill of Export and deposit duties directly as part of a self-inspection facilitation.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_106",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_178"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "eight years later",
+      "question": "In 2016-06-02, Customs Agent Licensing Rules were established for submitting Bills of Export. What significant change to the role of the Bill of Export occurred eight years later?",
+      "answer": "On 2024-06-06, the Export Policy/Directives mandated the synchronization of the Bill of Export with the Export General Manifest (EGM) and formally established it as a core document for post-clearance audit processes.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_14",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "less than a year later",
+      "question": "Following the 2024-06-06 mandate for EGM synchronization, how did the role of the Bill of Export evolve less than a year later?",
+      "answer": "On 2025-01-21, the AEO Guidelines expanded the Bill of Export's function to facilitate self-inspection of goods and the payment of duties and taxes for AEO-certified entities.",
+      "clause_text_ids": [
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_106",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_107",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_178"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The role of the Bill of Export is expanded to allow recognized entities to perform self-inspection of goods and manage duty payments directly.",
+        "Customs Agents are formally required to submit Bills of Export using either electronic or manual methods.",
+        "The Bill of Export is mandated to synchronize with the Export General Manifest and serves as a core document for post-clearance audit procedures."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Customs Agents are formally required to submit Bills of Export using either electronic or manual methods.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The Bill of Export is mandated to synchronize with the Export General Manifest and serves as a core document for post-clearance audit procedures.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The role of the Bill of Export is expanded to allow recognized entities to perform self-inspection of goods and manage duty payments directly.",
+          "date": "2025-01-21"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_106"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+        "customs_sros_OCR/20240606_212-AIN_2024_64_Customs/20240606_212-AIN_2024_64_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00090_t0__digitalization-and-procedural-formalization-of-bil.json"
+    }
+  ]
+}

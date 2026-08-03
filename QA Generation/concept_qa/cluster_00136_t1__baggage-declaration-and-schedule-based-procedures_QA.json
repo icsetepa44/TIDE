@@ -1,0 +1,158 @@
+{
+  "thread_id": "cluster_00136_t1",
+  "cluster_id": 136,
+  "cluster_label": "schedule",
+  "title": "Baggage Declaration and Schedule-based Procedures",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A frequent traveler touches down at Hazrat Shahjalal International Airport on June 10, 2014, feeling slightly anxious about the updated customs clearance process. As they approach the baggage claim area, they notice new signage referencing recent regulatory changes issued just days prior. They want to ensure they use the correct paperwork to avoid any complications with their belongings. Which specific schedules were updated in 2014 to define the baggage declaration forms?",
+      "question": "Which specific schedules were updated in 2014 to define the baggage declaration forms?",
+      "answer": "Schedule-1 and Schedule-2 were replaced to define the baggage declaration forms.",
+      "date_or_instrument": "2014-06-05 | SRO 130/2014",
+      "clause_text_ids": [
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A business traveler arrives in Bangladesh in 2016, exhausted after a long-haul flight, and inadvertently skips the mandatory baggage declaration process in the rush of exiting the airport. Upon realizing their mistake shortly after reaching home, they are worried about potential penalties and wish to rectify the situation immediately. They contact the customs office to understand the grace period available for filing a late submission. Within how many days must the passenger submit the declaration to an Assistant Commissioner of Customs or higher?",
+      "question": "Within how many days must the passenger submit the declaration to an Assistant Commissioner of Customs or higher?",
+      "answer": "The passenger must submit the declaration within 7 days of arrival.",
+      "date_or_instrument": "2016-06-02 | Rules",
+      "clause_text_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A traveler is planning their return to Bangladesh in 2023 and has arranged for a significant portion of their personal belongings to arrive as unaccompanied baggage. They are currently reviewing the customs procedures to ensure they comply with all procedural steps upon their arrival at the port of entry. They want to know the exact moment their legal obligation to file the declaration must be satisfied before they exit the terminal. When must the passenger submit the baggage declaration form for their unaccompanied baggage?",
+      "question": "When must the passenger submit the baggage declaration form for their unaccompanied baggage?",
+      "answer": "The passenger must submit the declaration form before leaving the customs hall or designated customs area.",
+      "date_or_instrument": "2023-06-01 | Rules",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2024, a passenger is finalizing the logistics for shipping their household goods as unaccompanied baggage to Bangladesh. They are carefully gathering all necessary paperwork to ensure a smooth clearance process once the goods arrive at the customs station. Beyond filling out the standard declaration form, they want to be certain they are carrying all required supporting documentation to satisfy customs officials. What additional requirement must be met when submitting the declaration for unaccompanied baggage?",
+      "question": "What additional requirement must be met when submitting the declaration for unaccompanied baggage?",
+      "answer": "The passenger must provide documentary proof of the baggage booking.",
+      "date_or_instrument": "2024-06-06 | Rules",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240708_240-_2024_82_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In July 2024, a bonded warehouse licensee is conducting an internal audit of their operational compliance to ensure they are meeting all regulatory deadlines. They are specifically looking into the conditions outlined in the latest government notifications to determine if they have sufficient time to complete their required filings. They note that a recent SRO has adjusted the timeframe for these specific obligations. What change was made to the compliance timeline for licensee conditions in Schedule-4?",
+      "question": "What change was made to the compliance timeline for licensee conditions in Schedule-4?",
+      "answer": "The compliance timeline was extended from 60 days to 90 days.",
+      "date_or_instrument": "2024-07-08 | SRO 229/2024",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240708_240-_2024_82_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A passenger arriving in Bangladesh in June 2014 is carrying several pieces of gold jewelry they purchased abroad as gifts for family members. They are concerned about the current customs duty regulations and want to ensure they stay within the legal limits to avoid paying unexpected taxes at the green channel. They consult the 2014 customs regulations to determine exactly how much gold they can bring in without incurring duty. What is the duty-free limit for gold jewelry as specified in the 2014 customs regulations?",
+      "question": "What is the duty-free limit for gold jewelry as specified in the 2014 customs regulations?",
+      "answer": "A passenger may import up to 100 grams of gold jewelry duty-free, provided it does not exceed 12 individual items.",
+      "date_or_instrument": "2014-06-05 | SRO 130/2014",
+      "clause_text_ids": [
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the regulations updated on 2024-07-08 (SRO 229/2024), licensees are required to observe conditions within Schedule-4 that mandate a compliance timeframe of 60 days, which was the original standard established for bonded warehouse operations.",
+      "question": "What is the current mandatory compliance timeframe for licensee conditions under Schedule-4, and how does it relate to the timeline of regulatory updates?",
+      "conflict": "The context incorrectly states the timeframe is 60 days, whereas the 2024-07-08 update actually increased this period.",
+      "answer": "As of the 2024-07-08 SRO 229/2024 update, the compliance timeframe for conditions to be observed by a licensee under Schedule-4 was increased from 60 days to 90 days.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240708_240-_2024_82_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A bonded warehouse licensee was operating under compliance conditions defined in Schedule-4 that required them to fulfill certain obligations within a 60-day window. Following the regulatory updates in mid-2024, they are now reviewing their operational timelines to ensure they remain in compliance with the latest requirements.",
+      "question": "How has the mandatory compliance timeframe for a licensee under Schedule-4 changed compared to the period prior to the July 2024 amendment?",
+      "answer": "The compliance timeframe has been extended from 60 days to 90 days.",
+      "clauses_involved": [
+        "2024-07-08"
+      ],
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240708_240-_2024_82_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one month later",
+      "question": "In the context of the baggage declaration rules established on 2024-06-06, what regulatory change occurred one month later regarding compliance timelines?",
+      "answer": "One month later, on 2024-07-08 via SRO 229/2024, the authority extended specific compliance timelines within Schedule-4, substituting the previous sixty-day period with a ninety-day period for licensee conditions.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240708_240-_2024_82_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these baggage and customs regulatory events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The baggage declaration forms outlined in the schedules are replaced with new versions.",
+        "The time limit for licensees to fulfill specific conditions within the schedule is extended from sixty to ninety days.",
+        "The requirements for passengers to submit baggage declaration forms are refined and formalized.",
+        "The procedural mandate for all arriving passengers to submit a baggage declaration via a scheduled form is established."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The baggage declaration forms outlined in the schedules are replaced with new versions.",
+          "date": "2014-06-05"
+        },
+        {
+          "event": "The procedural mandate for all arriving passengers to submit a baggage declaration via a scheduled form is established.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The requirements for passengers to submit baggage declaration forms are refined and formalized.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The time limit for licensees to fulfill specific conditions within the schedule is extended from sixty to ninety days.",
+          "date": "2024-07-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240708_240-_2024_82_২৬ জুন, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_141-AIN_2014_2505-Customs/20140605_141-AIN_2014_2505-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+        "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+        "customs_sros_OCR/20240708_240-_2024_82/20240708_240-_2024_82_output.json"
+      ],
+      "thread_source_file": "cluster_00136_t1__baggage-declaration-and-schedule-based-procedures.json"
+    }
+  ]
+}

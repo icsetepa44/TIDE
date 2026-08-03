@@ -1,0 +1,1241 @@
+{
+  "cluster_id": 396,
+  "cluster_label": "name",
+  "thread_index": 0,
+  "thread_id": "cluster_00396_t0",
+  "title": "Standardization of Entity Identification and Reporting",
+  "summary": "The concept of 'name' has evolved from a simple manual entry field in paper-based customs declarations (2014) to a structured, digitized requirement within the AEO and Cargo Declaration frameworks (2024-2025). The evolution reflects a shift toward mandatory data fields for specific stakeholders (carriers, agents, consignors) and formal procedures for reporting business identity changes.",
+  "evolution": {
+    "scope": "Expanded from simple importer identification to comprehensive stakeholder identification (carriers, agents, consignors, focal points).",
+    "procedure": "Shifted from static entry to dynamic reporting requirements for business identity changes.",
+    "structure": "Transitioned from unstructured text fields to mandatory, categorized data segments in digital systems."
+  },
+  "timeline": [
+    {
+      "date": "2014-06-05",
+      "instrument": "Clause 0",
+      "change": "Initial use of 'name' as a manual placeholder for importers in paper-based certification.",
+      "clause_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4"
+      ]
+    },
+    {
+      "date": "2024-06-05",
+      "instrument": "Clauses 1, 2",
+      "change": "Formalization of 'name' as a mandatory data field in digital cargo declaration segments for carriers, agents, and consignors.",
+      "clause_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_3",
+        "20240605_০৩ জুন ২০২৪_clause_5"
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "instrument": "Clauses 4, 5",
+      "change": "Introduction of formal procedures for reporting changes to business names and identity for AEO-certified entities.",
+      "clause_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Clause 6",
+      "change": "Standardization of 'name' fields for focal point officers in customs station reporting.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_156"
+      ]
+    }
+  ],
+  "num_member_objects": 6,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "পরিশিষ্ট-৩",
+      "text_id": "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_4",
+      "resolved_text": "পরিশিষ্ট-৩\n\nপ্রত্যয়নপত্র\n[শর্ত ২(ঙ) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা হইতেছে যে, আমদানিকারক মেসার্স .............................................................,\nমূসক নিবন্ধন নং ............................., বন্ড লাইসেন্স নং ............................. তারিখ : .............................,\nসদস্য নং ............................. তারিখ ............................. কর্তৃক ইনভয়েস নং .............................\nতারিখ ............................. এবং বিল অব লেডিং/এয়ারওয়ে বিল/ট্রাক রিসিট নং .............................\nতারিখ ............................. এর মাধ্যমে ............................. শুল্ক ভবন/স্টেশন এর বিল অব এন্ট্রি নং ............................. তারিখ ............................. এর বিপরীতে খালাসকৃত পণ্য দ্বারা পরিশিষ্ট-১ এ বর্ণিত স্থানে অনুমোদিত নকশা অনুযায়ী প্রি-ফেব্রিকেটেড বিল্ডিং নির্মাণ করিয়াছে। আমদানিকৃত সকল পণ্য উক্ত নির্মাণে ব্যবহৃত হইয়াছে এবং কোন পণ্যের অপব্যবহার করা হয় নাই।\n\nস্বাক্ষর :\nতারিখ :\nনাম :\nপদবী : সভাপতি,\nবিজিএমইএ/বিকেএমইএ\n(সংশ্লিষ্ট এসোসিয়েশন/চেম্বারের নাম ও ঠিকানা)\nসীল :",
+      "entity_concepts": {
+        "Certificate of Utilization": [
+          "This form serves as a formal certification confirming that imported goods have been used exclusively for the construction of pre-fabricated buildings in accordance with approved designs. It serves as an official declaration that no imported materials were misused during the construction process."
+        ],
+        "Bill of Entry": [
+          "The certification process requires the specification of the bill of entry number and date corresponding to the goods cleared through the customs office or station."
+        ],
+        "Bonded Warehouse": [
+          "The importer must provide their bond license number and the relevant issuance date as part of the verification details required in the certification document."
+        ],
+        "Trade Association": [
+          "The certification requires validation through the signature, name, designation, and official seal of an authorized official from the relevant association or chamber, such as the BGMEA or BKMEA."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1501",
+      "entity_sub_entities": {
+        "Certificate of Utilization": [
+          "imported goods",
+          "pre-fabricated buildings",
+          "approved designs",
+          "imported materials"
+        ],
+        "Bill of Entry": [
+          "bill of entry number",
+          "date",
+          "goods",
+          "customs office",
+          "customs station"
+        ],
+        "Bonded Warehouse": [
+          "bond license number",
+          "issuance date",
+          "certification document"
+        ],
+        "Trade Association": [
+          "signature",
+          "name",
+          "designation",
+          "official seal",
+          "authorized official",
+          "association",
+          "chamber",
+          "BGMEA",
+          "BKMEA"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        25,
+        27,
+        76,
+        105,
+        146,
+        265,
+        396,
+        965,
+        1012,
+        1083,
+        1124,
+        1183,
+        1571,
+        1572,
+        2480,
+        2507,
+        3432,
+        3533,
+        3593,
+        3830,
+        4244,
+        5955,
+        5982
+      ],
+      "source_file": "customs_sros_OCR/20140605_137-AIN_2014_2501-Customs/20140605_137-AIN_2014_2501-Customs_output.json",
+      "clause_date": "2014-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240605_০৩ জুন ২০২৪_clause_3",
+      "resolved_text": "৩। কার্গো ঘোষণার জেনারেল সেগমেন্টে নিম্নবর্ণিত বিষয়সমূহ আবশ্যিকভাবে পূরণ করিতে হইবে:\n(ক) Office of departure/arrival;\n(খ) General Information:\n  o Voyage number;\n  o Date of departure/Sail;\n  o Nature;\n  o ATA (Actual Time of Arrival);\n  o Last discharge;\n  o Place of departure;\n  o Place of destination;\n(গ) Shipping Information:\n  o Carrier/Shipping Agent code;\n  o Carrier/Shipping Agent Name;\n  o Carrier/Shipping Agent Address;\n(ঘ) Totals:\n  o Bills;\n  o Packages;\n  o Containers;\n  o Gross weight;\n(ঙ) Transport:\n  o Mode of Transport;\n  o Vessel/Transport Name;\n  o Nationality;\n  o Place;\n  o Registration/IMO No;\n  o Date;\n  o Master;\n(চ) Tonnage:\n  o Gross;\n  o Net;\n  o Next port of destination;\n  o Retain on Board/Quantity;\n(ছ) Feeder Operator:\n  o Containerized cargo:\n    ▪ Containers/Box;\n    ▪ Weight(KG);\n  o Non-Containerized cargo:\n    ▪ Packages;\n    ▪ Weight(KG);",
+      "entity_concepts": {
+        "Conveyance Arrival and Departure": [
+          "This standing order specifies the mandatory data fields for the general segment of a cargo declaration that must be submitted upon the arrival or departure of a conveyance. The required details include voyage information, shipping agent particulars, cargo totals, transport specifications, tonnage figures, and feeder operator details for both containerized and non-containerized cargo."
+        ],
+        "Shipping Agent": [
+          "The cargo declaration process requires the mandatory submission of carrier and shipping agent identification details, including their official code, name, and address."
+        ],
+        "Container": [
+          "The cargo declaration must include precise counts of containers and their corresponding gross weight as part of the total cargo assessment for transit or clearance."
+        ],
+        "Master of the Vessel": [
+          "The vessel master's details must be formally declared in the transport section of the cargo declaration as part of the mandatory documentation required by customs authorities."
+        ],
+        "Vessel": [
+          "Operational instructions require the reporting of specific vessel identification details, such as the name, nationality, registration number, and IMO number, within the cargo declaration's transport segment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_767",
+      "entity_sub_entities": {
+        "Conveyance Arrival and Departure": [
+          "voyage information",
+          "shipping agent particulars",
+          "cargo totals",
+          "transport specifications",
+          "tonnage figures",
+          "feeder operator details",
+          "containerized cargo",
+          "non-containerized cargo"
+        ],
+        "Shipping Agent": [
+          "carrier identification details",
+          "shipping agent identification details",
+          "official code",
+          "name",
+          "address"
+        ],
+        "Container": [
+          "container counts",
+          "gross weight"
+        ],
+        "Master of the Vessel": [
+          "vessel master's details"
+        ],
+        "Vessel": [
+          "vessel name",
+          "nationality",
+          "registration number",
+          "IMO number"
+        ]
+      },
+      "clause_clusters": [
+        71,
+        248,
+        315,
+        396,
+        411,
+        541,
+        610,
+        992,
+        1420,
+        1593,
+        1967,
+        2313,
+        2580,
+        4094,
+        4143,
+        4406,
+        5136,
+        6177,
+        6189,
+        8041,
+        12174,
+        12175,
+        12859,
+        13002,
+        13279
+      ],
+      "source_file": "customs_gos_OCR/20240605/20240605_output.json",
+      "clause_date": "2024-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20240605_০৩ জুন ২০২৪_clause_5",
+      "resolved_text": "৫। কার্গো ঘোষণার ওয়েবিল সেগমেন্টে নিম্নবর্ণিত বিষয়সমূহ আবশ্যিকভাবে পূরণ করিতে হইবে:\n(ক) Office of departure/arrival;\n(খ) General Information:\n  o Voyage number;\n  o Date of departure/Sail;\n  o BL/AWB/TR/RR Ref No;\n  o BL/AWB/TR/RR Type;\n  o Nature;\n  o Last discharge;\n  o Line number;\n  o ETA(Estimated Date and Time of Arrival);\n  o DG status;\n  o Port of Origin;\n  o Consolidated;\n  o Place of unloading;\n(গ) Carrier/Shipping Agent:\n  o Code;\n  o Name;\n  o Address;\n(ঘ) Consignor/Exporter:\n  o Code;\n  o Name;\n  o Address;\n(ঙ) Shipping agent:\n  o Code;\n  o Name;\n(চ) Transport:\n  o Mode of transport;\n  o Vessel/Transport name;\n  o Nationality;\n(ছ) Notify:\n  o Code;\n  o Name;\n  o Address;\n(জ) Importer/Consignee:\n  o Code;\n  o Name;\n  o Address;\n(ঝ) Goods Details:\n  o Total Containers;\n  o Package Codes;\n  o Category;\n  o Marks & Numbers;\n  o Specific Circumstance Indicator;\n  o Manifested packages;\n  o Manifested gross weight;\n  o Volume (CBM);\n  o Description of Goods;\n  o Location;\n(ঞ) Declared Values and Seals Details:\n  o P/C Ind;\n  o Freight amount and currency;\n  o Value for customs and currency;\n  o Value for transport and currency;\n  o Value for insurance and currency;\n  o Seals number;\n  o Marks;\n  o Party;\n  o Remarks;",
+      "entity_concepts": {
+        "Manifest": [
+          "This instruction mandates the specific data fields required to be completed within the waybill segment of a cargo declaration. The declaration must capture comprehensive details regarding the conveyance, consignor, consignee, transport modes, goods characteristics, and declared values to ensure proper customs processing."
+        ],
+        "Shipping Agent": [
+          "The shipping agent must provide specific identification details, including code, name, and address, as part of the mandatory cargo declaration requirements."
+        ],
+        "Exporter": [
+          "The declaration must include the code, name, and address of the exporter for all cargo entries."
+        ],
+        "Consignee": [
+          "The declaration requires the inclusion of the consignee's code, name, and address to facilitate the identification of the party responsible for the goods upon arrival."
+        ],
+        "Vessel": [
+          "The cargo declaration must specify the transport mode, vessel name, and nationality for tracking and clearance purposes."
+        ],
+        "Goods Description": [
+          "Detailed information about the goods, such as package types, weights, volume, container counts, and descriptions, is required in the cargo declaration."
+        ],
+        "Value": [
+          "The declaration must include precise valuation details including freight amounts, insurance, and the value for customs purposes, along with the relevant currency for each."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_769",
+      "entity_sub_entities": {
+        "Manifest": [
+          "waybill segment",
+          "cargo declaration",
+          "conveyance",
+          "consignor",
+          "consignee",
+          "transport modes",
+          "goods characteristics",
+          "declared values"
+        ],
+        "Shipping Agent": [
+          "code",
+          "name",
+          "address"
+        ],
+        "Exporter": [
+          "code",
+          "name",
+          "address"
+        ],
+        "Consignee": [
+          "code",
+          "name",
+          "address"
+        ],
+        "Vessel": [
+          "transport mode",
+          "vessel name",
+          "nationality"
+        ],
+        "Goods Description": [
+          "package types",
+          "weights",
+          "volume",
+          "container counts",
+          "descriptions"
+        ],
+        "Value": [
+          "freight amounts",
+          "insurance",
+          "value for customs purposes",
+          "currency"
+        ]
+      },
+      "clause_clusters": [
+        56,
+        71,
+        77,
+        192,
+        240,
+        248,
+        287,
+        302,
+        336,
+        350,
+        396,
+        541,
+        547,
+        585,
+        736,
+        992,
+        1420,
+        1999,
+        2110,
+        2313,
+        2314,
+        2580,
+        3204,
+        4045,
+        5068,
+        5069,
+        8441,
+        10467,
+        13184
+      ],
+      "source_file": "customs_gos_OCR/20240605/20240605_output.json",
+      "clause_date": "2024-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "অথরাইজড ইকোনমিক অপারেটর (AEO) সনদ এর মেয়াদ, নবায়ন ও পরিবর্তন",
+      "text_id": "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_13",
+      "resolved_text": "১৩। অথরাইজড ইকোনমিক অপারেটর (AEO) সনদ এর মেয়াদ, নবায়ন ও পরিবর্তন।—(১) অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি সনদের মেয়াদ হইবে ১ (এক) বৎসর।\n(২) অথরাইজড ইকোনমিক অপারেটর স্বীকৃতিপ্রাপ্ত কোনো caravan তাহার অথরাইজড ইকোনমিক অপারেটরের সুবিধা অব্যাহত রাখিতে চাহিলে তাহাকে উপ-বিধি (১) এর আওতায় বর্ণিত মেয়াদ অতিক্রান্তের ৩০ (ত্রিশ) দিনের মধ্যে সনদ নবায়নের জন্য পরিশিষ্ট-৪ অনুযায়ী প্রয়োজনীয় হালনাগাদ দলিলাদিসহ সেন্টার বরাবর আবেদন করিতে হইবে।\n(৩) প্রয়োজনীয় দলিলাদিসহ আবেদন প্রাপ্তির পরে সেন্টার উহা যাচাই-বাছাই ও প্রয়োজনীয় অনসাইট খালাসোত্তর নিরীক্ষা সম্পাদনপূর্বক যথাযথ প্রাপ্তি সাপেক্ষে ৬০ (ষাট) দিনের মধ্যে সনদ নবায়ন করিবেন এবং প্রতি মাসের দশ তারিখের মধ্যে পূর্ববর্তী মাসের সকল নবায়নের হালনাগাদ তথ্য কমিটিকে অবহিত করিবেন।\n(৪) অথরাইজড ইকোনমিক অপারেটর সুবিধাপ্রাপ্ত কোনো caravan যথাসময়ে নবায়নের আবেদন না করিলে অথরাইজড ইকোনমিক অপারেটর সুবিধা সাময়িক স্থগিত রাখা যাইবে:\nতবে শর্ত থাকে যে, নবায়নের আবেদন দাখিলের জন্য প্রযোজ্য ৩০ (ত্রিশ) দিবস এবং পূর্ণাঙ্গ আবেদন দাখিলের পরে সেন্টার কর্তৃক উহা যাচাই-বাছাই ও অনসাইট খালাসোত্তর নিরীক্ষা কার্যক্রমের জন্য প্রযোজ্য ৬০ (ষাট) দিবস সময় এবং নিরীক্ষাকারী caravan এর অনিবার্য কোনো কারণে নিরীক্ষায় বিলম্ব ঘটিলে caravan এর জন্য প্রযোজ্য অথরাইজড ইকোনমিক অপারেটর সুবিধা অব্যাহত রাখা যাইবে।\n(৫) অথরাইজড ইকোনমিক অপারেটর স্বীকৃতি সনদপ্রাপ্ত caravan কে উহার স্বীকৃতি প্রাপ্তির আবশ্যাকীয় শর্তাবলি বা মানদণ্ড বজায় রাখিতে হইবে এবং ব্যবসায়িক নিম্নবর্ণিত পরিবর্তনের তথ্য সেন্টারকে ফরম-ণ অনুযায়ী অবহিত করিতে হইবে, যথা:—\n(ক) caravan এর আইনি সত্তার কোনো পরিবর্তন;\n(খ) caravan এর নাম বা ঠিকানা পরিবর্তনের তথ্য;\n(গ) caravan এর প্রকৃতি পরিবর্তনে তথ্য (যেমন—উৎপাদনকারী, রপ্তানিকারক, বাণিজ্যিক বিক্রয়কারী, প্রভৃতি);\n(ঘ) caravan এর হিসাব পদ্ধতি বা কম্পিউটার সিস্টেমের কোনো পরিবর্তন;\n(ঙ) কাস্টমস সংশ্লিষ্ট কার্যে জড়িত ঊর্ধ্বতন কোনো কর্মকর্তা পরিবর্তন;\n(চ) caravan এর স্থানের পরিবর্তন (যেমন— নতুন স্থান যুক্তকরণ বা শাখা খোলা বা পুরাতন কোনো স্থান বাতিল বা শাখা বন্ধকরণ, প্রভৃতি);\n(ছ) পণ্য মজুত রাখার স্থানের কোনো পরিবর্তন (যেমন— সম্প্রসারণ, সংযোজন, বিয়োজন অথবা নতুন মজুত স্থান যুক্তকরণ বা পুরাতন মজুত স্থান বিয়োজন, প্রভৃতি); এবং\n(জ)  অন্য কোনো গুরুতর পরিবর্তন।\n(৬) উপ-বিধি (৫) এ উল্লিখিত পরিবর্তন সংঘটিত হইলে caravan কর্তৃপক্ষ উক্ত ঘটনা সংঘটনের ৭ (সাত) দিনের মধ্যে সেন্টারকে অবহিত করিবে:\nতবে শর্ত থাকে যে, caravan এর আইনগত সত্তার পরিবর্তন ঘটিলে উক্ত নতুন সত্তা কর্তৃক অথরাইজড ইকোনমিক অপারেটর সনদ পরিবর্তনের জন্য সেন্টার বরাবর আবেদন করিতে হইবে এবং উক্ত আবেদন পর্যালোচনাপূর্বক যথাযথ বিবেচিত হইলে এবং নতুন আইনগত সত্তা কর্তৃক যাবতীয় আইনানুগ শর্ত ও আনুষ্ঠানিকতা পরিপালন করা হইলে পূর্বের সনদ বাতিলপূর্বক নতুন আইনগত সত্তার অনুকূলে নতুন স্বীকৃতি সনদ জারি করা যাইবে।\n(৭)  সনদপ্রাপ্ত কোনো caravan কর্তৃক কাস্টমস সংক্রান্ত কোনো ত্রুটি উদ্ঘাটিত হইলে উহা অবিলম্বে সেন্টারকে এবং, প্রযোজ্য ক্ষেত্রে, সংশ্লিষ্ট কাস্টমস স্টেশনের অথরাইজড ইকোনমিক অপারেটরের দায়িত্বপ্রাপ্ত কর্মকর্তাকে ফরম-ত অনুসারে অবহিত করিতে হইবে:\nতবে শর্ত থাকে যে, স্বতঃপ্রণোদিত অবহিতকরণ হিসাবে উক্ত ত্রুটির জন্য অথরাইজড ইকোনমিক অপারেটর স্বীকৃতিতে উহা কোনো প্রভাব ফেলিবে না:\nআরও শর্ত থাকে যে, উক্ত ত্রুটির ফলে গুরুতর অপরাধ (যেমন— শুল্ক-কর ফাঁকি বা চোরাচালান) সংঘটিত হইলে caravan এর অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতি সনদ স্থগিতসহ অপরাপর আইনানুগ ব্যবস্থা যথানিয়মে প্রযোজ্য হইবে।\n(৮) উপ-বিধি (৭) এর আওতায় কোনো ত্রুটি উদ্ঘাটিত হইলে সনদপ্রাপ্ত caravan উহার যথাযথ কারণ পর্যালোচনা করিতে হইবে এবং উহার পুনরাবৃত্তি রোধকল্পে প্রয়োজনীয় নিরাপত্তামূলক ব্যবস্থা গ্রহণ করিতে হইবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The recognition certificate for an Authorized Economic Operator is valid for a period of one year.",
+          "An Authorized Economic Operator must apply for the renewal of their certificate within a specified period after its expiration by submitting updated documentation as required.",
+          "The relevant authority will verify the renewal application and conduct post-clearance onsite audits before renewing the certificate, with a reporting obligation to the committee.",
+          "Failure to apply for renewal in a timely manner may result in the temporary suspension of Authorized Economic Operator benefits, subject to specific conditions regarding audit delays.",
+          "An Authorized Economic Operator must maintain the standards and criteria upon which their recognition was granted.",
+          "Any significant business changes, such as legal status, name, address, operational nature, accounting systems, management, or physical premises, must be reported to the designated authority within a set timeframe.",
+          "If a legal entity change occurs, the new entity must apply for a new certificate, which may lead to the cancellation of the old certificate after formal review.",
+          "Self-disclosure of customs-related errors by an Authorized Economic Operator will not negatively impact their recognition status unless the error involves serious offenses like tax evasion or smuggling.",
+          "In the event of a discovered error, the operator is required to investigate the cause and implement preventative measures to ensure future compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2879",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "recognition certificate",
+          "renewal application",
+          "updated documentation",
+          "post-clearance onsite audits",
+          "committee",
+          "Authorized Economic Operator benefits",
+          "standards",
+          "criteria",
+          "legal status",
+          "name",
+          "address",
+          "operational nature",
+          "accounting systems",
+          "management",
+          "physical premises",
+          "designated authority",
+          "legal entity",
+          "new certificate",
+          "old certificate",
+          "customs-related errors",
+          "tax evasion",
+          "smuggling"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        102,
+        139,
+        211,
+        396,
+        468,
+        541,
+        587,
+        1077,
+        1267,
+        1909,
+        2004,
+        2144,
+        2271,
+        2625,
+        2825,
+        2827,
+        2904,
+        2907,
+        2930,
+        2935,
+        3354,
+        13119
+      ],
+      "source_file": "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json",
+      "clause_date": "2024-06-13"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_38",
+      "clause_title": "ব্যবসায়িক পরিবর্তনের তথ্য অবহিতকরণ",
+      "text_id": "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_38",
+      "resolved_text": "ফরম-ণ\n[বিধি ১৩(৫) দ্রষ্টব্য]\n\nবরাবর\nমহাপরিচালক\nঅথরাইজড ইকোনমিক অপারেটর (AEO) সেন্টার।\n\nবিষয়: ব্যবসায়িক পরিবর্তনের তথ্য অবহিতকরণ।\n\nমহোদয়,\nঅথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ এর বিধি ১৩(৫) এর বিধান অনুসারে আমার / আমাদের প্রতিষ্ঠানের নাম, ঠিকানা, সনদ নং, তারিখ) নিম্নবর্ণিত ব্যবসায়িক পরিবর্তনের তথ্য আপনার সদয় জ্ঞাতার্থে প্রমাণকসহ অবহিত করিতেছি, যথা :—\n(ক) .....................\n(খ) .....................\n(গ) .....................\n\nআমি / আমরা এই মর্মে ঘোষণা করিতেছি যে, উল্লিখিত সকল তথ্য সত্য এবং সম্পূর্ণ সঠিক।\nসংযুক্তি: প্রমাণক দলিলাদি।\n\nআপনার বিশ্বস্ত,\n\n(আবেদনকারীর নাম, স্বাক্ষর ও দাপ্তরিক সিল)",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "This form is used by an Authorized Economic Operator to notify the AEO Centre of any changes in their business information, such as name, address, or certificate details.",
+          "The submission of these changes is a mandatory requirement under the Authorized Economic Operator (Grant of Recognition and Operations) Rules, 2024, and must be accompanied by supporting documentation."
+        ],
+        "Authorized Economic Operator (Recognition and Operation) Rules 2024": [
+          "These rules mandate that an Authorized Economic Operator must inform the relevant authority regarding any modifications to their registered business profile, including providing necessary proof of such changes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2904",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "business information",
+          "name",
+          "address",
+          "certificate details",
+          "supporting documentation"
+        ],
+        "Authorized Economic Operator (Recognition and Operation) Rules 2024": [
+          "registered business profile",
+          "proof of such changes"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        193,
+        230,
+        396,
+        541,
+        2522,
+        6251,
+        11066,
+        11315
+      ],
+      "source_file": "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json",
+      "clause_date": "2024-06-13"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_156",
+      "clause_title": "পরিশিষ্ট-১",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_156",
+      "resolved_text": "[অধ্যায়-১: অনুচ্ছেদ-৭ দ্রষ্টব্য]\n\nকাস্টমস স্টেশনের নাম ও ঠিকানা: .............................. \tমাসের নাম: ...... / (সাল)\nফোকাল পয়েন্ট কর্মকর্তার নাম, পদবি ও ফোন নম্বর: ..............................\n\n",
+      "entity_concepts": {
+        "Customs Station": [
+          "This operational document requires reporting officers to specify the name and physical location address of the relevant customs station."
+        ],
+        "Customs Focal Point Officer": [
+          "Operational instructions mandate the identification of a designated focal point officer, including their official designation and contact telephone number, for the reported period."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_946",
+      "entity_sub_entities": {
+        "Customs Station": [
+          "name",
+          "physical location address"
+        ],
+        "Customs Focal Point Officer": [
+          "designated focal point officer",
+          "official designation",
+          "contact telephone number"
+        ]
+      },
+      "clause_clusters": [
+        25,
+        396,
+        6671,
+        6918,
+        7252,
+        10201,
+        10682
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    }
+  ],
+  "num_static_replicated_objects": 9,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_16",
+      "clause_title": "পণ্যের বর্ণনা ও H. S. Code নূতন ওয়্যারহাউস লাইসেন্সে উল্লেখকরণ",
+      "text_id": "20240606_214-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_16",
+      "resolved_text": "১৬। পণ্যের বর্ণনা ও H. S. Code নূতন ওয়্যারহাউস লাইসেন্সে উল্লেখকরণ।-\n(১) ওয়্যারহাউস লাইসেন্সের আওতায় যে সকল পণ্য খালাসযোগ্য হইবে সেই সকল পণ্যের নাম, H. S. Code, আমদানি প্রাপ্যতা, প্রযোজ্য ক্ষেত্রে বর্ণনা সুস্পষ্টভাবে লাইসেন্সে উল্লেখ করিতে হইবে।\n(২) ইতঃপূর্বে যে সকল ওয়্যারহাউস লাইসেন্স প্রদান করা হইয়াছে সেই সকল লাইসেন্সে এইরূপ তথ্য বিস্তারিতভাবে উল্লেখ না থাকিলে বার্ষিক প্রাপ্যতা প্রদানের সময় উপ-বিধি (১) অনুসরণ করিয়া উহা উল্লেখ করিয়া দিতে হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "New warehouse licenses must clearly specify the name, H.S. Code, import eligibility, and description of all goods that are eligible for clearance under that license.",
+          "For existing warehouse licenses where such details were not previously provided, the required information must be updated and included during the annual renewal process."
+        ],
+        "H.S. Code": [
+          "The classification of goods using the appropriate H.S. Code must be explicitly stated in the warehouse license to ensure regulatory compliance during clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2864",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "warehouse licenses",
+          "name",
+          "H.S. Code",
+          "import eligibility",
+          "description of all goods"
+        ],
+        "H.S. Code": [
+          "H.S. Code",
+          "warehouse license"
+        ]
+      },
+      "clause_clusters": [
+        5,
+        61,
+        309,
+        396,
+        1675,
+        2318,
+        7229
+      ],
+      "source_file": "customs_sros_OCR/20240606_214-AIN_2024_66_Customs/20240606_214-AIN_2024_66_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-৪",
+      "text_id": "metadata_10",
+      "resolved_text": "তফসিল-৪\n[ বিধি ৩ (৭) দ্রষ্টব্য ]\nপণ্য ক্রয় সংক্রান্ত ফরম\n[ঘোষিত পণ্য যাত্রী আগমনের সাতটি কার্যদিবসের মধ্যে ক্রয় করিতে হইবে]\n১।  যাত্রীর নাম :\n২।  পাসপোর্ট নং :\n৩।  ফ্লাইট নং :\n৪।  আগমনের তারিখ :\n৫।  তফসিল-২ এবং তফসিল-৩ ভুক্ত যেই সকল পণ্য বাংলাদেশ পর্যটন কর্পোরেশনের সিটি সেলস্ সেন্টার হইতে ক্রয় করিতে ইচ্ছুক (এই বিধিমালার অধীনে প্রাপ্যতা অনুসারে তফসিল-২ এবং তফসিল-৩ ভুক্ত যেই সকল পণ্য সঙ্গে আনা হইয়াছে, তাহার সাথে সমন্বয় করিয়া দায়িত্বে নিয়োজিত শুল্ক কর্মকর্তা যাত্রী কর্তৃক ঘোষিত পণ্যের প্রাপ্যতা নির্ধারণ করিবেন) :\n\nক্রমিক নং পণ্যের বর্ণনা সংখ্যা\n১।\n২।\n৩।\n৪।\n৫।\n\nযাত্রীর স্বাক্ষর\nব্যাগেজ পরিদর্শকের নামের সীলসহ স্বাক্ষর\nসহকারী/উপ/যুগ্ম কমিশনারের নামের সীলসহ স্বাক্ষর\nজাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\nস্বাক্ষরিত/-\n(একেএম নুরুল হুদা আজাদ)\nদ্বিতীয় সচিব (শুল্ক)।",
+      "entity_concepts": {
+        "Passenger Baggage Purchase Form": [
+          "This form is designated for the purchase of goods by passengers as specified under the relevant rules.",
+          "It requires the passenger to declare items within a specific number of working days following their arrival.",
+          "The form includes fields for passenger identification, travel details, and a record of the items intended for purchase from specified duty-free centers."
+        ],
+        "Customs Officer": [
+          "The officer is responsible for determining the availability and eligibility of goods declared by the passenger based on their actual baggage and applicable regulations."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the authority to issue these regulatory documents and orders regarding customs procedures."
+        ],
+        "Baggage Inspector": [
+          "The inspector is required to provide their name and signature on the purchase form to verify the process."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The designated commissioner is required to provide their name and signature on the purchase form to finalize the authorization process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_276",
+      "entity_sub_entities": {
+        "Passenger Baggage Purchase Form": [
+          "goods",
+          "items",
+          "passenger identification",
+          "travel details",
+          "duty-free centers"
+        ],
+        "Customs Officer": [
+          "goods",
+          "baggage",
+          "regulations"
+        ],
+        "National Board of Revenue": [
+          "regulatory documents",
+          "orders",
+          "customs procedures"
+        ],
+        "Baggage Inspector": [
+          "name",
+          "signature",
+          "purchase form"
+        ],
+        "Assistant Commissioner of Customs": [
+          "name",
+          "signature",
+          "purchase form"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        47,
+        49,
+        73,
+        78,
+        117,
+        121,
+        225,
+        265,
+        396,
+        1302,
+        1526,
+        1733,
+        3492,
+        3878,
+        10528,
+        13020
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশिष्ट-১",
+      "text_id": "metadata_3",
+      "resolved_text": "পরিশিষ্ট-১\n\n[কার্গো ঘোষণার জেনারেল সেগমেন্ট ফরম]\n\nOffice of departure / arrival\nGeneral Information:\n- Voyage number\n- Date of departure/Sail\n- Arrived\n- ATA (Actual Time of Arrival)\n- Registration number\n- Nature\n- Date and Time of registration\n- Last discharge\n- Place of departure\n- Place of destination\n\nShipping Information:\n- Carrier/Shipping Agent\n\nTotals:\n- Bills\n- Packages\n- Containers\n- Gross weight\n\nTransport:\n- Mode of Transport\n- Vessel/Transport Name\n- Nationality\n- Place\n- Registration/IMO No\n- Date\n- Master\n\nTonnage:\n- Gross\n- Net\n- Next port of destination\n- Retain On Board / Quantity\n\nFeeder Operator:\n- Containerized cargo details (Total):\n  - Containers/Box\n  - Weight (KG)\n- Non-Containerized cargo details (Total):\n  - Packages\n  - Weight (KG)",
+      "entity_concepts": {
+        "Form": [
+          "This document provides a standard template for the General Segment of a cargo declaration, outlining the mandatory data fields required for customs reporting.",
+          "The form facilitates the systematic collection of information regarding vessel voyages, transport modes, shipping agents, and detailed cargo specifics including containerized and non-containerized goods."
+        ],
+        "Shipping Agent": [
+          "The shipping agent is identified as a primary entity required to be declared within the carrier information section of the cargo declaration form."
+        ],
+        "Container": [
+          "The declaration form requires specific reporting of containerized cargo, including the total count of boxes and their corresponding weight."
+        ],
+        "Vessel": [
+          "Operational details concerning the vessel, such as its name, registration number, nationality, and arrival or departure times, must be captured as part of the transport information segment."
+        ],
+        "Master": [
+          "The master of the vessel is a mandatory reporting entity within the transport information section of the cargo declaration."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_101",
+      "entity_sub_entities": {
+        "Form": [
+          "General Segment",
+          "cargo declaration",
+          "mandatory data fields",
+          "vessel voyages",
+          "transport modes",
+          "shipping agents",
+          "cargo specifics",
+          "containerized goods",
+          "non-containerized goods"
+        ],
+        "Shipping Agent": [
+          "shipping agent",
+          "carrier information section",
+          "cargo declaration form"
+        ],
+        "Container": [
+          "containerized cargo",
+          "boxes",
+          "weight"
+        ],
+        "Vessel": [
+          "vessel",
+          "name",
+          "registration number",
+          "nationality",
+          "arrival times",
+          "departure times",
+          "transport information segment"
+        ],
+        "Master": [
+          "master of the vessel",
+          "transport information section",
+          "cargo declaration"
+        ]
+      },
+      "clause_clusters": [
+        71,
+        240,
+        246,
+        248,
+        256,
+        315,
+        396,
+        411,
+        610,
+        668,
+        1420,
+        1593,
+        1658,
+        2473,
+        2581,
+        2646,
+        3542,
+        3566,
+        4407,
+        5069,
+        6161,
+        6191,
+        9676,
+        12997,
+        12998,
+        13282
+      ],
+      "source_file": "customs_gos_OCR/20240605/20240605_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩",
+      "text_id": "metadata_3",
+      "resolved_text": "পরিশিষ্ট-৩\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। নিরীক্ষাকাল/মেয়াদ :\n৩। নিরীক্ষা মেয়াদে TABLE ভুক্ত আমদানিকৃত উপকরণের বিল অব এন্ট্রিভিত্তিক নাম, বিবরণ ও পরিমাণ (প্রয়োজনে আলাদা কাগজে) :\n৪। কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট কর্তৃক নিরীক্ষায় প্রাপ্ত ফলাফল :\n৫। ক্রমিক-৩ ও ৪ এর পরিপ্রেক্ষিতে কমিশনারেটের পর্যবেক্ষণ/সুপারিশ/পদক্ষেপ :\n\nকমিশনার\nকাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table is used to list imported raw materials subject to audit, categorized by their bill of entry details including name, description, and quantity."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs, Valuation and Internal Audit Commissionerate, is responsible for performing the audit, recording findings, and providing observations, recommendations, or further action points based on the audit results."
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "This government body is mandated to conduct audits on imported materials and provide official observations or recommendations based on the evaluation of documentation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_676",
+      "entity_sub_entities": {
+        "TABLE": [
+          "imported raw materials",
+          "bill of entry details",
+          "name",
+          "description",
+          "quantity"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Valuation and Internal Audit Commissionerate",
+          "audit",
+          "findings",
+          "observations",
+          "recommendations",
+          "action points"
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "government body",
+          "imported materials",
+          "observations",
+          "recommendations",
+          "documentation"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        26,
+        63,
+        82,
+        105,
+        132,
+        191,
+        206,
+        243,
+        365,
+        396,
+        520,
+        681,
+        784,
+        5290,
+        5966,
+        13153
+      ],
+      "source_file": "customs_sros_OCR/20160602_151-AIN_2016_13-Customs/20160602_151-AIN_2016_13-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২ [বিধি ৩(১) দ্রষ্টব্য]",
+      "text_id": "metadata_3",
+      "resolved_text": "পরিশিষ্ট-২\n[বিধি ৩(১) দ্রষ্টব্য]\nManifest- General Information \nOffice of departure/ arrival \n(office code) (office name)\n\nLast Status \n\nGeneral Information \nVoyage number \nDate of departure / sail \nArrived \nATA (Actual Time of Arrival)\nRegistration number\n/ \n\nBL/AWB/TR/RR Ref No \nBL/AWB/TR/RR Type \nNature \nLast discharge\nLine number\nMaster BL/AWB \nETA (Estimated Time of Arrival)\nDG Status \n\nPort of Origin \nConsolidated [ ] \nPlace of unloading\n\nCarrier/ Shipping Agent \nShipping Agent \n\nConsignor/ Exporter \n\nTransport \nMode of Transport \nVessel/ Transport Name\nNationality \nNumber of Trucks\nNotify \nImporter/ Consignee \n\nGoods Details \nTotal Containers \nPackage Codes \nCategory \nStatus \nNumber of de-grouped BL/AWB \nMarks and Numbers \nSpecific Circumstances Indicator \nManifested Packages \nRemaining/ Exported packages \nManifested gross weight \nRemaining/ Exported weight \nVolume (CBM) \nDescription of goods \nLocation \n\nDeclared Values and Seals Details \nP/C Ind \nFreight amount and currency \nValue for customs \nValue for transport \nValue for Insurance \nSeals number \nMarks \nParty \nRemarks \n\nOnward Transport \nTransit \nDoc. reference \nTranshipment \nDoc. reference \n\nDomestic Transfer \nDoc. Reference \nPlace of Unloading \nEstimated Arrival \nMode of Transport \nActual Arrival \nCarrier",
+      "entity_concepts": {
+        "Manifest": [
+          "This form captures comprehensive general information regarding the arrival and departure of conveyances, including voyage details and office codes.",
+          "It serves as the primary document for declaring cargo details, values, and transport status upon arrival or departure."
+        ],
+        "Shipping Agent": [
+          "The form requires the identification of the carrier or shipping agent responsible for the transport operation."
+        ],
+        "Consignor": [
+          "The document includes fields to record the details of the consignor or exporter for the goods being transported."
+        ],
+        "Consignee": [
+          "The document includes fields to record the details of the importer or consignee responsible for the cargo."
+        ],
+        "Vessel": [
+          "The document tracks vessel information including transport mode, name, nationality, and arrival/departure metrics."
+        ],
+        "Container": [
+          "The document accounts for total container counts, package codes, and mark numbers associated with the shipment."
+        ],
+        "Goods Description": [
+          "Detailed descriptions of goods, including weight, volume, and package status, must be declared on this form."
+        ],
+        "Value": [
+          "The form captures declared values including freight amounts, customs value, insurance value, and transport costs for audit purposes."
+        ],
+        "Transit": [
+          "The form includes specific sections to document transit movements and associated reference documentation."
+        ],
+        "Transshipment": [
+          "The form includes specific sections to document transhipment movements and associated reference documentation."
+        ],
+        "Dangerous Goods": [
+          "The form requires an indication of the dangerous goods status associated with the manifest items."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1669",
+      "entity_sub_entities": {
+        "Manifest": [
+          "conveyances",
+          "voyage details",
+          "office codes",
+          "cargo details",
+          "values",
+          "transport status"
+        ],
+        "Shipping Agent": [
+          "carrier",
+          "shipping agent"
+        ],
+        "Consignor": [
+          "consignor",
+          "exporter",
+          "goods"
+        ],
+        "Consignee": [
+          "importer",
+          "consignee",
+          "cargo"
+        ],
+        "Vessel": [
+          "vessel information",
+          "transport mode",
+          "name",
+          "nationality",
+          "arrival/departure metrics"
+        ],
+        "Container": [
+          "container counts",
+          "package codes",
+          "mark numbers"
+        ],
+        "Goods Description": [
+          "goods",
+          "weight",
+          "volume",
+          "package status"
+        ],
+        "Value": [
+          "freight amounts",
+          "customs value",
+          "insurance value",
+          "transport costs"
+        ],
+        "Transit": [
+          "transit movements",
+          "reference documentation"
+        ],
+        "Transshipment": [
+          "transhipment movements",
+          "reference documentation"
+        ],
+        "Dangerous Goods": [
+          "dangerous goods status",
+          "manifest items"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        39,
+        71,
+        77,
+        113,
+        192,
+        248,
+        280,
+        287,
+        302,
+        315,
+        350,
+        396,
+        442,
+        585,
+        668,
+        766,
+        888,
+        935,
+        1420,
+        2309,
+        2314,
+        2528,
+        2532,
+        2580,
+        2635,
+        3192,
+        4045,
+        4636,
+        5063,
+        5066,
+        5068,
+        5128,
+        5641,
+        9130,
+        9704,
+        9757,
+        10159,
+        10462,
+        10466,
+        12952,
+        13003
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-৩\n[শর্ত (৫) দ্রষ্টব্য]\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। নিরীক্ষাকাল/মেয়াদ :\n৩। নিরীক্ষা মেয়াদে TABLE ভুক্ত আমদানিকৃত উপকরণের বিল অব এন্ট্রিভিত্তিক নাম, বিবরণ ও পরিমাণ (প্রয়োজনে আলাদা কাগজে) :\n৪। কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা পরিদপ্তর কর্তৃক নিরীক্ষায় প্রাপ্ত ফলাফল :\n৫। ক্রমিক নং-৩ ও ৪ এর পরিপ্রেক্ষিতে কমিশনারেটের পর্যবেক্ষণ/সুপারিশ/পদক্ষেপ :\n\nকমিশনার\nকাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা পরিদপ্তর।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table serves as a structured documentation requirement for reporting the name, description, and quantity of imported raw materials used during the audit period.",
+          "It acts as a reference point for Customs and Bonded Warehouse audits, where import documentation must be cross-referenced with internal audit findings."
+        ],
+        "Directorate of Customs Valuation and Internal Audit": [
+          "This government body is responsible for conducting audits and documenting findings regarding the imported inputs listed in the prescribed format.",
+          "The Commissioner of this Directorate is authorized to provide observations, recommendations, or initiate subsequent actions based on the discrepancies or audit results identified during the assessment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1070",
+      "entity_sub_entities": {
+        "TABLE": [
+          "name",
+          "description",
+          "quantity",
+          "imported raw materials",
+          "import documentation",
+          "internal audit findings"
+        ],
+        "Directorate of Customs Valuation and Internal Audit": [
+          "government body",
+          "imported inputs",
+          "prescribed format",
+          "Commissioner",
+          "observations",
+          "recommendations",
+          "subsequent actions",
+          "discrepancies",
+          "audit results"
+        ]
+      },
+      "clause_clusters": [
+        26,
+        64,
+        82,
+        132,
+        191,
+        206,
+        229,
+        243,
+        396,
+        409,
+        784,
+        873,
+        1621,
+        2485,
+        7380,
+        9159,
+        12522
+      ],
+      "source_file": "customs_sros_OCR/20210603_120-AIN_2021_09_Customs/20210603_120-AIN_2021_09_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "‘ফরম-খ’ [বিধি ৬(২) দ্রষ্টব্য]",
+      "text_id": "metadata_7",
+      "resolved_text": "‘ফরম-খ’ \n[বিধি ৬(২) দ্রষ্টব্য]\nAuthorization for Appointing Agent \n\nRecord no: \nDate:\n\nTo \nCommissioner of Customs/ Customs Station Chief \n………….. Customs House/Customs Station \n\nAs per rule 6(2) of the Conveyance and Cargo declaration, and Pre-arrival Processing Rule 2025, I am authorizing (Name of the Agent, AIN, Carrier Code, if any, Address) the following person for submitting declaration of the following conveyance and/or cargo on behalf of me: \n\n(a) Lorry/Truck receipt No. and Date: \n(b) Lorry/Truck No. (can be submitted in attachment if not covered here): \n(c) Invoice No.: \n(d) L/C No., L/C opening date, Bank Name and branch: \n(e) Description of goods: \n(f) Quantity of goods: Weight: …... kg, No. of Packages: …..., Unit: …... \n(g) Consignor/ Exporter’s Name and Address: \n(h) Consignee/ Importer’s Name and Address: \n(i) Car pass (Should be attached with the authorization): \n(j) Any other relevant information, if any: \n\nCopy to: Agent (Name and Address) \n\nPerson in-charge/ Owner/Operator/Agent on behalf of the conveyance \n(Signature, Name, address, contract number and email, if any)",
+      "entity_concepts": {
+        "Form": [
+          "This document provides a template for Form-K, which serves as a formal authorization for appointing an agent to handle customs declarations."
+        ],
+        "Vehicle and Cargo Declaration Submission and Pre-arrival Processing Rules 2025": [
+          "Rule 6(2) of these rules mandates the use of this specific form when authorizing an agent to submit declarations for conveyance and cargo."
+        ],
+        "Agent": [
+          "The form facilitates the appointment of an agent who is authorized to submit declarations on behalf of the person in charge or owner of a conveyance."
+        ],
+        "Commissioner of Customs": [
+          "The authorized form is addressed to the Commissioner of Customs or the Customs Station Chief of the relevant customs house or station."
+        ],
+        "Goods": [
+          "The declaration form requires detailed information regarding the description, quantity, weight, and packaging of the goods being imported or transported."
+        ],
+        "Car Pass": [
+          "A car pass is a required attachment that must accompany the authorization form during the declaration process."
+        ],
+        "Bank": [
+          "The declaration must include financial details including the letter of credit number, opening date, and the name of the bank and branch associated with the transaction."
+        ],
+        "Importer": [
+          "The form requires the submission of the name and address of the consignee or importer."
+        ],
+        "Exporter": [
+          "The form requires the submission of the name and address of the consignor or exporter."
+        ],
+        "Person in Charge of Conveyance": [
+          "This person or their designated operator is responsible for signing and submitting the authorization form to the customs authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1673",
+      "entity_sub_entities": {
+        "Form": [
+          "Form-K",
+          "formal authorization"
+        ],
+        "Vehicle and Cargo Declaration Submission and Pre-arrival Processing Rules 2025": [
+          "Rule 6(2)",
+          "conveyance",
+          "cargo"
+        ],
+        "Agent": [
+          "agent",
+          "person in charge",
+          "owner of a conveyance"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Customs Station Chief",
+          "customs house",
+          "customs station"
+        ],
+        "Goods": [
+          "description",
+          "quantity",
+          "weight",
+          "packaging",
+          "goods"
+        ],
+        "Car Pass": [
+          "car pass",
+          "authorization form"
+        ],
+        "Bank": [
+          "letter of credit number",
+          "opening date",
+          "bank",
+          "branch"
+        ],
+        "Importer": [
+          "name",
+          "address",
+          "consignee",
+          "importer"
+        ],
+        "Exporter": [
+          "name",
+          "address",
+          "consignor",
+          "exporter"
+        ],
+        "Person in Charge of Conveyance": [
+          "person in charge",
+          "operator",
+          "authorization form",
+          "customs authorities"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        25,
+        39,
+        45,
+        56,
+        60,
+        77,
+        94,
+        113,
+        206,
+        222,
+        243,
+        246,
+        350,
+        357,
+        396,
+        541,
+        585,
+        668,
+        1086,
+        1166,
+        1429,
+        1936,
+        3185,
+        3467,
+        3543,
+        4026,
+        4273,
+        7001,
+        8260,
+        10311,
+        10456,
+        11620
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩ [শর্ত (৫) দ্রষ্টব্য]",
+      "text_id": "metadata_9",
+      "resolved_text": "পরিশিষ্ট-৩\n[শর্ত (৫) দ্রষ্টব্য]\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। নিরীক্ষাকাল/মেয়াদ :\n৩। নিরীক্ষা মেয়াদে TABLE ভুক্ত আমদানিকৃত উপকরণের বিল অব এন্ট্রিভিত্তিক নাম, বিবরণ ও পরিমাণ (প্রয়োজনে আলাদা কাগজে) :\n৪। কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট কর্তৃক নিরীক্ষায় প্রাপ্ত ফলাফল:\n৫। ক্রমিক নং-৩ ও ৪ এর পরিপ্রেক্ষিতে কমিশনারেটের পর্যবেক্ষণ/সুপারিশ/পদক্ষেপ:\n\nকমিশনার\nকাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট\n------ ।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table serves as a reference point for recording the specific name, description, and quantity of imported raw materials used during the audit period.",
+          "Data entered in the table must be based on the official bills of entry processed during the audit timeline."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "This body is responsible for conducting audits and documenting the findings related to imported materials.",
+          "The Commissionerate is tasked with providing professional observations, recommendations, and follow-up actions based on the audit results."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1149",
+      "entity_sub_entities": {
+        "TABLE": [
+          "name",
+          "description",
+          "quantity",
+          "imported raw materials",
+          "bills of entry"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "audits",
+          "findings",
+          "imported materials",
+          "observations",
+          "recommendations",
+          "follow-up actions",
+          "audit results"
+        ]
+      },
+      "clause_clusters": [
+        26,
+        105,
+        132,
+        164,
+        191,
+        206,
+        243,
+        269,
+        298,
+        396,
+        520,
+        784,
+        2485,
+        8203
+      ],
+      "source_file": "customs_sros_OCR/20220609_125-AIN_2022_73_Customs/20220609_125-AIN_2022_73_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর ও প্রতিস্বাক্ষর",
+      "text_id": "metadata_9",
+      "resolved_text": "সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর\nতারিখ:\n\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\n-------------------------------\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\n-------------------------------\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "VAT Departmental Official": [
+          "The document requires the name and signature of the relevant Value Added Tax departmental official along with the date of signing."
+        ],
+        "Ministry of Industries": [
+          "The document requires the name and signature of a representative from the Ministry of Industries along with the date of signing."
+        ],
+        "National Board of Revenue": [
+          "The document requires the name and signature of a representative from the National Board of Revenue along with the date of signing."
+        ],
+        "Commissioner of Customs": [
+          "The document mandates a countersignature by the relevant Commissioner of Customs."
+        ],
+        "Management Authority": [
+          "The document requires the signature and date of the management authority of the concerned organization."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1280",
+      "entity_sub_entities": {
+        "VAT Departmental Official": [
+          "name",
+          "signature",
+          "date of signing"
+        ],
+        "Ministry of Industries": [
+          "name",
+          "signature",
+          "date of signing"
+        ],
+        "National Board of Revenue": [
+          "name",
+          "signature",
+          "date of signing"
+        ],
+        "Commissioner of Customs": [
+          "countersignature"
+        ],
+        "Management Authority": [
+          "signature",
+          "date"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        76,
+        265,
+        396,
+        781,
+        1144,
+        1851,
+        2638,
+        13213
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

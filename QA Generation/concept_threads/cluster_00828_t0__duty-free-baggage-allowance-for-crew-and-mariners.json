@@ -1,0 +1,706 @@
+{
+  "cluster_id": 828,
+  "cluster_label": "bedding",
+  "thread_index": 0,
+  "thread_id": "cluster_00828_t0",
+  "title": "Duty-Free Baggage Allowance for Crew and Mariners",
+  "summary": "This thread tracks the evolution of duty-free baggage allowance limits for airline crew and maritime sailors. While maritime allowance remained stable at $300, the airline crew allowance underwent significant adjustments, increasing from $100 to $300 between 2016 and 2023, before being reduced to $150 in 2025.",
+  "evolution": {
+    "allowance_limit": "Airline crew allowance fluctuated from $100 (2010-2012) to $300 (2016-2024) and finally to $150 (2025), while maritime allowance remained static at $300."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Baggage Rules 2010",
+      "change": "Initial establishment of $100 allowance for airline crew and $300 for maritime sailors.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6"
+      ]
+    },
+    {
+      "date": "2016-04-08",
+      "instrument": "Amendment to Baggage Rules",
+      "change": "Airline crew allowance increased to $300.",
+      "clause_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6"
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "instrument": "Baggage Rules Update",
+      "change": "Airline crew allowance reduced to $150.",
+      "clause_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    }
+  ],
+  "num_member_objects": 9,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।— (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশ বিমানের কোন ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্মরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ১০০ (এক শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে সে অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার/এসিস্ট্যান্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Airline Crew Baggage Allowance": [
+          "Airline crew and officers returning from abroad are permitted to import baggage up to a specified maximum value free of all duties and taxes."
+        ],
+        "Ship Crew Baggage Allowance": [
+          "Bangladeshi ship crew and officers arriving from foreign ports are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Ship crew and officers who have signed off from duty are permitted to import baggage up to a higher specified maximum value upon payment of all applicable duties and taxes."
+        ],
+        "Transport Crew Baggage Allowance": [
+          "Drivers and stewards of international passenger buses are permitted to import personal items such as clothing, bedding, and cooked food, along with additional personal and household goods up to a specified maximum value, free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1280",
+      "entity_sub_entities": {
+        "Airline Crew Baggage Allowance": [
+          "airline crew",
+          "officers",
+          "baggage"
+        ],
+        "Ship Crew Baggage Allowance": [
+          "Bangladeshi ship crew",
+          "officers",
+          "baggage"
+        ],
+        "Transport Crew Baggage Allowance": [
+          "drivers",
+          "stewards",
+          "international passenger buses",
+          "personal items",
+          "clothing",
+          "bedding",
+          "cooked food",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        273,
+        283,
+        482,
+        525,
+        786,
+        828,
+        903,
+        1294,
+        1298,
+        1309,
+        1865,
+        3156,
+        9215
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।- (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ১০০ (এক শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার/অ্যাসিস্ট্যান্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Airline Crew Baggage Allowance": [
+          "Bangladeshi crew or officers on international flights arriving in Bangladesh may import baggage up to a specified monetary value without paying any customs duties or taxes."
+        ],
+        "Seafarer Baggage Allowance": [
+          "Bangladeshi crew or officers arriving at a Bangladeshi seaport from a foreign port may import baggage up to a specified monetary value duty-free.",
+          "Upon signing off from their duties, seafarers are permitted to import baggage up to a higher specified value subject to the payment of all applicable customs duties and taxes."
+        ],
+        "Transport Crew Baggage Allowance": [
+          "Drivers and stewards of passenger buses arriving from abroad are allowed to import personal items including clothing, bedding, and food duty-free, along with additional personal and household goods up to a specified monetary limit."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1321",
+      "entity_sub_entities": {
+        "Airline Crew Baggage Allowance": [
+          "Bangladeshi crew",
+          "officers",
+          "baggage"
+        ],
+        "Seafarer Baggage Allowance": [
+          "Bangladeshi crew",
+          "officers",
+          "baggage"
+        ],
+        "Transport Crew Baggage Allowance": [
+          "Drivers",
+          "stewards",
+          "personal items",
+          "clothing",
+          "bedding",
+          "food",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        273,
+        283,
+        482,
+        525,
+        786,
+        828,
+        1204,
+        1294,
+        1298,
+        1309,
+        1557,
+        1865,
+        3156
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।— (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ১০০ (একশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও সুপারভাইজারগণ (হেলপার/অ্যাসিস্ট্যান্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi flight crew or officials arriving from abroad on duty are permitted to import baggage up to a specified value free of all duties and taxes.",
+          "Bangladeshi sailors or officers arriving from foreign seaports are permitted to import baggage up to a specified value free of all duties and taxes.",
+          "Upon signing off, Bangladeshi sailors or officers are permitted to import baggage up to a higher specified value subject to the payment of all applicable duties and taxes.",
+          "Drivers and supervisors of passenger buses arriving from abroad are allowed to import personal clothing, bedding, cooked food, and household goods up to a specified value free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1381",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "personal clothing",
+          "bedding",
+          "cooked food",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        283,
+        828,
+        903,
+        1433
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।- (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্মরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্মরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ৭[৩০০ (তিনশত)] মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও সুপারভাইজারগণ (হেলপার/ এসিস্ট্যান্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Airline Crew Baggage Allowance": [
+          "Bangladeshi crew or officials working for airlines, whether Bangladeshi or foreign-operated, are permitted to import baggage up to a specified maximum value free of all duties and taxes upon returning from professional duties abroad."
+        ],
+        "Seafarer Baggage Allowance": [
+          "Bangladeshi seafarers or officials arriving from foreign seaports are entitled to import baggage up to a defined maximum value free of all duties and taxes.",
+          "Upon signing off, seafarers or officials are permitted to import additional baggage up to a higher maximum value, provided that all applicable duties and taxes are paid."
+        ],
+        "Transport Crew Baggage Allowance": [
+          "Drivers and supervisors of passenger buses arriving from abroad are exempt from duties and taxes on personal clothing, bedding, and cooked food items.",
+          "These individuals may also import personal and household goods up to a specified maximum value free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_995",
+      "entity_sub_entities": {
+        "Airline Crew Baggage Allowance": [
+          "Bangladeshi crew",
+          "officials",
+          "baggage"
+        ],
+        "Seafarer Baggage Allowance": [
+          "Bangladeshi seafarers",
+          "officials",
+          "baggage"
+        ],
+        "Transport Crew Baggage Allowance": [
+          "drivers",
+          "supervisors",
+          "personal clothing",
+          "bedding",
+          "cooked food items",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        283,
+        573,
+        786,
+        828,
+        903,
+        1294,
+        1298,
+        1309,
+        1433,
+        1557,
+        3156
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।— (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার বা এ্যাসিস্টেন্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালি পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi crew and officials of both domestic and foreign airlines arriving from abroad after duty are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Bangladeshi crew and officials arriving on ships from foreign ports are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Upon signing off, Bangladeshi ship crew and officials are permitted to import baggage up to a higher specified maximum value subject to the payment of all applicable duties and taxes.",
+          "Drivers and stewards of passenger buses arriving from abroad are allowed to import clothing, bedding, and cooked food, along with personal and household items up to a specific maximum value, free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1643",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "clothing",
+          "bedding",
+          "cooked food",
+          "personal items",
+          "household items"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        427,
+        482,
+        525,
+        828,
+        903
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।— (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাাংলাদেশী এয়ার লাইন্সে কতব্যথ রত কোনো বাাংলাদেশী ক্রু বা কমকথ তাথ এবং বাাংলাদেশের কোনো বিমানবন্দরে ফ্লাইট পরিচালনাকারী কোনো বিদেশী এয়ার লাইন্সে কতব্যথ রত কোনো বাাংলাদেশী ক্রু বা কমকথ তাথ সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাাংলাদেশী নাবিক বা কমকথ তাথ সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কমকথ তাথ সাইন অফ (sign off) করিলে তিনি অনূর্ধ্থ ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবািী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার বা অ্যাসিস্টেন্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi crew and staff of both domestic and foreign airlines returning from professional duty abroad are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Bangladeshi sailors and staff arriving from foreign seaports are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Upon signing off, Bangladeshi sailors and staff are permitted to import baggage up to a higher maximum value, provided they pay all applicable duties and taxes.",
+          "Drivers and stewards of passenger buses arriving from abroad are allowed to import personal clothing, bedding, and cooked food items, along with personal and household goods up to a specified minimum value, free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2515",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "personal clothing",
+          "bedding",
+          "cooked food items",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        283,
+        786,
+        828,
+        903,
+        1433
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।- (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ারলাইন্সে কর্তব্যরত কোনো বাংলাদেশী ক্রু বা কর্মকর্তা অথবা বাংলাদেশের কোনো বিমানবন্দরে ফ্লাইট পরিচালনাকারী কোনো বিদেশী এয়ারলাইন্সে কর্তব্যরত কোনো বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ৩ (তিন) শত মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোনো জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩ (তিন) শত মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২ (দুই) হাজার মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার বা অ্যাসিস্টেন্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্যসামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi crew or officers serving on Bangladeshi or foreign airlines arriving from abroad are permitted to import baggage up to a specified maximum value free of all duties and taxes, provided they are performing professional duties.",
+          "Bangladeshi sailors or officers arriving from foreign seaports are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Upon signing off, Bangladeshi sailors or officers are permitted to import baggage up to a higher specified maximum value subject to the payment of all applicable duties and taxes.",
+          "Drivers and stewards of passenger buses arriving from abroad are permitted to import personal clothing, bedding, cooked food items, and other personal or household goods up to a specified maximum value free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2713",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "personal clothing",
+          "bedding",
+          "cooked food items",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        283,
+        786,
+        828,
+        903,
+        1433
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাববক এবাং অন্যান্যদের জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+      "resolved_text": "৬। ক্রু, নাববক এবাং অন্যান্যদের জন্য সুববধা।- (১) বপশাগত োবয়ত্ব পালন বশদষ ববদেশ হইদত আগত বাাংলাদেনশ এয়ারলাইদে কতব্যথ রত বকাদনা বাাংলাদেনশ ক্রু বা কমকথ তাথ অর্বা বাাংলাদেদশর ম াঙ্গনা ববমানবন্দদরর ফ্লাইট পবরচালনাকারী বকাদনা ববদেনশ এয়ারলাইদে কতব্যথ রত বকাদনা বাাংলাদেনশ ক্রু বা কমকথ তাথ সদবাথচ্চ ৩ (বতন) শত মাবকথন র্লার মূদের ব্যাদগজ সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন।\n(২) ববদেনশ সমুদ্রবন্দর হইদত আগমনকারী বকাদনা জাহাদজর বাাংলাদেনশ নাববক বা কমকথ তাথ সদবাথচ্চ ৩ (বতন) শত মাবকথন র্লার মূদের ব্যাদগজ সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন।\n(৩) উপ-বববধ (২) এ উবিবখত নাববক বা কমকথ তাথ সাইন অফ (sign off) কবরদল বতবন অনূর্ধ্থ ২ (দুই) হাজার মাবকথন র্লার মূদের ব্যাদগজ আদরাপদযাগ্য সকল প্রকার শুল্ক ও কর পবরদশাধক্রদম আমোবন কবরদত পাবরদবন।\n(৪) ববদেশ হইদত আগত যাত্রীবাহী বাদসর চালক ও স্টুয়ার্গথণ (দহলপার বা অযাবসদস্টন্ট) পবরদধয় বস্ত্র, ববছানা (দববর্াং) ও রন্ধনকৃত খাদ্যসামগ্রী এবাং সদবাথচ্চ ৫০ (পঞ্চাশ) মাবকথন র্লার মূদের ব্যবিগত ও গৃহস্থাবল পে সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন।",
+      "entity_concepts": {
+        "Airline Crew": [
+          "Bangladeshi crew or staff members of Bangladeshi or foreign airlines arriving from abroad during official duty are permitted to import baggage up to a specified monetary limit free of all duties and taxes."
+        ],
+        "Seafarers": [
+          "Bangladeshi crew or staff arriving from foreign seaports are permitted to import baggage up to a specified monetary limit free of all duties and taxes.",
+          "Upon signing off from their duties, seafarers are permitted to import baggage up to a higher specified monetary limit upon payment of all applicable duties and taxes."
+        ],
+        "Transport Crew": [
+          "Drivers and stewards (helpers/assistants) of passenger buses arriving from abroad may import personal clothing, bedding, and cooked food, along with household goods up to a specific monetary limit, free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1060",
+      "entity_sub_entities": {
+        "Airline Crew": [
+          "Bangladeshi crew",
+          "staff members",
+          "baggage"
+        ],
+        "Seafarers": [
+          "Bangladeshi crew",
+          "staff",
+          "baggage"
+        ],
+        "Transport Crew": [
+          "Drivers",
+          "stewards",
+          "helpers",
+          "assistants",
+          "personal clothing",
+          "bedding",
+          "cooked food",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        283,
+        828,
+        903,
+        1113,
+        1160,
+        1294,
+        1298,
+        1309,
+        1433,
+        1557,
+        1865,
+        12991
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।—(১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ারলাইন্সে কর্তব্যরত কোনো বাংলাদেশী ক্রু বা কর্মকর্তা অথবা বাংলাদেশের কোনো বিমানবন্দরে ফ্লাইট পরিচালনাকারী কোনো বিদেশি এয়ারলাইন্সে কর্তব্যরত কোনো বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ১৫০ (দেড়শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশি সমুদ্রবন্দর হইতে আগমনকারী কোনো জাহাজের বাংলাদেশি নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২ (দুই) হাজার মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও সুপারভাইজার (হেলপার বা অ্যাসিস্টেন্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্যসামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালি পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi flight crew or officials arriving from abroad are permitted to import baggage up to a specified monetary value free of all duties and taxes.",
+          "Bangladeshi sailors or ship officials arriving from foreign seaports are permitted to import baggage up to a specified monetary value free of all duties and taxes.",
+          "Upon signing off, sailors or ship officials are permitted to import baggage up to a higher specified monetary limit, subject to the payment of all applicable duties and taxes.",
+          "Drivers and supervisors of passenger buses arriving from abroad are permitted to import specific personal items such as clothing, bedding, and cooked food, along with additional personal or household goods up to a specified monetary limit, free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3195",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "clothing",
+          "bedding",
+          "cooked food",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        283,
+        482,
+        786,
+        828,
+        903
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ],
+  "num_static_replicated_objects": 5,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।- (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ১০০ (এক শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিন শত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার/অ্যাসিস্ট্যান্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Airline Crew Baggage Allowance": [
+          "Bangladeshi crew or officers on international flights arriving in Bangladesh may import baggage up to a specified monetary value without paying any customs duties or taxes."
+        ],
+        "Seafarer Baggage Allowance": [
+          "Bangladeshi crew or officers arriving at a Bangladeshi seaport from a foreign port may import baggage up to a specified monetary value duty-free.",
+          "Upon signing off from their duties, seafarers are permitted to import baggage up to a higher specified value subject to the payment of all applicable customs duties and taxes."
+        ],
+        "Transport Crew Baggage Allowance": [
+          "Drivers and stewards of passenger buses arriving from abroad are allowed to import personal items including clothing, bedding, and food duty-free, along with additional personal and household goods up to a specified monetary limit."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1321",
+      "entity_sub_entities": {
+        "Airline Crew Baggage Allowance": [
+          "Bangladeshi crew",
+          "officers",
+          "baggage"
+        ],
+        "Seafarer Baggage Allowance": [
+          "Bangladeshi crew",
+          "officers",
+          "baggage"
+        ],
+        "Transport Crew Baggage Allowance": [
+          "Drivers",
+          "stewards",
+          "personal items",
+          "clothing",
+          "bedding",
+          "food",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        273,
+        283,
+        482,
+        525,
+        786,
+        828,
+        1204,
+        1294,
+        1298,
+        1309,
+        1557,
+        1865,
+        3156
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।— (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ১০০ (একশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও সুপারভাইজারগণ (হেলপার/অ্যাসিস্ট্যান্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi flight crew or officials arriving from abroad on duty are permitted to import baggage up to a specified value free of all duties and taxes.",
+          "Bangladeshi sailors or officers arriving from foreign seaports are permitted to import baggage up to a specified value free of all duties and taxes.",
+          "Upon signing off, Bangladeshi sailors or officers are permitted to import baggage up to a higher specified value subject to the payment of all applicable duties and taxes.",
+          "Drivers and supervisors of passenger buses arriving from abroad are allowed to import personal clothing, bedding, cooked food, and household goods up to a specified value free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1381",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "personal clothing",
+          "bedding",
+          "cooked food",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        283,
+        828,
+        903,
+        1433
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।— (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্তব্যরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার বা এ্যাসিস্টেন্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালি পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi crew and officials of both domestic and foreign airlines arriving from abroad after duty are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Bangladeshi crew and officials arriving on ships from foreign ports are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Upon signing off, Bangladeshi ship crew and officials are permitted to import baggage up to a higher specified maximum value subject to the payment of all applicable duties and taxes.",
+          "Drivers and stewards of passenger buses arriving from abroad are allowed to import clothing, bedding, and cooked food, along with personal and household items up to a specific maximum value, free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1643",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "clothing",
+          "bedding",
+          "cooked food",
+          "personal items",
+          "household items"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        427,
+        482,
+        525,
+        828,
+        903
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।- (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ারলাইন্সে কর্তব্যরত কোনো বাংলাদেশী ক্রু বা কর্মকর্তা অথবা বাংলাদেশের কোনো বিমানবন্দরে ফ্লাইট পরিচালনাকারী কোনো বিদেশী এয়ারলাইন্সে কর্তব্যরত কোনো বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ৩ (তিন) শত মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোনো জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩ (তিন) শত মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২ (দুই) হাজার মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও স্টুয়ার্ডগণ (হেলপার বা অ্যাসিস্টেন্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্যসামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Bangladeshi crew or officers serving on Bangladeshi or foreign airlines arriving from abroad are permitted to import baggage up to a specified maximum value free of all duties and taxes, provided they are performing professional duties.",
+          "Bangladeshi sailors or officers arriving from foreign seaports are permitted to import baggage up to a specified maximum value free of all duties and taxes.",
+          "Upon signing off, Bangladeshi sailors or officers are permitted to import baggage up to a higher specified maximum value subject to the payment of all applicable duties and taxes.",
+          "Drivers and stewards of passenger buses arriving from abroad are permitted to import personal clothing, bedding, cooked food items, and other personal or household goods up to a specified maximum value free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2713",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "baggage",
+          "personal clothing",
+          "bedding",
+          "cooked food items",
+          "personal goods",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        171,
+        283,
+        786,
+        828,
+        903,
+        1433
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাববক এবাং অন্যান্যদের জন্য সুববধা",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+      "resolved_text": "৬। ক্রু, নাববক এবাং অন্যান্যদের জন্য সুববধা।- (১) বপশাগত োবয়ত্ব পালন বশদষ ববদেশ হইদত আগত বাাংলাদেনশ এয়ারলাইদে কতব্যথ রত বকাদনা বাাংলাদেনশ ক্রু বা কমকথ তাথ অর্বা বাাংলাদেদশর ম াঙ্গনা ববমানবন্দদরর ফ্লাইট পবরচালনাকারী বকাদনা ববদেনশ এয়ারলাইদে কতব্যথ রত বকাদনা বাাংলাদেনশ ক্রু বা কমকথ তাথ সদবাথচ্চ ৩ (বতন) শত মাবকথন র্লার মূদের ব্যাদগজ সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন।\n(২) ববদেনশ সমুদ্রবন্দর হইদত আগমনকারী বকাদনা জাহাদজর বাাংলাদেনশ নাববক বা কমকথ তাথ সদবাথচ্চ ৩ (বতন) শত মাবকথন র্লার মূদের ব্যাদগজ সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন।\n(৩) উপ-বববধ (২) এ উবিবখত নাববক বা কমকথ তাথ সাইন অফ (sign off) কবরদল বতবন অনূর্ধ্থ ২ (দুই) হাজার মাবকথন র্লার মূদের ব্যাদগজ আদরাপদযাগ্য সকল প্রকার শুল্ক ও কর পবরদশাধক্রদম আমোবন কবরদত পাবরদবন।\n(৪) ববদেশ হইদত আগত যাত্রীবাহী বাদসর চালক ও স্টুয়ার্গথণ (দহলপার বা অযাবসদস্টন্ট) পবরদধয় বস্ত্র, ববছানা (দববর্াং) ও রন্ধনকৃত খাদ্যসামগ্রী এবাং সদবাথচ্চ ৫০ (পঞ্চাশ) মাবকথন র্লার মূদের ব্যবিগত ও গৃহস্থাবল পে সকল প্রকার শুল্ক ও কর পবরদশাধ ব্যবতদরদক আমোবন কবরদত পাবরদবন।",
+      "entity_concepts": {
+        "Airline Crew": [
+          "Bangladeshi crew or staff members of Bangladeshi or foreign airlines arriving from abroad during official duty are permitted to import baggage up to a specified monetary limit free of all duties and taxes."
+        ],
+        "Seafarers": [
+          "Bangladeshi crew or staff arriving from foreign seaports are permitted to import baggage up to a specified monetary limit free of all duties and taxes.",
+          "Upon signing off from their duties, seafarers are permitted to import baggage up to a higher specified monetary limit upon payment of all applicable duties and taxes."
+        ],
+        "Transport Crew": [
+          "Drivers and stewards (helpers/assistants) of passenger buses arriving from abroad may import personal clothing, bedding, and cooked food, along with household goods up to a specific monetary limit, free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1060",
+      "entity_sub_entities": {
+        "Airline Crew": [
+          "Bangladeshi crew",
+          "staff members",
+          "baggage"
+        ],
+        "Seafarers": [
+          "Bangladeshi crew",
+          "staff",
+          "baggage"
+        ],
+        "Transport Crew": [
+          "Drivers",
+          "stewards",
+          "helpers",
+          "assistants",
+          "personal clothing",
+          "bedding",
+          "cooked food",
+          "household goods"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        283,
+        828,
+        903,
+        1113,
+        1160,
+        1294,
+        1298,
+        1309,
+        1433,
+        1557,
+        1865,
+        12991
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ]
+}

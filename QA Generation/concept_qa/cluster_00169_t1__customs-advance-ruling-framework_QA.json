@@ -1,0 +1,153 @@
+{
+  "thread_id": "cluster_00169_t1",
+  "cluster_id": 169,
+  "cluster_label": "customs matters",
+  "title": "Customs Advance Ruling Framework",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 5,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics manager at a major Dhaka-based import firm is preparing for upcoming clearance procedures in the middle of 2016. He is carefully reviewing the latest government notifications to ensure his team remains fully compliant with the evolving regulatory landscape. While going through the recent circulars, he spots a specific legal framework that was officially introduced on June 5, 2016, to streamline the classification and valuation process. He needs to record the precise name of this document for his company’s internal compliance manual. What is the official title of the legal framework introduced on June 5, 2016, regarding advance rulings?",
+      "question": "What is the official title of the legal framework introduced on June 5, 2016, regarding advance rulings?",
+      "answer": "The framework is officially titled the 'Advance Rulings Rules 2016' (কাস্টমস রুলিং (অগ্রিম) বিধিমালা, ২০১৬).",
+      "date_or_instrument": "2016-06-05 | Customs Ruling (Advance) Rules, 2016",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A busy customs officer at the Chittagong port is reviewing the documentation for a shipment processed shortly after the government released new regulations regarding advance rulings. There is some internal discussion among the staff regarding the exact timing of when these new procedures became legally binding. The officer pulls up the official notification dated June 5, 2016, to verify the operational timeline. When did the Advance Rulings Rules 2016 come into force?",
+      "question": "When did the Advance Rulings Rules 2016 come into force?",
+      "answer": "The rules came into force immediately upon their issuance on June 5, 2016.",
+      "date_or_instrument": "2016-06-05 | Customs Ruling (Advance) Rules, 2016",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A textile manufacturer has successfully obtained a formal advance ruling from the relevant authorities to provide certainty regarding the classification of their imported machinery components. As they prepare to clear the next batch of equipment, the floor manager expresses concern that the local customs station might interpret the classification differently than what was stated in the official ruling. The company director needs to assure the team that the administrative decision is legally binding across all entry points. Are customs stations mandatorily required to comply with an issued advance ruling?",
+      "question": "Are customs stations mandatorily required to comply with an issued advance ruling?",
+      "answer": "Yes, every customs station is obligated to follow and uphold the requirements specified in an advance ruling.",
+      "date_or_instrument": "2016-06-05 | Customs Ruling (Advance) Rules, 2016",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An independent exporter is preparing to ship a batch of specialized chemicals that are identical in composition to products previously imported by a larger competitor. He is aware that this competitor already secured an official advance ruling for these specific goods, which helped resolve previous classification disputes. He wonders if he can leverage the precedent established by that existing ruling to simplify his own clearance process. Can an exporter use an existing advance ruling issued to another party as a reference for clearing identical goods?",
+      "question": "Can an exporter use an existing advance ruling issued to another party as a reference for clearing identical goods?",
+      "answer": "Yes, other importers, exporters, or relevant persons may use an existing advance ruling as a reference when clearing identical goods through customs.",
+      "date_or_instrument": "2016-06-05 | Customs Ruling (Advance) Rules, 2016",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "After months of waiting, a corporate entity finally receives a favorable advance ruling regarding the duty structure of their raw material imports. The company’s legal department is now drafting an internal memorandum to ensure that all departments understand the weight of this decision and their responsibilities moving forward. They want to clarify who exactly is bound by the terms outlined in this document beyond just the government authorities. Besides customs stations, who else is required to comply with an advance ruling?",
+      "question": "Besides customs stations, who else is required to comply with an advance ruling?",
+      "answer": "The holder of the advance ruling is mandatorily required to comply with the issued ruling.",
+      "date_or_instrument": "2016-06-05 | Customs Ruling (Advance) Rules, 2016",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Advance Rulings Rules 2016 were officially introduced and came into force on June 5, 2017.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "June 5, 2017",
+      "correct_fact": "June 5, 2016",
+      "answer": "The statement is inaccurate. The Advance Rulings Rules 2016 were introduced and came into force on June 5, 2016.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Advance Rulings Rules 2016, customs stations are not legally obligated to follow the requirements specified in an issued advance ruling.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "not legally obligated",
+      "correct_fact": "mandatorily required to comply",
+      "answer": "The statement is inaccurate. According to the Advance Rulings Rules 2016 (dated 2016-06-05), every customs station is mandatorily required to comply with and uphold the requirements specified in an advance ruling.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Advance Rulings Rules 2016 provide the formal procedural framework for issuing advance rulings in customs matters.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the instrument dated 2016-06-05, these rules provide the procedural framework for issuing advance rulings in customs matters.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Importers and exporters are prohibited from using an existing advance ruling as a reference when clearing identical goods through customs.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "prohibited from using",
+      "correct_fact": "may use an existing advance ruling as a reference",
+      "answer": "The statement is inaccurate. Under the Advance Rulings Rules 2016 (dated 2016-06-05), other importers, exporters, or relevant persons may use an existing advance ruling as a reference when clearing identical goods.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Advance Rulings Rules 2016 came into force immediately upon their issuance on June 5, 2016.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The rules state they come into force immediately upon their issuance on June 5, 2016.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The holder of an advance ruling is exempt from the obligation to comply with the ruling under the 2016 rules.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "exempt from the obligation to comply",
+      "correct_fact": "mandatorily required to comply",
+      "answer": "The statement is inaccurate. Per the Advance Rulings Rules 2016 (dated 2016-06-05), the holder of an advance ruling is mandatorily required to comply with the issued ruling.",
+      "clause_text_ids": [
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+        "20160605_Advance_Rulings_Rules_2016_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_11"
+      ]
+    }
+  ]
+}

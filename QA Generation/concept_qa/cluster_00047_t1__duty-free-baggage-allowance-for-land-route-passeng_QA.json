@@ -1,0 +1,163 @@
+{
+  "thread_id": "cluster_00047_t1",
+  "cluster_id": 47,
+  "cluster_label": "baggage",
+  "title": "Duty-Free Baggage Allowance for Land Route Passengers",
+  "source_num_member_objects": 9,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the duty-free baggage allowance for land route passengers in Bangladesh evolved in terms of monetary limits and regulatory restrictions?",
+      "answer": "The duty-free allowance for land route passengers began at 300 USD under the Baggage Rules 2010. This was increased to 400 USD in the Baggage Rules 2016 and has remained at that level through subsequent regulations. Additionally, to prevent abuse, a frequency restriction was introduced in the Baggage Rules 2023, limiting passengers to claiming this duty-free benefit a maximum of 3 times per calendar year.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What was the primary driver behind the introduction of frequency limitations for land route passengers in 2023?",
+      "answer": "According to the summary of the evolution of these policies, the introduction of the frequency cap of 3 times per calendar year in 2023 was implemented specifically to prevent the abuse of the duty-free baggage allowance facility.",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Does the duration of a passenger's stay abroad affect their eligibility for the duty-free baggage allowance when arriving by land?",
+      "answer": "No, the duration of stay abroad does not affect eligibility. Across all relevant instruments from the Baggage Rules 2010 through the 2025 updates, the policy explicitly states that the duty-free baggage allowance is permitted regardless of the duration of the passenger's stay abroad.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20250603_._._._০২ জুন, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Compare the regulatory framework for land route baggage allowances between 2010 and 2024 regarding the conditions of the benefit.",
+      "answer": "In 2010, the Baggage Rules simply defined a 300 USD monetary limit for duty-free imports without any frequency constraints. By 2024, while the monetary limit had increased to 400 USD, the regulatory framework became more restrictive by incorporating a mandatory cap that limits passengers to utilizing this duty-free concession no more than 3 times per calendar year.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the definition of the duty-free baggage allowance for land passengers remained consistent over time?",
+      "answer": "Despite changes to the monetary value and the addition of frequency caps, the core concept has remained consistent: passengers arriving via land routes are permitted to import baggage free of all customs duties and taxes up to the specified maximum value, and this benefit is explicitly granted regardless of how long the passenger stayed abroad.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_4",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_4",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A frequent traveler by land route utilized the duty-free baggage allowance in January 2016 and again in September 2016. In 2024, the same traveler intends to make four separate trips by land, each carrying baggage worth 400 USD.",
+      "question": "How does the traveler's ability to claim the duty-free allowance in 2024 differ from their experience in 2016 regarding the frequency of imports?",
+      "answer": "In 2016, there was no frequency restriction on the duty-free allowance, allowing the traveler to claim it as often as they traveled. In 2024, the traveler is limited to a maximum of 3 times per calendar year, meaning they cannot claim the duty-free allowance on their fourth trip.",
+      "clauses_involved": [
+        "2016-04-08",
+        "2023-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer arriving via land route in 2010 brought in baggage worth 350 USD. Another importer arriving via land route in 2025 also brings in baggage worth 350 USD.",
+      "question": "Which importer is entitled to the full duty-free exemption, and what regulatory change accounts for the difference in their status?",
+      "answer": "Only the importer in 2025 is entitled to the full duty-free exemption. In 2010, the limit was 300 USD, meaning the 350 USD baggage would have exceeded the allowance. By 2025, the limit had been increased to 400 USD.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20250603_._._._০২ জুন, ২০২৫_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In the Baggage Rules 2010, the duty-free allowance for land route passengers was set at 300 USD; how did this limit change six years later?",
+      "answer": "In the Baggage Rules 2016 (April 8, 2016), the duty-free allowance for land route passengers was increased from 300 USD to 400 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "seven years later",
+      "question": "Following the 2016 update which set the land route duty-free baggage allowance to 400 USD, what new restriction was introduced seven years later?",
+      "answer": "In the Baggage Rules 2023 (June 1, 2023), while the monetary limit was maintained at 400 USD, a frequency restriction was introduced, limiting passengers to using the duty-free allowance a maximum of 3 times per calendar year.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_4",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The duty-free baggage allowance for passengers arriving via land routes is set at a maximum value of 400 USD, with a restriction that the benefit cannot be claimed more than 3 times per calendar year.",
+        "The duty-free baggage allowance for passengers arriving via land routes is increased to a maximum value of 400 USD.",
+        "The duty-free baggage allowance for passengers arriving via land routes is set at a maximum value of 300 USD."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The duty-free baggage allowance for passengers arriving via land routes is set at a maximum value of 300 USD.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The duty-free baggage allowance for passengers arriving via land routes is increased to a maximum value of 400 USD.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "The duty-free baggage allowance for passengers arriving via land routes is set at a maximum value of 400 USD, with a restriction that the benefit cannot be claimed more than 3 times per calendar year.",
+          "date": "2023-06-01"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_4",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00047_t1__duty-free-baggage-allowance-for-land-route-passeng.json"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "thread_id": "cluster_00483_t0",
+  "cluster_id": 483,
+  "cluster_label": "customs clearance process",
+  "title": "Customs Clearance Verification and Approval Procedures",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the primary method of verifying customs information evolved from 2016 to 2025?",
+      "answer": "The verification process shifted from manual, interpersonal communication via phone, fax, or email as mandated by SRO 2016, to digital validation using online systems and government websites under SRO 2022. By 2025, with the introduction of the Customs Rules 2025, the process transitioned to an automated risk management system (ARMS) that utilizes data analytics and pre-defined selectivity criteria to determine clearance channels.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What was the primary driver for the shift in inter-departmental communication protocols between 2016 and 2022?",
+      "answer": "The primary driver was the need to avoid processing delays during customs clearance. While SRO 2016 relied on direct communication between customs and VAT officials to ensure accuracy, SRO 2022 transitioned this to digital verification through the Customs Computerised Entry Processing System and VAT online systems to improve efficiency and authenticity.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the role of the Deputy Commissioner or Assistant Commissioner changed in the approval process across the timeline?",
+      "answer": "Across the timeline, the Deputy Commissioner or Assistant Commissioner has consistently acted as the final supervisory authority for customs clearance. While SRO 2016 and SRO 2022 tasked them with coordinating verification, SRO 2024 specifically streamlined this by mandating their formal approval to ensure that all procedural and import conditions are satisfied before clearance.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way does the 2025 Customs Risk Management framework expand institutional involvement compared to earlier procedures?",
+      "answer": "The 2025 framework significantly broadens institutional integration by requiring diverse entities—including customs stations, VAT commissionerates, the Customs Intelligence and Investigation Directorate, the Central Intelligence Cell, and bonding commissionerates—to input risk information into a centralized ARMS software. This moves beyond the earlier bilateral communication between customs and VAT officials toward a multi-agency, data-driven ecosystem.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the functional implication of the 'selectivity' criteria introduced in the Customs Rules 2025?",
+      "answer": "The selectivity criteria allow the customs system to automatically classify cargo into red, yellow, blue, and green lanes based on risk scores and historical data analysis. This represents a shift from manual officer-led assessment to an automated management framework that uses machine learning and artificial intelligence to identify compliance threats.",
+      "clause_text_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the focus of customs compliance requirements shift between the 2022 and 2024 regulations?",
+      "answer": "While SRO 2022 emphasized the verification of the Business Identification Number (BIN) and compliance with specific import conditions via online systems, SRO 2024 streamlined these requirements to focus specifically on compliance with defined clauses and formal approval by DC/AC level officers, simplifying the administrative verification burden.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been clearing goods since 2016. In 2016, their customs officer verified their shipment details by calling the VAT office. By 2022, the officer used the NBR website to verify their BIN. In 2025, the importer notices their consignment is now being processed through a 'Green Lane' based on an automated system.",
+      "question": "How has the primary mechanism for customs verification and clearance processing evolved from the 2016 mandate to the 2025 framework?",
+      "answer": "The process evolved from manual inter-departmental communication (phone/fax/email) in 2016, to digital system-based validation of BINs in 2022, and finally to an automated risk management system (ARMS) using selectivity lanes (Red/Yellow/Blue/Green) in 2025.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2022-07-17",
+        "2025-03-10"
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Deputy Commissioner has been approving customs clearances since before 2022. Under the 2022 rules, they were explicitly required to verify the BIN via online systems. Under the 2024 rules, the focus shifted to ensuring compliance with specific clauses and formal approval.",
+      "question": "What changed regarding the Deputy Commissioner's verification responsibilities between the 2022 and 2024 regulations?",
+      "answer": "The 2022 rules explicitly mandated the officer to verify the BIN using online systems or websites, whereas the 2024 rules streamlined the requirement to focus on verifying compliance with specific import/customs conditions and providing formal approval.",
+      "clauses_involved": [
+        "2022-07-17",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "six years later",
+      "question": "In 2016-06-02, customs officials verified information via manual communication like phone or email. Six years later, how did the verification process evolve?",
+      "answer": "In 2022-07-17 (SRO 2022), the process transitioned to digital verification using Customs/VAT online systems and website-based BIN validation.",
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-07-17",
+      "relative_offset": "three years later",
+      "question": "Following the 2022-07-17 mandate for digital verification, what major change occurred three years later regarding the customs clearance framework?",
+      "answer": "In 2025-03-10 (Customs Rules 2025), the system shifted to an automated risk management system (ARMS) that uses selectivity criteria (Red/Yellow/Blue/Green lanes) for clearance.",
+      "clause_text_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "nine months later",
+      "question": "In 2024-06-06, customs clearance relied on specific compliance checks and officer approval. Nine months later, what new automated mechanism was introduced?",
+      "answer": "In 2025-03-10 (Customs Rules 2025), an automated risk management system (ARMS) was established to evaluate shipment risks based on pre-defined indicators and selectivity lanes.",
+      "clause_text_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_4",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Customs clearance procedures require customs officials to use automated risk management software to categorize consignments into specific colored lanes for processing.",
+        "Customs clearance procedures mandate that officials verify shipment information by communicating with Value Added Tax counterparts via phone, fax, or email.",
+        "Customs clearance procedures require officials to validate Business Identification Numbers using online customs or Value Added Tax systems and websites.",
+        "Customs clearance procedures are streamlined to focus verification on specific compliance clauses and formal approval by Deputy or Assistant Commissioner level officers."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Customs clearance procedures mandate that officials verify shipment information by communicating with Value Added Tax counterparts via phone, fax, or email.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "Customs clearance procedures require officials to validate Business Identification Numbers using online customs or Value Added Tax systems and websites.",
+          "date": "2022-07-17"
+        },
+        {
+          "event": "Customs clearance procedures are streamlined to focus verification on specific compliance clauses and formal approval by Deputy or Assistant Commissioner level officers.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Customs clearance procedures require customs officials to use automated risk management software to categorize consignments into specific colored lanes for processing.",
+          "date": "2025-03-10"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+        "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+        "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+        "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00483_t0__customs-clearance-verification-and-approval-proced.json"
+    }
+  ]
+}

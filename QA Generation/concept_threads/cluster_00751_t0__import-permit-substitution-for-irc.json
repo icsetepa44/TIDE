@@ -1,0 +1,225 @@
+{
+  "cluster_id": 751,
+  "cluster_label": "Bangladesh Export Processing Zones Authority",
+  "thread_index": 0,
+  "thread_id": "cluster_00751_t0",
+  "title": "Import Permit Substitution for IRC",
+  "summary": "The policy evolved from specific commodity-based import permits to a broader regulatory framework allowing industrial units under BEPZA to substitute the Industrial Consumer Import Registration Certificate (IRC) with an authority-issued import permit. This ensures that entities under special economic jurisdictions maintain compliance without redundant registration requirements.",
+  "evolution": {
+    "scope": "Expanded from specific commodity control to general industrial import compliance.",
+    "legal_basis": "Shifted from ad-hoc permit requirements to a standardized exemption mechanism for IRC-exempt industrial units."
+  },
+  "timeline": [
+    {
+      "date": "2020-06-11",
+      "instrument": "SRO/Clause",
+      "change": "Initial requirement for specific commodity import permits for BEPZA-governed entities.",
+      "clause_ids": [
+        "20200611_134-AIN_2019_85_Customs_৩ জুন, ২০২০ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO/Clause",
+      "change": "Formalized the substitution of Industrial IRC with authority-issued import permits for entities under BEPZA, BEZA, and others.",
+      "clause_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO/Clause",
+      "change": "Reiteration of the 2024 policy framework for import permit substitution.",
+      "clause_ids": [
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_7"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20200611_134-AIN_2019_85_Customs_৩ জুন, ২০২০ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। উক্ত TABLE এর ক্রমিক নং ৪১ এর বিপরীতে কলাম (২) এ উল্লিখিত পণ্য (Mannequin/Tailor's Dummy) আমদানির ক্ষেত্রে নিম্নবর্ণিত শর্ত প্রযোজ্য হইবে, যথা:-\n\n(ক) Bangladesh Export Processing Zones Authority এর Import Permit গ্রহণ সাপেক্ষে প্রথমবার সর্বোচ্চ ৪ (চার) টি এবং পরবর্তীকালে প্রতি বৎসর সর্বোচ্চ ২ (দুই) টি আমদানি করিতে পারিবে;\n\n(খ) আমদানিকারক প্রতিষ্ঠান-\n\n(অ) দফা (ক) এ উল্লিখিত Import Permit গ্রহণকালে এই মর্মে প্রত্যয়নপত্র দাখিল করিবে যে, আমদানি বৎসরে উহার চালানে কলাম (২) এ উল্লিখিত পণ্যের প্রাপ্যতা রহিয়াছে; এবং\n\n(আ) কাস্টমস কর্তৃপক্ষের অনুমতি ব্যতিরেকে উহা বিক্রয় বা হস্তান্তর করিবে না মর্মে নন-জুডিশিয়াল স্ট্যাম্পে একটি অঙ্গীকারনামা সংশ্লিষ্ট কাস্টম হাউসে বা কাস্টম স্টেশনে দাখিল করিবে :\n\nতবে শর্ত থাকে যে, উক্ত পণ্য বিক্রয় বা হস্তান্তরের ক্ষেত্রে প্রযোজ্য শুল্ক-করাদি তদকর্তৃক পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table includes a specific commodity entry for mannequins or tailor's dummies at serial number 41 which is subject to defined import conditions."
+        ],
+        "Bangladesh Export Processing Zones Authority": [
+          "Importation of the specified commodity requires obtaining an Import Permit from this authority."
+        ],
+        "Customs Authority": [
+          "Imported mannequins or tailor's dummies cannot be sold or transferred without the prior permission of the customs authorities.",
+          "An undertaking on a non-judicial stamp must be submitted to the concerned customs house or station regarding the restriction on sale or transfer of the goods.",
+          "The importer must pay all applicable duties and taxes if the imported goods are subsequently sold or transferred."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2039",
+      "entity_sub_entities": {
+        "TABLE": [
+          "mannequins",
+          "tailor's dummies"
+        ],
+        "Bangladesh Export Processing Zones Authority": [
+          "Import Permit"
+        ],
+        "Customs Authority": [
+          "mannequins",
+          "tailor's dummies",
+          "undertaking",
+          "non-judicial stamp",
+          "customs house",
+          "customs station",
+          "duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        23,
+        25,
+        26,
+        30,
+        60,
+        354,
+        400,
+        751,
+        2885,
+        4323,
+        4989
+      ],
+      "source_file": "customs_sros_OCR/20200611_134-AIN_2019_85_Customs/20200611_134-AIN_2019_85_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "৭। বাংলাদেশ রপ্তানি প্রক্রিয়াকরণ অঞ্চল কর্তৃপক্ষ (BEPZA), বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ (BEZA), বাংলাদেশ হাইটেক পার্ক কর্তৃপক্ষ অথবা আইন বলে প্রতিষ্ঠিত অন্য যে কোনো কর্তৃপক্ষের নিয়ন্ত্রণাধীন শিল্প প্রতিষ্ঠান যাহাদের জন্য শিল্প ভোক্তা আইআরসি গ্রহণের বাধ্যবাধকতা নাই সেইরূপ ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষ কর্তৃক ইস্যূকৃত আমদানি অনুমতিপত্র দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Bangladesh Export Processing Zones Authority": [
+          "Industrial enterprises under the control of this authority that are exempt from the obligation to obtain an Industrial Consumer Import Registration Certificate must submit an import permit issued by the authority."
+        ],
+        "Bangladesh Economic Zones Authority": [
+          "Industrial enterprises under the control of this authority that are exempt from the obligation to obtain an Industrial Consumer Import Registration Certificate must submit an import permit issued by the authority."
+        ],
+        "Bangladesh Hi-Tech Park Authority": [
+          "Industrial enterprises under the control of this authority that are exempt from the obligation to obtain an Industrial Consumer Import Registration Certificate must submit an import permit issued by the authority."
+        ],
+        "Industrial Import Registration Certificate": [
+          "Enterprises exempt from obtaining this registration certificate are required to provide alternative import authorization documents from their respective regulatory authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2580",
+      "entity_sub_entities": {
+        "Bangladesh Export Processing Zones Authority": [
+          "industrial enterprises",
+          "Industrial Consumer Import Registration Certificate",
+          "import permit"
+        ],
+        "Bangladesh Economic Zones Authority": [
+          "industrial enterprises",
+          "Industrial Consumer Import Registration Certificate",
+          "import permit"
+        ],
+        "Bangladesh Hi-Tech Park Authority": [
+          "industrial enterprises",
+          "Industrial Consumer Import Registration Certificate",
+          "import permit"
+        ],
+        "Industrial Import Registration Certificate": [
+          "enterprises",
+          "import authorization documents",
+          "regulatory authorities"
+        ]
+      },
+      "clause_clusters": [
+        101,
+        354,
+        490,
+        685,
+        751,
+        1338,
+        3909,
+        4650,
+        8831
+      ],
+      "source_file": "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_7",
+      "resolved_text": "৭। বাংলাদেশ রপ্তানি প্রক্রিয়াকরণ অঞ্চল কর্তৃপক্ষ (BEPZA), বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ (BEZA), বাংলাদেশ হাইটেক পার্ক কর্তৃপক্ষ অথবা আইন বলে প্রতিষ্ঠিত অন্য যে কোনো কর্তৃপক্ষের নিয়ন্ত্রণাধীন শিল্প প্রতিষ্ঠান যাহাদের জন্য শিল্প ভোক্তা আইআরসি গ্রহণের বাধ্যবাধকতা নাই সেইরূপ ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষ কর্তৃক ইস্যূকৃত আমদানি অনুমতিপত্র দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Bangladesh Export Processing Zones Authority": [
+          "Industrial enterprises operating under the control of this authority are required to submit an import permit issued by the relevant authority in cases where they are not obligated to obtain an Industrial Consumer Import Registration Certificate."
+        ],
+        "Bangladesh Economic Zones Authority": [
+          "Industrial enterprises operating under the control of this authority must provide an import permit issued by the relevant governing body if they are exempt from the requirement of holding an Industrial Consumer Import Registration Certificate."
+        ],
+        "Bangladesh Hi-Tech Park Authority": [
+          "Industrial units managed by this authority must submit an import permit issued by the respective authority when they do not have a mandatory obligation to obtain an Industrial Consumer Import Registration Certificate."
+        ],
+        "Import Permit": [
+          "This document must be submitted by industrial enterprises operating under specified statutory authorities when those enterprises are exempted from the requirement of holding an Industrial Consumer Import Registration Certificate."
+        ],
+        "Industrial Import Registration Certificate": [
+          "Industrial enterprises under the purview of specific government authorities are permitted to submit import permits in lieu of this registration certificate if they are not otherwise legally obligated to hold it."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3005",
+      "entity_sub_entities": {
+        "Bangladesh Export Processing Zones Authority": [
+          "industrial enterprises",
+          "import permit",
+          "Industrial Consumer Import Registration Certificate"
+        ],
+        "Bangladesh Economic Zones Authority": [
+          "industrial enterprises",
+          "import permit",
+          "Industrial Consumer Import Registration Certificate"
+        ],
+        "Bangladesh Hi-Tech Park Authority": [
+          "industrial units",
+          "import permit",
+          "Industrial Consumer Import Registration Certificate"
+        ],
+        "Import Permit": [
+          "industrial enterprises",
+          "statutory authorities",
+          "Industrial Consumer Import Registration Certificate"
+        ],
+        "Industrial Import Registration Certificate": [
+          "industrial enterprises",
+          "government authorities",
+          "import permits"
+        ]
+      },
+      "clause_clusters": [
+        101,
+        143,
+        354,
+        490,
+        685,
+        751,
+        1338,
+        1676,
+        8515,
+        12428
+      ],
+      "source_file": "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

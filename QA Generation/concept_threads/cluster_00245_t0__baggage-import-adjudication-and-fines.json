@@ -1,0 +1,535 @@
+{
+  "cluster_id": 245,
+  "cluster_label": "fines",
+  "thread_index": 0,
+  "thread_id": "cluster_00245_t0",
+  "title": "Baggage Import Adjudication and Fines",
+  "summary": "This thread tracks the evolution of the legal provision allowing passengers to clear non-compliant baggage imports through adjudication and payment of fines. Over time, the language was refined to explicitly exclude controlled or prohibited goods from this clearance mechanism, and the terminology was updated for clarity.",
+  "evolution": {
+    "scope": "Narrowed by explicitly excluding controlled/prohibited goods from the adjudication process.",
+    "terminology": "Shifted from general 'excess' to specific 'baggage facility excess' and refined legal phrasing."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Baggage Rules",
+      "change": "Initial provision for clearing excess baggage via adjudication and fines.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10"
+      ]
+    },
+    {
+      "date": "2016-04-08",
+      "instrument": "Baggage Rules Amendment",
+      "change": "Added explicit exclusion for goods controlled or prohibited under import policy orders.",
+      "clause_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10"
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "instrument": "Baggage Rules Amendment",
+      "change": "Refined title and phrasing to clarify the scope of baggage facility excess.",
+      "clause_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_10"
+      ]
+    }
+  ],
+  "num_member_objects": 7,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।— এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোন যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোন পণ্য আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রক (সিসিআইএন্ডই) - এর ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক-কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Commercial Baggage Import": [
+          "Passengers importing goods in quantities exceeding or different from those specified in the relevant baggage schedules must undergo a formal adjudication process to clear their baggage.",
+          "Clearance is contingent upon the presentation of a clearance permit from the Chief Controller of Imports and Exports and the payment of all applicable customs duties, taxes, and any imposed penalties or fines."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The clearance of commercial baggage that falls outside of prescribed schedule limits requires a formal clearance permit issued by this authority."
+        ],
+        "Adjudication of Customs Cases": [
+          "This process is mandatory for baggage imports that deviate from established schedule categories or quantities before the goods can be released."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1284",
+      "entity_sub_entities": {
+        "Commercial Baggage Import": [
+          "goods",
+          "baggage schedules",
+          "clearance permit",
+          "Chief Controller of Imports and Exports",
+          "customs duties",
+          "taxes",
+          "penalties",
+          "fines"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "commercial baggage",
+          "clearance permit"
+        ],
+        "Adjudication of Customs Cases": [
+          "baggage imports",
+          "schedule categories",
+          "quantities",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        46,
+        245,
+        349,
+        499,
+        675,
+        1307,
+        1506,
+        1580,
+        1918,
+        3245,
+        11862
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।- এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোন যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোন পণ্য৯[, আমদানি নীতি আদেশ বা অন্য কোন আইনের আওতায় নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত,] আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রক (সিসিআইএন্ডই) -এর ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক-কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Adjudication of Customs Cases": [
+          "In cases where passengers import baggage in commercial quantities exceeding permitted schedules, the cargo may be cleared following a formal adjudication process. This process determines the total applicable customs duties, taxes, fines, and penalties that must be paid for release."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The clearance of baggage imported in commercial quantities requires the submission of a formal clearance certificate or authorization issued by the Chief Controller of Imports and Exports."
+        ],
+        "Baggage Rules": [
+          "The rules stipulate that notwithstanding other provisions, imports of goods beyond those listed in the specified schedules are subject to additional regulatory scrutiny and adjudication requirements."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_999",
+      "entity_sub_entities": {
+        "Adjudication of Customs Cases": [
+          "baggage",
+          "customs duties",
+          "taxes",
+          "fines",
+          "penalties"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "baggage",
+          "clearance certificate",
+          "authorization"
+        ],
+        "Baggage Rules": [
+          "goods",
+          "schedules"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        46,
+        47,
+        245,
+        255,
+        349,
+        514,
+        530,
+        675,
+        1307
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।— এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোন যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোন পণ্য (আমদানি নীতি আদেশ বা অন্য কোন আইনের আওতায় নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত), আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রক এর ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক-কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Commercial Baggage Import": [
+          "Passengers importing goods in commercial quantities that are not covered under specified schedules may clear them subject to the presentation of clearance from the Chief Controller of Imports and Exports.",
+          "The clearance of such goods is conditional upon the completion of adjudication proceedings and the payment of all applicable customs duties, taxes, penalties, and fines."
+        ],
+        "Adjudication of Customs Cases": [
+          "Adjudication is required to determine the liability and applicable charges for passengers importing goods in commercial quantities beyond the limits defined in the relevant schedules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1647",
+      "entity_sub_entities": {
+        "Commercial Baggage Import": [
+          "goods",
+          "clearance",
+          "Chief Controller of Imports and Exports",
+          "adjudication proceedings",
+          "customs duties",
+          "taxes",
+          "penalties",
+          "fines"
+        ],
+        "Adjudication of Customs Cases": [
+          "Adjudication",
+          "liability",
+          "charges",
+          "passengers",
+          "goods",
+          "schedules"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        46,
+        115,
+        135,
+        245,
+        349,
+        530,
+        630,
+        675,
+        1535,
+        1580,
+        2828,
+        5331
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।— এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোনো যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোনো পণ্য (আমদানি নীতি আদেশ বা অন্য কোনো আইনের অধীন নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত), আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রত এর ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক-কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage": [
+          "When a passenger imports goods in commercial quantities that are not covered under the prescribed schedules, they must present clearance from the Chief Controller of Imports and Exports.",
+          "Such goods, provided they are not otherwise restricted or prohibited under the Import Policy Order or other relevant laws, may be released after formal adjudication and the payment of all applicable duties, taxes, fines, and penalties."
+        ],
+        "Adjudication of Customs Cases": [
+          "The release of goods imported in commercial quantities by a passenger is subject to a mandatory adjudication process to determine and settle all outstanding duties, taxes, and penalties."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "A passenger importing commercial quantities of goods outside the permitted schedules is required to obtain and submit clearance from this authority to facilitate the release of the items."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2519",
+      "entity_sub_entities": {
+        "Passenger Baggage": [
+          "goods",
+          "commercial quantities",
+          "prescribed schedules",
+          "clearance",
+          "duties",
+          "taxes",
+          "fines",
+          "penalties",
+          "Import Policy Order"
+        ],
+        "Adjudication of Customs Cases": [
+          "goods",
+          "commercial quantities",
+          "duties",
+          "taxes",
+          "penalties"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "commercial quantities",
+          "goods",
+          "permitted schedules",
+          "clearance"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        30,
+        46,
+        178,
+        245,
+        284,
+        349,
+        630,
+        675,
+        1506,
+        1954,
+        10875
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।- এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোনো যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোনো পণ্য, আমদানি নীতি আদেশ বা অন্য কোনো আইনের অধীন নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত, আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রকের ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক ও কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Commercial Baggage Import": [
+          "Passengers may import goods beyond those specified in the relevant schedules, provided the goods are not restricted or prohibited under the Import Policy Order or other prevailing laws.",
+          "Clearance for such goods is subject to the presentation of a release order from the Chief Controller of Imports and Exports and the adjudication of all applicable customs duties, taxes, fines, and penalties."
+        ],
+        "Adjudication of Customs Cases": [
+          "The release of goods imported in commercial quantities by a passenger requires a formal adjudication process to determine and settle the customs duties, taxes, and any associated penalties or fines."
+        ],
+        "Import Policy Order": [
+          "This order sets the regulatory boundaries for commercial baggage imports, ensuring that any goods imported by passengers must comply with its provisions regarding restricted or prohibited items."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2717",
+      "entity_sub_entities": {
+        "Commercial Baggage Import": [
+          "goods",
+          "schedules",
+          "Import Policy Order",
+          "release order",
+          "Chief Controller of Imports and Exports",
+          "customs duties",
+          "taxes",
+          "fines",
+          "penalties"
+        ],
+        "Adjudication of Customs Cases": [
+          "goods",
+          "customs duties",
+          "taxes",
+          "penalties",
+          "fines"
+        ],
+        "Import Policy Order": [
+          "commercial baggage imports",
+          "goods",
+          "restricted items",
+          "prohibited items"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        46,
+        245,
+        284,
+        349,
+        530,
+        675,
+        791,
+        879,
+        1449,
+        1580,
+        6464
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাবণবজযক পবরমাদণ ব্যাদগজ আমোবনর বক্ষদত্র শুল্ক ও কর",
+      "text_id": "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_10",
+      "resolved_text": "১০। বাবণবজযক পবরমাদণ ব্যাদগজ আমোবনর বক্ষদত্র শুল্ক ও কর।- এই বববধমালার অন্যান্য ববধাদন যাহা বকছুই র্াকুক না বকন, বকাদনা যাত্রী তফবসল-২ এবাং তফবসল-৩ এ উবিবখত পদের অবতবরি বা বভ্ন্ন বকাদনা পে, আমোবন নীবত আদেশ বা অন্য বকাদনা আইদনর অধীন বনয়বন্ত্রত বা বনবষদ্ধ পে ব্যতীত, আমোবন নরঙ্গল প্রধান আমোবন ও রপ্তাবন বনয়ন্ত্রম র ছাড়পত্র উপস্থাপন সাদপদক্ষ, ন্যায়-বনণয়থনপূবকথ (adjudication) প্রদেয় সমুেয় শুল্ক ও কর, অর্েথণ্ড ও জবরমানা, প্রদযাজয বক্ষদত্র, পবরদশাধ সাদপদক্ষ খালাস কবরদত পাবরদবন।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "In cases where a passenger imports goods beyond or different from those specified in the relevant schedules, the release of such goods is subject to the payment of all applicable customs duties, taxes, fines, and penalties determined through the process of adjudication."
+        ],
+        "Adjudication of Customs Cases": [
+          "The adjudication process is required to determine the duties, taxes, and penalties payable when a passenger attempts to import goods that fall outside the permitted limits defined in the applicable schedules."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The release of baggage or goods imported by a passenger that are not covered under the standard schedules is conditional upon the presentation of a clearance certificate issued by the Chief Controller of Imports and Exports."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1064",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "customs duties",
+          "taxes",
+          "fines",
+          "penalties"
+        ],
+        "Adjudication of Customs Cases": [
+          "duties",
+          "taxes",
+          "penalties"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "clearance certificate",
+          "Chief Controller of Imports and Exports"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        13,
+        14,
+        30,
+        46,
+        245,
+        349,
+        675,
+        1307
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "ব্যাগেজ সুবিধার অতিরিক্ত পরিমাণ পণ্য আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_10",
+      "resolved_text": "১০। ব্যাগেজ সুবিধার অতিরিক্ত পরিমাণ পণ্য আমদানির ক্ষেত্রে শুল্ক ও কর।—এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোনো যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোনো পণ্য, আমদানি নীতি আদেশ বা অন্য কোনো আইনের অধীন নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত, আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রকের ছাড়পত্র উপস্থাপন সাপেক্ষে, আইন অনুযায়ী ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক ও কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "This clause outlines the conditions for importing goods that exceed the standard baggage allowance or categories defined in the relevant schedules.",
+          "Passengers may import items outside the specified schedules, provided the goods are not restricted or prohibited under import policy orders or other applicable laws.",
+          "The release of such goods is contingent upon the presentation of a clearance certificate from the Chief Controller of Imports and Exports.",
+          "The goods may be cleared only after undergoing the Adjudication of Customs Offences process, which includes the payment of all applicable duties, taxes, fines, and penalties."
+        ],
+        "Adjudication of Customs Offences": [
+          "This process is mandated for the clearance of baggage goods that exceed specified schedules or limits.",
+          "It serves as the legal mechanism to determine and collect the required duties, taxes, and any associated fines or penalties before the release of non-standard baggage imports."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The entity is designated as the authority whose clearance certificate must be obtained and presented by a passenger to import goods outside of the permitted baggage schedules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3199",
+      "entity_sub_entities": {
+        "Passenger Baggage Allowance": [
+          "goods",
+          "standard baggage allowance",
+          "schedules",
+          "items",
+          "import policy orders",
+          "applicable laws",
+          "clearance certificate",
+          "duties",
+          "taxes",
+          "fines",
+          "penalties"
+        ],
+        "Adjudication of Customs Offences": [
+          "baggage goods",
+          "schedules",
+          "limits",
+          "duties",
+          "taxes",
+          "fines",
+          "penalties",
+          "non-standard baggage imports"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "clearance certificate",
+          "passenger",
+          "goods",
+          "baggage schedules"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        30,
+        46,
+        117,
+        171,
+        245,
+        257,
+        349,
+        530,
+        1228,
+        1307,
+        1506,
+        1887,
+        2460,
+        2789,
+        3227,
+        12370
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ],
+  "num_static_replicated_objects": 1,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।— এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোন যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোন পণ্য আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রক (সিসিআইএন্ডই) -এর ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক-কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage": [
+          "When a passenger imports goods that are not listed in the specified schedules, such items are treated as commercial imports.",
+          "The import of such goods is permitted subject to the submission of clearance from the Chief Controller of Imports and Exports.",
+          "Clearance is subject to the completion of adjudication proceedings and the payment of all applicable customs duties, taxes, fines, and penalties."
+        ],
+        "Adjudication of Customs Cases": [
+          "Adjudication is required to determine and assess the applicable duties, taxes, and penalties for goods imported by passengers that fall outside the permitted baggage schedules."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The Chief Controller of Imports and Exports acts as the regulatory authority whose clearance must be presented when a passenger attempts to clear commercial-quantity baggage that is not covered by standard passenger baggage schedules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1385",
+      "entity_sub_entities": {
+        "Passenger Baggage": [
+          "goods",
+          "schedules",
+          "clearance",
+          "customs duties",
+          "taxes",
+          "fines",
+          "penalties"
+        ],
+        "Adjudication of Customs Cases": [
+          "duties",
+          "taxes",
+          "penalties",
+          "goods",
+          "baggage schedules"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "Chief Controller of Imports and Exports",
+          "clearance",
+          "commercial-quantity baggage",
+          "passenger baggage schedules"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        14,
+        30,
+        46,
+        178,
+        245,
+        349,
+        530,
+        630,
+        675,
+        1506,
+        3245
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    }
+  ]
+}

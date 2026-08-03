@@ -1,0 +1,1045 @@
+{
+  "cluster_id": 213,
+  "cluster_label": "Assistant Commissioner",
+  "thread_index": 1,
+  "thread_id": "cluster_00213_t1",
+  "title": "Supervisory Approval for Customs Clearance",
+  "summary": "The role of the Assistant Commissioner in supervising and approving customs clearances has evolved from a specific oversight function to a standardized procedural requirement across various SROs. Over time, the language has been refined to include digital verification (BIN) and to clarify the hierarchy of approval between Deputy and Assistant Commissioners.",
+  "evolution": {
+    "procedure": "Incorporated digital verification (BIN) and standardized the supervisory approval workflow."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "SRO 155/2016",
+      "change": "Established the Assistant Commissioner's role in supervising clearance and verifying information.",
+      "clause_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6"
+      ]
+    },
+    {
+      "date": "2022-06-09",
+      "instrument": "SRO 135/2022",
+      "change": "Integrated digital verification of BIN into the Assistant Commissioner's supervisory duties.",
+      "clause_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 158/2024",
+      "change": "Standardized the language for supervisory approval across multiple regulatory contexts.",
+      "clause_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO 102/2025",
+      "change": "Finalized the procedural requirement for Assistant Commissioner level approval.",
+      "clause_ids": [
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 12,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_5",
+      "resolved_text": "(৪) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ ২ ও ৩ নং শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা যাচাই করিবেন। তবে, এই প্রকৃতির পণ্যচালানের অন্যূন ১০% (দশ শতাংশ) দৈবচয়ন ও ঝুঁকি ব্যবস্থাপনার ভিত্তিতে শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The appropriate customs officer is responsible for verifying compliance with established conditions regarding the import and customs clearance of goods."
+        ],
+        "Risk Management": [
+          "A minimum specified percentage of consignments must be selected for mandatory inspection based on risk management principles.",
+          "Customs clearance for these selected shipments must be approved by the relevant Deputy Commissioner or Assistant Commissioner to ensure proper supervision."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1594",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "customs officer",
+          "import",
+          "customs clearance",
+          "goods"
+        ],
+        "Risk Management": [
+          "consignments",
+          "inspection",
+          "risk management principles",
+          "shipments",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        49,
+        51,
+        213,
+        219,
+        247,
+        352,
+        363,
+        594,
+        950,
+        11566
+      ],
+      "source_file": "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_6",
+      "resolved_text": "(৫) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে ফোন, ফ্যাক্স বা ই-মেইলে সংশ্লিষ্ট মূসক এলাকার ডেপুটি কমিশনার বা সহকারী কমিশনারগণের সহিত যোগাযোগ করিয়া ১, ২ ও ৩ নং শর্তের তথ্য ও সঠিকতা যাচাই করিয়া লইবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs official overseeing the assessment process is mandated to communicate with their counterparts in the relevant Value Added Tax area to verify information and ensure the accuracy of conditions related to the shipment.",
+          "This administrative measure is implemented specifically to prevent unnecessary delays during the customs clearance process."
+        ],
+        "Deputy Commissioner of Customs": [
+          "The Deputy Commissioner is tasked with coordinating with the corresponding Value Added Tax authorities via digital or telephonic means to facilitate the verification of documentation and conditions."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The Assistant Commissioner is authorized to liaise with the relevant Value Added Tax officials to confirm the accuracy of specific regulatory conditions, thereby ensuring operational efficiency."
+        ],
+        "Value Added Tax": [
+          "The respective authorities managing Value Added Tax are required to cooperate with customs officials to verify data and conditions to expedite the customs assessment procedure."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1595",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "customs official",
+          "Value Added Tax area",
+          "shipment",
+          "customs clearance process"
+        ],
+        "Deputy Commissioner of Customs": [
+          "Deputy Commissioner",
+          "Value Added Tax authorities",
+          "documentation",
+          "conditions"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner",
+          "Value Added Tax officials",
+          "regulatory conditions"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "authorities",
+          "customs officials",
+          "data",
+          "conditions",
+          "customs assessment procedure"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        51,
+        63,
+        78,
+        87,
+        99,
+        213,
+        270,
+        318,
+        352,
+        359,
+        457,
+        483,
+        615,
+        682,
+        721,
+        5110,
+        6839,
+        13170
+      ],
+      "source_file": "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "(৬)",
+      "text_id": "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ দফা (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেম বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The appropriate officer of customs must verify compliance with all stipulated terms and conditions related to import and customs assessment.",
+          "The final approval of the customs assessment must be granted at the level of the Deputy Commissioner or Assistant Commissioner."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer is responsible for verifying that all legal requirements and conditions regarding import and customs assessment are met before finalization."
+        ],
+        "Business Identification Number": [
+          "The Deputy Commissioner or Assistant Commissioner must verify the authenticity of the VAT registration certificate, specifically the Business Identification Number, to avoid delays in the assessment process.",
+          "Verification of the Business Identification Number must be conducted through the relevant customs computerized system, the VAT online system, the National Board of Revenue website, or the VAT Commissionerate website."
+        ],
+        "National Board of Revenue": [
+          "The website of the National Board of Revenue serves as an official platform for verifying taxpayer registration information during the customs assessment process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2183",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "import",
+          "customs assessment",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Appropriate Officer of Customs": [
+          "import",
+          "customs assessment"
+        ],
+        "Business Identification Number": [
+          "VAT registration certificate",
+          "Business Identification Number",
+          "customs computerized system",
+          "VAT online system",
+          "National Board of Revenue website",
+          "VAT Commissionerate website"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue website",
+          "taxpayer registration information"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        17,
+        35,
+        51,
+        213,
+        316,
+        317,
+        352,
+        568,
+        594,
+        1000,
+        3128,
+        3183,
+        13223
+      ],
+      "source_file": "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ দফা (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেম বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন;\n(গ) এই প্রজ্ঞাপনের আওতায় খালাসকৃত প্রতিটি পণ্য চালানের তথ্য সংশ্লিষ্ট শুল্কায়ন সেকশন কর্তৃক সংশ্লিষ্ট মূসক বিভাগে পত্রের মাধ্যমে জানাইতে হইবে। আমদানিকৃত উপকরণ বা কাঁচামাল শর্ত (১) এর দফা (গ) অথবা (ঘ) মোতাবেক প্রি-ফ্যাব্রিকেটেড বিল্ডিং উৎপাদন কাজে ব্যবহৃত হইবে মর্মে সংশ্লিষ্ট আমদানিকারককে অঙ্গীকারনামা প্রদান করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs officer must verify that all specified conditions regarding importation and customs clearance are satisfied before clearing the goods. The final approval for the customs clearance process must be granted by the Deputy Commissioner or Assistant Commissioner in charge of supervision."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer is responsible for verifying compliance with all prescribed importation and customs conditions and ensuring the clearance process follows established procedures."
+        ],
+        "Business Identification Number": [
+          "The supervising customs official must verify the validity of the Business Identification Number through official online platforms or the relevant Value Added Tax commissionerate systems to prevent delays in customs processing."
+        ],
+        "National Board of Revenue": [
+          "The official website of the National Board of Revenue serves as a verification point for the customs authorities to validate tax registration documents."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs authorities utilize the computerized system to facilitate the verification of trader credentials and streamline the clearance workflow."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The relevant Value Added Tax department must be formally notified by the customs section regarding every consignment cleared under this notification. Additionally, their online portals act as a reference for verifying the authenticity of registration certificates."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2194",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "goods",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Appropriate Officer of Customs": [
+          "importation conditions",
+          "customs conditions",
+          "clearance process"
+        ],
+        "Business Identification Number": [
+          "official online platforms",
+          "Value Added Tax commissionerate systems"
+        ],
+        "National Board of Revenue": [
+          "official website",
+          "tax registration documents"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "computerized system",
+          "trader credentials",
+          "clearance workflow"
+        ],
+        "Value Added Tax Commissionerate": [
+          "Value Added Tax department",
+          "consignment",
+          "online portals",
+          "registration certificates"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        17,
+        35,
+        51,
+        66,
+        162,
+        199,
+        213,
+        352,
+        376,
+        1448,
+        1576,
+        2164,
+        2306,
+        2573,
+        4441,
+        5008,
+        6417,
+        6879,
+        8890,
+        12916,
+        13171
+      ],
+      "source_file": "customs_sros_OCR/20220609_122-AIN_2022_70_Customs/20220609_122-AIN_2022_70_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ দফা (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেম বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেটের ওয়েবসাইটে হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs officer is required to verify that all prescribed conditions related to import and taxation are met before finalizing the clearance process. Clearance must be formally approved by the relevant Deputy Commissioner or Assistant Commissioner level official."
+        ],
+        "Business Identification Number": [
+          "The relevant Deputy Commissioner or Assistant Commissioner must verify the authenticity of the Business Identification Number using authorized customs, VAT online, or National Board of Revenue digital platforms to prevent delays in customs processing."
+        ],
+        "National Board of Revenue": [
+          "The board's official website is designated as a mandatory verification source for the validity of taxpayer registration certificates during the customs clearance process."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This digital infrastructure is utilized by customs authorities to conduct mandatory verification of registration certificates to ensure efficient processing and avoid delays."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2301",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "customs officer",
+          "import conditions",
+          "taxation conditions",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Business Identification Number": [
+          "Deputy Commissioner",
+          "Assistant Commissioner",
+          "customs platform",
+          "VAT online platform",
+          "National Board of Revenue digital platform"
+        ],
+        "National Board of Revenue": [
+          "official website",
+          "taxpayer registration certificates"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "digital infrastructure",
+          "registration certificates"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        35,
+        49,
+        51,
+        66,
+        213,
+        352,
+        376,
+        775,
+        1448,
+        2656,
+        3127,
+        6959,
+        10011,
+        12710,
+        13219
+      ],
+      "source_file": "customs_sros_OCR/20220628_199-_2022_107/20220628_199-_2022_107_output.json",
+      "clause_date": "2022-06-28"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ ক্রমিক (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন;\n\n(গ) এই প্রজ্ঞাপনের আওতায় খালাসকৃত প্রতিটি পণ্য চালানের তথ্য শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার কর্তৃক সংশ্লিষ্ট মূসক বিভাগে পত্রের মাধ্যমে জানাইতে হইবে এবং আমদানিকৃত উপকরণ বা কাঁচামাল শর্ত (১) এর দফা (খ) মোতাবেক এয়ারকন্ডিশনার উৎপাদন কাজে ব্যবহৃত হইবে মর্মে সংশ্লিষ্ট আমদানিকারককে অঙ্গীকারনামা প্রদান করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The appropriate officer must verify compliance with all established conditions regarding the import and customs clearance process.",
+          "Customs clearance must be approved by the relevant Deputy Commissioner or Assistant Commissioner."
+        ],
+        "Business Identification Number": [
+          "Customs officials must verify the authenticity of the Business Identification Number using authorized customs or VAT online systems and official government websites to avoid processing delays."
+        ],
+        "National Board of Revenue": [
+          "The official website of the National Board of Revenue is designated as a source for verifying taxpayer registration information during the customs clearance process."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system is used by customs officials to verify taxpayer information and ensure regulatory compliance during the import process."
+        ],
+        "Value Added Tax Commissionerate": [
+          "The website of the VAT Commissionerate is an authorized portal for the verification of taxpayer registration documents."
+        ],
+        "Importation of Goods": [
+          "Details of every consignment cleared under this notification must be formally communicated to the relevant VAT authorities.",
+          "Importers are required to provide a formal undertaking stating that the imported raw materials or components will be utilized specifically for the manufacturing of air conditioners."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2357",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "import process",
+          "customs clearance process",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Business Identification Number": [
+          "Business Identification Number",
+          "customs online systems",
+          "VAT online systems",
+          "official government websites"
+        ],
+        "National Board of Revenue": [
+          "official website",
+          "taxpayer registration information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs Computerised Entry Processing System",
+          "taxpayer information"
+        ],
+        "Value Added Tax Commissionerate": [
+          "website",
+          "VAT Commissionerate",
+          "taxpayer registration documents"
+        ],
+        "Importation of Goods": [
+          "consignment",
+          "VAT authorities",
+          "imported raw materials",
+          "components",
+          "air conditioners"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        35,
+        42,
+        51,
+        66,
+        132,
+        162,
+        199,
+        213,
+        296,
+        308,
+        352,
+        376,
+        483,
+        981,
+        1128,
+        1150,
+        1184,
+        3128,
+        4149,
+        4156,
+        10214,
+        12720,
+        12722
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ ক্রমিক (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন;\n\n(গ) এই প্রজ্ঞাপনের আওতায় খালাসকৃত প্রতিটি পণ্য চালানের তথ্য শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার কর্তৃক সংশ্লিষ্ট মূসক বিভাগে পত্রের মাধ্যমে জানাইতে হইবে। আমদানিকৃত উপকরণ বা কাঁচামাল শর্ত (৩) মোতাবেক Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদন কাজে ব্যবহৃত হইবে মর্মে সংশ্লিষ্ট আমদানিকারককে অঙ্গীকারনামা প্রদান করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs official must verify that all import and duty-related conditions have been fulfilled before customs clearance can proceed.",
+          "Clearance for these goods must be approved at the level of Deputy Commissioner or Assistant Commissioner."
+        ],
+        "National Board of Revenue": [
+          "The website of the National Board of Revenue is designated as a platform for verifying the validity of Value Added Tax registration numbers."
+        ],
+        "Business Identification Number": [
+          "Customs officials are required to verify the accuracy of the Business Identification Number using customs, VAT online systems, or official department websites to avoid delays in the clearance process."
+        ],
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "Importers must provide a formal undertaking confirming that imported materials will be used exclusively for the manufacturing of automated teller machines as per the established conditions."
+        ],
+        "Closed Circuit Camera Production": [
+          "Importers are required to submit an undertaking ensuring that imported raw materials or components are used solely for the production of closed circuit cameras."
+        ],
+        "Value Added Tax": [
+          "The Deputy Commissioner or Assistant Commissioner must inform the relevant VAT department via official letter regarding every consignment cleared under this notification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2367",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "import conditions",
+          "duty-related conditions",
+          "goods",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "National Board of Revenue": [
+          "website",
+          "Value Added Tax registration numbers"
+        ],
+        "Business Identification Number": [
+          "customs systems",
+          "VAT online systems",
+          "official department websites"
+        ],
+        "Automated Teller Machine (ATM) Manufacturing": [
+          "formal undertaking",
+          "imported materials",
+          "automated teller machines"
+        ],
+        "Closed Circuit Camera Production": [
+          "undertaking",
+          "imported raw materials",
+          "components",
+          "closed circuit cameras"
+        ],
+        "Value Added Tax": [
+          "Deputy Commissioner",
+          "Assistant Commissioner",
+          "VAT department",
+          "official letter",
+          "consignment"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        9,
+        35,
+        42,
+        51,
+        105,
+        132,
+        162,
+        213,
+        352,
+        400,
+        459,
+        775,
+        809,
+        827,
+        924,
+        981,
+        1013,
+        1023,
+        1150,
+        7014,
+        7574,
+        10200,
+        10219,
+        13177
+      ],
+      "source_file": "customs_sros_OCR/20220717_202-_2022_110/20220717_202-_2022_110_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ",
+      "text_id": "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ দফা (১) ও (২) এ উল্লিখিত শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs official must verify that all specified import and customs-related conditions are met before proceeding with clearance. This process ensures that compliance requirements are strictly followed prior to the approval of any importation."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer responsible for customs clearance is mandated to perform a thorough verification of the conditions associated with the import, ensuring compliance with relevant legal provisions."
+        ],
+        "Deputy Commissioner of Customs": [
+          "The Deputy Commissioner or the Assistant Commissioner is responsible for the final supervision and approval of the customs clearance process, ensuring that the verification conducted by the customs official is correct."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The Assistant Commissioner is authorized to oversee and grant the necessary approval for customs clearance, providing a supervisory layer to ensure that all procedural and import conditions are satisfied."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2575",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "import conditions",
+          "customs-related conditions",
+          "compliance requirements"
+        ],
+        "Appropriate Officer of Customs": [
+          "officer",
+          "import conditions",
+          "legal provisions"
+        ],
+        "Deputy Commissioner of Customs": [
+          "Deputy Commissioner",
+          "Assistant Commissioner",
+          "customs clearance process"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner",
+          "customs clearance",
+          "procedural conditions",
+          "import conditions"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        51,
+        78,
+        114,
+        130,
+        213,
+        352,
+        457,
+        483,
+        775,
+        1352,
+        1742,
+        3780
+      ],
+      "source_file": "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ ক্রমিক (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন;\n\n(গ) এই প্রজ্ঞাপনের আওতায় খালাসকৃত প্রতিটি পণ্য চালানের তথ্য শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার কর্তৃক সংশ্লিষ্ট মূসক বিভাগে পত্রের মাধ্যমে জানাইতে হইবে এবং আমদানিকৃত উপকরণ বা কাঁচামাল শর্ত (১) এর দফা (খ) মোতাবেক এয়ারকন্ডিশনার উৎপাদন কাজে ব্যবহৃত হইবে মর্মে সংশ্লিষ্ট আমদানিকারককে অঙ্গীকারনামা প্রদান করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs officer must verify that all specified conditions are met before granting clearance for imported goods.",
+          "The clearance process must be approved by the relevant Deputy Commissioner or Assistant Commissioner."
+        ],
+        "Business Identification Number": [
+          "The Deputy Commissioner or Assistant Commissioner must verify the authenticity of the Business Identification Number using the official customs or VAT online systems, or the relevant board or commissionerate websites, to prevent delays."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue maintains a website which serves as an official source for verifying the validity of taxpayer registration documentation."
+        ],
+        "Value Added Tax Department": [
+          "Information regarding each consignment cleared under this notification must be formally communicated to the relevant VAT department by the supervising customs official."
+        ],
+        "Importer": [
+          "The importer must provide a written undertaking confirming that the imported materials or raw materials will be used exclusively for the production of air conditioners as per the specified conditions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2590",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "imported goods",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Business Identification Number": [
+          "Business Identification Number",
+          "customs online systems",
+          "VAT online systems",
+          "board websites",
+          "commissionerate websites"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "website",
+          "taxpayer registration documentation"
+        ],
+        "Value Added Tax Department": [
+          "consignment",
+          "VAT department",
+          "supervising customs official"
+        ],
+        "Importer": [
+          "importer",
+          "written undertaking",
+          "imported materials",
+          "raw materials",
+          "air conditioners"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        8,
+        12,
+        35,
+        39,
+        51,
+        105,
+        162,
+        213,
+        296,
+        352,
+        809,
+        981,
+        1150,
+        1184,
+        2306,
+        4967,
+        5993,
+        6492,
+        12721,
+        13436
+      ],
+      "source_file": "customs_sros_OCR/20240606_167-AIN_2024_19_Customs/20240606_167-AIN_2024_19_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ শর্ত (১), (২), (৩) ও (৪) পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs officer is required to verify and ensure compliance with all import and customs-related conditions before proceeding. The clearance process must be formally approved by the supervising Deputy Commissioner or Assistant Commissioner."
+        ],
+        "Business Identification Number": [
+          "The supervising customs authority must verify the accuracy of the taxpayer identification document to prevent delays in customs processing. This verification is to be conducted using official systems including the customs computer system, VAT online system, or the websites of the National Board of Revenue or the relevant VAT Commissionerate."
+        ],
+        "National Board of Revenue": [
+          "The official website of this entity serves as a mandatory verification point for confirming the validity of taxpayer registration certificates during the customs clearance process."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This digital infrastructure is utilized by customs authorities to verify the status of taxpayer registration certificates during the clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2625",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "customs officer",
+          "import conditions",
+          "customs-related conditions",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Business Identification Number": [
+          "taxpayer identification document",
+          "customs computer system",
+          "VAT online system",
+          "National Board of Revenue",
+          "VAT Commissionerate"
+        ],
+        "National Board of Revenue": [
+          "official website",
+          "taxpayer registration certificates"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "digital infrastructure",
+          "taxpayer registration certificates"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        35,
+        49,
+        51,
+        66,
+        156,
+        213,
+        308,
+        352,
+        376,
+        568,
+        775,
+        2656,
+        3127,
+        3780,
+        12718
+      ],
+      "source_file": "customs_sros_OCR/20240606_172-AIN_2024_24_Customs/20240606_172-AIN_2024_24_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "২। (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়াদি দফা (১), (২), (৩), (৪) ও (৫) এর শর্ত পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেম বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The assessing officer must ensure that all specified conditions are satisfied before processing an import or customs declaration.",
+          "The customs clearance process requires formal approval from the Deputy Commissioner or Assistant Commissioner level."
+        ],
+        "Business Identification Number": [
+          "The Deputy Commissioner or Assistant Commissioner supervising customs clearance must verify the accuracy of the Business Identification Number through official online platforms to avoid processing delays."
+        ],
+        "National Board of Revenue": [
+          "The official website of the National Board of Revenue is authorized for use by customs officials to verify tax registration data."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs officials are mandated to use this digital system to verify the validity of tax registration documents during the assessment process."
+        ],
+        "VAT Online System": [
+          "This digital platform is designated for the verification of tax registration status by customs supervisory officers."
+        ],
+        "VAT Commissionerate": [
+          "The website of the VAT Commissionerate serves as a valid resource for customs authorities to authenticate taxpayer registration information."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2671",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "assessing officer",
+          "import",
+          "customs declaration",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Business Identification Number": [
+          "Deputy Commissioner",
+          "Assistant Commissioner",
+          "Business Identification Number",
+          "official online platforms"
+        ],
+        "National Board of Revenue": [
+          "official website",
+          "National Board of Revenue",
+          "customs officials",
+          "tax registration data"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs officials",
+          "digital system",
+          "tax registration documents",
+          "assessment process"
+        ],
+        "VAT Online System": [
+          "digital platform",
+          "tax registration status",
+          "customs supervisory officers"
+        ],
+        "VAT Commissionerate": [
+          "website",
+          "VAT Commissionerate",
+          "customs authorities",
+          "taxpayer registration information"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        35,
+        45,
+        51,
+        66,
+        87,
+        213,
+        308,
+        352,
+        376,
+        568,
+        594,
+        837,
+        1150,
+        1371,
+        1545,
+        3128,
+        3839,
+        4441,
+        5008,
+        5661,
+        7011,
+        12683,
+        12685
+      ],
+      "source_file": "customs_sros_OCR/20240606_194-AIN_2024_66_Customs/20240606_194-AIN_2024_66_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ উপরিবর্ণিত শর্তাবলির দফা (ক) ও (খ) পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs clearance process requires that the relevant customs officer verify compliance with the specified terms and conditions regarding import and assessment.",
+          "The final approval of the customs assessment must be granted by a Deputy Commissioner or Assistant Commissioner."
+        ],
+        "Appropriate Officer of Customs": [
+          "The customs officer responsible for assessment must verify that all import conditions and requirements are strictly followed before proceeding."
+        ],
+        "Commissioner of Customs": [
+          "Assessment processes are subject to oversight and must be formally approved by the relevant Deputy Commissioner or Assistant Commissioner."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3000",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "customs officer",
+          "import",
+          "assessment",
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs officer",
+          "import conditions",
+          "requirements"
+        ],
+        "Commissioner of Customs": [
+          "Deputy Commissioner",
+          "Assistant Commissioner"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        17,
+        49,
+        51,
+        213,
+        352,
+        594,
+        722,
+        775,
+        825
+      ],
+      "source_file": "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 1,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20201003_S.R.O_৩০ জুন, ২০২০_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপনের–\n(১) শর্তাবলির-\n(ক) দফা (৬) এর “শিল্পভোক্তা” শব্দগুলি বিলুপ্ত হইবে;\n(খ) দফা (৭) এর “দফা (২) ও (৩)” শব্দগুলি, বন্ধনীগুলি ও সংখ্যাগুলির পরিবর্তে “এবং দফা (৬)” শব্দগুলি, বন্ধনী ও সংখ্যা প্রতিস্থাপিত হইবে;\n(গ) দফা (৮) এর “মূসক এলাকার ডেপুটি কমিশনার বা সহকারী কমিশনারগণের” শব্দগুলির পরিবর্তে “মূসক বিভাগীয় কর্মকর্তার” শব্দগুলি এবং “দফা (২) ও (৩)” শব্দগুলি, বন্ধনীগুলি ও সংখ্যাগুলির পরিবর্তে “এবং দফা (৬)” শব্দগুলি, বন্ধনী ও সংখ্যা প্রতিস্থাপিত হইবে;\n(ঘ) দফা (৮) এর প্রান্তস্থিত দাঁড়ি (।) চিহ্ন বিলুপ্ত হইবে এবং উহার পরিবর্তে সেমিকোলন (;) চিহ্ন প্রতিস্থাপিত হইবে এবং অতঃপর নিম্নরূপ দফা (৯) ও (১০) সন্নিবেশিত হইবে, যথা:-\n“(৯) দফা (১) এ যাহা কিছুই থাকুক না কেন, দফা (৩), (৪) ও (৫) এর বিধানাবলি শুধু Industrial IRC holder VAT compliant শিল্প প্রতিষ্ঠানের ক্ষেত্রে প্রযোজ্য হইবে;\n(১০) দফা (১) এ যাহা কিছুই থাকুক না কেন, সরকারি, আধা সরকারি, স্বায়ত্ত-শাসিত সংস্থা, জাতিসংঘ ভুক্ত সংস্থা, দূতাবাস, বিশেষ সুবিধা প্রাপ্ত সংস্থা, সরকারের নিয়ন্ত্রণাধীন শিল্প প্রতিষ্ঠান, ধর্মীয় প্রতিষ্ঠান এবং এইরূপ প্রতিষ্ঠান যাহাদের জন্য শিল্প ভোক্তা আইআরসি গ্রহণ বা VAT Compliant হিসেবে রিটার্ন দাখিলের বাধ্যবাধকতা নাই, এমন প্রতিষ্ঠান কর্তৃক বিক্রয় ও হস্তান্তরের জন্য নহে এইরূপ আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশের জন্য দফা (১) ও (৬) এর বিধানাবলি প্রযোজ্য হইবে না।”; এবং\n(২) পরিশিষ্ট এর পরিবর্তে নিম্নরূপ পরিশিষ্ট প্রতিস্থাপিত হইবে, যথা:-\n“পরিশিষ্ট\nপ্রত্নয়নপত্র\n[শর্তাবলির দফা (৬) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, ...................................... (আমদানিকারকের নাম ও ঠিকানা) আমদানি রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে হালনাগাদ নবায়নকৃত আইআরসি সম্বলিত একটি মূসক নিবন্ধিত উৎপাদনকারী/আমদানিকারক প্রতিষ্ঠান।\n\nউক্ত প্রতিষ্ঠান বিগত..................... অর্থ-বছরে রেয়াতি হারে আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ প্রতিষ্ঠানের মূসক সংক্রান্ত রেজিষ্টারে এন্ট্রি করিয়াছে এবং বিগত অর্থ-বছরের মূল্য সংযোজন কর সংক্রান্ত ১২ (বার) টি অথবা প্রযোজ্যক্ষেত্রে ….. টি রিটার্ন বা দাখিলপত্র সংশ্লিষ্ট মূল্য সংযোজন কর কর্তৃপক্ষের নিকট অনলাইনে/হার্ডকপি দাখিল করিয়াছে/করে নাই।\n\nস্বাক্ষর :\n(মূসক বিভাগীয় কর্মকর্তা)\n(নামীয় সিলসহ)”",
+      "entity_concepts": {
+        "Industrial Consumer": [
+          "The term Industrial Consumer is deleted from the specified clause of the notification."
+        ],
+        "VAT Divisional Officer": [
+          "The administrative authority previously held by the Deputy Commissioner or Assistant Commissioner is now transferred to the VAT Divisional Officer regarding specific clause requirements.",
+          "The VAT Divisional Officer is authorized to sign and stamp the certification document for industrial importers."
+        ],
+        "Industrial IRC Holder": [
+          "Provisions within the notification are explicitly restricted to apply only to Industrial IRC holder entities that are also VAT compliant."
+        ],
+        "VAT Compliant": [
+          "Entities must maintain VAT compliant status to qualify for specific exemptions or industrial provisions.",
+          "Industrial enterprises that are VAT compliant must verify their status through the submission of regular VAT returns as per the newly inserted conditions."
+        ],
+        "Industrial Machinery and Spare Parts": [
+          "Specific exemptions or provisions related to the import of machinery and spare parts do not apply to government, autonomous, diplomatic, or other exempt organizations that are not required to hold an Industrial IRC or file VAT returns."
+        ],
+        "Industrial Import Registration Certificate": [
+          "The certification process for industrial importers now requires confirmation of a valid and renewed Industrial Import Registration Certificate issued by the Chief Controller of Imports and Exports."
+        ],
+        "Value Added Tax": [
+          "Importers must maintain a registry of machinery and spare parts imported at concessional rates and must have filed all required Value Added Tax returns with the relevant authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2055",
+      "entity_sub_entities": {
+        "Industrial Consumer": [
+          "Industrial Consumer"
+        ],
+        "VAT Divisional Officer": [
+          "Deputy Commissioner",
+          "Assistant Commissioner",
+          "VAT Divisional Officer",
+          "certification document"
+        ],
+        "Industrial IRC Holder": [
+          "Industrial IRC holder entities"
+        ],
+        "VAT Compliant": [
+          "VAT returns"
+        ],
+        "Industrial Machinery and Spare Parts": [
+          "machinery",
+          "spare parts",
+          "government organizations",
+          "autonomous organizations",
+          "diplomatic organizations",
+          "exempt organizations",
+          "Industrial IRC"
+        ],
+        "Industrial Import Registration Certificate": [
+          "Industrial Import Registration Certificate",
+          "Chief Controller of Imports and Exports"
+        ],
+        "Value Added Tax": [
+          "machinery",
+          "spare parts",
+          "Value Added Tax returns"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        33,
+        101,
+        110,
+        129,
+        133,
+        134,
+        213,
+        349,
+        352,
+        646,
+        891,
+        893,
+        1408,
+        1572,
+        1817,
+        2070,
+        3486,
+        7348,
+        7854,
+        9029
+      ],
+      "source_file": "customs_sros_OCR/20201003_S.R.O/20201003_S.R.O_output.json",
+      "clause_date": "2020-10-03"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "cluster_id": 520,
+  "cluster_label": "findings",
+  "thread_index": 0,
+  "thread_id": "cluster_00520_t0",
+  "title": "Audit Findings Reporting and Management",
+  "summary": "The concept of 'findings' evolved from a simple reporting template used by Customs Commissionerates to a structured, multi-stage audit management process. This includes formalizing the transition from preliminary audit reports to final management reports, incorporating the auditee's right to respond, and establishing post-audit follow-up procedures.",
+  "evolution": {
+    "structure": "From a static form-based reporting requirement to a dynamic, multi-step procedural framework.",
+    "procedural_rights": "Introduced formal mechanisms for auditees to contest findings and provide responses during final meetings."
+  },
+  "timeline": [
+    {
+      "date": "2022-06-09",
+      "instrument": "SRO/Clause",
+      "change": "Established the initial standardized reporting template for audit findings by Customs, Excise and VAT Commissionerates.",
+      "clause_ids": [
+        "20220609_148-AIN_2022_96_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "Audit Manual/Directives",
+      "change": "Expanded the scope of findings to include a formal lifecycle: preliminary report generation, final meeting with auditee for objections, and post-audit management/recovery actions.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20220609_148-AIN_2022_96_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5",
+      "resolved_text": "(৫) পরিশিষ্ট-৩ এর পরিবর্তে নিম্নবর্ণিত পরিশিষ্ট-৩ প্রতিস্থাপিত হইবে, যথা :-\n\n“পরিশিষ্ট-৩\n[শর্ত (৫) দ্রষ্টব্য]\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। নিরীক্ষাকাল/মেয়াদ :\n৩। নিরীক্ষা মেয়াদে TABLE ভুক্ত আমদানিকৃত উপকরণের বিল অব এন্ট্রিভিত্তিক নাম, বিবরণ ও পরিমাণ (প্রয়োজনে আলাদা কাগজে) :\n৪। কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট কর্তৃক নিরীক্ষায় প্রাপ্ত ফলাফল :\n৫। ক্রমিক নং-৩ ও ৪ এর পরিপ্রেক্ষিতে কমিশনারেটের পর্যবেক্ষণ/ সুপারিশ/ পদক্ষেপ :\n\n                                                    কমিশনার\n                                      কাস্টমস এক্সাইজ ও ভ্যাট কমিশনারেট\n                                      -------------------।”।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table serves as a reference for reporting imported materials during the audit period.",
+          "The table is used to list specific imported raw materials on a bill of entry basis for the purpose of customs audit compliance."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner is the designated authority responsible for conducting audits and documenting findings related to imported materials.",
+          "The Commissioner is tasked with providing observations, recommendations, or taking necessary actions based on the outcomes of the audit conducted by the Customs, Excise and VAT Commissionerate."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "This body is responsible for performing audits of imported materials for a specified period.",
+          "The Commissionerate oversees the reporting process and records its findings, recommendations, and subsequent actions regarding import compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2281",
+      "entity_sub_entities": {
+        "TABLE": [
+          "imported materials",
+          "raw materials",
+          "bill of entry"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner",
+          "audit",
+          "findings",
+          "imported materials",
+          "observations",
+          "recommendations",
+          "actions",
+          "Customs, Excise and VAT Commissionerate"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "audits",
+          "imported materials",
+          "reporting process",
+          "findings",
+          "recommendations",
+          "actions"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        12,
+        26,
+        27,
+        64,
+        105,
+        191,
+        269,
+        298,
+        347,
+        520,
+        681,
+        784,
+        11462
+      ],
+      "source_file": "customs_sros_OCR/20220609_148-AIN_2022_96_Customs/20220609_148-AIN_2022_96_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_43",
+      "clause_title": "৫.৩.২ প্রতিবেদন প্রণয়ন",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+      "resolved_text": "৫.৩.২ প্রতিবেদন প্রণয়ন—\n\nপ্রাথমিক অডিট রিপোর্ট (ট্র্যানজ্যাকশন বেইজড টার্গেটেড অডিট):\n(ক) অডিট শেষ করার পর, অডিট দল ফলাফলের সারসংক্ষেপ তৈরি করবে এবং চূড়ান্ত সভার প্রস্তুতি হিসাবে একটি প্রাথমিক অডিট প্রতিবেদন তৈরি করে তাদের অডিট তত্ত্বাবধানকারীর কাছে পর্যালোচনার জন্য জমা দিবেন; [পরিশিষ্ট-২ দ্রষ্টব্য]\n(খ) প্রতিবেদনের কাঠামোটি PCA অডিট ব্যবস্থাপকদের নির্দেশনা ও প্রয়োজনীয়তা অনুসারে বিন্যস্ত হবে;\n(গ) প্রাথমিক প্রতিবেদনে নিম্নলিখিত বিষয়গুলো উল্লেখ করতে হবে:\n  i. আমদানিকারক/রপ্তানিকারকের বিবরণ;\n  ii. অডিটের উদ্দেশ্য;\n  iii. অডিট কার্যক্রমের জন্য ব্যবহৃত পদ্ধতি;\n  iv. পরীক্ষাকৃত রেকর্ড/দলিলাদি;\n  v. সম্পাদিত অডিট কার্যাবলি;\n  vi. অডিট পর্যবেক্ষণ/ফলাফল;\n  vii. সুপারিশমালা।\n(ঘ) অডিট প্রক্রিয়াধীন প্রতিষ্ঠানকে অডিটের সংক্ষিপ্ত ফলাফল প্রেরণের আগে অডিট তত্ত্বাবধানকারীর নিকট থেকে অডিট টিম প্রাথমিক প্রতিবেদনের অনুমোদন নিবেন।",
+      "entity_concepts": {
+        "Post Clearance Audit": [
+          "The audit team must prepare a preliminary audit report for transaction-based targeted audits following the conclusion of their field work.",
+          "The preliminary report must be submitted to the audit supervisor for review and approval prior to the final meeting with the auditee.",
+          "The report structure must align with the specific instructions and requirements mandated by the Post Clearance Audit managers."
+        ],
+        "Audit Report": [
+          "The preliminary audit report must contain detailed information including the importer or exporter details, audit objectives, methodology, records examined, audit activities performed, findings, and formal recommendations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_714",
+      "entity_sub_entities": {
+        "Post Clearance Audit": [
+          "preliminary audit report",
+          "transaction-based targeted audits",
+          "field work",
+          "audit supervisor",
+          "auditee",
+          "report structure",
+          "Post Clearance Audit managers"
+        ],
+        "Audit Report": [
+          "preliminary audit report",
+          "importer",
+          "exporter",
+          "audit objectives",
+          "methodology",
+          "records",
+          "audit activities",
+          "findings",
+          "formal recommendations"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        77,
+        131,
+        276,
+        297,
+        520,
+        1009,
+        1547,
+        1905,
+        2867,
+        4038,
+        4564,
+        5729,
+        8048,
+        10763,
+        11458,
+        12932
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_46",
+      "clause_title": "৫.৩.৫ চূড়ান্ত প্রতিবেদন পরবর্তী ব্যবস্থাপনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+      "resolved_text": "৫.৩.৫ চূড়ান্ত প্রতিবেদন পরবর্তী ব্যবস্থাপনা—চূড়ান্ত প্রতিবেদন অডিট তত্ত্বাবধানকারীর নিকট জমা দিতে হবে। প্রাথমিক প্রতিবেদনে যদি চূড়ান্ত সভার পর কোনো সংশোধনের প্রয়োজন পড়ে, সেটি অন্তর্ভুক্ত করে একে চূড়ান্ত করতে হবে এবং একটি ব্যবস্থাপনাকত্র প্রস্তুত করতে হবে। প্রতিবেদন এবং ব্যবস্থাপনাকত্র উভয়ই পর্যালোচনা এবং অনুমোদনের জন্য অডিট তত্ত্বাবধানকারীর কাছে জমা দিতে হবে।",
+      "entity_concepts": {
+        "Audit Report": [
+          "The final audit report must be submitted to the audit supervisor after the conclusion of the audit process. If any revisions are identified following the final meeting, these updates must be incorporated into the report to ensure it is accurate and complete.",
+          "Both the final audit report and the management response letter must be reviewed and formally approved by the audit supervisor."
+        ],
+        "Management Response Letter": [
+          "A management response letter must be prepared following the final audit report to address any findings or required corrections. This document must accompany the audit report when submitted to the audit supervisor for review and approval."
+        ],
+        "Audit Supervisor": [
+          "The audit supervisor is responsible for receiving the final audit report and the associated management response letter. They are tasked with reviewing and providing formal approval for these documents to complete the audit cycle."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_717",
+      "entity_sub_entities": {
+        "Audit Report": [
+          "final audit report",
+          "revisions",
+          "updates"
+        ],
+        "Management Response Letter": [
+          "management response letter",
+          "findings",
+          "required corrections"
+        ],
+        "Audit Supervisor": [
+          "audit supervisor"
+        ]
+      },
+      "clause_clusters": [
+        297,
+        520,
+        1009,
+        2232,
+        2727,
+        4319,
+        11483,
+        13122
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_55",
+      "clause_title": "৬.৩.২ চূড়ান্ত সভা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+      "resolved_text": "৬.৩.২ চূড়ান্ত সভা—প্রাথমিক প্রতিবেদনের অনুমোদন পাওয়ার পর, অডিট দল এই প্রতিবেদনের ফলাফলের একটি সারসংক্ষেপ অডিটকৃত প্রতিষ্ঠানের কাছে উপস্থাপন করবে এবং প্রতিষ্ঠানের ঊর্ধ্বতন ব্যবস্থাপনা পর্ষদের সাথে প্রয়োজন মনে করলে একটি চূড়ান্ত সভা আয়োজন করবে। যেখানে অডিট দলের প্রাথমিক ফলাফলের আনুষ্ঠানিক উপস্থাপনা এবং অডিট প্রক্রিয়াধীন প্রতিষ্ঠানকে বিভিন্ন পর্যবেক্ষণ/ফলাফলের ক্ষেত্রে কোন जवाब প্রদান বা আপত্তি উত্থাপনের সুযোগ প্রদান করা হবে। চূড়ান্ত সভায় অডিট ফলাফল উপস্থাপনকারী কে হবে এবং কি কি বিবরণ অন্তর্ভুক্ত হবে সেটি সভার পূর্বেই অডিট দলকে নির্ধারণ করতে হবে। যেকোনো সুপারিশ, অর্থ পরিশোধের ঘাটতি বা অতিরিক্ত পরিশোধের বিষয়ে চূড়ান্ত সভার উপস্থাপনার আগেই অডিট ব্যবস্থাপকের সম্মত হতে হবে।\n\nচূড়ান্ত সভায় অডিট দলের করণীয়:\n(ক) নিরীক্ষিত সময়কাল সনাক্ত করণ, পরিলক্ষিত কাস্টমস ঘোষণাগুলো চিহ্নিত করা;\n(খ) সম্পাদিত পরীক্ষামূলকগুলোর বিবরণ প্রদান করা;\n(গ) প্রতিষ্ঠানের ব্যবসার ইন্টারনাল কন্ট্রোল ব্যবস্থার শক্তি এবং দুর্বলতাগুলো তুলে ধরে অডিটের ফলাফলগুলো উপস্থাপন ও আলোচনা করা;\n(ঘ) পদ্ধতিগত দুর্বলতাগুলোকে সংশোধন করার জন্য যে সুপারিশ করা হবে তা নিয়ে আলোচনা করা;\n(ঙ) চিহ্নিত কোনো কম/অতিরিক্ত মূল্য পরিশোধ বা অনিয়মের বিশদ বিবরণ প্রদান করা;\n(চ) অডিটের পর কাস্টমস কোন যথাযথ ব্যবস্থা গ্রহণের সিদ্ধান্ত নিলে তার নির্দেশ প্রদান করা;\n(ছ) অডিট প্রক্রিয়াধীন প্রতিষ্ঠান অডিটের ফলাফল মেনে না নিলে প্রতিষ্ঠানটিকে আপিলের পদ্ধতি সম্পর্কে অবহিত করা;\n(জ) ভবিষ্যতে অডিটের সম্ভাবনা সম্পর্কে প্রতিষ্ঠানকে অবহিত করা।",
+      "entity_concepts": {
+        "Customs Audit Process": [
+          "Following the approval of the preliminary report, the audit team is required to conduct a closing meeting with the audited entity's senior management to present the findings.",
+          "The closing meeting serves as a formal platform for the audit team to present their findings and allows the audited entity to provide responses or raise objections to the observations.",
+          "Prior to the closing meeting, the audit team must determine the presentation details, and the audit manager must concur with any recommendations regarding underpayments or overpayments."
+        ],
+        "Customs Audit Procedures": [
+          "During the closing meeting, the audit team must identify the audited period and specific customs declarations, detail the examination conducted, and discuss the internal control strengths and weaknesses of the business.",
+          "The team is required to present recommendations for correcting procedural weaknesses, disclose details of any underpayment or overpayment, and explain the subsequent enforcement actions Customs may take.",
+          "The audit team must inform the entity about the right to appeal if they disagree with the audit findings and provide information regarding the possibility of future audits."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_726",
+      "entity_sub_entities": {
+        "Customs Audit Process": [
+          "preliminary report",
+          "audit team",
+          "closing meeting",
+          "audited entity",
+          "senior management",
+          "findings",
+          "responses",
+          "objections",
+          "observations",
+          "presentation details",
+          "audit manager",
+          "recommendations",
+          "underpayments",
+          "overpayments"
+        ],
+        "Customs Audit Procedures": [
+          "closing meeting",
+          "audit team",
+          "audited period",
+          "customs declarations",
+          "examination",
+          "internal control strengths",
+          "internal control weaknesses",
+          "business",
+          "recommendations",
+          "procedural weaknesses",
+          "underpayment",
+          "overpayment",
+          "enforcement actions",
+          "Customs",
+          "entity",
+          "right to appeal",
+          "audit findings",
+          "future audits"
+        ]
+      },
+      "clause_clusters": [
+        21,
+        191,
+        277,
+        337,
+        520,
+        695,
+        747,
+        754,
+        784,
+        1332,
+        1978,
+        2696,
+        2705,
+        2994,
+        2999,
+        3614,
+        4421,
+        5722,
+        5752,
+        6842,
+        8368,
+        9169,
+        9170,
+        10448,
+        10449,
+        10854,
+        10881,
+        10972,
+        12113,
+        13074,
+        13075
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_58",
+      "clause_title": "৬.৩.৫ পরবর্তী কার্যবলি ও অডিট সমাপ্তি প্রক্রিয়া",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_58",
+      "resolved_text": "৬.৩.৫ পরবর্তী কার্যবলি ও অডিট সমাপ্তি প্রক্রিয়া—\n(ক) চাহিদাপত্র/মূল্যায়ন:\nঅডিটের ফলে অতিরিক্ত ডিউটি-ট্যাক্স ধার্য হলে বিজ্ঞপ্তির মাধ্যমে অডিট প্রক্রিয়াধীন প্রতিষ্ঠানকে সেটি পরিশোধ করতে বলতে হবে। তাকে লিখিতভাবে একটি নির্দিষ্ট সময়সীমা দেওয়া হয় যার মধ্যে অতিরিক্ত ডিউটি-ট্যাক্স, প্রভৃতি জমা দেওয়া আবশ্যক।\n(খ) অভ্যন্তরীণ ব্যবস্থাপন প্রতিবেদন:\nপ্রক্রিয়াধীন প্রতিষ্ঠান অডিট ফলাফল বিষয়ে সম্মত হলে, অথবা কোন আপত্তি জানালে, একটি অভ্যন্তরীণ ব্যবস্থাপনা প্রতিবেদন তৈরি করে অডিটের চূড়ান্ত ফলাফল বা অবস্থান তুলে ধরতে হবে এবং প্রয়োজনীয় ক্ষেত্রের সাথে সম্পর্কিত অভ্যন্তরীণ সকল স্টেকহোল্ডারদের এই প্রতিবেদনটি শেয়ার করবেন। অভ্যন্তরীণ স্টেকহোল্ডারদের প্রতিকারমূলক পদক্ষেপ নিতে সক্ষম করার নিরিখে অভ্যন্তরীণ ব্যবস্থাপনায় প্রতিবেদনে চূড়ান্ত অডিট অবস্থানের সাথে সংযুক্ত গুরুত্বপূর্ণ ঝুঁকিপূর্ণ সূচকগুলোকে হাইলাইট করা অত্যন্ত জরুরী যেন ভবিষ্যতে তারা এ ধরনের সমস্যার প্রতিরোধমূলক ব্যবস্থা গ্রহণ করতে সক্ষম হয়।\n(গ) ব্যক্তি/প্রতিষ্ঠানের দলিলাদি ফেরত দেওয়া:\nপ্রতিবেদন দাখিলের পর প্রতিষ্ঠান কর্তৃক জমাকৃত অপ্রয়োজনীয় দলিলাদি প্রাপ্তিস্বীকার মূল্যে ফেরত দিতে হবে। অভ্যন্তরীণভাবে প্রাপ্ত রেকর্ডগুলো সংশ্লিষ্ট অফিসে ফেরত প্রদান করতে হবে।",
+      "entity_concepts": {
+        "Customs Audit": [
+          "The audit process involves identifying additional duty and tax liabilities that must be formally communicated to the entity under audit.",
+          "Upon completion of an audit, an internal management report must be generated to summarize the findings, highlight key risk indicators for preventive measures, and share the results with relevant internal stakeholders.",
+          "Following the submission of the final report, any unnecessary documents provided by the auditee must be returned, and internal records must be properly filed and returned to the respective offices."
+        ],
+        "Customs Duty and Taxes": [
+          "Entities found liable for additional duty and taxes during an audit are required to pay the assessed amounts within a specified timeframe."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_729",
+      "entity_sub_entities": {
+        "Customs Audit": [
+          "additional duty",
+          "tax liabilities",
+          "internal management report",
+          "findings",
+          "key risk indicators",
+          "final report",
+          "unnecessary documents",
+          "internal records"
+        ],
+        "Customs Duty and Taxes": [
+          "additional duty",
+          "taxes",
+          "assessed amounts"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        388,
+        520,
+        634,
+        2282,
+        2432,
+        2728,
+        4219,
+        4221,
+        5658,
+        9355,
+        13105
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    }
+  ],
+  "num_static_replicated_objects": 2,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩",
+      "text_id": "metadata_3",
+      "resolved_text": "পরিশিষ্ট-৩\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। নিরীক্ষাকাল/মেয়াদ :\n৩। নিরীক্ষা মেয়াদে TABLE ভুক্ত আমদানিকৃত উপকরণের বিল অব এন্ট্রিভিত্তিক নাম, বিবরণ ও পরিমাণ (প্রয়োজনে আলাদা কাগজে) :\n৪। কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট কর্তৃক নিরীক্ষায় প্রাপ্ত ফলাফল :\n৫। ক্রমিক-৩ ও ৪ এর পরিপ্রেক্ষিতে কমিশনারেটের পর্যবেক্ষণ/সুপারিশ/পদক্ষেপ :\n\nকমিশনার\nকাস্টমস মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table is used to list imported raw materials subject to audit, categorized by their bill of entry details including name, description, and quantity."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs, Valuation and Internal Audit Commissionerate, is responsible for performing the audit, recording findings, and providing observations, recommendations, or further action points based on the audit results."
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "This government body is mandated to conduct audits on imported materials and provide official observations or recommendations based on the evaluation of documentation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_676",
+      "entity_sub_entities": {
+        "TABLE": [
+          "imported raw materials",
+          "bill of entry details",
+          "name",
+          "description",
+          "quantity"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Valuation and Internal Audit Commissionerate",
+          "audit",
+          "findings",
+          "observations",
+          "recommendations",
+          "action points"
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "government body",
+          "imported materials",
+          "observations",
+          "recommendations",
+          "documentation"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        26,
+        63,
+        82,
+        105,
+        132,
+        191,
+        206,
+        243,
+        365,
+        396,
+        520,
+        681,
+        784,
+        5290,
+        5966,
+        13153
+      ],
+      "source_file": "customs_sros_OCR/20160602_151-AIN_2016_13-Customs/20160602_151-AIN_2016_13-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩ [শর্ত (৫) দ্রষ্টব্য]",
+      "text_id": "metadata_9",
+      "resolved_text": "পরিশিষ্ট-৩\n[শর্ত (৫) দ্রষ্টব্য]\n\n১। প্রতিষ্ঠানের নাম ও ঠিকানা :\n২। নিরীক্ষাকাল/মেয়াদ :\n৩। নিরীক্ষা মেয়াদে TABLE ভুক্ত আমদানিকৃত উপকরণের বিল অব এন্ট্রিভিত্তিক নাম, বিবরণ ও পরিমাণ (প্রয়োজনে আলাদা কাগজে) :\n৪। কাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট কর্তৃক নিরীক্ষায় প্রাপ্ত ফলাফল:\n৫। ক্রমিক নং-৩ ও ৪ এর পরিপ্রেক্ষিতে কমিশনারেটের পর্যবেক্ষণ/সুপারিশ/পদক্ষেপ:\n\nকমিশনার\nকাস্টমস, এক্সাইজ ও ভ্যাট কমিশনারেট\n------ ।",
+      "entity_concepts": {
+        "TABLE": [
+          "The table serves as a reference point for recording the specific name, description, and quantity of imported raw materials used during the audit period.",
+          "Data entered in the table must be based on the official bills of entry processed during the audit timeline."
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "This body is responsible for conducting audits and documenting the findings related to imported materials.",
+          "The Commissionerate is tasked with providing professional observations, recommendations, and follow-up actions based on the audit results."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1149",
+      "entity_sub_entities": {
+        "TABLE": [
+          "name",
+          "description",
+          "quantity",
+          "imported raw materials",
+          "bills of entry"
+        ],
+        "Customs, Excise and VAT Commissionerate": [
+          "audits",
+          "findings",
+          "imported materials",
+          "observations",
+          "recommendations",
+          "follow-up actions",
+          "audit results"
+        ]
+      },
+      "clause_clusters": [
+        26,
+        105,
+        132,
+        164,
+        191,
+        206,
+        243,
+        269,
+        298,
+        396,
+        520,
+        784,
+        2485,
+        8203
+      ],
+      "source_file": "customs_sros_OCR/20220609_125-AIN_2022_73_Customs/20220609_125-AIN_2022_73_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

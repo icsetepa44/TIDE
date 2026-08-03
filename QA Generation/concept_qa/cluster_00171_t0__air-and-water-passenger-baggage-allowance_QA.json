@@ -1,0 +1,111 @@
+{
+  "thread_id": "cluster_00171_t0",
+  "cluster_id": 171,
+  "cluster_label": "Passenger Baggage Allowance",
+  "title": "Air and Water Passenger Baggage Allowance",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the regulations established in SRO 2012, passengers aged 12 and above were permitted to import a primary baggage allowance of 36kg. This limit remained unchanged until SRO 2025, which increased the allowance to 65kg.",
+      "question": "What is the correct evolution of the primary baggage weight allowance for passengers aged 12 and above according to the official timeline?",
+      "conflict": "The passage incorrectly claims the 36kg limit started in 2012 and that it was increased to 65kg in 2025, whereas the actual evolution was a decrease from 65kg to 36kg.",
+      "answer": "The primary baggage weight allowance for passengers aged 12 and above was initially established at 65kg in SRO 2012 and was subsequently reduced to 36kg in SRO 2025.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the rules set by SRO 2024, passengers under the age of 12 are granted the same duty-free baggage weight allowance as adults, and they are fully eligible for all luxury item concessions, including gold and alcohol.",
+      "question": "Are passengers under the age of 12 entitled to the same baggage allowances and luxury item concessions as adults under SRO 2024?",
+      "conflict": "The passage incorrectly states that minors have the same allowances as adults and are eligible for luxury concessions, contradicting the specific exclusions for minors noted in SRO 2024.",
+      "answer": "No. According to SRO 2024, passengers under the age of 12 are limited to a specific weight allowance and are explicitly excluded from duty-free privileges regarding luxury items such as gold, silver, alcohol, and cigarettes.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A traveler aged 18 has been flying into Bangladesh regularly since 2012, consistently bringing the maximum allowed primary baggage weight permitted under the law at the time of each trip. In 2024, they brought 65kg of primary baggage. In their next trip in mid-2025, they intend to bring the same amount of primary baggage.",
+      "question": "How does the duty-free primary baggage allowance for this passenger change between their 2024 trip and their 2025 trip?",
+      "answer": "The duty-free primary baggage allowance decreased from 65kg in 2024 to 36kg in 2025.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_3",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year later",
+      "question": "Starting from the regulations set in 2024-06-06, what significant change occurred to the primary baggage weight allowance one year later?",
+      "answer": "In 2025-06-03 (SRO 2025), the primary baggage weight allowance for passengers arriving by air or water was reduced from 65kg to 36kg.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The primary baggage weight allowance for passengers aged twelve and above is reduced to thirty-six kilograms.",
+        "The regulations clarify that the total weight allowance for baggage and personal items includes hand baggage, cabin bags, or items brought through other methods.",
+        "The weight limits for cabin and checked baggage are refined for passengers arriving by air or water.",
+        "The customs regulations establish specific weight-based duty-free allowances for passengers aged twelve and above and those under twelve."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The customs regulations establish specific weight-based duty-free allowances for passengers aged twelve and above and those under twelve.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The weight limits for cabin and checked baggage are refined for passengers arriving by air or water.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "The regulations clarify that the total weight allowance for baggage and personal items includes hand baggage, cabin bags, or items brought through other methods.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "The primary baggage weight allowance for passengers aged twelve and above is reduced to thirty-six kilograms.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_3",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3",
+        "20250603_._._._০২ জুন, ২০২৫_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00171_t0__air-and-water-passenger-baggage-allowance.json"
+    }
+  ]
+}

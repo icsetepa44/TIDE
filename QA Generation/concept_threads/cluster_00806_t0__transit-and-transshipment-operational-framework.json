@@ -1,0 +1,686 @@
+{
+  "cluster_id": 806,
+  "cluster_label": "transit operations",
+  "thread_index": 0,
+  "thread_id": "cluster_00806_t0",
+  "title": "Transit and Transshipment Operational Framework",
+  "summary": "The framework for transit and transshipment has evolved from a simple fee-based structure in 2010 to a comprehensive regulatory regime by 2025. This evolution includes the formalization of authorized agents, the introduction of integrated guarantees, the establishment of institutional coordination mechanisms, and the shift toward flexible, protocol-driven fee structures.",
+  "evolution": {
+    "Institutional Oversight": "From simple fee collection to the appointment of a National Transit/Transshipment Coordinator.",
+    "Financial Security": "From basic fees to complex integrated bank guarantees.",
+    "Operational Flexibility": "From rigid port/route definitions to allowing ex-post-facto modifications by authorized agents.",
+    "Fee Structure": "From fixed statutory rates to protocol-dependent administrative charges."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "SRO/Clause",
+      "change": "Initial establishment of fixed transit/transshipment fees based on container/tonnage.",
+      "clause_ids": [
+        "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5"
+      ]
+    },
+    {
+      "date": "2023-04-25",
+      "instrument": "Standing Order",
+      "change": "Formal definition of authorized persons/agents and codification of transit routes based on bilateral agreements.",
+      "clause_ids": [
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+        "20230425_২৪ এপ্রিল, ২০২৩_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Regulation",
+      "change": "Introduction of 'Integrated Guarantees' for AEOs and government entities to streamline transit security.",
+      "clause_ids": [
+        "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5"
+      ]
+    },
+    {
+      "date": "2025-05-18",
+      "instrument": "Regulation",
+      "change": "Institutionalization of a National Coordinator, introduction of ex-post-facto route/port modification, and shift to a dynamic fee structure linked to specific protocols.",
+      "clause_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_16",
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_5"
+      ]
+    }
+  ],
+  "num_member_objects": 8,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "ট্রানশিপমেন্ট বা ট্রানজিট ফি",
+      "text_id": "20100610_182-AIN_2010_2300-Customs_১০ জুন, ২০১০_clause_5",
+      "resolved_text": "৫। ট্রানশিপমেন্ট বা ট্রানজিট ফি।— (১) ট্রানশিপমেন্ট এবং ট্রানজিট এর ক্ষেত্রে নিম্নরূপ হারে ফি এন্ট্রি পয়েন্ট কাস্টমস্ স্টেশনে আদায়যোগ্য হইবে, যথা:-\n(ক) সড়ক পথে বা রেলপথে প্রতি TEU কন্টেইনারের ক্ষেত্রে ১০,০০০ টাকা;\n(খ) সড়কপথে কাভার্ড ভ্যান বা কাভার্ড ট্রাকে প্রতি টন পণ্যের ক্ষেত্রে ১,০০০ টাকা;\n(গ) নন-কন্টেইনার জাহাজ বা রেলযোগে পরিবহনের ক্ষেত্রে বাল্ক পণ্য প্রতি টন ১,০০০ টাকা।\n(২) শুল্ক কর্তৃপক্ষ কর্তৃক সময়ে সময়ে নির্ধারিত হারে পণ্যের স্ক্যানিং চার্জ পরিশোধযোগ্য হইবে।\n(৩) উপ-বিধি (১) এবং (২) এ যাহা কিছুই থাকুক না কেন, শুল্ক কর্তৃপক্ষ ব্যতীত অন্য কোন কর্তৃপক্ষ বা সংস্থা কর্তৃক ট্রানশিপমেন্ট বা ট্রানজিট এর ক্ষেত্রে অন্য কোন চার্জ বা টোল, ইত্যাদি আরোপিত হইলে উহা ডিক্লারেন্ট কর্তৃক পরিশোধযোগ্য হইবে।\n(৪) উপ-বিধি (১) এ যাহা কিছুই থাকুক না কেন, কোন সমুদ্র বন্দর বা বিমান বন্দর দিয়া পণ্য আমদানির পর উহা দেশের অভ্যন্তরে প্রবেশ না করিয়া একই সমুদ্র বন্দর বা বিমান বন্দর দিয়া পুনরায় রপ্তানি করা হইলে, এইরূপ ট্রানশিপমেন্ট পণ্য বা ট্রানজিট পণ্যের ক্ষেত্রে এই বিধির অধীন কোন ট্রানশিপমেন্ট ফি বা ট্রানজিট ফি প্রযোজ্য হইবে না।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "This clause mandates the collection of fees for transit and transshipment operations at the entry point customs station.",
+          "Fees are structured based on the mode of transport and cargo type, including rates for containerized, covered van, and bulk cargo shipments."
+        ],
+        "Customs Authority": [
+          "The Customs Authority is empowered to determine and collect scanning charges for goods handled during transit or transshipment.",
+          "They oversee the application of transit and transshipment fees and verify exemptions under specific conditions."
+        ],
+        "Declarant": [
+          "The declarant is responsible for the payment of any additional charges or tolls imposed by non-customs authorities or agencies during the transit or transshipment process, notwithstanding customs fees."
+        ],
+        "Exemption from Transit and Transshipment Fees": [
+          "No transit or transshipment fees are applicable when goods imported through a sea or airport are subsequently re-exported via the same port without entering the interior of the country."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1252",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "transit operations",
+          "transshipment operations",
+          "containerized cargo",
+          "covered van cargo",
+          "bulk cargo shipments"
+        ],
+        "Customs Authority": [
+          "Customs Authority",
+          "scanning charges",
+          "transit fees",
+          "transshipment fees"
+        ],
+        "Declarant": [
+          "declarant",
+          "additional charges",
+          "tolls",
+          "non-customs authorities",
+          "agencies",
+          "customs fees"
+        ],
+        "Exemption from Transit and Transshipment Fees": [
+          "transit fees",
+          "transshipment fees",
+          "goods",
+          "sea port",
+          "airport"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        216,
+        806,
+        807,
+        822,
+        1191,
+        1537,
+        1593,
+        1883,
+        2292,
+        2297,
+        3143,
+        4825,
+        6092,
+        6766,
+        6916,
+        7859,
+        10098,
+        11857
+      ],
+      "source_file": "customs_sros_OCR/20100610_182-AIN_2010_2300-Customs/20100610_182-AIN_2010_2300-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+      "resolved_text": "১। সংজ্ঞা: এই স্থায়ী আদেশের উদ্দেশ্য পূরণকল্পে-\n(ক) \"অনুমোদিত ব্যক্তি\" অর্থ কাস্টমস Authorities এর নিকট পণ্যের ঘোষণা, ট্রানজিট বা ট্রানশিপমেন্ট গ্যারান্টি বা কাস্টমস বন্ড বা অঙ্গীকারনামা বা লেটার অব গ্যারান্টি দাখিলের উদ্দেশ্যে ক্ষমতাপ্রাপ্ত এবং সংশ্লিষ্ট লাইসেন্সিং বিধিমালার অধীনে লাইসেন্সপ্রাপ্ত কোন ক্লিয়ারিং ও ফরওয়ার্ডিং এজেন্ট;\n(খ) \"আইন\" অর্থ Customs Act, 1969 (Act No.IV of 1969);\n(গ) \"আমদানি ম্যানিফেস্ট\" অর্থ আইনের section 2 এর clause (ll) এ সংজ্ঞায়িত import manifest;\n(ঘ) \"এজেন্ট\" অর্থ আইনের section 2 এর clause (a) তে সংজ্ঞায়িত agent;\n(ঙ) \"কাস্টমস কম্পিউটার সিস্টেম\" অর্থ আইনের Section 2 এর Clause (ii) এ সংজ্ঞায়িত Customs Computer System;\n(চ) \"কাস্টমস বন্ড বা লেটার অব গ্যারান্টি\" অর্থ ট্রানজিট বা ট্রানশিপমেন্ট পণ্যের উপর প্রযোজ্য শুল্ক-করের সমপরিমাণ অর্থের বিপরীতে ৩০০ শত টাকার নন-জুডিশিয়াল স্ট্যাম্পে নির্ধারিত পদ্ধতিতে প্রদত্ত অঙ্গীকারনামা;\n(ছ) \"কাস্টমস ট্রানজিট বা ট্রানশিপমেন্ট ঘোষণা\" অর্থ কোন দ্বিপাক্ষিক বা বহুপাক্ষিক চুক্তি অথবা প্রটোকল অথবা Standard Operating Procedure (SOP) অথবা জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত স্থায়ী আদেশ বা বিশেষ আদেশ দ্বারা নির্ধারিত ফরমে প্রদত্ত ট্রানজিট বা ট্রানশিপমেন্ট ঘোষণা। কাস্টমস কম্পিউটার সিস্টেমে দাখিলকৃত বা দাখিলযোগ্য IM-8 (পরিশিষ্ট-১) এবং T1 (পরিশিষ্ট-২) ঘোষণাও ইহার অন্তর্ভুক্ত হইবে;\n(জ) \"কাস্টমস স্টেশন\" অর্থ আইনের section 2 এর clause (k) তে সংজ্ঞায়িত customs station;\n(ঝ) \"চুক্তি\" অর্থ ২৫ অক্টোবর, ২০১৮ তারিখে গণপ্রজাতন্ত্রী বাংলাদেশ সরকার এবং প্রজান্তান্ত্রিক ভারত সরকারের মধ্যে সম্পাদিত Agreement on the use of Chattogram and Mongla Port for Movement of Goods to and from India between the People's Republic of Bangladesh and the Republic of India;\n(ঞ) \"ট্রানজিট অপারেটর\" অর্থ এই স্থায়ী আদেশের অনুচ্ছেদ ৫ অনুযায়ী তালিকাভুক্ত অপারেটর;\n(ট) \"বোর্ড\" অর্থ National Board of Revenue Order, 1972 (President's Order No. 76 of 1972) এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ঠ) \"বৃহৎ আকৃতির পণ্য\" অর্থ ৪০ ফুট × ৮ ফুট × ৯ ফুট বা তাহার অধিক আয়তন বিশিষ্ট যন্ত্রপাতি ও সরঞ্জাম যাহা কন্টেইনারজাতকরণের যোগ্য নয়;\n(ড) \"বিধিমালা\" অর্থ জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত কাস্টমস ট্রানজিট ও ট্রানশিপমেন্ট বিধিমালা, ২০২১;\n(ঢ) \"যানবাহন (Conveyance)\" অর্থ আইনের section 2 এর clause (g) এ সংজ্ঞায়িত যানবাহন;\n(ণ) \"শুল্ক-কর (Duties and Taxes)\" অর্থ আইনের অধীনে আমদানি পর্যায়ে আদায়যোগ্য Customs Duty, Regulatory Duty, Countervailing Duty, Anti Dumping Duty, Safeguard Duty; মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন আমদানি পর্যায়ে আদায়যোগ্য মূল্য সংযোজন কর, আগাম কর ও সম্পূরক শুল্ক এবং Income Tax Ordinance, 1984 এর অধীন আমদানি পর্যায়ে আদায়যোগ্য অগ্রিম আয়কর; এবং\n(ত) \"স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর\" অর্থ চুক্তি-এর আওতায় ট্রানজিট বা ট্রানশিপমেন্ট বাস্তবায়নের লক্ষ্যে সম্পাদিত স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর।",
+      "entity_concepts": {
+        "Agent": [
+          "An Authorized Person is defined as a clearing and forwarding agent licensed under relevant licensing regulations and authorized to submit customs declarations, guarantees, or bonds.",
+          "The term Agent is referenced as defined in the relevant section of the Customs Act 1969."
+        ],
+        "Customs Act 1969": [
+          "The term Act is defined as the Customs Act 1969 (Act No. IV of 1969)."
+        ],
+        "Import Manifest": [
+          "The term Import Manifest refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Computerised System": [
+          "The term Customs Computer System refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Bond or Letter of Guarantee": [
+          "This refers to a commitment document executed on non-judicial stamp paper of a specific value, covering the amount of duties and taxes applicable to transit or transshipment goods."
+        ],
+        "Customs Station": [
+          "The term Customs Station refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Transit and Transshipment": [
+          "Customs transit or transshipment declarations must be submitted in the form prescribed by bilateral or multilateral agreements, protocols, Standard Operating Procedures, or orders issued by the National Board of Revenue. This includes the IM-8 and T1 declarations submitted or required to be submitted via the Customs Computer System."
+        ],
+        "Government of the People's Republic of Bangladesh": [
+          "The agreement refers to the pact signed between the Government of Bangladesh and the Republic of India on October 25, 2018, regarding the use of Chattogram and Mongla ports."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the National Board of Revenue established under the National Board of Revenue Order, 1972."
+        ],
+        "Conveyance": [
+          "The term Conveyance refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Duty": [
+          "Duties and Taxes include various import-stage levies such as Customs Duty, Regulatory Duty, Countervailing Duty, Anti-Dumping Duty, Safeguard Duty, Value Added Tax, supplementary duty, and Advance Income Tax."
+        ],
+        "Standard Operating Procedure": [
+          "This refers to the procedural document established under the bilateral agreement to implement transit or transshipment operations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_664",
+      "entity_sub_entities": {
+        "Agent": [
+          "Authorized Person",
+          "clearing and forwarding agent",
+          "customs declarations",
+          "guarantees",
+          "bonds",
+          "Customs Act 1969"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "Act No. IV of 1969"
+        ],
+        "Import Manifest": [
+          "Customs Act 1969"
+        ],
+        "Customs Computerised System": [
+          "Customs Computer System",
+          "Customs Act 1969"
+        ],
+        "Customs Bond or Letter of Guarantee": [
+          "commitment document",
+          "non-judicial stamp paper",
+          "duties and taxes",
+          "transit goods",
+          "transshipment goods"
+        ],
+        "Customs Station": [
+          "Customs Act 1969"
+        ],
+        "Transit and Transshipment": [
+          "Customs transit declarations",
+          "transshipment declarations",
+          "bilateral agreements",
+          "multilateral agreements",
+          "protocols",
+          "Standard Operating Procedures",
+          "orders",
+          "National Board of Revenue",
+          "IM-8 declaration",
+          "T1 declaration",
+          "Customs Computer System"
+        ],
+        "Government of the People's Republic of Bangladesh": [
+          "Government of Bangladesh",
+          "Republic of India",
+          "Chattogram port",
+          "Mongla port"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "National Board of Revenue Order, 1972"
+        ],
+        "Conveyance": [
+          "Customs Act 1969"
+        ],
+        "Customs Duty": [
+          "Customs Duty",
+          "Regulatory Duty",
+          "Countervailing Duty",
+          "Anti-Dumping Duty",
+          "Safeguard Duty",
+          "Value Added Tax",
+          "supplementary duty",
+          "Advance Income Tax"
+        ],
+        "Standard Operating Procedure": [
+          "procedural document",
+          "bilateral agreement",
+          "transit operations",
+          "transshipment operations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        9,
+        10,
+        25,
+        32,
+        36,
+        56,
+        73,
+        75,
+        80,
+        94,
+        156,
+        176,
+        203,
+        216,
+        238,
+        345,
+        374,
+        546,
+        667,
+        679,
+        683,
+        694,
+        695,
+        718,
+        738,
+        801,
+        806,
+        807,
+        815,
+        1063,
+        1156,
+        1271,
+        1300,
+        1418,
+        1624,
+        2429,
+        2506,
+        4374,
+        6324,
+        6496,
+        6852,
+        8822,
+        11474,
+        12616
+      ],
+      "source_file": "customs_gos_OCR/20230425/20230425_output.json",
+      "clause_date": "2023-04-25"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "ট্রানজিট ও ট্রানশিপমেন্ট রুট",
+      "text_id": "20230425_২৪ এপ্রিল, ২০২৩_clause_2",
+      "resolved_text": "৩। ট্রানজিট ও ট্রানশিপমেন্ট রুট: নির্ধারিত রুট হইবে ভারত ও বাংলাদেশের মধ্যে স্বাক্ষরিত এতদসংশ্লিষ্ট চুক্তিতে অন্তর্ভুক্ত এবং পরিশিষ্ট-৩ এ উল্লিখিত রুট।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "This standing order specifies that transit and transshipment operations between India and Bangladesh must exclusively follow the routes defined in the relevant bilateral agreements and detailed in the appendix of the order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_665",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "transit operations",
+          "transshipment operations",
+          "routes",
+          "bilateral agreements",
+          "appendix"
+        ]
+      },
+      "clause_clusters": [
+        141,
+        216,
+        401,
+        738,
+        806,
+        807
+      ],
+      "source_file": "customs_gos_OCR/20230425/20230425_output.json",
+      "clause_date": "2023-04-25"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "সমন্বিত গ্যারান্টি",
+      "text_id": "20240606_205-AIN_2024_57_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "৫। সমন্বিত গ্যারান্টি।⎯ আইনের ধারা ৪৩ এর আওতায় সমন্বিত গ্যারান্টি গ্রহণের ক্ষেত্রে নিম্নবর্ণিত বিধান অনুসরণীয় হইবে, যথা:-\n\n(ক) অথরাইজড ইকোনমিক অপারেটরের মর্যাদাপ্রাপ্ত প্রতিষ্ঠান, সরকারি প্রতিষ্ঠান ও বোর্ড কর্তৃক নির্দিষ্টকৃত কোনো প্রতিষ্ঠান এবং ট্রানজিট/ট্রান্সশিপমেন্টের ক্ষেত্রে সমন্বিত গ্যারান্টি গ্রহণ করা যাইবে;\n\n(খ) যে সকল পণ্যচালানের জন্য ব্যাংক গ্যারান্টি গ্রহণের আবশ্যকতা রহিয়াছে সেই সকল পণ্যচালানের জন্য সমন্বিত গ্যারান্টি গ্রহণ করিবার ক্ষেত্রে সমন্বিত গ্যারান্টি হিসাবে ব্যাংক গ্যারান্টি গ্রহণ করিতে হইবে, সমন্বিত গ্যারান্টির মূল্য পণ্যচালানসমূহ সংশ্লিষ্ট শুল্ক ও কর এবং অন্যান্য চার্জ অপেক্ষা কম হইবে না;\n\n(গ) একাধিক প্রকারের গ্যারান্টি প্রযোজ্য হয় এইরূপ দুই বা ততোধিক কার্যক্রম, ঘোষণা বা কাস্টমস পদ্ধতির ক্ষেত্রে সমন্বিত গ্যারান্টি গ্রহণ করা যাইবে না।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 43 of this Act provides the legal basis for the acceptance of comprehensive guarantees for customs purposes."
+        ],
+        "Comprehensive Guarantee": [
+          "This mechanism allows for the consolidated coverage of customs duties and charges, provided that the total value of the guarantee is not less than the cumulative duties and taxes payable on the goods.",
+          "It is applicable to Authorized Economic Operators, government entities, and organizations specified by the National Board of Revenue, as well as for transit and transshipment operations.",
+          "The instrument must be in the form of a bank guarantee when such a guarantee is otherwise required for the clearance of goods.",
+          "It is prohibited to use a comprehensive guarantee for operations, declarations, or customs procedures that involve two or more different types of guarantee requirements."
+        ],
+        "Authorized Economic Operator": [
+          "These entities are explicitly eligible to utilize the comprehensive guarantee facility for their customs operations."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to specify which institutions, in addition to Authorized Economic Operators and government bodies, are permitted to provide comprehensive guarantees."
+        ],
+        "Transit and Transshipment": [
+          "These operations are explicitly eligible for coverage under the comprehensive guarantee regime."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2731",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 43",
+          "comprehensive guarantees"
+        ],
+        "Comprehensive Guarantee": [
+          "customs duties",
+          "charges",
+          "total value of the guarantee",
+          "cumulative duties",
+          "taxes",
+          "goods",
+          "Authorized Economic Operators",
+          "government entities",
+          "organizations",
+          "National Board of Revenue",
+          "transit operations",
+          "transshipment operations",
+          "bank guarantee",
+          "clearance of goods",
+          "customs procedures"
+        ],
+        "Authorized Economic Operator": [
+          "comprehensive guarantee facility",
+          "customs operations"
+        ],
+        "National Board of Revenue": [
+          "institutions",
+          "Authorized Economic Operators",
+          "government bodies",
+          "comprehensive guarantees"
+        ],
+        "Transit and Transshipment": [
+          "transit operations",
+          "transshipment operations",
+          "comprehensive guarantee regime"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        13,
+        14,
+        18,
+        86,
+        115,
+        166,
+        216,
+        225,
+        390,
+        648,
+        759,
+        806,
+        807,
+        1087,
+        2766,
+        3648,
+        4851,
+        6574,
+        6575,
+        6576,
+        6784,
+        8522,
+        12875
+      ],
+      "source_file": "customs_sros_OCR/20240606_205-AIN_2024_57_Customs/20240606_205-AIN_2024_57_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_16",
+      "clause_title": "জাতীয় ট্রানজিট বা ট্রান্সশিপমেন্ট সমন্বয়কারী নিয়োগ",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_16",
+      "resolved_text": "১৬। জাতীয় ট্রানজিট বা ট্রান্সশিপমেন্ট সমন্বয়কারী নিয়োগ।—ট্রানজিট বা ট্রান্সশিপমেন্ট সম্পর্কিত সকল প্রশ্নাবলী ও প্রস্তাব নিষ্পত্তিকরণ এবং সংশ্লিষ্ট অন্যান্য সকল সংস্থার সহিত সমন্বয় সাধনের উদ্দেশ্যে বোর্ড একজন কাস্টমস কমিশনারকে জাতীয় ট্রানজিট বা ট্রান্সশিপমেন্ট সমন্বয়কারী হিসেবে নিয়োগ করিবে এবং সকল ট্রানজিট বা ট্রান্সশিপমেন্ট এর ক্ষেত্রে বাংলাদেশের প্রবেশ বন্দর ও প্রস্থান বন্দরের একজন করিয়া কর্মকর্তা প্রদান সমন্বয়কারীকে সহায়তা প্রদান করিবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to appoint a Commissioner of Customs to serve as the National Transit or Transshipment Coordinator."
+        ],
+        "Transit and Transshipment": [
+          "The Transit or Transshipment Coordinator is responsible for resolving all queries and proposals related to transit or transshipment activities and ensuring coordination with relevant government agencies."
+        ],
+        "Commissioner of Customs": [
+          "A Commissioner of Customs is designated as the National Transit or Transshipment Coordinator to oversee and harmonize transit and transshipment operations."
+        ],
+        "Customs Authority": [
+          "Designated officials at both entry and exit ports are required to assist the National Transit or Transshipment Coordinator in managing transit and transshipment logistics."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2989",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "Commissioner of Customs",
+          "National Transit or Transshipment Coordinator"
+        ],
+        "Transit and Transshipment": [
+          "Transit or Transshipment Coordinator",
+          "transit activities",
+          "transshipment activities",
+          "government agencies"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "National Transit or Transshipment Coordinator",
+          "transit operations",
+          "transshipment operations"
+        ],
+        "Customs Authority": [
+          "designated officials",
+          "entry ports",
+          "exit ports",
+          "National Transit or Transshipment Coordinator",
+          "transit logistics",
+          "transshipment logistics"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        23,
+        216,
+        806,
+        807,
+        1662,
+        2699,
+        2710,
+        2877,
+        3826,
+        12953,
+        12964,
+        12971,
+        13009,
+        13014
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_18",
+      "clause_title": "ট্রানজিট বা ট্রান্সশিপমেন্ট সংশ্লিষ্ট বন্দর বা স্টেশন পরিবর্তন",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_18",
+      "resolved_text": "১৮। ট্রানজিট বা ট্রান্সশিপমেন্ট সংশ্লিষ্ট বন্দর বা স্টেশন পরিবর্তন।—অনুমোদিত ব্যক্তি বা এজেন্ট কর্তৃক যথাযথ কারণ উল্লেখ করিয়া কাস্টমস Authorities [কর্তৃপক্ষের] নিকট আবেদন করা হইলে, ক্ষেত্রমত, ঘটনা পরবর্তী (Ex Post Facto) অনুমোদন এবং কাস্টমস কর্তৃপক্ষের পূর্বানুমতি গ্রহণ ও কাস্টমস কম্পিউটার সিস্টেমে প্রয়োজনীয় সংশোধনের শর্তে প্রস্থান বন্দর পরিবর্তন করা যাইবে।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "The procedure for changing the designated port or station for transit or transshipment is established.",
+          "Authorized persons or agents must provide valid reasons and receive approval from customs authorities to change the port of exit."
+        ],
+        "Customs Authority": [
+          "Customs authorities have the power to grant ex post facto approval and pre-approval for the modification of transit or transshipment points.",
+          "They oversee the process where an authorized person or agent submits a request for changing the port or station."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Any change to the port of exit for transit or transshipment operations requires necessary amendments to be made within the customs computerized system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2991",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "designated port",
+          "station",
+          "port of exit",
+          "authorized persons",
+          "agents",
+          "customs authorities"
+        ],
+        "Customs Authority": [
+          "customs authorities",
+          "authorized person",
+          "agent",
+          "port",
+          "station"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "port of exit",
+          "transit operations",
+          "transshipment operations",
+          "customs computerized system"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        45,
+        66,
+        94,
+        216,
+        317,
+        435,
+        481,
+        526,
+        683,
+        806,
+        807,
+        1914,
+        2933,
+        7264
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_20",
+      "clause_title": "দণ্ড",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_20",
+      "resolved_text": "২০। দণ্ড।—এই বিধিমালায় বর্ণিত কোনো বিধান লঙ্ঘিত হইলে উহা আইনের সংশ্লিষ্ট ধারার লঙ্ঘনজনিত অপরাধ হিসাবে গণ্য হইবে এবং ট্রানজিট বা ট্রান্সশিপমেন্ট চালানের ব্যবস্থাপনায় নিয়োজিত অনুমোদিত ব্যক্তি বা এজেন্ট একক বা যৌথভাবে উক্ত অপরাধের জন্য দায়ী হইবেন এবং আইনের সংশ্লিষ্ট বিধান অনুযায়ী দণ্ড আরোপিত হইবে।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "The violation of any provisions set forth in these rules regarding transit or transshipment operations shall be treated as an offence under the relevant sections of the law."
+        ],
+        "Authorized Person or Agent": [
+          "Authorized persons or agents engaged in the management of transit or transshipment shipments are held individually or jointly liable for any violations of these rules.",
+          "Liability for such offences may result in the imposition of penalties in accordance with the relevant provisions of the law."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2993",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "transit operations",
+          "transshipment operations"
+        ],
+        "Authorized Person or Agent": [
+          "authorized persons",
+          "agents",
+          "transit shipments",
+          "transshipment shipments",
+          "penalties"
+        ]
+      },
+      "clause_clusters": [
+        46,
+        216,
+        481,
+        806,
+        807,
+        1495,
+        1807,
+        1914,
+        2495
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "ফি এবং চার্জসমূহ",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_5",
+      "resolved_text": "৫। ফি এবং চার্জসমূহ।—(১) সংশ্লিষ্ট চুক্তি, প্রটোকল বা স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর এ ভিন্নতর কোনো কিছু উল্লেখ না থাকিলে বাংলাদেশের অভ্যন্তর ব্যবহার করিয়া বা বাংলাদেশের কোনো বন্দর ব্যবহার করিয়া পরিচালিত সকল ট্রানজিট বা ট্রান্সশিপমেন্টের ক্ষেত্রে বোর্ড কর্তৃক এতদুদ্দেশ্যে জারীকৃত গেজেট প্রজ্ঞাপনে উল্লিখিত হারে প্রশাসনিক ও অন্যান্য ফি এবং চার্জ প্রযোজ্য হইবে।\n(২) উপ-বিধি (১) অনুযায়ী নির্ধারিত ফি ও চার্জের তালিকা সকলের জন্য সহজলভ্য পদ্ধতিতে প্রকাশ করিতে হইবে।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "Administrative and other fees and charges are applicable to all transit or transshipment movements passing through or using the ports of Bangladesh, provided no contrary provision exists in the relevant international agreements, protocols, or standard operating procedures.",
+          "The rates for these fees and charges must be determined by an official gazette notification issued by the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to notify the specific rates for administrative fees and charges applicable to transit and transshipment operations via an official gazette."
+        ],
+        "Public Transparency": [
+          "The schedule of fees and charges determined for transit and transshipment must be published in a manner that ensures it is easily accessible to all relevant parties."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2978",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "administrative fees",
+          "charges",
+          "transit movements",
+          "transshipment movements",
+          "ports of Bangladesh",
+          "international agreements",
+          "protocols",
+          "standard operating procedures",
+          "official gazette notification",
+          "National Board of Revenue"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "administrative fees",
+          "charges",
+          "transit operations",
+          "transshipment operations",
+          "official gazette"
+        ],
+        "Public Transparency": [
+          "schedule of fees",
+          "charges",
+          "transit",
+          "transshipment"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        112,
+        115,
+        180,
+        216,
+        442,
+        718,
+        801,
+        806,
+        807,
+        888,
+        1411,
+        3368,
+        5063,
+        10756,
+        11116,
+        11865,
+        13016
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

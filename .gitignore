@@ -1,1 +1,24 @@
 .DS_Store
+
+# ── Secrets — never commit API keys (matches at any depth) ──
+all_api.txt
+gemini_api.txt
+*.key
+.env
+.env.*
+!*.example
+
+# ── Large / regenerable pipeline artifacts (see QA Generation/.gitignore) ──
+entity_embeddings.npy
+entity_embeddings.bak.npy
+*.tmp.npy
+clusters_by_id/
+*.log
+*_done.json
+entity_judge_ckpt.json
+__pycache__/
+*.py[cod]
+concept_qa_backup/
+concept_qa_backup_premap/
+concept_qa_v1/
+concept_qa_multi_v1/

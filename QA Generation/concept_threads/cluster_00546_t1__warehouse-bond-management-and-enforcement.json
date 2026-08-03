@@ -1,0 +1,470 @@
+{
+  "cluster_id": 546,
+  "cluster_label": "bonds",
+  "thread_index": 1,
+  "thread_id": "cluster_00546_t1",
+  "title": "Warehouse Bond Management and Enforcement",
+  "summary": "This thread covers the statutory framework for warehouse bonds, including registration, monitoring, and enforcement of government dues. The core legal procedures for managing bond registers and recovering unpaid duties remain consistent across the original Customs Act and its subsequent iterations.",
+  "evolution": {
+    "legal_basis": "Remains anchored in the Customs Act, 1969, with bilingual (English/Bengali) versions maintaining identical procedural requirements."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Customs Act (Statutory)",
+      "change": "Codified the fundamental procedures for bond registration, duty recovery, and enforcement against defaulting warehouse owners.",
+      "clause_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_139",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_141",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_294",
+        "customs-act-1969-english_8th March, 1969_clause_138",
+        "customs-act-1969-english_8th March, 1969_clause_140"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 5,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_139",
+      "clause_title": "শুল্ক, ইত্যাদি পরিশোধে ব্যর্থতার জন্য পদ্ধতি",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_139",
+      "resolved_text": "১১২। শুল্ক, ইত্যাদি পরিশোধে ব্যর্থতার জন্য পদ্ধতি।— (১) যদি কোন মালিক ধারা ১১১ এর অধীন দাবীকৃত কোন অর্থ পরিশোধ করিতে ব্যর্থ হন, তাহা হইলে যথাযথ কর্মকর্তা ধারা ৮৬ এর অধীন সম্পাদিত বন্ডের উপর অথবা এই আইনের অধীন প্রণীত বিধিমালায় যেরূপ নির্ধারিত থাকে সেইরূপ কার্যক্রম গ্রহণ করিতে পারিবেন অথবা ওয়্যারহাউসে সংরক্ষিত মালিকের পণ্য অথবা পণ্য প্রস্তুতকরণে ব্যবহৃত কোন কারখানা, যন্ত্রপাতি অথবা মেশিনারীজ অথবা উক্ত ব্যক্তির মালিকানাধীন অন্য কোন পণ্য এবং সম্পত্তির এমন অংশ যাহা দাবী আদায়ের জন্য পর্যাপ্ত বিবেচিত হয় তাহা আটক করাইতে পারিবেন, এবং অবিলম্বে উক্তরূপ আটকের লিখিত নোটিশ মালিককে প্রদান করিতে হইবে।\n(২) এই নোটিশের তারিখ হইতে পনের দিবসের মধ্যে দাবী পূরণ করা না হইলে উক্তরূপ আটককৃত পণ্য বিক্রয় করা যাইবে।\n(৩) উক্ত বিক্রয়লব্ধ অর্থের নীট পরিমাণ লিপিবদ্ধ করিয়া বন্ডের বিপরীতে সমন্বয় করা হইবে এবং বন্ড সম্পূর্ণ মিটাইবার পর উদ্বৃত্ত, যদি থাকে, তাহা ধারা ২০১ এ বিধৃত পদ্ধতিতে ব্যবস্থিত হইবে।\n(৪) পণ্যের কোন হস্তান্তর অথবা স্বত্ব-নিয়োগ উহার উপর পাওনা আদায়ের জন্য যথাযথ কর্মকর্তাকে উপরে বর্ণিত পদ্ধতি অনুযায়ী কার্যক্রম গ্রহণ হইতে নিবৃত্ত করিতে পারিবে না।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "Failure to pay demanded duties or other government dues enables the appropriate officer to take recovery actions.",
+          "Recovery methods include executing bonds, seizing warehoused goods, or seizing machinery and other property belonging to the defaulter."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer is empowered to initiate recovery proceedings, including the seizure of goods and assets, against owners who fail to pay required dues.",
+          "The officer must provide immediate written notice to the owner upon the seizure of any goods or property.",
+          "The officer is responsible for adjusting the proceeds of a sale against the bond and ensuring that any surplus is handled according to established legal procedures."
+        ],
+        "Bonded Warehouse Operation": [
+          "Goods stored in a warehouse are subject to seizure if the owner fails to satisfy outstanding customs claims.",
+          "Seized goods may be sold to recover debts if the owner does not fulfill the claim within a specified period following the issuance of a formal notice."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework for the recovery of unpaid duties, including the authority to seize property and sell goods to satisfy outstanding government claims.",
+          "Any transfer of ownership or assignment of goods does not exempt the property from recovery actions taken under the authority of this Act."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_143",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "demanded duties",
+          "government dues",
+          "bonds",
+          "warehoused goods",
+          "machinery",
+          "property"
+        ],
+        "Appropriate Officer of Customs": [
+          "goods",
+          "assets",
+          "written notice",
+          "property",
+          "proceeds of a sale",
+          "bond",
+          "surplus"
+        ],
+        "Bonded Warehouse Operation": [
+          "goods",
+          "customs claims",
+          "debts",
+          "formal notice"
+        ],
+        "Customs Act 1969": [
+          "unpaid duties",
+          "property",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        10,
+        17,
+        33,
+        61,
+        89,
+        187,
+        321,
+        539,
+        546,
+        890,
+        2054,
+        2956,
+        3445,
+        3799,
+        3810,
+        6861,
+        10975,
+        12585
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_141",
+      "clause_title": "বন্ড রেজিস্টার",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_141",
+      "resolved_text": "১১৪। বন্ড রেজিস্টার।— (১) ওয়্যারহাউসকৃত পণ্যের উপর কাস্টমস-শুল্কের জন্য সম্পাদিত সকল বন্ডের জন্য একটি রেজিস্টার সংরক্ষণ করিতে হইবে, এবং ধারা ১১৩ এর অধীন আবশ্যকীয় সকল তথ্য, যাহা সুনির্দিষ্টকৃত হইবে, উক্ত রেজিস্টারে লিপিবদ্ধ করিতে হইবে অথবা স্পেশাল বন্ডেড ওয়্যারহাউসের ক্ষেত্রে কমিশনার অব কাস্টমস (বন্ড) বা বোর্ড কর্তৃক ক্ষমতা প্রদত্ত অন্য কোন কাস্টমস কর্মকর্তা কর্তৃক নির্ধারিত রেজিস্টারে লিপিবদ্ধ করিতে হইবে।\n(২) উক্ত রেজিস্টার nZ যখন দেখা যায় যে কোন বন্ডের অন্তর্ভুক্ত সকল পণ্য দেশীয় ভোগের জন্য অথবা রপ্তানির জন্য খালাস করা হইয়াছে অথবা অন্যভাবে যথাযথ হিসাব মিলানো হইয়াছে এবং যখন উক্ত পণ্যের জন্য পাওনা সকল অর্থ পরিশোধ করা হইয়াছে তখন যথাযথ কর্মকর্তা উক্ত বন্ড সম্পূর্ণ দায়মুক্ত বলিয়া বাতিল করিবেন এবং বাতিলকৃত বন্ড যিনি সম্পাদন করিয়াছিলেন অথবা যিনি উহা পাওয়ার অধিকারী সেই ব্যক্তির দাবীক্রমে উহা তাঁহার নিকট অর্পণ করিবেন।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "A bond register must be maintained for all bonds executed for customs duties related to warehoused goods.",
+          "The register must record all mandatory information prescribed under the law, or alternatively, follow the format specified by the Commissioner of Customs (Bond) or other designated customs officials for special bonded warehouses."
+        ],
+        "Customs Duty": [
+          "The register is required to track bonds executed specifically for customs duties applicable to warehoused goods."
+        ],
+        "Commissioner of Customs": [
+          "This authority is empowered to prescribe the form and manner of the bond register specifically for special bonded warehouses."
+        ],
+        "Bond Cancellation": [
+          "A bond may be declared discharged and cancelled by the appropriate officer once all goods have been cleared for home consumption or export, or otherwise accounted for, and all outstanding dues have been settled.",
+          "Upon cancellation, the bond instrument shall be returned to the person who executed it or the person entitled to receive it upon their request."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_145",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "bond register",
+          "bonds",
+          "customs duties",
+          "warehoused goods",
+          "mandatory information",
+          "Commissioner of Customs (Bond)",
+          "customs officials",
+          "special bonded warehouses"
+        ],
+        "Customs Duty": [
+          "register",
+          "bonds",
+          "customs duties",
+          "warehoused goods"
+        ],
+        "Commissioner of Customs": [
+          "bond register",
+          "special bonded warehouses"
+        ],
+        "Bond Cancellation": [
+          "bond",
+          "appropriate officer",
+          "goods",
+          "home consumption",
+          "export",
+          "outstanding dues",
+          "bond instrument"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        10,
+        14,
+        61,
+        69,
+        87,
+        89,
+        187,
+        234,
+        379,
+        407,
+        546,
+        687,
+        1088,
+        1264,
+        6013,
+        6023,
+        9684
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_294",
+      "clause_title": "সরকারী পাওনা আদায়",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_294",
+      "resolved_text": "২০২। সরকারী পাওনা আদায়।— (১) যখন কোন ব্যক্তি কর্তৃক কোন শুল্ক অথবা রেগুলেটরি শুল্ক এই আইনের অধীন সরকারকে প্রদেয় হয় অথবা কোন ব্যক্তির বিরুদ্ধে কোন অর্থদণ্ড আরোপিত হয় অথবা কোন ব্যক্তির উপর শুল্ক, রেগুলেটরি শুল্ক, অর্থদণ্ড হিসাবে প্রদেয় অপরিশোধিত কোন অর্থ অথবা এই আইন, অথবা বিধিমালা অথবা আদেশের অধীন সম্পাদিত কোন বন্ড, সিকিউরিটি, গ্যারান্টি অথবা অন্য কোন ইনস্ট্রুমেন্টের অধীন প্রদেয় কোন অপরিশোধিত অর্থ পরিশোধের আহ্বান জানাইয়া কোন দাবীনামা জারী করা হয় এবং উক্ত শুল্ক, রেগুলেটরি শুল্ক, অর্থদণ্ড অথবা অন্যান্য পাওনা উহা পরিশোধের জন্য নির্ধারিত অথবা নির্দেশিত সময়ের মধ্যে পরিশোধ করা না হয় তখন যথোপযুক্ত কর্মকর্তা যে কোন সময়ে—\n(ক) কাস্টমস কর্তৃপক্ষ, উক্ত কর্মকর্তা অথবা সরকারের কর্তৃত্বাধীন অথবা নিষ্পন্নাধীন অথবা নিয়ন্ত্রণাধীন থাকিতে পারে উক্ত ব্যক্তির এইরূপ প্রাপ্য অথবা পাওনা অর্থ কর্তন করিতে পারিবেন অথবা কর্তন করিতে অন্য কোন কাস্টমস কর্মকর্তাকে বাধ্য করিতে পারিবেন;\n(খ) উক্ত অর্থ সম্পূর্ণ পরিশোধ অথবা আদায় না হওয়া পর্যন্ত উক্ত ব্যক্তির মালিকানাধীন কোন পণ্য সমুদ্র বন্দর, বিমানবন্দর, অন্য কোন কাস্টমস-স্টেশন অথবা বন্ডেড ওয়্যারহাউসে কাস্টমসের নিয়ন্ত্রণ হইতে খালাস বন্ধ করিতে পারিবেন;\n(গ) যে ব্যক্তির নিকট হইতে উক্ত শুল্ক, রেগুলেটরি শুল্ক অথবা অর্থদণ্ড অথবা অন্য কোন অর্থ-আদায়যোগ্য অথবা পাওনা হয় তাহার নিকট অন্য কোন ব্যক্তির কোন অর্থ পাওনা থাকিলে শেষোক্ত ব্যক্তিকে লিখিত নোটিশ প্রদান করিয়া উহা হইতে নোটিশে উল্লেখিত পরিমাণ অর্থ অথবা উহা আদায়যোগ্য অথবা পাওনা অর্থের পরিমাণ হইতে কম হইলে উক্তরূপ অর্থের সম্পূর্ণ পরিমাণ নোটিশ প্রাপ্তির সাত দিনের মধ্যে উক্ত কর্মকর্তার নিকট পরিশোধের জন্য বাধ্য করিতে পারিবেন ;\n(ঘ) উক্ত ব্যক্তির মালিকানাধীন এক্সাইজ শুল্কযোগ্য অথবা মূল্য সংযোজন করযোগ্য পণ্য অথবা পণ্য প্রস্তুতকরণে ব্যবহৃত কোন স্থাপনা, যন্ত্রপাতি এবং সাজসজ্জা অথবা ফ্যাক্টরী অথবা বন্ডেড ওয়্যারহাউসে রক্ষিত অন্য কোন পণ্য ক্রোক এবং বিক্রয়পূর্বক আদায় করিতে যথাযথ এক্সাইজ কর্মকর্তা এবং মূল্য সংযোজন কর কর্মকর্তাকে ব্যবস্থা গ্রহণের জন্য বাধ্য করিতে পারিবেন ;\n(ঙ) উক্ত ব্যক্তির মালিকানাধীন কোন পণ্য কাস্টমস কর্তৃপক্ষের নিয়ন্ত্রণাধীন থাকিলে উহা আটক এবং বিক্রয় করিয়া উক্ত অর্থ আদায় করিতে অথবা অন্য কোন কাস্টমস কর্মকর্তাকে আদায়ের ব্যবস্থা করার জন্য বাধ্য করিতে পারিবেন;\n(চ) যে ব্যক্তির নিকট উক্ত শুল্ক অথবা রেগুলেটরি শুল্ক অথবা অর্থদণ্ড অথবা অন্য কোন অর্থ আদায়যোগ্য অথবা পাওনা হয় কোন তফসিলী ব্যাংকে সেখানে তাহার অর্থ জমা রহিয়াছে এইরূপ একাউন্ট নোটিশ প্রাপ্তির পর অবরুদ্ধ করিতে অথবা উহা অপরিচালনাযোগ্য করিতে লিখিত নোটিশ দিতে পারিবেন।\n(২) যদি উপ-ধারা (১) এ বর্ণিত পদ্ধতিতে উক্ত ব্যক্তির নিকট হইতে অর্থ আদায় করা না যায় তাহা হইলে যথোপযুক্ত কর্মকর্তা ঐ ব্যক্তির নিকট আদায়যোগ্য পাওনা অর্থের পরিমাণ উল্লেখ করিয়া নিজ স্বাক্ষরে একটি সার্টিফিকেট প্রস্তুত করিতে পারিবেন এবং উহা উক্ত ব্যক্তি যে এলাকায় বসবাস করেন অথবা যে এলাকায় তিনি কোন সম্পত্তির মালিক হন অথবা কোন ব্যবসা পরিচালনা করেন সেই এলাকার ডিস্ট্রিক্ট কালেক্টর অথবা উপ-ধারা (৩) এর অধীন নিযুক্ত সার্টিফিকেট অফিসারের নিকট পাঠাইতে পারিবেন এবং সার্টিফিকেট প্রাপ্তির পর উক্ত কালেক্টর অথবা সার্টিফিকেট অফিসার সার্টিফিকেটে উল্লেখিত অর্থ সরকারী দাবীনামা অথবা বকেয়া ভূমি রাজস্ব হিসাবে আদায়ের ব্যবস্থা করিবেন।\n(৩) উপ-ধারা (২) এর অধীন প্রস্তুতকৃত সার্টিফিকেটে উল্লেখিত অর্থ আদায়ের উদ্দেশ্যে সরকার পাবলিক ডিমান্ডস রিকভারী অ্যাক্ট, ১৯১৩ (১৯১৩ সনের ৩ নং আইন) এর অধীন সার্টিফিকেট অফিসারের দায়িত্ব পালনের জন্য এক অথবা একাধিক কর্মকর্তা নিয়োগ করিতে পারিবে; এবং যখন এইভাবে একাধিক কর্মকর্তা নিয়োগ করা হয় তখন সরকার তাহাদের এলাকাভিত্তিক অথবা অন্য প্রকার এক্তিয়ার নির্ধারণও করিতে পারিবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act empowers the appropriate customs official to initiate recovery procedures for outstanding government dues, including unpaid customs duties, regulatory duties, penalties, and amounts owed under bonds or other legal instruments."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer has the authority to seize, hold, or auction the goods of a debtor, and may issue notices to third parties holding the debtor's funds to recover unpaid government dues.",
+          "The officer is empowered to initiate the recovery of outstanding dues through administrative actions against the debtor's assets, including excise-liable goods or bank accounts.",
+          "When direct recovery methods are insufficient, the officer can issue a certificate of outstanding dues to the District Collector or a designated Certificate Officer for recovery as arrears of land revenue."
+        ],
+        "Customs Authority": [
+          "The customs authority is empowered to withhold the clearance of goods belonging to a debtor from ports, airports, or bonded warehouses until the outstanding government dues are fully paid."
+        ],
+        "Value Added Tax": [
+          "Appropriate officers may instruct Value Added Tax officials to seize and sell equipment, machinery, or excise-liable goods owned by the debtor to recover unpaid customs-related government dues."
+        ],
+        "Public Demands Recovery Act 1913": [
+          "The government may appoint officers under this act to function as Certificate Officers for the collection of outstanding customs-related dues that have been certified for recovery as public demands."
+        ],
+        "Scheduled Bank": [
+          "Upon receiving a written notice from an appropriate officer, a scheduled bank is required to freeze or restrict the operation of a debtor's account to secure the payment of outstanding government dues."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_298",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "unpaid customs duties",
+          "regulatory duties",
+          "penalties",
+          "bonds",
+          "legal instruments"
+        ],
+        "Appropriate Officer of Customs": [
+          "goods",
+          "debtor",
+          "third parties",
+          "funds",
+          "government dues",
+          "assets",
+          "excise-liable goods",
+          "bank accounts",
+          "certificate of outstanding dues",
+          "District Collector",
+          "Certificate Officer",
+          "arrears of land revenue"
+        ],
+        "Customs Authority": [
+          "goods",
+          "debtor",
+          "ports",
+          "airports",
+          "bonded warehouses",
+          "government dues"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax officials",
+          "equipment",
+          "machinery",
+          "excise-liable goods",
+          "debtor",
+          "customs-related government dues"
+        ],
+        "Public Demands Recovery Act 1913": [
+          "Certificate Officers",
+          "customs-related dues",
+          "public demands"
+        ],
+        "Scheduled Bank": [
+          "written notice",
+          "appropriate officer",
+          "debtor's account",
+          "government dues"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        9,
+        17,
+        23,
+        33,
+        46,
+        69,
+        72,
+        140,
+        321,
+        333,
+        496,
+        539,
+        546,
+        599,
+        677,
+        1139,
+        1272,
+        1390,
+        1558,
+        1998,
+        2286,
+        3445,
+        3581,
+        3925,
+        4608,
+        5110,
+        5632,
+        6262,
+        6265,
+        7050,
+        7052,
+        7138,
+        7419,
+        11103
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_138",
+      "clause_title": "Procedure on failure to pay duty, etc.",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_138",
+      "resolved_text": "112. Procedure on failure to pay duty, etc.- 4[(1) If any owner fails to pay any sum demanded under section 111, the appropriate officer may either proceed upon the bond executed under 86 or as prescribed by rules made under this Act or cause such portion of the owners goods in the warehouse or any plant or machinery or equipment used for the manufacture of goods or any other goods and properties belonging to such persons to be detained as he may consider adequate to recover the demand, and the notice in writing for such detention, shall immediately be given to the owner.]\n(2) In case the demand is not discharged within fifteen days of the date of such notice, the goods so detained may be sold.\n(3) The net proceeds of any such sale shall be entered upon and adjusted against the bond and the surplus if any remaining after full satisfaction of the bond shall be disposed of in the manner provided in section 201.\n(4) No transfer or assignment of the goods shall prevent the appropriate officer from proceeding against such goods in the manner above provided, for any amount due thereon.",
+      "entity_concepts": {
+        "Owner of Warehoused Goods": [
+          "If the owner fails to pay any sum demanded by the customs authority regarding bonded goods, they are subject to enforcement actions such as bond recovery, detention of warehouse goods, or seizure of manufacturing assets."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer has the authority to recover outstanding duties by enforcing bonds, detaining the owner's goods or equipment, and ultimately selling detained assets if the demand remains unpaid after the specified period.",
+          "The officer's right to pursue recovery against goods is not affected by any subsequent transfer or assignment of those goods by the owner."
+        ],
+        "Warehouse": [
+          "Goods stored within the warehouse are subject to detention and potential sale by the customs officer if the owner fails to discharge financial demands."
+        ],
+        "Detained Goods": [
+          "If a financial demand issued to the owner remains unpaid for the prescribed period following a notice of detention, the goods may be sold to recover the amount due.",
+          "The proceeds from the sale of detained goods are used to satisfy the bond obligation, and any surplus funds are managed according to the provisions of the Customs Act."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework for the recovery of unpaid duties, including procedures for bond enforcement and the sale of detained property."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_465",
+      "entity_sub_entities": {
+        "Owner of Warehoused Goods": [
+          "bonded goods",
+          "warehouse goods",
+          "manufacturing assets"
+        ],
+        "Appropriate Officer of Customs": [
+          "bonds",
+          "goods",
+          "equipment",
+          "detained assets"
+        ],
+        "Warehouse": [
+          "Goods"
+        ],
+        "Detained Goods": [
+          "goods",
+          "proceeds",
+          "bond obligation",
+          "surplus funds"
+        ],
+        "Customs Act 1969": [
+          "unpaid duties",
+          "bond enforcement",
+          "detained property"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        17,
+        72,
+        74,
+        412,
+        512,
+        546,
+        579,
+        890,
+        1441,
+        4980,
+        6017,
+        6026,
+        7290,
+        7295,
+        9725,
+        13314
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_140",
+      "clause_title": "Register of bonds",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_140",
+      "resolved_text": "114. Register of bonds.- (1) A register shall be kept of all bonds entered into for customs-duties on warehoused goods, and entry shall be made in such register of all particulars required by section 113 to be specified 3[ , or in the case of Special Bonded warehouse entry shall be made in a register to be prescribed by the 4[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board].]\n(2) When such register shows that the whole of the goods covered by any bond have been cleared for home-consumption or export, or otherwise duly accounted for, and when all amounts due on account of such goods have been paid, the appropriate officer shall cancel such bond as discharged in full, and shall on demand deliver the cancelled bond to the person who executed it or who is entitled to receive it.",
+      "entity_concepts": {
+        "Warehoused Goods": [
+          "A register must be maintained to record all bonds executed for the payment of customs duties concerning warehoused goods."
+        ],
+        "Special Bonded Warehouse": [
+          "For special bonded warehouses, entries must be made in a register specifically prescribed by the Commissioner of Customs (Bond) or another Commissioner authorized by the Board."
+        ],
+        "Commissioner of Customs": [
+          "This official is empowered to prescribe the register format used for recording entries related to special bonded warehouses."
+        ],
+        "Appropriate Officer of Customs": [
+          "Once a bond is fully accounted for through home consumption, export, or other legal clearance, and all associated dues are paid, this officer is responsible for canceling the bond as discharged."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the authority to designate which Commissioners of Customs may authorize registers for special bonded warehouses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_467",
+      "entity_sub_entities": {
+        "Warehoused Goods": [
+          "bonds",
+          "customs duties",
+          "warehoused goods"
+        ],
+        "Special Bonded Warehouse": [
+          "special bonded warehouses",
+          "register",
+          "Commissioner of Customs (Bond)",
+          "Commissioner",
+          "Board"
+        ],
+        "Commissioner of Customs": [
+          "register format",
+          "entries",
+          "special bonded warehouses"
+        ],
+        "Appropriate Officer of Customs": [
+          "bond",
+          "home consumption",
+          "export",
+          "legal clearance",
+          "dues"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioners of Customs",
+          "registers",
+          "special bonded warehouses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        14,
+        17,
+        64,
+        89,
+        187,
+        234,
+        367,
+        379,
+        407,
+        452,
+        546,
+        564,
+        703,
+        1264,
+        1746,
+        9417,
+        11308
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

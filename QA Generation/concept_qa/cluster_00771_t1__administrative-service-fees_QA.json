@@ -1,0 +1,154 @@
+{
+  "thread_id": "cluster_00771_t1",
+  "cluster_id": 771,
+  "cluster_label": "fee",
+  "title": "Administrative Service Fees",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 5,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How does the Customs Act, 1969, ensure that the National Board of Revenue maintains control over administrative service costs?",
+      "answer": "The Customs Act, 1969 establishes that the National Board of Revenue holds the authority to determine the specific fees required for various administrative services, including the issuance of document duplicates, document amendments, and the provision of certified copies of customs decisions.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role does the discretionary power of customs officers play in the administration of service fees under the Customs Act, 1969?",
+      "answer": "Under the Customs Act, 1969, customs officers not below the rank of Assistant Commissioner have the discretionary authority to approve requests for document issuance or amendments, provided that the applicant pays the fee determined by the Board and the officer is satisfied that no fraud is intended.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what ways does the Customs Act, 1969 facilitate transparency regarding customs decisions through fee-based services?",
+      "answer": "The Act mandates that individuals directly interested in a customs decision may obtain a certified true copy of that decision from the Commissioner of Customs or an authorized officer upon payment of a fee specified by the Board, ensuring applicants can receive formal documentation of official actions.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the limitations placed on the use of certified copies of customs decisions obtained under the Customs Act, 1969?",
+      "answer": "While the Customs Act, 1969 allows for the supply of a certified true copy of a decision upon payment of a fee, it explicitly states that any copy or reproduction of that certified copy is not admissible as evidence or otherwise accepted in a court of law.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the scope of 'administrative services' covered by fee requirements in the Customs Act, 1969 reflect the operational needs of the customs department?",
+      "answer": "The scope of services subject to fees includes the issuance of certificates, manifests, bills, and other customs documents, as well as the amendment of documents presented at a customs house and the supply of information regarding customs decisions, indicating a comprehensive framework for charging for administrative processing.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the Customs Act, 1969, the National Board of Revenue is authorized to set fees for the issuance of customs certificates, document amendments, and the supply of certified copies of decisions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The Customs Act, 1969, establishes the legal framework for the Board to determine fees for these specific administrative services.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under section 215A of the Customs Act, 1969, the Commissioner of Customs or an authorized officer must deliver a certified true copy of a decision to an interested applicant within 30 days of the application.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "30 days",
+      "correct_fact": "15 days",
+      "answer": "The statement is inaccurate. According to section 215A of the Customs Act, 1969, the Commissioner of Customs or an authorized officer is required to deliver the certified true copy within 15 days of the application, not 30.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "An officer of customs must hold a rank of at least Deputy Commissioner to exercise the discretionary authority to issue duplicate customs documents under the Customs Act, 1969.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Deputy Commissioner",
+      "correct_fact": "Assistant Commissioner",
+      "answer": "The statement is inaccurate. Under the Customs Act, 1969, an officer must hold a rank not below that of an Assistant Commissioner of Customs to exercise the discretionary authority to issue duplicate documents.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 205 of the Customs Act, 1969, allows for the amendment of documents at a customs house, provided that the applicant pays a fee as determined by the National Board of Revenue.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. Section 205 provides that an officer not below the rank of Assistant Commissioner may authorize document amendments at a customs house upon payment of a fee determined by the Board.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Act, 1969, stipulates that a reproduction of a certified copy of a customs decision is admissible as evidence in a court of law.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "is admissible",
+      "correct_fact": "is not admissible",
+      "answer": "The statement is inaccurate. Section 215A of the Customs Act, 1969, explicitly states that a copy or reproduction of a certified copy shall not be admissible as evidence or otherwise accepted in any court of law.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The discretionary authority to issue certificates or duplicate documents under the Customs Act, 1969, is contingent upon the officer being satisfied that no fraud has been committed or is intended.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. Section 204 of the Customs Act, 1969, specifies that the officer may furnish these documents at their discretion if they are satisfied that no fraud has been committed or is intended.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_259",
+        "customs-act-1969-english_8th March, 1969_clause_261",
+        "customs-act-1969-english_8th March, 1969_clause_272"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00223_t0__X__cluster_00352_t1",
+  "entities": [
+    "Customs Agent License",
+    "Deputy Commissioner"
+  ],
+  "cluster_ids": [
+    223,
+    352
+  ],
+  "thread_ids": [
+    "cluster_00223_t0",
+    "cluster_00352_t1"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How did the composition of the Licensing Authority for a Customs Agent License change regarding the role of a Deputy Commissioner according to the amendments?",
+      "answer": "Under the initial rules [0, 1], the Licensing Authority for a Customs Agent License was composed of an Additional Commissioner and a Deputy Commissioner (or a Joint Commissioner and Assistant Commissioner if no Additional Commissioner was present). The subsequent amendment [2] modified this to allow for a more flexible structure where the Licensing Authority is composed of an Additional Commissioner or Joint Commissioner alongside a Deputy Commissioner or Assistant Commissioner.",
+      "entities_involved": [
+        "Customs Agent License",
+        "Deputy Commissioner"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_3",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_3",
+        "20160701_220-AIN_2016_47-Customs_২০১৬-০৭-০১_clause_2"
+      ]
+    }
+  ]
+}

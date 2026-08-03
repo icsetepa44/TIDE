@@ -1,0 +1,151 @@
+{
+  "thread_id": "cluster_00293_t0",
+  "cluster_id": 293,
+  "cluster_label": "used motor vehicles",
+  "title": "Depreciation and Valuation Methodology for Used Motor Vehicles",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the depreciation model for used motor vehicles shift between 2011 and 2017 in terms of calculation methodology?",
+      "answer": "The methodology transitioned from a flat, consolidated 25% depreciation rate applied to vehicles up to a certain age, as established in SRO 167-Law/2011 and maintained in SRO 162-Law/2012, to a progressive, year-based depreciation schedule introduced in SRO 2017.",
+      "clause_text_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What was the primary change in the eligibility scope for vehicle depreciation between the 2011 and 2012 policy instruments?",
+      "answer": "The eligibility scope was expanded by increasing the maximum age threshold for vehicles to qualify for the 25% consolidated depreciation rate from 3 years under SRO 167-Law/2011 to 5 years under SRO 162-Law/2012.",
+      "clause_text_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the customs valuation framework move away from a flat 25% depreciation rate in 2017?",
+      "answer": "The policy shifted to a progressive, age-specific tiered rate in 2017 to better reflect market reality compared to the previous flat consolidated depreciation model, which applied a uniform rate to all vehicles within the 5-year age limit.",
+      "clause_text_ids": [
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What documentation requirements remained consistent for importers of used or reconditioned vehicles across the 2011, 2012, and 2017 policy updates?",
+      "answer": "Across all three instruments, importers were consistently required to submit a Registration Cancellation Certificate for customs clearance. Additionally, for vehicles imported from Japan, an age-related certificate from the Japan Auto Appraisal Institute remained a mandatory requirement to verify the vehicle's status.",
+      "clause_text_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the valuation process for used motor vehicles utilize international price publications across the different policy periods?",
+      "answer": "In all periods (2011, 2012, and 2017), the customs value was determined by referencing internationally recognized journals such as the 'Yellow Book' for Japanese imports, or 'Glass's Guide' and 'Magazine Automobiles' for imports from other countries, to establish the average market price before applying the relevant depreciation rate.",
+      "clause_text_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer brings in a 4-year-old reconditioned vehicle. They first attempted to clear it in May 2012, but due to documentation delays, the vehicle was only cleared in July 2017.",
+      "question": "How did the depreciation calculation for this 4-year-old vehicle change between the intended clearance date in 2012 and the actual clearance date in 2017?",
+      "answer": "In 2012 (SRO 162-Law/2012), the vehicle would have qualified for a flat 25% consolidated depreciation rate. By 2017 (SRO 2017), the flat rate was replaced by a progressive, year-based depreciation schedule.",
+      "clauses_involved": [
+        "2012-06-07 | SRO 162-Law/2012",
+        "2017-07-01 | SRO 2017"
+      ],
+      "clause_text_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A trader specializes in importing 4-year-old used vehicles. They started their business in early 2011 and continued operations through 2013.",
+      "question": "Was the trader's 4-year-old vehicle eligible for the 25% consolidated depreciation rate at the start of their business in 2011 compared to 2013?",
+      "answer": "No. In 2011 (SRO 167-Law/2011), the 25% depreciation rate was restricted to vehicles up to 3 years old. By 2013, following the 2012 amendment (SRO 162-Law/2012), the eligibility was extended to include vehicles up to 5 years old, making the 4-year-old vehicle eligible.",
+      "clauses_involved": [
+        "2011-06-09 | SRO 167-Law/2011",
+        "2012-06-07 | SRO 162-Law/2012"
+      ],
+      "clause_text_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "one year later",
+      "question": "Starting from the establishment of the 25% consolidated depreciation rate in 2011, what change occurred one year later regarding the eligibility scope for this depreciation?",
+      "answer": "In 2012-06-07 (SRO 162-Law/2012), the eligibility for the 25% consolidated depreciation rate was extended to include vehicles up to 5 years old, whereas it previously applied only to vehicles up to 3 years old.",
+      "clause_text_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "five years later",
+      "question": "Following the 2012 policy that extended depreciation eligibility to 5-year-old vehicles, what significant structural change to the depreciation model occurred five years later?",
+      "answer": "In 2017-07-01, the valuation framework shifted from the flat 25% consolidated depreciation rate to a new progressive, year-based depreciation schedule for vehicles up to 5 years old.",
+      "clause_text_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The depreciation eligibility scope for the consolidated twenty-five percent rate was extended to include vehicles up to five years old.",
+        "A progressive, year-based depreciation schedule replaced the flat consolidated twenty-five percent depreciation rate for vehicles up to five years old.",
+        "A consolidated twenty-five percent depreciation rate was established for vehicles up to three years old based on average market value."
+      ],
+      "answer_ordered": [
+        {
+          "event": "A consolidated twenty-five percent depreciation rate was established for vehicles up to three years old based on average market value.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The depreciation eligibility scope for the consolidated twenty-five percent rate was extended to include vehicles up to five years old.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "A progressive, year-based depreciation schedule replaced the flat consolidated twenty-five percent depreciation rate for vehicles up to five years old.",
+          "date": "2017-07-01"
+        }
+      ],
+      "clause_text_ids": [
+        "20110609_167-AIN_2011_2354-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20170701_218-AIN__০১ জুলাই, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_167-AIN_2011_2354-Customs/20110609_167-AIN_2011_2354-Customs_output.json",
+        "customs_sros_OCR/20120607_162-AIN_2012_2390-Customs/20120607_162-AIN_2012_2390-Customs_output.json",
+        "customs_sros_OCR/20170701_218-AIN_/20170701_218-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00293_t0__depreciation-and-valuation-methodology-for-used-mo.json"
+    }
+  ]
+}

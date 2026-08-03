@@ -1,0 +1,201 @@
+{
+  "thread_id": "cluster_00572_t1",
+  "cluster_id": 572,
+  "cluster_label": "invoice",
+  "title": "Standardized Certification and Compliance Documentation",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which document, associated with the 20220609_143-AIN_2022_91_Customs_output instrument, is required to validate the intended use of equipment for poultry and dairy farms?",
+      "options": [
+        "Only the Letter of Credit",
+        "Letter of Credit, invoice, and bill of entry numbers",
+        "Only the airway bill",
+        "Customs declaration form only"
+      ],
+      "answer_index": 1,
+      "answer": "Letter of Credit, invoice, and bill of entry numbers",
+      "explanation": "According to the 20220609_143-AIN_2022_91_Customs_output, importation details including letter of credit, invoice, and bill of entry numbers must be certified to validate the intended use of equipment for poultry and dairy farms.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "In the context of the 20200611_130-AIN_2020_81_Customs_output, what specific import documentation must be disclosed to verify duty-free or concessionary imports for shipbuilding?",
+      "options": [
+        "Only the invoice",
+        "Bill of Lading and Truck Receipt only",
+        "Letter of Credit, invoice, and Bill of Entry numbers",
+        "Only the Certificate of Origin"
+      ],
+      "answer_index": 2,
+      "answer": "Letter of Credit, invoice, and Bill of Entry numbers",
+      "explanation": "The 20200611_130-AIN_2020_81_Customs_output requires the disclosure of Letter of Credit, invoice, and Bill of Entry numbers for transparency in duty-free or concessionary import verification.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 20240606_200-AIN_2024_52_Customs_output, what documentation must importers provide to certify the import of materials for the handloom sector?",
+      "options": [
+        "Only an invoice",
+        "Letter of Credit, invoice, and bill of lading/airway bill/truck receipt",
+        "Only a bill of lading",
+        "No documentation is required"
+      ],
+      "answer_index": 1,
+      "answer": "Letter of Credit, invoice, and bill of lading/airway bill/truck receipt",
+      "explanation": "The 20240606_200-AIN_2024_52_Customs_output specifies that importers must provide the Letter of Credit, invoice, and bill of lading/airway bill/truck receipt for materials used in handloom textile production.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What documentation is required by the 20250602_199-AIN_2025_21_Customs_output to validate the import of agricultural pesticides?",
+      "options": [
+        "Invoice, letter of credit, and transport documents",
+        "Only a bill of lading",
+        "Only an invoice",
+        "Only a letter of credit"
+      ],
+      "answer_index": 0,
+      "answer": "Invoice, letter of credit, and transport documents",
+      "explanation": "The 20250602_199-AIN_2025_21_Customs_output states that the declaration requires validation of commercial documents including invoice, letter of credit, and transport documents such as bill of lading, airway bill, or truck receipt.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the role of the invoice evolved within the framework of Bangladeshi customs compliance documentation?",
+      "answer": "The invoice has evolved from a general commercial document into a standardized, essential reference point across diverse industry-specific certification templates. By linking invoices to specific import documentation—such as letters of credit and transport documents like bills of lading—authorities use them to validate that imported goods, ranging from agricultural pesticides (20250602_199-AIN_2025_21) to industrial shipbuilding components (20200611_130-AIN_2020_81), align with declared descriptions and quantities for duty-free or concessional tax eligibility.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why does the customs certification process require the inclusion of specific transport documents alongside an invoice?",
+      "answer": "The inclusion of transport documents, such as bills of lading, airway bills, or truck receipts, alongside the invoice serves as a verification mechanism to ensure that the physical goods imported correspond to the declared value, quantity, and description. As seen in the 20240606_174-AIN_2024_26 and 20200611_133-AIN_2019_84 instruments, this documentation is critical for confirming that the imported machinery or equipment is being utilized strictly for its authorized purpose, such as the operation of CNG or LPG filling stations.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the implications for importers who fail to adhere to the intended use of goods documented by an invoice and import undertaking?",
+      "answer": "Importers are legally bound by their undertakings to pay all applicable duties and taxes if the imported goods are not used for their intended purpose, such as the production of handloom textiles (20240606_200-AIN_2024_52). Under the Customs Act 2023, customs authorities are empowered to impose punitive measures if the conditions of the import documentation, which include the invoice and associated transport records, are violated.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the requirement for institutional registration vary across the different sectors covered by these customs policies?",
+      "answer": "The registration requirements depend on the specific industry sector: for example, agricultural pesticide manufacturers must be authorized by the Ministry of Agriculture (20250602_199-AIN_2025_21), while poultry and dairy farms must be registered with the Bangladesh Investment Development Authority or the Department of Livestock Services (20220609_143-AIN_2022_91). Similarly, handloom sector entities must be registered with the Handloom Board (20240606_200-AIN_2024_52) to qualify for the duty-free benefits associated with their imported materials.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the primary objective of the certification templates used in the context of industrial shipbuilding and farm modernization?",
+      "answer": "The primary objective is to provide an official validation of the utilization status of imported industrial goods, such as machinery and spare parts. Instruments like 20220609_143-AIN_2022_91 and 20200611_130-AIN_2020_81 require the disclosure of invoices, letters of credit, and bills of entry to ensure transparency and confirm that the goods are being used for specific authorized activities like the balancing, modernization, replacement, or expansion (BMRE) of registered industrial establishments.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The compliance scope is broadened to include poultry and dairy farm machinery under specific certification requirements.",
+        "Certification templates are established for the shipbuilding industry to verify the utilization of imported machinery and parts.",
+        "The certification framework is updated to include both CNG and LPG filling station machinery and operational equipment.",
+        "Certification requirements are introduced for agricultural pesticide imports, requiring validation of commercial documents like invoices and transport bills."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Certification templates are established for the shipbuilding industry to verify the utilization of imported machinery and parts.",
+          "date": "2020-06-11"
+        },
+        {
+          "event": "The compliance scope is broadened to include poultry and dairy farm machinery under specific certification requirements.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The certification framework is updated to include both CNG and LPG filling station machinery and operational equipment.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Certification requirements are introduced for agricultural pesticide imports, requiring validation of commercial documents like invoices and transport bills.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "metadata_9",
+        "metadata_8",
+        "metadata_4",
+        "metadata_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20200611_130-AIN_2020_81_Customs/20200611_130-AIN_2020_81_Customs_output.json",
+        "customs_sros_OCR/20220609_143-AIN_2022_91_Customs/20220609_143-AIN_2022_91_Customs_output.json",
+        "customs_sros_OCR/20240606_174-AIN_2024_26_Customs/20240606_174-AIN_2024_26_Customs_output.json",
+        "customs_sros_OCR/20250602_199-AIN_2025_21_Customs/20250602_199-AIN_2025_21_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00572_t1__standardized-certification-and-compliance-document.json"
+    }
+  ]
+}

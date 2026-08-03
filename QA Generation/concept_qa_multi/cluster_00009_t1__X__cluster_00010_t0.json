@@ -1,0 +1,42 @@
+{
+  "group_id": "cluster_00009_t1__X__cluster_00010_t0",
+  "entities": [
+    "Value Added Tax",
+    "Customs Duty"
+  ],
+  "cluster_ids": [
+    9,
+    10
+  ],
+  "thread_ids": [
+    "cluster_00009_t1",
+    "cluster_00010_t0"
+  ],
+  "num_shared_clauses": 28,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the legal mechanism through which the government exercises its authority to grant exemptions for both Customs Duty and Value Added Tax simultaneously?",
+      "answer": "The government exercises its authority by invoking section 19 of the Customs Act, 1969 (Act IV of 1969) and section 14(1) of the Value Added Tax Act, 1991, in consultation with the National Board of Revenue (NBR) and in the public interest.",
+      "entities_involved": [
+        "Value Added Tax",
+        "Customs Duty"
+      ],
+      "clause_text_ids": [
+        "20100610_176-AIN_2010_2294-Customs_১০ জুন, ২০১০_clause_1",
+        "20110609_157-AIN_2011_2343-Customs_2011-06-09_clause_1",
+        "20110609_169-AIN_2011_2356-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_160-AIN_2012_2388-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_176-AIN_2012_2404-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130606_147-AIN_2013_2434-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20150604_145-AIN_2015_25-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150701_203-AIN_2015_40-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20150701_208-AIN_2015_45-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20150701_209-AIN_2015_46-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20160602_160-AIN_2016_22-Customs_২ জুন, ২০১৬_clause_1",
+        "20170601_128-AIN__১ জুন, ২০১৭_clause_1"
+      ]
+    }
+  ]
+}

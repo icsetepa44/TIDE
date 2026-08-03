@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00001_t1__X__cluster_00245_t0",
+  "entities": [
+    "goods",
+    "fines"
+  ],
+  "cluster_ids": [
+    1,
+    245
+  ],
+  "thread_ids": [
+    "cluster_00001_t1",
+    "cluster_00245_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How did the legal treatment of 'goods' imported by passengers in commercial quantities change regarding the imposition of 'fines' or adjudication between the 2010 rules and the 2016 rules?",
+      "answer": "Under the 2010 rules [0], passengers importing goods beyond those listed in Schedule-2 and Schedule-3 could clear them through adjudication and payment of fines. However, the 2016 rules [1, 2] introduced an explicit restriction, excluding goods that are controlled or prohibited under the Import Policy Order or any other law from being cleared through this adjudication and fine payment mechanism.",
+      "entities_involved": [
+        "goods",
+        "fines"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "cluster_id": 554,
+  "cluster_label": "Department of Livestock Services",
+  "thread_index": 0,
+  "thread_id": "cluster_00554_t0",
+  "title": "Regulatory Oversight and Licensing Authority",
+  "summary": "The role of the Department of Livestock Services evolved from a general administrative reference in customs notifications to a central regulatory body responsible for licensing, monitoring, and approving imports of animal feed ingredients. The scope of its authority expanded to include verifying the end-use of imported goods and ensuring compliance with animal health standards.",
+  "evolution": {
+    "scope": "From passive entity mention to active regulatory gatekeeper.",
+    "procedure": "Introduction of mandatory prior approval and annual demand assessment for imports.",
+    "enforcement": "Shift from general oversight to specific monitoring of supply chains and end-use verification."
+  },
+  "timeline": [
+    {
+      "date": "2013-07-01",
+      "instrument": "SRO 2013",
+      "change": "Formal nomenclature change from 'Poshu Shampad Odhidoptor' to 'Prani Shampad Odhidoptor' (Department of Livestock Services).",
+      "clause_ids": [
+        "20130701_216-AIN_2013_2455-Customs_১ জুলাই, ২০১৩ খ্রিস্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "date": "2017-06-01",
+      "instrument": "SRO 2017",
+      "change": "Established the Department as a mandatory licensing/registration authority for importers and introduced a monitoring mandate for the usage of imported goods in farms.",
+      "clause_ids": [
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_3",
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_7"
+      ]
+    },
+    {
+      "date": "2020-06-11",
+      "instrument": "SRO 2020",
+      "change": "Expanded regulatory control to include mandatory prior approval for specific high-risk feed ingredients (MBM, Fish Meal) and formalized the reporting/clearance process.",
+      "clause_ids": [
+        "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_3",
+        "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4",
+        "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_7"
+      ]
+    }
+  ],
+  "num_member_objects": 10,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20130701_216-AIN_2013_2455-Customs_১ জুলাই, ২০১৩ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপনের শর্ত (ক), (খ), (গ) এবং (চ) এ উল্লিখিত “পশু সম্পদ অধিদপ্তর” শব্দগুলির পরিবর্তে “প্রাণী সম্পদ অধিদপ্তর” শব্দগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Department of Livestock Services": [
+          "The terminology used to refer to this government entity has been formally updated in the relevant notification to ensure consistency with current official naming conventions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1458",
+      "entity_sub_entities": {
+        "Department of Livestock Services": []
+      },
+      "clause_clusters": [
+        554
+      ],
+      "source_file": "customs_sros_OCR/20130701_216-AIN_2013_2455-Customs/20130701_216-AIN_2013_2455-Customs_output.json",
+      "clause_date": "2013-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20170601_130-AIN__১ জুন, ২০১৭_clause_3",
+      "resolved_text": "২। আমদানিকারককে অবশ্যই প্রাণিসম্পদ অধিদপ্তর কর্তৃক নিবন্ধিত অথবা তালিকাভুক্ত অথবা ক্যাটাগরি-১ বা ক্যাটাগরি-২ হিসাবে লাইসেন্সধারী অথবা পোল্ট্রি খামার অথবা গবাদি পশুর খামার অথবা মৎস্য অধিদপ্তর কর্তৃক নিবন্ধিত অথবা তালিকাভুক্ত অথবা ক্যাটাগরি-১ বা ক্যাটাগরি-২ হিসাবে লাইসেন্সধারী অথবা মৎস্য বা চিংড়ি খামার অথবা মৎস্য বা চিংড়ি হ্যাচারি অথবা Fishing trawler অথবা মৎস্য প্রক্রিয়াজাতকরণ কারখানা; অথবা Animal Health Company Association of Bangladesh (AHCAB) এর সদস্যভুক্ত Animal Health Company অথবা Bangladesh Aqua Product Companies Association (BAPCA) এর সদস্যভুক্ত Aqua Product Company হইতে হইবে।",
+      "entity_concepts": {
+        "Importer": [
+          "The importer is required to be registered, licensed, or recognized under specific categories by the Department of Livestock Services or the Department of Fisheries to qualify for certain import activities.",
+          "Alternatively, the importer may be a member of the Animal Health Company Association of Bangladesh or the Bangladesh Aqua Product Companies Association to satisfy eligibility criteria."
+        ],
+        "Department of Livestock Services": [
+          "This government body is responsible for the registration, categorization, and licensing of poultry and livestock farms for the purpose of trade eligibility."
+        ],
+        "Department of Fisheries": [
+          "This government body oversees the registration and licensing of fish or shrimp farms, hatcheries, fishing trawlers, and processing plants to ensure regulatory compliance for traders."
+        ],
+        "Animal Health Company Association of Bangladesh": [
+          "Membership in this association is recognized as a valid qualification for an importer to be eligible under these regulatory requirements."
+        ],
+        "Bangladesh Aqua Product Companies Association": [
+          "Membership in this association serves as an accepted alternative qualification for importers seeking to meet the stipulated industry standards."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1721",
+      "entity_sub_entities": {
+        "Importer": [
+          "importer",
+          "Department of Livestock Services",
+          "Department of Fisheries",
+          "Animal Health Company Association of Bangladesh",
+          "Bangladesh Aqua Product Companies Association"
+        ],
+        "Department of Livestock Services": [
+          "poultry farms",
+          "livestock farms"
+        ],
+        "Department of Fisheries": [
+          "fish farms",
+          "shrimp farms",
+          "hatcheries",
+          "fishing trawlers",
+          "processing plants"
+        ],
+        "Animal Health Company Association of Bangladesh": [
+          "Animal Health Company Association of Bangladesh"
+        ],
+        "Bangladesh Aqua Product Companies Association": [
+          "Bangladesh Aqua Product Companies Association"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        554,
+        842,
+        995,
+        1254,
+        1323,
+        1335,
+        2049,
+        2076,
+        2263,
+        8167,
+        10983
+      ],
+      "source_file": "customs_sros_OCR/20170601_130-AIN_/20170601_130-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20170601_130-AIN__১ জুন, ২০১৭_clause_7",
+      "resolved_text": "৬। শর্ত (২) এ উল্লিখিত প্রাণিসম্পদ অধিদপ্তর সংশ্লিষ্ট আমদানিকারক কর্তৃক আমদানিকৃত পণ্য সংশ্লিষ্ট পোল্ট্রি অথবা ডেইরি ফার্মে সঠিকভাবে ব্যবহৃত হইয়াছে কিনা এবং আমদানিকৃত উপকরণের সমন্বয়ে উৎপাদিত পশু খাদ্য সংশ্লিষ্ট পোল্ট্রি খামার অথবা গবাদি পশু খামারের নিকট সরবরাহ করা হইয়াছে কিনা তাহা প্রাণিসম্পদ অধিদপ্তর এবং সংশ্লিষ্ট ভ্যাট কমিশনার মনিটর করিবেন।",
+      "entity_concepts": {
+        "Department of Livestock Services": [
+          "The Department of Livestock Services is authorized to monitor the usage of imported goods by the relevant importer in poultry or dairy farms.",
+          "They are responsible for verifying that the finished animal feed produced from imported materials is correctly supplied to the designated poultry or livestock farms."
+        ],
+        "Value Added Tax Authorities": [
+          "The relevant VAT Commissioner is mandated to monitor the utilization of imported goods and the distribution of processed animal feed by importers in conjunction with the Department of Livestock Services."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1725",
+      "entity_sub_entities": {
+        "Department of Livestock Services": [
+          "imported goods",
+          "poultry farms",
+          "dairy farms",
+          "finished animal feed",
+          "imported materials",
+          "livestock farms"
+        ],
+        "Value Added Tax Authorities": [
+          "VAT Commissioner",
+          "imported goods",
+          "processed animal feed",
+          "importers",
+          "Department of Livestock Services"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        79,
+        105,
+        554,
+        615,
+        995,
+        1254,
+        1290,
+        8107,
+        10978
+      ],
+      "source_file": "customs_sros_OCR/20170601_130-AIN_/20170601_130-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_3",
+      "resolved_text": "(২) আমদানিকারককে অবশ্যই প্রাণিসম্পদ অধিদপ্তর কর্তৃক নিবন্ধিত অথবা তালিকাভুক্ত অথবা ক্যাটাগরি-১ বা ক্যাটাগরি-২ হিসাবে লাইসেন্সধারী অথবা পোল্ট্রি খামার অথবা গবাদি পশুর খামার অথবা মৎস্য অধিদপ্তর কর্তৃক নিবন্ধিত অথবা তালিকাভুক্ত অথবা ক্যাটাগরি-১ বা ক্যাটাগরি-২ হিসাবে লাইসেন্সধারী অথবা মৎস্য বা চিংড়ি খামার অথবা মৎস্য বা চিংড়ি হ্যাচারি অথবা Fishing trawler অথবা মৎস্য প্রক্রিয়াজাতকরণ কারখানা অথবা Animal Health Companies Association of Bangladesh (AHCAB) এর সদস্যভুক্ত Animal Health Company অথবা Bangladesh Aqua Product Companies Association (BAPCA) এর সদস্যভুক্ত Aqual Product Company অথবা ফিড ইন্ডাস্ট্রিজ এসোসিয়েশন, বাংলাদেশ (ফিআব) অথবা বাংলাদেশ এগ্রো ফিড ইনগ্রেডিয়েন্টস ইম্পোর্টার্স এন্ড ট্রেডার্স এসোসিয়েশন (বাফিটা) এর সদস্যভুক্ত প্রতিষ্ঠান হইতে হইবে;",
+      "entity_concepts": {
+        "Importer": [
+          "The importer must be duly registered, listed, or licensed under specific categories by the Department of Livestock Services or the Department of Fisheries.",
+          "Alternatively, the importer must be a member of designated professional associations such as the Animal Health Company Association of Bangladesh, Bangladesh Aqua Product Companies Association, or other specified feed industry and trade associations."
+        ],
+        "Animal Health Company Association of Bangladesh": [
+          "Member companies of this association are recognized as eligible entities for the purpose of importation under this regulatory order."
+        ],
+        "Bangladesh Aqua Product Companies Association": [
+          "Member companies of this association are recognized as eligible entities for the purpose of importation under this regulatory order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2010",
+      "entity_sub_entities": {
+        "Importer": [
+          "Department of Livestock Services",
+          "Department of Fisheries",
+          "Animal Health Company Association of Bangladesh",
+          "Bangladesh Aqua Product Companies Association",
+          "feed industry and trade associations"
+        ],
+        "Animal Health Company Association of Bangladesh": [
+          "Member companies"
+        ],
+        "Bangladesh Aqua Product Companies Association": [
+          "Member companies"
+        ]
+      },
+      "clause_clusters": [
+        39,
+        554,
+        842,
+        1323,
+        1335,
+        4343,
+        8036
+      ],
+      "source_file": "customs_sros_OCR/20200611_128-AIN_2020_79_Customs/20200611_128-AIN_2020_79_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4",
+      "resolved_text": "(৩) দফা (২) এ উল্লিখিত আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানির ক্ষেত্রে সংশ্লিষ্ট অধিদপ্তর আমদানিকারক প্রতিষ্ঠানের বাৎসরিক চাহিদার পরিমাণ যথাযথভাবে নিরূপণ করত উক্ত পরিমাণ পণ্য আমদানির জন্য ছাড়পত্র প্রদান করিবে এবং উক্ত ছাড়পত্র আমদানিকারক কর্তৃক সংশ্লিষ্ট কমিশনার অব কাস্টমস বরাবরে দাখিল করিতে হইবে:\n\nতবে শর্ত থাকে যে-\n(ক) পশু খাদ্য প্রস্তুতের জন্য Meat and Bone Meal (MBM), Fish Meal এবং Protein Concentrate আমদানির ক্ষেত্রে প্রাণিসম্পদ অধিদপ্তরের পূর্বানুমতি গ্রহণ করিতে হইবে এবং আমদানির পূর্বানুমোদন গ্রহণের সময় আমদানিকৃত পণ্যের উৎস ও প্রাণির নাম (Country of Origin and name of the animal) উল্লেখ করিতে হইবে; অথবা\n(খ) মৎস্য খাদ্য প্রস্তুতের জন্য Meat and Bone Meal (MBM) ও প্রাণিজাত উপকরণ ব্যতীত মাছ ও অন্যান্য উৎস হইতে প্রস্তুতকৃত Protein Concentrate এবং Fish Meal আমদানির ক্ষেত্রে মৎস্য অধিদপ্তরের পূর্বানুমোদন গ্রহণ করিতে হইবে;",
+      "entity_concepts": {
+        "Animal Feed and Veterinary Products": [
+          "The importer must obtain an annual requirement assessment from the relevant department to receive clearance for importing raw materials for animal feed production. This clearance must be submitted to the relevant Commissioner of Customs."
+        ],
+        "Fish Feed Ingredients": [
+          "Importers of specific protein concentrates and fish meal for fish feed must obtain prior approval from the Department of Fisheries. This requirement applies to products derived from fish or other non-animal sources, excluding meat and bone meal."
+        ],
+        "Commissioner of Customs": [
+          "The importer is required to submit the official import clearance certificate issued by the relevant department to the Commissioner of Customs."
+        ],
+        "Department of Livestock Services": [
+          "The Department of Livestock Services must provide prior approval for the import of specific animal feed ingredients such as meat and bone meal, fish meal, and protein concentrates. During the approval process, the importer must disclose the country of origin and the species of animal from which the product is derived."
+        ],
+        "Department of Fisheries": [
+          "The Department of Fisheries is the authority responsible for granting prior approval for the import of fish feed ingredients, specifically protein concentrates and fish meal derived from sources other than animal-based materials."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2011",
+      "entity_sub_entities": {
+        "Animal Feed and Veterinary Products": [
+          "raw materials",
+          "animal feed production"
+        ],
+        "Fish Feed Ingredients": [
+          "protein concentrates",
+          "fish meal",
+          "fish",
+          "non-animal sources",
+          "meat and bone meal"
+        ],
+        "Commissioner of Customs": [
+          "import clearance certificate"
+        ],
+        "Department of Livestock Services": [
+          "animal feed ingredients",
+          "meat and bone meal",
+          "fish meal",
+          "protein concentrates",
+          "country of origin",
+          "species of animal"
+        ],
+        "Department of Fisheries": [
+          "fish feed ingredients",
+          "protein concentrates",
+          "fish meal",
+          "animal-based materials"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        12,
+        334,
+        554,
+        678,
+        842,
+        1654,
+        2050,
+        2856,
+        2958,
+        4004,
+        5499,
+        5500,
+        5502,
+        8835,
+        10088,
+        12312
+      ],
+      "source_file": "customs_sros_OCR/20200611_128-AIN_2020_79_Customs/20200611_128-AIN_2020_79_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20200611_128-AIN_2020_79_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_7",
+      "resolved_text": "(৬) দফা (২) এ উল্লিখিত প্রাণিসম্পদ অধিদপ্তর সংশ্লিষ্ট আমদানিকারক কর্তৃক আমদানিকৃত পণ্য সংশ্লিষ্ট পোল্ট্রি অথবা ডেইরি ফার্মে সঠিকভাবে ব্যবহৃত হইয়াছে কিনা এবং আমদানিকৃত উপকরণের সমন্বয়ে উৎপাদিত পশু খাদ্য সংশ্লিষ্ট পোল্ট্রি খামার অথবা গবাদি পশু খামারের নিকট সরবরাহ করা হইয়াছে কিনা তাহা প্রাণিসম্পদ অধিদপ্তর এবং সংশ্লিষ্ট ভ্যাট কমিশনার মনিটর করিবেন;",
+      "entity_concepts": {
+        "Department of Livestock Services": [
+          "The Department of Livestock Services is responsible for monitoring the utilization of imported goods by the relevant importer to ensure they are properly used in poultry or dairy farms.",
+          "This authority also works in conjunction with the Value Added Tax authorities to verify that animal feed produced from imported raw materials is effectively supplied to the designated poultry or livestock farms."
+        ],
+        "Value Added Tax": [
+          "The Commissioner of Value Added Tax is mandated to monitor the end-use of imported inputs along with the Department of Livestock Services to ensure compliance in the supply chain of poultry and dairy feed production."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2014",
+      "entity_sub_entities": {
+        "Department of Livestock Services": [
+          "imported goods",
+          "poultry farms",
+          "dairy farms",
+          "animal feed",
+          "imported raw materials",
+          "livestock farms"
+        ],
+        "Value Added Tax": [
+          "Commissioner of Value Added Tax",
+          "imported inputs",
+          "poultry feed",
+          "dairy feed"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        9,
+        132,
+        229,
+        554,
+        632,
+        995,
+        1158,
+        1254,
+        1438,
+        2634
+      ],
+      "source_file": "customs_sros_OCR/20200611_128-AIN_2020_79_Customs/20200611_128-AIN_2020_79_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩",
+      "text_id": "metadata_10",
+      "resolved_text": "পরিশিষ্ট-৩\n[শর্ত (৩) দ্রষ্টব্য]\n\nপ্রত্যয়ন পত্র\n\nএই মর্মে প্রত্যয়ন করা হইতেছে যে, মেসার্স----------------------------------------------------------------------- (সম্পূর্ণ ঠিকানা উল্লেখ করিতে হইবে) বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ বা প্রাণী সম্পদ অধিদপ্তর কর্তৃক নিবন্ধিত একটি হাঁস-মুরগির খামার। এই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ------------------------, তারিখঃ -------------ইনভয়েস নং------------------তারিখঃ--------------বিল অব এন্ট্রি নং---------------, তারিখঃ--------------- এর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ বা উহার অংশবিশেষ (অংশবিশেষ ব্যবহৃত হইলে উক্ত ব্যবহৃত অংশের পরিমাণ উল্লেখ করিতে হইবে) উল্লিখিত খামারের সুষমকরণ, আধুনিকীকরণ, প্রতিস্থাপন ও সম্প্রসারণ (বি এম আর ই) এর সকল বা যে কোন কাজে ব্যবহার করা হইয়াছে/হয় নাই।\n\nস্বাক্ষরঃ----------------------------\nনামঃ-------------------------------\nতারিখঃ পদবীঃ সভাপতি/সাধারণ সম্পাদক,\nবাংলাদেশ পোল্ট্রি ইন্ডাষ্ট্রিজ এসোসিয়েশন\nসীলঃ",
+      "entity_concepts": {
+        "Poultry Farm Certification": [
+          "This form serves as a certificate for a poultry farm registered with the Bangladesh Investment Development Authority or the Department of Livestock Services. It confirms whether imported machinery, parts, or materials have been utilized specifically for the balancing, modernization, replacement, or expansion of the facility."
+        ],
+        "Bangladesh Poultry Industries Association": [
+          "The association is responsible for issuing the certification regarding the use of imported equipment and materials by registered poultry farms. The document requires formal endorsement by the association's president or general secretary."
+        ],
+        "Imported Goods for Poultry Industry": [
+          "Imported machinery, spare parts, and materials used in poultry farming are subject to documentation requirements including letters of credit, invoices, and bills of entry. These imports must be linked to the authorized balancing, modernization, replacement, or expansion projects of the respective industrial farm."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1198",
+      "entity_sub_entities": {
+        "Poultry Farm Certification": [
+          "poultry farm",
+          "Bangladesh Investment Development Authority",
+          "Department of Livestock Services",
+          "imported machinery",
+          "parts",
+          "materials"
+        ],
+        "Bangladesh Poultry Industries Association": [
+          "imported equipment",
+          "materials",
+          "registered poultry farms",
+          "president",
+          "general secretary"
+        ],
+        "Imported Goods for Poultry Industry": [
+          "imported machinery",
+          "spare parts",
+          "materials",
+          "letters of credit",
+          "invoices",
+          "bills of entry"
+        ]
+      },
+      "clause_clusters": [
+        54,
+        57,
+        62,
+        110,
+        164,
+        177,
+        325,
+        463,
+        554,
+        578,
+        595,
+        1923,
+        2755,
+        2938,
+        4644,
+        8915,
+        10800
+      ],
+      "source_file": "customs_sros_OCR/20220609_143-AIN_2022_91_Customs/20220609_143-AIN_2022_91_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট\n[শর্তাবলীর দফা (৮) দ্রষ্টব্য]\nআমদানিকৃত পশু খাদ্য বা মৎস্য খাদ্য বা উপকরণের যথাযথ ব্যবহার সংক্রান্ত প্রতিবেদন\n\n১। প্রতিষ্ঠানের নাম :\n২। ঠিকানা :\n৩। মূসক নিবন্ধন নম্বর :\n৪। প্রাণিসম্পদ/মৎস্য অধিদপ্তর হইতে প্রদত্ত নিবন্ধন/লাইসেন্স নম্বর ও তারিখ :\n৫। নিবন্ধন/লাইসেন্সের ধরণ :\n৬। প্রতিবেদনের মেয়াদকাল :\n\n\n| ক্রমিক নং | ছাড়পত্র নং ও তারিখ | বি/ই নং ও তারিখ এবং কাস্টম হাউস বা স্টেশনের নাম | আমদানিকৃত পণ্যের বিবরণ - নাম | আমদানিকৃত পণ্যের বিবরণ - পরিমাণ | সরবরাহ/ ব্যবহার - সরবরাহ গ্রহণকারী প্রতিষ্ঠানের নাম/ নিজস্ব ব্যবহার | সরবরাহ/ ব্যবহার - পণ্যের নাম | সরবরাহ/ ব্যবহার - পরিমাণ | জের |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) | (৮) | (৯) |\n\n\nমহাপরিচালক\nপ্রাণিসম্পদ/মৎস্য অধিদপ্তর\n\nরাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {
+        "Imported Animal Feed or Fish Feed Utilization Report": [
+          "This appendix prescribes a mandatory reporting format for businesses to track the utilization of imported animal or fish feed and related inputs. The report requires detailed information regarding registration, license details, and a ledger of import clearances versus actual consumption or supply."
+        ],
+        "Department of Livestock Services": [
+          "This government authority is responsible for managing the registration and licensing of businesses dealing with imported animal feed and is the designated recipient of the utilization reports."
+        ],
+        "Department of Fisheries": [
+          "This government authority oversees the licensing and registration of fish feed importers and is a designated authority for receiving compliance reports on feed utilization."
+        ],
+        "Customs Clearance": [
+          "Importers must maintain a detailed record of import documentation, including bill of entry numbers, dates, and the specific customs house of clearance, to be submitted as part of the mandatory utilization report."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1600",
+      "entity_sub_entities": {
+        "Imported Animal Feed or Fish Feed Utilization Report": [
+          "imported animal feed",
+          "fish feed",
+          "related inputs",
+          "registration",
+          "license details",
+          "ledger of import clearances",
+          "consumption",
+          "supply"
+        ],
+        "Department of Livestock Services": [
+          "government authority",
+          "registration",
+          "licensing",
+          "imported animal feed",
+          "utilization reports"
+        ],
+        "Department of Fisheries": [
+          "government authority",
+          "licensing",
+          "registration",
+          "fish feed importers",
+          "compliance reports",
+          "feed utilization"
+        ],
+        "Customs Clearance": [
+          "import documentation",
+          "bill of entry numbers",
+          "dates",
+          "customs house",
+          "utilization report"
+        ]
+      },
+      "clause_clusters": [
+        51,
+        60,
+        182,
+        398,
+        409,
+        554,
+        842,
+        850,
+        1304,
+        1416,
+        1586,
+        1995,
+        3298,
+        3519,
+        4279,
+        6664,
+        8038,
+        8159,
+        8897,
+        11385,
+        12572,
+        13144
+      ],
+      "source_file": "customs_sros_OCR/20250602_203-AIN_2025_25_Customs/20250602_203-AIN_2025_25_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_8",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৩) দ্রষ্টব্য]\n\nপ্রত্যয়ন পত্র\n\nএই মর্মে প্রত্যয়ন করা হইতেছে যে, মেসার্স ------------------------ (সম্পূর্ণ ঠিকানা দিতে হইবে) বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ বা প্রাণী সম্পদ অধিদপ্তর কর্তৃক নিবন্ধিত একটি হাঁস-মুরগির খামার ও গবাদি পশু বা ডেইরী ফার্ম। এই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ---------------------- তারিখঃ ------------------- ইনভয়েস নং ------------------------ তারিখঃ ------------------ বিল অব এন্ট্রি নং ----------------------- তারিখঃ ---------- এর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ বা উহার অংশবিশেষ (অংশবিশেষ ব্যবহৃত হইলে উক্ত ব্যবহৃত অংশের পরিমাণ উল্লেখ করিতে হইবে) উল্লিখিত খামারের সুষমকরণ, আধুনিকীকরণ, প্রতিস্থাপন ও সম্প্রসারণ (বি এম আর ই) এর সকল বা যে কোন কাজে ব্যবহার করা হইয়াছে/হয় নাই।\n\nস্বাক্ষরঃ ...........................................\nনামঃ .............................................\nতারিখঃ পদবীঃ সভাপতি/সাধারণ সম্পাদক,\nব্রিডার্স এসোসিয়েশন অব বাংলাদেশ।\nসীলঃ",
+      "entity_concepts": {
+        "Poultry and Dairy Farm": [
+          "This entity is defined as an industrial establishment registered with either the Bangladesh Investment Development Authority or the Department of Livestock Services.",
+          "The entity is required to undergo a certification process to confirm that imported machinery, spare parts, and equipment are utilized for the balancing, modernization, replacement, and expansion of the farm."
+        ],
+        "Imported Machinery and Equipment": [
+          "These goods are subject to verification regarding their utilization for the balancing, modernization, replacement, and expansion of registered poultry and dairy farms.",
+          "The importation details, including letter of credit, invoice, and bill of entry numbers, must be certified to validate the intended use of the equipment."
+        ],
+        "Breeders Association of Bangladesh": [
+          "The association is empowered to issue formal certification regarding the usage of imported machinery and equipment by registered poultry and dairy farms."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1197",
+      "entity_sub_entities": {
+        "Poultry and Dairy Farm": [
+          "industrial establishment",
+          "Bangladesh Investment Development Authority",
+          "Department of Livestock Services",
+          "machinery",
+          "spare parts",
+          "equipment"
+        ],
+        "Imported Machinery and Equipment": [
+          "machinery",
+          "equipment",
+          "letter of credit",
+          "invoice",
+          "bill of entry"
+        ],
+        "Breeders Association of Bangladesh": [
+          "machinery",
+          "equipment",
+          "poultry and dairy farms"
+        ]
+      },
+      "clause_clusters": [
+        27,
+        33,
+        72,
+        110,
+        554,
+        572,
+        578,
+        601,
+        854,
+        947,
+        3545,
+        10795,
+        10796
+      ],
+      "source_file": "customs_sros_OCR/20220609_143-AIN_2022_91_Customs/20220609_143-AIN_2022_91_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট",
+      "text_id": "metadata_9",
+      "resolved_text": "পরিশিষ্ট\n[শর্তাবলীর দফা (৮) দ্রষ্টব্য]\n\nআমদানিকৃত পশু খাদ্য বা মৎস্য খাদ্য বা উপকরণের যথাযথ ব্যবহার সংক্রান্ত প্রতিবেদন\n\n১। প্রতিষ্ঠানের নাম :\n২। ঠিকানা :\n৩। মূসক নিবন্ধন নম্বর :\n৪। প্রাণিসম্পদ/মৎস্য অধিদপ্তর হইতে প্রদত্ত নিবন্ধন/লাইসেন্স নম্বর ও তারিখ :\n৫। নিবন্ধন/লাইসেন্সের ধরণ :\n৬। প্রতিবেদনের মেয়াদকাল :\n\nমহাপরিচালক\nপ্রাণিসম্পদ/মৎস্য অধিদপ্তর\n\nরাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Animal Feed and Fish Feed": [
+          "This form serves as a mandatory reporting template for the appropriate utilization of imported animal feed, fish feed, or related raw materials."
+        ],
+        "Department of Livestock Services and Department of Fisheries": [
+          "These regulatory bodies issue the necessary registrations and licenses required for the import and utilization of animal or fish feed and are the recipients of the compliance reports filed by the importing establishments."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1014",
+      "entity_sub_entities": {
+        "Animal Feed and Fish Feed": [
+          "imported animal feed",
+          "fish feed",
+          "raw materials"
+        ],
+        "Department of Livestock Services and Department of Fisheries": [
+          "Department of Livestock Services",
+          "Department of Fisheries",
+          "registrations",
+          "licenses",
+          "animal feed",
+          "fish feed",
+          "compliance reports",
+          "importing establishments"
+        ]
+      },
+      "clause_clusters": [
+        12,
+        338,
+        554,
+        842,
+        850,
+        1158,
+        1304,
+        1586,
+        7203,
+        8955,
+        11346
+      ],
+      "source_file": "customs_sros_OCR/20200611_128-AIN_2020_79_Customs/20200611_128-AIN_2020_79_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

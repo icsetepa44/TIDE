@@ -1,0 +1,85 @@
+{
+  "thread_id": "cluster_00776_t1",
+  "cluster_id": 776,
+  "cluster_label": "import documents",
+  "title": "Procedural Enforcement and Adjudication Documentation",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the focus of customs documentation evolved from the 2022 Temporary Import Rules to the 2023 Adjudication Guidelines?",
+      "answer": "The focus shifted from managing the physical re-exportation procedures of temporary imports, as defined in the 2022 rules, to establishing standardized legal documentation for enforcement actions in 2023. While the 2022 guidelines centered on physical examination and re-export logistics, the 2023 guidelines formalized the legal process for issuing show-cause notices and conducting hearings regarding false declarations under the Customs Act 1969.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_90",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_91"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the relationship between the 2023 Adjudication Guidelines and the legal framework provided by the Customs Act 1969?",
+      "answer": "The 2023 Adjudication Guidelines serve as an operational implementation of the Customs Act 1969 by providing standardized templates for legal notices. Specifically, they operationalize Section 180 for issuing show-cause notices and Section 156(1) for adjudicating offences related to false declarations, ensuring that customs authorities have a structured process for handling discrepancies discovered during post-clearance audits.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_90",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_91"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why does the 2022 Temporary Import Rules mandate supervision by an Assistant Commissioner during the re-exportation of goods?",
+      "answer": "The mandate for an Assistant Commissioner to supervise the 100% physical examination of re-exported items is designed to ensure strict compliance with temporary import procedures. This level of oversight is required to verify that the goods being returned match the original import documentation, thereby preventing unauthorized disposal and ensuring that any failure to meet re-export timeframes can be addressed through the encashment of bank guarantees and penalty imposition.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the 2023 Adjudication Guidelines protect the rights of importers during the post-clearance audit process?",
+      "answer": "The 2023 guidelines mandate that customs authorities provide importers with an opportunity to explain discrepancies identified during post-clearance audits before a final settlement is reached. By utilizing the formal show-cause notice process under Section 180 of the Customs Act 1969, the authorities ensure that importers have the right to attend hearings and present their case regarding alleged false declarations.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_90",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_91"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the procedural implications for an importer who fails to respond to a show-cause notice under the 2023 Adjudication Guidelines?",
+      "answer": "According to the 2023 guidelines, if an importer fails to respond to a show-cause notice or does not attend a scheduled hearing, the customs authorities are empowered to proceed with the adjudication process. The authorities may settle the matter based on the existing documentation available to them, effectively concluding the case without the importer's further input.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_90",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_91"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the requirement for prior approval from a Commissioner of Customs affect the re-exportation of temporary imports?",
+      "answer": "Under the 2022 rules, while goods are generally required to be re-exported through the same customs station where they were imported, the system allows for flexibility if that station cannot be used. By requiring prior approval from the concerned Commissioner of Customs, the policy maintains strict control over the movement of temporary imports while providing a legal mechanism to accommodate logistical difficulties.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-02-08",
+      "relative_offset": "one year and seven months later",
+      "question": "Regarding the evolution of procedural enforcement documentation, what legal framework was introduced one year and seven months after the Temporary Import Rules were defined in 2022?",
+      "answer": "On 2023-09-27, the Adjudication Guidelines were introduced, which standardized the documentation for show-cause notices and hearing procedures for cases involving false declarations in import documents.",
+      "clause_text_ids": [
+        "20220208_23-AIN__২৭ জানুয়ারি, ২০২২_clause_4",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_90",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_91"
+      ]
+    }
+  ]
+}

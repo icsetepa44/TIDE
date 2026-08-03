@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00235_t1__X__cluster_00776_t0",
+  "entities": [
+    "HS codes",
+    "import documents"
+  ],
+  "cluster_ids": [
+    235,
+    776
+  ],
+  "thread_ids": [
+    "cluster_00235_t1",
+    "cluster_00776_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the audit reporting frameworks for import documents and the associated industrial data (like HS codes) require standardized verification under the Customs Act?",
+      "answer": "Under the Customs Act 1969 Section 83(C), audit and verification notices are issued by the Commissioner of the Customs House or Commissionerate. The audit reports, whether transaction-based or system-based, require standardized details including business registration, VAT information, and the status of the Import Registration Certificate (IRC), which serves as a foundational import document for tracking industrial inputs and HS code-related activities.",
+      "entities_involved": [
+        "HS codes",
+        "import documents"
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74"
+      ]
+    }
+  ]
+}

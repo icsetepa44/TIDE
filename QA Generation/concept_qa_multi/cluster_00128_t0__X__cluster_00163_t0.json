@@ -1,0 +1,32 @@
+{
+  "group_id": "cluster_00128_t0__X__cluster_00163_t0",
+  "entities": [
+    "Third Schedule",
+    "exemptions"
+  ],
+  "cluster_ids": [
+    128,
+    163
+  ],
+  "thread_ids": [
+    "cluster_00128_t0",
+    "cluster_00163_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the National Board of Revenue (NBR) utilize the Third Schedule of the Customs Act, 1969, in conjunction with its regulatory powers to establish frameworks for customs procedures and exemptions?",
+      "answer": "Under Section 219 of the Customs Act, 1969, the NBR exercises its authority to formulate rules by reading the section in conjunction with specific items of the Third Schedule. For example, as seen in [1], the NBR uses Section 219 alongside items 2, 5, and 6 of the Third Schedule to enact regulations, and in [2], it uses Section 219 with item 17 of the Third Schedule to amend baggage rules.",
+      "entities_involved": [
+        "Third Schedule",
+        "exemptions"
+      ],
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "thread_id": "cluster_00047_t2",
+  "cluster_id": 47,
+  "cluster_label": "baggage",
+  "title": "Crew and Sailor Baggage Allowances",
+  "source_num_member_objects": 9,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "What was the duty-free baggage allowance for airline crew members under the Baggage Rules 2010?",
+      "options": [
+        "100 USD",
+        "150 USD",
+        "300 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 0,
+      "answer": "100 USD",
+      "explanation": "According to the Baggage Rules 2010 (2010-06-10), the duty-free baggage allowance for airline crew was set at 100 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument increased the duty-free baggage allowance for airline crew to 300 USD?",
+      "options": [
+        "Baggage Rules 2010",
+        "Baggage Rules 2016",
+        "Baggage Rules 2024",
+        "Baggage Rules 2025"
+      ],
+      "answer_index": 1,
+      "answer": "Baggage Rules 2016",
+      "explanation": "The Baggage Rules 2016 (2016-04-08) explicitly increased the airline crew allowance to 300 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "As of the Baggage Rules 2025, what is the duty-free baggage allowance for Bangladeshi airline crew?",
+      "options": [
+        "100 USD",
+        "150 USD",
+        "300 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 1,
+      "answer": "150 USD",
+      "explanation": "The Baggage Rules 2025 (2025-06-03) adjusted the duty-free baggage allowance for airline crew to 150 USD.",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What is the maximum baggage value limit for seafarers who have 'signed off' from duty, as consistently maintained across the provided instruments?",
+      "options": [
+        "100 USD",
+        "150 USD",
+        "300 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 3,
+      "answer": "2,000 USD",
+      "explanation": "Across all instruments from 2010-06-10 to 2025-06-03, the allowance for seafarers who have signed off from duty has remained at a maximum of 2,000 USD, subject to applicable duties and taxes.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi airline crew member has been working on international flights consistently since 2010. They imported baggage duty-free in 2012, 2016, and again in 2025 after returning from professional duties abroad.",
+      "question": "How did the duty-free baggage allowance for this crew member change across their three import trips in 2012, 2016, and 2025?",
+      "answer": "The allowance was 100 USD in 2012, increased to 300 USD in 2016, and was subsequently reduced to 150 USD in 2025.",
+      "clauses_involved": [
+        "2012-06-07",
+        "2016-04-08",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In the Baggage Rules 2010, the crew baggage allowance was set at 100 USD. How did this allowance change six years later?",
+      "answer": "In the Baggage Rules 2016 (dated 2016-04-08), the crew allowance was increased to 300 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "nine years later",
+      "question": "Following the 2016 increase of the crew baggage allowance to 300 USD, what adjustment was made to this allowance nine years later?",
+      "answer": "In the Baggage Rules 2025 (dated 2025-06-03), the crew baggage allowance was adjusted downward to 150 USD.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The baggage allowance for airline crew members is set at 100 USD.",
+        "The baggage allowance for airline crew members is adjusted to 150 USD.",
+        "The baggage allowance for airline crew members is increased to 300 USD."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The baggage allowance for airline crew members is set at 100 USD.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The baggage allowance for airline crew members is increased to 300 USD.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "The baggage allowance for airline crew members is adjusted to 150 USD.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00047_t2__crew-and-sailor-baggage-allowances.json"
+    }
+  ]
+}

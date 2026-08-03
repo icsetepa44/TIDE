@@ -1,0 +1,750 @@
+{
+  "cluster_id": 445,
+  "cluster_label": "authorized officer",
+  "thread_index": 1,
+  "thread_id": "cluster_00445_t1",
+  "title": "Operational Accountability and Seizure Management",
+  "summary": "This thread defines the legal obligations of officers regarding the custody of seized goods and the finalization of customs formalities. The evolution reflects a shift toward time-bound accountability for officers to prevent administrative delays in clearance.",
+  "evolution": {
+    "accountability": "Introduces strict time-bound (7-day/3-day) windows for officers to finalize formalities, creating a legal remedy for the owner against inaction.",
+    "institutional_role": "Clarifies the chain of custody for seized goods when an authorized officer is not immediately available."
+  },
+  "timeline": [
+    {
+      "date": "2025-02-17",
+      "instrument": "Internal Control Guidelines",
+      "change": "Introduces internal control requirements for Economic Operators (EOs) that interface with customs authorized officers.",
+      "clause_ids": [
+        "20250217_2024_2024-06-06_clause_36",
+        "20250217_2024_2024-06-06_clause_49"
+      ]
+    }
+  ],
+  "num_member_objects": 6,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_36",
+      "clause_title": "",
+      "text_id": "20250217_2024_2024-06-06_clause_36",
+      "resolved_text": "5.6.7 (a) Are the departments that are responsible for purchases / receipt of goods / general administration clearly separated?\nIf No, the arrangement(s) should be described and the reason(s) why the departments are not separated should be adduced by the EO.\nYes No\n\n(b) Do integrated internal control mechanisms exist between the departments?\nIf Yes, how are they operationalized by the EO?\nIf No, the internal control mechanisms should be described by the EO.\nYes No",
+      "entity_concepts": {
+        "Customs Goods": [
+          "The procurement and receipt of goods must be managed by distinct departments to ensure organizational separation and proper administrative oversight.",
+          "In instances where these functions are not separated, the Authorized Officer must provide a detailed explanation and justification for the integrated arrangement."
+        ],
+        "Internal Control": [
+          "Organizations are required to establish and maintain integrated internal control mechanisms between departments involved in administrative and logistics functions.",
+          "The Authorized Officer is responsible for documenting, explaining, and operationalizing these control procedures to ensure compliance and accountability."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1149",
+      "entity_sub_entities": {
+        "Customs Goods": [
+          "goods",
+          "Authorized Officer"
+        ],
+        "Internal Control": [
+          "internal control mechanisms",
+          "administrative functions",
+          "logistics functions",
+          "Authorized Officer",
+          "control procedures"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        445,
+        1604,
+        2436,
+        6701,
+        9167,
+        9168,
+        9618
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_49",
+      "clause_title": "",
+      "text_id": "20250217_2024_2024-06-06_clause_49",
+      "resolved_text": "5.9.6 Is there a procedure for dealing with how, when and by whom departing goods checked against orders and loading lists and recorded out of stock records?\nIf Yes, the procedure should be briefly described by the EO or a reference made to its name / number.\nIf No, how is it ensured, that departing goods are checked against orders and loading lists and recorded out of stock, by the EO?\nYes No",
+      "entity_concepts": {
+        "Standard Operating Procedure": [
+          "The operator must document the specific procedure for verifying departing goods against orders and loading lists and updating stock records.",
+          "If a formal procedure does not exist, the entity must describe how the authorized officer ensures the accuracy of stock departures and record-keeping."
+        ],
+        "Customs Procedure for Loading Goods": [
+          "The rules require that departing goods be checked against authorized orders and loading lists to ensure consistency.",
+          "The process must include a formal mechanism for recording the exit of goods in stock management records."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1162",
+      "entity_sub_entities": {
+        "Standard Operating Procedure": [
+          "departing goods",
+          "orders",
+          "loading lists",
+          "stock records",
+          "authorized officer",
+          "stock departures",
+          "record-keeping"
+        ],
+        "Customs Procedure for Loading Goods": [
+          "departing goods",
+          "authorized orders",
+          "loading lists",
+          "stock management records"
+        ]
+      },
+      "clause_clusters": [
+        73,
+        238,
+        445,
+        933,
+        2214,
+        3812,
+        4300,
+        4947,
+        5821,
+        12456,
+        12457
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_103",
+      "clause_title": "নির্ধারিত সময়ের মধ্যে সংশ্লিষ্ট বিল অব এন্ট্রি উপস্থাপনের পর পণ্য কাস্টমস কর্তৃক শুল্কায়ন এবং ছাড় প্রদান না করার ক্ষেত্রে পদ্ধতি",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_103",
+      "resolved_text": "৮২ক। নির্ধারিত সময়ের মধ্যে সংশ্লিষ্ট বিল অব এন্ট্রি উপস্থাপনের পর পণ্য কাস্টমস কর্তৃক শুল্কায়ন এবং ছাড় প্রদান না করার ক্ষেত্রে পদ্ধতি।— যে ক্ষেত্রে এই আইনের বিধানাবলীর অধীন আটককৃত, রদ্ধকৃত, বাজেয়াপ্তকৃত, ন্যায়নির্ণয়ধীন অথবা আপীলাধীন পণ্য ব্যতীত অন্য কোন পণ্য, যাহার জন্য বিল অব লেডিং এন্ট্রি যথাযথভাবে উপস্থাপন করা হইয়াছে, তাহা সাত কার্যদিবসের মধ্যে শুল্কায়ন এবং ছাড় প্রদান করা না হয় সেই ক্ষেত্রে উক্ত পণ্যের মালিক তিনি যাহাতে শুল্ক এবং কর প্রদান পূর্বক পণ্য খালাস নিতে সক্ষম হন তাহার জন্য সকল কাস্টমস আনুষ্ঠানিকতা তিনটি কার্যদিবসের মধ্যে চূড়ান্ত করার জন্য কমিশনারকে নোটিশ প্রদান করিতে পারিবেন এবং উক্ত কমিশনার অথবা তাহার পক্ষে ক্ষমতাপ্রাপ্ত কোন কর্মকর্তা, আমদানি বৈধ হইলে, শুল্কায়ন সম্পন্ন করিবেন অথবা আমদানি বৈধ না হইলে, কারণ দর্শানো নোটিশ জারী করিবেন।\n\nব্যাখ্যা : এই ধারার উদ্দেশ্য পূরণকল্পে “আটককৃত পণ্য” বলিতে রাসায়নিক পরীক্ষা অথবা তেজস্ক্রিয়তা পরীক্ষার জন্য অথবা শ্রেণীবিন্যাস, মূল্য, আমদানিরযোগ্যতার বিষয়ে অথবা অন্য কোন আইনগত বিরোধ নিষ্পত্তির লক্ষ্যে মতার্থে প্রেরণের জন্য আটককৃত পণ্য অন্তর্ভুক্ত হইবে।",
+      "entity_concepts": {
+        "Bill of Entry": [
+          "The submission of a Bill of Entry is a mandatory procedural step for the clearance of imported goods.",
+          "When goods for which a Bill of Entry has been properly submitted are not assessed or released within seven working days, the importer may trigger a formal notification process to expedite the remaining customs formalities."
+        ],
+        "Customs Clearance": [
+          "Customs authorities are required to complete the assessment and release of goods within a specified timeframe following the submission of a Bill of Entry, excluding goods that are detained, seized, or under adjudication or appeal.",
+          "If clearance is delayed beyond the prescribed period, the importer can notify the Commissioner to finalize all customs formalities within three working days."
+        ],
+        "Commissioner of Customs": [
+          "Upon receiving a notification regarding delayed customs clearance, the Commissioner or an authorized officer must complete the assessment if the import is found to be legal.",
+          "If the import is determined to be non-compliant or illegal, the Commissioner is required to issue a show-cause notice to the importer."
+        ],
+        "Detained Goods": [
+          "Detained goods include items held for chemical analysis, radioactive testing, or for the purpose of resolving legal disputes regarding classification, valuation, or import eligibility."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_107",
+      "entity_sub_entities": {
+        "Bill of Entry": [
+          "imported goods"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "Bill of Entry",
+          "Commissioner"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner",
+          "authorized officer",
+          "import",
+          "show-cause notice",
+          "importer"
+        ],
+        "Detained Goods": [
+          "items",
+          "chemical analysis",
+          "radioactive testing",
+          "classification",
+          "valuation",
+          "import eligibility"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        27,
+        39,
+        51,
+        64,
+        117,
+        378,
+        418,
+        445,
+        471,
+        512,
+        594,
+        1021,
+        1675,
+        11174
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_103",
+      "clause_title": "Procedure in case of goods not assessed or out-passed by Customs after presentation of the related bill of entry within a specified period",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_103",
+      "resolved_text": "82A. Procedure in case of goods not assessed or out-passed by Customs after presentation of the related bill of entry within a specified period.- If any goods, other than goods detained, seized, confiscated, under adjudication or appeal under the provisions of this Act, for which a bill of entry has duly been presented, are not assessed and out-passed within seven working days the owner of such goods may serve a notice upon the Commissioner to finalize the Customs formalities within three working days enabling him to pay duty and taxes and clear the goods, and the said Commissioner or any officer authorized on his behalf shall do so, if the import is in order, or issue a show cause notice if the import is not in order.\nExplanation.- For the purpose of this section \"detained goods\" include goods detained for chemical examination, radiation test, reference for resolution disputes on of classification, value, ITC aspect or any other legal disputes.]",
+      "entity_concepts": {
+        "Bill of Entry": [
+          "This entity represents the document presented to Customs for the clearance of imported goods.",
+          "The submission of a bill of entry initiates the customs assessment process and triggers the timeline for the finalization of customs formalities."
+        ],
+        "Detained Goods": [
+          "These are goods held by customs authorities for specific reasons such as chemical examination, radiation testing, or disputes regarding classification, valuation, and import policy requirements.",
+          "Detained goods are explicitly excluded from the simplified procedure for clearance when assessment or out-passing is delayed beyond the specified time frame."
+        ],
+        "Seized Goods": [
+          "These goods are excluded from the expedited clearance procedure applicable to goods awaiting assessment or out-passing."
+        ],
+        "Confiscated Goods": [
+          "These goods are excluded from the expedited clearance procedure applicable to goods awaiting assessment or out-passing."
+        ],
+        "Adjudication of Customs Cases": [
+          "Goods subject to pending adjudication under the provisions of the Customs Act are ineligible for the fast-track clearance notice process defined for delayed assessments."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs or an authorized officer is responsible for finalizing customs formalities within a set time frame upon receiving a notice from the goods owner.",
+          "If the import formalities are not in order, the Commissioner or authorized officer must issue a show cause notice to the importer."
+        ],
+        "Show Cause Notice": [
+          "This legal instrument is issued by the Commissioner of Customs when the import documentation or status is found to be non-compliant or not in order."
+        ],
+        "Customs Clearance Procedure": [
+          "A procedural framework is established to ensure goods are assessed and out-passed within a specific period after the submission of the bill of entry.",
+          "When delays occur, owners of goods may invoke a notice procedure to compel the customs authority to complete assessment or provide a formal explanation for non-compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_430",
+      "entity_sub_entities": {
+        "Bill of Entry": [
+          "document",
+          "imported goods"
+        ],
+        "Detained Goods": [
+          "goods",
+          "chemical examination",
+          "radiation testing",
+          "classification",
+          "valuation",
+          "import policy requirements"
+        ],
+        "Seized Goods": [
+          "goods"
+        ],
+        "Confiscated Goods": [
+          "goods"
+        ],
+        "Adjudication of Customs Cases": [
+          "goods",
+          "Customs Act"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "authorized officer",
+          "goods owner",
+          "importer"
+        ],
+        "Show Cause Notice": [
+          "legal instrument",
+          "import documentation"
+        ],
+        "Customs Clearance Procedure": [
+          "procedural framework",
+          "goods",
+          "bill of entry",
+          "notice procedure",
+          "customs authority"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        23,
+        27,
+        37,
+        39,
+        41,
+        210,
+        251,
+        314,
+        344,
+        409,
+        418,
+        445,
+        471,
+        512,
+        675,
+        1096,
+        1178,
+        4075,
+        6333,
+        8856,
+        10122,
+        11167
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_196",
+      "clause_title": "Things seized how dealt with",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_196",
+      "resolved_text": "169. Things seized how dealt with.- (1) All things seized on the ground that they are liable to confiscation under this Act shall, without unnecessary delay, be delivered into the care of the officer of customs authorised to receive the same.\n(2) If there be no such officer at hand, at hand, all such things shall be carried to and deposited at the custom-house nearest to the place of seizure.\n(3) If there be no custom-house within a convenient distance, such things shall be deposited at the nearest place appointed by the 2[Commissioner of Customs] for the deposit of things so seized.\n(4) If the 2[Commissioner of Customs] or any other officer of customs authorised by him in this behalf considers that any things is perishable or liable to rapid deterioration, he shall immediately cause it to be sold in accordance with the provisions of section 201 and have the proceeds kept in deposit pending adjudication of the case:\n3[Provided that where practicable samples of such things with proper identification marks may be kept for the purpose of any legal proceeding or for any other purpose of this Act.]\n(5) If on such adjudication the thing so sold is found not to have been liable to such confiscation, the entire sale proceeds, after necessary deduction of duties, taxes or dues as provided in section 201, shall be handed over to the owner.",
+      "entity_concepts": {
+        "Seizure of Goods": [
+          "All goods seized on the grounds of being liable for confiscation under the Customs Act must be delivered promptly to an authorized officer of customs.",
+          "When no authorized officer is available, seized goods must be deposited at the nearest custom-house or at a place specifically designated by the Commissioner of Customs."
+        ],
+        "Perishable and Hazardous Goods": [
+          "If seized items are perishable or subject to rapid deterioration, the Commissioner of Customs or an authorized officer must arrange for their immediate sale.",
+          "The proceeds from the sale of such goods are held in deposit pending the final adjudication of the customs case, although samples may be retained for legal proceedings."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is empowered to appoint specific locations for the storage of seized goods when a custom-house is not within a convenient distance.",
+          "The Commissioner of Customs or an authorized delegate has the authority to order the immediate sale of perishable seized items."
+        ],
+        "Confiscation and Disposal of Goods": [
+          "Following the adjudication of a case, if seized goods that were sold are determined not to have been liable for confiscation, the net sale proceeds must be returned to the owner after accounting for all applicable duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_523",
+      "entity_sub_entities": {
+        "Seizure of Goods": [
+          "goods",
+          "authorized officer of customs",
+          "custom-house",
+          "place",
+          "Commissioner of Customs"
+        ],
+        "Perishable and Hazardous Goods": [
+          "seized items",
+          "Commissioner of Customs",
+          "authorized officer",
+          "proceeds",
+          "samples"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "locations",
+          "seized goods",
+          "custom-house",
+          "authorized delegate",
+          "perishable seized items"
+        ],
+        "Confiscation and Disposal of Goods": [
+          "seized goods",
+          "net sale proceeds",
+          "owner",
+          "duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        13,
+        30,
+        120,
+        210,
+        275,
+        362,
+        438,
+        445,
+        1249,
+        1275,
+        1441,
+        1473,
+        2186,
+        2363,
+        2379,
+        2493,
+        2575,
+        10600
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_208",
+      "clause_title": "Option to pay fine in lieu of confiscated goods",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_208",
+      "resolved_text": "181. Option to pay fine in lieu of confiscated goods.- 2[(1)] Whenever an order for the confiscation of goods is passed under this Act, the officer passing the order may give the owner of the goods an option to pay in lieu of the confiscation of the goods such fine as the officer thinks fit.\nExplanation.- Any fine in lieu of confiscation of goods imposed under this section shall be in addition to any duty and charges payable in respect of such goods, and of any penalty that might have been imposed in addition to the confiscation of goods.\n3[(2) Nothing in this section shall apply to any goods the import of which is prohibited by or under any law.]",
+      "entity_concepts": {
+        "Confiscation and Disposal of Goods": [
+          "When an order of confiscation is passed under the Customs Act, the authorized officer has the discretionary power to provide the owner of the goods the option to pay a fine in lieu of the physical confiscation of those goods.",
+          "The fine imposed as an alternative to confiscation is independent of and payable in addition to any customs duty, charges, or other penalties applicable to the goods."
+        ],
+        "Prohibited Goods": [
+          "The option to pay a fine in lieu of confiscation is strictly prohibited for any goods whose import is restricted or banned under the law."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_535",
+      "entity_sub_entities": {
+        "Confiscation and Disposal of Goods": [
+          "order of confiscation",
+          "Customs Act",
+          "authorized officer",
+          "owner of the goods",
+          "fine",
+          "customs duty",
+          "charges",
+          "penalties"
+        ],
+        "Prohibited Goods": [
+          "fine",
+          "goods",
+          "import"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        37,
+        46,
+        115,
+        327,
+        425,
+        445,
+        594,
+        657,
+        2575,
+        10385
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 4,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_103",
+      "clause_title": "নির্ধারিত সময়ের মধ্যে সংশ্লিষ্ট বিল অব এন্ট্রি উপস্থাপনের পর পণ্য কাস্টমস কর্তৃক শুল্কায়ন এবং ছাড় প্রদান না করার ক্ষেত্রে পদ্ধতি",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_103",
+      "resolved_text": "৮২ক। নির্ধারিত সময়ের মধ্যে সংশ্লিষ্ট বিল অব এন্ট্রি উপস্থাপনের পর পণ্য কাস্টমস কর্তৃক শুল্কায়ন এবং ছাড় প্রদান না করার ক্ষেত্রে পদ্ধতি।— যে ক্ষেত্রে এই আইনের বিধানাবলীর অধীন আটককৃত, রদ্ধকৃত, বাজেয়াপ্তকৃত, ন্যায়নির্ণয়ধীন অথবা আপীলাধীন পণ্য ব্যতীত অন্য কোন পণ্য, যাহার জন্য বিল অব লেডিং এন্ট্রি যথাযথভাবে উপস্থাপন করা হইয়াছে, তাহা সাত কার্যদিবসের মধ্যে শুল্কায়ন এবং ছাড় প্রদান করা না হয় সেই ক্ষেত্রে উক্ত পণ্যের মালিক তিনি যাহাতে শুল্ক এবং কর প্রদান পূর্বক পণ্য খালাস নিতে সক্ষম হন তাহার জন্য সকল কাস্টমস আনুষ্ঠানিকতা তিনটি কার্যদিবসের মধ্যে চূড়ান্ত করার জন্য কমিশনারকে নোটিশ প্রদান করিতে পারিবেন এবং উক্ত কমিশনার অথবা তাহার পক্ষে ক্ষমতাপ্রাপ্ত কোন কর্মকর্তা, আমদানি বৈধ হইলে, শুল্কায়ন সম্পন্ন করিবেন অথবা আমদানি বৈধ না হইলে, কারণ দর্শানো নোটিশ জারী করিবেন।\n\nব্যাখ্যা : এই ধারার উদ্দেশ্য পূরণকল্পে “আটককৃত পণ্য” বলিতে রাসায়নিক পরীক্ষা অথবা তেজস্ক্রিয়তা পরীক্ষার জন্য অথবা শ্রেণীবিন্যাস, মূল্য, আমদানিরযোগ্যতার বিষয়ে অথবা অন্য কোন আইনগত বিরোধ নিষ্পত্তির লক্ষ্যে মতার্থে প্রেরণের জন্য আটককৃত পণ্য অন্তর্ভুক্ত হইবে।",
+      "entity_concepts": {
+        "Bill of Entry": [
+          "The submission of a Bill of Entry is a mandatory procedural step for the clearance of imported goods.",
+          "When goods for which a Bill of Entry has been properly submitted are not assessed or released within seven working days, the importer may trigger a formal notification process to expedite the remaining customs formalities."
+        ],
+        "Customs Clearance": [
+          "Customs authorities are required to complete the assessment and release of goods within a specified timeframe following the submission of a Bill of Entry, excluding goods that are detained, seized, or under adjudication or appeal.",
+          "If clearance is delayed beyond the prescribed period, the importer can notify the Commissioner to finalize all customs formalities within three working days."
+        ],
+        "Commissioner of Customs": [
+          "Upon receiving a notification regarding delayed customs clearance, the Commissioner or an authorized officer must complete the assessment if the import is found to be legal.",
+          "If the import is determined to be non-compliant or illegal, the Commissioner is required to issue a show-cause notice to the importer."
+        ],
+        "Detained Goods": [
+          "Detained goods include items held for chemical analysis, radioactive testing, or for the purpose of resolving legal disputes regarding classification, valuation, or import eligibility."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_107",
+      "entity_sub_entities": {
+        "Bill of Entry": [
+          "imported goods"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "Bill of Entry",
+          "Commissioner"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner",
+          "authorized officer",
+          "import",
+          "show-cause notice",
+          "importer"
+        ],
+        "Detained Goods": [
+          "items",
+          "chemical analysis",
+          "radioactive testing",
+          "classification",
+          "valuation",
+          "import eligibility"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        27,
+        39,
+        51,
+        64,
+        117,
+        378,
+        418,
+        445,
+        471,
+        512,
+        594,
+        1021,
+        1675,
+        11174
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_103",
+      "clause_title": "Procedure in case of goods not assessed or out-passed by Customs after presentation of the related bill of entry within a specified period",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_103",
+      "resolved_text": "82A. Procedure in case of goods not assessed or out-passed by Customs after presentation of the related bill of entry within a specified period.- If any goods, other than goods detained, seized, confiscated, under adjudication or appeal under the provisions of this Act, for which a bill of entry has duly been presented, are not assessed and out-passed within seven working days the owner of such goods may serve a notice upon the Commissioner to finalize the Customs formalities within three working days enabling him to pay duty and taxes and clear the goods, and the said Commissioner or any officer authorized on his behalf shall do so, if the import is in order, or issue a show cause notice if the import is not in order.\nExplanation.- For the purpose of this section \"detained goods\" include goods detained for chemical examination, radiation test, reference for resolution disputes on of classification, value, ITC aspect or any other legal disputes.]",
+      "entity_concepts": {
+        "Bill of Entry": [
+          "This entity represents the document presented to Customs for the clearance of imported goods.",
+          "The submission of a bill of entry initiates the customs assessment process and triggers the timeline for the finalization of customs formalities."
+        ],
+        "Detained Goods": [
+          "These are goods held by customs authorities for specific reasons such as chemical examination, radiation testing, or disputes regarding classification, valuation, and import policy requirements.",
+          "Detained goods are explicitly excluded from the simplified procedure for clearance when assessment or out-passing is delayed beyond the specified time frame."
+        ],
+        "Seized Goods": [
+          "These goods are excluded from the expedited clearance procedure applicable to goods awaiting assessment or out-passing."
+        ],
+        "Confiscated Goods": [
+          "These goods are excluded from the expedited clearance procedure applicable to goods awaiting assessment or out-passing."
+        ],
+        "Adjudication of Customs Cases": [
+          "Goods subject to pending adjudication under the provisions of the Customs Act are ineligible for the fast-track clearance notice process defined for delayed assessments."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs or an authorized officer is responsible for finalizing customs formalities within a set time frame upon receiving a notice from the goods owner.",
+          "If the import formalities are not in order, the Commissioner or authorized officer must issue a show cause notice to the importer."
+        ],
+        "Show Cause Notice": [
+          "This legal instrument is issued by the Commissioner of Customs when the import documentation or status is found to be non-compliant or not in order."
+        ],
+        "Customs Clearance Procedure": [
+          "A procedural framework is established to ensure goods are assessed and out-passed within a specific period after the submission of the bill of entry.",
+          "When delays occur, owners of goods may invoke a notice procedure to compel the customs authority to complete assessment or provide a formal explanation for non-compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_430",
+      "entity_sub_entities": {
+        "Bill of Entry": [
+          "document",
+          "imported goods"
+        ],
+        "Detained Goods": [
+          "goods",
+          "chemical examination",
+          "radiation testing",
+          "classification",
+          "valuation",
+          "import policy requirements"
+        ],
+        "Seized Goods": [
+          "goods"
+        ],
+        "Confiscated Goods": [
+          "goods"
+        ],
+        "Adjudication of Customs Cases": [
+          "goods",
+          "Customs Act"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "authorized officer",
+          "goods owner",
+          "importer"
+        ],
+        "Show Cause Notice": [
+          "legal instrument",
+          "import documentation"
+        ],
+        "Customs Clearance Procedure": [
+          "procedural framework",
+          "goods",
+          "bill of entry",
+          "notice procedure",
+          "customs authority"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        8,
+        23,
+        27,
+        37,
+        39,
+        41,
+        210,
+        251,
+        314,
+        344,
+        409,
+        418,
+        445,
+        471,
+        512,
+        675,
+        1096,
+        1178,
+        4075,
+        6333,
+        8856,
+        10122,
+        11167
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_196",
+      "clause_title": "Things seized how dealt with",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_196",
+      "resolved_text": "169. Things seized how dealt with.- (1) All things seized on the ground that they are liable to confiscation under this Act shall, without unnecessary delay, be delivered into the care of the officer of customs authorised to receive the same.\n(2) If there be no such officer at hand, at hand, all such things shall be carried to and deposited at the custom-house nearest to the place of seizure.\n(3) If there be no custom-house within a convenient distance, such things shall be deposited at the nearest place appointed by the 2[Commissioner of Customs] for the deposit of things so seized.\n(4) If the 2[Commissioner of Customs] or any other officer of customs authorised by him in this behalf considers that any things is perishable or liable to rapid deterioration, he shall immediately cause it to be sold in accordance with the provisions of section 201 and have the proceeds kept in deposit pending adjudication of the case:\n3[Provided that where practicable samples of such things with proper identification marks may be kept for the purpose of any legal proceeding or for any other purpose of this Act.]\n(5) If on such adjudication the thing so sold is found not to have been liable to such confiscation, the entire sale proceeds, after necessary deduction of duties, taxes or dues as provided in section 201, shall be handed over to the owner.",
+      "entity_concepts": {
+        "Seizure of Goods": [
+          "All goods seized on the grounds of being liable for confiscation under the Customs Act must be delivered promptly to an authorized officer of customs.",
+          "When no authorized officer is available, seized goods must be deposited at the nearest custom-house or at a place specifically designated by the Commissioner of Customs."
+        ],
+        "Perishable and Hazardous Goods": [
+          "If seized items are perishable or subject to rapid deterioration, the Commissioner of Customs or an authorized officer must arrange for their immediate sale.",
+          "The proceeds from the sale of such goods are held in deposit pending the final adjudication of the customs case, although samples may be retained for legal proceedings."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is empowered to appoint specific locations for the storage of seized goods when a custom-house is not within a convenient distance.",
+          "The Commissioner of Customs or an authorized delegate has the authority to order the immediate sale of perishable seized items."
+        ],
+        "Confiscation and Disposal of Goods": [
+          "Following the adjudication of a case, if seized goods that were sold are determined not to have been liable for confiscation, the net sale proceeds must be returned to the owner after accounting for all applicable duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_523",
+      "entity_sub_entities": {
+        "Seizure of Goods": [
+          "goods",
+          "authorized officer of customs",
+          "custom-house",
+          "place",
+          "Commissioner of Customs"
+        ],
+        "Perishable and Hazardous Goods": [
+          "seized items",
+          "Commissioner of Customs",
+          "authorized officer",
+          "proceeds",
+          "samples"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "locations",
+          "seized goods",
+          "custom-house",
+          "authorized delegate",
+          "perishable seized items"
+        ],
+        "Confiscation and Disposal of Goods": [
+          "seized goods",
+          "net sale proceeds",
+          "owner",
+          "duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        13,
+        30,
+        120,
+        210,
+        275,
+        362,
+        438,
+        445,
+        1249,
+        1275,
+        1441,
+        1473,
+        2186,
+        2363,
+        2379,
+        2493,
+        2575,
+        10600
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_208",
+      "clause_title": "Option to pay fine in lieu of confiscated goods",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_208",
+      "resolved_text": "181. Option to pay fine in lieu of confiscated goods.- 2[(1)] Whenever an order for the confiscation of goods is passed under this Act, the officer passing the order may give the owner of the goods an option to pay in lieu of the confiscation of the goods such fine as the officer thinks fit.\nExplanation.- Any fine in lieu of confiscation of goods imposed under this section shall be in addition to any duty and charges payable in respect of such goods, and of any penalty that might have been imposed in addition to the confiscation of goods.\n3[(2) Nothing in this section shall apply to any goods the import of which is prohibited by or under any law.]",
+      "entity_concepts": {
+        "Confiscation and Disposal of Goods": [
+          "When an order of confiscation is passed under the Customs Act, the authorized officer has the discretionary power to provide the owner of the goods the option to pay a fine in lieu of the physical confiscation of those goods.",
+          "The fine imposed as an alternative to confiscation is independent of and payable in addition to any customs duty, charges, or other penalties applicable to the goods."
+        ],
+        "Prohibited Goods": [
+          "The option to pay a fine in lieu of confiscation is strictly prohibited for any goods whose import is restricted or banned under the law."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_535",
+      "entity_sub_entities": {
+        "Confiscation and Disposal of Goods": [
+          "order of confiscation",
+          "Customs Act",
+          "authorized officer",
+          "owner of the goods",
+          "fine",
+          "customs duty",
+          "charges",
+          "penalties"
+        ],
+        "Prohibited Goods": [
+          "fine",
+          "goods",
+          "import"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        37,
+        46,
+        115,
+        327,
+        425,
+        445,
+        594,
+        657,
+        2575,
+        10385
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

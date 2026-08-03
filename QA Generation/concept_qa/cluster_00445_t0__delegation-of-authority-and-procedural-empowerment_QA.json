@@ -1,0 +1,236 @@
+{
+  "thread_id": "cluster_00445_t0",
+  "cluster_id": 445,
+  "cluster_label": "authorized officer",
+  "title": "Delegation of Authority and Procedural Empowerment",
+  "source_num_member_objects": 7,
+  "num_qa_pairs": 15,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the role of the 'authorized officer' evolved from a manual-based hierarchical model to a digital-integrated framework?",
+      "answer": "The role has shifted from performing physical oversight, such as manual countersigning of documents, to a system-based verification model. As evidenced in the Customs Act (undated) and recent directives, the officer's responsibilities now include managing electronic system interactions and verifying digital filings, which are legally recognized as equivalent to physical countersignatures.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_59",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_66",
+        "customs-act-1969-english_8th March, 1969_clause_272",
+        "customs-act-1969-english_8th March, 1969_clause_66",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What factors have driven the expansion of the authorized officer's scope beyond traditional administrative clearance tasks?",
+      "answer": "The scope has expanded due to the need for increased financial and compliance oversight. According to the 2025-01-21 Customs/VAT Directive, officers now manage financial cost recovery for physical examinations and Merchandise Overtime (MOT) fees, while the AEO Rules 2024 empower them to process formal error reporting and compliance monitoring for Authorized Economic Operators.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what ways has the integration of the Customs Computerised Entry Processing System changed the procedural requirements for authorized officers?",
+      "answer": "The system has replaced physical presence and manual signing with electronic transmission protocols. Under the Customs Act (undated), when manifests or port clearance applications are submitted via the customs computer system, the officer's electronic processing is deemed a valid countersignature, provided they follow the Commissioner of Customs' periodic directions.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_59",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_66",
+        "customs-act-1969-english_8th March, 1969_clause_272",
+        "customs-act-1969-english_8th March, 1969_clause_66",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2025-02-16 AEO Rules 2024 instrument reflect the transition of the authorized officer into a compliance-focused role?",
+      "answer": "The AEO Rules 2024 formalize the officer's role as a recipient of operational error reports, requiring them to review the nature of errors, intent, and corrective measures taken by operators. This marks a shift from simple clearance oversight to a more analytical role in monitoring the compliance and integrity of Authorized Economic Operators.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the significance of the authorized officer's new authority regarding financial cost recovery as of January 2025?",
+      "answer": "The 2025-01-21 Customs/VAT Directive grants the authorized officer the power to mandate that importers or exporters bear costs associated with physical examinations. This includes travel expenses for officers and Merchandise Overtime (MOT) fees, explicitly linking the officer's authority to the financial operational costs of customs examination activities.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the evolving responsibilities of the authorized officer balance administrative flexibility with accountability?",
+      "answer": "The evolution balances flexibility, such as the Commissioner's ability to allow shorter application timelines for port clearance, with strict accountability. This is seen in the requirement for officers to provide certified true copies of decisions upon application (Customs Act 1969) and the formalization of error reporting procedures in the 2025 AEO Rules, ensuring transparency in both administrative and compliance-related actions.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the January 21, 2025 Customs/VAT Directive, authorized officers are now empowered to instruct importers or exporters to cover costs related to physical examination, including Merchandise Overtime (MOT) fees and incidental travel expenses.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. Per the 2025-01-21 Customs/VAT Directive, the authorized officer is empowered to mandate that importers or exporters bear the costs for physical examination, including MOT fees and incidental travel expenses.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the AEO Rules 2024, which were formalized on February 16, 2025, authorized officers at the AEO Center are responsible for receiving and processing error reports submitted by Authorized Economic Operators.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. The AEO Rules 2024 (formalized 2025-02-16) designate the authorized officer at the AEO Center, Customs House, or Customs Station as the recipient for formal error reporting.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, an application for port clearance must be submitted by the vessel's master at least forty-eight hours prior to the vessel's intended departure.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "forty-eight hours",
+      "correct_fact": "twenty-four hours",
+      "answer": "The statement is inaccurate. According to the Customs Act 1969, the application for port clearance must be submitted at least twenty-four hours before the intended departure, not forty-eight hours.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_59",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_66",
+        "customs-act-1969-english_8th March, 1969_clause_272",
+        "customs-act-1969-english_8th March, 1969_clause_66",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Commissioner of Customs or an authorized officer is mandated to deliver a certified true copy of a customs decision to an interested applicant within 30 days of receiving the application.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "30 days",
+      "correct_fact": "15 days",
+      "answer": "The statement is inaccurate. Per Section 215A of the Customs Act 1969, the Commissioner of Customs or an authorized officer must deliver the certified true copy of a decision within 15 days of the application.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_59",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_66",
+        "customs-act-1969-english_8th March, 1969_clause_272",
+        "customs-act-1969-english_8th March, 1969_clause_66",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "When an import manifest is submitted electronically through the customs computer system, it is legally deemed to be countersigned by the authorized officer, provided they comply with the Commissioner of Customs' directions.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate based on the Customs Act 1969 provisions regarding electronic transmission of import manifests.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_59",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_66",
+        "customs-act-1969-english_8th March, 1969_clause_272",
+        "customs-act-1969-english_8th March, 1969_clause_66",
+        "metadata_8"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The official form for amending a cargo declaration or submitting a supplementary cargo declaration is known as 'Form-B' under the relevant customs procedures.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Form-B",
+      "correct_fact": "Form-Ga (ফরম-গ)",
+      "answer": "The statement is inaccurate. According to the 2025-06-02 administrative order (230-AIN_2025_52_Customs), the official application form for cargo declaration amendments is 'Form-Ga' (ফরম-গ).",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer is dealing with a customs officer regarding an import shipment. In early January 2025, the officer requires the importer to cover costs for a physical examination, including MOT fees. By late February 2025, the importer, who is also an AEO-certified entity, discovers a clerical error in their documentation and must report it to the authorities.",
+      "question": "How has the scope of the authorized officer's responsibilities changed between the January 2025 directive and the February 2025 AEO Rules regarding their interaction with importers?",
+      "answer": "The scope expanded from financial oversight—specifically empowering the officer to mandate importer payment for physical examination costs and MOT fees as of January 21, 2025—to including compliance monitoring, where the officer is formally designated to receive and process mandatory error reports from AEOs as of February 16, 2025.",
+      "clauses_involved": [
+        "2025-01-21 | Customs/VAT Directive",
+        "2025-02-16 | AEO Rules 2024"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "less than one month later",
+      "question": "In the Customs/VAT Directive issued on 2025-01-21, the scope of authorized officers was expanded to include financial oversight; how did the role of the authorized officer evolve less than one month later regarding AEO compliance?",
+      "answer": "On 2025-02-16, the AEO Rules 2024 were formalized, which mandated that authorized officers take on the specific role of receiving and processing formal error reporting and non-compliance notifications from Authorized Economic Operators.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The role of the authorized officer is formalized to include the processing of error reporting submitted by operators under specific recognition rules.",
+        "The scope of authority for designated officers is expanded to include the imposition of costs on importers or exporters for physical examination activities, including travel and incidental expenses.",
+        "The authorized officer is legally empowered to countersign import manifests submitted through the computer system and permit shortened application windows for vessel port clearance."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The authorized officer is legally empowered to countersign import manifests submitted through the computer system and permit shortened application windows for vessel port clearance.",
+          "date": "1969-01-01"
+        },
+        {
+          "event": "The scope of authority for designated officers is expanded to include the imposition of costs on importers or exporters for physical examination activities, including travel and incidental expenses.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "The role of the authorized officer is formalized to include the processing of error reporting submitted by operators under specific recognition rules.",
+          "date": "2025-02-16"
+        }
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_59",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_113",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_39"
+      ],
+      "clause_source_files": [
+        "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00445_t0__delegation-of-authority-and-procedural-empowerment.json"
+    }
+  ]
+}

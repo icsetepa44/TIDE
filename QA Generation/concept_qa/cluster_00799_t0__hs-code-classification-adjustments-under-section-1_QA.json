@@ -1,0 +1,289 @@
+{
+  "thread_id": "cluster_00799_t0",
+  "cluster_id": 799,
+  "cluster_label": "Section 14(2)",
+  "title": "HS Code Classification Adjustments under Section 14(2)",
+  "source_num_member_objects": 11,
+  "num_qa_pairs": 18,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 5,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 4
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 170-AIN/2012, issued on June 7, 2012, amended HS codes within the framework of SRO 143/2009 using legal authority from Section 14(2) of the VAT Act, 1991.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 170-AIN/2012 was indeed issued on June 7, 2012, to amend SRO 143/2009 under the authority of Section 14(2) of the VAT Act, 1991.",
+      "clause_text_ids": [
+        "20120607_170-AIN_2012_2398-Customs_২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ/০৭ জুন, ২০১২ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to SRO 154-AIN/2013, the National Board of Revenue amended SRO 143/2009 on June 6, 2013, by replacing entry 2933.59.00 with 2933.59.90.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 154-AIN/2013, issued on June 6, 2013, mandated the replacement of entry 2933.59.00 with 2933.59.90 in SRO 143/2009.",
+      "clause_text_ids": [
+        "20130606_154-AIN_2013_2241-Customs_০৬ জুন, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 169-AIN/2016, issued on June 2, 2016, provided the legal basis for amending SRO 11/2005 using Section 14(2) of the VAT Act, 1991.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 169-AIN/2016, dated June 2, 2016, utilized Section 14(2) of the VAT Act, 1991, to amend SRO 11/2005.",
+      "clause_text_ids": [
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 183-AIN/2010, issued on October 30, 2010, amended SRO 143/2009 by updating various tariff entries related to metal pipes and electrical machinery.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "SRO 143/2009",
+      "correct_fact": "SRO 74/2005",
+      "answer": "The statement is inaccurate. SRO 183-AIN/2010 amended SRO 74/2005, not SRO 143/2009.",
+      "clause_text_ids": [
+        "20100610_181-AIN_2010_2299-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 222-AIN/2016, issued on July 1, 2016, amended SRO 143/2009 to replace HS Code 3402.13.00 with 3402.13.90.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 222-AIN/2016, issued on July 1, 2016, updated HS Code 3402.13.00 to 3402.13.90 within SRO 143/2009.",
+      "clause_text_ids": [
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 161-AIN/2019 was issued on May 30, 2018, to amend SRO 143/2009 regarding mineral oil classifications.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "May 30, 2018",
+      "correct_fact": "May 30, 2019",
+      "answer": "The statement is inaccurate. SRO 161-AIN/2019 was issued on May 30, 2019, not 2018.",
+      "clause_text_ids": [
+        "20190530_161-AIN_2019_30_Customs_৩০ মে, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "On June 10, 2010, the National Board of Revenue issued SRO 181-AIN/2010 to amend SRO 143/2009 by replacing HS code 2903.69.00 with 2903.99.00.",
+      "question": "Does the claim that SRO 181-AIN/2010 replaced HS code 2903.69.00 with 2903.99.00 accurately reflect the historical record of HS code adjustments?",
+      "conflict": "The misaligned context incorrectly attributes an amendment that occurred in 2012 to the 2010 SRO 181-AIN/2010.",
+      "answer": "No, this is incorrect. According to the provided timeline, the replacement of HS code 2903.69.00 with 2903.99.00 was actually implemented by SRO 170-AIN/2012 on June 7, 2012, not by SRO 181-AIN/2010.",
+      "clause_text_ids": [
+        "20100610_181-AIN_2010_2299-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_170-AIN_2012_2398-Customs_২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ/০৭ জুন, ২০১২ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In the 2016 amendment SRO 168-AIN/2016, the National Board of Revenue updated the HS code for metal pipes under Heading 73.05 by replacing 7305.31.10 with 7305.31.00.",
+      "question": "Is it true that SRO 168-AIN/2016 was the regulatory instrument used to update Heading 73.05 for metal pipes?",
+      "conflict": "The context incorrectly links the 2010 amendment of Heading 73.05 to the 2016 SRO 168-AIN/2016.",
+      "answer": "No, this is incorrect. The update for Heading 73.05 (replacing 7305.31.10 with 7305.31.00) was enacted by SRO 183-AIN/2010 on October 30, 2010, whereas SRO 168-AIN/2016 focused on chemical and petroleum products.",
+      "clause_text_ids": [
+        "20100610_181-AIN_2010_2299-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the authority of Section 14(2) of the VAT Act, 1991, the government issued SRO 154-AIN/2013 to amend SRO 11-AIN/2005 by updating the entry for chemical products.",
+      "question": "Was SRO 154-AIN/2013 used to amend SRO 11-AIN/2005 as stated?",
+      "conflict": "The context misidentifies the target SRO being amended by SRO 154-AIN/2013.",
+      "answer": "No, this is incorrect. SRO 154-AIN/2013, issued on June 6, 2013, specifically amended SRO 143-AIN/2009, not SRO 11-AIN/2005.",
+      "clause_text_ids": [
+        "20130606_154-AIN_2013_2241-Customs_০৬ জুন, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "On June 2, 2016, the government issued SRO 169-AIN/2016 to modify Table-1 of SRO 143-AIN/2009 regarding chemical product classifications.",
+      "question": "Does the description of SRO 169-AIN/2016 align with the established regulatory history?",
+      "conflict": "The context incorrectly assigns the target of the amendment to SRO 143-AIN/2009 instead of SRO 11-AIN/2005.",
+      "answer": "No, this is incorrect. SRO 169-AIN/2016, issued on June 2, 2016, amended SRO 11-AIN/2005. Amendments to SRO 143-AIN/2009 on that same date were handled by SRO 168-AIN/2016.",
+      "clause_text_ids": [
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "The amendment of HS code 3402.13.00 to 3402.13.90 was finalized in the 2015 notification SRO 158-AIN/2015.",
+      "question": "Was the transition of HS code 3402.13.00 to 3402.13.90 part of the 2015 regulatory changes?",
+      "conflict": "The context incorrectly attributes a 2016 amendment to the 2015 regulatory cycle.",
+      "answer": "No, this is incorrect. The amendment of HS code 3402.13.00 to 3402.13.90 was actually implemented by SRO 222-AIN/2016 on July 1, 2016, not by SRO 158-AIN/2015.",
+      "clause_text_ids": [
+        "20150604_158-AIN_2015_38-Customs_৪ জুন, ২০১৫_clause_1",
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been tracking amendments to SRO 143/2009 since its initial modification in 2010. They note that SRO 181-AIN/2010 first amended this order, and subsequent updates were issued in 2012, 2013, 2016, 2017, and 2019. The importer observes that while the specific HS codes being adjusted change with each SRO, the legal basis cited for these amendments remains consistent across the decade.",
+      "question": "Which specific provision of the VAT Act, 1991 has consistently served as the enabling legal authority for the National Board of Revenue to issue these periodic amendments to SRO 143/2009 from 2010 through 2019?",
+      "answer": "Section 14(2) of the VAT Act, 1991.",
+      "clauses_involved": [
+        "2010-06-10 | SRO 181-AIN/2010",
+        "2012-06-07 | SRO 170-AIN/2012",
+        "2013-06-06 | SRO 154-AIN/2013",
+        "2016-06-02 | SRO 168-AIN/2016",
+        "2017-06-01 | SRO 152-AIN/2017",
+        "2019-05-30 | SRO 161-AIN/2019"
+      ],
+      "clause_text_ids": [
+        "20100610_181-AIN_2010_2299-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_170-AIN_2012_2398-Customs_২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ/০৭ জুন, ২০১২ খ্রিষ্টাব্দ_clause_1",
+        "20130606_154-AIN_2013_2241-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1",
+        "20170601_152-AIN__১ জুন, ২০১৭_clause_1",
+        "20190530_161-AIN_2019_30_Customs_৩০ মে, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs official is reviewing the history of amendments made to SRO 11/2005. They see that an amendment was issued in 2010 (SRO 185-AIN/2010), followed by further updates in 2015 (SRO 158-AIN/2015) and 2016 (SRO 169-AIN/2016).",
+      "question": "How did the legal authority cited for the 2016 amendment (SRO 169-AIN/2016) compare to the 2010 amendment (SRO 185-AIN/2010) regarding the primary VAT Act provision?",
+      "answer": "Both amendments cited Section 14(2) of the VAT Act, 1991 as the legal authority for the issuance of the notifications.",
+      "clauses_involved": [
+        "2010-06-10 | SRO 185-AIN/2010",
+        "2016-06-02 | SRO 169-AIN/2016"
+      ],
+      "clause_text_ids": [
+        "20100610_181-AIN_2010_2299-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20150604_158-AIN_2015_38-Customs_৪ জুন, ২০১৫_clause_1",
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "two years later",
+      "question": "Two years after the issuance of SRO 143/2009 amendments in 2010, which regulatory order was issued to further amend the HS codes in that same original order?",
+      "answer": "In 2012, SRO 170-AIN/2012 was issued, providing further amendments to the HS codes originally listed in SRO 143/2009, utilizing the legal authority of Section 14(2) of the VAT Act, 1991.",
+      "clause_text_ids": [
+        "20100610_181-AIN_2010_2299-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20101030_183-AIN_2010_2301-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_170-AIN_2012_2398-Customs_২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ/০৭ জুন, ২০১২ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-06-06",
+      "relative_offset": "three years later",
+      "question": "Three years after the 2013 amendment to SRO 143/2009, which SRO was published on June 2, 2016, to continue the refinement of HS codes under the same framework?",
+      "answer": "SRO 168-AIN/2016 was issued on June 2, 2016, to further amend the HS codes in SRO 143/2009, relying on the enabling authority of Section 14(2) of the VAT Act, 1991.",
+      "clause_text_ids": [
+        "20130606_154-AIN_2013_2241-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "one month later",
+      "question": "One month after the SRO 168-AIN/2016 and SRO 169-AIN/2016 amendments, what specific regulatory order was issued on July 1, 2016, to further adjust HS codes in SRO 143/2009?",
+      "answer": "SRO 222-AIN/2016 was issued on July 1, 2016, providing further amendments to the HS codes within SRO 143/2009 under the authority of Section 14(2) of the VAT Act, 1991.",
+      "clause_text_ids": [
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20160701_222-AIN_2016_49-Customs_০১ জুলাই, ২০১৬_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "two years later",
+      "question": "Two years after the 2017 amendment to SRO 143/2009, what was the next instrument issued to govern further HS code amendments for that order?",
+      "answer": "SRO 161-AIN/2019, issued on May 30, 2019, introduced further amendments to the HS codes in SRO 143/2009, citing Section 14(2) of the VAT Act, 1991 as the governing authority.",
+      "clause_text_ids": [
+        "20170601_152-AIN__১ জুন, ২০১৭_clause_1",
+        "20190530_161-AIN_2019_30_Customs_৩০ মে, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order.",
+      "events_shuffled": [
+        "The National Board of Revenue replaces H.S. Code 2933.59.00 with 2933.59.90 for entries in the order related to duty exemptions.",
+        "The National Board of Revenue replaces H.S. Code 2942.00.00 with 2942.00.90 and 2707.50.00 with 2707.50.90 in the established tables.",
+        "The National Board of Revenue replaces H.S. Code 2903.69.00 with 2903.99.00 and 2931.00.00 with 2931.90.00 in the established tables."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The National Board of Revenue replaces H.S. Code 2903.69.00 with 2903.99.00 and 2931.00.00 with 2931.90.00 in the established tables.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The National Board of Revenue replaces H.S. Code 2933.59.00 with 2933.59.90 for entries in the order related to duty exemptions.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The National Board of Revenue replaces H.S. Code 2942.00.00 with 2942.00.90 and 2707.50.00 with 2707.50.90 in the established tables.",
+          "date": "2016-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20120607_170-AIN_2012_2398-Customs_২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ/০৭ জুন, ২০১২ খ্রিষ্টাব্দ_clause_1",
+        "20130606_154-AIN_2013_2241-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_168-AIN_2016_30-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_170-AIN_2012_2398-Customs/20120607_170-AIN_2012_2398-Customs_output.json",
+        "customs_sros_OCR/20130606_154-AIN_2013_2241-Customs/20130606_154-AIN_2013_2241-Customs_output.json",
+        "customs_sros_OCR/20160602_168-AIN_2016_30-Customs/20160602_168-AIN_2016_30-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00799_t0__hs-code-classification-adjustments-under-section-1.json"
+    }
+  ]
+}

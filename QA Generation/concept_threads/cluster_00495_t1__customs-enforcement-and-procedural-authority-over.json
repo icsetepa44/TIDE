@@ -1,0 +1,944 @@
+{
+  "cluster_id": 495,
+  "cluster_label": "persons",
+  "thread_index": 1,
+  "thread_id": "cluster_00495_t1",
+  "title": "Customs Enforcement and Procedural Authority over Persons",
+  "summary": "This thread covers the evolving powers of customs officers to search, summon, and regulate the conduct of persons within customs areas. It spans from general enforcement powers in the 1969 Act to specific modern procedural requirements for digital system access and warehouse security.",
+  "evolution": {
+    "scope": "Expansion from general anti-smuggling powers to specific operational security and digital registration requirements."
+  },
+  "timeline": [
+    {
+      "date": "2021-12-20",
+      "instrument": "Warehouse Directive",
+      "change": "Introduction of specific security protocols for persons entering bonded warehouses.",
+      "clause_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12"
+      ]
+    }
+  ],
+  "num_member_objects": 11,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "নিয়ন্ত্রণকারী কর্মকর্তার দায়িত্ব",
+      "text_id": "20211220_২০ ডিসেম্বর, ২০২১_clause_12",
+      "resolved_text": "১২ । নিয়ন্ত্রণকারী কর্মকর্তার দায়িত্ব:\n\n(১) মূল্যবান গুদামের LOCK & KEY ব্যবহার্য নিয়ন্ত্রণকারী কর্মকর্তার অনুমোদনক্রমে মূল্যবান গুদামের প্রবেশদ্বার উন্মুক্ত করা হবে, এক্ষেত্রে সঠিক ব্যক্তিবর্গের প্রবেশ নিশ্চিত করার দায় নিয়ন্ত্রণকারী কর্মকর্তার।\n\n(২) জরুরী প্রয়োজনে মূল্যবান গুদামে গুদাম কর্মকর্তা ব্যতীত ভিন্ন ব্যক্তির প্রবেশকালে নিয়ন্ত্রণকারী কর্মকর্তা উপস্থিত থাকবেন ও তথ্যাদি প্রবেশ রেজিস্টারে লিপিবদ্ধ করবেন।\n\n(৩) গুদাম প্রবেশ দ্বারে দেহ তল্লাশি কার্যক্রম সুচারুভাবে নিশ্চিত হচ্ছে কি'না মনিটর করবেন।\n\n(৪) নিয়ন্ত্রণকারী কর্মকর্তা দৈবচয়ন নিয়মিত গুদাম কর্মকর্তা ও গুদামে গমনাগমনকারী ব্যক্তির দেহ তল্লাশি করবেন।",
+      "entity_concepts": {
+        "Lock": [
+          "The use of locks and keys for a warehouse containing valuable goods must be approved and controlled by the designated officer to ensure security."
+        ],
+        "Customs Authority": [
+          "The designated controlling officer is responsible for supervising warehouse access and ensuring that only authorized personnel enter the premises.",
+          "The officer must monitor the implementation of physical body searches at the warehouse entry points.",
+          "The officer is required to conduct random body searches of warehouse staff and any other persons entering or leaving the warehouse area.",
+          "In cases of emergency, the officer must personally oversee the entry of any individual other than the regular warehouse official and ensure that the entry details are recorded in the official register."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_638",
+      "entity_sub_entities": {
+        "Lock": [
+          "locks",
+          "keys",
+          "warehouse"
+        ],
+        "Customs Authority": [
+          "designated controlling officer",
+          "warehouse",
+          "authorized personnel",
+          "physical body searches",
+          "warehouse entry points",
+          "warehouse staff",
+          "persons",
+          "regular warehouse official",
+          "official register"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        74,
+        183,
+        492,
+        495,
+        860,
+        1502,
+        1826,
+        1913,
+        2898,
+        10671,
+        13327
+      ],
+      "source_file": "customs_gos_OCR/20211220/20211220_output.json",
+      "clause_date": "2021-12-20"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_160",
+      "clause_title": "রপ্তানির জন্য ছাড়পত্র",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_160",
+      "resolved_text": "১৩১। রপ্তানির জন্য ছাড়পত্র।— (১) রপ্তানির জন্য কোন পণ্য বোঝাই করা যাইবে না, যতক্ষণ পর্যন্ত না-\n(ক) যাত্রী ব্যাগেজ এবং মেইল ব্যাগ ব্যতীত অন্য পণ্যের ক্ষেত্রে-\n(অ) বোর্ড, আদেশ দ্বারা, সময়ে সময়ে, যেরূপ নির্দেশ প্রদান করে সেইরূপ বিবরণ সম্বলিত ফরম এবং পদ্ধতিতে যথাযথ কর্মকর্তার নিকট পণ্যের মালিক বিল অব এক্সপোর্ট অর্পণ করেন অথবা মালিক wehk নিবন্ধিত ব্যবহারকারী হন তবে কাস্টমস কম্পিউটার সিস্টেমে উহা প্রেরণ করেন ;\nতবে শর্ত থাকে যে, যিনি কাস্টমস কম্পিউটার সিস্টেমে ইলেকট্রনিক মাধ্যমে বিল অব এক্সপোর্ট প্রেরণ করিয়াছেন কমিশনার অব কাস্টমস তাহাকে যথাযথ কর্মকর্তার নিকট ছয় মাস সময়ের মধ্যে তাঁহার দ্বারা অথবা তাঁহার মনোনীত এজেন্ট কর্তৃক স্বাক্ষরিত উক্ত কমিশনারের যেরূপ নির্ধারণ করেন সেইরূপ তথ্য সম্বলিত একটি কাগজের বিল অব এক্সপোর্ট দাখিল করিতে বাধ্য করিতে পারিবেন;\n(আ) উক্ত মালিক পণ্যের উপর প্রদেয় শুল্ক সমূহ পরিশোধ করেন;\n(ই) উক্ত বিল অব এক্সপোর্ট যথাযথ কর্মকর্তা কর্তৃক পাস করা হয়; এবং\n(খ) যাত্রী ব্যাগেজ অথবা মেইল ব্যাগের ক্ষেত্রে যথাযথ কর্মকর্তা উহা রপ্তানির অনুমতি প্রদান করেন :\nতবে শর্ত থাকে যে, বোর্ড, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, কোন কাস্টমস-স্টেশন অথবা জেটির ক্ষেত্রে, বোর্ড যেরূপ উপযুক্ত বিবেচনা করে সেইরূপ নিয়ন্ত্রণ এবং শর্তাবলী সাপেক্ষে, কোন নির্ধারিত পণ্য অথবা পণ্যশ্রেণীকে অথবা কোন নির্দিষ্ট ব্যক্তি অথবা ব্যক্তিশ্রেণীকে এই ধারার সকল অথবা যে কোন বিধান হইতে অব্যাহতি প্রদান করিতে পারিবে :\nআরও শর্ত থাকে যে, কোন বিশেষ ক্ষেত্রে যথাযথ কর্মকর্তার যখন বিশ্বাস করার যুক্তিসঙ্গত কারণ থাকে যে প্রথম শর্তাংশের অধীন প্রজ্ঞাপনে অব্যাহতি প্রদান করা হইয়াছে এমন কোন পণ্য রপ্তানির ব্যাপারে উহা বোঝাই করার পূর্বে হস্তক্ষেপ করা উচিত তখন তিনি কারণ লিপিবদ্ধ করিয়া উক্ত পণ্য অথবা বিল অব এক্সপোর্ট অথবা উভয়ই পরীক্ষা করিতে এবং এই আইনের অধীন অন্যান্য প্রয়োজনীয় ব্যবস্থা গ্রহণ করিতে পারিবেন।\n(২) যে ক্ষেত্রে উপধারা (১) এর অধীন অব্যাহতি প্রদান করা হইয়াছে এবং কোন শর্তাবলী সাপেক্ষে অথবা কোন গ্যারান্টি অথবা অঙ্গীকারনামার অধীন কোন পণ্য রপ্তানি করা হইয়াছে সেই ক্ষেত্রে রপ্তানিকারক উক্ত শর্তাবলী অথবা, ক্ষেত্রমত, গ্যারান্টি অথবা অঙ্গীকারনামার শর্তসমূহ অবিলম্বে পূরণ করিবেন এবং বিক্রয়লব্ধ অর্থ আদায়ের প্রত্যয়নপত্র অথবা রপ্তানিকৃত পণ্যের বিক্রয়লব্ধ অর্থ বাংলাদেশে প্রেরণ করার এমন অন্যান্য দলিলী সাক্ষ্যসহ বোর্ডের নিকট যেরূপ গ্রহণযোগ্য হয় সেইরূপ এতদসম্পর্কিত দলিলপত্র যথাযথ কর্মকর্তার নিকট দাখিল করিবেন।",
+      "entity_concepts": {
+        "Export Clearance": [
+          "No goods may be loaded for export unless the requirements for submitting a Bill of Export, paying applicable duties, and obtaining authorization from the appropriate customs officer are satisfied.",
+          "Specific exemptions from export procedures may be granted by the National Board of Revenue through official gazette notifications for certain goods, classes of persons, or specific customs stations under prescribed conditions."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to prescribe the forms and methods for the submission of the Bill of Export.",
+          "The Board is empowered to issue gazette notifications to exempt specific goods or persons from the standard export clearance procedures and to accept proof of export proceeds."
+        ],
+        "Bill of Export": [
+          "The owner of the goods must submit a Bill of Export to the appropriate customs officer or transmit it electronically through the Customs Computerized System.",
+          "If submitted electronically, the Commissioner of Customs may mandate the submission of a hard copy version, signed by the owner or their authorized agent, containing prescribed information."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer is responsible for passing the Bill of Export and granting permission for the export of goods.",
+          "The officer has the authority to examine goods and take necessary legal action if there is a reasonable belief that intervention is required, even if an exemption has been granted."
+        ],
+        "Customs Computerised System": [
+          "The system serves as an electronic medium for the submission of the Bill of Export by registered users."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner has the authority to require the submission of a physical Bill of Export for items previously processed through the electronic customs system."
+        ],
+        "Customs Duty": [
+          "Payment of all duties payable on the goods is a mandatory prerequisite for export clearance."
+        ],
+        "Exporter": [
+          "Exporters are obligated to fulfill any conditions, guarantees, or undertakings imposed upon them and must provide proof of export proceeds or other acceptable documentation to the customs officer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_164",
+      "entity_sub_entities": {
+        "Export Clearance": [
+          "goods",
+          "Bill of Export",
+          "duties",
+          "authorization",
+          "customs officer",
+          "exemptions",
+          "National Board of Revenue",
+          "official gazette notifications",
+          "classes of persons",
+          "customs stations"
+        ],
+        "National Board of Revenue": [
+          "forms",
+          "methods",
+          "Bill of Export",
+          "gazette notifications",
+          "goods",
+          "persons",
+          "export clearance procedures",
+          "proof of export proceeds"
+        ],
+        "Bill of Export": [
+          "owner of the goods",
+          "customs officer",
+          "Customs Computerized System",
+          "Commissioner of Customs",
+          "hard copy version",
+          "authorized agent",
+          "prescribed information"
+        ],
+        "Appropriate Officer of Customs": [
+          "Bill of Export",
+          "permission",
+          "goods",
+          "exemption"
+        ],
+        "Customs Computerised System": [
+          "Bill of Export",
+          "registered users"
+        ],
+        "Commissioner of Customs": [
+          "physical Bill of Export",
+          "electronic customs system"
+        ],
+        "Customs Duty": [
+          "duties",
+          "goods",
+          "export clearance"
+        ],
+        "Exporter": [
+          "conditions",
+          "guarantees",
+          "undertakings",
+          "proof of export proceeds",
+          "documentation",
+          "customs officer"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        10,
+        17,
+        30,
+        49,
+        63,
+        77,
+        90,
+        99,
+        118,
+        163,
+        203,
+        294,
+        317,
+        495,
+        514,
+        643,
+        657,
+        720,
+        867,
+        889,
+        1063,
+        1246,
+        1379,
+        2135,
+        2408,
+        2715,
+        6379,
+        7642,
+        7906,
+        8379,
+        8616,
+        10670,
+        10868
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_187",
+      "clause_title": "",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_187",
+      "resolved_text": "৪৯। যদি ওয়্যারহাউসকরণের জন্য এন্ট্রিকৃত কোন পণ্য যথোপযুক্ত কর্মকর্তার কর্তৃত্ব অথবা তত্ত্বাবধান ব্যতীত এবং উক্ত কর্মকর্তা যেরূপ নির্দেশ করেন সেইরূপ পদ্ধতিতে, সেইরূপ ব্যক্তি দ্বারা, সেইরূপ সময়ের মধ্যে এবং সেইরূপ রাস্তা অথবা পথ ব্যতীত অন্যভাবে ওয়্যারহাউসে আনয়ন করা হয়, — তাহা হইলে উক্ত পণ্য বহনকারী কোন ব্যক্তি অনধিক পঞ্চাশ হাজার টাকা অর্থদণ্ডে দণ্ডনীয় হইবেন; এবং উক্ত পণ্য বাজেয়াপ্তযোগ্যও হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The movement of goods into a warehouse must strictly follow the instructions of the appropriate customs officer regarding the time, route, mode of transport, and persons authorized to conduct the transfer.",
+          "Any failure to adhere to these official procedures or oversight requirements during the warehousing process constitutes a violation of customs regulations."
+        ],
+        "Customs Offence Penalties": [
+          "Any person who transports goods into a warehouse in violation of the prescribed procedures, routes, or timelines established by the appropriate officer is liable to pay a monetary fine.",
+          "In addition to the financial penalty, the goods involved in such non-compliant transport are subject to confiscation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_191",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "goods",
+          "warehouse",
+          "customs officer",
+          "time",
+          "route",
+          "mode of transport",
+          "persons",
+          "official procedures",
+          "oversight requirements",
+          "customs regulations"
+        ],
+        "Customs Offence Penalties": [
+          "person",
+          "goods",
+          "warehouse",
+          "prescribed procedures",
+          "routes",
+          "timelines",
+          "appropriate officer",
+          "monetary fine",
+          "financial penalty"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        49,
+        61,
+        69,
+        70,
+        74,
+        116,
+        175,
+        401,
+        495,
+        605,
+        2045,
+        2139,
+        2289,
+        3139,
+        4567,
+        10232,
+        10452,
+        11601
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_261",
+      "clause_title": "বাজেয়াপ্তযোগ্য পণ্য দখলে রাখেন এমন ব্যক্তির সফরসঙ্গীর শাস্তি",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_261",
+      "resolved_text": "১৭৮। বাজেয়াপ্তযোগ্য পণ্য দখলে রাখেন এমন ব্যক্তির সফরসঙ্গীর শাস্তি।— যদি দুই অথবা ততোধিক ব্যক্তি সঙ্গী হয় অথবা তাহাদের একসাথে পাওয়া যায় এবং তাহাদের অথবা তাহাদের যে কোন একজনের নিকট এই আইনের অধীন বাজেয়াপ্তযোগ্য পণ্য থাকে, তাহা হইলে এই ঘটনা সম্পর্কে জ্ঞাত আছেন এমন প্রত্যেক ব্যক্তি উক্ত অপরাধে দোষী হইবেন এবং এই আইনের বিধানাবলী অনুযায়ী শাস্তিযোগ্য হইবেন, যেন পণ্য উক্ত ব্যক্তির নিকট পাওয়া গিয়াছে।",
+      "entity_concepts": {
+        "Customs Offence Penalties": [
+          "This provision establishes that if two or more persons are found together and any one of them possesses goods that are liable to confiscation under the Customs Act, every person in that group who is aware of the situation is deemed guilty of an offence.",
+          "Individuals associated with such persons are subject to the same penalties as if the contraband goods were found directly in their own possession."
+        ],
+        "Customs Act 1969": [
+          "The Act defines the scope of legal liability for individuals accompanying those who possess goods subject to forfeiture.",
+          "It provides the legal authority for punishing persons aware of illegal goods being carried by their companions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_265",
+      "entity_sub_entities": {
+        "Customs Offence Penalties": [
+          "persons",
+          "goods",
+          "contraband goods"
+        ],
+        "Customs Act 1969": [
+          "goods",
+          "illegal goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        116,
+        495,
+        6688,
+        8816
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_91",
+      "clause_title": "অবিলম্বে নামানোর অনুমতি প্রদানের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_91",
+      "resolved_text": "৭৮। অবিলম্বে নামানোর অনুমতি প্রদানের ক্ষমতা।— (১) ধারা ৭৪, ৭৬ এবং ৭৭ এ যাহা কিছুই থাকুক না কেন, বোর্ড, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, যে কাস্টমস- স্টেশনের ক্ষেত্রে এই ধারা প্রযোজ্য ঘোষণা করিয়াছে সেই স্টেশনের যথোপযুক্ত কর্মকর্তা ধারা ৪৭ এর অধীন প্রদত্ত আদেশ অথবা ধারা ৪৯ এর অধীন প্রদত্ত বিশেষ পাস প্রাপ্তির সাথে সাথে কোন জাহাজের মাস্টারকে অথবা আমদানি ম্যানিফেস্ট প্রাপ্তির অব্যবহিত পর জাহাজ ব্যতীত অন্য যানবাহনের ভারপ্রাপ্ত ব্যক্তিকে উক্ত যানবাহন আমদানিকৃত সকল পণ্য অথবা উহার অংশ বিশেষ তাহার এজেন্টের জিম্মায়, যদি তিনি উহা গ্রহণ করিতে সম্মত থাকেন, উহা নিম্নে বর্ণিত স্থানে খালাসের উদ্দেশ্যে নামানোর অনুমতি দিতে পারিবেন-\n\n(ক) কোন কাস্টম-হাউসে, নির্ধারিত অথবা কোন অবতরণ স্থানে অথবা জেটিতে; অথবা\n\n(খ) পোর্ট কমিশনার, পোর্ট ট্রাস্ট, রেলওয়ে অথবা অন্য কোন সরকারী সংস্থা অথবা কোম্পানীর মালিকানাধীন কোন অবতরণ স্থানে অথবা জেটিতে; অথবা\n\n(গ) হেফাজতে দেওয়ার জন্য কমিশনার অব কাস্টমস কর্তৃক অনুমোদিত কোন ব্যক্তির নিকট।\n\n(২) উক্ত পণ্য অথবা উহার অংশবিশেষ গ্রহণকারী কোন এজেন্ট উক্ত পণ্যের মালিক কর্তৃক প্রতিষ্ঠিত এতদসম্পর্কিত কোন ক্ষতি অথবা কম সরবরাহের সকল দাবী মিটাইতে বাধ্য থাকিবেন এবং উক্ত মালিকের নিকট হইতে প্রদত্ত সেবা বাবদ চার্জসমূহ আদায় করার অধিকারী হইবেন, কিন্তু যে ক্ষেত্রে উক্ত পণ্য অথবা উহার অংশবিশেষ নামানোর জন্য মালিক কর্তৃক কোন এজেন্ট পূর্বাহ্নে নিযুক্ত হইয়া থাকেন এবং উক্ত নিযুক্তি বাতিল না হয় সেই ক্ষেত্রে উক্ত এজেন্ট কমিশন অথবা অনুরূপ কোন কিছু পাইবেন না :\n\nতবে শর্ত থাকে যে, যথোপযুক্ত কর্মকর্তার লিখিত আদেশ ব্যতীত উক্ত পণ্য অথবা উহার অংশবিশেষ গ্রহণকারী কোন এজেন্ট ইহা অপসারণ করিতে অথবা অন্যভাবে ব্যবস্থাপনা করিতে পারিবেন না।\n\n(৩) যথোপযুক্ত কর্মকর্তা উপধারা (১) এর দফা (ক) এর অধীন খালাসকৃত সকল পণ্যের দায়িত্ব গ্রহণ করিবেন এবং ধারা ৭৬ এবং ধারা ৮২ এর বিধানমতে তাহাদের ব্যাপারে ব্যবস্থা গ্রহণ করিবেন।\n\n(৪) উপধারা (১) এর দফা (খ) বা দফা (গ) এর অধীন কোন সরকারী সংস্থা অথবা কোম্পানী অথবা পোর্ট কর্তৃপক্ষ অথবা এয়ারলাইন্স অথবা ব্যক্তির মালিকানাধীন অবতরণ স্থানে অথবা জেটিতে বা মজুদ করার স্থানে কোন পণ্য নামানো হইলে তাহারা যথোপযুক্ত কর্মকর্তার লিখিত আদেশ ব্যতীত উহা অপসারণ করিতে অথবা অন্য কোন ভাবে ব্যবস্থাপনা করিতে পারিবেন না।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to issue a notification in the official gazette specifying the customs stations where the authority to grant immediate unloading permission applies."
+        ],
+        "Appropriate Officer of Customs": [
+          "The Appropriate Officer of Customs is authorized to permit the master of a vessel or person in charge of a conveyance to unload imported goods into the custody of an agent, subject to specific regulatory conditions and procedural requirements."
+        ],
+        "Customs Agent": [
+          "A Customs Agent acts as a custodian for unloaded goods and is responsible for settling claims related to damages or shortages made by the owner of the goods.",
+          "A Customs Agent is entitled to charge the owner for services rendered, provided that they have not been previously appointed by the owner, in which case they may be restricted from claiming commissions for unloading services.",
+          "A Customs Agent is prohibited from moving or disposing of any goods in their custody without a written order from the Appropriate Officer of Customs."
+        ],
+        "Customs Act 1969": [
+          "This section operates notwithstanding the provisions of Sections 74, 76, and 77 of the Customs Act 1969, facilitating the immediate unloading of imported goods under specific controls.",
+          "Goods unloaded under the authority of this section are subject to the procedures and requirements mandated by Section 76 and Section 82 of the Customs Act 1969."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is authorized to approve persons or entities to whom goods may be delivered for safekeeping under the provisions of this section."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_95",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "notification",
+          "official gazette",
+          "customs stations",
+          "immediate unloading permission"
+        ],
+        "Appropriate Officer of Customs": [
+          "master of a vessel",
+          "person in charge of a conveyance",
+          "imported goods",
+          "agent"
+        ],
+        "Customs Agent": [
+          "unloaded goods",
+          "claims",
+          "owner of the goods",
+          "services",
+          "commissions",
+          "unloading services",
+          "written order"
+        ],
+        "Customs Act 1969": [
+          "Section 74",
+          "Section 76",
+          "Section 77",
+          "Section 82",
+          "imported goods"
+        ],
+        "Commissioner of Customs": [
+          "persons",
+          "entities",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        7,
+        8,
+        17,
+        20,
+        92,
+        94,
+        112,
+        118,
+        366,
+        431,
+        495,
+        563,
+        657,
+        863,
+        1022,
+        1499,
+        1955,
+        8824,
+        11991,
+        11992,
+        11994,
+        11998,
+        13101,
+        13102
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_157",
+      "clause_title": "Clearance for exportation",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_157",
+      "resolved_text": "131. Clearance for exportation.- 2[1] No goods shall be loaded for exportation until-\n(a) in the case of goods other than passengers' baggage and mail bag-\n3[(i) the owner has delivered to the appropriate officer or, if the owner is a registered user, he has transmitted to the Customs computer system, a bill of export in such for in and manner and containing such particulars as the Board may, by order, direct from time to time 4[:\nProvided that the Commissioner of Customs may within a period of six months require the owner who has electronically transmitted a bill of export to the Customs computer system to submit to the appropriate officer a paper bill of export duly signed by him or his authorized agent containing such information as the said Commissioner may specify;]\n(ii) such owner has paid the duties payable on such goods;\n(iii) such bill has been passed by the appropriate officer; and\n(b) in the case of passengers' baggage or mail bags, the appropriate officer has permitted them to be exported :\nProvided that the Board may in the case of any customs-station or wharf, by notification in the official Gazette, and subject to such restrictions and conditions, if any, as it thinks fit, exempt any specified goods or class of goods or any specified person or class of persons, from all or any of the provisions of this section5[:\nProvided further that where the appropriate officer, in a particular case, has reason to believe that exportation of any goods in respect of which exemption has been notified under the first proviso should be intervened before its loading for exportation, he may, upon recording reasons, examine the goods or the bill of export or both, and may take other necessary action under this Act.]\n1[(2) In a case where exemption has been allowed under the proviso to sub-section (1) and any goods have been exported subject of any conditions or under any guarantee or undertaking, the exporter shall forthwith fulfil such conditions or, as the case may be, the terms of the guarantee or undertaking and submit to the appropriate officer documents relating thereto, including proceeds realisation certificate or such other documentary evidence showing the remittance to Bangladesh of the sale proceeds of the goods exported as may be acceptable to the Board.]",
+      "entity_concepts": {
+        "Export": [
+          "No goods shall be loaded for exportation unless specific procedural requirements are met, including the filing of a bill of export, payment of applicable duties, and clearance by the appropriate officer.",
+          "The Board has the authority to exempt specific goods or classes of persons from the standard exportation clearance procedures at customs stations or wharves."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer is responsible for receiving the bill of export, passing the bill, and granting permission for the export of passengers' baggage or mail bags.",
+          "The officer may require the submission of a paper bill of export for goods previously transmitted electronically and has the authority to examine goods even when exemptions have been granted if there is reason to believe intervention is necessary."
+        ],
+        "Bill of Export": [
+          "The owner must deliver or electronically transmit a bill of export containing specified particulars before goods can be loaded for exportation.",
+          "The Commissioner of Customs may request a signed paper copy of an electronically transmitted bill of export within a specified timeframe."
+        ],
+        "Registered User": [
+          "A registered user may fulfill the documentation requirements for exportation by electronically transmitting the bill of export to the customs computer system."
+        ],
+        "Exporter": [
+          "When goods are exported under an exemption, guarantee, or undertaking, the exporter is obligated to fulfill all associated conditions and submit documentary evidence, such as proof of export proceeds realization, to the appropriate officer."
+        ],
+        "National Board of Revenue": [
+          "The Board has the power to direct the format and particulars of the bill of export and can grant exemptions from exportation procedures through official gazette notifications."
+        ],
+        "Baggage": [
+          "The exportation of passengers' baggage requires permission from the appropriate officer, subject to specific regulatory conditions."
+        ],
+        "Mail Bags": [
+          "The exportation of mail bags requires permission from the appropriate officer before loading can proceed."
+        ],
+        "Customs Station": [
+          "The Board may specify exemptions for goods or persons from exportation provisions at specific customs-stations or wharves via official notification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_484",
+      "entity_sub_entities": {
+        "Export": [
+          "goods",
+          "bill of export",
+          "duties",
+          "appropriate officer",
+          "customs stations",
+          "wharves"
+        ],
+        "Appropriate Officer of Customs": [
+          "bill of export",
+          "passengers' baggage",
+          "mail bags",
+          "paper bill of export",
+          "goods"
+        ],
+        "Bill of Export": [
+          "goods",
+          "signed paper copy"
+        ],
+        "Registered User": [
+          "bill of export",
+          "customs computer system"
+        ],
+        "Exporter": [
+          "goods",
+          "exemption",
+          "guarantee",
+          "undertaking",
+          "documentary evidence",
+          "proof of export proceeds realization",
+          "appropriate officer"
+        ],
+        "National Board of Revenue": [
+          "bill of export",
+          "official gazette notifications"
+        ],
+        "Baggage": [
+          "passengers' baggage",
+          "appropriate officer"
+        ],
+        "Mail Bags": [
+          "mail bags",
+          "appropriate officer"
+        ],
+        "Customs Station": [
+          "goods",
+          "persons",
+          "customs-stations",
+          "wharves",
+          "official notification"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        17,
+        25,
+        30,
+        47,
+        69,
+        77,
+        90,
+        118,
+        156,
+        180,
+        214,
+        234,
+        400,
+        423,
+        495,
+        522,
+        867,
+        1038,
+        1062,
+        1379,
+        2408,
+        3206,
+        4493,
+        10486,
+        12195
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_184",
+      "clause_title": "Power to search on reasonable ground",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_184",
+      "resolved_text": "158. Power to search on reasonable ground.- (1) The appropriate officer, if he has reason to believe that any person is carrying about himself goods liable to confiscation or any documents relating thereto, may search such person, if he has landed from or is on board or is about to board a vessel within the 3[Bangladesh] customs-waters, or if he has alighted from or is about to get into or is in any other conveyance arriving in or proceeding from 3[Bangladesh] or if he is entering or about to leave 3[Bangladesh] or if he is within the limits of any customs-area.\n(2) Without prejudice to the provisions of sub-section (1) the appropriate officer may search a person, if he has reason to believe that such person is carrying about himself smuggled Platinum, any radio active mineral, gold, silver, precious stones, manufactures of Platinum, any radio active mineral, gold, silver or precious stones, or currency, or any other goods or class of goods notified by the 4[Government] in the official Gazette, or any documents relating to any one or more of the aforementioned goods.",
+      "entity_concepts": {
+        "Appropriate Officer of Customs": [
+          "This officer is empowered to search any person if there is a reasonable belief that the individual is carrying goods liable to confiscation or related documents.",
+          "The officer may conduct searches on persons located within customs-areas, in conveyances, or on vessels within Bangladesh customs-waters.",
+          "The officer has the authority to search persons suspected of carrying specific prohibited items like gold, silver, currency, or precious stones, or other goods notified by the Government."
+        ],
+        "Person": [
+          "A person is subject to search by an appropriate officer if they are suspected of carrying goods liable to confiscation while present in customs-areas, or upon boarding or leaving vessels and conveyances."
+        ],
+        "Vessel": [
+          "Vessels within the Bangladesh customs-waters serve as specific locations where an appropriate officer may exercise search powers over persons on board."
+        ],
+        "Conveyance": [
+          "The appropriate officer is authorized to search persons arriving in or departing from Bangladesh who are in, alighting from, or entering into any conveyance."
+        ],
+        "Bangladesh customs-waters": [
+          "This geographic area defines a zone where an appropriate officer may board and search vessels and the individuals located thereon."
+        ],
+        "Customs-area": [
+          "The limits of a customs-area constitute a jurisdictional boundary within which the appropriate officer is granted the power to search persons."
+        ],
+        "Smuggled Goods": [
+          "The search powers extend to persons suspected of carrying precious metals, minerals, stones, or currency, as well as any other goods specifically notified by the Government in the official Gazette."
+        ],
+        "Government": [
+          "The Government has the authority to notify in the official Gazette specific classes of goods that, when carried by a person, provide grounds for a search by the appropriate officer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_511",
+      "entity_sub_entities": {
+        "Appropriate Officer of Customs": [
+          "person",
+          "goods liable to confiscation",
+          "related documents",
+          "customs-areas",
+          "conveyances",
+          "vessels",
+          "Bangladesh customs-waters",
+          "gold",
+          "silver",
+          "currency",
+          "precious stones",
+          "goods notified by the Government"
+        ],
+        "Person": [
+          "person",
+          "goods liable to confiscation",
+          "customs-areas",
+          "vessels",
+          "conveyances"
+        ],
+        "Vessel": [
+          "vessels",
+          "Bangladesh customs-waters",
+          "persons"
+        ],
+        "Conveyance": [
+          "conveyance",
+          "persons"
+        ],
+        "Bangladesh customs-waters": [
+          "Bangladesh customs-waters",
+          "vessels",
+          "individuals"
+        ],
+        "Customs-area": [
+          "customs-area",
+          "persons"
+        ],
+        "Smuggled Goods": [
+          "precious metals",
+          "minerals",
+          "stones",
+          "currency",
+          "goods notified by the Government",
+          "official Gazette"
+        ],
+        "Government": [
+          "Government",
+          "official Gazette",
+          "classes of goods"
+        ]
+      },
+      "clause_clusters": [
+        6,
+        17,
+        56,
+        70,
+        71,
+        112,
+        155,
+        236,
+        280,
+        368,
+        495,
+        547,
+        551,
+        664,
+        690,
+        800,
+        872,
+        1092,
+        1207,
+        1336,
+        2136,
+        3776,
+        4074,
+        4663,
+        12459
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_190",
+      "clause_title": "Power to search and arrest without warrant",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_190",
+      "resolved_text": "163. Power to search and arrest without warrant.- (1) Whenever any officer or customs not below the rank of an 1[Assistant Commissioner of Customs] or any other officer 2[* * * *] employed for the prevention of smuggling has reasonable grounds for believing that any goods liable to confiscation or any documents or things which in his opinion will be useful for or relevant to any proceeding under this Act are concealed or kept in any place and that there is a danger that they may be removed before a search can be effected under section 162, he may, after preparing a statement in writing of the grounds of his belief and of the goods, documents or things for which search is to be made, search or cause of search to be made for such goods, documents or things in that place.\n(2) Any officer or person who makes a search or causes a search to be made under sub-section (1) shall leave a signed copy of the aforementioned statement in or about the place searched and shall, at the time the search is made or as soon as is practicable thereafter, deliver furthermore a signed copy of such statement to the occupier of the place at his last known address.\n(3) All searches made under this section shall be carried out mutatis mutandis in accordance with the provisions of the Code of Criminal Procedure, 1898 (Act V of 1898).\n(4) Notwithstanding anything contained in the foregoing sub-sections and subject to previous authorization by an officer of customs not below the rank of an 1[Assistant Commissioner of Customs], any officer of customs or any person duly empowered as such may, with respect to an offence 3[of smuggling]-\n(a) arrest without warrant any person concerned in such offence or against whom reasonable suspicion exists that he is about to be concerned in such offence;\n(b) enter and search without warrant any premises to make an arrest under clause (a), or to seize an goods which are reasonable suspected to be intended for 4[smuggling] contrary to any prohibition or restriction for the time being in force, and all documents or things which in his opinion will be useful for or relevant to any proceeding under this Act; and\n(c) for the purpose of arresting, detaining or taking into custody or preventing the escape of any person concerned or likely to be concerned in such offence, or for the purpose of seizing or preventing the removal of any goods in respect of which any such offence has occurred or is likely to occur, use or cause to be used such force to the extent of causing death as may be necessary.\n(5) The provisions of sub-section (4) shall apply only to the areas within five miles of the land frontier of 1[Bangladesh], and within a five mile belt running along the sea coast of 1[Bangladesh].\n(6) No suit, prosecution or other legal proceeding shall be instituted, except with the previous sanction in writing of the 2[Government], against any person in respect of anything done or purporting to be done in exercise of the powers conferred by sub-section (1) or sub-section (2) or, in the areas specified in sub-section (3), by sub-section (4).",
+      "entity_concepts": {
+        "Assistant Commissioner of Customs": [
+          "This officer is authorized to form beliefs regarding the concealment of goods or documents subject to search and to authorize officers to conduct searches or arrests without a warrant under specified conditions."
+        ],
+        "Smuggling": [
+          "The prevention of smuggling is a primary function that empowers customs officers to carry out searches and arrests without a warrant in defined circumstances.",
+          "Specific enforcement powers, including the use of force and warrantless entry of premises, are granted to customs officers when dealing with offences related to smuggling."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "All searches conducted under this section must adhere to the procedural requirements established in the Code of Criminal Procedure, 1898."
+        ],
+        "Officer of Customs": [
+          "Officers are empowered to enter and search premises, seize goods suspected of smuggling, and arrest individuals involved in such offences without a warrant under specific conditions.",
+          "When necessary to execute duties such as arresting persons or seizing goods, these officers may use force, including lethal force, to prevent escape or the removal of illicit items."
+        ],
+        "Government": [
+          "Legal proceedings cannot be instituted against any person acting under the powers granted in this section without the prior written sanction of the Government."
+        ],
+        "Customs Offence": [
+          "Special enforcement provisions apply to offences related to smuggling, allowing for warrantless arrests, entry of premises, and the use of force within designated border and coastal zones."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_517",
+      "entity_sub_entities": {
+        "Assistant Commissioner of Customs": [
+          "goods",
+          "documents"
+        ],
+        "Smuggling": [
+          "offences"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "searches"
+        ],
+        "Officer of Customs": [
+          "premises",
+          "goods",
+          "individuals",
+          "persons",
+          "illicit items"
+        ],
+        "Government": [
+          "legal proceedings"
+        ],
+        "Customs Offence": [
+          "offences",
+          "smuggling",
+          "premises"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        6,
+        59,
+        78,
+        97,
+        211,
+        236,
+        305,
+        375,
+        387,
+        495,
+        600,
+        764,
+        3046,
+        8819
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_192",
+      "clause_title": "Power to examine persons",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_192",
+      "resolved_text": "165. Power to examine persons.- (1) The appropriate officer may, during the course of an inquiry in connection with the smuggling of any goods,-\n(a) require any person to produce or deliver any document or thing to such officer,\n(b) examine any person acquainted with the facts and circumstances of the case.\n(2) The appropriate officer shall exercise the powers in sub-section (1) only in relation to a person who is readily available or present before him and shall be subject to the same provisions as an officer-in-charge of a police-station is subject to under the Code of Criminal Procedure, 1898 (Act V of 1898), when investigating a offence.",
+      "entity_concepts": {
+        "Appropriate Officer of Customs": [
+          "The appropriate officer has the authority to conduct inquiries related to the smuggling of goods.",
+          "During such inquiries, the officer may require individuals to produce documents or objects and examine those familiar with the facts of the case.",
+          "The officer must exercise these examination powers only on persons present or readily available to them, operating under the same legal constraints as an officer-in-charge of a police station when investigating an offence."
+        ],
+        "Smuggling": [
+          "The appropriate officer is empowered to initiate an inquiry whenever there is a connection to the smuggling of goods."
+        ],
+        "Person": [
+          "Persons involved in a customs inquiry may be required to produce documents or things to the appropriate officer or be examined regarding the facts of the case.",
+          "These investigative powers are applicable only to individuals who are readily available or present before the appropriate officer."
+        ],
+        "Code of Criminal Procedure 1898": [
+          "The procedures and legal standards governing an appropriate officer's investigation are subject to the same provisions as those applied to an officer-in-charge of a police station under this code."
+        ],
+        "Officer-in-charge of Police Station": [
+          "The legal conduct and powers of the appropriate officer during an examination are benchmarked against the standards required of an officer-in-charge of a police station when performing investigations under the Code of Criminal Procedure, 1898."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_519",
+      "entity_sub_entities": {
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "documents",
+          "objects",
+          "persons",
+          "officer-in-charge of a police station"
+        ],
+        "Smuggling": [
+          "goods"
+        ],
+        "Person": [
+          "documents",
+          "things",
+          "appropriate officer"
+        ],
+        "Code of Criminal Procedure 1898": [
+          "officer-in-charge of a police station"
+        ],
+        "Officer-in-charge of Police Station": [
+          "appropriate officer",
+          "Code of Criminal Procedure, 1898"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        59,
+        69,
+        70,
+        211,
+        387,
+        495,
+        832,
+        2156,
+        2157,
+        2285,
+        10147
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_193",
+      "clause_title": "Power to summon persons to give evidence and produce documents or things",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_193",
+      "resolved_text": "166. Power to summon persons to give evidence and produce documents or things.- (1) Any gazetted officer of customs shall have power to summon any person whose attendance he considers necessary either to give evidence or to produce a document or any other thing in any inquiry which such officer is making in connection with the smuggling of any goods.\n(2) A summon to produce documents or other things may be for the production of certain specified documents or things or for the production of all documents or things of a certain description in the possession or under the control of the person summoned.\n(3) All persons so summoned shall be bound to attend either in person or by an authorised agent, as such officer may direct; and all persons so summoned shall be bound to state the truth upon any subject respecting which they are examined or make statement and produce such documents and other things as may be required :\nProvided that the exemption under section 132 of the Code of Civil Procedure, 1908 (Act V of 1908), shall be applicable to any requisition for attendance under this section.\n(4) Every such inquiry as aforesaid shall be deemed to be judicial proceeding within the meaning of section 193 and section 228 of the 1[Penal Code], (Act XLV of 1860).",
+      "entity_concepts": {
+        "Gazetted Customs Officer": [
+          "A Gazetted Customs Officer is empowered to summon any person whose attendance is necessary to provide evidence or produce documents and items related to smuggling inquiries.",
+          "The officer has the authority to direct whether a summoned person must appear in person or through an authorized agent."
+        ],
+        "Smuggling Prevention": [
+          "The power to summon persons and evidence is granted specifically for inquiries conducted by customs authorities in relation to the smuggling of goods."
+        ],
+        "Person": [
+          "A person summoned by a customs officer is legally obligated to attend, state the truth during examination, and produce the requested documents or things.",
+          "Summoned persons have the right to claim exemptions from personal attendance as provided under the Code of Civil Procedure 1908."
+        ],
+        "Code of Civil Procedure 1908": [
+          "The provisions regarding exemptions from personal appearance in court as established in the Code of Civil Procedure 1908 apply to summons issued under this Act."
+        ],
+        "Penal Code 1860": [
+          "Inquiries conducted by a customs officer under this power are legally classified as judicial proceedings for the purposes of applying relevant sections of the Penal Code 1860 concerning false evidence and intentional insult or interruption."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_520",
+      "entity_sub_entities": {
+        "Gazetted Customs Officer": [
+          "person",
+          "evidence",
+          "documents",
+          "items",
+          "authorized agent"
+        ],
+        "Smuggling Prevention": [
+          "persons",
+          "evidence",
+          "goods"
+        ],
+        "Person": [
+          "documents",
+          "things",
+          "Code of Civil Procedure 1908"
+        ],
+        "Code of Civil Procedure 1908": [
+          "provisions",
+          "summons"
+        ],
+        "Penal Code 1860": [
+          "judicial proceedings",
+          "sections"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        59,
+        67,
+        70,
+        117,
+        294,
+        301,
+        495,
+        502,
+        818,
+        959,
+        1282,
+        1579,
+        1696,
+        1778,
+        2285
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_94",
+      "clause_title": "Access to Customs computer systems",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_94",
+      "resolved_text": "79B. Access to 3[Customs computer] systems.- No person shall transmit to, or receive information from, a 3[Customs computer] system unless that person is registered by the Commissioner of Customs as a user of that 3[Customs computer] system.",
+      "entity_concepts": {
+        "Customs Computerised System": [
+          "The transmission of information to or from the customs computer system is restricted to ensure only authorized interaction with the digital customs infrastructure.",
+          "Access to this system is contingent upon the formal registration of a person as a valid user by the relevant authority."
+        ],
+        "Commissioner of Customs": [
+          "This official is empowered to register persons as users, thereby granting them the legal authority to transmit or receive information through the customs computerised system."
+        ],
+        "Registered User": [
+          "Only individuals who have been formally registered by the Commissioner of Customs are permitted to interact with the customs computerised system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_421",
+      "entity_sub_entities": {
+        "Customs Computerised System": [
+          "information",
+          "customs computer system",
+          "digital customs infrastructure",
+          "system"
+        ],
+        "Commissioner of Customs": [
+          "official",
+          "persons",
+          "users",
+          "information",
+          "customs computerised system"
+        ],
+        "Registered User": [
+          "individuals",
+          "Commissioner of Customs",
+          "customs computerised system"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        148,
+        156,
+        203,
+        214,
+        236,
+        339,
+        495,
+        1484,
+        5098,
+        7319
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

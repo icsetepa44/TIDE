@@ -1,0 +1,44 @@
+{
+  "group_id": "cluster_00006_t1__X__cluster_00023_t0",
+  "entities": [
+    "Government",
+    "Customs Authority"
+  ],
+  "cluster_ids": [
+    6,
+    23
+  ],
+  "thread_ids": [
+    "cluster_00006_t1",
+    "cluster_00023_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Government empower the Customs Authority to perform enforcement duties such as search and arrest, and what legal limitation exists regarding the judicial review of their actions?",
+      "answer": "The Government may, through a notification in the official gazette, delegate the powers of a first-class magistrate to Customs Authority officers (not below the rank of Assistant Commissioner) for the purposes of entry, search, detention, and arrest [0]. However, the validity or propriety of orders or decisions made by these Customs Authority officers, the Board, or the Government regarding the assessment, levy, exemption, or collection of duties cannot be challenged in any civil court [1].",
+      "entities_involved": [
+        "Government",
+        "Customs Authority"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_241",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_312"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "In the context of proceedings under the Customs Act 1969, how is the right to representation structured when dealing with the Customs Authority or the Government?",
+      "answer": "Any person entitled or required to attend before an officer of the Customs Authority, the Board, or the Government in proceedings under the Act may appear through an authorized representative, provided their personal attendance is not otherwise required by law [2].",
+      "entities_involved": [
+        "Government",
+        "Customs Authority"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_247"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "thread_id": "cluster_00520_t0",
+  "cluster_id": 520,
+  "cluster_label": "findings",
+  "title": "Audit Findings Reporting and Management",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the initial standardized reporting template for audit findings by Customs, Excise and VAT Commissionerates?",
+      "options": [
+        "The Audit Manual of 2023",
+        "SRO/Clause dated 2022-06-09",
+        "The Post Clearance Audit directive of 2023",
+        "The Internal Management Report of 2023"
+      ],
+      "answer_index": 1,
+      "answer": "SRO/Clause dated 2022-06-09",
+      "explanation": "The 2022-06-09 SRO/Clause (20220609_148-AIN_2022_96_Customs_output) introduced the standardized reporting template for audit findings.",
+      "clause_text_ids": [
+        "20220609_148-AIN_2022_96_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What procedural change regarding auditee rights was introduced in the 2023-09-27 Audit Manual/Directives?",
+      "options": [
+        "Auditees were required to pay all taxes before an audit begins.",
+        "Auditees were granted the right to contest findings and provide responses during a closing meeting.",
+        "Auditees were prohibited from reviewing the preliminary audit report.",
+        "Auditees were required to submit their own audit report to the Commissioner."
+      ],
+      "answer_index": 1,
+      "answer": "Auditees were granted the right to contest findings and provide responses during a closing meeting.",
+      "explanation": "According to the 2023-09-27 Audit Manual/Directives, a closing meeting was established to allow the auditee to provide responses or raise objections to findings.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Prior to the 2023-09-27 Audit Manual/Directives, what was the primary structure of audit findings reporting?",
+      "options": [
+        "A multi-stage procedural framework involving management response letters.",
+        "A dynamic, ongoing digital submission process.",
+        "A static form-based reporting requirement.",
+        "A verbal reporting system managed by the audit team."
+      ],
+      "answer_index": 2,
+      "answer": "A static form-based reporting requirement.",
+      "explanation": "The context states that the concept evolved from a simple, static form-based reporting requirement (established in 2022) to a structured, multi-stage process in 2023.",
+      "clause_text_ids": [
+        "20220609_148-AIN_2022_96_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "According to the 2023-09-27 directives, what document must accompany the final audit report when submitted to the audit supervisor?",
+      "options": [
+        "A preliminary audit report.",
+        "A management response letter.",
+        "A bill of entry summary.",
+        "A list of raw materials."
+      ],
+      "answer_index": 1,
+      "answer": "A management response letter.",
+      "explanation": "The 2023-09-27 source specifies that a management response letter must be prepared to address findings and accompany the audit report for supervisor approval.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Customs official is conducting an audit in late 2023. They recall that in 2022, their primary task was to fill out a standardized reporting table (Appendix-3) for imported materials. Now, under the new directives, they have completed their field work and generated a preliminary audit report.",
+      "question": "How has the official's procedural obligation changed regarding the auditee after completing the preliminary audit report compared to the requirements in place during 2022?",
+      "answer": "In 2022, the process was limited to a static reporting template for imported materials. Under the 2023 directives, the official must now conduct a closing meeting with the auditee's senior management to present findings and allow for a formal response before finalizing the report and initiating any recovery actions.",
+      "clauses_involved": [
+        "2022-06-09",
+        "2023-09-27"
+      ],
+      "clause_text_ids": [
+        "20220609_148-AIN_2022_96_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "one year and three months later",
+      "question": "In 2022-06-09, an initial standardized reporting template for audit findings was established. What procedural changes regarding audit findings were introduced one year and three months later?",
+      "answer": "On 2023-09-27, the audit process evolved from a simple reporting template to a structured, multi-stage lifecycle. This included the introduction of preliminary audit reports, a formal closing meeting for auditees to present objections, and post-audit management procedures for duty and tax recovery.",
+      "clause_text_ids": [
+        "20220609_148-AIN_2022_96_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_46",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_55",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The audit process formalizes a lifecycle including preliminary report generation, closing meetings for auditee objections, and post-audit management reporting.",
+        "Customs, Excise and VAT Commissionerates implement a standardized reporting template for audit findings based on imported raw materials.",
+        "Audit teams are required to generate internal management reports summarizing findings and risk indicators after the auditee has been notified of duty liabilities."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Customs, Excise and VAT Commissionerates implement a standardized reporting template for audit findings based on imported raw materials.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The audit process formalizes a lifecycle including preliminary report generation, closing meetings for auditee objections, and post-audit management reporting.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "Audit teams are required to generate internal management reports summarizing findings and risk indicators after the auditee has been notified of duty liabilities.",
+          "date": "2023-09-27"
+        }
+      ],
+      "clause_text_ids": [
+        "20220609_148-AIN_2022_96_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_43",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_sros_OCR/20220609_148-AIN_2022_96_Customs/20220609_148-AIN_2022_96_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00520_t0__audit-findings-reporting-and-management.json"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "group_id": "cluster_00009_t0__X__cluster_00010_t2",
+  "entities": [
+    "Value Added Tax",
+    "Customs Duty"
+  ],
+  "cluster_ids": [
+    9,
+    10
+  ],
+  "thread_ids": [
+    "cluster_00009_t0",
+    "cluster_00010_t2"
+  ],
+  "num_shared_clauses": 10,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "When an industrial importer sells waste scrap produced from imported components (such as for motorcycles, lifts, compressors, or washing machines), what are the fiscal obligations regarding Value Added Tax and Customs Duty under the relevant regulatory clauses?",
+      "answer": "Under clauses [0], [1], [2], [3], and [4], the importer is permitted to sell waste scrap locally with the approval of the concerned departmental officer. Upon such sale, the importer is required to pay the applicable Value Added Tax and any other applicable customs duties or taxes on the value of the scrap.",
+      "entities_involved": [
+        "Value Added Tax",
+        "Customs Duty"
+      ],
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_8",
+        "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_7",
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_7",
+        "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_6",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5"
+      ]
+    }
+  ]
+}

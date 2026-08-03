@@ -1,0 +1,655 @@
+{
+  "cluster_id": 258,
+  "cluster_label": "tax returns",
+  "thread_index": 0,
+  "thread_id": "cluster_00258_t0",
+  "title": "VAT Compliance Certification for Industrial Imports",
+  "summary": "The concept of 'tax returns' evolved from a simple requirement for proof of filing to a standardized 'VAT compliant' status definition for industrial importers. Over time, the documentation shifted from manual verification to specific definitions of 'VAT compliant' entities, requiring regular submission of returns as a prerequisite for duty concessions.",
+  "evolution": {
+    "definition": "Shifted from a generic mention of '12 returns' to a legally defined 'VAT compliant' status.",
+    "procedure": "Transitioned from manual certification to a standardized regulatory requirement for industrial importers."
+  },
+  "timeline": [
+    {
+      "date": "2020-06-11",
+      "instrument": "SRO 126-AIN/2020",
+      "change": "Initial requirement for submission of 12 VAT returns to qualify for concessional duty rates.",
+      "clause_ids": [
+        "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "date": "2022-06-09",
+      "instrument": "SRO 118-AIN/2022",
+      "change": "Formalized the definition of 'VAT compliant' as an entity registered under the 2012 Act that regularly submits returns.",
+      "clause_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "date": "2022-07-17",
+      "instrument": "SRO 119-AIN/2022",
+      "change": "Standardized the 'VAT compliant' definition across different manufacturing sectors (AC, ATM, Camera).",
+      "clause_ids": [
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "instrument": "SRO 120-AIN/2023",
+      "change": "Extended the standardized 'VAT compliant' definition to mould/die manufacturing.",
+      "clause_ids": [
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO 173-AIN/2024",
+      "change": "Applied the 'VAT compliant' return filing requirement to generator manufacturing/assembling.",
+      "clause_ids": [
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 10,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "পরিশিষ্ট-১",
+      "text_id": "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4",
+      "resolved_text": "পরিশিষ্ট-১\nপ্রত্যয়নপত্র\n[শর্তাবলির দফা (২) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা হইতেছে যে, .........................................\n(আমদানিকারকের নাম ও ঠিকানা) আমদানি রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে শিল্প আইআরসি সম্বলিত একটি মূসক নিবন্ধিত শতভাগ রপ্তানিমুখী/আংশিক রপ্তানিমুখী/অন্যান্য শিল্প বা সেবা প্রদানকারী প্রতিষ্ঠান।\n\nউক্ত প্রতিষ্ঠান বিগত ...................... অর্থ-বছরে রেয়াতি হারে আমদানিকৃত উপকরণ বা কাঁচামাল প্রতিষ্ঠানের রেজিস্টারে এন্ট্রি করিয়াছে এবং বিগত অর্থ-বৎসরের মূল্য সংযোজন কর সংক্রান্ত ১২ (বার) টি অথবা প্রযোজ্য ক্ষেত্রে .....টি রিটার্ন বা দাখিলপত্র সংশ্লিষ্ট মূল্য সংযোজন কর কর্তৃপক্ষের নিকট অনলাইনে/হার্ডকপি দাখিল করিয়াছে/করে নাই।\n\nস্বাক্ষর :\n(মূসক বিভাগীয় কর্মকর্তা)\n(নামীয় সিলসহ)",
+      "entity_concepts": {
+        "Value Added Tax": [
+          "The entity must demonstrate compliance by submitting a specified number of tax returns to the relevant authorities for the previous fiscal year."
+        ],
+        "Import Registration Certificate": [
+          "This certificate is issued by the Office of the Chief Controller of Imports and Exports and is a required document for qualifying industrial or service-providing enterprises."
+        ],
+        "Imported Raw Materials": [
+          "Enterprises importing materials at concessional duty rates are required to record these entries in an official organizational register."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1996",
+      "entity_sub_entities": {
+        "Value Added Tax": [
+          "tax returns",
+          "relevant authorities"
+        ],
+        "Import Registration Certificate": [
+          "Office of the Chief Controller of Imports and Exports",
+          "industrial enterprises",
+          "service-providing enterprises"
+        ],
+        "Imported Raw Materials": [
+          "materials",
+          "official organizational register"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        57,
+        132,
+        207,
+        258,
+        322,
+        490,
+        2987,
+        10228,
+        12144
+      ],
+      "source_file": "customs_sros_OCR/20200611_124-AIN_2020_75_Customs/20200611_124-AIN_2020_75_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "(১) সংশ্লিষ্ট আমদানিকারককে Industrial IRC holder VAT compliant প্রি-ফ্যাব্রিকেটেড বিল্ডিং উৎপাদনকারী শিল্প প্রতিষ্ঠান হইতে হইবে।\n\nব্যাখ্যাঃ\n(ক) Industrial IRC holder অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(খ) VAT compliant অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ ও মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা, ২০১৬ এর অধীন নিবন্ধিত এবং নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান;\n(গ) এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে প্রি-ফ্যাব্রিকেটেড বিল্ডিং বলিতে World Customs Organization (WCO) কর্তৃক প্রকাশিত Harmonized Commodity Description and Coding System Explanatory Notes এর ব্যাখ্যায় উল্লেখিত পণ্য উৎপাদনকারী প্রতিষ্ঠানকে বুঝাইবে;\n(ঘ) উপ-দফা (গ) তে যাহা কিছুই থাকুক না কেন, কোন উৎপাদনকারী প্রতিষ্ঠান নিম্নবর্ণিত ৬ (ছয়) টি উপাদান (Components) উৎপাদন করিলে ঐ প্রতিষ্ঠানকে প্রি-ফ্যাব্রিকেটেড বিল্ডিং শিল্প হিসেবে গন্য করা যাইবে; যথা:-\n(১) Column\n(২) Rafter\n(৩) Purlin\n(৪) Roof Panel/Wall Panel\n(৫) Deck Level\n(৬) Main Beam/Sub-Beam/Crane Beam।",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "This entity refers to an industrial manufacturer that possesses a valid and updated Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports."
+        ],
+        "VAT Compliant": [
+          "This entity refers to a manufacturing establishment that is registered under the Value Added Tax and Supplementary Duty Act, 2012 and its associated rules, and maintains a record of filing regular tax returns."
+        ],
+        "World Trade Organization": [
+          "This organization defines the standards for product classification used to identify prefabricated building manufacturers under this notification through its Harmonized Commodity Description and Coding System Explanatory Notes."
+        ],
+        "Industrial Unit": [
+          "An industrial unit is classified as a prefabricated building manufacturer if it produces specific components such as columns, rafters, purlins, roof or wall panels, deck levels, or various types of beams, regardless of other classification standards."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2189",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "industrial manufacturer",
+          "Import Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports"
+        ],
+        "VAT Compliant": [
+          "manufacturing establishment",
+          "Value Added Tax and Supplementary Duty Act, 2012",
+          "tax returns"
+        ],
+        "World Trade Organization": [
+          "Harmonized Commodity Description and Coding System Explanatory Notes"
+        ],
+        "Industrial Unit": [
+          "prefabricated building manufacturer",
+          "columns",
+          "rafters",
+          "purlins",
+          "roof panels",
+          "wall panels",
+          "deck levels",
+          "beams"
+        ]
+      },
+      "clause_clusters": [
+        129,
+        133,
+        134,
+        207,
+        258,
+        322,
+        647,
+        897,
+        1153,
+        2100,
+        2561,
+        4562,
+        5941,
+        7140,
+        8618,
+        11129,
+        11176,
+        11594,
+        13306
+      ],
+      "source_file": "customs_sros_OCR/20220609_122-AIN_2022_70_Customs/20220609_122-AIN_2022_70_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "শর্তাবলি\n\n(১) (ক) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant এয়ারকন্ডিশনার উৎপাদনকারী (Manufacturer) হইতে হইবে।\n\nব্যাখ্যা-\n(অ) “Industrial IRC holder” অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীনে নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান;\n\n(খ) এয়ারকন্ডিশনার উৎপাদনকারী প্রতিষ্ঠানকে নিম্নলিখিত গুরুত্বপূর্ণ অংশসমূহ হইতে ন্যূনতম তিনটি অংশ উৎপাদন করিতে হইবে; যথা:-\ni) Condenser\nii) Evaporator\niii) Outdoor body\niv) Heat Shrinkable Tube/Sanction and discharge tube.",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "This entity refers to an establishment that holds an up-to-date Industrial Consumer Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports.",
+          "An importer must possess this status to be eligible for the defined manufacturing criteria."
+        ],
+        "VAT Compliant": [
+          "A manufacturer is considered VAT compliant if it is registered under the Value Added Tax and Supplementary Duty Act, 2012, and consistently submits its required tax returns."
+        ],
+        "Manufacturer": [
+          "A manufacturer of air conditioners must meet specific criteria, including holding an Industrial IRC and being VAT compliant.",
+          "To qualify, the manufacturer must also produce at least three out of four specified critical components: the condenser, evaporator, outdoor body, or heat shrinkable tubes."
+        ],
+        "Industrial Consumer": [
+          "This category defines the status of an entity eligible to hold an Industrial Import Registration Certificate for the purpose of receiving customs concessions."
+        ],
+        "Value Added Tax": [
+          "The regulatory framework for this tax, alongside Supplementary Duty, dictates the compliance and return-filing requirements for manufacturers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2352",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "Industrial Consumer Import Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports"
+        ],
+        "VAT Compliant": [
+          "Value Added Tax and Supplementary Duty Act, 2012",
+          "tax returns"
+        ],
+        "Manufacturer": [
+          "air conditioners",
+          "Industrial IRC",
+          "condenser",
+          "evaporator",
+          "outdoor body",
+          "heat shrinkable tubes"
+        ],
+        "Industrial Consumer": [
+          "Industrial Import Registration Certificate",
+          "customs concessions"
+        ],
+        "Value Added Tax": [
+          "Supplementary Duty"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        36,
+        95,
+        101,
+        129,
+        133,
+        134,
+        207,
+        258,
+        296,
+        646,
+        1153,
+        1979,
+        2574,
+        2703,
+        4470,
+        8698
+      ],
+      "source_file": "customs_sros_OCR/20220717_200-_2022_108/20220717_200-_2022_108_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+      "resolved_text": "(১) (ক) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনকারী (Manufacturer) হইতে হইবে।\nব্যাখ্যা-\n(অ) “Industrial IRC holder” অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান।",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "This entity refers to an industrial establishment that holds a valid and up-to-date Industrial Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports.",
+          "To qualify as a manufacturer of automated teller machines and closed-circuit cameras, a business must maintain this specific import authorization."
+        ],
+        "VAT Compliant": [
+          "A business is considered VAT compliant if it is registered under the Value Added Tax and Supplementary Duty Act, 2012, and regularly submits its required tax returns.",
+          "Manufacturing eligibility for certain industrial products is conditional upon maintaining this compliance status."
+        ],
+        "Manufacturer": [
+          "This entity refers to an enterprise engaged in the production of specific goods, namely automated teller machines and closed-circuit camera systems.",
+          "Manufacturers must satisfy both industrial import registration requirements and tax compliance standards to qualify under this provision."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2362",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "industrial establishment",
+          "Industrial Import Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports",
+          "manufacturer",
+          "automated teller machines",
+          "closed-circuit cameras",
+          "import authorization"
+        ],
+        "VAT Compliant": [
+          "business",
+          "Value Added Tax and Supplementary Duty Act, 2012",
+          "tax returns",
+          "industrial products"
+        ],
+        "Manufacturer": [
+          "enterprise",
+          "automated teller machines",
+          "closed-circuit camera systems",
+          "industrial import registration requirements",
+          "tax compliance standards"
+        ]
+      },
+      "clause_clusters": [
+        95,
+        101,
+        129,
+        134,
+        207,
+        258,
+        754,
+        827,
+        947,
+        1153,
+        1636,
+        2785,
+        2799,
+        6423,
+        6424,
+        9026,
+        12658
+      ],
+      "source_file": "customs_sros_OCR/20220717_202-_2022_110/20220717_202-_2022_110_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_2",
+      "resolved_text": "(১) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant মোল্ড (Mould) বা ডাই (Die) উৎপাদনকারী (Manufacturer) হইতে হইবে।\n\nব্যাখ্যা-\n(ক) “Industrial IRC holder” অর্থ এমন প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(খ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীনে নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এমন উৎপাদনকারী প্রতিষ্ঠান;",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "This term refers to a manufacturing establishment that possesses a valid and updated Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports specifically for industrial consumption purposes."
+        ],
+        "VAT Compliant": [
+          "This term identifies a manufacturing establishment that is registered under the Value Added Tax and Supplementary Duty Act 2012 and regularly submits its mandatory tax returns."
+        ],
+        "Industrial Mould": [
+          "The clause specifies that to be eligible for the associated provisions, an importer must be a manufacturer of moulds or dies."
+        ],
+        "Manufacturer": [
+          "The importer must be a manufacturer that holds an Industrial Import Registration Certificate and maintains VAT compliance to qualify under this regulation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2480",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "manufacturing establishment",
+          "Import Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports"
+        ],
+        "VAT Compliant": [
+          "manufacturing establishment",
+          "Value Added Tax and Supplementary Duty Act 2012",
+          "tax returns"
+        ],
+        "Industrial Mould": [
+          "moulds",
+          "dies"
+        ],
+        "Manufacturer": [
+          "importer",
+          "Industrial Import Registration Certificate"
+        ]
+      },
+      "clause_clusters": [
+        22,
+        39,
+        95,
+        101,
+        129,
+        133,
+        134,
+        207,
+        258,
+        322,
+        857,
+        1194,
+        2876
+      ],
+      "source_file": "customs_sros_OCR/20230601_121-AIN_2023_165_Customs/20230601_121-AIN_2023_165_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "(১) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant Generator উৎপাদনকারী অথবা Generator Assembling প্রতিষ্ঠান হইতে হইবে;\n\nব্যাখ্যা:\n(অ) “Industrial IRC holder” অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর অধীন নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান;",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "This term is defined as an entity that possesses a valid and current Industrial Consumer Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports.",
+          "Importers must hold this certification to qualify for specific industrial import privileges."
+        ],
+        "VAT Compliant": [
+          "This term refers to a manufacturing entity that is registered under the Value Added Tax and Supplementary Duty Act, 2012.",
+          "To meet this status, the entity must regularly submit its required tax returns."
+        ],
+        "Generator Manufacturing or Assembling Industry": [
+          "Entities must belong to this specific industrial sector and satisfy both the Industrial IRC holder and VAT compliant status requirements to be eligible for relevant import concessions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2610",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "Industrial Consumer Import Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports"
+        ],
+        "VAT Compliant": [
+          "manufacturing entity",
+          "Value Added Tax and Supplementary Duty Act, 2012",
+          "tax returns"
+        ],
+        "Generator Manufacturing or Assembling Industry": [
+          "Industrial IRC holder",
+          "VAT compliant status"
+        ]
+      },
+      "clause_clusters": [
+        101,
+        129,
+        133,
+        134,
+        207,
+        258,
+        618,
+        1153,
+        2310
+      ],
+      "source_file": "customs_sros_OCR/20240606_171-AIN_2024_23_Customs/20240606_171-AIN_2024_23_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট",
+      "text_id": "metadata_2",
+      "resolved_text": "“পরিশিষ্ট”\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, .................................................. (আমদানিকারকের নাম ও ঠিকানা) বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ ও মূল্য সংযোজন কর (মূসক) এর অধীনে আমদানিকারক-উৎপাদক (Importer-Manufacturer) হিসাবে নিবন্ধিত একটি প্রতিষ্ঠান।\n\nউক্ত প্রতিষ্ঠান বিগত..................... অর্থ-বছরে রেয়াতী হারে আমদানিকৃত উপকরণ বা কাঁচামাল প্রতিষ্ঠানের রেজিস্টারে এন্ট্রি করিয়াছে এবং বিগত অর্থ-বছরের মূল্য সংযোজন কর সংক্রান্ত ১২ (বার) টি রিটার্ন বা দাখিলপত্র সংশ্লিষ্ট মূল্য সংযোজন কর কর্তৃপক্ষের নিকট দাখিল করিয়াছে/করে নাই।\n\nস্বাক্কর :\n(মূসক বিভাগীয় কর্মকর্তা)\n(নামীয় সিলসহ)",
+      "entity_concepts": {
+        "Importer-Manufacturer": [
+          "This entity is a registered institution under the Bangladesh Investment Development Authority and the Value Added Tax authority.",
+          "The institution is required to document the entry of raw materials or inputs imported at concessional rates in its official register.",
+          "The institution must submit its periodic Value Added Tax returns to the relevant tax authorities, and its compliance status regarding these submissions is subject to formal verification by departmental officers."
+        ],
+        "Value Added Tax": [
+          "This tax is the basis for the regulatory reporting requirements imposed on manufacturing entities.",
+          "The entity is responsible for filing periodic tax returns with the designated customs and tax authorities to maintain compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_875",
+      "entity_sub_entities": {
+        "Importer-Manufacturer": [
+          "registered institution",
+          "Bangladesh Investment Development Authority",
+          "Value Added Tax authority",
+          "raw materials",
+          "inputs",
+          "official register",
+          "Value Added Tax returns",
+          "tax authorities",
+          "departmental officers"
+        ],
+        "Value Added Tax": [
+          "tax",
+          "regulatory reporting requirements",
+          "manufacturing entities",
+          "tax returns",
+          "customs authorities",
+          "tax authorities"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        12,
+        45,
+        106,
+        258,
+        410,
+        467,
+        578,
+        891,
+        1121,
+        1217,
+        2305,
+        2644,
+        2898,
+        11325,
+        11372
+      ],
+      "source_file": "customs_sros_OCR/20180607_148-AIN_2018_14_Customs/20180607_148-AIN_2018_14_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট - প্রত্যয়নপত্র ও স্বাক্ষর block",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট\n\nপ্রত্যয়নপত্র\n[শর্তাবলির দফা (২) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, .................................................. (আমদানিকারকের নাম ও ঠিকানা) আমদানি রপ্তানি প্রধান নিয়ন্ত্রকের দফতর হইতে শিল্প ভোক্তা আইআরসি সম্বলিত একটি মূসক নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান।\n\nউক্ত প্রতিষ্ঠান বিগত ............................ অর্থ-বৎসরে রেয়াতী হারে আমদানিকৃত উপকরণ বা কাঁচামাল প্রতিষ্ঠানের রেজিস্টারে এন্ট্রি করিয়াছে এবং বিগত অর্থ-বৎসরের মূল্য সংযোজন কর সংক্রান্ত ১২ (বার) টি অথবা প্রযোজ্য ক্ষেত্রে .....টি রিটার্ন বা দাখিলপত্র সংশ্লিষ্ট মূল্য সংযোজন কর কর্তৃপক্ষের নিকট অনলাইনে/হার্ডকপি দাখিল করিয়াছে/করে নাই।\n\nস্বাক্ষর :\n(মূসক বিভাগীয় কর্মকর্তা)\n(নামীয় সিলসহ)\n\n\nরাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষর/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Value Added Tax Authorities": [
+          "This entity is the designated recipient for the tax returns or declarations submitted by manufacturing institutions regarding their import and production activities.",
+          "The tax authority oversees the compliance of registered manufacturing institutions in submitting the required periodic tax returns."
+        ],
+        "Manufacturer": [
+          "A manufacturer is a value-added tax registered entity that holds an industrial consumer Import Registration Certificate issued by the Chief Controller of Imports and Exports.",
+          "The manufacturer is required to maintain registers for raw materials or inputs imported at concessional rates and must submit mandatory periodic tax returns to the relevant tax authority."
+        ],
+        "Import Registration Certificate": [
+          "This is an official document issued by the Chief Controller of Imports and Exports that authorizes an entity to act as an industrial consumer for the purpose of importing goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_994",
+      "entity_sub_entities": {
+        "Value Added Tax Authorities": [
+          "tax returns",
+          "declarations",
+          "manufacturing institutions"
+        ],
+        "Manufacturer": [
+          "value-added tax registered entity",
+          "industrial consumer Import Registration Certificate",
+          "Chief Controller of Imports and Exports",
+          "registers",
+          "raw materials",
+          "inputs",
+          "tax returns",
+          "tax authority"
+        ],
+        "Import Registration Certificate": [
+          "official document",
+          "Chief Controller of Imports and Exports",
+          "industrial consumer",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        12,
+        95,
+        101,
+        106,
+        133,
+        220,
+        258,
+        322,
+        349,
+        615,
+        1746,
+        2280,
+        2365,
+        4436
+      ],
+      "source_file": "customs_sros_OCR/20200611_122-AIN_2020_73_Customs/20200611_122-AIN_2020_73_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_5",
+      "resolved_text": "পরিশিষ্ট-১\nপ্রত্যয়নপত্র\n[শর্তাবলির দফা (২) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা হইতেছে যে, মেসার্স .....................................................................\n.................................................................................................................................\n(সম্পূর্ণ নাম ও ঠিকানা) আমদানি রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে শিল্প আইআরসি সম্বলিত এবং বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন ও বিস্ফোরক পরিদপ্তর কর্তৃক অনুমোদিত একটি মূসক নিবন্ধিত এলপি গ্যাস সিলিন্ডার/অটো ট্যাংক প্রস্তুতকারী প্রতিষ্ঠান।\n\nউক্ত প্রতিষ্ঠান বিগত............................ অর্থ-বৎসরে রেয়াতি হারে আমদানিকৃত উপকরণ বা কাঁচামাল প্রতিষ্ঠানের রেজিস্টারে এন্ট্রি করিয়াছে এবং বিগত অর্থ-বৎসরের মূল্য সংযোজন কর সংক্রান্ত ১২ (বার) টি অথবা প্রযোজ্য ক্ষেত্রে .....টি রিটার্ন বা দাখিলপত্র সংশ্লিষ্ট মূল্য সংযোজন কর কর্তৃপক্ষের নিকট অনলাইনে/হার্ডকপি দাখিল করিয়াছে/করে নাই।\n\nস্বাক্ষর :\n(মূসক বিভাগীয় কর্মকর্তা)\n(নামীয় সিলসহ)",
+      "entity_concepts": {
+        "Industrial Import Registration Certificate": [
+          "This certificate confirms that the entity holds a valid registration certificate issued by the office of the Chief Controller of Imports and Exports for industrial purposes."
+        ],
+        "Liquefied Petroleum Gas Cylinder/Auto Tank Manufacturing": [
+          "The entity is recognized as a manufacturer of liquefied petroleum gas cylinders or auto tanks, subject to approval by the Bangladesh Petroleum Corporation and the Department of Explosives."
+        ],
+        "Value Added Tax": [
+          "The manufacturer is a registered taxpayer required to maintain records of raw materials imported at concessional rates and must submit periodical tax returns to the relevant tax authority."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1006",
+      "entity_sub_entities": {
+        "Industrial Import Registration Certificate": [
+          "registration certificate",
+          "office of the Chief Controller of Imports and Exports"
+        ],
+        "Liquefied Petroleum Gas Cylinder/Auto Tank Manufacturing": [
+          "liquefied petroleum gas cylinders",
+          "auto tanks",
+          "Bangladesh Petroleum Corporation",
+          "Department of Explosives"
+        ],
+        "Value Added Tax": [
+          "raw materials",
+          "tax returns",
+          "tax authority"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        12,
+        101,
+        207,
+        258,
+        1748,
+        2280,
+        2500,
+        2643,
+        5844,
+        9517,
+        9518
+      ],
+      "source_file": "customs_sros_OCR/20200611_126-AIN_2020_77_Customs/20200611_126-AIN_2020_77_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-ক",
+      "text_id": "metadata_6",
+      "resolved_text": "পরিশিষ্ট-ক\n(শর্ত ২ দ্রষ্টব্য)\nপ্রত্যয়নপত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, -------------------------------------\n(আমদানিকারক প্রতিষ্ঠানের সম্পূর্ণ ঠিকানা) এই মূসক বিভাগের অধীন বিনোদন পার্ক (শিশু পার্ক/ওয়াটার পার্ক/অন্যান্য) পরিচালনাকারী হিসাবে মূসক নিবন্ধিত। প্রতিষ্ঠানটি নিয়মিত মূসক পরিশোধ ও রিটার্ন দাখিল করেন/করনে না। প্রতিষ্ঠানটির নিকট এই দপ্তরের কোন নিরঙ্কুশ বকেয়া পাওনা নেই।\n\nস্বাক্ষর: . . . . . . . . . . . . . . . . . .\nতারিখ : \nনাম: . . . . . . . . . . . . . . . . . . . .\nপদবি: বিভাগীয় কর্মকর্তা\nকাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ----------\nসিল:",
+      "entity_concepts": {
+        "Value Added Tax": [
+          "The document requires a certification confirming that an importer operating an amusement park is registered for Value Added Tax purposes.",
+          "The certification confirms whether the entity maintains compliance by regularly paying tax and submitting tax returns."
+        ],
+        "Customs, Excise and VAT Department": [
+          "The departmental officer is responsible for certifying the tax registration and compliance status of businesses under their jurisdiction.",
+          "The certification must confirm that the registered business has no outstanding tax arrears owed to this department."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1602",
+      "entity_sub_entities": {
+        "Value Added Tax": [
+          "importer",
+          "amusement park",
+          "tax",
+          "tax returns"
+        ],
+        "Customs, Excise and VAT Department": [
+          "departmental officer",
+          "registered business",
+          "tax arrears"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        39,
+        258,
+        467,
+        550,
+        769,
+        1322,
+        4999,
+        11311
+      ],
+      "source_file": "customs_sros_OCR/20250602_204-AIN_2025_26_Customs/20250602_204-AIN_2025_26_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

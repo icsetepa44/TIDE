@@ -1,0 +1,1407 @@
+{
+  "cluster_id": 235,
+  "cluster_label": "HS codes",
+  "thread_index": 1,
+  "thread_id": "cluster_00235_t1",
+  "title": "HS Code-Based Industrial Input Declaration and Audit",
+  "summary": "This thread covers the evolution of documentation requirements for industrial inputs, where HS codes are used to track raw materials, wastage, and production capacity. It evolved from simple declarations to standardized audit reporting formats under the Customs Act 2023.",
+  "evolution": {
+    "procedure": "Shifted from manual declaration to systematic audit-based verification and digital inventory tracking.",
+    "institutions": "Increased role of the Customs Audit Commissionerate in verifying HS code declarations."
+  },
+  "timeline": [
+    {
+      "date": "2019-05-30",
+      "instrument": "NBR Directive",
+      "change": "Initial standardized declaration format for footwear production inputs.",
+      "clause_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_11"
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "instrument": "NBR Directive",
+      "change": "Expansion of declaration format to include mould/die production materials.",
+      "clause_ids": [
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "NBR Audit Guidelines",
+      "change": "Integration of HS code usage as a risk factor in transaction-based and system-based audits.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Bonded Warehouse Rules",
+      "change": "Codification of HS code requirements for bonded warehouse licensing and inventory management.",
+      "clause_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_12",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_9"
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "instrument": "NBR Directive",
+      "change": "Refinement of input declaration forms to include total production and usage metrics.",
+      "clause_ids": [
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13"
+      ]
+    }
+  ],
+  "num_member_objects": 13,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "",
+      "text_id": "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_11",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত ৫ ও ৬ দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা\n\nপাদুকা উৎপাদন কাজে আবশ্যক উপকরণ সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রম নং | পণ্যের নাম ও এইচ.এস. কোড | একক | পণ্য উৎপাদনে ব্যবহার্য উপকরণের নাম (এইচ.এস. কোডসহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ | অপচয়ের শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for the prescribed declaration form required for inputs utilized in footwear manufacturing."
+        ],
+        "Footwear Manufacturing Inputs": [
+          "Manufacturers are required to provide a formal declaration detailing the specific inputs used in production, including their respective HS codes, quantities required per unit, and the percentage of wastage for each item.",
+          "The declaration must include identification details such as the company name, address, and Value Added Tax registration number, and requires certification by the relevant Value Added Tax Commissioner."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1952",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "prescribed declaration form",
+          "inputs"
+        ],
+        "Footwear Manufacturing Inputs": [
+          "inputs",
+          "HS codes",
+          "quantities",
+          "percentage of wastage",
+          "company name",
+          "address",
+          "Value Added Tax registration number",
+          "Value Added Tax Commissioner"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        106,
+        218,
+        235,
+        474,
+        499,
+        541,
+        979,
+        3641,
+        8213,
+        10866
+      ],
+      "source_file": "customs_sros_OCR/20190530_159-AIN_2019_28_Customs/20190530_159-AIN_2019_28_Customs_output.json",
+      "clause_date": "2019-05-30"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "পরিশিষ্ট",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+      "resolved_text": "পরিশিষ্ট\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা\n\nমোন্ড (Mould) বা ডাই (Die) তৈরির উপকরণ বা কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রম নং\n(১) | পণ্যের নাম ও এইচ. এস. কোড\n(২) | একক\n(৩) | পণ্য উৎপাদনে ব্যবহার্য পণ্য বা যন্ত্রাংশ বা উপকরণ এর নাম (এইচ.এস. কোডসহ)\n(৪) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ (কেজি)\n(৫) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি)\n(৬) | অপচয়ের শতকরা হার\n(৭) |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\tপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ",
+      "entity_concepts": {
+        "Industrial Mould": [
+          "This instrument provides a standardized form for declaring raw materials and components used in the production of moulds or dies. It requires applicants to submit specific product details, HS codes, unit measurements, and waste percentages for the materials consumed in the manufacturing process.",
+          "The declaration form must be validated with the signature of the applicant's management and countersigned by the relevant Commissioner of Customs or VAT authorities to confirm the input-output coefficients."
+        ],
+        "Value Added Tax": [
+          "The document mandates the disclosure of the taxpayer registration number, linking the manufacturing declaration process to the regulatory framework for value-added tax compliance."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority overseeing the submission and validation of raw material consumption declarations for industrial production."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2488",
+      "entity_sub_entities": {
+        "Industrial Mould": [
+          "raw materials",
+          "components",
+          "moulds",
+          "dies",
+          "product details",
+          "HS codes",
+          "unit measurements",
+          "waste percentages",
+          "declaration form",
+          "signature",
+          "applicant's management",
+          "Commissioner of Customs",
+          "VAT authorities",
+          "input-output coefficients"
+        ],
+        "Value Added Tax": [
+          "taxpayer registration number",
+          "manufacturing declaration process",
+          "regulatory framework"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "raw material consumption declarations",
+          "industrial production"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        9,
+        12,
+        42,
+        138,
+        235,
+        237,
+        265,
+        391,
+        857,
+        895,
+        1128,
+        1194,
+        2798,
+        2876,
+        4583,
+        5086,
+        5581,
+        9728,
+        11196,
+        12723
+      ],
+      "source_file": "customs_sros_OCR/20230601_121-AIN_2023_165_Customs/20230601_121-AIN_2023_165_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_28",
+      "clause_title": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+      "resolved_text": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ—ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ নিম্নরূপ:\n(১) আমদানিকারক/রপ্তানিকারক:\nএকটি নির্দিষ্ট সময়ে কোন আমদানিকারক/রপ্তানিকারক মোট নথিবুক্ত ট্র্যানজ্যাকশনের সংখ্যা ঝুঁকির নির্ণায়ক হিসাবে কাজ করতে পারে বলে অডিট নির্বাচনের ক্ষেত্রে একে একটি মানদণ্ড হিসাবে ব্যবহার করা যায়। যেমন:\n(ক) অনিয়মিত আমদানিকারক/রপ্তানিকারক;\n(খ) প্রায়শই অসত্য ঘোষণা দেয় এমন আমদানিকারক/রপ্তানিকারক;\n(গ) একই চালানে একাধিক এইচ.এস কোডের পণ্য আমদানিকারক\n(ঘ) কোন পণ্যের এককালীন আমদানিকারক/রপ্তানিকারক;\n(ঙ) প্রথমবারের মত আমদানিকারক/রপ্তানিকারক।\n\n(২) ট্র্যানজ্যাকশনের ভ্যালু\nকোন আমদানিকারক/রপ্তানিকারক অস্বাভাবিক উচ্চমূল্য/নিম্নমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই (TTI) দিয়ে সম্পন্ন করে থাকলে অথবা তার বিপরীত হয়ে থাকলে তা ঝুঁকিসম্পন্ন বিবেচনা করে তাদের প্রতি বিশেষ নজর দেওয়া যেতে পারে। যেমন:\nট্র্যানজ্যাকশন ভ্যালু সংক্রান্ত যে সকল নিয়ামক বিবেচনায় পণ্যচালান অডিটের জন্য নির্বাচন করতে হবে তা নিম্নরূপ:\n(ক) কোনো ট্র্যানজ্যাকশন মূল্য শিপিং বা পরিবহন ব্যয়ের কম/সমান;\n(খ) পণ্যের মূল্য পণ্যের কাঁচামালের মূল্যের প্রায় সমান;\n(গ) ঘোষিত ইউনিট মূল্যের তুলনায় প্যাকিং/প্যাকেজিংয়ের ব্যয় বেশি;\n(ঘ) কোনো পণ্যের মূল্য আন্তর্জাতিক বাজারে উক্ত পণ্যের ঘোষিত মূল্যের চেয়ে অস্বাভাবিক কম/বেশি;\n(ঙ) রপ্তানিকারক দেশের মুদ্রার বাইরে অন্য মুদ্রা ব্যবহার;\n(চ) শুল্কায়ন বিধিমালা অনুযায়ী কাস্টমস ডিক্লারেশন করা হয়নি;\n(ছ) উচ্চমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই অথবা তার বিপরীত।\n\n(৩) কাস্টমস ডিউটির হার\nউচ্চ বা নিম্ন উভয় কাস্টমস ডিউটির পণ্যের ট্র্যানজ্যাকশনেই বিভিন্ন ধরনের ঝুঁকি থাকে। শূন্য রেটের পণ্যসমূহে সাধারণত রাজস্ব ফাঁকির ঝুঁকি বেশি না হলেও জাল-জালিয়াতির মাধ্যমে সুবিধালাভের উদ্দেশ্যে অসত্য ক্লাসিফিকেশনের ঝুঁকি থেকেই যায়। যেহেতু উচ্চ শুল্কের পণ্যের ক্ষেত্রে যেকোনো ত্রুটি উল্লেখযোগ্য রাজস্ব ক্ষতির কারণ হতে পারে তাই এগুলোকে ঝুঁকিপূর্ণ বিবেচনা করে এই ক্ষেত্রে বিশেষ মনোযোগ দিতে হবে। যেমন:\n(ক) যন্ত্রাংশ ও আনুসাঙ্গিক উপকরণকে মূল যন্ত্রপাতির কোডে শ্রেণিবিন্যাস করা;\n(খ) পণ্যের অস্পষ্ট বিবরণ, হ্রাসকৃত কাস্টমস ডিউটির সুবিধা নিতে এমন এইচ. এস. কোড ব্যবহার যা ব্যবসা প্রতিষ্ঠানের কাজের সাথে সঙ্গতিপূর্ণ নয়;\n(গ) কোনো এক বা একাধিক নির্দিষ্ট HS Code এর আওতায় অস্বাভাবিক পরিমাণের আমদানি যা সাধারণত সংশ্লিষ্ট দেশে আমদানি বা রপ্তানি করা হয়না;\n(ঘ) খুব কম পরিমাণ আমদানি/রপ্তানি যা বাজার পরিসংখ্যান বা অবস্থার সাথে মেলে না;\n(ঙ) কোনো কোডে কাস্টমস ডিউটি হার পরিবর্তিত হলে আমদানির পরিমাণকে এক কোড থেকে অন্য কোডে পরিবর্তন করা।\n\n(৪) কান্ট্রি অব অরিজিন\nবেশ কয়েকটি ক্ষেত্রে যেমন, যেক্ষেত্রে পণ্যের ওপর কোটা বা অন্যান্য বিধি-নিষেধ রয়েছে, সেক্ষেত্রে কান্ট্রি অব অরিজিনে অসত্য ঘোষণার ঝুঁকি বেড়ে যায়। এমন ক্ষেত্রে আরো যাচাই-বাছাই ফলপ্রসূ প্রমাণিত হতে পারে। 'অরিজিন'-এর ক্ষেত্রে আশঙ্কার অন্যান্য ক্ষেত্রসমূহ:\n(ক) কান্ট্রি অব অরিজিন যদি কান্ট্রি অব শিপমেন্ট থেকে ভিন্ন হয়;\n(খ) আইপিও অনুসারে নিষিদ্ধ দেশ বা উৎস হতে আমদানি করা হয়;\n(গ) Bill of Lading (BL)/Airway Bill (AWB)/অন্যান্য পরিবহন চালান-এ ঘোষিত অরিজিনের সাথে সামঞ্জস্যপূর্ণ কি না।\n\n(৫) ইমপোর্ট জেনারেল ম্যানিফেস্ট (আইজিএম)\nআইজিএম জাহাজের মাস্টার বা তার এজেন্ট কর্তৃক দাখিল করা হয়। আইজিএম এ শিপার, কনসাইনি, প্যাকেজের সংখ্যা, প্যাকেজের ধরন, পণ্যের বিবরণ, এয়ারওয়ে বিল বা বিল অব লেডিং নম্বর এবং তারিখ, ফ্লাইট বা জাহাজের বিবরণ ইত্যাদির বিবরণ থাকে। আইজিএমে নিম্নলিখিত বিষয়াদির প্রতি লক্ষ্য রাখতে হবে।\n(ক) বি/এল তে দাখিলকৃত পণ্যের বর্ণনা, মূল্য ও পরিমাণের সাথে আইজিএমে দাখিলকৃত পণ্যের বর্ণনার সাথে মিল রয়েছে কিনা?\n(খ) কন্টেইনারের বিবরণের সাথে দাখিলকৃত ঘোষণার মিল রয়েছে কিনা?\n\n(৬) পণ্যচালান সম্পর্কিত অন্যান্য গুরুত্বপূর্ণ তথ্যাদি পর্যালোচনা:\n(ক) এমন কিছু পণ্য আমদানি হতে পারে যেগুলো উল্লিখিত দেশে উৎপাদিত বা সেখান থেকে রপ্তানি করা হয়নি;\n(খ) ঝুঁকিপূর্ণ কোনো দেশ থেকে রপ্তানি করা করা হয়েছে কি না;\n(গ) কোনো দেশ থেকে আমদানিকৃত পণ্যের গড় ইউনিট মূল্যে অস্বাভাবিক পরিবর্তন।",
+      "entity_concepts": {
+        "Transaction Based Audit": [
+          "This standing order provides the criteria and indicators for selecting consignments for transaction-based audits to manage customs risk effectively.",
+          "The selection strategy focuses on identifying high-risk transactions based on importer/exporter behavior, transaction values, duty rates, country of origin, and discrepancies in manifest data."
+        ],
+        "Importer and Exporter": [
+          "Audit selection criteria consider the frequency and history of importers or exporters.",
+          "Operational focus is placed on irregular traders, those frequently providing false declarations, one-time traders, first-time traders, or those importing multiple products under various HS Codes in a single consignment."
+        ],
+        "H.S. Code": [
+          "Discrepancies in HS Code usage, such as misclassification of accessories as primary machinery or selecting codes inconsistent with the business nature, are key indicators for audit selection.",
+          "Abnormal import volumes under specific codes that do not match market statistics or intentional switching of codes following duty rate changes are flagged as high risk."
+        ],
+        "Customs Duty": [
+          "Transactions involving high or low customs duty rates are monitored for risks of revenue leakage or fraudulent classification.",
+          "Special attention is required for high-duty items where errors could lead to significant revenue loss, and for zero-rated items susceptible to misclassification to gain improper benefits."
+        ],
+        "Country of Origin": [
+          "Misdeclaration of the country of origin is a significant risk factor, particularly for goods subject to quotas or specific import restrictions.",
+          "Discrepancies between the declared country of origin and the country of shipment, or importing from restricted sources according to Import Policy Orders, trigger mandatory further verification."
+        ],
+        "Bill of Lading": [
+          "The Bill of Lading must be cross-verified against the Import General Manifest to ensure consistency in shipper, consignee, and cargo details.",
+          "Declarations of origin and product details in the Bill of Lading are validated as part of the customs audit process to prevent misdeclaration."
+        ],
+        "Airway Bill": [
+          "The Airway Bill serves as a critical transport document where declared details such as origin must align with other customs documents to mitigate the risk of fraud."
+        ],
+        "Import General Manifest": [
+          "The Import General Manifest submitted by the ship's master or agent is reviewed to compare declarations of product description, value, and quantity against other shipping documents.",
+          "Operational checks include verifying the consistency of container details with the provided declarations to ensure accuracy in cargo clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_699",
+      "entity_sub_entities": {
+        "Transaction Based Audit": [
+          "consignments",
+          "importer/exporter behavior",
+          "transaction values",
+          "duty rates",
+          "country of origin",
+          "manifest data"
+        ],
+        "Importer and Exporter": [
+          "importers",
+          "exporters",
+          "irregular traders",
+          "one-time traders",
+          "first-time traders",
+          "products",
+          "HS Codes",
+          "consignment"
+        ],
+        "H.S. Code": [
+          "accessories",
+          "primary machinery",
+          "import volumes",
+          "duty rate"
+        ],
+        "Customs Duty": [
+          "customs duty rates",
+          "high-duty items",
+          "zero-rated items"
+        ],
+        "Country of Origin": [
+          "country of origin",
+          "goods",
+          "quotas",
+          "import restrictions",
+          "country of shipment",
+          "restricted sources",
+          "Import Policy Orders"
+        ],
+        "Bill of Lading": [
+          "Bill of Lading",
+          "Import General Manifest",
+          "shipper",
+          "consignee",
+          "cargo details",
+          "origin",
+          "product details"
+        ],
+        "Airway Bill": [
+          "Airway Bill",
+          "origin",
+          "customs documents"
+        ],
+        "Import General Manifest": [
+          "Import General Manifest",
+          "ship's master",
+          "agent",
+          "product description",
+          "value",
+          "quantity",
+          "shipping documents",
+          "container details",
+          "cargo clearance"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        79,
+        83,
+        94,
+        157,
+        162,
+        192,
+        206,
+        219,
+        235,
+        268,
+        295,
+        320,
+        334,
+        350,
+        404,
+        535,
+        763,
+        843,
+        883,
+        1097,
+        1239,
+        1321,
+        2092,
+        2528,
+        2788,
+        2789,
+        2847,
+        3077,
+        3562,
+        4150,
+        4583,
+        4615,
+        4893,
+        6672,
+        6756,
+        8151,
+        8705,
+        8876,
+        8952,
+        9282,
+        10282,
+        10911,
+        11505,
+        12930,
+        13447
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_71",
+      "clause_title": "অডিট পত্রের বিজ্ঞপ্তি (TRANSACTION BASE AUDIT)",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+      "resolved_text": "পরিশিষ্ট-১: অডিট পত্রের বিজ্ঞপ্তি (TRANSACTION BASE AUDIT)\n\nকাস্টম হাউস, --------। বা কাস্টমস মূল্যায়ন ও অভ্যন্তরীণ অডিট কমিশনারেট, .....।\n\nনথি নং ------------------। তারিখঃ--------------------।\n\nবিষয়ঃ Customs Act- 1969 এর Section 83(C) মোতাবেক অডিট এবং পরীক্ষণ করার জন্য নোটিশ প্রদান।\n\nজনাব,\nকমিশনার (কাস্টম হাউস/কমিশনারেটের নাম, ঠিকানা) কর্তৃক জারীকৃত পিসিএ আদেশ পত্র নং ................ তারিখ: ................ এর মাধ্যমে গঠিত পিসিএ দল ................ তারিখে আপনার প্রতিষ্ঠানের বিই ................ তারিখ:................ এর পিসিএ করবেন। নিম্নবর্ণিত রেকর্ডপত্র ও দলিলাদি পিসিএ দলের নিকট উপস্থাপনের জন্য অনুরোধ করছিঃ\n\n১. প্রতিষ্ঠানের বিবরণ\n(ক) প্রতিষ্ঠানের নাম ও ঠিকানা (হেড অফিসের ঠিকানা ও টেলিফোন নম্বরসহ)\n(খ) ভ্যাট নিবন্ধন নম্বর ও তারিখ\n(গ) স্থানীয় মুসক কার্যালয়/বিভাগ\n(ঘ) ব্যবসায়ের ধরন (প্রাইভেট লিঃ/পাবলিক লিঃ/প্রোপরাইটরশিপ/অন্যান্য)\n(ঙ) হালনাগাদ IRC\n(চ) IRC এর ধরন (শিল্প প্রতিষ্ঠান/বাণিজ্যিক আমদানিকারক/অন্যান্য)\n(ছ) VAT Compliant সম্পর্কিত তথ্য\n(জ) অডিটাধীন প্রতিষ্ঠানের বার্ষিক অডিট প্রতিবেদন\n(ঝ) অন্যান্য\n\n২. HS Code সম্পর্কিত তথ্য\n(ক) বিল অব এন্ট্রি তে ঘোষিত এইচ.এস কোডসমূহ, আমদানি দলিলাদিতে ঘোষিত এইচ.এস কোডসমূহ, এলসি তে উল্লিখিত এইচ.এস কোডসমূহ\n(খ) BCT অনুযায়ী ঘোষিত/শুল্কায়িত HS Code সম্পর্কিত তথ্য\n(গ) এইচ.এস কোড বিষয়ে NBR এর এডভান্স রুলিং সম্পর্কিত তথ্য\n(ঘ) এইচ.এস কোড বিষয়ে এসেসমেন্ট কমিটির সিদ্ধান্ত সম্পর্কিত তথ্য\n(ঙ) অন্যান্য\n\n৩. মূল্য সম্পর্কিত তথ্য\n(ক) যে দেশে মূল্য পরিশোধ করা হয়েছে, সেটি ঘোষিত কান্ট্রি অব অরিজিন থেকে ভিন্ন কি না সে সম্পর্কিত তথ্য\n(খ) পণ্য বিক্রেতা ব্যতীত অন্য কোন পক্ষকে মূল্য পরিশোধ সম্পর্কিত তথ্য\n(গ) ঘোষিত মূল্য ক্রয় আদেশ, বিক্রয় চুক্তি, ইনভয়েস ইত্যাদি সম্পর্কিত তথ্য\n(ঘ) আমদানিকারক প্রতিষ্ঠান ও তার কোন সরবরাহকারীর মধ্যে কোন সম্পর্ক বিষয়ক তথ্য\n(ঙ) ব্যবসা প্রতিষ্ঠান পণ্য পরিবহনের খরচ পূর্বেই পরিশোধ করা হয়েছে কি না সে সম্পর্কিত তথ্য\n(চ) কাস্টমসের মূল্য নির্ধারণ বিষয়ক ঘোষণা ফরম পূরণ করা হয়েছে কি না সে সম্পর্কিত তথ্য\n(ছ) ট্যারিফ মূল্যে কোন পণ্য আমদানি হয়েছে কি না সে সম্পর্কিত তথ্য\n(জ) ট্যারিফ ভ্যালু অপেক্ষা ইনভয়েস মূল্য বেশি ছিল কি না, বেশি হলে ইনভয়েস মূল্যে শুল্কায়ন হয়েছে কি না সে সম্পর্কিত তথ্য\n(ঝ) মিনিমাম মূল্য নির্ধারিত কোন পণ্য আমদানি হয়েছে কি না, মিনিমাম মূল্য অপেক্ষা কম মূল্যে কোন পণ্য শুল্কায়ন হয়েছে কি না সে সম্পর্কিত তথ্য\n(ঞ) অন্যান্য\n\n৪. এস.আর.ও/বিশেষ আদেশের মাধ্যমে গৃহীত রেয়াতি সুবিধা (CPC) সংক্রান্ত তথ্য\n(ক) আমদানিকারক প্রতিষ্ঠানের জন্য বিশেষ কোন এস.আর.ও/আদেশ রয়েছে কি না সে সম্পর্কিত তথ্য\n(খ) আমদানিকারক প্রতিষ্ঠানকে NBR কর্তৃক বিশেষ কোন সুবিধা প্রদান করা হয়েছে কি না সে সম্পর্কিত তথ্য\n(গ) রেয়াতি সুবিধায় আমদানিকৃত মূলধনী যন্ত্রপাতি সংশ্লিষ্ট প্রতিষ্ঠানে স্থাপিত হয়েছে কি না সে সম্পর্কিত তথ্য\n(ঘ) গৃহীত সিপিসি সংশ্লিষ্ট এস.আর.ও/আদেশ এর তালিকা\n(ঙ) অন্যান্য\n\n৫. আমদানি নীতি/বিধিমালা সম্পর্কিত তথ্য\n(ক) আমদানি নিষিদ্ধ কোন পণ্য আমদানি করা হয়েছে কি না সে সম্পর্কিত তথ্য\n(খ) আমদানি নীতি আদেশ এর শর্তযুক্ত পণ্য আমদানি হলে তার তালিকা * ১\n(গ) আমদানি নীতি আদেশের শর্ত প্রতিপালিত হয়েছে কি না সে সম্পর্কিত তথ্য\n(ঘ) পুনঃআমদানি/পুনঃরপ্তানির (প্রযোজ্য ক্ষেত্রে) শর্ত প্রতিপালিত হয়েছে কি না সে সম্পর্কিত তথ্য\n(ঙ) অন্যান্য\n\n৬. বিশেষজ্ঞ মতামত/রাসায়নিক পরীক্ষা সম্পর্কিত তথ্য (প্রযোজ্য ক্ষেত্রে)\n(ক) কোন Expert Opinion/Technical Opinion এর বাধ্যবাধকতা থাকলে সে সম্পর্কিত তথ্য\n(খ) আমদানিকৃত কোন পণ্য রাসায়নিক/অন্য কোন পরীক্ষা করা হয়েছে কি না, হয়ে থাকলে তার প্রতিবেদন\n(গ) অন্যান্য\n\nনাম: ....................................................\nপদমর্যাদা: ............................................\nপিসিএ দলনেতা, দল নং............................\nটেলিফোন নম্বর: .....................................\nই-মেইল: ................................................\n\nপ্রাপকঃ\nপ্রতিষ্ঠানের মালিক/ব্যবস্থাপনা পরিচালক\nনাম......................................................\nঠিকানা...................................................\nনিবন্ধন নম্বর: ........................................\nতারিখ: ...................................................\n\nনোট: পিসিএ দলনেতা প্রয়োজনে আইন ও বিধির আলোকে অন্য যেকোন তথ্য/দলিললাদি উপস্থাপনের জন্য ব্যক্তি/প্রতিষ্ঠানকে অনুরোধ করতে পারবেন।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 83(C) of the Act serves as the legal basis for issuing official notices to conduct transaction-based audits on imported goods."
+        ],
+        "Transaction Based Audit": [
+          "The Audit Team is responsible for conducting a transaction-based audit of specific bills of entry as directed by the Commissioner of Customs.",
+          "Auditees are required to present comprehensive documentation regarding their business profile, HS codes, declared values, concessional benefits, and compliance with import policies as part of the audit process."
+        ],
+        "Commissioner of Customs Valuation and Internal Audit": [
+          "This authority or the respective Custom House issues the official notice for the transaction-based audit and oversees the appointment of the audit team."
+        ],
+        "Import Registration Certificate": [
+          "Auditees must provide details of their Import Registration Certificate, including its type, to verify their status as industrial or commercial importers."
+        ],
+        "VAT Compliant": [
+          "The auditee must submit information confirming their VAT registration status and overall VAT compliance as part of the audit documentation requirements."
+        ],
+        "H.S. Code": [
+          "The audit requires verification of declared HS codes against import documents, LCs, and the Bangladesh Customs Tariff, as well as checking against any advance rulings provided by the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The board is responsible for issuing advance rulings on HS codes and granting special concessions or privileges that are subject to review during a customs audit."
+        ],
+        "Customs Procedure Code": [
+          "The audit examines concessional benefits claimed under various SROs or special orders to ensure that the appropriate Customs Procedure Code conditions have been satisfied, such as the installation of imported capital machinery."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_742",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 83(C)",
+          "official notices",
+          "imported goods"
+        ],
+        "Transaction Based Audit": [
+          "Audit Team",
+          "bills of entry",
+          "Commissioner of Customs",
+          "Auditees",
+          "business profile",
+          "HS codes",
+          "declared values",
+          "concessional benefits",
+          "import policies"
+        ],
+        "Commissioner of Customs Valuation and Internal Audit": [
+          "authority",
+          "Custom House",
+          "official notice",
+          "audit team"
+        ],
+        "Import Registration Certificate": [
+          "Import Registration Certificate",
+          "industrial importers",
+          "commercial importers"
+        ],
+        "VAT Compliant": [
+          "VAT registration status",
+          "VAT compliance"
+        ],
+        "H.S. Code": [
+          "HS codes",
+          "import documents",
+          "LCs",
+          "Bangladesh Customs Tariff",
+          "advance rulings",
+          "National Board of Revenue"
+        ],
+        "National Board of Revenue": [
+          "advance rulings",
+          "HS codes",
+          "special concessions",
+          "privileges"
+        ],
+        "Customs Procedure Code": [
+          "concessional benefits",
+          "SROs",
+          "special orders",
+          "Customs Procedure Code",
+          "capital machinery"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        5,
+        7,
+        8,
+        98,
+        129,
+        164,
+        235,
+        254,
+        277,
+        279,
+        311,
+        322,
+        417,
+        453,
+        535,
+        700,
+        776,
+        1025,
+        1129,
+        1480,
+        1999,
+        2087,
+        2160,
+        2406,
+        2562,
+        2564,
+        2797,
+        4261,
+        4856,
+        5756,
+        6121,
+        10224,
+        13225
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_72",
+      "clause_title": "অডিট প্রতিবেদন (TRANSECTION BASED AUDIT)",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+      "resolved_text": "পরিশিষ্ট-২: অডিট প্রতিবেদন (TRANSECTION BASED AUDIT)\n\nঅডিট প্রতিবেদনে যে সকল তথ্য সন্নিবেশিত হবে তার একটি প্রমিত তালিকা নিম্নে উপস্থাপন করা হলোঃ\n\n১. প্রতিষ্ঠানের বিবরণ\n(ক) প্রতিষ্ঠানের নাম ও ঠিকানা (হেড অফিসের ঠিকানা ও টেলিফোন নম্বরসহ)\n(খ) ভ্যাট নিবন্ধন নম্বর ও তারিখঃ\n(গ) স্থানীয় মুসক কার্যালয়/বিভাগঃ\n(ঘ) ব্যবসায়ের ধরন (প্রাইভেট লিঃ/পাবলিক লিঃ/প্রোপরাইটরশিপ/অন্যান্য)\n(ঙ) IRC হালনাগাদ কি নাঃ\n(চ) IRC এর ধরন (শিল্প প্রতিষ্ঠান/বাণিজ্যিক আমদানিকারক/অন্যান্য)\n(ছ) VAT Compliant কি না\n(জ) অডিটাধীন প্রতিষ্ঠানের বার্ষিক অডিট প্রতিবেদন আছে কি না\n(ঝ) অডিটাধীন প্রতিষ্ঠানের বার্ষিক টার্নওভারের পরিমাণ (গত ২ বছর)\n(ঞ) অন্যান্য\n\n২. HS Code সম্পর্কিত তথ্য\n(ক) বিল অব এন্ট্রি তে ঘোষিত এইচ.এস কোডসমূহ, আমদানি দলিলাদিতে ঘোষিত এইচ.এস কোডসমূহ, এলসি তে উল্লিখিত এইচ.এস কোডসমূহ যাচাই করা হয়েছে কি না;\n(খ) BCT ও WCO Explanatory Notes অনুযায়ী ঘোষিত/শুল্কায়িত HS Code সঠিক কি না;\n(গ) এইচ.এস কোড বিষয়ে NBR এর এডভান্স রুলিং সঠিকভাবে প্রয়োগ করা হয়েছে কি না;\n(ঘ) পণ্যের শ্রেণিবিভাগ বিষয়ক পূর্ববর্তী কোনো রাসায়নিক প্রতিবেদন/অ্যাসেসমেন্ট কমিটির সিদ্ধান্ত থাকলে অডিট করার সময় তা আমলে নেয়া হয়েছে কি না;\n(ঙ) আমদানিকারকের ব্যবসার ধরনের সাথে সামঞ্জস্যপূর্ণ নয় এমন এইচ.এস.কোড এর পণ্যগুলো আমদানি করা হয়েছে কি না;\n(চ) পণ্যের শ্রেণিবিভাগ করণের ক্ষেত্রে আমদানি দলিলাদিতে পণ্যের বর্ণনা যাচাই করা হয়েছে কি না;\n(ছ) পণ্যের এইচ.এস.কোড যাচাইকালে যদি উচ্চ শুল্কহারের সমজাতীয় পণ্য থাকে , সমজাতীয় আমদানিকারক নিম্ন বা শূন্য শুল্কহারের এইচ.এস.কোড ব্যবহার করেছে কিনা; নিষিদ্ধ পণ্যের ক্ষেত্রেও একই পদ্ধতি অনুসরণ করা হয়েছে কি না;\n(জ) যে সকল পণ্যের শ্রেণিবিণ্যাসকরণের ক্ষেত্রে রাসায়নিক পরীক্ষার প্রয়োজনীয়তা রয়েছে এমন পণ্যের বর্ণনার সাথে এইচ.এস. কোডের মিল রয়েছে কি না;\n(ঝ) পণ্যের শ্রেণিবিণ্যাস নির্ধারণের ক্ষেত্রে পণ্যের নমুনা, পণ্যের ছবি বা বৈজ্ঞানিক বর্ণনা বা রাসায়নিক নাম যাচাই করা হয়েছে কি না;\n\n৩. মূল্য সম্পর্কিত তথ্য\n১. পণ্যের বিপরীতে প্রদেয় মূল্য বা প্রদত্ত মূল্য সঠিকভাবে ঘোষণা করা হয়েছে কি না;\n২. বি/ই তে ঘোষিত মূল্যের সাথে উৎস দলিলাদিতে (এলসি, ব্যাংক স্টেটমেন্ট, রেমিট্যান্স এপ্লিকেশন এবং ডেভিট/ক্রেডিট উল্লেখিত মূল্যের মিল আছে কিনা;\n৩. চালানের বিপরীতে পণ্য ছাড়ের শর্তাবলী প্রতিপালিত হয়েছে কি না;\n৪. কীভাবে পণ্যের মূল্য পরিশোধিত হয়েছে-পণ্য ছাড়ের সময় মূল্য পরিশোধ, অগ্রিম পরিশোধ অথবা কিস্তিতে পরিশোধ;\n৫. একই প্রকৃতির কয়েকটি পণ্য চালান যখন একটি ইনভয়েসের বিপরীতে আমদানি হয় তাদের ইউনিট প্রাইস এবং শুল্কহার একই কি না;\n৬. পণ্যের মূল্য তালিকা গ্রহণযোগ্য কি না;\n৭. বি/ই তে ঘোষিত মুদ্রার সাথে সংশ্লিষ্ট দলিলাদিতে উল্লেখিত মুদ্রার মিল আছে কি না;\n৮. বি/ই তে ঘোষিত ফ্রেইট চার্জ এবং ফ্রেইট দলিলাদির সাথে ইনভয়েস, বি/এল ও এয়ারওয়ে বিল যথার্থ আছে কি না;\n৯. পণ্য আমদানির বিপরীতে কোন বীমা নীতি আছে কি না;;\n১০. Exchange Rate যথাযথভাবে প্রয়োগ করা হয়েছে কি না;\n১১. বি/ই তে ঘোষিত কাস্টম ভ্যালুর সাথে কোম্পানির একাউন্ট বইয়ে এন্ট্রিকৃত ভ্যালু, ERP/SAP/অন্যান্য ব্যবসা প্রতিষ্ঠানে ব্যবহৃত সফটওয়্যার হতে Procurement Module এর সাথে মিল রয়েছে কি না;\n১২. প্রো-ফরমা ইনভয়েসের ঘোষিত মূল্যের সাথে কমার্শিয়াল ইনভয়েসে ঘোষিত মূল্যের মিল আছে কি না;\n১৩. কাস্টম ডাটাবেস ভ্যালুর সাথে পণ্যের ঘোষিত মূল্যের মিল রয়েছে কি না;\n১৪. পণ্যের ঘোষিত মূল্যের সাথে পণ্যের বর্ণনা এবং পরিষেবা (পরিবহন, রয়্যালিটি ও অন্যান্য) মিল আছে কিনা;\n১৫. আমদানিকৃত পণ্য চালানের বিপরীতে ওভার ইনভয়েসিং বা আন্ডার ইনভয়েসিং এর মাধ্যমে মানি লন্ডারিং হয়েছে কি না;\n১৬. আমদানিকৃত পণ্যের সাথে বিনামূল্যে বা কম খরচে তৈরি কোন সেবা/পণ্য সরবরাহ করা হয়েছে কিনা;\n১৭. আমদানিকৃত পণ্যের বিপরীতে চালান এবং পণ্য সংশ্লিষ্ট চুক্তিগুলো মিল রয়েছে কি না;\n১৮. পণ্য বিক্রেতা ব্যতীত অন্য কোন পক্ষকে মূল্য পরিশোধ করা হয়েছে কি না (সম্ভব হলে, স্টক পরীক্ষা সহ বাক্স, প্যাকিং, মোড়ক এবং পণ্যগুলোতে ঘোষিত উৎস এবং বারকোডগুলো যাচাই করতে হবে);\n১৯. ঘোষিত মূল্য ক্রয় আদেশ, বিক্রয় চুক্তি, ইনভয়েস ইত্যাদি দ্বারা সমর্থিত কি না (ব্যাংক স্টেটমেন্ট এবং মূল্য পরিশোধের রিসিপ্ট পরীক্ষা করা যেতে পারে);\n২০. আমদানিকারক প্রতিষ্ঠান ও তার কোন সরবরাহকারীর মধ্যে কোন সম্পর্ক রয়েছে কি না;\n২১. CIF ভ্যালু সিস্টেম ব্যবহৃত হলে, পণ্য পরিবহন এবং বিমা খরচ সঠিকভাবে অন্তর্ভুক্ত করা হয়েছে কি না;\n২২. ইনভয়েস এবং পণ্য পরিবহন চুক্তির ক্ষেত্রে (INCOTERMS) ডেলিভারি শর্তাবলী ঘোষিত পরিবহন চার্জের সাথে সামঞ্জস্যপূর্ণ কি না;\n২৩. ব্যবসা প্রতিষ্ঠান পণ্য পরিবহনের খরচ পূর্বেই পরিশোধ করেন কি না;\n২৪. FOB ভ্যালু সিস্টেম ব্যবহৃত হলে প্রযোজ্য সকল চার্জ/ফি সংযোজনপূর্বক শুল্ক করাদি পরিশোধ করা হয়েছে কি না;\n২৫. কমিশন সঠিকভাবে ঘোষিত এবং হিসাব করা হয়েছে কি না;\n২৬. কাস্টমসের মূল্য নির্ধারণ বিষয়ক ঘোষণা ফরম পূরণ করা হয়েছে কি না, হয়ে থাকলে এটি আমদানিকারকের দলিলাদি দ্বারা সমর্থিত কি না;\n২৭. শুল্ক মূল্যায়ন বিধিমালা অনুসরণপূর্বক শুল্কায়নযোগ্য মূল্য নির্ধারিত হয়েছে কি না;\n২৮. পণ্যের মূল্য অস্বাভাবিক বেশি হলে তা যাচাই করা হয়েছে কি না;\n২৯. আমদানিকৃত পণ্য একই সময়ের/প্রায় একই সময়ের Identical/Similar Good এর মূল্যের সাথে সামঞ্জস্যপূর্ণ কি না;\n৩০. ট্যারিফ মূল্যে কোন পণ্য আমদানি হয়েছে কি না;\n৩১. ট্যারিফ ভ্যালু অপেক্ষা ইনভয়েস মূল্য বেশি ছিল কি না, বেশি হলে ইনভয়েস মূল্যে শুল্কায়ন হয়েছে কি না;\n৩২. মিনিমাম মূল্য নির্ধারিত কোন পণ্য আমদানি হয়েছে কি না, মিনিমাম মূল্য অপেক্ষা কম মূল্যে কোন পণ্য শুল্কায়ন হয়েছে কি না;\n\n৪. এস.আর.ও/বিশেষ আদেশের মাধ্যমে গৃহীত রেয়াতি সুবিধা (CPC) সংক্রান্ত তথ্য\n(ক) আমদানিকারক প্রতিষ্ঠানের জন্য বিশেষ কোন এস.আর.ও/আদেশ রয়েছে কি নাঃ\n(খ) আমদানিকারক প্রতিষ্ঠানকে NBR কর্তৃক বিশেষ কোন সুবিধা প্রদান করা হয়েছে কি নাঃ\n(গ) রেয়াতি সুবিধায় আমদানিকৃত মূলধনী যন্ত্রপাতি সংশ্লিষ্ট প্রতিষ্ঠানে স্থাপিত হয়েছে কি নাঃ\n(ঘ) গৃহীত রেয়াতি সুবিধা/সিপিসি সংশ্লিষ্ট এস.আর.ও/আদেশ এর শর্তসমূহ প্রতিপালিত হয়েছে কি নাঃ\n(ঙ) গৃহীত সিপিসি সংশ্লিষ্ট এস.আর.ও/আদেশ এর তালিকাঃ\n(চ) রেয়াতি সুবিধায় আমদানিকৃত উপকরণ আমদানিকারকের উপকরণ-উৎপাদ সহগ ঘোষণার (মূসক- ৪.৩) সাথে সামঞ্জস্যপূর্ণ কি নাঃ\n(ছ) অন্যান্যঃ\n\n৫. আমদানি নীতি/বিধিমালা সম্পর্কিত তথ্য\n(ক) আমদানি নিষিদ্ধ কোন পণ্য আমদানি করা হয়েছে কি নাঃ\n(খ) আমদানি নীতি আদেশ এর শর্তযুক্ত পণ্য আমদানি হয়েছে কি না, হয়ে থাকলে তার তালিকা\n(গ) আমদানি নীতি আদেশের শর্ত প্রতিপালিত হয়েছে কি নাঃ\n(ঘ) পুনঃআমদানি/পুনঃরপ্তানির (প্রযোজ্য ক্ষেত্রে) শর্ত প্রতিপালিত হয়েছে কি নাঃ\n(ঙ) অন্যান্যঃ\n\n৬. বিশেষজ্ঞ মতামত/রাসায়নিক পরীক্ষা সম্পর্কিত তথ্য (প্রযোজ্য ক্ষেত্রে)\n(ক) কোন Expert Opinion/Technical Opinion এর বাধ্যবাধকতা থাকলে তা প্রতিপালিত হয়েছে কি নাঃ\n(খ) আমদানিকৃত কোন পণ্য রাসায়নিক/অন্য কোন পরীক্ষা করা হয়েছে কি না, হয়ে থাকলে তার প্রতিবেদন পর্যালোচনা করা হয়েছে কি নাঃ\n(গ) অন্যান্যঃ\n\n৭. বর্তমান অডিট সম্পর্কিত তথ্য\n(ক) অডিট আদেশ নং ও তারিখঃ\n(খ) অডিট মেয়াদে আমদানিকৃত পণ্যের নাম, পরিমাণ ও মূল্যঃ\n(গ) প্রাপ্ত HS Code সংক্রান্ত অনিয়মের বর্ণনাঃ\n(ঘ) প্রাপ্ত মূল্য সংক্রান্ত অনিয়মের বর্ণনাঃ\n(ঙ) প্রাপ্ত CPC সংক্রান্ত অনিয়মের বর্ণনাঃ\n(চ) অন্যান্য অনিয়মের বর্ণনাঃ\n(ছ) অন্যান্য বিশেষ পরীক্ষা/নিবিড় পরীক্ষা বা তদন্তের বর্ণনা ও ফলাফলঃ\n(জ) প্রাপ্ত অনিয়ম/শুল্ক ফাঁকির ক্ষেত্রে সংশ্লিষ্ট আইন/বিধিমালার ধারা ও বিধির উল্লেখঃ\n(ঝ) মোট অপরিশোধিত শুল্ক-করাদির পরিমাণঃ\n(ঞ) সুপারিশ সমূহঃ\n(ট) অন্যান্যঃ\n\nNote: B/E বা অন্যান্য দলিলাদির সংখ্যা অনেক বেশি হলে Risk Management এর আওতায় Randomly যাচাই পূর্বক অডিট কার্যক্রম সম্পন্ন করতে হবে।",
+      "entity_concepts": {
+        "Transaction Based Audit": [
+          "This clause provides a comprehensive standard template and guidelines for conducting transaction-based audits of business entities. It outlines required documentation, verification procedures for classification and valuation, and instructions for assessing compliance with import policies and customs duty concessions.",
+          "Auditors are instructed to use a risk management approach to randomly sample documents when the volume of bills of entry or other import records is extensive."
+        ],
+        "H.S. Code": [
+          "Auditors must verify whether declared HS Codes align with import documents, bills of entry, and letters of credit while ensuring conformity with the Bangladesh Customs Tariff and WCO Explanatory Notes.",
+          "Verification includes assessing the application of NBR advance rulings, laboratory reports, and checking for potential misclassification intended to avoid higher duties or import bans."
+        ],
+        "Exchange Rate": [
+          "Auditors are required to verify that the correct exchange rates have been applied to imported goods during the assessment process."
+        ],
+        "Identical Goods": [
+          "During valuation audits, officers must compare the declared value of imported goods against the value of identical or similar goods imported around the same time to ensure accuracy."
+        ],
+        "Customs Procedure Code": [
+          "The audit must verify if goods imported under specific concessional facilities or customs procedure codes comply with all conditions stipulated in the relevant SROs or government orders.",
+          "It includes checking if capital machinery imported at a concessional rate is properly installed and if input quantities align with registered production coefficients."
+        ],
+        "VAT Compliant": [
+          "Business entities subject to customs audits must be evaluated on whether they maintain VAT compliant status as part of their organizational profile."
+        ],
+        "Risk Management": [
+          "When processing large volumes of import documentation, auditors are directed to perform audits based on risk management principles, which involve randomly selecting samples for verification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_743",
+      "entity_sub_entities": {
+        "Transaction Based Audit": [
+          "documentation",
+          "classification",
+          "valuation",
+          "import policies",
+          "customs duty concessions",
+          "bills of entry",
+          "import records"
+        ],
+        "H.S. Code": [
+          "HS Codes",
+          "import documents",
+          "bills of entry",
+          "letters of credit",
+          "Bangladesh Customs Tariff",
+          "WCO Explanatory Notes",
+          "NBR advance rulings",
+          "laboratory reports"
+        ],
+        "Exchange Rate": [
+          "exchange rates",
+          "imported goods"
+        ],
+        "Identical Goods": [
+          "imported goods",
+          "identical goods",
+          "similar goods"
+        ],
+        "Customs Procedure Code": [
+          "concessional facilities",
+          "customs procedure codes",
+          "SROs",
+          "government orders",
+          "capital machinery",
+          "input quantities",
+          "registered production coefficients"
+        ],
+        "VAT Compliant": [
+          "VAT compliant status"
+        ],
+        "Risk Management": [
+          "import documentation",
+          "samples"
+        ]
+      },
+      "clause_clusters": [
+        5,
+        8,
+        63,
+        98,
+        129,
+        164,
+        235,
+        275,
+        279,
+        363,
+        409,
+        418,
+        463,
+        471,
+        535,
+        640,
+        700,
+        709,
+        776,
+        838,
+        1378,
+        1480,
+        1678,
+        2087,
+        2310,
+        2768,
+        2807,
+        3662,
+        3757,
+        4254,
+        4900,
+        5146,
+        10040,
+        11334
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_74",
+      "clause_title": "অডিট প্রতিবেদন (SYSTEM BASED AUDIT)",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+      "resolved_text": "পরিশিষ্ট-৪: অডিট প্রতিবেদন (SYSTEM BASED AUDIT)\n\n১. প্রতিষ্ঠানের বিবরণ\n(ক) প্রতিষ্ঠানের নাম ও ঠিকানা (হেড অফিসের ঠিকানা ও টেলিফোন নম্বরসহ)\n(খ) ভাট নিবন্ধন নম্বর ও তারিখ\n(গ) স্থানীয় মুসক কার্যালয়/বিভাগ\n(ঘ) TIN নাম্বার\n(ঙ) ব্যবসায়ের ধরন (প্রাইভেট লিঃ/পাবলিক লিঃ/প্রোপরাইটরশিপ/অন্যান্য)\n(চ) IRC হালনাগাদ কি না\n(ছ) IRC এর ধরন (শিল্প প্রতিষ্ঠান/বাণিজ্যিক আমদানিকারক/অন্যান্য)\n(জ) VAT Compliant কি না\n(ঝ) বন্ড লাইসেন্সধারী (IM-7) প্রতিষ্ঠান কি নাঃ\n(ঞ) অডিটাধীন প্রতিষ্ঠানের বার্ষিক অডিট প্রতিবেদন আছে কি না\n(ট) Authorized Economic Operator ভুক্ত প্রতিষ্ঠান কি না\n(ঠ) প্রতিষ্ঠানে ব্যবহৃত নিজস্ব Software (যেমন: ERP/SAP ইত্যাদি) আছে কি না\n(ড) অন্যান্য\n\n২. বন্ডেড প্রতিষ্ঠান সম্পর্কিত তথ্য (প্রযোজ্য ক্ষেত্রে)\n(ক) বন্ড লাইসেন্স হালনাগাদ কি নাঃ\n(খ) আমদানিকৃত পণ্যের HS Code বন্ড লাইসেন্স এর অন্তর্ভুক্ত কি নাঃ\n(গ) আমদানিকৃত পণ্যের বর্ণনা বন্ড লাইসেন্স এর অন্তর্ভুক্ত কি নাঃ\n(ঘ) একককালীন বন্ডিং ক্যাপাসিটির সাথে আমদানিকৃত পণ্যের পরিমাণ সামঞ্জস্যপূর্ণ কি নাঃ\n(ঙ) বন্ড লাইসেন্স/UP/UD অনুযায়ী প্রাপ্যতা যথাযথ কি নাঃ\n(চ) আমদানি সংক্রান্ত দলিলের সাথে ইউডিতে পণ্যের বর্ণনা এবং এইচএস কোড মিল রয়েছে কি না\n(ছ) ইউডির প্রাপ্যতা বিজিএমইএ এবং বিকেএমইএ এর ওয়েবসাইট হতে অনলাইনে যাচাই করা হয়েছে কি না\n(জ) মূল ইউডির সাথে সংশোধিত ইউডির যা পরিবর্তন হয়েছে তা যাচাই করা হয়েছে কিনা\n(ঝ) ইউডি সংশোধন করে প্রাপ্যতা এনে পণ্য খালাস করা হয়েছে কি না তা যাচাই করা হয়েছে কি না\n(ঞ) এফওসির ভিত্তিতে কাঁচামাল আমদানির ক্ষেত্রে উক্ত কাঁচামাল দ্বারা তৈরি পণ্য রপ্তানির পর বৈদেশিক মুদ্রা প্রত্যাবাসন নিশ্চিত করা হয়েছে কি না তা যাচাই করা হয়েছে কিনা\n(ট) অন্যান্য\n\n৩. Surveillance/ Lock সংক্রান্ত তথ্য\n(ক) BIN Surveillance এ আছে কি না, থাকলে কোন দপ্তর কর্তৃক এবং কি কারণে Surveillance এ আছে?\n(খ) ইতিপূর্বে BIN Surveillance এ ছিলো কি না, থাকলে কতবার ছিলো এবং কি কারণে ছিল তার বর্ণনাঃ\n(গ) BIN Lock আছে কি না বা পূর্বে ছিল কি না এবং BIN Lock এর কারণঃ\n(ঘ) BIN এর বিপরীতে Fine Penalty এর পরিমাণঃ\n(ঙ) অন্যান্য\n\n৪. পণ্য/প্রতিষ্ঠানের কার্যক্রম সম্পর্কিত তথ্য\n(ক) উৎপাদিত পণ্য/সেবার নাম ও বিবরণ (প্রয়োজনে আলাদা পাতা যুক্ত করা যেতে পারে)\n(খ) পণ্য/সেবার একক\n(গ) একক পণ্যের ন্যায্য বাজার মূল্য (যদি নির্ধারিত থাকে)\n(ঘ) খালাস হয়নি এরকম পণ্য নিলামে লটভুক্ত হয়েছে কি না\n(ঙ) খালাস হয়নি এরকম পণ্য নিলামে বিক্রয় হয়েছে কি না\n(চ) ৩০ কার্যদিবস অতিবাহিত হলেও পণ্য খালাস গ্রহণ করা হয় নি এরূপ বিল অব এন্ট্রির সংখ্যা *\n(ছ) আমদানিকৃত পণ্যসমূহ আমদানিকারকের ব্যবসার ধরনের সাথে সামঞ্জস্যতা কি নাঃ\n(জ) ব্যবসা প্রতিষ্ঠান কোন শ্রেণির পণ্য আমদানি/রপ্তানি করে (যেমন, খাদ্য/রাসায়নিক/টেক্সটাইল/যন্ত্র/ইত্যাদি বা যন্ত্রাংশ/ আনএসেম্বলড/আনফিনিশড/ ফিনিশড পণ্য) তার বর্ণনাঃ\n(ঝ) একই পণ্য বিভিন্ন দেশ থেকে আমদানি করা হয় কি নাঃ\n(ঞ) অন্যান্য\n\n৫. আমদানি দলিলাদি/বিল অব এন্ট্রি যাচাই সংক্রান্ত তথ্য (অডিট মেয়াদকালীন সময়ে)\n(ক) মোট বিল অব এন্ট্রি এর সংখ্যা\n(খ) স্বাভাবিকভাবে শুল্কায়িত বিল অব এন্ট্রি এর সংখ্যা\n(গ) সাময়িক শুল্কায়িত বিল অব এন্ট্রি এর সংখ্যা\n(ঘ) চূড়ান্ত শুল্কায়িত বিল অব এন্ট্রি এর সংখ্যা\n(ঙ) চূড়ান্ত শুল্কায়ন হয়নি এরূপ বিল অব এন্ট্রি এর সংখ্যা\n(চ) রেয়াতি সুবিধা গ্রহণকৃত বিল অব এন্ট্রি এর সংখ্যা\n(ছ) আইজিএম দাখিল করা হয়েছে কিন্তু বি/ই দাখিল করা হয়নি এরূপ পণ্যচালানের তথ্য\n(জ) অন্যান্য\n\n৬. HS Code সম্পর্কিত তথ্য\n(ক) ব্যবসা প্রতিষ্ঠান শূন্য ডিউটি হার বিশিষ্ট পণ্য/HS কোড ব্যবহার করেন কি না\n(খ) আমদানিকারক প্রতিষ্ঠান বাণিজ্য চুক্তির অধীনে প্রিফারেন্সিয়াল রেট অব ডিউটি বা ডিউটি ফ্রি পণ্য/HS কোড ব্যবহার করেন কি না;\n(গ) বিল অব এন্ট্রি তে ঘোষিত এইচ.এস. কোডসমূহ, আমদানি দলিলাদিতে ঘোষিত এইচ.এস. কোডসমূহ, এলসি তে উল্লিখিত এইচ.এস কোডসমূহ যাচাই করা হয়েছে কি না;\n(ঘ) BCT ও WCO Explanatory Notes অনুযায়ী ঘোষিত/শুল্কায়িত HS Code সঠিক কি না;\n(ঙ) এইচ.এস.কোড বিষয়ে NBR এর এডভান্স রুলিং সঠিকভাবে প্রয়োগ করা হয়েছে কি না;\n(চ) প্রতিষ্ঠানের আমদানি তথ্যের মধ্যে যে পণ্যটি সবচেয়ে বেশি পরিমাণে আমদানি করেছে কিংবা উচ্চ মূল্যের ঘোষণায় যে সব পণ্য আমদানি করেছে তা যাচাই করা হয়েছে কি না;\n(ছ) প্রতিষ্ঠানের প্রাঙ্গণ পরিদর্শনকালীন সময়ে প্রতিষ্ঠানের আমদানিকৃত পণ্যের তালিকা নেয়া হয়েছে কি না (তালিকাটা হবে কাস্টমস শ্রেণিবিণ্যাস অনুযায়ী);\n(জ) পণ্যের শ্রেণিবিণ্যাস বিষয়ক পূর্ববর্তী কোনো রাসায়নিক প্রতিবেদন/অ্যাসেসমেন্ট কমিটির সিদ্ধান্ত থাকলে অডিট করার সময় তা আমলে নেয়া হয়েছে কি না;\n(ঝ) আমদানিকারকের ব্যবসার ধরনের সাথে সামঞ্জস্যপূর্ণ নয় এমন এইচ.এস.কোড এর পণ্যগুলো আমদানি করা হয়েছে কি না;\n(ঞ) পণ্যের শ্রেণিবিণ্যাস করণের ক্ষেত্রে আমদানি দলিলাদিতে পণ্যের বর্ণনা যাচাই করা হয়েছে কি না;\n(ট) পণ্যের এইচ.এস.কোড যাচাইকালে যদি উচ্চ শুল্কহারের সমজাতীয় পণ্য থাকে , সমজাতীয় আমদানিকারক নিম্ন বা শূন্য শুল্কহারের এইচ.এস.কোড ব্যবহার করেছে কিনা; নিষিদ্ধ পণ্যের ক্ষেত্রেও একই পদ্ধতি অনুসরণ করা হয়েছে কি না;\n(ঠ) যে সকল পণ্যের শ্রেণিবিণ্যাসকরণের ক্ষেত্রে রাসায়নিক পরীক্ষার প্রয়োজনীয়তা রয়েছে এমন পণ্যের বর্ণনার সাথে এইচ.এস.কোডের মিল রয়েছে কি না;\n(ড) পণ্যের শ্রেণিবিণ্যাস নির্ধারণের ক্ষেত্রে পণ্যের নমুনা, পণ্যের ছবি বা বৈজ্ঞানিক বর্ণনা বা রাসায়নিক নাম যাচাই করা হয়েছে কি না;\n\n৭. মূল্য সম্পর্কিত তথ্য\n১. পণ্যের বিপরীতে প্রদেয় মূল্য বা প্রদত্ত মূল্য সঠিকভাবে ঘোষণা করা হয়েছে কি না;\n২. বি/ই তে ঘোষিত মূল্যের সাথে উৎস দলিলাদিতে (এলসি, ব্যাংক স্টেটমেন্ট, রেমিট্যান্স এপ্লিকেশন এবং ডেভিট/ক্রেডিট উল্লেখিত মূল্যের মিল আছে কিনা;\n৩. চালানের বিপরীতে পণ্য ছাড়ের শর্তাবলী প্রতিপালিত হয়েছে কি না;\n৪. কীভাবে পণ্যের মূল্য পরিশোধিত হয়েছে-পণ্য ছাড়ের সময় মূল্য পরিশোধ, অগ্রিম পরিশোধ অথবা কিস্তিতে পরিশোধ;\n৫. একই প্রকৃতির কয়েকটি পণ্য চালান যখন একটি ইনভয়েসের বিপরীতে আমদানি হয় তাদের ইউনিট প্রাইস এবং শুল্কহার একই কি না;\n৬. পণ্যের মূল্য তালিকা গ্রহণযোগ্য কি না;\n৭. বি/ই তে ঘোষিত মুদ্রার সাথে সংশ্লিষ্ট দলিলাদিতে উল্লেখিত মুদ্রার মিল আছে কি না;\n৮. বি/ই তে ঘোষিত ফ্রেইট চার্জ এবং ফ্রেইট দলিলাদির সাথে ইনভয়েস, বি/এল ও এয়ারওয়ে বিল যথার্থ আছে কি না;\n৯. পণ্য আমদানির বিপরীতে কোন বীমা নীতি আছে কি না;;\n১০. Exchange Rate যথাযথভাবে প্রয়োগ করা হয়েছে কি না;\n১১. বি/ই তে ঘোষিত কাস্টম ভ্যালুর সাথে কোম্পানির একাউন্ট বইয়ে এন্ট্রিকৃত ভ্যালু, ERP/SAP/অন্যান্য ব্যবসা প্রতিষ্ঠানে ব্যবহৃত সফটওয়্যার হতে Procurement Module এর সাথে মিল রয়েছে কি না;\n১২. আমদানিকৃত পণ্যের সকল তথ্য সঠিকভাবে কোম্পানির একাউন্টগুলোতে এন্ট্রি করা হয়েছে কি না;\n১৩. প্রো-ফরমা ইনভয়েসের ঘোষিত মূল্যের সাথে কমার্শিয়াল ইনভয়েসে ঘোষিত মূল্যের মিল আছে কি না\n১৪. কাস্টম ডাটাবেস ভ্যালুর সাথে পণ্যের ঘোষিত মূল্যের মিল রয়েছে কি না;\n১৫. বিভিন্ন বি/ই কে পারস্পরিকভাবে তুলনা করার মাধ্যমে একই পণ্যের জন্য ভিন্ন ভিন্ন মূল্য ঘোষণা করা হয়েছে কি না;\n১৬. পণ্য আমদানির ক্ষেত্রে সরবরাহকারী সবসময় একই নাম্বারের চালান ব্যবহার করেছে কি না;\n১৭. কোম্পানির লেনদেনের তথ্য অ্যাকাউন্টের সাথে মিল রয়েছে কি না;\n১৮. পণ্যের ঘোষিত মূল্যের সাথে পণ্যের বর্ণনা এবং পরিষেবা (পরিবহন, রয়্যালিটি ও অন্যান্য) মিল আছে কিনা;\n১৯. আমদানিকৃত পণ্য চালানের বিপরীতে ওভার ইনভয়েসিং বা আন্ডার ইনভয়েসিং এর মাধ্যমে মানি লন্ডারিং হয়েছে কি না;\n২০. কোন প্রতিষ্ঠানকে রয়্যালিটি প্রদানের পূর্ব-শর্তগুলো কোম্পানির অ্যাকাউন্ট চেক করা, বিদেশে কোম্পানির লেনদেন যথাযথভাবে প্রতিপালিত হয়েছে কি না;\n২১. আমদানিকৃত পণ্যের সাথে বিনামূল্যে বা কম খরচে তৈরি কোন সেবা/পণ্য সরবরাহ করা হয়েছে কিনা;\n২২. আমদানিকৃত পণ্যের বিপরীতে চালান এবং পণ্য সংশ্লিষ্ট চুক্তিগুলো মিল রয়েছে কি না;\n২৩. পণ্য বিক্রেতা ব্যতীত অন্য কোন পক্ষকে মূল্য পরিশোধ করা হয়েছে কি না (সম্ভব হলে, স্টক পরীক্ষা সহ বাক্স, প্যাকিং, মোড়ক এবং পণ্যগুলোতে ঘোষিত উৎস এবং বারকোডগুলো যাচাই করতে হবে);\n২৪. ঘোষিত মূল্য ক্রয় আদেশ, বিক্রয় চুক্তি, ইনভয়েস ইত্যাদি দ্বারা সমর্থিত কি না (ব্যাংক স্টেটমেন্ট এবং মূল্য পরিশোধের রিসিপ্ট পরীক্ষা করা যেতে পারে);\n২৫. আমদানিকারক প্রতিষ্ঠান ও তার কোন সরবরাহকারীর মধ্যে কোন সম্পর্ক রয়েছে কি না;\n২৬. CIF ভ্যালু সিস্টেম ব্যবহৃত হলে, পণ্য পরিবহন এবং বিমা খরচ সঠিকভাবে অন্তর্ভুক্ত করা হয়েছে কি না;\n২৭. ইনভয়েস এবং পণ্য পরিবহন চুক্তির ক্ষেত্রে (INCOTERMS) ডেলিভারি শর্তাবলী ঘোষিত পরিবহন চার্জের সাথে সামঞ্জস্যপূর্ণ কি না;\n২৮. ব্যবসা প্রতিষ্ঠান পণ্য পরিবহনের খরচ পূর্বেই পরিশোধ করেন কি না;\n২৯. FOB ভ্যালু সিস্টেম ব্যবহৃত হলে প্রযোজ্য সকল চার্জ/ফি সংযোজনপূর্বক শুল্ক করাদি পরিশোধ করা হয়েছে কি না;\n৩০. কমিশন সঠিকভাবে ঘোষিত এবং হিসাব করা হয়েছে কি না;\n৩১. কাস্টমসের মূল্য নির্ধারণ বিষয়ক ঘোষণা ফরম পূরণ করা হয়েছে কি না, হয়ে থাকলে এটি আমদানিকারকের দলিলাদি দ্বারা সমর্থিত কি না;\n(৩২) তৃতীয় কোন পক্ষের কাছে পণ্যের বিক্রয়মূল্যের তুলনায় কাস্টমসে ঘোষিত মূল্য অনেক কম কি না (এটি চূড়ান্ত নির্ণায়ক না হলেও পণ্য বিক্রয়ের ক্ষেত্রে অস্বাভাবিক লভ্যাংশ আদাশনি মূল্যের প্রদর্শনে আন্ডার ঘোষণা বা ঘাটতি নির্দেশ করে)\n(৩৩) শুল্ক মূল্যায়ন বিধিমালা অনুসরণপূর্বক শুল্কায়নযোগ্য মূল্য নির্ধারিত হয়েছে কি না;\n(৩৪) পণ্যের মূল্য অস্বাভাবিক বেশি হলে তা যাচাই করা হয়েছে কি না;\n(৩৫) আমদানিকৃত পণ্য একই সময়ের/প্রায় একই সময়ের Identical/Similar Good এর মূল্যের সাথে সামঞ্জস্যপূর্ণ কি না;\n(৩৬) ট্যারিফ মূল্যে কোন পণ্য আমদানি হয়েছে কি না;\n(৩৭) ট্যারিফ ভ্যালু অপেক্ষা ইনভয়েস মূল্য বেশি ছিল কি না, বেশি হলে ইনভয়েস মূল্যে শুল্কায়ন হয়েছে কি না;\n(৩৮) মিনিমাম মূল্য নির্ধারিত কোন পণ্য আমদানি হয়েছে কি না, মিনিমাম মূল্য অপেক্ষা কম মূল্যে কোন পণ্য শুল্কায়ন হয়েছে কি না;\n\n৮. External Source থেকে প্রাপ্ত ডাটা এবং তথ্য\n(ক) WCO Customs Enforcement Network (CEN) এবং Regional Intelligence Liaison Offices (RILOs) ও অন্যান্য দ্বিপাক্ষিক এবং বহুপাক্ষিক কাস্টমস্-টু-কাস্টমস্ তথ্য বিনিময়ের প্ল্যাটফর্ম ব্যবহার করা হয়েছে কি না;\n(খ) WTO দ্বারা ট্যারিফ বিশ্লেষণ করে পণ্যের কান্ট্রি অব অরিজিন এবং পণ্যের আমদানি মূল্য জানা হয়েছে কি না;\n(গ) Commodity Market এর ডাটা থেকে তেল, গ্যাস, কৃষি পণ্য, chemical, metal, সার এবং অন্যান্য কাঁচামালের বিবরণ যাচাই করা হয়েছে কি না;\n(ঘ) London Metal Exchange (LME) হতে মেটালের মূল্য যাচাই করা হয়েছে কি না;\n(ঙ) PLATTS হতে Energy, Petro Chemical, Metal এবং কৃষি মূল্য যাচাই করা হয়েছে কি না;\n(চ) ICIS (Independent Commodity Intelligence Services) হতে International Petro Chemical Energy, Data এবং সার বাজারের মূল্য যাচাই করা হয়েছে কি না;\n(ছ) আন্তর্জাতিক মুদ্রা তহবিল (আইএমএফ) হতে প্রাথমিক পণ্যের মূল্য যাচাই করা হয়েছে কি না;\n(জ) Lloyd এর তালিকা হতে Intelligence, কন্টেইনারের ট্রান্সশিপমেন্টসহ লোডিং থেকে ডিসচার্জ পর্যন্ত তথ্য যাচাই করা হয়েছে কি না;\n(ঝ) UN International Trade Statistics Database হতে পণ্যের উৎপত্তি এবং মূল্য তথ্য যাচাই করা হয়েছে কি না;\n(ঞ) ডাটা শেয়ারিং প্ল্যাটফর্ম, ডাটা অ্যানালিটিক্স, সেবা প্রদানকারী উৎস এবং উন্মুক্ত ইন্টারনেটে সেবা হতে পণ্যের বিস্তারিত যাচাই করা হয়েছে কি না;\n\n৯. এস.আর.ও/বিশেষ আদেশের মাধ্যমে গৃহীত রেয়াতি সুবিধা (CPC) সংক্রান্ত তথ্য\n(ক) অডিট মেয়াদে গৃহীত রেয়াতি সুবিধার পরিমাণ\n(খ) আমদানিকারক প্রতিষ্ঠানের জন্য বিশেষ কোন এস.আর.ও/আদেশ রয়েছে কি নাঃ\n(গ) আমদানিকারক প্রতিষ্ঠানকে NBR কর্তৃক বিশেষ কোন সুবিধা প্রদান করা হয়েছে কি নাঃ\n(ঘ) রেয়াতি সুবিধায় আমদানিকৃত মূলধনী যন্ত্রপাতি সংশ্লিষ্ট প্রতিষ্ঠানে স্থাপিত হয়েছে কি নাঃ\n(ঙ) গৃহীত রেয়াতি সুবিধা/সিপিসি সংশ্লিষ্ট এস.আর.ও/আদেশ এর শর্তসমূহ প্রতিপালিত হয়েছে কি নাঃ\n(চ) গৃহীত সিপিসি সংশ্লিষ্ট এস.আর.ও/আদেশ এর তালিকাঃ\n(ছ) রেয়াতি সুবিধায় আমদানিকৃত উপকরণ আমদানিকারকের উপকরণ-উৎপাদ সহগ ঘোষণার (মূসক- ৪.৩) সাথে সামঞ্জস্যপূর্ণ কি নাঃ\n(জ) অন্যান্যঃ\n\n১০. ERP (Enterprise Resource Planning)/SAP/অন্যান্য Software সম্পর্কিত তথ্য\n(ক) ERP/SAP/অন্যান্য নিজস্ব Software ব্যবহারকারী প্রতিষ্ঠানকে অডিট করার ক্ষেত্রে উক্ত Software এ সংরক্ষিত ক্রয়, বিক্রয়, মজুদ, সরবরাহ, Trial Balance ইত্যাদি যাচাই করা হয়েছে কি নাঃ\n(খ) ERP/SAP/অন্যান্য নিজস্ব Software এর Financial Accounting Module হতে General Ledger, Payables, Receivables, Collections, Cash Management ইত্যাদি যাচাই করা হয়েছে কি নাঃ\n(গ) ERP/SAP/অন্যান্য নিজস্ব Software এর Financial Accounting Module হতে Costing, Cost Management ইত্যাদি যাচাই করা হয়েছে কি নাঃ\n(ঘ) ERP/SAP/অন্যান্য নিজস্ব Software এর manufacturing Module হতে Bill of Materials, Work Orders, Capacity, Manufacturing Process, Manufacturing Flow ইত্যাদি যাচাই করা হয়েছে কি নাঃ\n(ঙ) ERP/SAP/অন্যান্য নিজস্ব Software এর Supply Chain Management Module হতে Purchasing, Inventory, Warehousing (receiving, put away, picking and packing) ইত্যাদি যাচাই করা হয়েছে কি নাঃ\n(চ) ERP/SAP/অন্যান্য নিজস্ব Software এর Order Processing Module হতে Order Entry, Pricing, Inventory, Sales Analysis and Reporting ইত্যাদি যাচাই করা হয়েছে কি নাঃ\n(ছ) অন্যান্যঃ\n\n১১. আমদানি নীতি/বিধিমালা সম্পর্কিত তথ্য\n(ক) আমদানি নিষিদ্ধ কোন পণ্য আমদানি করা হয়েছে কি নাঃ\n(খ) আমদানি নীতি আদেশ এর শর্তযুক্ত পণ্য আমদানি হয়েছে কি না, হয়ে থাকলে তার তালিকা * ১\n(গ) আমদানি নীতি আদেশের শর্ত প্রতিপালিত হয়েছে কি নাঃ\n(ঘ) পুনঃআমদানি/পুনঃরপ্তানির (প্রযোজ্য ক্ষেত্রে) শর্ত প্রতিপালিত হয়েছে কি নাঃ\n(ঙ) অন্যান্যঃ\n\n১২. বিশেষজ্ঞ মতামত/রাসায়নিক পরীক্ষা সম্পর্কিত তথ্য (প্রযোজ্য ক্ষেত্রে)\n(ক) কোন Expert Opinion/Technical Opinion এর বাধ্যবাধকতা থাকলে তা প্রতিপালিত হয়েছে কি নাঃ\n(খ) আমদানিকৃত কোন পণ্য রাসায়নিক/অন্য কোন পরীক্ষা করা হয়েছে কি না, হয়ে থাকলে তার প্রতিবেদন পর্যালোচনা করা হয়েছে কি নাঃ\n(গ) অন্যান্যঃ\n\n১৩. অনিষ্পন্ন/প্রক্রিয়াধীন বিষয়াবলী সম্পর্কিত তথ্য\n(ক) রিফান্ড আবেদন অনিষ্পন্ন রয়েছে কি নাঃ\n(খ) রিফান্ড গৃহীত হয়েছে কি নাঃ\n(গ) দাখিলকৃত ব্যাংক গ্যারান্টি এর সংখ্যাঃ\n(ঘ) অনিষ্পন্ন ব্যাংক গ্যারান্টি এর সংখ্যাঃ\n(ঙ) ব্যাংক গ্যারান্টি অনিষ্পন্নের কারণঃ\n(চ) Noted but Not Assessed এ ধরনের কোন বিল অব এন্ট্রি অনিষ্পন্ন রয়েছে কি নাঃ\n(ছ) Assesed but Not Paid এ ধরনের কোন বিল অব এন্ট্রি অনিষ্পন্ন রয়েছে কি নাঃ\n(জ) অন্যান্যঃ\n\n১৪. রপ্তানি-পুনঃরপ্তানি সম্পর্কিত তথ্য\n(ক) প্রতিষ্ঠান কর্তৃক কাস্টমসে ঘোষিত রপ্তানি/পুনঃরপ্তানি সম্পন্ন হয়েছে কি না;\n(খ) রপ্তানিকালীন দলিলাদিতে এবং পুনঃরপ্তানিকালীন দলিলাদিতে পণ্যের বর্ণনা, পণ্যের পরিমাণ, কান্ট্রি অব এক্সপোর্ট এবং কোন প্রতিষ্ঠানের উদ্দেশ্যে পণ্য প্রেরণ করা হচ্ছে সকল কিছু একই কি না;\n(গ) প্রতিষ্ঠান কর্তৃক কাস্টমসে ঘোষিত রপ্তানি/পুনঃরপ্তানির বিপরীতে প্রতিষ্ঠানের একাউন্টে লেনদেন বিবরণীর যাচাই করা হয়েছে কি না;\n(ঘ) প্রতিষ্ঠানের গুদাম বা অন্যান্য প্রাঙ্গণ থেকে পণ্যের প্রকৃত প্রস্থান যাচাই, ইস্যুকৃত চালান যাচাই করা হয়েছে কি না;\n(ঙ) রপ্তানিকালে ঘোষিত পণ্যের মূল্যের সাথে স্থানীয় পণ্যের বাজার মূল্য যাচাই করে দেখতে হবে উচ্চমূল্য বা কম মূল্য ঘোষণায় পণ্য রপ্তানি করা হচ্ছে কিনা;\n(চ) রপ্তানিকারক প্রতিষ্ঠানই যদি পণ্যসমূহের উৎপাদনকারী হয়, তাহলে রপ্তানিকালীন সময়ে তার পর্যাপ্ত স্টক রয়েছে কিনা;\n(ছ) প্রতিষ্ঠান কর্তৃক ঘোষিত পণ্যের পরিবহন রুট সম্পর্কিত তথ্যের সাথে পরিবহন কোম্পানির রেকর্ড আড়াআড়ি যাচাই করা হয়েছে কি না;\n\n১৫. সাময়িক আমদানি-রপ্তানি সম্পর্কিত তথ্য\n(ক) সাময়িক আমদানি যথাযথ প্রক্রিয়া অনুসরণপূর্বক অর্থাৎ স্থানীয় আইন ও বিভাগীয় পদ্ধতি অনুসরণ করা হয়েছে কি না;\n(খ) সাময়িক আমদানি-রপ্তানির ক্ষেত্রে শুল্কের শ্রেণিবিণ্যাস যাচাই করা হয়েছে কি না, আমদানিকৃত বা রপ্তানিকৃত পণ্যের মূল্য ও পরিমাণ যাচাই করা হয়েছে কি না;\n(গ) সাময়িক রপ্তানিতে ভিন্ন পণ্য রপ্তানি হতে পারে। এক্ষেত্রে সাময়িক আমদানি ও রপ্তানি পণ্য একই কি না, আইনানুযায়ী অর্থাৎ নির্ধারিত সময়ের মধ্যে রপ্তানি হচ্ছে কি না;\n(ঘ) সাময়িক রপ্তানি সংক্রান্ত যাবতীয় দলিলাদি যাচাই করতে হবে। সাময়িক আমদানিকৃত পণ্যের পরিমাণের সাথে রপ্তানিকৃত পণ্যের পরিমাণের তুলনা করে রপ্তানির সঠিকতা যাচাই করতে হবে;\n(ঙ) সাময়িক আমদানিকৃত প্রতিষ্ঠানের বিভিন্ন অ্যাকাউন্টসের (যেমন- মেশিনের ঋণ সংক্রান্ত অ্যাকাউন্টস, ইজারা সংক্রান্ত অ্যাকাউন্টস ইত্যাদি) তথ্য যাচাই করা হয়েছে কি না;\n\n১৬. প্রতিষ্ঠানের আমদানি/রপ্তানির পরিমাণ নির্ধারণ-\n(ক) আমদানিকারকের গুদাম পরিদর্শনকালে প্রতিষ্ঠান প্রাঙ্গণে পণ্যের মজুদকরণের সাথে তার রেজিস্টারে লিখিত পরিমাণের মিল রয়েছে কি না;\n(খ) আমদানিকৃত পণ্যের সাথে দেশজ পণ্যের মিশ্রণ রয়েছে কি না;\n(গ) আমদানিকারকের প্রাঙ্গণে পণ্য গ্রহণ/আনলোড এর সময় পণ্যের চালান, পণ্যের আনপ্যাকিং ও মজুদ করার পদ্ধতি পর্যবেক্ষণ করা হয়েছে কি না;\n(ঘ) আমদানিকারকের অভ্যন্তরীণ নিয়ন্ত্রণ ব্যবস্থা যথাযথ কি না;\n(ঙ) আমদানিকারকের পণ্যের চালানপত্র, কমার্শিয়াল ইনভয়েস, ক্রয়আদেশ ও প্যাকিং লিস্ট যাচাই করা হয়েছে কি না;\n(চ) পণ্যের ডেবিটনোট ও ক্রেডিট নোটের সঠিকতা যাচাই করা হয়েছে কি না;\n\n১৭. পণ্যের কান্ট্রি অব অরিজিন যাচাইকরণ-\n(ক) আমদানিকৃত পণ্যের ভৌগোলিক এলাকায় উৎপাদিত কি না;\n(খ) আমদানিকৃত পণ্যের বিপরীতে কে কাকে পেমেন্ট করছে তা যাচাই করা হয়েছে কি না;\n(গ) আমদানিকৃত পণ্যের কান্ট্রি অব অরিজিন সনদ যাচাই করা হয়েছে কি না;\n(ঘ) আমদানিকৃত পণ্যের মোড়কে মুদ্রিত লেখা যাচাই করা হয়েছে কি না;\n(ঙ) আমদানিকৃত পণ্য সংশ্লিষ্ট দলিলাদি যাচাই করা হয়েছে কি না;\n\n১৮. সিএন্ডএফ এজেন্ট সম্পর্কিত তথ্য\n(ক) আমদানি সংশ্লিষ্ট সিএন্ডএফ এজেন্ট এর তালিকা যাচাই করা হয়েছে কি না;\n(খ) ক্লিয়ারিং এবং ফরওয়ার্ডিং এজেন্ট হিসাবে কাজ করার জন্য বৈধ রেজিস্ট্রেশন সার্টিফিকেট আছে কিনা;\n(গ) রেজিস্ট্রেশন সার্টিফিকেট নবায়ন করা হয়েছে কি না;\n(ঘ) সিএন্ডএফ এজেন্টের ধরন (Self C&F কি না);\n(ঙ) এজেন্ট রেজিস্টার্ড পার্সন বা অন্য কোন ব্যক্তির দ্বারা পরিচালিত কিনা;\n(চ) কর্মচারী নিয়োগ সংক্রান্ত কোন বিজ্ঞপ্তি প্রকাশিত হয়েছিল কিনা;\n(ছ) সঠিক রেকর্ড বজায় রাখা হয়েছে কিনা;\n(জ) অনিষ্পন্ন মামলা আছে কিনা;\n\n১৯. মামলা সম্পর্কিত তথ্য\nমামলা সম্পর্কিত নিম্নবর্ণিত তথ্যসমূহ যাচাই করা হয়েছে কি না\n(ক) কাস্টম হাউস/স্টেশনে বিচারাধীন মামলার সংখ্যা *\n(খ) কমিশনার (আপীল) এর নিকট বিচারাধীন মামলার সংখ্যা *\n(গ) ট্রাইবুনালে বিচারাধীন মামলার সংখ্যা *\n(ঘ) হাইকোর্ট বিভাগে বিচারাধীন মামলার সংখ্যা *\n(ঙ) আপীল বিভাগে বিচারাধীন মামলার সংখ্যা *\n(চ) অন্যান্য\n\n২০. নিরঙ্কুশ বকেয়ার তথ্য\n(ক) নিরঙ্কুশ কোন বকেয়া রয়েছে কি না;\n(খ) নিরঙ্কুশ বকেয়ার পরিমাণঃ\n(গ) নিরঙ্কুশ বকেয়া আদায়ে গৃহীত কার্যক্রমঃ\n(ঘ) অন্যান্যঃ\n\n২১. পূর্ববর্তী অডিট সম্পর্কিত তথ্য\n(ক) অডিট এর মেয়াদকালঃ\n(খ) অডিট মেয়াদে আমদানিকৃত পণ্যের নাম, পরিমাণ ও মূল্যঃ\n(গ) প্রাপ্ত HS Code সংক্রান্ত অনিয়মের বর্ণনাঃ\n(ঘ) প্রাপ্ত মূল্য সংক্রান্ত অনিয়মের বর্ণনাঃ\n(ঙ) প্রাপ্ত CPC সংক্রান্ত অনিয়মের বর্ণনাঃ\n(চ) অন্যান্য অনিয়মের বর্ণনাঃ\n(ছ) অডিট এর সুপারিশ ও পরিপালন সংক্রান্ত তথ্যঃ\n(জ) অন্যান্যঃ\n\n২২. বর্তমান অডিট সম্পর্কিত তথ্য\n(ক) অডিট আদেশ নং ও তারিখঃ\n(খ) অডিট এর মেয়াদকালঃ\n(গ) অডিট মেয়াদে আমদানিকৃত পণ্যের নাম, পরিমাণ ও মূল্যঃ\n(ঘ) প্রাপ্ত HS Code সংক্রান্ত অনিয়মের বর্ণনাঃ\n(ঙ) প্রাপ্ত মূল্য সংক্রান্ত অনিয়মের বর্ণনা\n(চ) প্রাপ্ত CPC সংক্রান্ত অনিয়মের বর্ণনা\n(ছ) অন্যান্য অনিয়মের বর্ণনা\n(জ) অন্যান্য বিশেষ পরীক্ষা/নিবিড় পরীক্ষা বা তদন্তের বর্ণনা ও ফলাফল\n(ঝ) প্রাপ্ত অনিয়ম/শুল্ক ফাঁকির ক্ষেত্রে সংশ্লিষ্ট আইন/বিধিমালার ধারা ও বিধির উল্লেখ\n(ঞ) মোট অপরিশোধিত শুল্ক-করাদির পরিমাণ\n(ট) সুপারিশ সমূহ\n\nNote: B/E বা অন্যান্য দলিলাদির সংখ্যা অনেক বেশি হলে Risk Management এর আওতায় Randomly যাচাই পূর্বক অডিট কার্যক্রম সম্পন্ন করতে হবে।",
+      "entity_concepts": {
+        "System Based Audit": [
+          "This standing order provides a comprehensive structured checklist for conducting system-based audits of business entities under customs supervision.",
+          "Auditors are instructed to evaluate enterprise resource planning data, import-export documentation, valuation compliance, and adherence to specific regulatory rules to identify irregularities or duty evasion."
+        ],
+        "Authorized Economic Operator": [
+          "The audit framework requires verification of whether a business entity is registered as an Authorized Economic Operator."
+        ],
+        "H.S. Code": [
+          "Auditors must verify that declared HS Codes are consistent with import documents, LCs, BCT, and WCO explanatory notes, and check for misuse of preferential or zero-duty codes."
+        ],
+        "Risk Management": [
+          "When dealing with large volumes of bills of entry or documentation, auditors should apply risk management principles to select samples for audit verification."
+        ],
+        "VAT Compliant": [
+          "The audit process must confirm the VAT compliant status of the subject entity as part of its operational documentation review."
+        ],
+        "Manufacturing Process": [
+          "Auditors are required to verify the manufacturing process, bill of materials, and production flow when examining the ERP or internal software systems of the entity."
+        ],
+        "London Metal Exchange": [
+          "Price verification for metal imports should include cross-referencing against data from the London Metal Exchange."
+        ],
+        "Platts": [
+          "Auditors should use data from Platts to verify the declared value of energy, petrochemicals, and metal commodities."
+        ],
+        "Customs": [
+          "The document serves as a standardized audit reporting template for customs officers to evaluate business records and identify potential customs duty evasion or regulatory non-compliance."
+        ],
+        "Materials": [
+          "Verification procedures include examining the input-output coefficients and raw material usage to ensure compliance with bonded warehouse and duty exemption requirements."
+        ],
+        "Service": [
+          "The audit must cover valuation of services such as royalty, transportation, and technical fees to ensure they are accurately declared and accounted for in the customs value."
+        ],
+        "Lock": [
+          "The audit requires verification of any history of BIN surveillance or locks, including the reasons for such actions and any associated penalties."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_745",
+      "entity_sub_entities": {
+        "System Based Audit": [
+          "structured checklist",
+          "business entities",
+          "enterprise resource planning data",
+          "import-export documentation",
+          "valuation compliance",
+          "regulatory rules"
+        ],
+        "Authorized Economic Operator": [
+          "business entity"
+        ],
+        "H.S. Code": [
+          "HS Codes",
+          "import documents",
+          "LCs",
+          "BCT",
+          "WCO explanatory notes",
+          "preferential codes",
+          "zero-duty codes"
+        ],
+        "Risk Management": [
+          "bills of entry",
+          "documentation",
+          "samples"
+        ],
+        "VAT Compliant": [
+          "VAT compliant status",
+          "operational documentation"
+        ],
+        "Manufacturing Process": [
+          "manufacturing process",
+          "bill of materials",
+          "production flow",
+          "ERP",
+          "internal software systems"
+        ],
+        "London Metal Exchange": [
+          "metal imports",
+          "London Metal Exchange data"
+        ],
+        "Platts": [
+          "Platts data",
+          "energy",
+          "petrochemicals",
+          "metal commodities"
+        ],
+        "Customs": [
+          "audit reporting template",
+          "customs officers",
+          "business records",
+          "customs duty evasion",
+          "regulatory non-compliance"
+        ],
+        "Materials": [
+          "input-output coefficients",
+          "raw material usage",
+          "bonded warehouse",
+          "duty exemption requirements"
+        ],
+        "Service": [
+          "royalty",
+          "transportation",
+          "technical fees",
+          "customs value"
+        ],
+        "Lock": [
+          "BIN surveillance",
+          "locks",
+          "penalties"
+        ]
+      },
+      "clause_clusters": [
+        5,
+        18,
+        21,
+        46,
+        57,
+        63,
+        111,
+        129,
+        138,
+        146,
+        164,
+        183,
+        235,
+        275,
+        363,
+        386,
+        440,
+        492,
+        580,
+        602,
+        665,
+        712,
+        755,
+        766,
+        776,
+        878,
+        1035,
+        2024,
+        2258,
+        2310,
+        2866,
+        3157,
+        3511,
+        3914,
+        4261,
+        4520,
+        4589,
+        4622,
+        4658,
+        5146,
+        5740,
+        5970,
+        5973,
+        7529,
+        7743,
+        8881,
+        9190,
+        9622,
+        9855,
+        10332,
+        10840,
+        11604,
+        12478,
+        12736,
+        13155,
+        13445
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_87",
+      "clause_title": "অসত্য ঘোষণায় পণ্য আমদানির ক্ষেত্রে Section 32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(2) অনুযায়ী কারণ দর্শানো নোটিশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_87",
+      "resolved_text": "পরিশিষ্ট-১৬। অসত্য ঘোষণায় পণ্য আমদানির ক্ষেত্রে Section 32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(2) অনুযায়ী কারণ দর্শানো নোটিশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n......................................\n.........................\nWeb: ........................... E-mail:..................................\n\nনথি নং-.......................................... তারিখ: ......../...../......খ্রি. :\n\nবিষয় : আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত পণ্যচালানের বিপরীতে Customs Act, 1969 এর Section-32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(2) কারণ দর্শানো নোটিশ।\n\nউপর্যুক্ত বিষয়ের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান . . . . . . . . . . . . . . . . . . . . . . . . . . . ঠিকানা: . . . . . . . . . . . . . . . . . . . . . বিআইএন নম্বর: . . . . . . . . . . . . . . . . . এলসি নং-. . . . . . . . . . . . . . . . ., তারিখ: . . . . . / . . . . /. . . . . . খ্রি. ইনভয়েস নম্বর: . . . . . . . . . . . . . ., তারিখ: . . . . /. . . ./. . . . . . খ্রি. এর মাধ্যমে . . . . . . . . . . . . দেশ হতে . . . . . . . কেজি/ ..................... নামীয় পণ্য আমদানি করা হয়। পণ্যচালানটি খালাসের লক্ষ্যে মনোনীত সিঅ্যান্ডএফ এজেন্ট .................... ঠিকানা: . . . . . . . . . . . . . . . . . এআইএন: . . . . . . . . . . . . . . . . . কর্তৃক বি/ই নং- সি- ................, তারিখ: . . . . . / . . . . /. . . . . . খ্রি. দাখিল করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আলোচ্য প্রতিষ্ঠানটি ............. কর্তৃক অসত্য ঘোষণায় পণ্য আমদানি করেছেন। আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য ঘোষণার মাধ্যমে আমদানি করায় কম পরিশোধিত শুল্ক-করাদির পরিমাণ ......................... টাকা, যা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উল্লেখ্য যে, আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য এইচএসকোড ঘোষণা প্রদান করে আমদানি করা হয়েছে, যা Customs Act, 1969 এর Section-32(1) এ বর্ণিত অপরাধ এবং একই আইনের Section 156 এর Table-(1) এর Clause-14 অনুযায়ী শাস্তিযোগ্য।\n\n৫। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ ....................... (.............................) টাকা আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব ১৫ (পনেরো) দিনের মধ্যে দাখিলের জন্য অনুরোধ করা হলো। এ বিষয়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধির মাধ্যমে ব্যক্তিগত শুনানি দিতে চাইলে তাও লিখিত জবাবে উল্লেখ করার জন্য আপনাকে অনুরোধ করা হলো।\n\n৬। নির্ধারিত তারিখ বা তদুপরি এ নোটিশের জবাব পাওয়া না গেলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি/জয়েন্ট/\nঅ্যাডিশনাল/কমিশনার অব কাস্টমস\nই-মেইল .........................................\nফোন নং-............................\n\nপ্রাপক : ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: ....................................\nঠিকানা: ...................................................\nবিন নম্বর: .........................................\n\nনথি নং-.......................... তারিখ : ......../...../.............. খ্রি.\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n\n১। সিঅ্যান্ডএফ এজেন্ট: ........................................ঠিকানা: ............................................... এআইএন: ............................... আমদানিকারকের সাথে যোগাযোগ করে কারণ দর্শাও নোটিশের জবাব দাখিলের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n\n২। অফিস কপি।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This standing order provides a standardized template for a show-cause notice issued under Section 32(2) of the Act to determine duties and taxes under Section 32(4) in cases of misdeclaration of imported goods.",
+          "It identifies misdeclaration of HS codes as a punishable offence under Section 32(1) and specifies that penalties apply according to Clause 14 of Table-1 under Section 156 of the Act.",
+          "The document outlines the procedure for recovery of short-paid duties and grants the customs authority power to finalize assessments based on available documentation if a response is not received within the specified timeframe."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff is cited as a key reference document, alongside legal instruments and international explanatory notes, used by the customs authority during post-clearance audits to verify the accuracy of declarations."
+        ],
+        "World Customs Organization": [
+          "The organization's explanatory notes are utilized as a standard reference for the classification and assessment of imported goods during post-clearance audit procedures."
+        ],
+        "Customs Clearance": [
+          "The procedure includes a requirement for the C&F agent to submit a bill of entry for the clearance of goods, which is subsequently subject to review during post-clearance audits."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_758",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 32(2)",
+          "Section 32(4)",
+          "duties",
+          "taxes",
+          "imported goods",
+          "HS codes",
+          "Section 32(1)",
+          "Clause 14 of Table-1",
+          "Section 156",
+          "short-paid duties",
+          "customs authority"
+        ],
+        "Bangladesh Customs Tariff": [
+          "legal instruments",
+          "international explanatory notes",
+          "customs authority",
+          "declarations"
+        ],
+        "World Customs Organization": [
+          "explanatory notes",
+          "imported goods"
+        ],
+        "Customs Clearance": [
+          "C&F agent",
+          "bill of entry",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        8,
+        13,
+        23,
+        27,
+        30,
+        51,
+        98,
+        220,
+        235,
+        292,
+        424,
+        599,
+        1469,
+        2261,
+        3055,
+        3062,
+        3063,
+        3558,
+        4229,
+        6401
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "লাইসেন্সের জন্য আবেদন",
+      "text_id": "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "৫। লাইসেন্সের জন্য আবেদন।— লাইসেন্স প্রাপ্তির জন্য কোনো ব্যক্তিকে সংশ্লিষ্ট লাইসেন্সিং কর্তৃপক্ষের নিকট “তফসিল-১” এ সন্নিবেশিত ফরম পূরণপূর্বক এবং “তফসিল-২” এ উল্লিখিত দলিলাদি লিয়েন ব্যাংক কর্তৃক সত্যায়নপূর্বক সংযুক্ত করিয়া যথাযথ মূল্যমানের কোর্ট ফিসহ আবেদন করিতে হইবে। \n| কোড | নাম | ঠিকানা | ফোন | ফ্যাক্স |\n| --- | --- | --- | --- | --- |\n \n| ক্রমিক নম্বর | প্রডাক্ট কোড (প্রযোজ্য হলে) | বর্ণনা | H. S. Code | বার্ষিক উৎপাদন ক্ষমতা (প্রযোজ্য ক্ষেত্রে) | ইউনিট কোড |\n| --- | --- | --- | --- | --- | --- |\n \n| ক্রমিক নম্বর | H. S. Code | বর্ণনা | বার্ষিক উৎপাদন ক্ষমতা (প্রযোজ্য ক্ষেত্রে) | ইউনিট কোড |\n| --- | --- | --- | --- | --- |\n \n| ক্রমিক | দৈর্ঘ্য (ফুট) | প্রস্থ (ফুট) | আয়তন (বর্গফুট) |\n| --- | --- | --- | --- |\n \n| ক্রমিক নং | দৈর্ঘ্য (ফুট) | প্রস্থ (ফুট) | উচ্চতা (ফুট) | ভলিউম (ঘনফুট) |\n| --- | --- | --- | --- | --- |\n \n| ক্রমিক নং | দৈর্ঘ্য (ফুট) | প্রস্থ (ফুট) | উচ্চতা (ফুট) | ভলিউম (ঘনফুট) |\n| --- | --- | --- | --- | --- |\n \n| ক্রমিক নম্বর | বর্ণনা | ব্র্যান্ড নাম | মডেল নম্বর | মেশিনের সংখ্যা | বার্ষিক উৎপাদন ক্ষমতা (প্রযোজ্য হলে) | ইউনিট কোড |\n| --- | --- | --- | --- | --- | --- | --- |\n \n| ক্রমিক নম্বর | বর্ণনা | এইচ এস কোড | বার্ষিক উৎপাদন ক্ষমতা | ইউনিট কোড |\n| --- | --- | --- | --- | --- |\n \n| BGMEA | BKMEA | BGAPMEA | BTMA | BTA | BPGMEA | BCMEA | BLMEA | LFMEAB | BTTLMEA | CGAG |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n \n| Sl. No. | Code | Name | Branch |\n| --- | --- | --- | --- |\n \n| Sl. No. | Length (ft) | Width (ft) | Area (SQ ft) | Description of the Factory |\n| --- | --- | --- | --- | --- |\n \n| Sl. No. | Length (ft) | Width (ft) | Height (ft) | Volume (CU ft) | Description of the Raw Materials Warehouse |\n| --- | --- | --- | --- | --- | --- |\n \n| Sl. No. | Length (ft) | Width (ft) | Height (ft) | Volume (CU ft) | Description of the Finished Goods Warehouse |\n| --- | --- | --- | --- | --- | --- |\n \n| Sl. No. | Name Of Raw Materials (Commercial Description) | HS Code | BCT Wise Description |\n| --- | --- | --- | --- |\n \n| Sl. No. | Name Of Finished Goods (Commercial Description) | HS Code | BCT Wise Description | Annual Production Capacity | Unit |\n| --- | --- | --- | --- | --- | --- |\n \n| SL. No. | Name Of Raw Materials (Commercial Description) | H.S Code | Main Machine Particulars | Quantity of Main machine of this type | Auxiliary Machine Particulars | Quantity of Auxiliary machine of this type | Annual Main Machine Production Capacity | Unit |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n \n| SL No. | C&F Agent Name | Issue Date | AIN | Address |\n| --- | --- | --- | --- | --- |\n \n| ক্রমিক নং | বিবরণ |\n| --- | --- |\n| ১. | যথাযথ মূল্যমানের কোর্ট ফিসহ আবেদন। |\n| ২. | BoI/BSCIC এর রেজিস্ট্রেশন সনদপত্র। |\n| ৩. | কোম্পানির টিআইএন সনদসহ পরিচালক/মালিকের আয়কর বিভাগ কর্তৃক ইস্যুকৃত সম্পদ বিবরণী (আইটি১০বি) এর সার্টিফাইড কপি। |\n| ৪. | হালনাগাদ ট্রেড লাইসেন্স। |\n| ৫. | হালনাগাদ ফায়ার লাইসেন্স। |\n| ৬. | মূল্য সংযোজন কর নিবন্ধন সনদ (VAT Registration Certificate)। |\n| ৭. | সংশ্লিষ্ট এসোসিয়েশনের সুপারিশপত্র (প্রযোজ্য ক্ষেত্রে)। |\n| ৮. | প্রতিষ্ঠানের মালিক/পরিচালককদের নাম, পদবি, বর্তমান ও স্থায়ী ঠিকানা, জাতীয় পরিচয়পত্রের কপি, পাসপোর্ট এর কপি (প্রযোজ্য ক্ষেত্রে), স্বাক্ষর এবং ছবি নোটারি পাবলিক ও লিয়েন ব্যাংক কর্তৃক সত্যায়নপূর্বক ১৫০ (একশত পঞ্চাশ) টাকার নন-জুডিসিয়াল স্ট্যাম্পে দাখিল। |\n| ৯. | বয়লার সার্টিফিকেট (প্রযোজ্য ক্ষেত্রে)। |\n| ১০. | জয়েন্ট স্টক কোম্পানির মেমোরেন্ডাম এন্ড আর্টিকেলস অব এসোসিয়েশন এবং সার্টিফিকেট অব ইনকর্পোরেশনের একটি করিয়া স্বতন্ত্র মূল বই (প্রযোজ্য ক্ষেত্রে)। |\n| ১১. | মেশিনারী আমদানির ক্ষেত্রে Invoice ও B/E এবং স্থানীয় ক্রয়ের ক্ষেত্রে ক্রয় সংক্রান্ত দলিলাদির সত্যায়িত ফটোকপি। |\n| ১২. | প্রস্তাবিত বন্ডেড ওয়্যারহাউজের ২ (দুই) কপি নীল নকশা যাহা এমোনিয়া প্রিন্ট পেপারে প্রস্তুতকৃত ও সার্টিফাইড ইঞ্জিনিয়ার কর্তৃক প্রতি স্বাক্ষরিত। |\n| ১৩. | কারখানার মালিকানা দলিল কিংবা ভাড়ার ক্ষেত্রে নোটারীকৃত চুক্তিপত্র। |\n| ১৪. | ব্যবসা পরিচালনাকালে দেশে প্রচলিত সংশ্লিষ্ট সকল আইন ও বিধি-বিধান মানিয়া চলিবার অঙ্গীকারসহ ৩০০ (তিনশত) টাকার অথবা স্ট্যাম্প আইন অনুযায়ী নির্ধারিত মূল্যের নন জুডিসিয়াল স্ট্যাম্পে হলফনামা। |\n| ১৫. | কারখানার চতুর্দিকে নিরাপত্তা বেষ্টনি এবং একই ইন্ডাষ্ট্রিয়াল এরিয়ার মধ্যে স্থাপিত গ্রুপ অব ইন্ডাষ্ট্রিজে স্থাপিত প্রতিষ্ঠানসমূহের ক্ষেত্রে একই ধরনের নিরাপত্তা বেষ্টনি থাকিবার নকশা যাহা সার্টিফাইড ইঞ্জিনিয়ার কর্তৃক প্রতিস্বাক্ষরিত হইতে হইবে। |\n| ১৬. | কারখানার ভিতরে অবস্থিত কাঁচামাল ও ফিনিশড গুডস এর জন্য নির্ধারিত ওয়্যারহাউস আন্তর্জাতিক মানসম্মত হইতে হইবে। |\n| ১৭. | গুদামসহ প্রতিষ্ঠানের আয়তন অন্যূন ৫ (পাঁচ) হাজার বর্গফুট হইতে হইবে। |\n| ১৮. | প্রতিষ্ঠান যদি ভাড়াকৃত স্থানে স্থাপিত হয় সেক্ষেত্রে অন্যূন ১০ (দশ) বৎসরের ভাড়ার চুক্তি দাখিল করিতে হইবে। |\n| ১৯. | প্রতিষ্ঠানের নিজস্ব নামে জ্বালানি সংযোগ থাকিতে হইবে, তবে একই হোল্ডিং এ একাধিক প্রতিষ্ঠান হইলে সাব-মিটার হইতে পারিবে। |\n| ২০. | আবেদনকারী যদি উৎপাদন কার্যক্রমের জন্য স্থানীয় উৎস হইতে পূর্বে আমদানিকৃত ও ব্যবহৃত যন্ত্রপাতি ও যন্ত্রাংশ সংগ্রহ করিয়া থাকে, তাহা হইলে তাহার আয়ুষ্কাল নির্ধারণের ক্ষেত্রে আন্তর্জাতিক সার্ভেয়ার প্রতিষ্ঠান কর্তৃক অন্যূন ১০ (দশ) বৎসর কর্মক্ষম থাকিবে, এই মর্মে Life Span Certificate সংগ্রহপূর্বক আবেদনের সহিত দাখিল করিতে হইবে। |\n| ২১. | লিমিটেড কোম্পানির ক্ষেত্রে পরিশোধিত মূলধন অন্যূন ১ (এক) কোটি টাকা এবং একক/অংশীদারি মালিকানার ক্ষেত্রে অন্যূন টার্নওভার ৫০ (পঞ্চাশ) লক্ষ টাকা হইতে হইবে। |\n| ২২. | ব্যবসায়িক কার্যক্রম অন্যূন ৬ (ছয়) মাস সফলভাবে পরিচালনার পরবর্তীতে ওয়্যারহাউস লাইসেন্সের জন্য আবেদনযোগ্য হইবে। |\n",
+      "entity_concepts": {
+        "Bonded Warehouse License": [
+          "To obtain a license, a person must submit an application in the prescribed form along with verified supporting documents, court fees, and other mandatory certificates. The application process requires the fulfillment of specific criteria such as facility size, operational history, and financial stability, as well as adherence to safety and legal standards. All accompanying documentation, including business registration and utility records, must be verified by the lien bank to ensure authenticity."
+        ],
+        "Value Added Tax": [
+          "A valid Value Added Tax registration certificate is a mandatory requirement for applying for a bonded warehouse license."
+        ],
+        "Business Registration": [
+          "Applicants must submit various registration documents, including trade licenses, fire licenses, and registration certificates from regulatory bodies like BoI or BSCIC, as part of the licensing process."
+        ],
+        "Industrial Raw Materials": [
+          "The license application requires detailed documentation regarding raw materials, including commercial descriptions and HS codes, and mandates that storage facilities for these materials meet international quality standards."
+        ],
+        "Bonded Warehouse Operation": [
+          "The operation of a bonded warehouse requires an applicant to demonstrate that the facility is physically secure with defined boundaries and adequate storage capacity. Licensees are required to comply with all domestic laws and regulations, providing a notarized affidavit as a formal commitment to this compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2777",
+      "entity_sub_entities": {
+        "Bonded Warehouse License": [
+          "application",
+          "verified supporting documents",
+          "court fees",
+          "mandatory certificates",
+          "facility size",
+          "operational history",
+          "financial stability",
+          "safety standards",
+          "legal standards",
+          "business registration",
+          "utility records",
+          "lien bank"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax registration certificate"
+        ],
+        "Business Registration": [
+          "trade licenses",
+          "fire licenses",
+          "registration certificates",
+          "BoI",
+          "BSCIC"
+        ],
+        "Industrial Raw Materials": [
+          "raw materials",
+          "commercial descriptions",
+          "HS codes",
+          "storage facilities"
+        ],
+        "Bonded Warehouse Operation": [
+          "facility",
+          "boundaries",
+          "storage capacity",
+          "domestic laws",
+          "regulations",
+          "notarized affidavit"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        12,
+        58,
+        61,
+        121,
+        235,
+        285,
+        446,
+        519,
+        711,
+        813,
+        987,
+        1448,
+        1828,
+        1932,
+        2667,
+        3104,
+        3181,
+        3300,
+        4414,
+        4453,
+        4948,
+        6009,
+        6085,
+        6469,
+        6763,
+        8099,
+        8117,
+        9675,
+        13138,
+        13269
+      ],
+      "source_file": "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "যুগপৎ সরাসরি ও প্রচ্ছন্ন রপ্তানি",
+      "text_id": "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_12",
+      "resolved_text": "১২। যুগপৎ সরাসরি ও প্রচ্ছন্ন রপ্তানি।— (১) কোনো শিল্প প্রতিষ্ঠান একই সঙ্গে সরাসরি ও প্রচ্ছন্ন রপ্তানিকারক হিসেবে ওয়্যারহাউস লাইসেন্স গ্রহণ করিতে পারিবে।\n(২) সরাসরি কিংবা প্রচ্ছন্ন রপ্তানিকারক হিসাবে ওয়্যারহাউস লাইসেন্স প্রাপ্ত প্রতিষ্ঠান পরবর্তীতে লাইসেন্সিং কর্তৃপক্ষের অনুমোদনক্রমে যুগপৎ সরাসরি ও প্রচ্ছন্ন রপ্তানিকারক হিসাবে কার্যক্রম পরিচালনা করিতে পারিবে।\n(৩) যুগপৎ সরাসরি ও প্রচ্ছন্ন রপ্তানিকারক হিসেবে নতুন ওয়্যারহাউস লাইসেন্সের আবেদনের ক্ষেত্রে লাইসেন্সিং বিধিমালায় নির্দেশিত দলিলাদির অতিরিক্ত হিসেবে বিনিয়োগ বোর্ড ও সংশ্লিষ্ট অনুমোদিত অ্যাসোসিয়েশন (প্রযোজ্য ক্ষেত্রে) এর সুপারিশে “সরাসরি ও প্রচ্ছন্ন রপ্তানিকারক” প্রতিষ্ঠান মর্মে উল্লেখ থাকিতে হইবে।\n(৪) বিদ্যমান ওয়্যারহাউস লাইসেন্সে সরাসরি রপ্তানিকারকের পাশাপাশি প্রচ্ছন্ন রপ্তানিকারক কিংবা প্রচ্ছন্ন রপ্তানিকারক এর পাশাপাশি সরাসরি রপ্তানিকারকের সংযোজন করিয়া ওয়্যারহাউস লাইসেন্সের পরিস্থিতি পরিবর্তনের ক্ষেত্রে সংশ্লিষ্ট অ্যাসোসিয়েশনের সুপারিশ এবং বিনিয়োগ বোর্ড হইতে সংশোধনী গ্রহণ করিয়া লাইসেন্সিং কর্তৃপক্ষ বরাবর আবেদন দাখিল করিতে হইবে।\n(৫) বিনিয়োগ বোর্ডের সুপারিশের ভিত্তিতে উভয়বিধ কার্যক্রম পরিচালনার জন্য ব্যবহৃতব্য সকল উপকরণ ও উৎপাদিতব্য পণ্যের বিবরণ ও এইচএস কোড ওয়্যারহাউস লাইসেন্সে অন্তর্ভুক্ত করিয়া লইতে হইবে।\n(৬) উপকরণের বার্ষিক আমদানি প্রাপ্যতা ঘোষিত মেশিনের উৎপাদন ক্ষমতার ভিত্তিতে সরাসরি ও প্রচ্ছন্ন রপ্তানিমুখী (পোশাক শিল্প ব্যতীত) শিল্প প্রতিষ্ঠানের বার্ষিক আমদানি প্রাপ্যতা নির্ধারণ বিধিমালা, ২০২৪ অনুযায়ী এবং প্রযোজ্য ক্ষেত্রে প্রতিষ্ঠানের অনুকূলে জারীকৃত পরিদপ্তরের সহগ অনুযায়ী নির্ধারণ করিতে হইবে।\n(৭) আমদানিকৃত বা সংগৃহীত সকল উপকরণ সংশ্লিষ্ট বন্ড অফিসারের তত্ত্বাবধানে ওয়্যারহাউসে ইন্টু বন্ড করিতে হইবে এবং ইউপির বিপরীতে ব্যবহৃত কাঁচামাল বন্ড রেজিস্টারে এক্সবন্ড করিতে হইবে।\n(৮) সরাসরি ও প্রচ্ছন্ন উভয় প্রকার রপ্তানির ক্ষেত্রে ইউপি গ্রহণ বাধ্যতামূলক এবং পরিদপ্তরের অনুমোদিত সহগ ব্যতীত প্রচ্ছন্ন রপ্তানির লক্ষ্যে ইউপি ইস্যু করা যাইবে না।\n(৯) সরাসরি রপ্তানির ক্ষেত্রে রপ্তানি ঋণপত্র, সেলস্ কন্ট্র্যাক্ট ও ইউডি এর ভিত্তিতে উপকরণ আমদানি করা হইলে তাহা পাশবইয়ে এবং বন্ড রেজিস্টারে এন্ট্রি করিতে হইবে এবং ইউপির বিপরীতে উপকরণের ব্যবহার নিশ্চিত করিয়া বন্ড রেজিস্টার ও পাশবইয়ে এন্ট্রি করিয়া এক্সবন্ডের মাধ্যমে রপ্তানি নিশ্চিত করিতে হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse": [
+          "Industrial enterprises are permitted to hold a license to operate simultaneously as both direct and deemed exporters.",
+          "Existing warehouse license holders may apply to change their status to operate as both direct and deemed exporters with the approval of the licensing authority.",
+          "All imported or collected raw materials must be entered into the bonded warehouse under the supervision of a bond officer and recorded in the bond register upon usage against a utilization declaration."
+        ],
+        "Bonded Warehouse License": [
+          "Applications for new licenses involving both direct and deemed exports require specific recommendations from the investment board and relevant associations.",
+          "To modify an existing license to include additional export categories, enterprises must obtain recommendations from relevant associations and approval from the investment board before applying to the licensing authority.",
+          "The license must be updated to include the details and HS codes of all materials and finished goods used in both direct and deemed export operations as recommended by the investment board."
+        ],
+        "Annual Import Entitlement": [
+          "For industries other than garment manufacturing, the annual import entitlement is determined based on the production capacity of declared machinery and in accordance with the relevant rules and consumption coefficients approved by the department."
+        ],
+        "Utilization Declaration": [
+          "Issuance of a utilization declaration is mandatory for both direct and deemed exports.",
+          "For deemed exports, a utilization declaration cannot be issued without the consumption coefficient approved by the department."
+        ],
+        "Direct Export Procedures": [
+          "When importing materials for direct export based on export letters of credit, sales contracts, and utilization declarations, the materials must be recorded in the passbook and bond register.",
+          "Exporters must ensure the utilization of imported materials against the utilization declaration, record the usage in the bond register and passbook, and complete the ex-bonding process to finalize the export."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2823",
+      "entity_sub_entities": {
+        "Bonded Warehouse": [
+          "raw materials",
+          "bond officer",
+          "bond register",
+          "utilization declaration"
+        ],
+        "Bonded Warehouse License": [
+          "investment board",
+          "relevant associations",
+          "licensing authority",
+          "HS codes",
+          "materials",
+          "finished goods"
+        ],
+        "Annual Import Entitlement": [
+          "machinery",
+          "rules",
+          "consumption coefficients",
+          "department"
+        ],
+        "Utilization Declaration": [
+          "direct exports",
+          "deemed exports",
+          "consumption coefficient",
+          "department"
+        ],
+        "Direct Export Procedures": [
+          "materials",
+          "export letters of credit",
+          "sales contracts",
+          "utilization declarations",
+          "passbook",
+          "bond register"
+        ]
+      },
+      "clause_clusters": [
+        3,
+        12,
+        29,
+        33,
+        43,
+        57,
+        146,
+        235,
+        446,
+        540,
+        593,
+        687,
+        733,
+        1148,
+        1342,
+        1811,
+        2246,
+        3846,
+        3935,
+        6665,
+        6666,
+        7171,
+        7357,
+        10519,
+        11400
+      ],
+      "source_file": "customs_sros_OCR/20240606_212-AIN_2024_64_Customs/20240606_212-AIN_2024_64_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "আমদানি",
+      "text_id": "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "৭। আমদানি।– (১) লাইসেন্স গ্রহণকালে এবং পরবর্তীতে, সময় সময়, লাইসেন্সিং কর্তৃপক্ষের অনুমোদনক্রমে লাইসেন্সে সংযোজিত ও সংশ্লিষ্ট ইউডিতে অন্তর্ভুক্ত কাঁচামাল (এইচএস কোডসহ) ও আনুষঙ্গিক দ্রব্যাদি বন্ডেড ওয়্যারহাউস পদ্ধতির অধীন শুল্ককরমুক্তভাবে আমদানি করা যাইবে।\n\n(২) যৌক্তিক প্রয়োজনে কমিশনার অব কাস্টমস বন্ড বা এতদুদ্দেশ্যে ক্ষমতাপ্রাপ্ত অপর কোনো কমিশনার অব কাস্টমস কর্তৃক প্রদত্ত প্রত্যয়নপত্রের ভিত্তিতে বন্ড লাইসেন্স বহির্ভূত কাঁচামাল বন্ড সুবিধায় আমদানি করা যাইবে।\n\n(৩) শিল্প প্রতিষ্ঠানসমূহ সাধারণভাবে ক্রেতা কর্তৃক নিশ্চয়কৃত বিক্রয় চুক্তি (সেলস কন্ট্রাক্ট) অথবা রপ্তানি মাস্টার ঋণপত্রের বিপরীতে খোলা ব্যাক-টু-ব্যাক ঋণপত্রের বিপরীতে কাঁচামাল আমদানি করিতে পারিবে এবং বিক্রয় চুক্তি (সেলস কন্ট্রাক্ট) অথবা রপ্তানি মাস্টার ঋণপত্রের অধীন সম্পাদিত সকল ব্যাক-টু-ব্যাক ঋণপত্রের মোট মূল্য কোনো অবস্থাতেই বলবৎ আমদানি নীতি আদেশে নির্ধারিত সীমা অতিক্রম করিবে না।\n\n(৪) শিল্প প্রতিষ্ঠানসমূহ মাস্টার ঋণপত্র বা ব্যাক-টু-ব্যাক ঋণপত্র ব্যতিরেক বিনামূল্যে তথা Free of Cost (FOC) এর ভিত্তিতে সংশ্লিষ্ট মেয়াদের অব্যবহিত পূর্ববর্তী নিরীক্ষা মেয়াদের রপ্তানিকৃত পণ্যের এক-তৃতীয়াংশ পণ্য উৎপাদন করিতে যেই পরিমাণ কাঁচামাল প্রয়োজন, অনধিক সেই পরিমাণ কাঁচামাল প্রতিষ্ঠানের অনুমোদিত লিয়েন ব্যাংকের অনাপত্তি সাপেক্ষে আমদানি করিতে পারিবে এবং এইরূপ আমদানিকৃত কাঁচামালের ও তদ্দ্বারা উৎপাদিত পণ্যের হিসাব প্রতিষ্ঠানের বার্ষিক নিরীক্ষা প্রতিবেদনে পৃথকভাবে প্রদর্শন করিতে হইবে।\n\n(৫) কোনো শিল্প প্রতিষ্ঠান যদি তাহার রপ্তানিপণ্য উৎপাদনে ব্যবহার্য প্রায় সকল কাঁচামাল (প্রয়োজনীয় মোট কাঁচামালের আশি শতাংশের উপরে) তাহার বৈদেশিক ক্রেতা অথবা ক্রেতার মনোনীত কোনো বৈদেশিক এজেন্টের নিকট হইতে বিনামূল্যে তথা Free of Cost (FOC) এর ভিত্তিতে পাইয়া থাকে এবং রপ্তানি মূল্য হিসাবে কেবল Cutting, Making and Trimming (CMT) চার্জপ্রাপ্ত হইয়া থাকে, তাহা হইলে নিম্নবর্ণিত পদ্ধতি অনুসরণপূর্বক অনধিক ছয় মাসের কাঁচামাল রিভলভিং পদ্ধতিতে আমদানি করিতে পারিবে, যথা:-\n(ক) ক্রয়াদেশ ও অনুমোদিত লিয়েন ব্যাংকের বিগত মেয়াদের রপ্তানি পারফরমেন্স সার্টিফিকেটের উপর ভিত্তি করিয়া আগামী ছয় মাসের আমদানি প্রাপ্যতার জন্য শিল্প প্রতিষ্ঠান কর্তৃক আবেদনের প্রেক্ষিতে কমিশনার অব কাস্টমস বন্ড অথবা এতদুদ্দেশ্যে ক্ষমতাপ্রাপ্ত কমিশনার অব কাস্টমস প্রত্যাশিত প্রাপ্যতা অনুমোদন করিবেন এবং অনুমোদনপত্রের একটি করিয়া কপি কাস্টম হাউস বা কাস্টমস স্টেশনে প্রেরণ করিবেন;\n(খ) আমদানিকৃত কাঁচামাল দ্বারা উৎপাদিত সমুদয় পণ্য রপ্তানিতে ব্যবহৃত হইয়াছে মর্মে প্রতিষ্ঠান কর্তৃক প্রয়োজনীয় দলিলাদি সংশ্লিষ্ট কমিশনারেটে দাখিল করিলে পরবর্তী ছয় মাসের প্রাপ্যতা প্রদান করা যাইবে;\n(গ) এইরূপে সম্পাদিত রপ্তানি চালানের বিপরীতে প্রাপ্ত রপ্তানি মূল্যকেই প্রকৃত রপ্তানি মূল্য হিসাবে প্রদর্শন করিতে হইবে;\nতবে শর্ত থাকে যে, যদি কোনো ক্ষেত্রে রপ্তানি ইনভয়েসে রপ্তানিমূল্য হিসাবে কাঁচামালের মূল্যসহ উৎপাদিত পণ্যের মূল্য প্রদর্শন করা হইয়া থাকে, তাহা হইলে পৃথকভাবে CMT মূল্য প্রদর্শন করিতে হইবে;\n(ঘ) নিরীক্ষা প্রতিবেদনে রপ্তানি মূল্য, প্রত্যাবাসিত মূল্য ও অপ্রত্যাবাসিত মূল্য সংক্রান্ত ছকে সিএমটি চার্জ পৃথকভাবে প্রদর্শন করিতে হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "Raw materials and auxiliary items, including their HS codes, approved within the license or supplementary Utilization Declaration, may be imported duty-free under the bonded warehouse system.",
+          "Industrial entities may import raw materials outside of their standard license scope subject to certification by the Commissioner of Customs Bond or another authorized customs official for valid reasons."
+        ],
+        "Back-to-Back Letter of Credit": [
+          "Industrial entities are permitted to import raw materials against a confirmed sales contract or an export master letter of credit through the opening of back-to-back letters of credit.",
+          "The total value of all back-to-back letters of credit issued against such export contracts must not exceed the limits prescribed by the prevailing Import Policy Order."
+        ],
+        "Free of Cost (FOC) Import": [
+          "Industrial entities may import raw materials on a Free of Cost basis, provided the quantity does not exceed one-third of the products exported in the preceding audit period and the entity's lien bank provides a no-objection certificate.",
+          "For industries receiving over 80 percent of raw materials as Free of Cost from foreign buyers and earning only Cutting, Making and Trimming charges, imports are permitted on a revolving basis for up to six months subject to specific approval and performance documentation."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs Bond, or an authorized alternate, is responsible for approving the importation of non-licensed raw materials, verifying export performance, and monitoring the revolving import allowance for entities operating under the Cutting, Making and Trimming model."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2833",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "raw materials",
+          "auxiliary items",
+          "HS codes",
+          "license",
+          "supplementary Utilization Declaration",
+          "Commissioner of Customs Bond",
+          "authorized customs official"
+        ],
+        "Back-to-Back Letter of Credit": [
+          "raw materials",
+          "confirmed sales contract",
+          "export master letter of credit",
+          "back-to-back letters of credit",
+          "export contracts",
+          "Import Policy Order"
+        ],
+        "Free of Cost (FOC) Import": [
+          "raw materials",
+          "products",
+          "lien bank",
+          "no-objection certificate",
+          "foreign buyers",
+          "Cutting, Making and Trimming charges",
+          "performance documentation"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs Bond",
+          "authorized alternate",
+          "non-licensed raw materials",
+          "export performance",
+          "revolving import allowance",
+          "Cutting, Making and Trimming model"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        12,
+        61,
+        83,
+        84,
+        235,
+        284,
+        711,
+        1334,
+        1553,
+        1906,
+        3210,
+        3311,
+        3630,
+        3929,
+        4044,
+        4403,
+        5769,
+        6627,
+        7075,
+        7076,
+        7914,
+        7918,
+        8218,
+        10576,
+        11540,
+        12567
+      ],
+      "source_file": "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "ওয়্যারহাউসে পণ্য সংরক্ষণ",
+      "text_id": "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_9",
+      "resolved_text": "৯। ওয়্যারহাউসে পণ্য সংরক্ষণ।– (১) আমদানি কাস্টমস হাউস বা কাস্টমস স্টেশন হইতে পণ্য ছাড়করণের উদ্দেশ্যে রিলিজ অর্ডার জারির তারিখ হইতে ৫ (পাঁচ) দিনের মধ্যে বন্ডারকে উক্ত পণ্য প্রতিষ্ঠানের ওয়্যারহাউসে প্রবেশ নিশ্চিত করিতে হইবে।\n\n(২) ওয়্যারহাউসে রক্ষিত বন্ড রেজিস্টারে তফসিল-৩ অনুযায়ী তালিকাভুক্ত করিয়া পণ্য প্রবেশ করাইতে হইবে এবং ওয়্যারহাউস হইতে পণ্য বাহির করিবার সময় রেজিস্টার হইতে উহা বিয়োজন করিতে হইবে। \n| বিল অব এন্ট্রি নম্বর ও তারিখ | আমদানি কাস্টম হাউস/স্টেশনের নাম | পণ্যচালান কাস্টম হাউস/স্টেশন হইতে ছাড়করণের তারিখ (এক্সিট নোট এর তারিখ) | এলসি নং ও তারিখ | এইচএস কোড | পণ্যের বাণিজ্যিক বর্ণনা | কাঁচামালের পরিমাণ - কেজি | কাঁচামালের পরিমাণ - মিটার | কাঁচামালের পরিমাণ - গজ | কাঁচামালের মোট মূল্য ইউএস ডলার/অন্যান্য মুদ্রা | ইন্টু বন্ডের তারিখ | বন্ড অফিসারের স্বাক্ষর | এক্স বন্ডের তারিখ | এক্সবন্ডকৃত পণ্যের পরিমাণ | সমাপনী মজুদ | বন্ড অফিসারের স্বাক্ষর |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| ১ | ২ | ৩ | ৪ | ৫ | ৬ | ৭ | ৮ | ৯ | ১০ | ১১ | ১২ | ১৩ | ১৪ | ১৫ | ১৬ |\n\n\n(৩) বন্ড অফিসার, সময় সময়, উক্ত রেজিস্টার যাচাই করিয়া যথাস্থানে অনুস্বাক্ষর করিবেন।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The bonded warehouse operator must ensure that goods are moved into the designated warehouse within a specified period from the date of the release order issued by the customs house or customs station.",
+          "Goods stored in the bonded warehouse must be recorded in a bond register following the format prescribed in the schedule, and entries must be adjusted when goods are removed from the warehouse.",
+          "The bond officer is required to periodically verify the entries in the bond register and authenticate them with a signature."
+        ],
+        "Bond Register": [
+          "The bond register must be maintained to track goods, including details such as bill of entry information, HS codes, commodity descriptions, quantities, and values, in accordance with the prescribed schedule."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2835",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "bonded warehouse operator",
+          "goods",
+          "designated warehouse",
+          "release order",
+          "customs house",
+          "customs station",
+          "bond register",
+          "schedule",
+          "bond officer",
+          "entries",
+          "signature"
+        ],
+        "Bond Register": [
+          "bond register",
+          "goods",
+          "bill of entry information",
+          "HS codes",
+          "commodity descriptions",
+          "quantities",
+          "values",
+          "prescribed schedule"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        25,
+        60,
+        61,
+        136,
+        235,
+        265,
+        367,
+        499,
+        583,
+        687,
+        1342,
+        1449,
+        1926,
+        2309,
+        3539,
+        7274,
+        10874
+      ],
+      "source_file": "customs_sros_OCR/20240606_213-AIN_2024_65_Customs/20240606_213-AIN_2024_65_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "পরিশিষ্ট-১",
+      "text_id": "20240912_১২-০৯-২০২৪_clause_5",
+      "resolved_text": "পরিশিষ্ট-১\n[শর্ত (ঙ) দ্রষ্টব্য]\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড\n\n..................................দপ্তরের বিগত................তারিখের আন্তর্জাতিক দরপত্র নম্বর ................তারিখ এর কার্যাদেশ নং-................এর বিপরীতে সরবরাহের জন্য .............পণ্য উৎপাদন কাজে আবশ্যক উপকরণ সম্পর্কিত ঘোষণা।\n\n১। প্রতিষ্ঠানের নাম :\n২। ঠিকানা :\n৩। মূসক নিবন্ধন নম্বর :\n৪। ওয়্যারহাউস লাইসেন্স নম্বর:\n\n\n| ক্রমিক নং | পণ্যের নাম ও এইচ এস কোড | একক | পণ্যে উৎপাদনে ব্যবহার্য উপকরণের নাম (এইচ এস কোড) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ (একক) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ (একক) | অপচয় শতকরা হার (%) |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority prescribing the mandatory declaration form for raw materials required for production against international tenders."
+        ],
+        "Value Added Tax Registration": [
+          "Business entities are required to provide their Value Added Tax registration number when submitting declarations for production materials."
+        ],
+        "Bonded Warehouse License": [
+          "Entities must declare their official warehouse license number when documenting the inventory of materials needed for production under this customs notification."
+        ],
+        "Input-Output Coefficient Declaration": [
+          "The declaration requires a detailed itemization of raw materials used in the production process, including HS codes, usage quantities, and waste percentage rates per unit of product."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_787",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "mandatory declaration form",
+          "raw materials",
+          "international tenders"
+        ],
+        "Value Added Tax Registration": [
+          "Value Added Tax registration number",
+          "production materials"
+        ],
+        "Bonded Warehouse License": [
+          "warehouse license number",
+          "inventory of materials"
+        ],
+        "Input-Output Coefficient Declaration": [
+          "raw materials",
+          "HS codes",
+          "usage quantities",
+          "waste percentage rates",
+          "unit of product"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        200,
+        218,
+        235,
+        446,
+        474,
+        537,
+        737,
+        968,
+        1073,
+        5088,
+        9252,
+        9677,
+        13317
+      ],
+      "source_file": "customs_gos_OCR/20240912/20240912_output.json",
+      "clause_date": "2024-09-12"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "পরিশিষ্ট-২",
+      "text_id": "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড\nপরিশিষ্ট-২\n[শর্ত (ণ) দ্রষ্টব্য]\n..........তারিখের রপ্তানি আদেশ নম্বর........ এর বিপরীতে সরবরাহের জন্য.........পণ্য উৎপাদন কাজে আবশ্যক উপকরণ সম্পর্কিত ঘোষণা।\n১। প্রতিষ্ঠানের নাম :\n২। ঠিকানা :\n৩। মূসক নিবন্ধন নম্বর :\n৪। বিস্তারিত বর্ণনা :\n\n| ক্রমিক bs | পণ্যের নাম ও এইচ. এস. কোড | একক | পণ্য উৎপাদনে ব্যবহৃত উপকরণের নাম (এইচ. এস. কোড) | অপচয়সহ একক পণ্য উৎপাদনে ব্যবহৃত উপকরণের প্রতিটির পরিমাণ (একক) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে ব্যবহৃত উপকরণের প্রতিটির পরিমাণ (একক) | মোট উৎপাদিত পণ্যের পরিমাণ | মোট ব্যবহৃত উপকরণের পরিমাণ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n\n\n...........................................\nপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ:",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue mandates the use of this standardized declaration form for industrial enterprises."
+        ],
+        "Value Added Tax Registration": [
+          "Enterprises are required to provide their Value Added Tax registration number as part of the formal declaration of input materials for production."
+        ],
+        "Input-Output Coefficient Declaration": [
+          "This document functions as a mandatory declaration to report the inputs and output quantities associated with product manufacturing, including detailed specifications of materials used, waste percentages, and HS codes for both raw materials and finished goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3216",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "standardized declaration form",
+          "industrial enterprises"
+        ],
+        "Value Added Tax Registration": [
+          "Value Added Tax registration number",
+          "input materials"
+        ],
+        "Input-Output Coefficient Declaration": [
+          "inputs",
+          "output quantities",
+          "product manufacturing",
+          "materials",
+          "waste percentages",
+          "HS codes",
+          "raw materials",
+          "finished goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        57,
+        106,
+        200,
+        218,
+        235,
+        490,
+        537,
+        593,
+        895,
+        2806,
+        10440,
+        11000,
+        12389
+      ],
+      "source_file": "customs_sros_OCR/20250929/20250929_output.json",
+      "clause_date": "2025-09-29"
+    }
+  ],
+  "num_static_replicated_objects": 1,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৩) ও (৪) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nরেফ্রিজারেটর ও ফ্রিজার অথবা রেফ্রিজারেটর ও ফ্রিজার এর যন্ত্রাংশ তৈরির উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রঃ নং | পত্রের নাম ও H.S. Code | একক | পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ এর নাম (H.S. Code সহ) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটিরি পরিমাণ (কেজি) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটিরি পরিমাণ (কেজি) | অপচয়ের শতকরা হার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা/স্বত্বাধিকারীর নাম, স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority for this regulatory instrument regarding the declaration of raw materials used in manufacturing.",
+          "The document serves as a formal declaration template mandated by the board for industrial reporting purposes."
+        ],
+        "Refrigerator and Freezer": [
+          "This instrument mandates a formal declaration for raw materials and components used in the manufacturing of refrigerators and freezers.",
+          "Manufacturers are required to report input-output ratios, including wastage percentages, for components used in the production of these specific cooling appliances."
+        ],
+        "H.S. Code": [
+          "The declaration requires the specification of HS Codes for both the finished products and the raw materials used in their production to ensure proper classification."
+        ],
+        "Value Added Tax Registration Number": [
+          "Manufacturing entities must provide their Value Added Tax registration number as part of the mandatory declaration process for raw material utilization."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1443",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "regulatory instrument",
+          "declaration template"
+        ],
+        "Refrigerator and Freezer": [
+          "raw materials",
+          "components",
+          "refrigerators",
+          "freezers",
+          "input-output ratios",
+          "wastage percentages",
+          "cooling appliances"
+        ],
+        "H.S. Code": [
+          "HS Codes",
+          "finished products",
+          "raw materials"
+        ],
+        "Value Added Tax Registration Number": [
+          "Value Added Tax registration number"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        5,
+        12,
+        42,
+        218,
+        235,
+        413,
+        474,
+        485,
+        556,
+        661,
+        2414,
+        2585,
+        3802,
+        4200
+      ],
+      "source_file": "customs_sros_OCR/20240606_194-AIN_2024_66_Customs/20240606_194-AIN_2024_66_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

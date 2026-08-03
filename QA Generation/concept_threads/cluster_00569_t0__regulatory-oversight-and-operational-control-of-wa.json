@@ -1,0 +1,155 @@
+{
+  "cluster_id": 569,
+  "cluster_label": "warehouses",
+  "thread_index": 0,
+  "thread_id": "cluster_00569_t0",
+  "title": "Regulatory Oversight and Operational Control of Warehouses",
+  "summary": "The concept of warehouse management has evolved from basic physical control and custodial responsibility to a more structured, audit-driven regulatory framework. While early provisions focused on the physical security and movement of goods, recent updates integrate formal definitions and audit-based compliance mechanisms to ensure transparency in bonded operations.",
+  "evolution": {
+    "regulatory_focus": "Shifted from passive custodial control to active audit-based oversight.",
+    "legal_basis": "Transitioned from general customs provisions to specific definitions under the Customs Act 2023 framework."
+  },
+  "timeline": [
+    {
+      "date": "2021-12-20",
+      "instrument": "NBR Directive",
+      "change": "Introduction of formal audit responsibilities for warehouse operations, focusing on security, record-keeping, and inventory verification.",
+      "clause_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_27"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Customs Rules 2024",
+      "change": "Formalization of definitions regarding warehouse storage periods and bonded institution classifications under the Customs Act 2023.",
+      "clause_ids": [
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_27",
+      "clause_title": "নিরীক্ষকের দায়িত্ব ও কর্তব্য",
+      "text_id": "20211220_২০ ডিসেম্বর, ২০২১_clause_27",
+      "resolved_text": "২৭ । নিরীক্ষকের দায়িত্ব ও কর্তব্য:\n\n(১) নিরীক্ষকগণ দৈবচয়ন গুদামে রক্ষিত আটককৃত পণ্যের তথ্যাদি যাচাই ও নিশ্চিত করবেন।\n\n(২) নিরীক্ষকালে শুল্ক গুদামের নিরাপত্তা ব্যবস্থা যথেষ্ট আছে কি'না উক্ত বিষয় যাচাই করে প্রতিবেদন প্রেরণ করবেন।\n\n(৩) শুল্ক গুদামের ব্যবহৃত রেজিস্টার যথাযথভাবে এন্ট্রি প্রদান ও সংরক্ষিত কি'না তা যাচাই করবেন।\n\n(৪) নিরীক্ষকালে পণ্য সংরক্ষণ, অনলাইনের তথ্য বা আদেশ অনুযায়ী নিষ্পত্তিয়োগ্য পণ্য ব্যবহৃত না হলে প্রয়োজনীয় সুপারিশমালা প্রেরণ করবেন।",
+      "entity_concepts": {
+        "Customs Audit": [
+          "The auditor is responsible for verifying information regarding detained goods stored in warehouses using random sampling techniques.",
+          "The auditor must assess the adequacy of security measures within the customs warehouse and submit a formal report.",
+          "The auditor is required to inspect whether all mandatory registers for the customs warehouse are being maintained and updated correctly.",
+          "The auditor shall provide necessary recommendations if they identify discrepancies between stored goods, online data, or administrative orders regarding the disposal of goods."
+        ],
+        "Customs Warehouse": [
+          "The warehouse must maintain proper security standards and ensure all operational registers are accurately recorded and preserved for audit purposes.",
+          "Goods held within the warehouse are subject to audit verification and must comply with online documentation or disposal orders."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_653",
+      "entity_sub_entities": {
+        "Customs Audit": [
+          "auditor",
+          "detained goods",
+          "warehouses",
+          "random sampling techniques",
+          "security measures",
+          "customs warehouse",
+          "formal report",
+          "mandatory registers",
+          "stored goods",
+          "online data",
+          "administrative orders"
+        ],
+        "Customs Warehouse": [
+          "warehouse",
+          "security standards",
+          "operational registers",
+          "goods",
+          "online documentation",
+          "disposal orders"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        74,
+        388,
+        512,
+        569,
+        574,
+        839,
+        1205,
+        1280,
+        1471,
+        3071,
+        5758,
+        7402,
+        9692,
+        10291,
+        10293,
+        10347,
+        11182
+      ],
+      "source_file": "customs_gos_OCR/20211220/20211220_output.json",
+      "clause_date": "2021-12-20"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়,—\n\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n\n(খ) “ওয়্যারহাউসে পণ্য সংরক্ষণের মেয়াদ” অর্থ বিধি ৩ এ উল্লিখিত বিভিন্ন শ্রেণির ওয়্যারহাউসে পণ্য সংরক্ষণের মেয়াদ; এবং\n\n(গ) “দেশীয় ভোগের জন্য বন্ড প্রতিষ্ঠান” অর্থ বন্ড সুবিধায় আমদানিকৃত কাঁচামাল শুল্ক-কর পরিশোধ সাপেক্ষে দেশীয় ভোগের উদ্দেশ্যে প্রক্রিয়াজাতকরণপূর্বক উৎপাদিত পণ্য সরবরাহকারী প্রতিষ্ঠান।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "The term Act is defined as the Customs Act 2023 for the purpose of these rules."
+        ],
+        "Warehouse Storage Period": [
+          "This term refers to the specific duration allowed for storing goods in various classes of warehouses as prescribed under these rules."
+        ],
+        "Bonded Enterprise for Domestic Consumption": [
+          "This refers to an enterprise that processes raw materials imported under bond facilities and supplies the finished products for domestic consumption upon payment of applicable duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2807",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Act",
+          "Customs Act 2023"
+        ],
+        "Warehouse Storage Period": [
+          "duration",
+          "goods",
+          "warehouses"
+        ],
+        "Bonded Enterprise for Domestic Consumption": [
+          "enterprise",
+          "raw materials",
+          "finished products",
+          "duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        12,
+        13,
+        19,
+        30,
+        144,
+        485,
+        569,
+        1636,
+        3865,
+        6034,
+        13330
+      ],
+      "source_file": "customs_sros_OCR/20240606_211-AIN_2024_63_Customs/20240606_211-AIN_2024_63_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

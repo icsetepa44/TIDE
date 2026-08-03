@@ -1,0 +1,92 @@
+{
+  "thread_id": "cluster_00393_t0",
+  "cluster_id": 393,
+  "cluster_label": "foreign currency",
+  "title": "Foreign Currency Handling and Disposal",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 4,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the procedural management of foreign currency under customs oversight shifted between 2019 and 2021?",
+      "answer": "The procedural management evolved from a focus on custodial deposit requirements to a more complex judicial framework. While the 2019 Customs Directive mandated the physical deposit of foreign currency into the Bangladesh Bank or treasury branches within three working days, the 2021 Customs Directive introduced a requirement for formal judicial adjudication to govern the disposal of seized currency.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What does the evolution of foreign currency handling indicate about the institutional oversight of customs assets?",
+      "answer": "The evolution indicates a shift toward increased institutional rigor and legal formality. By moving from simple custodial storage protocols defined in 2019 to mandatory formal adjudication processes for seized assets by 2021, the customs framework has integrated deeper involvement from both the Bangladesh Bank for asset management and internal judicial branches for legal settlement.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the customs framework transition from a focus on warehouse storage to a requirement for judicial adjudication for foreign currency?",
+      "answer": "The transition reflects a need to formalize the legal status of seized assets. While the 2019 directive prioritized secure storage in customs warehouses as an interim measure before central bank deposit, the 2021 directive established that cases involving foreign currency must be processed through the formal adjudication branch, ensuring that disposal is backed by a legal decision rather than just administrative handling.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the disposal requirements for foreign currency differ from general goods within the customs framework?",
+      "answer": "Foreign currency is treated as a high-value asset requiring specialized handling compared to general goods. According to the 2019 and 2021 directives, foreign currency must be deposited with the central bank or treasury and is subject to mandatory formal judicial adjudication, whereas general goods may be organized in warehouses for auction or destruction based on their specific disposal method.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2019 Customs Directive, all seized foreign currency must be processed exclusively through the formal judicial adjudication branch before being stored in customs warehouses, as mandated by the Standing Order on Disposal of Seized and Confiscated Goods, 2021.",
+      "question": "Does the 2019 Customs Directive require formal judicial adjudication for the disposal of foreign currency, and why is this statement chronologically problematic?",
+      "conflict": "The statement incorrectly attributes the 2021 judicial adjudication requirement to the 2019 directive and suggests that the 2021 Standing Order existed in 2019.",
+      "answer": "No, the 2019 Customs Directive did not mandate formal judicial adjudication for foreign currency; it focused on mandatory deposit procedures into the Bangladesh Bank or treasury branches within 3 working days. The requirement for formal judicial adjudication was only established later in the 2021-12-20 Customs Directive, which also references the Standing Order on Disposal of Seized and Confiscated Goods, 2021.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer at an airport unit seizes a quantity of foreign currency on January 10, 2022. The officer needs to determine the correct procedural path for both the physical storage of the currency and the legal resolution of the case.",
+      "question": "Based on the evolution of customs directives from 2019 to 2021, what are the two distinct requirements the officer must follow regarding the physical deposit of the currency and the legal processing of the seizure?",
+      "answer": "The officer must ensure the currency is deposited at the nearest branch of Bangladesh Bank or a treasury bank within three working days (as per the 2019 directive) and ensure the case is processed through the formal adjudication branch, as cases involving foreign currency must now be handled exclusively through that branch (as per the 2021 directive).",
+      "clauses_involved": [
+        "2019-01-21",
+        "2021-12-20"
+      ],
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-01-21",
+      "relative_offset": "almost three years later",
+      "question": "Following the 2019-01-21 directive on mandatory deposit procedures, what change was introduced to the handling of seized foreign currency almost three years later?",
+      "answer": "In the 2021-12-20 Customs Directive, the framework shifted to require that cases involving foreign currency must be processed exclusively through a formal judicial adjudication branch, rather than just focusing on the physical deposit timeline.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    }
+  ]
+}

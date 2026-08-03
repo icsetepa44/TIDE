@@ -1,0 +1,241 @@
+{
+  "cluster_id": 794,
+  "cluster_label": "regulatory provisions",
+  "thread_index": 0,
+  "thread_id": "cluster_00794_t0",
+  "title": "Regulatory Effectiveness and Validity Period",
+  "summary": "The regulatory provisions evolved from simple effective dates to incorporating specific expiration dates, reflecting a shift toward time-bound policy enforcement. This transition marks a move from indefinite validity to defined sunset clauses for customs notifications.",
+  "evolution": {
+    "validity_structure": "Transitioned from indefinite validity to time-bound expiration periods."
+  },
+  "timeline": [
+    {
+      "date": "2018-07-26",
+      "instrument": "SRO",
+      "change": "Establishment of standard effective date clause.",
+      "clause_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "SRO",
+      "change": "Introduction of a sunset clause (validity until 2026-06-30) alongside the effective date.",
+      "clause_ids": [
+        "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+        "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_2",
+      "resolved_text": "২। ইহা ২৮ জুন, ২০১৮ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "S.R.O. 193-AIN/2018": [
+          "This instrument establishes the official commencement date for the regulatory provisions specified therein."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1891",
+      "entity_sub_entities": {
+        "S.R.O. 193-AIN/2018": [
+          "instrument",
+          "commencement date",
+          "regulatory provisions"
+        ]
+      },
+      "clause_clusters": [
+        364,
+        596,
+        794,
+        11739
+      ],
+      "source_file": "customs_sros_OCR/20180726_193-AIN_2018_32_Customs/20180726_193-AIN_2018_32_Customs_output.json",
+      "clause_date": "2018-07-26"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_168-AIN_2024_20_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "৩। এই প্রজ্ঞাপন ৬ জুন, ২০২৪ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে এবং ৩০ জুন, ২০২৬ খ্রিষ্টাব্দ তারিখ পর্যন্ত বলবৎ থাকিবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This order specifies the commencement date for the regulations contained within the instrument.",
+          "The order defines a specific duration of validity, after which the regulatory provisions will cease to be in effect."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2596",
+      "entity_sub_entities": {
+        "Statutory Regulatory Order": [
+          "commencement date",
+          "regulations",
+          "instrument",
+          "duration of validity",
+          "regulatory provisions"
+        ]
+      },
+      "clause_clusters": [
+        15,
+        121,
+        364,
+        596,
+        794,
+        7503
+      ],
+      "source_file": "customs_sros_OCR/20240606_168-AIN_2024_20_Customs/20240606_168-AIN_2024_20_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_199-AIN_2024_51_Customs_২০২৪-০৫-২৯_clause_3",
+      "resolved_text": "৩। এই প্রজ্ঞাপন ৬ জুন, ২০২৪ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে এবং ৩০ জুন, ২০২৬ খ্রিষ্টাব্দ তারিখ পর্যন্ত বলবৎ থাকিবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This order specifies the commencement date for the regulatory provisions contained herein.",
+          "The order sets a defined expiry date after which the legal provisions will no longer remain in force."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2693",
+      "entity_sub_entities": {
+        "Statutory Regulatory Order": [
+          "commencement date",
+          "regulatory provisions",
+          "expiry date",
+          "legal provisions"
+        ]
+      },
+      "clause_clusters": [
+        15,
+        130,
+        364,
+        571,
+        794
+      ],
+      "source_file": "customs_sros_OCR/20240606_199-AIN_2024_51_Customs/20240606_199-AIN_2024_51_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 4,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220609_151-AIN_2022_99_Customs_১ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ৯ জুন, ২০২২ খ্রিষ্টাব্দ তারিখ হইতে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Customs Notification": [
+          "This legal instrument specifies its official date of commencement for its regulatory provisions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2289",
+      "entity_sub_entities": {
+        "Customs Notification": [
+          "official date of commencement",
+          "regulatory provisions"
+        ]
+      },
+      "clause_clusters": [
+        11,
+        85,
+        794
+      ],
+      "source_file": "customs_sros_OCR/20220609_151-AIN_2022_99_Customs/20220609_151-AIN_2022_99_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20230601_108-AIN_2023_152_Customs_২১ মে, ২০২৩ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ১ জুন, ২০২৩ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This legal instrument specifies the date upon which the new regulatory provisions or amendments formally take effect."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2460",
+      "entity_sub_entities": {
+        "Statutory Regulatory Order": [
+          "regulatory provisions",
+          "amendments"
+        ]
+      },
+      "clause_clusters": [
+        15,
+        145,
+        794
+      ],
+      "source_file": "customs_sros_OCR/20230601_108-AIN_2023_152_Customs/20230601_108-AIN_2023_152_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_200-AIN_2024_52_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "৩। এই প্রজ্ঞাপন ৬ জুন, ২০২৪ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the official commencement date upon which the regulatory provisions contained herein become legally enforceable."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2696",
+      "entity_sub_entities": {
+        "Statutory Regulatory Order": [
+          "notification",
+          "official commencement date",
+          "regulatory provisions"
+        ]
+      },
+      "clause_clusters": [
+        15,
+        20,
+        85,
+        794
+      ],
+      "source_file": "customs_sros_OCR/20240606_200-AIN_2024_52_Customs/20240606_200-AIN_2024_52_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_216-AIN_2025_38_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This legal instrument specifies its effective date, determining the exact timeframe when the regulatory provisions contained therein come into force."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3089",
+      "entity_sub_entities": {
+        "Statutory Regulatory Order": [
+          "effective date",
+          "regulatory provisions"
+        ]
+      },
+      "clause_clusters": [
+        15,
+        85,
+        794
+      ],
+      "source_file": "customs_sros_OCR/20250602_216-AIN_2025_38_Customs/20250602_216-AIN_2025_38_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ]
+}

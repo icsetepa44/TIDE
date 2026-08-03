@@ -1,0 +1,446 @@
+{
+  "cluster_id": 754,
+  "cluster_label": "business",
+  "thread_index": 1,
+  "thread_id": "cluster_00754_t1",
+  "title": "Business Licensing and Operational Compliance",
+  "summary": "This thread tracks the evolution of business eligibility and operational reporting requirements for customs-related activities. It shows a shift from simple import permissions to complex, compliance-heavy requirements involving VAT, industrial status, and mandatory reporting of ownership changes.",
+  "evolution": {
+    "eligibility": "Increased from basic registration to specific industrial and tax-compliant status.",
+    "reporting_obligations": "Shifted from static licensing to dynamic reporting of internal corporate changes."
+  },
+  "timeline": [
+    {
+      "date": "2014-04-03",
+      "instrument": "Customs Directive",
+      "change": "Initial restriction on import quantities for commercial business entities.",
+      "clause_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6"
+      ]
+    },
+    {
+      "date": "2022-07-17",
+      "instrument": "Customs SRO",
+      "change": "Introduction of strict eligibility criteria (Industrial IRC holder and VAT compliance) for specific business sectors.",
+      "clause_ids": [
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "Customs Regulations",
+      "change": "Expansion of business classifications to include specific service providers like express services and e-commerce entities.",
+      "clause_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Customs Amendment",
+      "change": "Mandatory reporting of ownership or management changes to licensing authorities within a fixed timeframe.",
+      "clause_ids": [
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6",
+      "resolved_text": "5| Av‡e`bKvix cÖwZôvb mswkøó †nv‡Uj evwYwR¨Kfv‡e Pvjyi c–‡e© RvZxq ivR¯^ †evW© KZ©„K wbw`©óK…Z cwigv‡Yi cY¨ GKeviB Avg`vbxq Kwi‡Z cvwi‡e|",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is authorized to specify the quantity of goods that an eligible applicant hotel may import for commercial use."
+        ],
+        "Commercial Hotel Importation": [
+          "Applicant hotels are permitted to make a one-time import of goods for commercial operations, provided the quantities are specified by the National Board of Revenue prior to the commencement of business."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1472",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "quantity of goods",
+          "eligible applicant hotel"
+        ],
+        "Commercial Hotel Importation": [
+          "applicant hotels",
+          "one-time import",
+          "goods",
+          "commercial operations",
+          "quantities",
+          "National Board of Revenue",
+          "business"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        499,
+        754,
+        2563,
+        2969,
+        5575,
+        6472,
+        7700,
+        10280
+      ],
+      "source_file": "customs_sros_OCR/20140403_50-AIN_2014_2476-Customs/20140403_50-AIN_2014_2476-Customs_output.json",
+      "clause_date": "2014-04-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+      "resolved_text": "(১) (ক) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant Automated Teller Machine (ATM) এবং Closed Circuit Camera উৎপাদনকারী (Manufacturer) হইতে হইবে।\nব্যাখ্যা-\n(অ) “Industrial IRC holder” অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(আ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান।",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "This entity refers to an industrial establishment that holds a valid and up-to-date Industrial Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports.",
+          "To qualify as a manufacturer of automated teller machines and closed-circuit cameras, a business must maintain this specific import authorization."
+        ],
+        "VAT Compliant": [
+          "A business is considered VAT compliant if it is registered under the Value Added Tax and Supplementary Duty Act, 2012, and regularly submits its required tax returns.",
+          "Manufacturing eligibility for certain industrial products is conditional upon maintaining this compliance status."
+        ],
+        "Manufacturer": [
+          "This entity refers to an enterprise engaged in the production of specific goods, namely automated teller machines and closed-circuit camera systems.",
+          "Manufacturers must satisfy both industrial import registration requirements and tax compliance standards to qualify under this provision."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2362",
+      "entity_sub_entities": {
+        "Industrial IRC Holder": [
+          "industrial establishment",
+          "Industrial Import Registration Certificate",
+          "Office of the Chief Controller of Imports and Exports",
+          "manufacturer",
+          "automated teller machines",
+          "closed-circuit cameras",
+          "import authorization"
+        ],
+        "VAT Compliant": [
+          "business",
+          "Value Added Tax and Supplementary Duty Act, 2012",
+          "tax returns",
+          "industrial products"
+        ],
+        "Manufacturer": [
+          "enterprise",
+          "automated teller machines",
+          "closed-circuit camera systems",
+          "industrial import registration requirements",
+          "tax compliance standards"
+        ]
+      },
+      "clause_clusters": [
+        95,
+        101,
+        129,
+        134,
+        207,
+        258,
+        754,
+        827,
+        947,
+        1153,
+        1636,
+        2785,
+        2799,
+        6423,
+        6424,
+        9026,
+        12658
+      ],
+      "source_file": "customs_sros_OCR/20220717_202-_2022_110/20220717_202-_2022_110_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— (১) বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায়,—\n(ক) “অন-বোর্ড এক্সপ্রেস সার্ভিস” অর্থ এইরূপ ব্যক্তি বা প্রতিষ্ঠান, যিনি অনুমোদিত স্থল কাস্টমস রুটের মাধ্যমে এক্সপ্রেস পদ্ধতিতে পণ্য আনয়ন সেবা প্রদানের জন্য বিধি ৬ এর উপ-বিধি (৩) এর অধীন অন-বোর্ড এক্সপ্রেস সার্ভিস হিসাবে লাইসেন্সপ্রাপ্ত;\n(খ) “আন্তর্জাতিক এয়ার এক্সপ্রেস সার্ভিস” অর্থ এইরূপ ব্যক্তি বা প্রতিষ্ঠান, যিনি কাস্টমস বিমানবন্দরের মাধ্যমে এক্সপ্রেস পদ্ধতিতে পণ্য আনয়ন সেবা প্রদানের জন্য বিধি ৬ এর উপ-বিধি (৩) এর অধীন আন্তর্জাতিক এয়ার এক্সপ্রেস সার্ভিস হিসাবে লাইসেন্সপ্রাপ্ত;\n(গ) “আন্তঃসীমান্ত ই-কমার্স প্রতিষ্ঠান” অর্থ কোনো ই-কমার্স প্রতিষ্ঠান যাহা ইলেকট্রনিক মাধ্যমে পণ্য প্রদর্শন এবং সরবরাহ আদেশ প্রাপ্ত হইয়া এক দেশ হইতে অন্য দেশে এক্সপ্রেস সার্ভিস যোগে উক্ত পণ্য সরাসরি গ্রাহক বরাবর প্রেরণ বা সরবরাহ করিয়া থাকে;\n(ঘ) “উপহার সামগ্রী” অর্থ আমদানি নীতি আদেশ, ২০২১-২৪ এ বর্ণিত প্রকৃত উপহার সামগ্রী;\n(ঙ) “এক্সপ্রেস সার্ভিস প্রতিষ্ঠান” অর্থ অন-বোর্ড এক্সপ্রেস সার্ভিস বা আন্তর্জাতিক এয়ার এক্সপ্রেস সার্ভিস;\n(চ) “এজেন্ট” অর্থ এইরূপ ব্যক্তি বা প্রতিষ্ঠান যিনি আইনের ধারা ২৪৩ এর অধীন লাইসেন্সপ্রাপ্ত;\n(ছ) “কাস্টমস কম্পিউটার সিস্টেম” অর্থ আইনের ধারা ২ এর দফা (১৫) এ সংজ্ঞায়িত কাস্টমস কম্পিউটার সিস্টেম;\n(জ) “গ্রাহক” অর্থ কনসাইনি (consignor) বা প্রিন্সিপাল বা তাহার বৈধ এজেন্ট, কাউন্টারপার্ট (counterpart) কর্তৃক ইস্যুকৃত বিল অব লেডিং, হাউজ এয়ারওয়ে বিল বা কনসাইনমেন্ট নোটে উল্লিখিত প্রাপক;\n(ঝ) “ডকুমেন্টস” অর্থ বাণিজ্যিক মূল্যহীন, হস্তলিখিত বা মুদ্রিত দলিলাদি, টেন্ডার ডকুমেন্ট, ম্যাপ, কারিগরি নকশা, সার্ভে রিপোর্ট, ভূতাত্ত্বিক জরিপ রিপোর্ট, ক্যাটালগ, প্রোডাক্ট ম্যানুয়াল, অপারেশন ও মেইন্টেন্যান্স ম্যানুয়াল, পাসপোর্ট বা অনুরূপ পণ্য, যেকোনো ধরনের বই সংবাদপত্র, ম্যাগাজিন, সাময়িকী, জার্নাল, ইত্যাদি, যাহা মোড়ক, বান্ডিল, কার্টন, বাক্স বা এনভেলাপের মধ্যে মোড়কজাত করা হইয়া থাকে;\n(ঞ) “ডি মিনিমিস” অর্থ কাস্টমস (ডি মিনিমিস) বিধিমালা, ২০১৯ এর বিধি ২ এর দফা (ক) এ সংজ্ঞায়িত ডি মিনিমিস;\n(ট) “নমুনা” অর্থ আমদানি নীতি আদেশ, ২০২১-২৪ এ বর্ণিত প্রকৃত নমুনা বা স্যাম্পল;\n(ঠ) “প্রেরক” অর্থ কনসাইনর (consignor) বা প্রিন্সিপাল, তাহার বৈধ এজেন্ট, কাউন্টারপার্ট (counterpart) কর্তৃক ইস্যুকৃত বিল অব লেডিং, হাউজ এয়ারওয়ে বিল বা কনসাইনমেন্ট নোটে উল্লিখিত প্রেরক;\n(ড) “ফরম” অর্থ এই বিধিমালার ফরম;\n(ঢ) “বিজ্ঞাপন সামগ্রী” অর্থ আমদানি নীতি আদেশ, ২০২১-২৪ এ বর্ণিত প্রকৃত বিজ্ঞাপন সামগ্রী;\n(ণ) “ব্যক্তি” অর্থে কোনো কোম্পানি, অংশীদারি কারবারি, লিমিটেড কোম্পানি বা প্রতিষ্ঠানও অন্তর্ভুক্ত হইবে;\n(ত) “লাইসেন্স” অর্থ এক্সপ্রেস সার্ভিস প্রতিষ্ঠানের মাধ্যমে আমদানিকৃত বা রপ্তানিযোগ্য পণ্য ব্যবস্থাপনা ও খালাস এর জন্য বিধি ৬ এর অধীন প্রদত্ত লাইসেন্স; এবং\n(থ) “লাইসেন্সিং কর্তৃপক্ষ” অর্থ বিধি ৪ এ বর্ণিত লাইসেন্সিং কর্তৃপক্ষ।",
+      "entity_concepts": {
+        "On-board Express Service": [
+          "An On-board Express Service is defined as a person or entity licensed under sub-rule (3) of rule 6 to provide express delivery services for goods through authorized land customs routes."
+        ],
+        "International Air Express Service": [
+          "An International Air Express Service refers to a person or entity licensed under sub-rule (3) of rule 6 to provide express delivery services through customs airports."
+        ],
+        "Cross-Border E-commerce Institution": [
+          "A cross-border e-commerce institution is defined as a business that displays goods via electronic means, receives orders, and supplies or delivers those goods directly to consumers across international borders using express services."
+        ],
+        "Gift Goods": [
+          "Gift goods are defined in accordance with the specific criteria for genuine gift items as described in the Import Policy Order current at the time."
+        ],
+        "Express Service Provider": [
+          "This term refers collectively to entities operating as either an On-board Express Service or an International Air Express Service."
+        ],
+        "Agent": [
+          "An agent refers to a person or entity that holds a valid license granted under section 243 of the Customs Act."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This term is defined by reference to the specific definition provided in section 2, clause (15) of the Customs Act."
+        ],
+        "Consignee": [
+          "A consignee is identified as the recipient of goods as specified in the bill of lading, house airway bill, or consignment note issued by the Consignor, principal, or their authorized agent."
+        ],
+        "Documents": [
+          "Documents encompass items with no commercial value such as printed materials, technical designs, surveys, catalogs, manuals, passports, and similar items packed in envelopes, cartons, or bundles."
+        ],
+        "De Minimis": [
+          "De minimis is defined as per the criteria established in clause (a) of rule 2 of the Customs (De Minimis) Rules, 2019."
+        ],
+        "Samples": [
+          "Samples are defined in accordance with the specifications provided for genuine trade samples in the relevant Import Policy Order."
+        ],
+        "Consignor": [
+          "The Consignor is defined as the party listed as the sender on the bill of lading, house airway bill, or consignment note, including the principal or their authorized agent."
+        ],
+        "Forms": [
+          "This term refers to the specific documents and forms prescribed for use under these rules."
+        ],
+        "Advertising Materials": [
+          "Advertising material refers to items defined as genuine advertising goods according to the relevant Import Policy Order."
+        ],
+        "Person": [
+          "The term person extends to include companies, partnerships, limited companies, and other legal entities."
+        ],
+        "Licensee": [
+          "A license is defined as the authorization granted under rule 6 for the management and customs clearance of goods imported or exported through express service providers."
+        ],
+        "Licensing Authority": [
+          "The Licensing Authority refers to the body designated with regulatory powers as described in rule 4."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1197",
+      "entity_sub_entities": {
+        "On-board Express Service": [
+          "person",
+          "entity",
+          "express delivery services",
+          "goods",
+          "authorized land customs routes"
+        ],
+        "International Air Express Service": [
+          "person",
+          "entity",
+          "express delivery services",
+          "customs airports"
+        ],
+        "Cross-Border E-commerce Institution": [
+          "business",
+          "goods",
+          "consumers",
+          "express services"
+        ],
+        "Gift Goods": [
+          "genuine gift items",
+          "Import Policy Order"
+        ],
+        "Express Service Provider": [
+          "On-board Express Service",
+          "International Air Express Service"
+        ],
+        "Agent": [
+          "person",
+          "entity",
+          "license"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs Act"
+        ],
+        "Consignee": [
+          "recipient",
+          "goods",
+          "bill of lading",
+          "house airway bill",
+          "consignment note",
+          "Consignor",
+          "principal",
+          "authorized agent"
+        ],
+        "Documents": [
+          "printed materials",
+          "technical designs",
+          "surveys",
+          "catalogs",
+          "manuals",
+          "passports",
+          "envelopes",
+          "cartons",
+          "bundles"
+        ],
+        "De Minimis": [
+          "Customs (De Minimis) Rules, 2019"
+        ],
+        "Samples": [
+          "genuine trade samples",
+          "Import Policy Order"
+        ],
+        "Consignor": [
+          "party",
+          "bill of lading",
+          "house airway bill",
+          "consignment note",
+          "principal",
+          "authorized agent"
+        ],
+        "Forms": [
+          "documents",
+          "forms"
+        ],
+        "Advertising Materials": [
+          "genuine advertising goods",
+          "Import Policy Order"
+        ],
+        "Person": [
+          "companies",
+          "partnerships",
+          "limited companies",
+          "legal entities"
+        ],
+        "Licensee": [
+          "authorization",
+          "goods",
+          "express service providers"
+        ],
+        "Licensing Authority": [
+          "body"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        37,
+        43,
+        59,
+        66,
+        70,
+        84,
+        94,
+        190,
+        268,
+        271,
+        275,
+        284,
+        294,
+        337,
+        350,
+        514,
+        585,
+        592,
+        643,
+        659,
+        754,
+        760,
+        1031,
+        1051,
+        1431,
+        1670,
+        1693,
+        1711,
+        1723,
+        1731,
+        1963,
+        1996,
+        2360,
+        2371,
+        2533,
+        2534,
+        3288,
+        3336,
+        3474,
+        3529,
+        3701,
+        3951,
+        4294,
+        4494,
+        5017,
+        6095,
+        6663,
+        7779,
+        8413,
+        8414,
+        8422,
+        9422,
+        11232
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6",
+      "resolved_text": "(৬) বিধি ২০ এর উপ-বিধি (১) এর পরিবর্তে নিম্নরূপ উপ-বিধি (১) প্রতিস্থাপিত হইবে, যথা:-\n\n“(১) ওয়্যারহাউস লাইসেন্সপ্রাপ্ত হইয়া ব্যবসায় কার্যক্রম পরিচালনার কোনো পর্যায়ে কোনো প্রতিষ্ঠানের ব্যবস্থাপনা পরিষদে তথা মালিকানার ক্ষেত্রে সম্পূর্ণ বা আংশিক পরিবর্তন RJSC/ বা অন্যান্য সংশ্লিষ্ট সংস্থা কর্তৃক অনুমোদনের অনধিক ২ (দুই) মাসের মধ্যে তফসিল-৩ এ উল্লিখিত দলিলাদিসহ প্রতিষ্ঠানের নিজস্ব প্যাডে লাইসেন্সিং কর্তৃপক্ষ বরাবর আবেদন করিতে হইবে”।",
+      "entity_concepts": {
+        "Warehouse License": [
+          "The regulations require license holders to notify the licensing authority of any significant changes in the management or ownership structure of their business.",
+          "An application for updating these changes must be submitted on the official letterhead of the business within a specific timeframe following approval by the relevant regulatory bodies."
+        ],
+        "Licensing Authority": [
+          "The licensing authority is responsible for receiving official applications regarding changes in business ownership or management for entities operating under a warehouse license."
+        ],
+        "Schedule-3": [
+          "This schedule specifies the required documentation that must be submitted to the licensing authority when notifying changes in the management or ownership of a licensed warehouse business."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3156",
+      "entity_sub_entities": {
+        "Warehouse License": [
+          "license holders",
+          "licensing authority",
+          "management",
+          "ownership structure",
+          "business",
+          "application",
+          "official letterhead",
+          "regulatory bodies"
+        ],
+        "Licensing Authority": [
+          "licensing authority",
+          "official applications",
+          "business ownership",
+          "management",
+          "warehouse license"
+        ],
+        "Schedule-3": [
+          "documentation",
+          "licensing authority",
+          "management",
+          "ownership",
+          "licensed warehouse business"
+        ]
+      },
+      "clause_clusters": [
+        43,
+        58,
+        63,
+        309,
+        754,
+        1077,
+        1241,
+        1427,
+        2249,
+        2832,
+        4651,
+        6119,
+        9481,
+        10182,
+        10220
+      ],
+      "source_file": "customs_sros_OCR/20250602_231-AIN_2025_53_Customs/20250602_231-AIN_2025_53_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

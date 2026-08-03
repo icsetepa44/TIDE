@@ -1,0 +1,184 @@
+{
+  "thread_id": "cluster_00756_t1",
+  "cluster_id": 756,
+  "cluster_label": "cancellation",
+  "title": "AEO Recognition Cancellation and Procedural Enforcement",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the procedural framework for AEO cancellation evolved from the 2024 rules to the 2025 operational guidelines?",
+      "answer": "The framework evolved from a focus on formal show-cause notices for existing AEOs under the 2024 Rules to a broader operational scope in 2025. By January 2025, the procedures expanded to include automatic cancellation criteria for application non-compliance and mandated inter-agency reporting requirements to the Customs Risk Management Commissionerate.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role does the Customs Risk Management Commissionerate play in the updated AEO cancellation and status tracking process?",
+      "answer": "As of the January 2025 operational guidelines, the Customs Risk Management Commissionerate acts as a primary recipient of mandatory status updates. Recognized organizations are required to provide the Commissionerate or relevant customs stations with written reports regarding any changes to their operational status, including instances of suspension or cancellation.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the issuance of a show-cause notice a critical step in the AEO cancellation process established by the 2024 Rules and maintained into 2025?",
+      "answer": "The show-cause notice is a mandatory procedural step that informs the AEO of the specific allegations or evidence leading to their suspension. It provides the entity an opportunity to submit a written explanation to the designated authority, serving as a formal mechanism to justify why their recognition certificate should not be permanently cancelled.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2025 operational guidance differentiate between the cancellation of an existing AEO status and the cancellation of an application?",
+      "answer": "While AEO status cancellation follows the formal show-cause process under the 2024 Rules, the 2025 guidelines introduce an automatic cancellation mechanism for applications. If an applicant fails to provide requested documentation within the prescribed or extended timeframe, the application is deemed cancelled upon notification by the evaluation team with the Director General's approval.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the standardization of documentation changed the AEO cancellation process by February 2025?",
+      "answer": "By February 17, 2025, the AEO Center introduced standardized forms, such as 'Form-Da', to formalize the communication of cancellation or reinstatement decisions. This move towards standardized documentation ensures that the administrative actions taken by the designated committee following a show-cause response are clearly communicated to the affected entities.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An AEO entity received a show-cause notice for potential cancellation in mid-2024. By early 2025, the entity is reviewing its compliance obligations and needs to understand its reporting requirements regarding its status to external authorities.",
+      "question": "How did the reporting obligations for an AEO entity regarding its cancellation status change between the 2024 rules and the January 2025 operational guidelines?",
+      "answer": "Under the 2024 rules, the focus was on the show-cause notice process. By January 21, 2025, new operational guidelines mandated that recognized entities must now proactively provide regular written updates regarding their registration and operational standing, including any instances of suspension or cancellation, to the Customs Risk Management Commissionerate or relevant customs stations.",
+      "clauses_involved": [
+        "2024-06-13",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An applicant for AEO status failed to submit requested documentation on time in February 2025. The applicant argues that they should follow the same show-cause notice procedure that existed for established AEOs in 2024.",
+      "question": "Is the applicant's expectation of a show-cause notice correct under the 2025 operational guidelines?",
+      "answer": "No. According to the January 21, 2025, operational guidelines, if an applicant fails to submit requested information within the prescribed or extended time frame, the application is considered cancelled automatically, and the evaluation team notifies the applicant in writing upon the Director General's approval, rather than following the formal show-cause process reserved for established AEO status cancellation.",
+      "clauses_involved": [
+        "2024-06-13",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-13",
+      "relative_offset": "seven months later",
+      "question": "Starting from the introduction of the formal show-cause notice procedure in 2024-06-13, what procedural expansion occurred seven months later regarding AEO status non-compliance and reporting?",
+      "answer": "On 2025-01-21, the AEO Operational Guidelines were introduced, which expanded the cancellation procedure to include automatic cancellation for failure to submit documentation within prescribed time frames and mandated reporting requirements to the Customs Risk Management Commissionerate.",
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "one month later",
+      "question": "Following the 2025-01-21 guidelines, what standardization was introduced one month later concerning the documentation of AEO status changes?",
+      "answer": "On 2025-02-17, AEO Operational Forms were issued, which standardized the formal documentation required for the cancellation and potential reinstatement of AEO recognition certificates.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_140",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_74",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Standardization of formal documentation for cancellation and reinstatement of recognition status is introduced.",
+        "Formal notice procedures regarding the show-cause process for recognition suspension are established.",
+        "The regulatory framework expands to include automatic cancellation for non-compliance and mandatory reporting requirements to the Customs Risk Management Commissionerate."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Formal notice procedures regarding the show-cause process for recognition suspension are established.",
+          "date": "2024-06-13"
+        },
+        {
+          "event": "The regulatory framework expands to include automatic cancellation for non-compliance and mandatory reporting requirements to the Customs Risk Management Commissionerate.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "Standardization of formal documentation for cancellation and reinstatement of recognition status is introduced.",
+          "date": "2025-02-17"
+        }
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_96",
+        "20250217_2024_2024-06-06_clause_75"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+        "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json"
+      ],
+      "thread_source_file": "cluster_00756_t1__aeo-recognition-cancellation-and-procedural-enforc.json"
+    }
+  ]
+}

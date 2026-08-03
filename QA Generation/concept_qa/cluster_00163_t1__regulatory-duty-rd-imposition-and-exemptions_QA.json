@@ -1,0 +1,192 @@
+{
+  "thread_id": "cluster_00163_t1",
+  "cluster_id": 163,
+  "cluster_label": "exemptions",
+  "title": "Regulatory Duty (RD) Imposition and Exemptions",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 15,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A textile importer is clearing a large shipment of raw materials at the Chittagong port on July 10, 2013. The goods are classified under a tariff heading that currently carries a statutory import duty rate of 25%. As the importer prepares the final payment documentation for customs assessment, they need to verify the additional levies applicable under the latest government notifications. What is the applicable Regulatory Duty (RD) rate for these goods?",
+      "question": "What is the applicable Regulatory Duty (RD) rate for these goods?",
+      "answer": "The applicable Regulatory Duty rate is 5%.",
+      "date_or_instrument": "SRO 220-AIN/2013 (2013-07-01)",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs officer is processing a commercial consignment at the Dhaka Custom House on August 15, 2016. Upon inspecting the bill of entry, the officer notes the goods are subject to a standard 25% statutory import duty. To ensure the tax assessment is accurate according to the prevailing fiscal measures, the officer consults the current regulatory framework. What is the standard Regulatory Duty rate mandated by the 2016 regulation?",
+      "question": "What is the standard Regulatory Duty rate mandated by the 2016 regulation?",
+      "answer": "The Regulatory Duty rate is 3%.",
+      "date_or_instrument": "SRO 223-AIN/2016 (2016-07-01)",
+      "clause_text_ids": [
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A local manufacturer is preparing a compliance report regarding the various taxes levied on their imported industrial inputs. While reviewing the legal framework governing the national tariff system, they seek to clarify the legislative power behind the government's ability to impose supplementary duties on imports. Which section of the Customs Act 1969 authorizes the government to impose this duty?",
+      "question": "Which section of the Customs Act 1969 authorizes the government to impose this duty?",
+      "answer": "Section 18(2) of the Customs Act 1969 provides the legal foundation for imposing Regulatory Duty.",
+      "date_or_instrument": "Customs Act 1969",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An importer is meticulously reviewing their tax obligations for a shipment arriving shortly after the July 2013 policy updates. They are searching for provisions that might allow for a reduction or waiver of the newly implemented Regulatory Duty on specific essential items. Which section of the Customs Act 1969 is referenced for specific duty and tax exemptions?",
+      "question": "Which section of the Customs Act 1969 is referenced for specific duty and tax exemptions?",
+      "answer": "Section 20 of the Customs Act 1969 is referenced as the legal basis for specific duty and tax exemptions.",
+      "date_or_instrument": "SRO 220-AIN/2013 (2013-07-01)",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics manager at a major trading firm is conducting a comparative analysis of their historical tax liabilities for shipments imported in 2013 versus those arriving in 2016. They are documenting how the fiscal landscape shifted during this period to better inform the company's future procurement strategies. How did the general Regulatory Duty rate for applicable goods change between the 2013 and 2016 SROs?",
+      "question": "How did the general Regulatory Duty rate for applicable goods change between the 2013 and 2016 SROs?",
+      "answer": "The rate was adjusted from 5% under SRO 220-AIN/2013 to 3% under SRO 223-AIN/2016.",
+      "date_or_instrument": "SRO 220-AIN/2013 and SRO 223-AIN/2016",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A busy customs clerk is processing a mountain of paperwork for a new shipment arriving in July 2013. They must carefully classify each item to determine which Regulatory Duties apply based on the specific nature of the products. To perform this task accurately, the clerk refers to the primary legislative table that maps out all taxable goods by their international classification numbers. What document is used to identify goods through heading classifications and HS Codes for applying duty rates?",
+      "question": "What document is used to identify goods through heading classifications and HS Codes for applying duty rates?",
+      "answer": "The First Schedule of the Customs Act 1969 is used to identify goods through heading classifications and HS Codes.",
+      "date_or_instrument": "SRO 220-AIN/2013 (2013-07-01)",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under SRO 220-AIN/2013, the government initially imposed a 3% Regulatory Duty on imported goods that carried a statutory import duty rate of 25%.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "3%",
+      "correct_fact": "5%",
+      "answer": "The statement is inaccurate. According to SRO 220-AIN/2013 dated 2013-07-01, the initial Regulatory Duty imposed on goods with a statutory import duty rate of 25% was 5%, not 3%.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The refinement of Regulatory Duty rates to 3% for specific categories was formally introduced through SRO 223-AIN/2016, effective from 2016-07-01.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 223-AIN/2016, issued on 2016-07-01, established the 3% Regulatory Duty rate for specific categories.",
+      "clause_text_ids": [
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 18(2) of the Customs Act 1969 serves as the legal foundation authorizing the government to impose Regulatory Duty on imported goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Both SRO 220-AIN/2013 and SRO 223-AIN/2016 cite Section 18(2) of the Customs Act 1969 as the legal basis for the imposition of Regulatory Duty.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 223-AIN/2016 specifies that the 3% Regulatory Duty applies to all imported goods, regardless of their statutory import duty rate.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "all imported goods, regardless of their statutory import duty rate",
+      "correct_fact": "imported goods that have a statutory import duty rate of 25%",
+      "answer": "The statement is inaccurate. SRO 223-AIN/2016 applies the 3% Regulatory Duty specifically to goods that have a statutory import duty rate of 25%, subject to specific exemptions and tables.",
+      "clause_text_ids": [
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 20 of the Customs Act 1969 is referenced in the 2013-07-01 instrument as a legal basis for specific duty and tax exemptions on imported goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 220-AIN/2013 references Section 20 of the Customs Act 1969 as the basis for providing duty and tax exemptions.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 5% Regulatory Duty rate was introduced in the 2016-07-01 regulation, SRO 223-AIN/2016.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "5% Regulatory Duty rate was introduced in the 2016-07-01 regulation",
+      "correct_fact": "5% Regulatory Duty rate was introduced in the 2013-07-01 regulation (SRO 220-AIN/2013)",
+      "answer": "The statement is inaccurate. The 5% Regulatory Duty was introduced in the 2013-07-01 regulation (SRO 220-AIN/2013), while the 2016-07-01 regulation (SRO 223-AIN/2016) refined rates to 3%.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Effective July 1, 2013, the government implemented SRO 220-AIN/2013, which established a new Regulatory Duty rate of 3% for all imported goods subject to a 25% statutory import duty, replacing the previous 5% rate.",
+      "question": "What was the actual Regulatory Duty rate established by SRO 220-AIN/2013 on July 1, 2013, and when was the 3% rate introduced?",
+      "conflict": "The context incorrectly states that the 3% rate was introduced in 2013, whereas the 3% rate was a later adjustment.",
+      "answer": "SRO 220-AIN/2013, issued on July 1, 2013, initially imposed a 5% Regulatory Duty. The adjustment of the Regulatory Duty rate to 3% for specific categories occurred later, on July 1, 2016, through SRO 223-AIN/2016.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer brought goods into Bangladesh in 2013 that were subject to a 25% statutory import duty rate and did not fall under any specific exemptions at that time. In 2016, the importer is planning a new shipment of the exact same goods, which still maintain a 25% statutory import duty rate and remain outside of the new exclusion tables.",
+      "question": "How has the applicable Regulatory Duty (RD) rate for this importer's goods changed between the 2013 shipment and the 2016 shipment?",
+      "answer": "The Regulatory Duty rate for these goods decreased from 5% under SRO 220-AIN/2013 to 3% under SRO 223-AIN/2016.",
+      "clauses_involved": [
+        "2013-07-01 | SRO 220-AIN/2013",
+        "2016-07-01 | SRO 223-AIN/2016"
+      ],
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-07-01",
+      "relative_offset": "three years later",
+      "question": "Starting from the initial imposition of the 5% Regulatory Duty in 2013-07-01, what change was introduced to the RD rates three years later?",
+      "answer": "Three years later, in 2016-07-01 (SRO 223-AIN/2016), the Regulatory Duty rates were refined and adjusted to 3% for specific categories.",
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20160701_223-AIN_2016_50-Customs_০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ_clause_1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "group_id": "cluster_00213_t1__X__cluster_00376_t0",
+  "entities": [
+    "Assistant Commissioner",
+    "official website"
+  ],
+  "cluster_ids": [
+    213,
+    376
+  ],
+  "thread_ids": [
+    "cluster_00213_t1",
+    "cluster_00376_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the role of the Assistant Commissioner in approving customs clearances relate to the verification requirements that necessitate the use of the official website for BIN validation?",
+      "answer": "According to clauses [0], [1], [2], and [3], the customs officer is responsible for verifying that all conditions related to import and customs procedures—which include the electronic verification of BINs via the official website—have been met. Once verified, the Assistant Commissioner (or Deputy Commissioner) is the designated authority required to grant the final approval for the customs clearance to ensure the process avoids unnecessary delays.",
+      "entities_involved": [
+        "Assistant Commissioner",
+        "official website"
+      ],
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ]
+}

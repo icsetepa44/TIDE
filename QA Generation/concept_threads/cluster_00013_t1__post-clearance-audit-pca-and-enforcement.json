@@ -1,0 +1,1597 @@
+{
+  "cluster_id": 13,
+  "cluster_label": "taxes",
+  "thread_index": 1,
+  "thread_id": "cluster_00013_t1",
+  "title": "Post-Clearance Audit (PCA) and Enforcement",
+  "summary": "The framework for post-clearance audits has transitioned from basic penalty clauses to a structured, risk-based management system. It now includes detailed procedural manuals for audit selection, notification, hearing, and recovery of underpaid taxes, aligning with the Customs Act, 2023.",
+  "evolution": {
+    "methodology": "Shifted from reactive penalty imposition to proactive risk-based audit cycles.",
+    "legal_basis": "Transitioned from Customs Act, 1969 to Customs Act, 2023."
+  },
+  "timeline": [
+    {
+      "date": "2016-06-02",
+      "instrument": "Customs Rules",
+      "change": "Initial provisions for penalties and license cancellation for non-compliance.",
+      "clause_ids": [
+        "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_10",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_21"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "Customs Audit Manual",
+      "change": "Formalized comprehensive audit manual, risk-based selection, and standardized recovery notices (Section 83A).",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_25",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_58",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_6",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_64",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_65",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_78",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_79",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_80",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_83",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_88",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_89"
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "instrument": "Customs Rules",
+      "change": "Updated penalty references to Customs Act, 2023 and formalized re-assessment procedures.",
+      "clause_ids": [
+        "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_8",
+        "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_7"
+      ]
+    }
+  ],
+  "num_member_objects": 19,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "",
+      "text_id": "20160602_148-AIN_2016_10-Customs_২ জুন, ২০১৬_clause_10",
+      "resolved_text": "(৯) শর্ত নং (৮) এ বর্ণিত অভিযোগ চূড়ান্তভাবে প্রতিষ্ঠিত হইলে অপব্যবহারজনিত রেয়াতের সহিত সংশ্লিষ্ট শুল্ক ও কর আদায় ছাড়াও Customs Act, 1969 এর section 156 এর sub-section(1) এর টেবিল এর Item 10A এর বিধান অনুযায়ী ব্যবস্থা গ্রহণ করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "In cases where a violation regarding granted concessions is proven, authorities must take action against the offending party under the penalty provisions of the Act."
+        ],
+        "Customs Offence Penalties": [
+          "The clause mandates that for proven cases of misuse of customs duty or tax concessions, the penalties specified in the table associated with the relevant section of the Customs Act must be enforced in addition to the recovery of the unpaid duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1599",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "violation",
+          "granted concessions",
+          "authorities",
+          "offending party",
+          "penalty provisions"
+        ],
+        "Customs Offence Penalties": [
+          "misuse of customs duty",
+          "tax concessions",
+          "penalties",
+          "table",
+          "relevant section of the Customs Act",
+          "unpaid duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        13,
+        26,
+        46,
+        116,
+        252,
+        682,
+        890,
+        1297,
+        1311,
+        8553,
+        9906,
+        11421,
+        13298
+      ],
+      "source_file": "customs_sros_OCR/20160602_148-AIN_2016_10-Customs/20160602_148-AIN_2016_10-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_21",
+      "clause_title": "লাইসেন্স বাতিল এবং অর্থদণ্ড আরোপ",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_21",
+      "resolved_text": "২১। লাইসেন্স বাতিল এবং অর্থদণ্ড আরোপ।— (১) লাইসেন্সিং কর্তৃপক্ষ নিম্নবর্ণিত যে কোন কারণে কাস্টমস এজেন্টকে ১৫(পনের) দিনের মধ্যে কারণ দর্শাইবার সুযোগ প্রদান করিয়া তাহার লাইসেন্স বাতিলসহ উপ-বিধি (২) এর অধীন ক্ষেত্রমত অর্থদণ্ড আরোপ করিতে পারিবে, যথা:-\n(১) এই বিধিমালার কোন বিধান বা লাইসেন্সে উল্লিখিত কোন শর্ত ভঙ্গ করা হইলে;\n(২) कर्तव्य পালনে অবহেলা, দীর্ঘসূত্রতা বা অদক্ষতা প্রদর্শন করা হইলে;\n(৩) কাস্টমস কর্মকর্তাগণের সহিত অসৌজন্যমূলক আচরণ করা হইলে;\n(৪) নিজ গ্রাহকের আমদানিকৃত বা রপ্তানিযোগ্য পণ্যের চালান সম্পর্কে কোন মিথ্যা ঘোষণা উদ্ঘাটনের ক্ষেত্রে কাস্টমস কর্তৃপক্ষকে যথাযথ সহযোগিতা প্রদানে ব্যর্থ হইলে;\n(৫) কাস্টমস কর্মকর্তা কর্তৃক চাহিত তাহার আর্থিক লেনদেনের পূর্ণাঙ্গ দলিল, উহা দ্বারা ব্যবহৃত সকল কাস্টমস দলিল এবং কাস্টমস সংশ্লিষ্ট ব্যবসার সহিত সংশ্লিষ্ট সকল চিঠি, বিল, হিসাব গোপন, অপসারণ বা ধ্বংস করিলে অথবা কাস্টমস কর্মকর্তাকে উক্ত রেকর্ডসমূহ দেখাইতে অস্বীকৃতি জানাইলে;\n(৬) ভয়-ভীতি, মিথ্যা অভিযোগ, বলপ্রয়োগ বা কোন অন্যায় সুযোগ-সুবিধা প্রদানের মাধ্যমে কাস্টমস কর্মকর্তা বা কর্মচারীকে প্রভাবিত করিলে;\n(৭) গ্রাহক কর্তৃক কোন মিথ্যা তথ্যের মাধ্যমে শুল্ক-কর ফাঁকির ঘটনা সম্পর্কে অবগত হইবার পর কাস্টমস কর্মকর্তার নিকট উক্ত তথ্য না জানাইলে;\n(৮) নিজ গ্রাহক কর্তৃক শুল্ক-কর ফাঁকির ঘটনায় সহযোগিতা করিলে;\n(৯) প্রযোজ্য কোন শুল্ক-কর ফাঁকি বা প্রচলিত আইনের অধীনে আরোপিত শর্ত বা নিষেধাজ্ঞা এড়াইয়া যাইবার উদ্দেশ্যে কোন জাল দলিল প্রস্তুত করিয়া কাস্টমস কর্মকর্তার নিকট দাখিল করিলে;\n(১০) প্রযোজ্য কোন শুল্ক-কর পরিহার করিলে;\n(১১) যথাসময়ে লাইসেন্স নবায়নের উদ্যোগ গ্রহণ ও নবায়ন না করিলে;\n(১২) মূল লাইসেন্সীর মৃত্যুর ৯০ (নব্বই) দিনের মধ্যে উক্ত মৃত্যু সংবাদ লাইসেন্সিং কর্তৃপক্ষকে লিখিতভাবে অবহিত না করিলে বা বৈধ উত্তরাধিকারী উক্ত সময়ের মধ্যে লাইসেন্সটি তাঁহার অনুকূলে হস্তান্তরের বিষয়ে আবেদন না করিলে;\n(১৩) গ্রাহকের নিকট হইতে বিধি বহির্ভূত অর্থ আদায় বা তাহাকে অন্য কোনরূপে হয়রানি করিলে;\n(১৪) কাস্টমস প্রক্রিয়া অসম্পূর্ণ থাকাবস্থায় কোন বিল অব এন্ট্রি বা বিল অব এক্সপোর্ট কাস্টমস কর্তৃপক্ষ কর্তৃক অনূ্যন ২ (দুই) বার লিখিতভাবে দাখিলের তাগিদ প্রদানের পরও উহা দাখিল না করিলে; এবং\n(১৫) এই বিধিমালার অধীন অর্পিত কোন দায়িত্ব পালন না করিলে।\n\n(২) উপ-বিধি (১) এর অধীন লাইসেন্স বাতিলসহ লাইসেন্সিং কর্তৃপক্ষ সংশ্লিষ্ট কাস্টমস এজেন্টকে, ক্ষেত্রমত, নিম্নরূপ অর্থদণ্ড আরোপ করিতে পারিবে, যথা:-\n(ক) কাস্টমস এজেন্ট এর কর্মকাণ্ড শুল্ক-কর ফাঁকির সহিত সংশ্লিষ্ট না হইলে অনূ্যন ৫০ (পঞ্চাশ) হাজার টাকা হইতে অনূ্যর্ধ্ব ২ (দুই) লক্ষ টাকা;\n(খ) কাস্টমস এজেন্ট কর্তৃক শুল্ক-কর ফাঁকির প্রচেষ্টা করা হইলে এবং উক্ত কর ফাঁকি সংঘটিত না হওয়া সত্ত্বেও উক্ত ফাঁকি সংঘটিত হইলে যে পরিমাণ রাজস্ব ক্ষতি সাধিত হইত উহার অনধিক ২৫ (পঁচিশ) শতাংশ অথবা ১ (এক) লক্ষ টাকার মধ্যে যাহা অধিক হয়; অথবা\n(গ) কাস্টমস এজেন্ট এর কর্মকাণ্ডের ফলে যে পরিমাণ শুল্ক-কর ফাঁকি হইয়াছে উহার অনধিক দ্বিগুণ পরিমাণ অর্থ কিংবা অনূ্যন ২(দুই) লক্ষ টাকা বা উহাদের মধ্যে যাহা অধিক হয়।\n\n(৩) উপ-বিধি (১) Ges (২) G যাহা কিছুই থাকুক না কেন, বিধি ৯ এর উপ বিধি (৫) এর আওতায় গৃহীত কার্যক্রমের ক্ষেত্রে কাস্টমস এজেন্ট এর বিরুদ্ধে কোন মামলা বা দাবীনামা চলমান থাকিলে উহা নিষ্পত্তি বা চূড়ান্ত না হওয়া পর্যন্ত লাইসেন্স বাতিল বা অর্থদণ্ডের বিষয়ে কোন সিদ্ধান্ত গ্রহন করা যাইবে না।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A Customs Agent is subject to license cancellation and financial penalties for various infractions, including duty evasion, submission of fraudulent documents, or non-compliance with licensing conditions.",
+          "The Licensing Authority must provide the agent an opportunity to show cause within a specified period before taking any punitive action against their license or imposing a fine.",
+          "Penalties are tiered based on the nature of the offence, with specific scales for non-revenue related infractions, attempted revenue evasion, and actual revenue evasion.",
+          "Legal or administrative actions against a Customs Agent may be stayed if there is a pending case or claim under specified sub-rules until the matter is finalized."
+        ],
+        "Licensing Authority": [
+          "The Licensing Authority is empowered to cancel the license of a Customs Agent and impose monetary penalties for breaches of customs regulations, professional negligence, or misconduct.",
+          "They are required to follow due process, including issuing a show-cause notice, before finalizing any cancellation or financial penalty."
+        ],
+        "Customs Duty": [
+          "Failure to pay or evasion of Customs Duty by a Customs Agent, or failure to disclose information regarding a client's evasion of such taxes, constitutes grounds for license cancellation and penalty.",
+          "Financial penalties for customs-related offences are calculated based on the quantum of duty evasion or fixed minimum thresholds, depending on the severity and nature of the violation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1677",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "license",
+          "financial penalties",
+          "duty evasion",
+          "fraudulent documents",
+          "licensing conditions",
+          "Licensing Authority",
+          "show cause",
+          "fine",
+          "non-revenue related infractions",
+          "attempted revenue evasion",
+          "actual revenue evasion",
+          "legal actions",
+          "administrative actions"
+        ],
+        "Licensing Authority": [
+          "license",
+          "Customs Agent",
+          "monetary penalties",
+          "customs regulations",
+          "professional negligence",
+          "misconduct",
+          "due process",
+          "show-cause notice"
+        ],
+        "Customs Duty": [
+          "Customs Duty",
+          "Customs Agent",
+          "client",
+          "taxes",
+          "license cancellation",
+          "penalty",
+          "financial penalties",
+          "duty evasion",
+          "fixed minimum thresholds"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        13,
+        43,
+        84,
+        92,
+        175,
+        378,
+        392,
+        425,
+        430,
+        998,
+        1054,
+        1080,
+        2435,
+        3612,
+        4042,
+        4288,
+        4368,
+        4898,
+        5296,
+        5699,
+        7487,
+        8181,
+        9465,
+        10113,
+        11033
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_25",
+      "clause_title": "৪.১.১ অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন ও অডিট বাস্তবায়নকারী দপ্তরসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_25",
+      "resolved_text": "৪.১.১ অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন ও অডিট বাস্তবায়নকারী দপ্তরসমূহ—কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট নিজস্ব রিস্ক ম্যানেজমেন্ট সফটওয়্যারের মাধ্যমে স্বয়ংক্রিয় কম্পিউটারাইজড পদ্ধতিতে বা সুনির্দিষ্ট অভিযোগ বা তথ্যের ভিত্তিতে পোস্ট ক্লিয়ারেন্স অডিটের জন্য সূচক নির্ধারণের পাশাপাশি প্রতিষ্ঠান বা পণ্য চালান নির্বাচন করবেন। কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট নির্বাচিত প্রতিষ্ঠান সিস্টেম বেইজড পিসিএ কার্যক্রম সম্পন্ন করার জন্য শুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেটে প্রেরণ করবেন এবং নির্বাচিত বিল অব এন্ট্রি/চালান ট্র্যানজ্যাকশন বেইজড পিসিএ কার্যক্রম সম্পন্ন করার জন্য সংশ্লিষ্ট কাস্টম হাউস বা কমিশনারেট এ প্রেরণ করবেন।\n\nশুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট সকল সিস্টেম বেইজড অডিট পরিচালনা করবেন; তবে, প্রয়োজনে অডিট কার্যক্রম পরিচালনার জন্য বিভিন্ন কাস্টম হাউস বা কমিশনারেট এবং/অথবা কাস্টমস গোয়েন্দা ও তদন্ত পরিদপ্তর থেকে প্রয়োজনীয় সংখ্যক কর্মকর্তা অডিট কমিটিতে অন্তর্ভুক্ত করতে পারবেন। সিস্টেম বেইজড অডিটের ক্ষেত্রে অডিট পরবর্তী সকল কার্যক্রম যেমনঃ শুল্ক-করাদি নিরূপণ, প্রযোজ্য ক্ষেত্রে জরিমানা আরোপ, কারণ দর্শানো নোটিশ, দাবীনামা জারী, বকেয়া রাজস্ব আদায় ও প্রয়োজনীয় আইনগত পদক্ষেপসমূহ স্ব স্ব কাস্টম হাউস কর্তৃক পরিচালিত হবে। শুল্ক মূল্যায়ন ও অভ্যন্তরীণ নিরীক্ষা কমিশনারেট, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর নির্ধারিত প্রতিষ্ঠানের পাশাপাশি তাদের নিজস্ব রিস্ক ম্যানেজমেন্ট এর আওতায় নির্বাচিত প্রতিষ্ঠানের সিস্টেম বেইজড PCA এবং পণ্যচালানের ক্ষেত্রে ট্র্যানজ্যাকশন বেইজড অডিট সম্পাদন করিতে পারিবেন। কাস্টম হাউস/কাস্টমস স্টেশন, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর নির্ধারিত পণ্যচালানের পাশাপাশি তাদের নিজস্ব রিস্ক ম্যানেজমেন্ট এর আওতায় নির্বাচিত পণ্য চালানের ট্র্যানজ্যাকশন বেইজড PCA সম্পাদন করবেন।",
+      "entity_concepts": {
+        "Customs Risk Management Commissionerate": [
+          "This office is responsible for selecting individuals and entities for Post Clearance Audit using both automated risk management software and specific intelligence or complaints.",
+          "It acts as the central hub for determining audit indicators and forwarding selected cases to the appropriate customs authority for further audit processing."
+        ],
+        "Post Clearance Audit": [
+          "Post Clearance Audit is categorized into system-based audits and transaction-based audits to ensure compliance after the clearance of goods.",
+          "The audit process involves risk-based selection of entities and specific consignments for subsequent examination and revenue verification."
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "This authority is tasked with conducting all system-based audits and has the power to form audit committees that may include officers from various custom houses or the Customs Intelligence and Investigation Directorate.",
+          "Beyond cases referred by the Customs Risk Management Commissionerate, this office may initiate its own system-based and transaction-based audits based on independent risk assessments."
+        ],
+        "Customs House": [
+          "Custom Houses are responsible for the legal and administrative follow-up of system-based audits, including the determination of duties and taxes, issuance of show-cause notices, and recovery of outstanding revenue.",
+          "Each Custom House also performs transaction-based audit activities for selected consignments, either as designated by the Customs Risk Management Commissionerate or through its own internal risk management processes."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "Officers from this directorate may be included in audit committees to assist the Customs Valuation and Internal Audit Commissionerate in carrying out audit activities when necessary."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_696",
+      "entity_sub_entities": {
+        "Customs Risk Management Commissionerate": [
+          "individuals",
+          "entities",
+          "Post Clearance Audit",
+          "automated risk management software",
+          "intelligence",
+          "complaints",
+          "audit indicators",
+          "selected cases",
+          "customs authority"
+        ],
+        "Post Clearance Audit": [
+          "system-based audits",
+          "transaction-based audits",
+          "goods",
+          "entities",
+          "consignments",
+          "revenue"
+        ],
+        "Customs Valuation and Internal Audit Commissionerate": [
+          "system-based audits",
+          "audit committees",
+          "officers",
+          "custom houses",
+          "Customs Intelligence and Investigation Directorate",
+          "Customs Risk Management Commissionerate",
+          "transaction-based audits",
+          "risk assessments"
+        ],
+        "Customs House": [
+          "system-based audits",
+          "duties",
+          "taxes",
+          "show-cause notices",
+          "outstanding revenue",
+          "transaction-based audit activities",
+          "consignments",
+          "Customs Risk Management Commissionerate",
+          "internal risk management processes"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "officers",
+          "audit committees",
+          "Customs Valuation and Internal Audit Commissionerate",
+          "audit activities"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        13,
+        23,
+        30,
+        60,
+        167,
+        219,
+        236,
+        273,
+        276,
+        365,
+        366,
+        405,
+        612,
+        726,
+        777,
+        1024,
+        1118,
+        1141,
+        1456,
+        1547,
+        2484,
+        3700,
+        4472,
+        5720,
+        5864,
+        9187,
+        12087
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_58",
+      "clause_title": "৬.৩.৫ পরবর্তী কার্যবলি ও অডিট সমাপ্তি প্রক্রিয়া",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_58",
+      "resolved_text": "৬.৩.৫ পরবর্তী কার্যবলি ও অডিট সমাপ্তি প্রক্রিয়া—\n(ক) চাহিদাপত্র/মূল্যায়ন:\nঅডিটের ফলে অতিরিক্ত ডিউটি-ট্যাক্স ধার্য হলে বিজ্ঞপ্তির মাধ্যমে অডিট প্রক্রিয়াধীন প্রতিষ্ঠানকে সেটি পরিশোধ করতে বলতে হবে। তাকে লিখিতভাবে একটি নির্দিষ্ট সময়সীমা দেওয়া হয় যার মধ্যে অতিরিক্ত ডিউটি-ট্যাক্স, প্রভৃতি জমা দেওয়া আবশ্যক।\n(খ) অভ্যন্তরীণ ব্যবস্থাপন প্রতিবেদন:\nপ্রক্রিয়াধীন প্রতিষ্ঠান অডিট ফলাফল বিষয়ে সম্মত হলে, অথবা কোন আপত্তি জানালে, একটি অভ্যন্তরীণ ব্যবস্থাপনা প্রতিবেদন তৈরি করে অডিটের চূড়ান্ত ফলাফল বা অবস্থান তুলে ধরতে হবে এবং প্রয়োজনীয় ক্ষেত্রের সাথে সম্পর্কিত অভ্যন্তরীণ সকল স্টেকহোল্ডারদের এই প্রতিবেদনটি শেয়ার করবেন। অভ্যন্তরীণ স্টেকহোল্ডারদের প্রতিকারমূলক পদক্ষেপ নিতে সক্ষম করার নিরিখে অভ্যন্তরীণ ব্যবস্থাপনায় প্রতিবেদনে চূড়ান্ত অডিট অবস্থানের সাথে সংযুক্ত গুরুত্বপূর্ণ ঝুঁকিপূর্ণ সূচকগুলোকে হাইলাইট করা অত্যন্ত জরুরী যেন ভবিষ্যতে তারা এ ধরনের সমস্যার প্রতিরোধমূলক ব্যবস্থা গ্রহণ করতে সক্ষম হয়।\n(গ) ব্যক্তি/প্রতিষ্ঠানের দলিলাদি ফেরত দেওয়া:\nপ্রতিবেদন দাখিলের পর প্রতিষ্ঠান কর্তৃক জমাকৃত অপ্রয়োজনীয় দলিলাদি প্রাপ্তিস্বীকার মূল্যে ফেরত দিতে হবে। অভ্যন্তরীণভাবে প্রাপ্ত রেকর্ডগুলো সংশ্লিষ্ট অফিসে ফেরত প্রদান করতে হবে।",
+      "entity_concepts": {
+        "Customs Audit": [
+          "The audit process involves identifying additional duty and tax liabilities that must be formally communicated to the entity under audit.",
+          "Upon completion of an audit, an internal management report must be generated to summarize the findings, highlight key risk indicators for preventive measures, and share the results with relevant internal stakeholders.",
+          "Following the submission of the final report, any unnecessary documents provided by the auditee must be returned, and internal records must be properly filed and returned to the respective offices."
+        ],
+        "Customs Duty and Taxes": [
+          "Entities found liable for additional duty and taxes during an audit are required to pay the assessed amounts within a specified timeframe."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_729",
+      "entity_sub_entities": {
+        "Customs Audit": [
+          "additional duty",
+          "tax liabilities",
+          "internal management report",
+          "findings",
+          "key risk indicators",
+          "final report",
+          "unnecessary documents",
+          "internal records"
+        ],
+        "Customs Duty and Taxes": [
+          "additional duty",
+          "taxes",
+          "assessed amounts"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        388,
+        520,
+        634,
+        2282,
+        2432,
+        2728,
+        4219,
+        4221,
+        5658,
+        9355,
+        13105
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "১.২ অডিট ম্যানুয়াল প্রণয়নের উদ্দেশ্য",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_6",
+      "resolved_text": "১.২ অডিট ম্যানুয়াল প্রণয়নের উদ্দেশ্য—এই ম্যানুয়ালটিতে পোস্ট ক্লিয়ারেন্স অডিটের কাঠামো, পদ্ধতি এবং নির্দেশনা বর্ণনা করা হয়েছে, যাতে অডিট কার্যক্রম দক্ষ এবং কার্যকরভাবে পরিচালনা করা যায়। কাস্টমস অডিট ম্যানুয়াল প্রণয়নের সুনির্দিষ্ট কিছু উদ্দেশ্য রয়েছে, যা নিম্নরূপ:\n(ক) কাস্টমস অডিট ব্যবস্থাকে সংশ্লিষ্ট সকলের জন্য সমভাবে প্রযোজ্য ও ফলপ্রসূ করার উদ্দেশ্যে অধিকতর কার্যকর পদ্ধতিগত ও প্রায়োগিক কর্মপ্রক্রিয়া নির্ধারণ;\n(খ) অডিট প্রক্রিয়া ও উক্ত কার্যক্রম সম্পর্কে কাস্টমস কর্মকর্তাদের একটি সুস্পষ্ট নির্দেশনা প্রদান করা, যার মধ্যে রয়েছে ঝুঁকির পরিমাণ নির্ধারণ, অডিট এর জন্য নির্বাচন, পরিকল্পনা, পরিচালনা এবং অডিটের ফলাফলের ভিত্তিতে প্রতিবেদন তৈরি;\n(গ) বিদ্যমান নীতি ও পদ্ধতির আলোকে একটি পেশাদার, সমন্বিত, দক্ষ, সুসংহত ও নিবিড় অডিট পরিচালনার বিষয়টি নিশ্চিত করা;\n(ঘ) ঝুঁকি ব্যবস্থাপনার যথাযথ ব্যবহার এবং ব্যবসায়ীদের প্রতি সমনীতীর ভিত্তিতে ন্যায়ানুগ আচরণ নিশ্চিত করা; এবং\n(ঙ) পরিহারকৃত শুল্ক-করাদি (Evaded Duty-Tax) আদায়ের ক্ষেত্রে যেন কোন প্রকার পদ্ধতিগত ত্রুটি (Procedural Lapses) না থাকে সে বিষয়টি নিশ্চিত করা।",
+      "entity_concepts": {
+        "Customs Audit Manual": [
+          "This manual establishes the framework, methodologies, and operational instructions for conducting post-clearance audits to ensure efficiency and effectiveness.",
+          "It aims to standardize audit procedures, provide clear guidance to customs officials on risk-based selection, planning, and reporting, and ensure professional conduct across all audit activities."
+        ],
+        "Customs Officials": [
+          "The manual provides customs officials with clear instructions for every stage of the audit process, including risk assessment, selection of entities for audit, audit planning, fieldwork, and report generation."
+        ],
+        "Risk Management": [
+          "The manual mandates the proper application of risk management techniques to ensure audits are conducted fairly, professionally, and consistently across all business entities."
+        ],
+        "Customs Duty and Taxes": [
+          "A primary objective of the audit process is to prevent procedural lapses during the recovery of evaded duties and taxes, ensuring that such recovery is accurate and systematic."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_677",
+      "entity_sub_entities": {
+        "Customs Audit Manual": [
+          "framework",
+          "methodologies",
+          "operational instructions",
+          "post-clearance audits",
+          "audit procedures",
+          "risk-based selection",
+          "planning",
+          "reporting",
+          "audit activities"
+        ],
+        "Customs Officials": [
+          "audit process",
+          "risk assessment",
+          "selection of entities",
+          "audit planning",
+          "fieldwork",
+          "report generation"
+        ],
+        "Risk Management": [
+          "risk management techniques",
+          "business entities"
+        ],
+        "Customs Duty and Taxes": [
+          "evaded duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        87,
+        363,
+        497,
+        580,
+        634,
+        898,
+        1008,
+        1085,
+        1102,
+        1523,
+        1547,
+        1549,
+        1756,
+        2726,
+        2750,
+        3460,
+        4682,
+        4876,
+        9863,
+        10706,
+        11580
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_63",
+      "clause_title": "৭.৩ AEO প্রতিষ্ঠানের অডিট কার্যক্রমে বিশেষভাবে লক্ষ্যণীয় বিষয়সমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+      "resolved_text": "৭.৩ AEO প্রতিষ্ঠানের অডিট কার্যক্রমে বিশেষভাবে লক্ষ্যণীয় বিষয়সমূহ—AEO প্রতিষ্ঠানের ক্ষেত্রে সিস্টেম বেইজড অডিটের প্রতি গুরুত্ব দেয়া জরুরি। অন্যান্য প্রতিষ্ঠানের পিসিএ’র ক্ষেত্রে অনুসরণীয় পদ্ধতি অবলম্বনের পাশাপাশি যে সকল বিষয় অধিক গুরুত্ব সহকারে যাচাই করা প্রয়োজন তা নিম্নরূপ:\n(১) Large volume ও High price product এর HS Code এর সঠিকতা যাচাই;\n(২) প্রতিষ্ঠান প্রাঙ্গণে Randomly পণ্যের কায়িক পরীক্ষণ;\n(৩) প্রতিষ্ঠানের নিজস্ব ব্যবহৃত ডাটাবেজ, কম্পিউটার সিস্টেম, সফটওয়্যার এর সাপ্লাই চেইন মডিউল সহ অন্যান্য তথ্য যাচাই;\n(৪) মোট আমদানিকৃত পণ্য হতে কী পরিমাণ ফিনিশড প্রোডাক্ট উৎপাদিত হয়েছে এবং কী পরিমাণ শুল্ক-করাদি পরিশোধিত হয়েছে, সে বিষয়টিকে প্রাধান্য দিতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Audit activities for these entities should focus on system-based audits to ensure regulatory compliance.",
+          "When conducting post-clearance audits for these organizations, specific procedures beyond standard practices must be prioritized to verify the accuracy of declarations and internal operations."
+        ],
+        "H.S. Code": [
+          "Auditors are required to verify the accuracy of these codes specifically for high-volume and high-value products to prevent misclassification."
+        ],
+        "Customs Clearance": [
+          "Physical verification of goods at the premises of the authorized entity should be conducted on a random basis to ensure consistency with declared information."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Auditors must inspect the entity's internal databases, computer systems, and software modules, particularly those related to supply chain management, to validate transaction integrity."
+        ],
+        "Customs Duty": [
+          "Audit procedures must prioritize verifying the ratio of finished goods produced against total imported inputs to ensure that all relevant duties and taxes have been correctly calculated and paid."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_734",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "system-based audits",
+          "post-clearance audits",
+          "declarations",
+          "internal operations"
+        ],
+        "H.S. Code": [
+          "high-volume products",
+          "high-value products"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "premises",
+          "declared information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "internal databases",
+          "computer systems",
+          "software modules",
+          "supply chain management"
+        ],
+        "Customs Duty": [
+          "finished goods",
+          "imported inputs",
+          "duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        13,
+        18,
+        30,
+        51,
+        66,
+        220,
+        229,
+        305,
+        497,
+        593,
+        1118,
+        3803,
+        6587,
+        8722,
+        8723,
+        9173,
+        9180,
+        12251,
+        12574
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_64",
+      "clause_title": "৮.১ কাস্টমস পোস্ট ক্লিয়ারেন্স অডিট পরবর্তী পদক্ষেপ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_64",
+      "resolved_text": "৮.১ কাস্টমস পোস্ট ক্লিয়ারেন্স অডিট পরবর্তী পদক্ষেপ—পিসিএ এর মাধ্যমে কোন পণ্য চালানের ক্ষেত্রে শুল্ক-কর অপরিশোধিত বা কম পরিশোধিত কিংবা অন্যবিধ কোন অনিয়ম উদ্ঘাটিত হলে বিদ্যমান আইন ও বিধিবিধান অনুসরণপূর্বক নিষ্পত্তির কার্যক্রম গ্রহণ করতে হবে।",
+      "entity_concepts": {
+        "Post Clearance Audit": [
+          "In cases where a Post Clearance Audit reveals that customs duties or taxes have been underpaid, unpaid, or that other irregularities have occurred, the authorities are required to take follow-up actions to resolve the matter.",
+          "The resolution of findings identified during a Post Clearance Audit must be conducted in strict accordance with the existing customs laws and regulations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_735",
+      "entity_sub_entities": {
+        "Post Clearance Audit": [
+          "customs duties",
+          "taxes",
+          "irregularities",
+          "customs laws",
+          "regulations"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        121,
+        197,
+        276,
+        428
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_65",
+      "clause_title": "৮.২ অপরিশোধিত/কম পরিশোধিত শুল্ক-করাদি আদায়ের ক্ষেত্রে অনুসরণীয় ধাপসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_65",
+      "resolved_text": "৮.২ অপরিশোধিত/কম পরিশোধিত শুল্ক-করাদি আদায়ের ক্ষেত্রে অনুসরণীয় ধাপসমূহ—অপরিশোধিত/কম পরিশোধিত শুল্ক-করাদি আদায়ের ক্ষেত্রে অনুসরণীয় ধাপ সমূহ নিম্নরূপ;\nধাপ-১: অপরিশোধিত শুল্ক-করাদি আদায়ের লক্ষ্যে সংশ্লিষ্ট আমদানিকারককে Section 83A অনুসারে কারণ দর্শানো নোটিশ জারি করতে হবে। [পরিশিষ্ট-৬ দ্রষ্টব্য]\nধাপ-২: কারণ দর্শানো নোটিশ জারির পর দাবীয়োগ্য বা আদায়যোগ্য শুল্ক-করাদি আদায়ের লক্ষ্যে Section 83A অনুযায়ী দাবীনামা জারির লক্ষ্যে সংশ্লিষ্ট আমদানিকারককে শুনানীর সুযোগ প্রদান করতে হবে। [পরিশিষ্ট-৭ দ্রষ্টব্য]\nধাপ-৩: সার্বিক পর্যালোচনায় কম পরিশোধিত শুল্ক-করাদির বিষয়টি প্রমাণিত হলে প্রদেয় শুল্ক-কর পরিশোধ করার জন্য আমদানিকারক বরাবর Section 83A অনুযায়ী দাবীনামা জারি করতে হবে। [পরিশিষ্ট-৮ দ্রষ্টব্য]\n\n[অপরিশোধিত/কম পরিশোধিত শুল্ক-করাদি আদায়ের ক্ষেত্রে অনুসরণীয় ধাপসমূহের ফ্লো চার্ট]",
+      "entity_concepts": {
+        "Customs Duty and Taxes Recovery": [
+          "This standing order prescribes the operational steps for customs officials to recover unpaid or underpaid duties and taxes from importers. The process follows a structured sequence of administrative actions to ensure legal compliance and fairness."
+        ],
+        "Show Cause Notice": [
+          "Under the first step of the recovery procedure, customs officers are required to issue a show cause notice to the importer pursuant to the relevant provisions of the Customs Act regarding the unpaid duty amount. This document serves as the formal initiation of the recovery process as outlined in the specified appendix."
+        ],
+        "Importer": [
+          "The importer must be issued a show cause notice and subsequently provided with an opportunity for a hearing to address the claims of unpaid or underpaid duties. Following a review of the facts, if the liability is proven, the importer is formally served with a demand notice for the settlement of the customs duties and taxes."
+        ],
+        "Demand Notice": [
+          "Once a hearing has been conducted and the underpayment of duties is established, a formal demand notice is issued to the importer as the final step in the recovery process. This notice requires the importer to settle the outstanding customs duties and taxes in accordance with the established legal procedures."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_736",
+      "entity_sub_entities": {
+        "Customs Duty and Taxes Recovery": [
+          "unpaid duties",
+          "underpaid duties",
+          "taxes"
+        ],
+        "Show Cause Notice": [
+          "show cause notice",
+          "importer",
+          "unpaid duty amount",
+          "Customs Act",
+          "appendix"
+        ],
+        "Importer": [
+          "importer",
+          "show cause notice",
+          "hearing",
+          "unpaid duties",
+          "underpaid duties",
+          "demand notice",
+          "customs duties",
+          "taxes"
+        ],
+        "Demand Notice": [
+          "demand notice",
+          "importer",
+          "duties",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        14,
+        30,
+        37,
+        39,
+        141,
+        344,
+        553,
+        890,
+        1808,
+        2079,
+        2608,
+        13109
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_77",
+      "clause_title": "CUSTOMS ACT, 1969 এর SECTION 83A এর অধীন কারণ দর্শানো নোটিশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+      "resolved_text": "পরিশিষ্ট: ৬। CUSTOMS ACT, 1969 এর SECTION 83A এর অধীন কারণ দর্শানো নোটিশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-...................., তারিখঃ ....../........../......... খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ ............................ (....................................) টাকা আদায়ের জন্য Customs Act, 1969 এর Section 83A অনুযায়ী দাবীনামা জারির লক্ষ্যে কারণ দর্শাও নোটিশ।\n\nসূত্রঃ (১) এ দপ্তরের পত্র নং ................................................., তারিখ: ....../......./......... খ্রি.।\n(২) প্রতিষ্ঠানের পত্র নং ..............................................., তারিখ: ....../......./......... খ্রি.।\n\nউপযুক্ত বিষয় ও সূত্রের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান ........................ ঠিকানা: ........................\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ................................ নামীয় পণ্য বর্ণিত এসআরও নং- ........./আইন/......../......../কাস্টমস, তারিখঃ ....../....../........ খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত ................................ নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় ................................ (কথায় ............................................................ ) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে ................................ টাকা। অবশিষ্ট (................................ - .........................) = ................................ (কথায়:................................ ) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ ............................................................ (কথায়: ............................................................ ) টাকা Customs Act, 1969 এর Section 83A এর বিধান মোতাবেক আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব আগামী ১৫ (পনের) কার্যদিবসের মধ্যে দাখিল করার জন্য অনুরোধ করা হলো। এ বিষয়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধির মাধ্যমে व्यक्तिगत শুনানি দিতে চাইলে তাও লিখিত জবাবে উল্লেখ করার জন্য আপনাকে অনুরোধ করা হলো।\n\n৫। নির্ধারিত তারিখ বা তদ্পূর্বে এ নোটিশের জবাব পাওয়া না গেলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..............................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\nফোন নং-.....................................\n\nপ্রাপক: ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: ...................................................................\nঠিকানা: .............................................................................\nবিন নম্বর: ..........................................................................\n\nনথি নং-.................................. তারিখ: ......../...../........ খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ........................................ঠিকানা: ........................\nএআইএন: ........................................ আমদানিকারকের সাথে যোগাযোগ করে কারণ দর্শাও নোটিশের জবাব দাখিলের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\n(.........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act provides the legal framework under Section 83A for issuing show cause notices regarding the recovery of short-paid customs duties and taxes.",
+          "The act empowers customs officials to initiate proceedings for the recovery of dues based on evidence available on file if a formal response is not received within the specified timeframe."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff schedule, along with other relevant laws and explanatory notes, serves as the basis for post-clearance audit reviews conducted by customs authorities to verify the correctness of duty and tax assessments."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes issued by this organization are utilized by customs authorities during post-clearance audits to support the classification and duty assessment of imported goods."
+        ],
+        "Customs Duty": [
+          "The recovery process for short-paid duties and taxes is triggered when an importer receives duty-free benefits under an SRO for goods that are later determined to be ineligible for such exemptions.",
+          "Customs authorities require importers to pay the difference between the initially paid amount and the standard applicable duty rates when discrepancies are found during an audit."
+        ],
+        "Post Clearance Audit": [
+          "This process involves a detailed review of bills of entry and supporting documents by customs officials to ensure that all legal provisions and tariff classifications were correctly applied at the time of import.",
+          "Findings from these audits are used to identify revenue shortfalls and provide the justification for issuing formal show cause notices to importers."
+        ],
+        "Show Cause Notice": [
+          "This notice is issued by the customs authorities to an importer, requiring a written response within a set number of working days explaining why the short-paid duty amount should not be recovered.",
+          "The notice allows the importer or their authorized representative to request a personal hearing as part of their defense against the proposed duty recovery."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_748",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 83A",
+          "show cause notices",
+          "short-paid customs duties",
+          "taxes",
+          "dues"
+        ],
+        "Bangladesh Customs Tariff": [
+          "tariff schedule",
+          "laws",
+          "explanatory notes",
+          "duty",
+          "tax assessments"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "imported goods"
+        ],
+        "Customs Duty": [
+          "short-paid duties",
+          "taxes",
+          "importer",
+          "SRO",
+          "exemptions",
+          "standard applicable duty rates"
+        ],
+        "Post Clearance Audit": [
+          "bills of entry",
+          "supporting documents",
+          "tariff classifications",
+          "revenue shortfalls",
+          "show cause notices",
+          "importers"
+        ],
+        "Show Cause Notice": [
+          "customs authorities",
+          "importer",
+          "short-paid duty amount",
+          "authorized representative",
+          "personal hearing"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        10,
+        13,
+        39,
+        45,
+        79,
+        98,
+        109,
+        163,
+        164,
+        239,
+        276,
+        292,
+        344,
+        380,
+        424,
+        441,
+        504,
+        565,
+        607,
+        652,
+        703,
+        1470,
+        1477,
+        2261,
+        2262,
+        5000,
+        11529,
+        12182,
+        12367
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_78",
+      "clause_title": "The Customs Act, 1969 এর Section 83A এর অধীন শুনানীপত্রের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_78",
+      "resolved_text": "পরিশিষ্ট-৭। The Customs Act, 1969 এর Section 83A এর অধীন শুনানীপত্রের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-...................., তারিখঃ ....../...../....... খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ ................................ (.......................................) টাকা আদায়ের জন্য Customs Act, 1969 এর Section 83A অনুযায়ী দাবীনামা জারির লক্ষ্যে শুনানী গ্রহণ।\n\nসূত্র : (১) এ দপ্তরের পত্র নং ...................................., তারিখ: ....../......./......... খ্রি.।\n(২) প্রতিষ্ঠানের পত্র নং ................................., তারিখ: ....../......./......... খ্রি.।\n(৩) এ দপ্তরের পত্র নং (কারণ দর্শাও নোটিশ...........), তারিখ: ..../...../..... খ্রি.।\n\nউপযুক্ত বিষয় ও সূত্রোক্ত পত্রসমূহের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান .........................., ঠিকানা:................................\nবিন নম্বর: ......................................... কর্তৃক এলসি নং-......................, তারিখ: ...../..../......খ্রি., ইনভয়েস নং-......................, তারিখ:.................. এর মাধ্যমে ........... দেশ হতে ..................................................... নামীয় পণ্য আমদানি করেন। আমদানিকারকের মনোনীত সিএন্ডএফ এজেন্ট ................................................... ঠিকানা:............................................., এআইএন: .................................................... কর্তৃক পণ্যচালানটি খালাসের লক্ষ্যে বিল অব এন্ট্রি নং-সি-......................., তারিখ: ......./......./....... খ্রি. এ দপ্তরে দাখিলপূর্বক অভ্যন্তরীণ সম্পদ বিভাগের এসআরও নং-......./আইন/...../কাস্টমস, তারিখ: ....../..../........ খ্রি. এর আওতায় শুল্কমুক্ত/........... সুবিধায় (সিপিসি ....../....... ব্যবহার করে) পণ্যচালান খালাস গ্রহণ করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত.............. নামীয় পণ্য বর্ণিত এসআরও নং-......../কাস্টমস, তারিখ: ....../....../........ খ্রি. এর বিপরীতে শুল্কমুক্ত/........... সুবিধা ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী/............ হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত/....... সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত .......................... নামীয় পণ্য শুল্কমুক্ত/........... সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় .................................... (কথায়.............................) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে ................................... টাকা। অবশিষ্ট (................... - .................) = ............................ (কথায়:..............................) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উক্ত কম পরিশোধিত শুল্ক-করাদি বাবদ ........................... (কথায়: ................................................) টাকা Customs Act, 1969 এর Section 83A এর বিধান মোতাবেক আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব চেয়ে সূত্রোক্ত (৩)নং পত্রের মাধ্যমে অনুরোধ করা হয়।\n\n৫। এ বিষয়ে আগামী ......./......./......... খ্রি, তারিখ বেলা .....:....... ঘটিকায় ব্যক্তিগত শুনানীর তারিখ ও সময় নির্ধারণ করা হলো। উক্ত তারিখ ও সময়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধিকে উপস্থিত হয়ে লিখিত এবং/অথবা মৌখিক বক্তব্য প্রদানের জন্য অনুরোধ করা হলো।\n\n৬। নির্ধারিত তারিখ ও সময়ে উপস্থিত হতে ব্যর্থ হলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..............................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\nফোন নং-.....................................\n\nপ্রাপক: ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: ...................................................................\nঠিকানা: .............................................................................\nবিন নম্বর: ..........................................................................\n\nনথি নং-.................................. তারিখ: ......../...../........ খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ........................................ঠিকানা: ........................\nএআইএন: ........................................ আমদানিকারকের সাথে যোগাযোগ করে ব্যক্তিগত শুনানীতে উপস্থিত হয়ে লিখিত এবং/অথবা মৌখিক বক্তব্য প্রদানের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\n(.........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This instrument provides the legal framework under Section 83A for issuing demand notices and conducting hearings regarding short-paid customs duties and taxes.",
+          "It empowers customs authorities to resolve matters based on documented evidence if the importer or their representative fails to attend a scheduled personal hearing."
+        ],
+        "Bangladesh Customs Tariff": [
+          "This document is utilized during post-clearance audits to review and verify the classification and eligibility of imported goods for duty exemptions or concessions."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes issued by this body are used as a reference material by customs officials during the audit of bills of entry to ensure correct interpretation of goods classification."
+        ],
+        "Post Clearance Audit": [
+          "This process involves a detailed review of imported goods, associated bills of entry, and relevant legal instruments to identify discrepancies such as incorrectly claimed duty exemptions."
+        ],
+        "Customs Clearance": [
+          "The clearance of goods is subject to post-audit verification, where authorities may determine that duty exemptions were wrongly applied, necessitating a recovery of the differential amount."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_749",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 83A",
+          "demand notices",
+          "hearings",
+          "short-paid customs duties",
+          "taxes",
+          "customs authorities",
+          "documented evidence",
+          "importer",
+          "representative",
+          "personal hearing"
+        ],
+        "Bangladesh Customs Tariff": [
+          "imported goods",
+          "duty exemptions",
+          "concessions"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "customs officials",
+          "bills of entry",
+          "goods classification"
+        ],
+        "Post Clearance Audit": [
+          "imported goods",
+          "bills of entry",
+          "legal instruments",
+          "duty exemptions"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "post-audit verification",
+          "duty exemptions",
+          "differential amount"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        8,
+        13,
+        39,
+        45,
+        51,
+        87,
+        98,
+        127,
+        164,
+        276,
+        292,
+        377,
+        424,
+        584,
+        599,
+        607,
+        841,
+        1470,
+        1477,
+        2080,
+        4069,
+        7314,
+        7446,
+        10767
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_79",
+      "clause_title": "The Customs Act, 1969 এর Section 83A এর অধীন দাবীনামার নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_79",
+      "resolved_text": "পরিশিষ্ট-৮। The Customs Act, 1969 এর Section 83A এর অধীন দাবীনামার নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nনথি নং-................................... তারিখ: ......../...../......খ্রি:\n\nবিষয়ঃ বিল অব এন্ট্রি নং ..................., তারিখ: ...../..../.........খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ . . . . . . . . . . . . . . . . . . . . . . . . . (. . . . . . . . . . . .) টাকা মাত্র সরকারি কোষাগারে জমা প্রদানের লক্ষ্যে Customs Act, 1969 এর Section 83A অনুযায়ী দাবীনামা জারি।\n\nসূত্র: (১) এ দপ্তরের পত্র নং................................, তারিখ: ....../......./.......খ্রি:।\n(২) প্রতিষ্ঠান কর্তৃপক্ষ কর্তৃক দাখিলকৃত .........../........../............. খ্রি. তারিখের জবাব।\n(৩) এ দপ্তরের পত্র নং ...................................., তারিখ: ....../......./..........খ্রি: (শুনানীপত্র)।\n\nউপযুক্ত বিষয় ও সূত্রোক্ত পত্রসমূহের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান ..........................., ঠিকানা: ........................\nবিআইএন নম্বর: ....................... কর্তৃক এলসি নং-......................, তারিখ: ...../..../.....খ্রি., ইনভয়েস নং-......................, তারিখ: ......./...../...... খ্রি. এর মাধ্যমে ................... দেশ হতে ...................... নামীয় পণ্য আমদানি করেন। আমদানিকারকের মনোনীত সিএন্ডএফ এজেন্ট ................................................... ঠিকানা: .............................................., এআইএন: .................................................... কর্তৃক পণ্যচালানটি খালাসের লক্ষ্যে বিল অব এন্ট্রি নং সি-......................, তারিখ: ....../......./....... খ্রি. এ দপ্তরে দাখিলপূর্বক অভ্যন্তরীণ সম্পদ বিভাগের এসআরও নং-......./আইন/...../কাস্টমস, তারিখ: ....../....../........ খ্রি. এর আওতায় শুল্কমুক্ত সুবিধায় (সিপিসি ....../....... ব্যবহার করে) পণ্যচালান খালাস গ্রহণ করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ......................... নামীয় পণ্য বর্ণিত এসআরও নং-......../আইন/......../......../কাস্টমস, তারিখঃ ....../....../...... খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত .......................... নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় . . . . . (কথায়. . . . . .)\nটাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে . . . . . . টাকা। অবশিষ্ট (. . . . . . . . . . . . . . . .) = . . . . . .. (. . . . . .) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। পোস্ট ক্লিয়ারেন্স অডিট টিম কর্তৃক দাখিলকৃত অডিট রিপোর্ট, প্রতিষ্ঠান কর্তৃপক্ষের লিখিত জবাব ও মৌখিক বক্তব্য, আইন, বিধি, প্রজ্ঞাপন এসআরও, নথিতে রক্ষিত আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায় যে, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ।\n\n৫। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ . . . . . . .... . . . . . . . . . . . (কথায়: . . . . . . . . . . . . . . .) টাকা আদায়ের লক্ষ্যে Customs Act, 1969 এর Section 83A অনুযায়ী দাবীনামা জারি করা হলো। আগামী ৩০ (ত্রিশ) কার্যদিবসের মধ্যে উক্ত কম পরিশোধিত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের জন্য অনুরোধ করা হলো।\n\n৬। নির্ধারিত সময়ের মধ্যে উক্ত কম পরিশোধিত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদান না করা হলে Customs Act, 1969 এর Section 202 অনুযায়ী পরবর্তী আইনানুগ কার্যক্রম গ্রহণ করা হবে।\n\n(........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\n\nপ্রাপক: ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: .................................................\nঠিকানা: ...........................................................\nবিন নম্বর: .........................................................\n\nনথি নং-.................................. তারিখ: ......../...../....... খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ......................................................................ঠিকানা:\n............................................... এআইএন: ...............................\nআমদানিকারকের সাথে যোগাযোগ করে দাবিকৃত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\n(...............................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\n\nনোট: পণ্য চালান শুল্কায়নের ৩ বছরের মধ্যে Customs Act, 1969 এর Section 83A অনুযায়ী কারণ দর্শাও নোটিশ জারি করতে হবে। তবে আমদানিকারক কর্তৃক Fraudulent or wilfully misleading মিথ্যা ঘোষণা প্রদান করলে Customs Act, 1969 এর Section 83B(2) অনুযায়ী Section 83B(1) এর সময়সীমা প্রযোজ্য নয়।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 83A provides the legal framework for issuing a demand notice for the recovery of short-paid customs duties and taxes found during post-clearance audits.",
+          "Section 202 empowers customs authorities to take subsequent legal action if the demanded amount is not deposited within the specified timeframe.",
+          "Section 83B(1) stipulates a three-year limitation period for issuing demand notices, while Section 83B(2) waives this timeline in cases of fraudulent or willfully misleading declarations by the importer."
+        ],
+        "Bangladesh Customs Tariff": [
+          "This document serves as a primary reference for customs authorities during post-clearance audits to determine the correct tariff classification of imported goods."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes provided by this organization are utilized by customs authorities as an official guide to verify the classification and eligibility of imported goods for specific tariff treatments."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_750",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 83A",
+          "demand notice",
+          "short-paid customs duties",
+          "taxes",
+          "post-clearance audits",
+          "Section 202",
+          "customs authorities",
+          "Section 83B(1)",
+          "three-year limitation period",
+          "Section 83B(2)",
+          "fraudulent or willfully misleading declarations",
+          "importer"
+        ],
+        "Bangladesh Customs Tariff": [
+          "customs authorities",
+          "post-clearance audits",
+          "tariff classification",
+          "imported goods"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "customs authorities",
+          "classification",
+          "imported goods",
+          "tariff treatments"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        13,
+        39,
+        45,
+        98,
+        292,
+        418,
+        424,
+        497,
+        553,
+        566,
+        1468,
+        1470,
+        1477,
+        2253,
+        4043,
+        12000,
+        12645,
+        12821
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_80",
+      "clause_title": "The Customs Act, 1969 এর Section 83A এর অধীন দাবীনামার অর্থ আদায়ের তাগিদপত্রের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_80",
+      "resolved_text": "পরিশিষ্ট-৯। The Customs Act, 1969 এর Section 83A এর অধীন দাবীনামার অর্থ আদায়ের তাগিদপত্রের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-...................., তারিখঃ ....../........../.......... খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ .................................(............................................) টাকা মাত্র সরকারি কোষাগারে জমা প্রদানের তাগিদপত্র।\n\nসূত্র : (১) এ দপ্তরের পত্র নং ............................, তারিখ: ....../......./..........খ্রি:।\n(২) অডিট ............./............/.......... খ্রি. তারিখ।\n(৩) এ দপ্তরের পত্র নং....................., তারিখ: ....../......./..........খ্রি: (দাবীনামা)।\n\nউপযুক্ত বিষয় ও সূত্রোক্ত পত্রসমূহের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান ...................................., ঠিকানা: ..........................\nবিআইএন নম্বর: ..................... কর্তৃক এলসি নং-.........................., তারিখ: ...../..../.........খ্রি., ইনভয়েস নং-.................., তারিখ: ....../......./..........খ্রি: এর মাধ্যমে ................. দেশ হতে ...................................... নামীয় পণ্য আমদানি করেন। আমদানিকারকের মনোনীত সিএন্ডএফ এজেন্ট .............................................. ঠিকানা: ......................................., এআইএন: .................................................... কর্তৃক পণ্যচালানটি খালাসের লক্ষ্যে বিল অব এন্ট্রি নং-সি-......................, তারিখ: ....../......./....... খ্রি. এ দপ্তরে দাখিলপূর্বক অভ্যন্তরীণ সম্পদ বিভাগের এসআরও নং-......./আইন/...../কাস্টমস, তারিখ: ....../....../......... খ্রি. এর আওতায় শুল্কমুক্ত সুবিধায় (সিপিসি ....../....... ব্যবহার করে) পণ্যচালান খালাস গ্রহণ করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ................................................. নামীয় পণ্য বর্ণিত এসআরও নং-......./আইন/......./......../কাস্টমস, তারিখঃ ....../....../...... খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত .......................... নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় . . . . . . .\n(কথায়. . . . . . ) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে . . . . . . টাকা। অবশিষ্ট (. . . . . . - . . . . . .) = . . . . . .. (. . . . . .) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। পোস্ট ক্লিয়ারেন্স অডিট টিম কর্তৃক দাখিলকৃত অডিট রিপোর্ট, প্রতিষ্ঠান কর্তৃপক্ষের লিখিত জবাব ও মৌখিক বক্তব্য, আইন, বিধি, প্রজ্ঞাপন এসআরও, নথিতে রক্ষিত আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায় যে, . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . .\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n৫। উক্ত কম আদায়কৃত শুল্ক-করাদি বাবদ ..................................... (কথায়: ...................................................) টাকা আদায়ের লক্ষ্যে Customs Act, 1969 এর Section-83A অনুযায়ী সূত্রোক্ত (৩) নং পত্রের মাধ্যমে দাবীনামা জারি করা হলেও অদ্যাবধি উক্ত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদান করা হয়নি। আগামী ৭ (সাত) কার্যদিবসের মধ্যে দাবীনামায় উল্লিখিত উক্ত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের জন্য পুনরায় অনুরোধ করা হলো।\n\n৬। নির্ধারিত সময়ের মধ্যে অপরিশোধিত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদান করা না হলে Customs Act, 1969 এর Section 202 অনুযায়ী পরবর্তী আইনানুগ ব্যবস্থা গ্রহণ করা হবে।\n\n(....................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\n\nপ্রাপক:  ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: .................................................\nঠিকানা: ...........................................................\nবিন নম্বর: .........................................................\n\nনথি নং-.............................................. তারিখ: ......../...../........... খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ........................................ঠিকানা: .....................\nএআইএন: ............................... আমদানিকারকের সাথে যোগাযোগ করে দাবিকৃত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 83A of this Act empowers the authorities to issue formal notices of demand for the recovery of short-paid customs duties and taxes.",
+          "Section 202 of this Act provides the legal basis for initiating enforcement actions against importers who fail to pay outstanding duties and taxes within the stipulated time frame after being issued a demand notice."
+        ],
+        "Bangladesh Customs Tariff": [
+          "This instrument is utilized during post-clearance audits to verify the correct classification and applicable duty rates for imported goods."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes provided by this organization are used as reference material by customs officials during the review and audit of bill of entries to ensure compliance."
+        ],
+        "Customs Clearance": [
+          "The process involves the submission of a bill of entry by a licensed customs clearing agent, where importers may claim duty exemptions under specific notifications or statutory regulatory orders."
+        ],
+        "Post Clearance Audit": [
+          "This mechanism allows customs authorities to review imported goods, associated documentation, and duty payments after the initial clearance to identify potential underpayment of taxes and duties."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_751",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 83A",
+          "formal notices of demand",
+          "short-paid customs duties",
+          "taxes",
+          "Section 202",
+          "enforcement actions",
+          "importers",
+          "outstanding duties",
+          "demand notice"
+        ],
+        "Bangladesh Customs Tariff": [
+          "imported goods",
+          "classification",
+          "duty rates"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "bill of entries"
+        ],
+        "Customs Clearance": [
+          "bill of entry",
+          "licensed customs clearing agent",
+          "importers",
+          "duty exemptions",
+          "notifications",
+          "statutory regulatory orders"
+        ],
+        "Post Clearance Audit": [
+          "imported goods",
+          "documentation",
+          "duty payments",
+          "taxes",
+          "duties"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        13,
+        27,
+        28,
+        30,
+        51,
+        63,
+        79,
+        98,
+        127,
+        186,
+        248,
+        276,
+        292,
+        320,
+        418,
+        424,
+        553,
+        1374,
+        1468,
+        1470,
+        1477,
+        2696,
+        4471,
+        5965,
+        8285
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_81",
+      "clause_title": "Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী কারণ দর্শানো নোটিশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_81",
+      "resolved_text": "পরিশিষ্ট-১০। Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী কারণ দর্শানো নোটিশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nনথি নং-....................................................... তারিখ: ......../...../.........খ্রি:\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-...................., তারিখঃ ....../........../.......... খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ ................................ (.......................................) টাকা আদায়ের জন্য Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী কারণ দর্শাও নোটিশ।\n\nসূত্র: (১) এ দপ্তরের পত্র নং ................................., তারিখ: ....../........../.......... খ্রি.\n(২) প্রতিষ্ঠানের পত্র নং .............................., তারিখ: ....../........../.......... খ্রি.\n\nউপযুক্ত বিষয় ও সূত্রের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান .............................., ঠিকানা: ..............................\nবিআইএন নম্বর: ......................................... কর্তৃক এলসি নং-................., তারিখ: ....../....../........খ্রি., ইনভয়েস নং-.................., তারিখ:....../...../........ এর মাধ্যমে ........................ দেশ হতে ............................................. নামীয় পণ্য আমদানি করেন। আমদানিকারকের মনোনীত সিএন্ডএফ এজেন্ট ......................................... ঠিকানা:............................, এআইএন:..................................................... কর্তৃক পণ্যচালানটি খালাসের লক্ষ্যে বিল অব এন্ট্রি নং-সি-......................., তারিখ:......../......./....... খ্রি. এ দপ্তরে দাখিলপূর্বক অভ্যন্তরীণ সম্পদ বিভাগের এসআরও নং-......./আইন/...../কাস্টমস, তারিখ: ....../..../..... খ্রি. এর আওতায় শুল্কমুক্ত সুবিধায় (সিপিসি ....../....... ব্যবহার করে) পণ্যচালান খালাস গ্রহণ করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ......... নামীয় পণ্য বর্ণিত এসআরও নং-......./আইন/......./......../কাস্টমস, তারিখঃ ....../....../...... খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত .................... নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় . . . . . (কথায়. . . . . .) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে . . . . . টাকা। অবশিষ্ট (. . . . .) = . . . . . .. (. . . . . .) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উল্লেখ্য যে, আমদানিকারক কর্তৃক Fraudulent or wilfully misleading তথ্য ঘোষণা প্রদান করায় Customs Act, 1969 এর Section 83B(2) অনুযায়ী Section 83B(1) এর সময়সীমা প্রযোজ্য নয়।\n\n৫। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ . . . . . . . . . . . . . . . . . . . . . . . . . . . (কথায়: . . . . . . . . . . . . . . . . . . . . . . . . . . . .  Customs Act, 1969 1 Section-83A এর বিধান মোতাবেক আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব আগামী ১৫ (পনের) কার্যদিবসের মধ্যে দাখিল করার জন্য অনুরোধ করা হলো। এ বিষয়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধির মাধ্যমে ব্যক্তিগত শুনানি দিতে চাইলে তাও লিখিত জবাবে উল্লেখ করার জন্য আপনাকে অনুরোধ করা হলো।\n\n৬। নির্ধারিত তারিখ বা তদ্পূর্বে এ நோটিশের জবাব পাওয়া না গেলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..............................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\n\nপ্রাপক:  ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: .................................................\nঠিকানা: ...........................................................\nবিন নম্বর: .........................................................\n\nনথি নং-............................................. তারিখ: ......../...../......... খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ........................................ঠিকানা: .....................\nএআইএন: ............................... আমদানিকারকের সাথে যোগাযোগ করে কারণ দর্শাও নোটিশের জবাব দাখিলের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\n(.........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This instrument provides the legal framework for issuing show-cause notices when duties and taxes have been underpaid. It establishes procedures for post-clearance recovery of customs duties and authorizes the customs authority to demand payment and resolve cases based on official documentation if no response is received.",
+          "Section 83A provides the basis for issuing a show-cause notice for underpaid duties, while Section 83B(2) outlines the specific legal conditions, including exceptions to statutory time limits in cases of fraudulent or willfully misleading declarations."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff schedule is used during post-clearance audits to verify the classification and eligibility of imported goods for specific exemptions or duty-free status."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes produced by this organization are utilized as an authoritative reference during the audit process to review and determine the appropriate classification and taxability of imported goods."
+        ],
+        "Customs Authority": [
+          "Officers are instructed to use this standard show-cause notice template when conducting recovery proceedings against importers or clearing agents following a post-clearance audit. The authority is responsible for providing the importer an opportunity to respond or request a personal hearing before a final determination is made."
+        ],
+        "Post Clearance Audit": [
+          "This operational mechanism involves the systematic review of bills of entry, supporting documents, and relevant legal notifications to ensure that the correct amount of duties and taxes was paid upon importation."
+        ],
+        "Bill of Entry": [
+          "This is the formal import document audited by customs to verify the accuracy of declarations, the application of duty-free benefits, and the identification of potential underpayment of customs duties."
+        ],
+        "C&F Agent": [
+          "Clearing and Forwarding agents are responsible for receiving the show-cause notice on behalf of the importer and facilitating the submission of a formal response to the customs office."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_752",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "show-cause notices",
+          "duties",
+          "taxes",
+          "Section 83A",
+          "Section 83B(2)",
+          "fraudulent or willfully misleading declarations"
+        ],
+        "Bangladesh Customs Tariff": [
+          "tariff schedule",
+          "imported goods",
+          "exemptions",
+          "duty-free status"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "imported goods"
+        ],
+        "Customs Authority": [
+          "show-cause notice template",
+          "importers",
+          "clearing agents",
+          "personal hearing"
+        ],
+        "Post Clearance Audit": [
+          "bills of entry",
+          "supporting documents",
+          "legal notifications",
+          "duties",
+          "taxes"
+        ],
+        "Bill of Entry": [
+          "import document",
+          "declarations",
+          "duty-free benefits",
+          "customs duties"
+        ],
+        "C&F Agent": [
+          "Clearing and Forwarding agents",
+          "show-cause notice",
+          "importer",
+          "formal response",
+          "customs office"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        13,
+        14,
+        23,
+        27,
+        30,
+        39,
+        79,
+        98,
+        163,
+        164,
+        220,
+        276,
+        292,
+        378,
+        380,
+        424,
+        565,
+        607,
+        726,
+        815,
+        1183,
+        1470,
+        1702,
+        1948,
+        2253,
+        3558,
+        3877,
+        4043,
+        7569,
+        8299,
+        8841,
+        12187
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_83",
+      "clause_title": "Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী দাবীনামার নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_83",
+      "resolved_text": "পরিশিষ্ট-১২। Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী দাবীনামার নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nনথি নং- ......................... তারিখ: ......../...../......খ্রি:\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-........................., তারিখ: ......./....../........ খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ .............................. (.................................) টাকা আদায়ের লক্ষ্যে Customs Act, 1969 এর Section 83B(2) এর শর্ত মোতাবেক Section 83A অনুযায়ী দাবীনামা জারি।\n\nসূত্রঃ (১) এ দপ্তরের পত্র নং................................._ তারিখ: ....../......./.......খ্রি:।\n(২) প্রতিষ্ঠানের ......./......./........ খ্রি. তারিখের জবাব।\n(৩) এ দপ্তরের পত্র নং ...................., তারিখ: ....../......./..........খ্রি: (শুনানীপত্র)।\n\nউপযুক্ত বিষয় ও সূত্রোক্ত পত্রসমূহের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান .............................................................,  ঠিকানা: .................................. বিআইএন নম্বর: .................................... কর্তৃক এলসি নং-.........................., তারিখ: ...../..../.....খ্রি., ইনভয়েস নং-.................., তারিখ: ......./....../.... এর মাধ্যমে কান্ট্রি: ........................................... থেকে .................................. নামীয় পণ্য আমদানি করেন। আমদানিকারকের মনোনীত সিএন্ডএফ এজেন্ট ................................................., ঠিকানা: .............................................., এআইএন: .................................................... কর্তৃক পণ্যচালানটি খালাসের লক্ষ্যে বিল অব এন্ট্রি নং সি-......................., তারিখ: ........./......./..... খ্রি. এ দপ্তরে দাখিলপূর্বক অভ্যন্তরীণ সম্পদ বিভাগের এসআরও নং-......./আইন/...../কাস্টমস, তারিখ: ....../..../...... খ্রি. এর আওতায় শুল্কমুক্ত সুবিধায় (সিপিসি ....../....... ব্যবহার করে) পণ্যচালান খালাস গ্রহণ করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ......................... নামীয় পণ্য বর্ণিত এসআরও নং-......../আইন/......../......../কাস্টমস, তারিখঃ ....../....../...... খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত .......................... নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় . . . . . . (কথায়. . . . . .) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে . . . . . . টাকা। অবশিষ্ট (................... - .................) = ............................ (..............................) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উল্লেখ্য যে, আমদানিকারক কর্তৃক Fraudulent or wilfully misleading তথ্য ঘোষণা প্রদান করায় Customs Act, 1969 এর Section 83B(2) অনুযায়ী Section 83B(1) এর সময়সীমা প্রযোজ্য নয়।\n\n৫। পোস্ট ক্লিয়ারেন্স অডিট টিম কর্তৃক দাখিলকৃত অডিট রিপোর্ট, প্রতিষ্ঠান কর্তৃপক্ষের লিখিত জবাব ও মৌখিক বক্তব্য, আইন, বিধি, প্রজ্ঞাপন এসআরও, নথিতে রক্ষিত আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায় যে, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ।\n\n৬। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ . . . . . . . . . . . . . . . . . . (কথায়: . . . . . . . . . . . ) টাকা আদায়ের লক্ষ্যে Customs Act, 1969 এর Section 83A অনুযায়ী দাবীনামা জারি করা হলো। আগামী ৩০ (ত্রিশ) কার্যদিবসের মধ্যে উক্ত কম পরিশোধিত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের জন্য অনুরোধ করা হলো।\n\n৭। নির্ধারিত সময়ের মধ্যে কম পরিশোধিত রাজস্ব সরকারি কোষাগারে জমা প্রদান না করা হলে Customs Act, 1969 এর Section 202 জারিসহ পরবর্তী আইনানুগ ব্যবস্থা গ্রহণ করা হবে মর্মে অবহিত করা হলো।\n\n(........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি/জয়েন্ট/অ্যাডিশনাল/কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস।\n\nনথি নং-................................................. তারিখ: ......../...../....... খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: . . . . . . . . . . . . . . . . . . .  ঠিকানা: ................................................\nএআইএন: ........................................ আমদানিকারকের সাথে যোগাযোগ করে দাবীকৃত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\nনোট: পণ্য চালান শুল্কায়নের ৩ বছরের মধ্যে Customs Act, 1969 এর Section-83A অনুযায়ী কারণ দর্শাও নোটিশ জারি করতে হবে। তবে আমদানিকারক কর্তৃক Fraudulent or wilfully misleading মিথ্যা ঘোষণা প্রদান করায় Customs Act, 1969 এর Section-83B(2) অনুযায়ী Section-83B(1) এর সময়সীমা প্রযোজ্য নয়।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act serves as the foundational legal framework for issuing demand notices for underpaid duties and taxes.",
+          "The act provides for the recovery of government revenue through specific sections, including the issuance of show-cause notices for underpayments and the enforcement of penalties against fraudulent or misleading declarations.",
+          "It outlines the limitation periods for issuing demand notices, while specifying exceptions in cases where the importer provides misleading or fraudulent information."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff schedule is a primary reference document used during post-clearance audits to verify the correct classification and dutiability of imported goods."
+        ],
+        "World Customs Organization": [
+          "Explanatory notes provided by this organization are utilized as interpretive tools by customs authorities during the audit process to assess the validity of duty-free claims."
+        ],
+        "Post Clearance Audit": [
+          "This is an operational process used to review import documentation, including bills of entry, to identify discrepancies in tax payments or unauthorized use of duty-free exemptions.",
+          "The audit procedure involves evaluating explanations from importers, relevant customs laws, and international classification notes to determine if further duty recovery is required."
+        ],
+        "Customs Clearance": [
+          "This process involves the formal submission of documents by customs agents to facilitate the release of imported goods, often under specific duty-free categories or exemptions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_754",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "demand notices",
+          "underpaid duties",
+          "taxes",
+          "government revenue",
+          "show-cause notices",
+          "penalties",
+          "fraudulent or misleading declarations",
+          "limitation periods",
+          "importer"
+        ],
+        "Bangladesh Customs Tariff": [
+          "tariff schedule",
+          "imported goods"
+        ],
+        "World Customs Organization": [
+          "Explanatory notes"
+        ],
+        "Post Clearance Audit": [
+          "import documentation",
+          "bills of entry",
+          "tax payments",
+          "duty-free exemptions",
+          "importers",
+          "customs laws",
+          "international classification notes",
+          "duty recovery"
+        ],
+        "Customs Clearance": [
+          "documents",
+          "customs agents",
+          "imported goods",
+          "duty-free categories",
+          "exemptions"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        13,
+        39,
+        46,
+        51,
+        59,
+        79,
+        98,
+        163,
+        164,
+        197,
+        276,
+        281,
+        292,
+        380,
+        409,
+        424,
+        644,
+        726,
+        841,
+        1626,
+        1792,
+        1808,
+        3879,
+        7554,
+        8335,
+        9206,
+        9516
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_87",
+      "clause_title": "অসত্য ঘোষণায় পণ্য আমদানির ক্ষেত্রে Section 32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(2) অনুযায়ী কারণ দর্শানো নোটিশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_87",
+      "resolved_text": "পরিশিষ্ট-১৬। অসত্য ঘোষণায় পণ্য আমদানির ক্ষেত্রে Section 32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(2) অনুযায়ী কারণ দর্শানো নোটিশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n......................................\n.........................\nWeb: ........................... E-mail:..................................\n\nনথি নং-.......................................... তারিখ: ......../...../......খ্রি. :\n\nবিষয় : আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত পণ্যচালানের বিপরীতে Customs Act, 1969 এর Section-32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(2) কারণ দর্শানো নোটিশ।\n\nউপর্যুক্ত বিষয়ের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান . . . . . . . . . . . . . . . . . . . . . . . . . . . ঠিকানা: . . . . . . . . . . . . . . . . . . . . . বিআইএন নম্বর: . . . . . . . . . . . . . . . . . এলসি নং-. . . . . . . . . . . . . . . . ., তারিখ: . . . . . / . . . . /. . . . . . খ্রি. ইনভয়েস নম্বর: . . . . . . . . . . . . . ., তারিখ: . . . . /. . . ./. . . . . . খ্রি. এর মাধ্যমে . . . . . . . . . . . . দেশ হতে . . . . . . . কেজি/ ..................... নামীয় পণ্য আমদানি করা হয়। পণ্যচালানটি খালাসের লক্ষ্যে মনোনীত সিঅ্যান্ডএফ এজেন্ট .................... ঠিকানা: . . . . . . . . . . . . . . . . . এআইএন: . . . . . . . . . . . . . . . . . কর্তৃক বি/ই নং- সি- ................, তারিখ: . . . . . / . . . . /. . . . . . খ্রি. দাখিল করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আলোচ্য প্রতিষ্ঠানটি ............. কর্তৃক অসত্য ঘোষণায় পণ্য আমদানি করেছেন। আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য ঘোষণার মাধ্যমে আমদানি করায় কম পরিশোধিত শুল্ক-করাদির পরিমাণ ......................... টাকা, যা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উল্লেখ্য যে, আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য এইচএসকোড ঘোষণা প্রদান করে আমদানি করা হয়েছে, যা Customs Act, 1969 এর Section-32(1) এ বর্ণিত অপরাধ এবং একই আইনের Section 156 এর Table-(1) এর Clause-14 অনুযায়ী শাস্তিযোগ্য।\n\n৫। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ ....................... (.............................) টাকা আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব ১৫ (পনেরো) দিনের মধ্যে দাখিলের জন্য অনুরোধ করা হলো। এ বিষয়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধির মাধ্যমে ব্যক্তিগত শুনানি দিতে চাইলে তাও লিখিত জবাবে উল্লেখ করার জন্য আপনাকে অনুরোধ করা হলো।\n\n৬। নির্ধারিত তারিখ বা তদুপরি এ নোটিশের জবাব পাওয়া না গেলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি/জয়েন্ট/\nঅ্যাডিশনাল/কমিশনার অব কাস্টমস\nই-মেইল .........................................\nফোন নং-............................\n\nপ্রাপক : ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: ....................................\nঠিকানা: ...................................................\nবিন নম্বর: .........................................\n\nনথি নং-.......................... তারিখ : ......../...../.............. খ্রি.\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n\n১। সিঅ্যান্ডএফ এজেন্ট: ........................................ঠিকানা: ............................................... এআইএন: ............................... আমদানিকারকের সাথে যোগাযোগ করে কারণ দর্শাও নোটিশের জবাব দাখিলের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n\n২। অফিস কপি।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This standing order provides a standardized template for a show-cause notice issued under Section 32(2) of the Act to determine duties and taxes under Section 32(4) in cases of misdeclaration of imported goods.",
+          "It identifies misdeclaration of HS codes as a punishable offence under Section 32(1) and specifies that penalties apply according to Clause 14 of Table-1 under Section 156 of the Act.",
+          "The document outlines the procedure for recovery of short-paid duties and grants the customs authority power to finalize assessments based on available documentation if a response is not received within the specified timeframe."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff is cited as a key reference document, alongside legal instruments and international explanatory notes, used by the customs authority during post-clearance audits to verify the accuracy of declarations."
+        ],
+        "World Customs Organization": [
+          "The organization's explanatory notes are utilized as a standard reference for the classification and assessment of imported goods during post-clearance audit procedures."
+        ],
+        "Customs Clearance": [
+          "The procedure includes a requirement for the C&F agent to submit a bill of entry for the clearance of goods, which is subsequently subject to review during post-clearance audits."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_758",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 32(2)",
+          "Section 32(4)",
+          "duties",
+          "taxes",
+          "imported goods",
+          "HS codes",
+          "Section 32(1)",
+          "Clause 14 of Table-1",
+          "Section 156",
+          "short-paid duties",
+          "customs authority"
+        ],
+        "Bangladesh Customs Tariff": [
+          "legal instruments",
+          "international explanatory notes",
+          "customs authority",
+          "declarations"
+        ],
+        "World Customs Organization": [
+          "explanatory notes",
+          "imported goods"
+        ],
+        "Customs Clearance": [
+          "C&F agent",
+          "bill of entry",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        8,
+        13,
+        23,
+        27,
+        30,
+        51,
+        98,
+        220,
+        235,
+        292,
+        424,
+        599,
+        1469,
+        2261,
+        3055,
+        3062,
+        3063,
+        3558,
+        4229,
+        6401
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_88",
+      "clause_title": "অসত্র ঘোষণায় পণ্য আমদানির ক্ষেত্রে প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(4) অনুযায়ী শুনানীপত্রের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_88",
+      "resolved_text": "পরিশিষ্ট-১৭। অসত্য ঘোষণায় পণ্য আমদানির ক্ষেত্রে প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে Section 32(4) অনুযায়ী শুনানীপত্রের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n......................................\n.........................\nWeb: ........................... E-mail:..................................\n\nনথি নং-.......................................... তারিখ: ......../...../......খ্রি. :\n\nবিষয় : আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত পণ্যচালানের বিপরীতে Customs Act, 1969 এর Section 32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি নির্ধারণের লক্ষ্যে শুনানী গ্রহণ।\n\nসূত্র: ১। বিল অব এন্ট্রি নং সি-....................., তারিখ: ....../......../....... খ্রি.।\n২। এ দপ্তরের পত্র নং ............................., তারিখ: ....../......../....... খ্রি.।\n\nউপর্যুক্ত বিষয়ের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান . . . . . . . . ঠিকানা: . . . . . . . . বিআইএন নম্বর: ................ কর্তৃক এলসি নং-............., তারিখ: . . . / . . /. . . খ্রি. ইনভয়েস নম্বর: . . . ., তারিখ: ......../..../...... খ্রি. এর মাধ্যমে .............. দেশ হতে ........... কেজি/............. নামীয় পণ্য আমদানি করা হয়। পণ্যচালানটি খালাসের লক্ষ্যে মনোনীত সিঅ্যান্ডএফ এজেন্ট ............. ঠিকানা: ........... এআইএন:.............. কর্তৃক বি/ই নং- সি- ............., তারিখ: . . . /. . /. . . খ্রি. দাখিল করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আলোচ্য প্রতিষ্ঠানটি ............. কর্তৃক অসত্য ঘোষণায় পণ্য আমদানি করেছেন। আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য ঘোষণার মাধ্যমে আমদানি করায় কম পরিশোধিত শুল্ক-করাদির পরিমাণ .......................... টাকা, যা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উল্লেখ্য যে, আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য এইচএসকোড ঘোষণা প্রদান করে আমদানি করা হয়েছে। যা Customs Act, 1969 এর Section 32(1) এ বর্ণিত অপরাধ এবং একই আইনের Section 156 এর Table-(1) এর Clause-14 অনুযায়ী শাস্তিযোগ্য।\n\n৫। কম পরিশোধিত শুল্ক-করাদি বাবদ ..................... (................................) টাকা আদায়ের লক্ষ্যে Customs Act, 1969 এর Section 32(2) এর বিধান অনুযায়ী সূত্রোক্ত (২)নং পত্রের মাধ্যমে কারণ দর্শাও জারি করা হয়।\n\n৬। এ বিষয়ে আগামী ....../....../......... খ্রি, তারিখ বেলা ......:....... ঘটিকায় ব্যক্তিগত শুনানীর তারিখ ও সময় নির্ধারণ করা হলো। উক্ত তারিখ ও সময়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধিকে উপস্থিত হয়ে লিখিত এবং/অথবা মৌখিক বক্তব্য প্রদানের জন্য অনুরোধ করা হলো।\n\n৭। নির্ধারিত তারিখ ও সময়ে উপস্থিত হতে ব্যর্থ হলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি/জয়েন্ট/\nঅ্যাডিশনাল/কমিশনার অব কাস্টমস\nই-মেইল .........................................\nফোন নং-............................\n\nপ্রাপক: ব্যবস্থাপনা পরিচালক প্রতিষ্ঠানের নাম: .......\nঠিকানা: ..........................................\nবিন নম্বর: .........................................\n\nনথি নং-.......................... তারিখ : ......../...../.............. খ্রি.\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n\n১। সিঅ্যান্ডএফ এজেন্ট: ..............................ঠিকানা: .................................. এআইএন: ............................... আমদানিকারকের সাথে যোগাযোগ করে ব্যক্তিগত শুনানীতে উপস্থিত হয়ে লিখিত/মৌখিক বক্তব্য প্রদানের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n\n২। অফিস কপি।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This instrument provides the legal framework for determining customs duties and taxes, specifically citing Section 32(4) for conducting hearings regarding misdeclared imports.",
+          "Section 32(1) identifies misdeclaration of goods as an offence, while Section 156 Table-1 Clause-14 prescribes the corresponding penalties for such violations.",
+          "Section 32(2) outlines the procedure for issuing show-cause notices when underpayment of customs duties and taxes is identified.",
+          "The Act grants the customs authority the power to finalize proceedings based on available evidence if the importer or their representative fails to attend the scheduled personal hearing."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The classification and duty assessment for imported goods are reviewed against the Bangladesh Customs Tariff during post-clearance audits."
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes issued by the World Customs Organization are utilized as a technical reference during the audit and valuation of imported goods."
+        ],
+        "Customs Authority": [
+          "The customs authority is responsible for conducting post-clearance audits to identify cases of misdeclaration and underpayment of taxes.",
+          "Field officers are instructed to issue formal show-cause notices and schedule personal hearings to allow importers to present their case regarding suspected discrepancies."
+        ],
+        "Customs Clearance": [
+          "The process involves the submission of a Bill of Entry by an authorized clearing agent to facilitate the clearance of imported consignments.",
+          "Post-clearance audits may be conducted after the initial release of goods to ensure compliance with relevant laws and regulatory notifications."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_759",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 32(4)",
+          "Section 32(1)",
+          "Section 156 Table-1 Clause-14",
+          "Section 32(2)",
+          "customs duties",
+          "taxes",
+          "misdeclared imports",
+          "goods",
+          "penalties",
+          "show-cause notices",
+          "importer",
+          "representative",
+          "personal hearing"
+        ],
+        "Bangladesh Customs Tariff": [
+          "imported goods"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes"
+        ],
+        "Customs Authority": [
+          "post-clearance audits",
+          "field officers",
+          "show-cause notices",
+          "personal hearings",
+          "importers"
+        ],
+        "Customs Clearance": [
+          "Bill of Entry",
+          "clearing agent",
+          "imported consignments",
+          "laws",
+          "regulatory notifications"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        8,
+        13,
+        14,
+        23,
+        27,
+        39,
+        46,
+        51,
+        79,
+        98,
+        215,
+        248,
+        292,
+        377,
+        424,
+        497,
+        607,
+        652,
+        726,
+        1469,
+        1679,
+        2043,
+        2926,
+        3062,
+        3063,
+        9901,
+        11948
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_89",
+      "clause_title": "অসত্র ঘোষণায় পণ্য আমদানির ক্ষেত্রে প্রদেয় শুল্ক-করাদি নির্ধারণ সংক্রান্ত Section 32(2) অনুযায়ী দাবিনামার নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_89",
+      "resolved_text": "পরিশিষ্ট-১৮। অসত্য ঘোষণায় পণ্য আমদানির ক্ষেত্রে প্রদেয় শুল্ক-করাদি নির্ধারণ সংক্রান্ত Section 32(2) অনুযায়ী দাবিনামার নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n......................................\n.........................\nWeb: ........................... E-mail:..................................\n\nনথি নং-.......................................... তারিখ: ......../...../......খ্রি. :\n\nবিষয় : আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত পণ্যচালানের বিপরীতে Customs Act, 1969 এর Section 32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি বাবদ . . . . . . . . . . . . . . . . . . . . . . (. . . . . . . . . . . . . . . . . . . . . .) টাকা নির্ধারণ।\n\nসূত্র: ১। বিল অব এন্ট্রি নং সি-....................., তারিখ: ....../......../....... খ্রি.।\n২। এ দপ্তরের পত্র নং ............................., তারিখ: ....../......../....... খ্রি.।\n\nউপর্যুক্ত বিষয়ের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান . . . . . . . . . . . . . . . . . . . . . ঠিকানা: . . . . . . . . . . . . . . . . . . . . . বিআইএন নম্বর: . . . . . . . . . . . . কর্তৃক এলসি নং-. . . . . . . . . . . ., তারিখ: . . . . . / . . . . /. . . . . . খ্রি. ইনভয়েস নম্বর: . . . . . . . . . . . ., তারিখ: . . . . /. . . . /. . . . খ্রি. এর মাধ্যমে . . . . . . . . দেশ হতে . . . . . . . . কেজি/. . . ., . . . . . . . . নামীয় পণ্য আমদানি করা হয়। পণ্যচালানটি খালাসের লক্ষ্যে মনোনীত সিঅ্যান্ডএফ এজেন্ট . . . . . . . . ঠিকানা: . . . . . . . . এআইএন: . . . . . . . কর্তৃক বি/ই নং- সি-. . . . . . . . তারিখ: . . . /. .. /. . . . . খ্রি. দাখিল করা হয়।\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আলোচ্য প্রতিষ্ঠানটি ............. কর্তৃক অসত্য ঘোষণায় পণ্য আমদানি করেছেন। আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য ঘোষণার মাধ্যমে আমদানি করায় কম পরিশোধিত শুল্ক-করাদির পরিমাণ .......................... টাকা, যা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। উল্লেখ্য যে, আলোচ্য পণ্যচালানের ক্ষেত্রে অসত্য এইচএসকোড ঘোষণা প্রদান করে আমদানি করা হয়েছে। যা Customs Act, 1969 এর Section 32(1) এ বর্ণিত অপরাধ এবং একই আইনের Section 156 এর Table-(1) এর Clause-14 অনুযায়ী শাস্তিযোগ্য।\n\n৫। কম পরিশোধিত শুল্ক-করাদি বাবদ ...... (..............................................) টাকা আদায়ের লক্ষ্যে Customs Act, 1969 এর Section-32(2) এর বিধান অনুযায়ী সূত্রোক্ত (২)নং পত্রের মাধ্যমে কারণ দর্শাও জারি করা হয় এবং সূত্রোক্ত (.....) পত্রের মাধ্যমে আমদানিকারক/তার মনোনীত প্রতিনিধিকে ব্যক্তিগত শুনানি গ্রহণ করা হয়। আমদানিকারক প্রতিষ্ঠান কর্তৃক লিখিত বক্তব্যে উপস্থাপন করেন যে, . . . . . . . . . . . . . . . . . . .. . . . . . . . . . । আমদানিকারক/মনোনীত প্রতিনিধি শুনানিকালে মৌখিক বক্তব্যে উপস্থাপন করেন যে, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ।\n\n৬। অডিট প্রতিবেদন, আমদানিকারকের লিখিত ও মৌখিক বক্তব্য, আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনায় দেখা যায় যে, . . . . . . .. .. . . . . . . . . . . . . . . . . . . .।\n\n৭। এমতাবস্থায়, আমদানিকৃত পণ্যচালানের বিপরীতে Customs Act, 1969 এর Section 32(4) অনুযায়ী প্রদেয় শুল্ক-করাদি বাবদ ............................ (....................................) টাকা নির্ধারণ করা হলো। উক্ত নির্ধারিত প্রদেয় শুল্ক-করাদি আগামী ৩০ (ত্রিশ) কার্যদিবসের মধ্যে উক্ত কম পরিশোধিত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের জন্য অনুরোধ করা হলো।\n\n৮। নির্ধারিত তারিখ ও সময়ে উপস্থিত হতে ব্যর্থ হলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি/জয়েন্ট/\nঅ্যাডিশনাল/কমিশনার অব কাস্টমস\nই-মেইল .........................................\nফোন নং-............................\n\nপ্রাপক: ব্যবস্থাপনা পরিচালক প্রতিষ্ঠানের নাম: ................................\nঠিকানা: ................................................\nবিন নম্বর: .................................................\n\nনথি নং-.......................... তারিখ : ......../...../.............. খ্রি.\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n\n১। সিঅ্যান্ডএফ এজেন্ট: .................................ঠিকানা: .................................... এআইএন: .......................... আমদানিকারকের সাথে যোগাযোগ করে উক্ত নির্ধারিত শুল্ক-করাদি সরকারি কোষাগারে জমা প্রদানের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n\n২। অফিস কপি।\n\n(..................................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কশিনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This clause provides a standardized template for issuing a demand notice regarding duties and taxes payable due to misdeclaration of goods during import as per the statutory provisions.",
+          "Sections 32(1), 32(2), and 32(4) of the Act establish the authority to demand duties, conduct show-cause proceedings, and determine the amount of short-paid customs duties.",
+          "Section 156 of the Act, specifically Table 1, Clause 14, outlines the penal consequences for misdeclaring the Harmonized System (HS) code during the import process."
+        ],
+        "Bangladesh Customs Tariff": [
+          "This instrument is utilized by customs authorities during post-clearance audits to verify correct classification and duty assessment for imported goods."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes provided by this organization are referenced as authoritative guidance for the classification and assessment of goods during customs post-clearance audits."
+        ],
+        "Bill of Entry": [
+          "The document is the primary record submitted by a customs clearing and forwarding agent to initiate the import clearance process for a specific shipment."
+        ],
+        "Customs Clearing and Forwarding Agent": [
+          "These authorized agents are responsible for filing bills of entry on behalf of importers and must facilitate the payment of any assessed short-paid duties to the government treasury upon the issuance of a demand notice."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_760",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "demand notice",
+          "duties",
+          "taxes",
+          "goods",
+          "Section 32(1)",
+          "Section 32(2)",
+          "Section 32(4)",
+          "short-paid customs duties",
+          "Section 156",
+          "Table 1",
+          "Clause 14",
+          "Harmonized System (HS) code"
+        ],
+        "Bangladesh Customs Tariff": [
+          "imported goods"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "goods"
+        ],
+        "Bill of Entry": [
+          "shipment"
+        ],
+        "Customs Clearing and Forwarding Agent": [
+          "bills of entry",
+          "importers",
+          "short-paid duties",
+          "government treasury",
+          "demand notice"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        8,
+        13,
+        27,
+        30,
+        79,
+        98,
+        164,
+        292,
+        359,
+        424,
+        553,
+        774,
+        1032,
+        1469,
+        1477,
+        2261,
+        3055,
+        3062,
+        3063,
+        3115,
+        6400,
+        8619
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "",
+      "text_id": "20240606_164-AIN_2024_16_Customs_২৯ মে, ২০২৪_clause_8",
+      "resolved_text": "৮। দফা (৬) এ উল্লিখিত অভিযোগ চূড়ান্তভবে প্রমাণিত হইলে অপব্যবহারজনিত রেয়াতের সহিত সংশ্লিষ্ট শুল্ক ও কর আদায় ছাড়াও কাস্টমস আইন, ২০২৩ এর ধারা ১৭১ এর উপ-ধারা (১) এর টেবিল এর ক্রমিক ৮ এর বিধান অনুযায়ী ব্যবস্থা গ্রহণ করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "The Act provides the legal basis for enforcing penalties regarding the misuse of duty and tax concessions through its specific penalty provisions."
+        ],
+        "Customs Offence Penalties": [
+          "When an allegation of concession misuse is proven, the authority must recover the outstanding duties and taxes.",
+          "In addition to tax recovery, the authority must initiate proceedings against the offender based on the specific penalty item prescribed in the relevant schedule of the Customs Act."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2581",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "duty concessions",
+          "tax concessions",
+          "penalty provisions"
+        ],
+        "Customs Offence Penalties": [
+          "outstanding duties",
+          "taxes",
+          "offender",
+          "penalty item",
+          "schedule of the Customs Act"
+        ]
+      },
+      "clause_clusters": [
+        13,
+        19,
+        116,
+        189,
+        252,
+        1297,
+        1311,
+        4471,
+        10559,
+        11867
+      ],
+      "source_file": "customs_sros_OCR/20240606_164-AIN_2024_16_Customs/20240606_164-AIN_2024_16_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "পুনঃশুল্কায়ন",
+      "text_id": "20240606_206-AIN_2024_58_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_7",
+      "resolved_text": "৭। পুনঃশুল্কায়ন।⎯ (১) পণ্য ঘোষণার পুনঃশুল্কায়নের ফলে নূতন বা অতিরিক্ত শুল্ক, কর বা ফি পরিশোধের প্রয়োজন হইলে বা ভুলক্রমে ফেরত প্রদান করা হইলে এইরূপ শুল্ক, কর বা ফি পুনরায় আদায়ের লক্ষ্যে পুনঃশুল্কায়নের কারণ লিপিবদ্ধ করিয়া আইনের ধারা ৯১ এর উপ-ধারা (৩) অনুযায়ী পরিশিষ্ট-২ মোতাবেক সংশ্লিষ্ট ব্যক্তিকে অবহিত করিতে হইবে এবং উক্ত পত্রে উল্লিখিত সময়ের মধ্যে লিখিতভাবে মতামত প্রকাশ ও শুনানির সুযোগ প্রদান করিতে হইবে।\n(২) উপ-বিধি (১) এ উল্লিখিত সময়ের পর পুনঃশুল্কায়ন চূড়ান্ত করিতে হইবে এবং পরিশিষ্ট-৩ মোতাবেক দাবিনামা জারি করিতে হইবে।",
+      "entity_concepts": {
+        "Reassessment": [
+          "This clause outlines the procedural requirements for the reassessment of goods, specifically when such reassessment necessitates the recovery of new or additional duties, taxes, or fees, or when refunds were granted in error.",
+          "The process requires documenting the grounds for reassessment and providing the concerned individual with formal notice according to the prescribed appendix, alongside an opportunity to respond in writing and attend a hearing within a specified timeframe.",
+          "Upon the expiration of the notice period, the reassessment must be finalized, and a formal demand notice must be issued according to the specified appendix."
+        ],
+        "Customs Act 1969": [
+          "The reassessment process must be conducted in compliance with the requirements set forth in sub-section (3) of section 91 of the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2739",
+      "entity_sub_entities": {
+        "Reassessment": [
+          "goods",
+          "duties",
+          "taxes",
+          "fees",
+          "refunds",
+          "grounds for reassessment",
+          "formal notice",
+          "appendix",
+          "written response",
+          "hearing",
+          "demand notice"
+        ],
+        "Customs Act 1969": [
+          "sub-section (3) of section 91",
+          "Customs Act 1969"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        13,
+        30,
+        141,
+        151,
+        553,
+        1263,
+        2054,
+        2079,
+        2326,
+        2975,
+        8560,
+        12498
+      ],
+      "source_file": "customs_sros_OCR/20240606_206-AIN_2024_58_Customs/20240606_206-AIN_2024_58_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,411 @@
+{
+  "cluster_id": 769,
+  "cluster_label": "departmental officer",
+  "thread_index": 0,
+  "thread_id": "cluster_00769_t0",
+  "title": "Procedural Role of Departmental Officer in Customs and Compliance",
+  "summary": "The role of the 'departmental officer' has evolved from a simple authorizing agent for scrap disposal and certification to a central administrative node in complex customs verification and committee-based decision-making processes. Over time, the officer's responsibilities have expanded from passive certification to active nomination of inspection teams and participation in multi-agency regulatory committees.",
+  "evolution": {
+    "scope": "Expanded from individual authorization to committee-based oversight and team management.",
+    "procedure": "Shifted from reactive approval to proactive nomination and structured reporting cycles."
+  },
+  "timeline": [
+    {
+      "date": "2021-06-03",
+      "instrument": "SRO/Clause",
+      "change": "Officer acts as an authorizing authority for the disposal of industrial scrap.",
+      "clause_ids": [
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "SRO/Clause",
+      "change": "Officer gains administrative power to nominate physical inspection officers and receive inspection reports within strict timelines.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_111"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO/Clause",
+      "change": "Officer is integrated as a mandatory member of a multi-agency committee for regulatory approvals.",
+      "clause_ids": [
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+      "resolved_text": "৫। আমদানিকৃত যন্ত্রাংশ বা উপকরণ দ্বারা মোটরসাইকেল বা যন্ত্রাংশ উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে এবং এই ক্ষেত্রে উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Motorcycle Manufacturing": [
+          "Manufacturers of motorcycles or their components are permitted to sell scrap resulting from production processes locally, provided they obtain authorization from the relevant customs officer."
+        ],
+        "Value Added Tax": [
+          "The importer is required to pay the applicable rate of Value Added Tax on the value of scrap sold locally arising from the production of motorcycles or their components."
+        ],
+        "Customs Duty": [
+          "In addition to other taxes, the importer must pay all applicable customs duties on the value of locally sold production scrap."
+        ],
+        "Appropriate Officer of Customs": [
+          "Local sale of production scrap generated from imported parts or materials is subject to the prior approval of the relevant departmental officer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2121",
+      "entity_sub_entities": {
+        "Motorcycle Manufacturing": [
+          "motorcycles",
+          "components",
+          "scrap"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "scrap",
+          "motorcycles",
+          "components"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "production scrap"
+        ],
+        "Appropriate Officer of Customs": [
+          "production scrap",
+          "imported parts",
+          "materials",
+          "departmental officer"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        14,
+        17,
+        42,
+        57,
+        326,
+        370,
+        769,
+        797,
+        1081,
+        2208
+      ],
+      "source_file": "customs_sros_OCR/20210603_128-AIN_2021_17_Customs/20210603_128-AIN_2021_17_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_110",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_110",
+      "resolved_text": "২১. কাস্টমস স্টেশনের অনুরোধের পরিপ্রেক্ষিতে অনুরোধ প্রাপ্তির ২ (দুই) কার্যদিবসের মধ্যে কাস্টমস, এক্সাইজ ও ভ্যাট বিভাগের সংশ্লিষ্ট বিভাগীয় কর্মকর্তা পরিশিষ্ট ৭.৪ মোতাবেক প্রতিষ্ঠানের নিজস্ব আমদানী পণ্য বা রপ্তানি পণ্য কায়িক পরীক্ষা করার জন্য এক বা একাধিক কায়িক পরীক্ষণ কর্মকর্তা মনোনয়ন প্রদান করবে।",
+      "entity_concepts": {
+        "Customs Physical Examination": [
+          "The relevant departmental officer must nominate one or more physical examination officers to conduct the examination of imported or exported goods belonging to an entity.",
+          "The nomination process must be completed within two working days upon receiving a formal request from the customs station, following the procedure outlined in the relevant appendix."
+        ],
+        "Customs, Excise and VAT Department": [
+          "Officers from this department are responsible for nominating officials to perform physical examinations of goods upon receiving a request from a customs station."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_900",
+      "entity_sub_entities": {
+        "Customs Physical Examination": [
+          "departmental officer",
+          "physical examination officers",
+          "imported goods",
+          "exported goods",
+          "entity",
+          "customs station",
+          "appendix"
+        ],
+        "Customs, Excise and VAT Department": [
+          "Officers",
+          "goods",
+          "customs station"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        25,
+        141,
+        142,
+        273,
+        337,
+        550,
+        769,
+        1608,
+        10676
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_111",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_111",
+      "resolved_text": "২২. মনোনীত কর্মকর্তা মনোনয়ন প্রাপ্তির ৩ (তিন) কার্যদিবসের মধ্যে প্রতিষ্ঠানের অজ্ঞানে আমদানি পণ্য বা রপ্তানিব্য পণ্য কায়িক পরীক্ষা করে পরিশিষ্ট ৭.৫ অনুসারে কায়িক পরীক্ষণ প্রতিবেদন সংশ্লিষ্ট বিভাগীয় কর্মকর্তা বরাবর প্রেরণ করবে।",
+      "entity_concepts": {
+        "Customs Inspection Process": [
+          "Designated officers are required to conduct a physical examination of imported or exported goods within a set number of working days upon receiving the nomination. The inspection result must be formally submitted in the specified report format to the relevant departmental officer."
+        ],
+        "Physical Examination Report": [
+          "This report must be prepared following the standardized structure outlined in the relevant appendix and submitted by the assigned official to the competent departmental authority."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_901",
+      "entity_sub_entities": {
+        "Customs Inspection Process": [
+          "designated officers",
+          "physical examination",
+          "imported goods",
+          "exported goods",
+          "nomination",
+          "inspection result",
+          "report format",
+          "departmental officer"
+        ],
+        "Physical Examination Report": [
+          "standardized structure",
+          "appendix",
+          "assigned official",
+          "competent departmental authority"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        141,
+        142,
+        205,
+        769,
+        1618,
+        2191,
+        3446,
+        6534,
+        6932,
+        9112,
+        10081,
+        11456,
+        12397
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_4",
+      "resolved_text": "৩। অনুচ্ছেদ ২ এর অধীন আবেদন প্রাপ্তির পর জাতীয় রাজস্ব কর্তৃক নিম্নরূপ একটি কমিটি গঠিত হইবে, যথা-\n(ক) দ্বিতীয় সচিব (কাস্টমস নীতি), জাতীয় রাজস্ব বোর্ড, ঢাকা;\n(খ) সংশ্লিষ্ট বিভাগীয় কর্মকর্তা;\n(গ) শিল্প মন্ত্রণালয়ের একজন প্রতিনিধি;\n(ঘ) বাংলাদেশের যেকোনো পাবলিক বিশ্ববিদ্যালয়ের একজন যথোপযুক্ত প্রতিনিধি।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Upon receiving an application under the established provisions, the National Board of Revenue is mandated to form a committee to process the matter."
+        ],
+        "Committee for Application Review": [
+          "A committee is established consisting of the Second Secretary of Customs Policy, the relevant departmental officer, a representative from the Ministry of Industries, and a representative from a public university in Bangladesh to review applications."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3012",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "application",
+          "committee"
+        ],
+        "Committee for Application Review": [
+          "Second Secretary of Customs Policy",
+          "departmental officer",
+          "representative from the Ministry of Industries",
+          "representative from a public university in Bangladesh",
+          "applications"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        58,
+        68,
+        102,
+        769,
+        2227,
+        3633,
+        4688,
+        4832
+      ],
+      "source_file": "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 3,
+  "static_replicated_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-ক",
+      "text_id": "metadata_5",
+      "resolved_text": "পরিশিষ্ট-ক\n\nপ্রত্যয়নপত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, -------------------------------------\n(আমদানিকারক প্রতিষ্ঠানের সম্পূর্ণ ঠিকানা) এই মূসক বিভাগের অধীন বিনোদন পার্ক (শিশু পার্ক/ওয়াটার পার্ক/অন্যান্য) পরিচালনাকারী হিসাবে মূসক নিবন্ধিত। প্রতিষ্ঠানটি নিয়মিত মূসক পরিশোধ ও রিটার্ন দাখিল করেন/করেন না। প্রতিষ্ঠানটির নিকট এই দপ্তরের কোন নিরঙ্কুশ বকেয়া পাওনা নেই।\n\nস্বাক্ষর : ....................\n\nতারিখ : \n\nনাম : ....................\nপদবি : বিভাগীয় কর্মকর্তা\nকাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ---------\nসিল :",
+      "entity_concepts": {
+        "Value Added Tax": [
+          "The document serves as a certification of tax compliance for an amusement park operator under the jurisdiction of the Customs, Excise and VAT department.",
+          "It confirms whether the entity is registered for tax purposes and whether they are consistent in paying taxes and submitting returns."
+        ],
+        "Customs, Excise and VAT Department": [
+          "This government authority is responsible for issuing certifications regarding the tax compliance status of amusement park operators.",
+          "The department verifies if an operator has any outstanding tax arrears through the signature of its departmental officer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_721",
+      "entity_sub_entities": {
+        "Value Added Tax": [
+          "tax compliance",
+          "amusement park operator",
+          "tax purposes",
+          "taxes",
+          "returns"
+        ],
+        "Customs, Excise and VAT Department": [
+          "government authority",
+          "certifications",
+          "tax compliance status",
+          "amusement park operators",
+          "tax arrears",
+          "signature",
+          "departmental officer"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        13,
+        182,
+        265,
+        550,
+        769,
+        921,
+        1453,
+        1485,
+        2452,
+        4999,
+        5003,
+        5485,
+        12677
+      ],
+      "source_file": "customs_sros_OCR/20160602_166-AIN_2016_28-Customs/20160602_166-AIN_2016_28-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-ক",
+      "text_id": "metadata_5",
+      "resolved_text": "পরিশিষ্ট-ক\n(শর্ত ২ দ্রষ্টব্য)\nপ্রত্যয়নপত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, -------------------------------------\n(আমদানিকারক প্রতিষ্ঠানের সম্পূর্ণ ঠিকানা) এই মূসক বিভাগের অধীন বিনোদন পার্ক (শিশু পার্ক/ওয়াটার পার্ক/অন্যান্য) পরিচালনাকারী হিসাবে মূসক নিবন্ধিত। প্রতিষ্ঠানটি নিয়মিত মূসক পরিশোধ ও রিটার্ন দাখিল করেন/করেন না। প্রতিষ্ঠানটির নিকট এই দপ্তরের কোন নিরঙ্কুশ বকেয়া পাওনা নেই।\n\nতারিখ: \nস্বাক্ষর: . . . . . . . . . . . . . . . . . .\nনাম: . . . . . . . . . . . . . . . . . . . .\nপদবি: বিভাগীয় কর্মকর্তা\nকাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ----------\nসিল:",
+      "entity_concepts": {
+        "Value Added Tax": [
+          "The document serves as a certification template for amusement park operators to verify their Value Added Tax registration status, their compliance with tax payment and return submission obligations, and the absence of any outstanding arrears with the department."
+        ],
+        "Amusement Park": [
+          "Facilities such as children's parks, water parks, or other similar recreational entities are required to be registered under the Value Added Tax department to operate."
+        ],
+        "Customs, Excise and VAT Department": [
+          "The departmental officer is responsible for issuing certification regarding a taxpayer's registration status, compliance history, and the state of their tax liabilities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1193",
+      "entity_sub_entities": {
+        "Value Added Tax": [
+          "Value Added Tax registration status",
+          "tax payment",
+          "return submission obligations",
+          "outstanding arrears"
+        ],
+        "Amusement Park": [
+          "children's parks",
+          "water parks",
+          "recreational entities"
+        ],
+        "Customs, Excise and VAT Department": [
+          "departmental officer",
+          "taxpayer",
+          "registration status",
+          "compliance history",
+          "tax liabilities"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        550,
+        769,
+        1322,
+        2282,
+        2335,
+        2570,
+        2983,
+        3126,
+        10443,
+        11271,
+        11513,
+        12674,
+        13178,
+        13356
+      ],
+      "source_file": "customs_sros_OCR/20220609_142-AIN_2022_90_Customs/20220609_142-AIN_2022_90_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-ক",
+      "text_id": "metadata_6",
+      "resolved_text": "পরিশিষ্ট-ক\n(শর্ত ২ দ্রষ্টব্য)\nপ্রত্যয়নপত্র\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, -------------------------------------\n(আমদানিকারক প্রতিষ্ঠানের সম্পূর্ণ ঠিকানা) এই মূসক বিভাগের অধীন বিনোদন পার্ক (শিশু পার্ক/ওয়াটার পার্ক/অন্যান্য) পরিচালনাকারী হিসাবে মূসক নিবন্ধিত। প্রতিষ্ঠানটি নিয়মিত মূসক পরিশোধ ও রিটার্ন দাখিল করেন/করনে না। প্রতিষ্ঠানটির নিকট এই দপ্তরের কোন নিরঙ্কুশ বকেয়া পাওনা নেই।\n\nস্বাক্ষর: . . . . . . . . . . . . . . . . . .\nতারিখ : \nনাম: . . . . . . . . . . . . . . . . . . . .\nপদবি: বিভাগীয় কর্মকর্তা\nকাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ----------\nসিল:",
+      "entity_concepts": {
+        "Value Added Tax": [
+          "The document requires a certification confirming that an importer operating an amusement park is registered for Value Added Tax purposes.",
+          "The certification confirms whether the entity maintains compliance by regularly paying tax and submitting tax returns."
+        ],
+        "Customs, Excise and VAT Department": [
+          "The departmental officer is responsible for certifying the tax registration and compliance status of businesses under their jurisdiction.",
+          "The certification must confirm that the registered business has no outstanding tax arrears owed to this department."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1602",
+      "entity_sub_entities": {
+        "Value Added Tax": [
+          "importer",
+          "amusement park",
+          "tax",
+          "tax returns"
+        ],
+        "Customs, Excise and VAT Department": [
+          "departmental officer",
+          "registered business",
+          "tax arrears"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        39,
+        258,
+        467,
+        550,
+        769,
+        1322,
+        4999,
+        11311
+      ],
+      "source_file": "customs_sros_OCR/20250602_204-AIN_2025_26_Customs/20250602_204-AIN_2025_26_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

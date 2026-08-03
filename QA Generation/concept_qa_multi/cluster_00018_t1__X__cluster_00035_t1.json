@@ -1,0 +1,31 @@
+{
+  "group_id": "cluster_00018_t1__X__cluster_00035_t1",
+  "entities": [
+    "Authorized Economic Operator",
+    "Business Identification Number"
+  ],
+  "cluster_ids": [
+    18,
+    35
+  ],
+  "thread_ids": [
+    "cluster_00018_t1",
+    "cluster_00035_t1"
+  ],
+  "num_shared_clauses": 26,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What role does the Business Identification Number (BIN) play in the lifecycle of an Authorized Economic Operator (AEO) status according to the 2024 regulations?",
+      "answer": "The Business Identification Number (BIN) is a mandatory requirement for the renewal of an Authorized Economic Operator (AEO) status. According to the list of updated documents required for renewal, the applicant must provide an updated BIN [9].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "Business Identification Number"
+      ],
+      "clause_text_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_48"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "thread_id": "cluster_00565_t1",
+  "cluster_id": 565,
+  "cluster_label": "supporting documents",
+  "title": "Documentary Evidence for Trade Agreements and Compliance",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the function of supporting documentation in Bangladeshi customs policy evolved from 2022 to 2023?",
+      "answer": "The role of supporting documentation expanded from facilitating trade compliance to serving as a mechanism for legal enforcement. In 2022, documents like Certificates of Origin were used to validate the originating status of goods for D-8 PTA benefits, whereas by 2023, documents such as bills of entry became the primary evidence used by customs authorities to issue show-cause notices for the recovery of underpaid duties under Section 83A of the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the relationship between the D-8 PTA origin requirements of 2022 and the post-clearance audit procedures established in 2023?",
+      "answer": "Both periods emphasize the necessity of official documentation to verify customs status, but they serve different regulatory objectives. The 2022 requirement focused on retrospective validation of transit or stored goods to qualify for D-8 PTA status, while the 2023 framework utilizes bills of entry and World Customs Organization Explanatory Notes during post-clearance audits to verify classification and assess short-paid taxes.",
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the standardization of legal notice templates become a focus in the 2023 customs policy updates?",
+      "answer": "The standardization of templates for show-cause notices under Section 83A and 83B(2) of the Customs Act, 1969, was driven by the need to formalize the recovery process for underpaid duties. By referencing specific bills of entry within these templates, customs authorities established a consistent legal basis to demand payment and resolve cases based on official documentation when formal responses are not provided.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2023 policy framework handle cases involving fraudulent declarations compared to standard underpayment of duties?",
+      "answer": "While Section 83A of the Customs Act, 1969, provides the general basis for issuing show-cause notices for underpaid duties, Section 83B(2) introduces specific legal conditions. This section allows for exceptions to statutory time limits, specifically addressing situations involving fraudulent or willfully misleading declarations during the import process.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role do international standards play in the evolution of Bangladeshi customs audit procedures as of 2023?",
+      "answer": "As of 2023, customs authorities utilize Explanatory Notes issued by the World Customs Organization as an authoritative reference during post-clearance audits. These notes support the classification and duty assessment of imported goods, ensuring that the verification of taxability aligns with international standards when reviewing bills of entry.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What specific conditions must be met for goods in transit or storage to be recognized as originating products under the 2022 D-8 PTA policy?",
+      "answer": "To be accepted as originating products, goods in transit or storage at the time the D-8 PTA entered into force had to conform to D-8 Rules of Origin. Additionally, importers were required to submit a retrospective Certificate of Origin and supporting transport documents to customs authorities within four months of the agreement's entry into force.",
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer brought goods into a bonded warehouse in late 2022 under the D-8 PTA provisions. In late 2023, customs authorities discovered an underpayment of duties on these specific goods and initiated recovery proceedings.",
+      "question": "How do the requirements for supporting documents differ between the importer's initial compliance in 2022 and the customs authority's recovery proceedings in 2023?",
+      "answer": "In 2022, the importer was required to submit a retrospective Certificate of Origin and transport documents to qualify for D-8 PTA status. In 2023, under Sections 83A and 83B(2), customs authorities utilize the Bill of Entry and official documentation on file to issue show-cause notices for the recovery of underpaid duties.",
+      "clauses_involved": [
+        "2022-10-18",
+        "2023-09-27"
+      ],
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-10-18",
+      "relative_offset": "nearly one year later",
+      "question": "Regarding the evolution of supporting documentation in Bangladeshi customs, how did the regulatory focus shift from the requirements established on 2022-10-18 when looking at the new legal framework introduced nearly one year later?",
+      "answer": "On 2023-09-27, the focus expanded from the retrospective submission of origin certificates for D-8 PTA compliance to the standardization of legal notice templates and the establishment of a framework under Section 83A and 83B(2) of the Customs Act, 1969, for the recovery of short-paid duties based on underlying bill of entry documents.",
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_22",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_81"
+      ]
+    }
+  ]
+}

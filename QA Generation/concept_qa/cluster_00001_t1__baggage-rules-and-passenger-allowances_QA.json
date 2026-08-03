@@ -1,0 +1,218 @@
+{
+  "thread_id": "cluster_00001_t1",
+  "cluster_id": 1,
+  "cluster_label": "goods",
+  "title": "Baggage Rules and Passenger Allowances",
+  "source_num_member_objects": 11,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "As of the 2011-06-09 Baggage Rules, customs officers are permitted to perform random scanning and examination of up to 10% of passengers passing through the Green Channel.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "10%",
+      "correct_fact": "5%",
+      "answer": "The statement is inaccurate. According to the 2011-06-09 Baggage Rules, customs officers are authorized to scan and examine up to 5% (five percent) of passengers passing through the Green Channel on a random basis.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_10",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2014-06-05 Baggage Rules, a passenger is permitted to import up to 100 grams of gold jewelry or 200 grams of silver jewelry duty-free, provided that no single type of ornament exceeds 12 pieces.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "100 grams of gold jewelry or 200 grams of silver jewelry (not exceeding 12 pieces of one type)",
+      "answer": "The statement is accurate based on the 2014-06-05 Baggage Rules.",
+      "clause_text_ids": [
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2016-06-02 Baggage Rules, passengers under the age of 15 are entitled to import up to 40 kilograms of personal baggage free of duties and taxes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "15",
+      "correct_fact": "12",
+      "answer": "The statement is inaccurate. The 2016-06-02 Baggage Rules specify that the 40-kilogram duty-free baggage allowance applies to passengers under the age of 12.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2016-04-08 Baggage Rules allow for the clearance of commercial quantity imports, provided the goods are not controlled or prohibited under the import policy order or other laws, and subject to adjudication and clearance from the Chief Controller of Imports and Exports.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate as per the 2016-04-08 Baggage Rules.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the 2016-06-02 Baggage Rules, an adult passenger arriving by air or water may import up to 50 kilograms of total baggage free of all duties and taxes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "50 kilograms",
+      "correct_fact": "65 kilograms",
+      "answer": "The statement is inaccurate. The 2016-06-02 Baggage Rules state that passengers aged 12 and above may import up to 65 kilograms of accompanied baggage free of duties and taxes.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2010-06-10 Baggage Rules established that passengers importing goods in commercial quantities must obtain a clearance permit from the Chief Controller of Imports and Exports and undergo an adjudication process to pay applicable duties and penalties.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate based on the 2010-06-10 Baggage Rules.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger arrives in Bangladesh in 2015 carrying a significant quantity of gold jewelry. After the 2016 Baggage Rules are enacted, they plan to import a similar amount of gold jewelry again.",
+      "question": "How did the regulatory framework for importing gold jewelry change between the 2014 rules and the 2016 consolidation regarding the conditions for duty-free status?",
+      "answer": "The 2014 rules introduced a specific duty-free allowance of up to 100 grams of gold jewelry or 200 grams of silver jewelry, provided no single type of ornament exceeded 12 pieces. The 2016 rules maintained these specific weight and quantity-based exemptions while consolidating the broader baggage allowance framework.",
+      "clauses_involved": [
+        "2014-06-05",
+        "2016-06-02"
+      ],
+      "clause_text_ids": [
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer attempts to clear commercial baggage in 2015 using the standard adjudication process. In 2016, they attempt to import similar goods that are subject to the Import Policy Order.",
+      "question": "What critical restriction was added to the adjudication process for commercial baggage between the 2012 rules and the 2016 rules?",
+      "answer": "The 2016 rules added an explicit exclusion to the adjudication process, stating that goods regulated or prohibited under the Import Policy Order or other laws cannot be cleared through the standard adjudication process for commercial baggage.",
+      "clauses_involved": [
+        "2012-06-07",
+        "2016-04-08"
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_10",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "one year later",
+      "question": "In 2010-06-10, the rules for Green Channel usage were established; what change was introduced to Green Channel procedures one year later?",
+      "answer": "In 2011-06-09, the rules were updated to authorize customs officers to perform random scanning and examination of up to 5% of passengers passing through the Green Channel.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_7",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_10",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "three years later",
+      "question": "Regarding the baggage rules in effect as of 2011-06-09, what specific restriction on jewelry imports was introduced three years later?",
+      "answer": "In 2014-06-05, specific weight limits were introduced, allowing passengers to import duty-free up to 100 grams of gold jewelry or 200 grams of silver jewelry, provided no single type of ornament exceeds 12 pieces.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_10",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_7",
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2014-06-05",
+      "relative_offset": "two years later",
+      "question": "Following the 2014-06-05 regulations on jewelry, what major update to personal baggage weight allowances occurred two years later in 2016?",
+      "answer": "In 2016-04-08, regulations were updated to specify that passengers aged twelve and older arriving by air or water could import up to 65 kilograms of personal hand, cabin, and checked baggage duty-free.",
+      "clause_text_ids": [
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_10",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these baggage regulation changes in chronological order.",
+      "events_shuffled": [
+        "Gold and silver jewelry import allowances are established with specific weight limits for duty-free entry.",
+        "Customs officers are authorized to perform random scanning and examination of a portion of passengers passing through the green channel.",
+        "Regulations for commercial baggage import are introduced, requiring adjudication and clearance for goods exceeding established schedules.",
+        "Commercial import regulations are updated to explicitly exclude goods that are controlled or prohibited under import policy orders or other laws."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Regulations for commercial baggage import are introduced, requiring adjudication and clearance for goods exceeding established schedules.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "Customs officers are authorized to perform random scanning and examination of a portion of passengers passing through the green channel.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "Gold and silver jewelry import allowances are established with specific weight limits for duty-free entry.",
+          "date": "2014-06-05"
+        },
+        {
+          "event": "Commercial import regulations are updated to explicitly exclude goods that are controlled or prohibited under import policy orders or other laws.",
+          "date": "2016-04-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_10",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_7",
+        "20140605_141-AIN_2014_2505-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+        "customs_sros_OCR/20140605_141-AIN_2014_2505-Customs/20140605_141-AIN_2014_2505-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t1__baggage-rules-and-passenger-allowances.json"
+    }
+  ]
+}

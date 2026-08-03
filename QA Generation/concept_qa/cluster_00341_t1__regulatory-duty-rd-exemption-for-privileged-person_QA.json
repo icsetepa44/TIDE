@@ -1,0 +1,108 @@
+{
+  "thread_id": "cluster_00341_t1",
+  "cluster_id": 341,
+  "cluster_label": "Privileged Persons (Customs Procedures) Rules 2003",
+  "title": "Regulatory Duty (RD) Exemption for Privileged Persons",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 3,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the legal framework governing Regulatory Duty (RD) exemptions for privileged persons shifted over time?",
+      "answer": "The legal basis for Regulatory Duty exemptions has transitioned from the Customs Act 1969, as seen in the 2012 and 2013 frameworks, to the Customs Act 2023, which was codified under SRO 237-Law/2024. Throughout this evolution, the Privileged Persons (Customs Procedures) Rules 2003 have remained the consistent reference point for defining exemption status.",
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240708_237-_2024_79_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What change occurred in the regulatory duty rate for goods with a 25% statutory import duty between 2012 and 2024?",
+      "answer": "In the 2012 and 2013 frameworks, a 5% regulatory duty was imposed on goods subject to a 25% statutory import duty rate. By 2024, under SRO 237-Law/2024, this regulatory duty rate for the same category of goods was reduced to 3%.",
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240708_237-_2024_79_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the structural approach to defining RD exemptions evolved from the 2012 framework to the 2024 policy?",
+      "answer": "The policy has evolved from relying on broad, implicit exclusions within early standing orders under the 2012 framework to a more refined structure in 2024. The current policy explicitly links exemption language to the Privileged Persons (Customs Procedures) Rules 2003, providing clearer codification under the Customs Act 2023.",
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20240708_237-_2024_79_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A privileged entity imported goods in 2013 under the regulatory framework of the Customs Act 1969, which imposed a 5% Regulatory Duty (RD) unless exempted. In 2024, the same entity is importing goods under the Customs Act 2023, which imposes a 3% RD on goods with a 25% statutory duty rate.",
+      "question": "How has the legal basis and the standard Regulatory Duty rate for goods with a 25% statutory import duty changed for this privileged entity between the 2013 and 2024 instruments?",
+      "answer": "The legal basis shifted from the Customs Act 1969 to the Customs Act 2023, and the standard Regulatory Duty rate for goods subject to a 25% statutory import duty decreased from 5% to 3%.",
+      "clauses_involved": [
+        "2013-07-01",
+        "2024-07-08"
+      ],
+      "clause_text_ids": [
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240708_237-_2024_79_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-30",
+      "relative_offset": "12 years later",
+      "question": "Starting from the initial regulatory duty framework established in 2012-06-30, what change occurred in the regulatory duty rate for goods with a 25% statutory import duty rate 12 years later?",
+      "answer": "12 years later, on 2024-07-08, SRO 237-Law/2024 was issued under the Customs Act 2023, which adjusted the regulatory duty rate from the 5% established in 2012 to a new rate of 3% for goods with a 25% statutory import duty rate.",
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20240708_237-_2024_79_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government imposes a regulatory duty of 5% on imported goods with a 25% statutory import duty rate, while explicitly exempting goods imported under the Privileged Persons (Customs Procedures) Rules based on the Customs Act.",
+        "The government updates the regulatory duty framework to apply a 3% rate on goods with a 25% statutory customs duty, transitioning the legal authority to the Customs Act.",
+        "The government continues the 5% regulatory duty imposition on imported goods with a 25% statutory import duty, maintaining the standing order exemption for goods imported under the Privileged Persons (Customs Procedures) Rules."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government imposes a regulatory duty of 5% on imported goods with a 25% statutory import duty rate, while explicitly exempting goods imported under the Privileged Persons (Customs Procedures) Rules based on the Customs Act.",
+          "date": "2012-06-30"
+        },
+        {
+          "event": "The government continues the 5% regulatory duty imposition on imported goods with a 25% statutory import duty, maintaining the standing order exemption for goods imported under the Privileged Persons (Customs Procedures) Rules.",
+          "date": "2013-07-01"
+        },
+        {
+          "event": "The government updates the regulatory duty framework to apply a 3% rate on goods with a 25% statutory customs duty, transitioning the legal authority to the Customs Act.",
+          "date": "2024-07-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20120630_249-AIN_2012_2418-Customs_১ জুলাই, ২০১২_clause_1",
+        "20130701_220-AIN_2013_2459-Customs_১ জুলাই, ২০১৩_clause_1",
+        "20240708_237-_2024_79_২৬ জুন, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120630_249-AIN_2012_2418-Customs/20120630_249-AIN_2012_2418-Customs_output.json",
+        "customs_sros_OCR/20130701_220-AIN_2013_2459-Customs/20130701_220-AIN_2013_2459-Customs_output.json",
+        "customs_sros_OCR/20240708_237-_2024_79/20240708_237-_2024_79_output.json"
+      ],
+      "thread_source_file": "cluster_00341_t1__regulatory-duty-rd-exemption-for-privileged-person.json"
+    }
+  ]
+}

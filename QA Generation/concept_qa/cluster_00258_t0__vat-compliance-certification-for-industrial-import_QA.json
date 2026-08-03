@@ -1,0 +1,156 @@
+{
+  "thread_id": "cluster_00258_t0",
+  "cluster_id": 258,
+  "cluster_label": "tax returns",
+  "title": "VAT Compliance Certification for Industrial Imports",
+  "source_num_member_objects": 10,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 4,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the regulatory definition of 'VAT compliant' evolve from 2020 to 2022?",
+      "answer": "Initially, in 2020 (SRO 126-AIN/2020), compliance was measured by the submission of a specific count of 12 VAT returns. By 2022 (SRO 118-AIN/2022), the definition shifted to a formal legal status, defining a 'VAT compliant' entity as one registered under the Value Added Tax and Supplementary Duty Act, 2012, that consistently submits its required tax returns.",
+      "clause_text_ids": [
+        "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What was the procedural shift in how industrial importers demonstrated their VAT compliance over time?",
+      "answer": "The procedure transitioned from a manual verification process, where departmental officers certified the filing of a specific number of returns (as seen in the 2020 SRO 126-AIN/2020), to a standardized regulatory requirement where entities must inherently maintain 'VAT compliant' status to qualify for duty concessions across various manufacturing sectors.",
+      "clause_text_ids": [
+        "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why has the 'VAT compliant' status become a critical requirement for industrial manufacturers in Bangladesh?",
+      "answer": "The status serves as a prerequisite for accessing concessional duty rates on imported raw materials. As shown by the progression from 2022 to 2024 (SRO 119-AIN/2022, SRO 120-AIN/2023, and SRO 173-AIN/2024), this requirement has been systematically extended to diverse sectors, including air conditioners, ATMs, cameras, mould/die manufacturing, and generator assembly, to ensure standardized tax reporting.",
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_2",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the requirement for an 'Industrial IRC holder' interact with the 'VAT compliant' status in recent customs policy?",
+      "answer": "The two statuses are now frequently linked as dual requirements for eligibility. As evidenced in SROs from 2022 to 2024, an importer must hold a valid Industrial Consumer Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports while simultaneously maintaining 'VAT compliant' status through regular return filings to qualify for specific industrial import privileges.",
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial manufacturer has been importing materials at concessional duty rates since 2020. In June 2020, they were required to provide a certificate confirming the submission of '12 VAT returns' for the previous fiscal year. By 2022, the regulatory framework shifted to defining the entity's status as 'VAT compliant' under the 2012 Act, rather than just referencing the count of returns.",
+      "question": "How did the documentation requirement for proving tax compliance evolve from the 2020 SRO 126-AIN/2020 requirement to the 2022 SRO 118-AIN/2022 definition?",
+      "answer": "The requirement evolved from a manual certification of submitting a specific count of '12 returns' to a standardized regulatory definition of 'VAT compliant,' which requires being registered under the 2012 Act and maintaining a record of regular return submissions.",
+      "clauses_involved": [
+        "2020-06-11 | SRO 126-AIN/2020",
+        "2022-06-09 | SRO 118-AIN/2022"
+      ],
+      "clause_text_ids": [
+        "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2020-06-11",
+      "relative_offset": "two years later",
+      "question": "Two years after the initial 2020 requirement for submitting 12 VAT returns, how did the regulatory framework formalize the definition of a 'VAT compliant' entity?",
+      "answer": "In 2022-06-09, via SRO 118-AIN/2022, the definition of 'VAT compliant' was formalized to specifically refer to an industrial manufacturer registered under the 2012 Act that regularly submits tax returns.",
+      "clause_text_ids": [
+        "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "one year later",
+      "question": "One year after the formal definition of 'VAT compliant' was established in June 2022, which specific manufacturing sector was added to the scope of this standardized definition?",
+      "answer": "In 2023-06-01, via SRO 120-AIN/2023, the standardized 'VAT compliant' definition was extended to include mould and die manufacturing.",
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "one year later",
+      "question": "One year after the inclusion of mould and die manufacturing, what new industrial sector became subject to the 'VAT compliant' return filing requirement?",
+      "answer": "In 2024-06-06, via SRO 173-AIN/2024, the 'VAT compliant' return filing requirement was applied to generator manufacturing and assembling entities.",
+      "clause_text_ids": [
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_2",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The VAT compliant definition is extended to include generator manufacturing and assembling industries.",
+        "The VAT compliant status is formally defined as an entity registered under the Value Added Tax and Supplementary Duty Act that submits regular returns.",
+        "The requirement to submit a specific number of VAT returns to qualify for concessional duty rates is introduced.",
+        "The VAT compliant definition is standardized to apply to mould and die manufacturing."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The requirement to submit a specific number of VAT returns to qualify for concessional duty rates is introduced.",
+          "date": "2020-06-11"
+        },
+        {
+          "event": "The VAT compliant status is formally defined as an entity registered under the Value Added Tax and Supplementary Duty Act that submits regular returns.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The VAT compliant definition is standardized to apply to mould and die manufacturing.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The VAT compliant definition is extended to include generator manufacturing and assembling industries.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20200611_124-AIN_2020_75_Customs_৩ জুন, ২০২০ খ্রিস্টাব্দ_clause_4",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_2",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20200611_124-AIN_2020_75_Customs/20200611_124-AIN_2020_75_Customs_output.json",
+        "customs_sros_OCR/20220609_122-AIN_2022_70_Customs/20220609_122-AIN_2022_70_Customs_output.json",
+        "customs_sros_OCR/20230601_121-AIN_2023_165_Customs/20230601_121-AIN_2023_165_Customs_output.json",
+        "customs_sros_OCR/20240606_171-AIN_2024_23_Customs/20240606_171-AIN_2024_23_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00258_t0__vat-compliance-certification-for-industrial-import.json"
+    }
+  ]
+}

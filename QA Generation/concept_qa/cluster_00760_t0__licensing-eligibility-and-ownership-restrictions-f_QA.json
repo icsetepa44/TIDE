@@ -1,0 +1,89 @@
+{
+  "thread_id": "cluster_00760_t0",
+  "cluster_id": 760,
+  "cluster_label": "companies",
+  "title": "Licensing Eligibility and Ownership Restrictions for Companies",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the regulatory approach toward company ownership for customs licensing change between 2015 and 2016?",
+      "answer": "The regulatory approach shifted from an inclusive definition to a restrictive one. While the Customs Rules 2015 established a broad definition of 'person' that included companies, the 2016 Customs Licensing Rules introduced specific ownership limitations that prohibited wholly foreign-owned entities from obtaining licenses.",
+      "clause_text_ids": [
+        "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What specific criteria must a joint-venture company meet to be eligible for a customs license under the 2016 rules?",
+      "answer": "Under the 2016 Customs Licensing Rules, a joint-venture company is eligible for a license only if the total shareholding of foreign owners does not exceed 40% of the company's total shares.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the definition of 'person' in the Customs Rules 2015 impact the eligibility landscape for customs licensing?",
+      "answer": "The Customs Rules 2015 defined 'person' to include companies, partnership firms, associations, and other bodies of individuals. This provided a broad, inclusive framework for entities to participate in customs activities before the more restrictive ownership-based criteria were introduced in 2016.",
+      "clause_text_ids": [
+        "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the implication of the 2016 Customs Licensing Rules for companies that are entirely foreign-owned?",
+      "answer": "The 2016 Customs Licensing Rules explicitly state that companies which are entirely foreign-owned are ineligible to be granted a license, marking a significant departure from the broader participation permitted under the 2015 framework.",
+      "clause_text_ids": [
+        "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why can the evolution of customs licensing policy in Bangladesh be characterized as a shift toward protective ownership criteria?",
+      "answer": "The evolution reflects a shift toward protectionism because the policy moved from a general inclusion of companies in 2015 to imposing a strict 40% foreign equity cap for joint ventures and a total ban on wholly foreign-owned companies by 2016, specifically targeting the control of licensed entities.",
+      "clause_text_ids": [
+        "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company with 60% foreign equity was incorporated and applied for a customs license in early 2016, specifically before June 2, 2016. Following the introduction of the 2016 Customs Licensing Rules, the company seeks to understand its eligibility status compared to the standards that existed under the 2015 Customs Rules.",
+      "question": "How did the eligibility criteria for this company change between the 2015 Customs Rules and the 2016 Customs Licensing Rules regarding its foreign equity structure?",
+      "answer": "Under the 2015 Customs Rules, the company was broadly included under the definition of 'person' without specific ownership restrictions. Under the 2016 Customs Licensing Rules, the company became ineligible for a license because its 60% foreign equity exceeds the newly established 40% cap for joint-venture companies.",
+      "clauses_involved": [
+        "2015-07-01",
+        "2016-06-02"
+      ],
+      "clause_text_ids": [
+        "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2015-07-01",
+      "relative_offset": "one year later",
+      "question": "In 2015-07-01, the Customs Rules established a broad definition of 'person' for customs licensing; how did the eligibility criteria for companies change one year later?",
+      "answer": "One year later, in the 2016-06-02 Customs Licensing Rules, specific ownership restrictions were introduced, prohibiting wholly foreign-owned companies from obtaining licenses and capping foreign equity at 40% for joint-venture companies.",
+      "clause_text_ids": [
+        "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_2",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_8"
+      ]
+    }
+  ]
+}

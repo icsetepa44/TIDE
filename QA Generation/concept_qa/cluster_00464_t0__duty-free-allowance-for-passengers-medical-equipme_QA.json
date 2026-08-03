@@ -1,0 +1,72 @@
+{
+  "thread_id": "cluster_00464_t0",
+  "cluster_id": 464,
+  "cluster_label": "medical equipment",
+  "title": "Duty-Free Allowance for Passengers' Medical Equipment",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 3,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the eligibility criteria for duty-free medical equipment clearance evolve between the 2011 and 2016 customs policies?",
+      "answer": "The eligibility criteria expanded to explicitly include 'elderly' passengers alongside the existing categories of sick and disabled passengers. While the 2011-06-09 SRO initially focused on sick and disabled individuals, the 2016-06-02 SRO formalized the inclusion of elderly passengers to ensure they were also entitled to import medical equipment and wheelchairs free of duties and taxes.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way did the terminology regarding transport modes change across the policy timeline?",
+      "answer": "The terminology was refined to standardize how transport modes were described across different SROs. Specifically, the 2016-06-02 SRO adjusted the language to ensure consistent categorization of air, water, and land routes compared to the initial 2011-06-09 SRO, ensuring that passengers arriving via any of these methods could access the same duty-free concessions for their medical equipment.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What was the primary objective behind the evolution of the duty-free allowance policy for medical equipment?",
+      "answer": "The evolution of the policy, spanning from the 2011-06-09 SRO to the 2016-06-02 SRO, was driven by the need to provide a more inclusive special concession for vulnerable passengers. By expanding eligibility to include elderly passengers and standardizing transport terminology, the policy aimed to ensure that sick, disabled, or elderly passengers could clear essential mobility aids and medical equipment without customs charges regardless of their mode of arrival.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An elderly passenger arrived in Bangladesh in early 2011 and attempted to clear medical equipment duty-free. Later, the same passenger arrived again in late 2016 with similar equipment.",
+      "question": "Did the eligibility criteria for the passenger's duty-free clearance change between their 2011 arrival and their 2016 arrival?",
+      "answer": "No, the eligibility criteria remained consistent; the 2011 SRO already explicitly included 'elderly' passengers alongside sick and disabled individuals, a status that was maintained in the 2016 SRO.",
+      "clauses_involved": [
+        "2011-06-09",
+        "2016-06-02"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "five years later",
+      "question": "In 2011-06-09, the duty-free allowance for medical equipment was established for sick and disabled passengers; how did the policy change five years later?",
+      "answer": "Five years later, in 2016-06-02, the policy was updated via SRO 2016 to explicitly include 'elderly' passengers in the eligibility criteria and refined the terminology regarding transport modes (air, sea, and land).",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    }
+  ]
+}

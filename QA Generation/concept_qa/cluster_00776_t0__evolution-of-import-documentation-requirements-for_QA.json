@@ -1,0 +1,299 @@
+{
+  "thread_id": "cluster_00776_t0",
+  "cluster_id": 776,
+  "cluster_label": "import documents",
+  "title": "Evolution of Import Documentation Requirements for Compliance and Audit",
+  "source_num_member_objects": 8,
+  "num_qa_pairs": 18,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 6,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A busy customs brokerage firm in Dhaka is organizing its archives to ensure full regulatory compliance as of June 2016. The office manager is reviewing the firm's internal record-keeping policy to confirm that every bill, financial statement, and piece of correspondence associated with their licensing is properly filed. They want to ensure that if an audit occurs, they are prepared to produce documentation covering the full legally mandated duration. What is the minimum timeframe for which these records must be retained?",
+      "question": "For how long is a customs agent required to maintain financial documents, bills, and correspondence related to their licensing?",
+      "answer": "The agent must maintain all records for a minimum period of three years.",
+      "date_or_instrument": "2016-06-02 | Customs Agent Licensing Rules",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In mid-2017, a commercial importer presents their shipping documents to the customs authorities to clear a complex consignment. The customs officer, finding the initial paperwork insufficient to confirm the exact nature and specifications of the cargo, requests supplementary proof to justify the declaration. Faced with this scrutiny, the importer needs to know what specific types of secondary evidence and verification procedures the customs authority is legally empowered to demand.",
+      "question": "What additional evidence can the customs authority demand to verify the imported goods?",
+      "answer": "The authority can demand printed literature, chemical analysis, and detailed packing lists, and reserves the right to conduct laboratory testing.",
+      "date_or_instrument": "2017-06-01 | Import Policy/Customs Directive",
+      "clause_text_ids": [
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An exporter specializing in readymade garments is preparing their application for a flat-rate duty drawback in August 2021 to streamline their financial recovery process. While gathering their paperwork, the company's accountant is unsure whether they need to attach the voluminous import documentation for the raw materials used in production. They want to confirm if the simplified flat-rate scheme grants them relief from the standard requirement of submitting input-related import records.",
+      "question": "Is the exporter required to submit import-related documentation for inputs when applying under the flat-rate duty drawback system?",
+      "answer": "No, applicants under the flat-rate duty drawback system are exempted from the requirement to submit import-related documentation for their inputs.",
+      "date_or_instrument": "2021-08-16 | Duty Drawback Rules",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A trading company recently received a formal notification from the customs department initiating a comprehensive transaction-based audit of their previous year's imports. The company's legal counsel is reviewing the notice to ensure the audit procedure is being conducted according to established regulatory protocols. They are now questioning the specific legislative authority cited by the customs department that empowers them to issue such an official audit notice.",
+      "question": "What is the legal basis for the customs authority to issue an official notice for a transaction-based audit?",
+      "answer": "Section 83(C) of the Customs Act 1969 serves as the legal basis for issuing official notices for transaction-based audits.",
+      "date_or_instrument": "2023-09-27 | PCA Audit Guidelines",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A manufacturing firm has just finished installing a new production line using machinery imported from overseas in June 2024. To finalize the process and have these assets officially recognized within their existing license, the plant manager must prepare a comprehensive submission for the Deputy or Assistant Commissioner. They are currently compiling the required dossier of documents, including proof of import, investment permissions, and technical certifications, to ensure the application is complete.",
+      "question": "What documents must be submitted to the Deputy or Assistant Commissioner to include the machinery in the license?",
+      "answer": "The manufacturer must submit the Bill of Entry, LC, Invoice, BL/Airway Bill/Truck Challan, Investment Permission (IP) from BEPZA/BEZA, VAT challan (if applicable), machinery installation declaration, machine catalog, and a surveyor's age certificate for old machinery.",
+      "date_or_instrument": "2024-06-06 | Machinery Installation Rules",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "As of early 2025, a large business entity is undergoing a rigorous system-based audit conducted by customs authorities to evaluate their operational compliance. The auditors are meticulously checking the company's internal controls and regulatory standing to ensure they meet high-standard requirements. During this evaluation, the team emphasizes the need to verify the entity's specific credentials that grant them preferential status in the supply chain. What specific accreditation details must be validated during this audit process?",
+      "question": "What specific accreditation status must be verified during the system-based audit process?",
+      "answer": "The audit framework requires verification of the entity's Authorized Economic Operator (AEO) accreditation status, certificate class, and compliance with maintenance conditions.",
+      "date_or_instrument": "2025-01-21 | System-Based Audit Update",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_181"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When were mandatory technical documentation requirements, such as chemical analysis and printed literature for H.S. Code verification, first introduced?",
+      "options": [
+        "2016-06-02",
+        "2017-06-01",
+        "2021-08-16",
+        "2023-09-27"
+      ],
+      "answer_index": 1,
+      "answer": "2017-06-01",
+      "explanation": "The Import Policy/Customs Directive dated 2017-06-01 introduced mandatory technical documentation including literature and chemical analysis to verify H.S. Codes and origin.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_6",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the foundational requirement for customs agents to submit authorization letters and entry documents?",
+      "options": [
+        "Customs Agent Licensing Rules (2016-06-02)",
+        "Duty Drawback Rules (2021-08-16)",
+        "PCA Audit Guidelines (2023-09-27)",
+        "Machinery Installation Rules (2024-06-06)"
+      ],
+      "answer_index": 0,
+      "answer": "Customs Agent Licensing Rules (2016-06-02)",
+      "explanation": "The 2016-06-02 Customs Agent Licensing Rules established the foundational requirement for customs agents to submit authorization and entry documents.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2021-08-16 Duty Drawback Rules, what was the primary documentation change for applicants under the flat-rate system?",
+      "options": [
+        "They were required to submit all original import invoices.",
+        "They were exempted from submitting import-related documentation for inputs.",
+        "They were required to provide chemical analysis for all local inputs.",
+        "They were mandated to submit system-based audit trails."
+      ],
+      "answer_index": 1,
+      "answer": "They were exempted from submitting import-related documentation for inputs.",
+      "explanation": "The 2021-08-16 Duty Drawback Rules explicitly state that applicants under the flat-rate duty drawback system are exempted from the requirement to submit import-related documentation for their inputs.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What documentation must be submitted to the Deputy or Assistant Commissioner within 15 working days of machinery installation according to the 2024-06-06 rules?",
+      "options": [
+        "Only the Import Registration Certificate (IRC).",
+        "A simple declaration of completion.",
+        "Documents including B/E, LC, Invoice, BL, IP, and surveyor reports for used machinery.",
+        "A system-based audit report generated by an AEO."
+      ],
+      "answer_index": 2,
+      "answer": "Documents including B/E, LC, Invoice, BL, IP, and surveyor reports for used machinery.",
+      "explanation": "The 2024-06-06 Machinery Installation Rules mandate specific document sets including B/E, LC, Invoice, BL, IP, and surveyor reports for machinery installation verification.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "The 2025-01-21 System-Based Audit Update refined the audit documentation framework to include which specific organizational identifier?",
+      "options": [
+        "Authorized Economic Operator (AEO) status.",
+        "The original Customs Agent license from 2016.",
+        "The flat-rate duty drawback application form.",
+        "The manual Bill of Entry submission log."
+      ],
+      "answer_index": 0,
+      "answer": "Authorized Economic Operator (AEO) status.",
+      "explanation": "The 2025-01-21 System-Based Audit Update refined the framework to include AEO status and specific organizational identifiers as part of the audit reporting checklist.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_181"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which legal section provides the authority for issuing official notices to conduct transaction-based audits as formalized in the 2023-09-27 guidelines?",
+      "options": [
+        "Section 12 of the Customs Act 1969",
+        "Section 83(C) of the Customs Act 1969",
+        "Section 105 of the Customs Act 1969",
+        "Section 200 of the Customs Act 1969"
+      ],
+      "answer_index": 1,
+      "answer": "Section 83(C) of the Customs Act 1969",
+      "explanation": "The 2023-09-27 PCA Audit Guidelines explicitly cite Section 83(C) of the Customs Act 1969 as the legal basis for issuing notices to conduct transaction-based audits.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been operating since 2016. In 2017, they began submitting technical literature and chemical analysis for their goods. In 2024, they imported new machinery and are now applying to include this machinery in their licensed facility under the latest rules.",
+      "question": "Beyond the basic documents required since 2016, what specific additional documentation must the importer now provide to the Deputy or Assistant Commissioner for the 2024 machinery installation verification that was not explicitly mandated by the 2017 technical documentation rules?",
+      "answer": "The importer must provide specific machinery-related documents including the Bill of Lading (BL), Investment Permission (IP) from BEPZA/BEZA, machine catalogues, and for old machinery, a lifespan certificate from an internationally recognized surveyor company.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2017-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_6",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company has been undergoing Transaction-Based Audits since 2023. In 2025, they obtained Authorized Economic Operator (AEO) status and are now subject to a System-Based Audit.",
+      "question": "How has the scope of organizational information required for their audit reporting changed from the 2023 Transaction-Based Audit guidelines to the 2025 System-Based Audit framework?",
+      "answer": "The 2025 framework now explicitly requires the inclusion of AEO accreditation details (certificate number, date, and class) and specific organizational identifiers like the TIN number, which were not part of the 2023 Transaction-Based Audit reporting template.",
+      "clauses_involved": [
+        "2023-09-27",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_181"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "one year later",
+      "question": "One year after the establishment of the Customs Agent Licensing Rules, what new mandatory technical documentation requirement was introduced for importers to verify H.S. Codes and origin?",
+      "answer": "In 2017-06-01, the Import Policy/Customs Directive introduced the requirement for importers to submit detailed product literature, chemical analysis, and packing lists to verify H.S. Codes and country of origin.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-09-27",
+      "relative_offset": "nine months later",
+      "question": "Nine months after the formalization of PCA Audit Guidelines, what new document set was mandated for the verification of post-import machinery installation?",
+      "answer": "On 2024-06-06, the Machinery Installation Rules were issued, mandating specific documentation including LC, BL, IP, and Surveyor reports for verifying the installation of imported machinery.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "seven months later",
+      "question": "Seven months after the introduction of Machinery Installation Rules, how was the audit documentation framework updated regarding organizational status?",
+      "answer": "On 2025-01-21, the System-Based Audit Update refined the framework to specifically include Authorized Economic Operator (AEO) status and specific organizational identifiers within the audit documentation.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_181"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Mandatory submission of specific document sets including LC, BL, and surveyor reports for post-import machinery installation verification.",
+        "Requirement for customs agents to submit authorization letters and entry documents for client representation.",
+        "Introduction of mandatory technical documentation such as chemical analysis and packing lists for verification of product H.S. Codes.",
+        "Formalization of structured transaction-based and system-based audit documentation requirements for business entities."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Requirement for customs agents to submit authorization letters and entry documents for client representation.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "Introduction of mandatory technical documentation such as chemical analysis and packing lists for verification of product H.S. Codes.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "Formalization of structured transaction-based and system-based audit documentation requirements for business entities.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "Mandatory submission of specific document sets including LC, BL, and surveyor reports for post-import machinery installation verification.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_14",
+        "20170601_130-AIN__১ জুন, ২০১৭_clause_6",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_8"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+        "customs_sros_OCR/20170601_130-AIN_/20170601_130-AIN__output.json",
+        "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00776_t0__evolution-of-import-documentation-requirements-for.json"
+    }
+  ]
+}

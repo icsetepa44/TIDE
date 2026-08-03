@@ -1,0 +1,42 @@
+{
+  "group_id": "cluster_00011_t0__X__cluster_00076_t0",
+  "entities": [
+    "customs notification",
+    "date"
+  ],
+  "cluster_ids": [
+    11,
+    76
+  ],
+  "thread_ids": [
+    "cluster_00011_t0",
+    "cluster_00076_t0"
+  ],
+  "num_shared_clauses": 28,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the NBR specify the commencement date for a customs notification in the context of the provided clauses?",
+      "answer": "The NBR specifies the commencement date by including a dedicated clause within each customs notification that explicitly states the calendar date upon which the notification shall become effective. For example, clauses [0] through [11] each contain a specific provision (e.g., 'এই প্রজ্ঞাপন [Date] তারিখে কার্যকর হইবে') to establish this effective date.",
+      "entities_involved": [
+        "customs notification",
+        "date"
+      ],
+      "clause_text_ids": [
+        "20120607_0-AIN_2012_315-Customs_০৭ জুন, ২০১২_clause_2",
+        "20180607_Special_৩০ মে, ২০১৮_clause_2",
+        "20220609_118-AIN_2022_66_Customs_১ জুন, ২০২২_clause_3",
+        "20220609_119-AIN_2022_67_Customs_১ জুন, ২০২২ খ্রিষ্টাব্দ_clause_3",
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_8",
+        "20220609_123-AIN_2022_71_Customs_১ জুন, ২০২২_clause_3",
+        "20220609_125-AIN_2022_73_Customs_১ জুন, ২০২২_clause_3",
+        "20220609_128-AIN_2022_76_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_130-AIN_2022_78_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_132-AIN_2022_80_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+        "20220609_135-AIN_2022_83_Customs_১ জুন, ২০২২ খ্রিষ্টাব্দ_clause_3",
+        "20220609_136-AIN_2022_84_Customs_১ জুন, ২০২২_clause_3"
+      ]
+    }
+  ]
+}

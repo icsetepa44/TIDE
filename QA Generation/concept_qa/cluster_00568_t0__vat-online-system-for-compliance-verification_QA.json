@@ -1,0 +1,120 @@
+{
+  "thread_id": "cluster_00568_t0",
+  "cluster_id": 568,
+  "cluster_label": "VAT online system",
+  "title": "VAT Online System for Compliance Verification",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 4,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the compliance requirement for VAT return submission evolved from 2022 to 2024?",
+      "answer": "Initially, under SRO 118-AIN/2022, entities were strictly required to have submitted the VAT return for the month immediately preceding the filing of the Bill of Entry. By 2024, as reflected in SRO 2024, the criteria were expanded to allow for the 'necessary number of returns' in addition to the previous month's return, providing greater flexibility to accommodate diverse business cycles.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What mechanism exists for customs officials to bypass the standard electronic verification requirement when data is unavailable?",
+      "answer": "According to the mandates established in SRO 118-AIN/2022 and maintained through subsequent updates including SRO 2025, if electronic information cannot be accessed due to force majeure or other valid reasons, the Commissioner of Customs is authorized to proceed with customs clearance. However, the Commissioner must record the specific reasons for this exception in each case.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the scope of VAT return verification change in the 2024 policy updates?",
+      "answer": "The scope of verification was expanded in 2024 to include the 'necessary number of returns' alongside the immediate previous month's return to better accommodate diverse business cycles. This shift reflects a more flexible approach to compliance monitoring compared to the stricter requirements set in 2022 and 2023.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_3",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What role does the VAT online system play in the customs clearance process according to the provided timeline?",
+      "answer": "The VAT online system acts as a digital verification mechanism for customs officials to confirm an entity's VAT registration status and its compliance with return filing requirements. Since its implementation in 2022, it has served as a primary source for electronic data alongside the National Board of Revenue and VAT Commissionerate websites to prevent assessment delays.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial importer has been clearing goods since 2022. Under the 2022 and 2023 regulations, the importer was strictly required to show that the VAT return for the month immediately preceding the Bill of Entry was submitted. In mid-2024, the importer faces a situation where their business cycle necessitates a different filing frequency, and they are concerned about whether they must still strictly adhere to the 'previous month' rule or if they have more flexibility.",
+      "question": "How has the compliance requirement for VAT return submission evolved from the 2022/2023 regulations to the 2024 regulations for this importer?",
+      "answer": "While the 2022 and 2023 regulations mandated submission of the VAT return for the month immediately preceding the Bill of Entry, the 2024 regulations expanded this criteria to allow for the 'necessary number of returns' in applicable cases, providing greater flexibility beyond the strictly immediate previous month.",
+      "clauses_involved": [
+        "2022-06-09 | SRO 118-AIN/2022",
+        "2023-06-01 | SRO 2023",
+        "2024-06-06 | SRO 2024"
+      ],
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_3",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "two years later",
+      "question": "Regarding the VAT online system verification requirement established in 2022-06-09, how did the compliance criteria for return filing change two years later?",
+      "answer": "Two years later, in 2024-06-06 (SRO 2024), the compliance criteria were expanded from requiring only the 'previous month's return' to allowing the 'previous month or necessary number of returns' to accommodate diverse business cycles.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_4",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The compliance criteria for import clearance are expanded to include the necessary number of returns in addition to the immediate previous month's return.",
+        "Customs officials are required to verify the thirteen-digit VAT registration and the previous month's VAT return via the VAT online system for goods clearance.",
+        "The requirement for customs officials to verify VAT registration and the previous month's VAT return is explicitly applied to import clearance procedures."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Customs officials are required to verify the thirteen-digit VAT registration and the previous month's VAT return via the VAT online system for goods clearance.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The requirement for customs officials to verify VAT registration and the previous month's VAT return is explicitly applied to import clearance procedures.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The compliance criteria for import clearance are expanded to include the necessary number of returns in addition to the immediate previous month's return.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_6",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_3",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+        "customs_sros_OCR/20230601_121-AIN_2023_165_Customs/20230601_121-AIN_2023_165_Customs_output.json",
+        "customs_sros_OCR/20240606_172-AIN_2024_24_Customs/20240606_172-AIN_2024_24_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00568_t0__vat-online-system-for-compliance-verification.json"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "thread_id": "cluster_00320_t1",
+  "cluster_id": 320,
+  "cluster_label": "duty rates",
+  "title": "Legal Determination of Duty Rates",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A local artisan has carefully packed a shipment of handmade textiles intended for an international buyer. He walks into his local post office, completes the necessary paperwork, and hands the parcel over to the postal clerk to begin its journey abroad. As he prepares to pay the necessary fees, he wonders how the customs authorities will calculate the duty on his shipment.",
+      "question": "Which date determines the applicable rate of Customs Duty for goods exported by post?",
+      "answer": "The applicable rate of Customs Duty is the rate in force on the date the exporter delivers the goods to the postal authorities for export.",
+      "date_or_instrument": "Customs Act, 1969",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A growing manufacturing firm is planning to import a sophisticated new piece of machinery but is confused by the complex tariff schedule and the potential duty burden. They want to ensure their tax planning is accurate and legally binding before the shipment arrives at the port. They are currently looking into which government body has the legal mandate to provide them with an official, binding determination on these classification matters.",
+      "question": "Which authority is empowered to issue a customs ruling regarding tariff classification or duty rates?",
+      "answer": "The National Board of Revenue is empowered to issue customs rulings upon request by a person, a reference from a senior customs officer, or on its own motion.",
+      "date_or_instrument": "Customs Act, 1969 (Section 219A)",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A boutique shop owner has ordered a batch of specialty components from overseas, which have arrived through the international postal service. The postal authorities have notified her that the package is being processed and have presented the required customs declaration to the proper officer for assessment. She needs to understand the specific timeline customs uses to select the duty rate applicable to her incoming goods.",
+      "question": "On what date is the Customs Duty rate determined for goods imported by post?",
+      "answer": "The applicable rate is determined by the rate in effect on the date the declaration or label is presented by postal authorities to the proper officer.",
+      "date_or_instrument": "Customs Act, 1969",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An exporter is finalizing the paperwork for a large container of agricultural products destined for a foreign market. He has just submitted his formal bill of export to the customs office to initiate the clearance process. As he waits for the assessment, he needs to confirm the specific point in time that dictates the duty and exchange rates applied to his transaction.",
+      "question": "How is the applicable rate of duty and the exchange rate for exported goods determined when a bill of export is filed?",
+      "answer": "The applicable rate of duty and the rate of exchange for the computation of value shall be the rates prevailing on the date of the delivery of the bill of export.",
+      "date_or_instrument": "Customs Act, 1969 (Section 31)",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics company recently submitted a formal request to the National Board of Revenue, seeking a definitive ruling on a complex classification issue. However, the Board has reviewed the application and determined that the documentation provided was too vague and lacked the necessary supporting evidence to make an informed decision. The company is now reconsidering their submission, wondering under what specific conditions the Board is permitted to reject such a request.",
+      "question": "Under what circumstances may the Board decline to issue a requested customs ruling?",
+      "answer": "The Board may decline to issue a ruling if the provided information or evidence is insufficient to support the contentions.",
+      "date_or_instrument": "Customs Act, 1969 (Section 219A)",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A bulk commodities trader is preparing to ship a large volume of goods that, due to specific trade exemptions, does not require the filing of a formal bill of export. As the vessel pulls into the harbor and the cranes begin lifting the cargo from the dock, the trader observes the activity closely. He is concerned about the exact moment customs will lock in the duty and exchange rates for this specific type of clearance.",
+      "question": "What date determines the applicable rate of duty when export is permitted without a bill of export?",
+      "answer": "The rate of duty and the exchange rate are determined based on the date on which the loading of the goods onto the outgoing conveyance commences.",
+      "date_or_instrument": "Customs Act, 1969 (Section 31)",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An exporter is shipping goods by post, while another exporter is shipping goods via a standard conveyance requiring a bill of export. Both are trying to determine which date dictates the applicable duty rate for their respective shipments.",
+      "question": "How does the legal determination of the applicable duty rate differ based on the method of export—specifically comparing goods sent by post versus goods requiring a bill of export?",
+      "answer": "For goods exported by post, the applicable rate is the one in force on the date the exporter delivers the goods to the postal authorities. For goods requiring a bill of export, the rate is determined by the date of the delivery of the bill of export, or if permitted without one, the date loading of the goods onto the conveyance commences.",
+      "clauses_involved": [
+        "customs-act-1969-bangla_output.json",
+        "customs-act-1969-english_output.json"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_174",
+        "customs-act-1969-english_8th March, 1969_clause_280",
+        "customs-act-1969-english_8th March, 1969_clause_44"
+      ]
+    }
+  ]
+}

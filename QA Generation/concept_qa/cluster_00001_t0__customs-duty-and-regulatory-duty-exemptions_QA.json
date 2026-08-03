@@ -1,0 +1,462 @@
+{
+  "thread_id": "cluster_00001_t0",
+  "cluster_id": 1,
+  "cluster_label": "goods",
+  "title": "Customs Duty and Regulatory Duty Exemptions",
+  "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json",
+  "source_num_member_objects": 53,
+  "num_qa_pairs": 27,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 6,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 4
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In late 2015, a Bangladeshi industrial manufacturer, Bengal Copper Ltd., is importing various raw copper materials. The customs clearing agent is calculating the newly imposed Regulatory Duty (RD) under a statutory order issued on November 29, 2015. They are importing copper plates under H.S. Code 7409.11.00 and copper tubes under H.S. Code 7411.10.00.",
+      "question": "According to S.R.O. No. 353-AIN/2015/59/Customs, what are the respective Regulatory Duty (RD) rates that must be applied to these imported copper plates and copper tubes?",
+      "answer": "10% for copper plates and 15% for copper tubes.",
+      "date_or_instrument": "S.R.O. No. 353-AIN/2015/59/Customs (2015-11-29)",
+      "clause_text_ids": [
+        "20151129_353-AIN_2015_59-Customs_২৯ নভেম্বর ২০১৫_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20151129_353-AIN_2015_59-Customs/20151129_353-AIN_2015_59-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In mid-2016, Apex Motors Ltd. is establishing a local manufacturing line in Bangladesh to produce motorcycle components. To minimize production costs, the company wants to claim a customs duty exemption on their imported raw materials. They are preparing their customs declaration in accordance with the regulatory framework issued on June 2, 2016.",
+      "question": "Under Clause 8 of S.R.O. No. 155-AIN/2016/17/Customs, what is the threshold above which the applicable import duty is exempt, and what specific form under the Value Added Tax Rules 1991 must they use to make their declaration?",
+      "answer": "Import duty exceeding 5% (five percent) is exempt, and they must declare using the \"Mushak-7\" (মূসক-৭) form.",
+      "date_or_instrument": "S.R.O. No. 155-AIN/2016/17/Customs (2016-06-02)",
+      "clause_text_ids": [
+        "20160602_155-AIN_2016_17-Customs_২ জুন, ২০১৬_clause_9"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_155-AIN_2016_17-Customs/20160602_155-AIN_2016_17-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In June 2017, Bengal Tech Industries plans to set up a domestic computer manufacturing facility in Dhaka. They wish to import essential components listed in the First Schedule of the Customs Act, 1969. The management team is reviewing S.R.O. No. 131-AIN/2017/17/Customs to calculate their potential tax and duty liabilities.",
+      "question": "Under S.R.O. No. 131-AIN/2017/17/Customs, what is the maximum rate of import duty they are liable to pay on these components, and what other specific duties or taxes are fully exempted under this framework?",
+      "answer": "The import duty is limited to 1% (any amount exceeding 1% is exempt), and they are fully exempt from all regulatory duty, value-added tax (VAT), and supplementary duty (if any).",
+      "date_or_instrument": "S.R.O. No. 131-AIN/2017/17/Customs (2017-06-01)",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In late 2017, a VAT-registered ceramic ware manufacturing company in Chittagong is importing specialized silk screens. The customs officer is reviewing the shipment under Heading 55.12, specifically H.S. Code 5512.19.10, which was recently updated by an amendment.",
+      "question": "According to S.R.O. No. 135-AIN/2017, which inserted this entry into Table-5, what are the applicable Customs Duty (CD) and Supplementary Duty (SD) rates for silk screens imported by VAT-registered ceramic ware manufacturers under H.S. Code 5512.19.10?",
+      "answer": "Customs Duty (CD) of 25% and Supplementary Duty (SD) of 0%.",
+      "date_or_instrument": "S.R.O. No. 135-AIN/2017 (2017-06-01)",
+      "clause_text_ids": [
+        "20170601_135-AIN__2017-06-01_clause_5"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_135-AIN_/20170601_135-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In August 2017, a commercial importer is bringing in a consignment of boulder stones under H.S. Code 2516.90.10 and sandstone under H.S. Code 2516.20.00. The customs assessment officer refers to the regulatory duty structure established under Section 18(2) of the Customs Act, 1969, specifically looking at S.R.O. No. 157-AIN/2017/43/Customs.",
+      "question": "What are the specific Regulatory Duty (RD) rates that the officer must apply to the sandstone and the boulder stones under S.R.O. No. 157-AIN/2017/43/Customs?",
+      "answer": "20% for sandstone and 15% for boulder stone.",
+      "date_or_instrument": "S.R.O. No. 157-AIN/2017/43/Customs (2017-06-01)",
+      "clause_text_ids": [
+        "20170601_157-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_157-AIN_/20170601_157-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A local food processing company, Dhaka Dairy & Foods, is importing bulk milk powder in late 2018. The consignment contains milk and cream in powder with a fat content by weight not exceeding 1.5%, packed in bulk (exceeding 2.5 kg). The company is registered with the VAT department and is trying to clear the customs under H.S. Code 0402.10.91.",
+      "question": "Based on Table-2 as substituted by S.R.O. No. 193-AIN/2018/32/Customs, what are the applicable Customs Duty (CD) and Supplementary Duty (SD) rates for this specific import?",
+      "answer": "Customs Duty (CD) is 5% and Supplementary Duty (SD) is 0%.",
+      "date_or_instrument": "S.R.O. No. 193-AIN/2018/32/Customs (2018-07-26)",
+      "clause_text_ids": [
+        "20180726_193-AIN_2018_32_Customs_২৬ জুন, ২০১৮_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20180726_193-AIN_2018_32_Customs/20180726_193-AIN_2018_32_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which statutory notification was repealed on June 1, 2017, by S.R.O. No. 128-AIN/2017/14/Customs regarding import duty exemptions on machinery and parts?",
+      "options": [
+        "S.R.O. No. 135-AIN/2012/15/Customs dated June 4, 2012",
+        "S.R.O. No. 176-AIN/2012/2404/Customs dated June 7, 2012",
+        "S.R.O. No. 145-AIN/2014/2508/Customs dated June 12, 2014",
+        "S.R.O. No. 32-AIN/2016/02/Customs dated February 15, 2016"
+      ],
+      "answer_index": 0,
+      "answer": "S.R.O. No. 135-AIN/2012/15/Customs dated June 4, 2012",
+      "explanation": "According to Clause [16], S.R.O. No. 128-AIN/2017/14/Customs, published on June 1, 2017, repealed S.R.O. No. 135-AIN/2012/15/Customs, which was originally issued on June 4, 2012 (২১ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ মোতাবেক ৪ জুন, ২০১২ খ্রিস্টাব্দ).",
+      "clause_text_ids": [
+        "20170601_128-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_128-AIN_/20170601_128-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under S.R.O. No. 171-AIN/2016/33/Customs, which H.S. Code replaced '8537.10.90' for Heading 85.37 in the tables of S.R.O. No. 150-AIN/2013/2437/Customs?",
+      "options": [
+        "8537.10.91",
+        "8537.10.95",
+        "8537.10.99",
+        "8537.20.90"
+      ],
+      "answer_index": 2,
+      "answer": "8537.10.99",
+      "explanation": "Clause [14] states that S.R.O. No. 171-AIN/2016/33/Customs amended S.R.O. No. 150-AIN/2013/2437/Customs (dated June 6, 2013) by substituting H.S. Code '8537.10.99' in place of '8537.10.90' under Heading 85.37.",
+      "clause_text_ids": [
+        "20160602_171-AIN_2016_33-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_171-AIN_2016_33-Customs/20160602_171-AIN_2016_33-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which historical SRO, originally issued on November 28, 1995, was amended on May 28, 2014, by S.R.O. No. 65-AIN/2014/2477/Customs to replace references of 'products' with 'services and products'?",
+      "options": [
+        "S.R.O. No. 105-AIN/99/1784/Customs",
+        "S.R.O. No. 202-AIN/95/1639/CUS",
+        "S.R.O. No. 117-AIN/2006/2109/Customs",
+        "S.R.O. No. 172-AIN/2008/2200/Customs"
+      ],
+      "answer_index": 1,
+      "answer": "S.R.O. No. 202-AIN/95/1639/CUS",
+      "explanation": "Clause [5] states that S.R.O. No. 65-AIN/2014/2477/Customs, issued on May 28, 2014, amended S.R.O. No. 202-AIN/95/1639/CUS (originally issued on November 28, 1995) to replace the term 'products' with 'services and products' (সেবা ও পণ্যসমূহ).",
+      "clause_text_ids": [
+        "20140528_65-AIN_2014_2477-Customs_এপ্রিল ২৩, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140528_65-AIN_2014_2477-Customs/20140528_65-AIN_2014_2477-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under S.R.O. No. 131-AIN/2017/17/Customs, what is the maximum threshold of import duty above which local computer manufacturers are exempt from paying the excess?",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "5%"
+      ],
+      "answer_index": 0,
+      "answer": "1%",
+      "explanation": "Clause [17] states that S.R.O. No. 131-AIN/2017/17/Customs, issued on June 1, 2017, exempts local computer manufacturers from import duty exceeding 1% (১%), along with exemptions from all regulatory duties, VAT, and supplementary duties.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which SRO was repealed on June 2, 2016, by S.R.O. No. 160-AIN/2016/22/Customs?",
+      "options": [
+        "S.R.O. No. 145-AIN/2014/2508/Customs",
+        "S.R.O. No. 135-AIN/2012/15/Customs",
+        "S.R.O. No. 172-AIN/2008/2200/Customs",
+        "S.R.O. No. 32-AIN/2016/02/Customs"
+      ],
+      "answer_index": 0,
+      "answer": "S.R.O. No. 145-AIN/2014/2508/Customs",
+      "explanation": "Clause [13] shows that S.R.O. No. 160-AIN/2016/22/Customs, issued on June 2, 2016, repealed S.R.O. No. 145-AIN/2014/2508/Customs, which was originally issued on June 12, 2014.",
+      "clause_text_ids": [
+        "20160602_160-AIN_2016_22-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_160-AIN_2016_22-Customs/20160602_160-AIN_2016_22-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "On June 7, 2018, S.R.O. No. 159-AIN/2018/25/Customs amended which previous SRO's Table-II?",
+      "options": [
+        "S.R.O. No. 215-AIN/2015/52/Customs",
+        "S.R.O. No. 353-AIN/2015/59/Customs",
+        "S.R.O. No. 219-AIN/2017/57/Customs",
+        "S.R.O. No. 157-AIN/2017/43/Customs"
+      ],
+      "answer_index": 2,
+      "answer": "S.R.O. No. 219-AIN/2017/57/Customs",
+      "explanation": "Clause [22] states that S.R.O. No. 159-AIN/2018/25/Customs, issued on June 7, 2018, amended S.R.O. No. 219-AIN/2017/57/Customs (dated July 1, 2017) by replacing Table-II.",
+      "clause_text_ids": [
+        "20180607_159-AIN_2018_26_Customs_২৯ মে, ২০১৮_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20180607_159-AIN_2018_26_Customs/20180607_159-AIN_2018_26_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the government modify the regulatory duty structure for agricultural and starch products under SRO 159-AIN/2018/25/Customs relative to the framework established in SRO 219-AIN/2017/57/Customs?",
+      "answer": "SRO 159-AIN/2018/25/Customs, issued on June 7, 2018, exercised powers under Section 18(2) of the Customs Act 1969 to amend SRO 219-AIN/2017/57/Customs (originally issued on July 1, 2017). Specifically, it substituted Table-II under serial number (63) of the 2017 SRO with a new Table-II. This update established a 10% Regulatory Duty (RD) rate on cereal flours other than wheat or meslin (Heading 11.02, All H.S. Codes) and on starches (Heading 11.08, All H.S. Codes except 1108.20.00).",
+      "clause_text_ids": [
+        "20170701_219-AIN__01 July, 2017_clause_1",
+        "20180607_159-AIN_2018_26_Customs_২৯ মে, ২০১৮_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170701_219-AIN_/20170701_219-AIN__output.json",
+        "customs_sros_OCR/20180607_159-AIN_2018_26_Customs/20180607_159-AIN_2018_26_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Under SRO 131-AIN/2017/17/Customs, what specific fiscal incentives and duty thresholds were introduced to promote the local manufacturing of computers?",
+      "answer": "SRO 131-AIN/2017/17/Customs, issued on June 1, 2017, provided that for the purpose of local computer manufacturing, the import of specified goods, H.S. Codes, and headings listed in its table would be exempted from all regulatory duties, value-added tax (VAT), and supplementary duties (if any). Furthermore, any import duty exceeding a value-based rate of 1% was exempted, subject to specified compliance conditions.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "How did SRO 171-AIN/2016/33/Customs update the H.S. Code classification for goods under Heading 85.37 that were previously exempted under SRO 150-AIN/2013/2437/Customs?",
+      "answer": "SRO 171-AIN/2016/33/Customs, issued on June 2, 2016, amended the earlier SRO 150-AIN/2013/2437/Customs (issued on June 6, 2013). The amendment specifically targeted Heading 85.37 in the exemption table, replacing the previous H.S. Code '8537.10.90' with the updated classification H.S. Code '8537.10.99' to redefine which electrical control goods qualify for the exemptions.",
+      "clause_text_ids": [
+        "20160602_171-AIN_2016_33-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_171-AIN_2016_33-Customs/20160602_171-AIN_2016_33-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Analyze the regulatory duty rates imposed on copper products on November 29, 2015, under SRO 353-AIN/2015/59/Customs. Which products were targeted and at what rates?",
+      "answer": "SRO 353-AIN/2015/59/Customs, issued under Section 18(2) of the Customs Act 1969, targeted three specific copper products with regulatory duties: Copper bars under H.S. Code 7407.10.00 (Heading 74.07) were subjected to a 15% RD rate; copper plates under H.S. Code 7409.11.00 (Heading 74.09) were subjected to a 10% RD rate; and copper tubes under H.S. Code 7411.10.00 (Heading 74.11) were subjected to a 15% RD rate.",
+      "clause_text_ids": [
+        "20151129_353-AIN_2015_59-Customs_২৯ নভেম্বর ২০১৫_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20151129_353-AIN_2015_59-Customs/20151129_353-AIN_2015_59-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way did SRO 128-AIN/2017/14/Customs shift the regulatory framework for machinery and parts exemptions that had been in place since 2012?",
+      "answer": "SRO 128-AIN/2017/14/Customs, issued on June 1, 2017, completely rescinded SRO 135-AIN/2012/15/Customs (originally issued on June 4, 2012). It established a newly updated table of Headings and H.S. Codes under the First Schedule of the Customs Act 1969 to govern exemptions on import duties, value-added tax, and supplementary duties for machinery and parts.",
+      "clause_text_ids": [
+        "20170601_128-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_128-AIN_/20170601_128-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "How did SRO 65-AIN/2014/2477/Customs expand the scope of the tax exemption regime originally established in 1995 under SRO 202-AIN/95/1639/CUS?",
+      "answer": "SRO 65-AIN/2014/2477/Customs, issued on May 28, 2014, amended the 1995 SRO by explicitly expanding the scope of exemptions to include services alongside goods. It replaced the phrase 'following goods' (নিম্নে উল্লিখিত পণ্যসমূহ) with 'following services and goods' (নিম্নবর্ণিত সেবা ও পণ্যসমূহ) and substituted the title 'Exempted Goods' (মওকুফকৃত পণ্যসমূহ) with 'Exempted Services and Goods' (মওকুফকৃত সেবা ও পণ্যসমূহ).",
+      "clause_text_ids": [
+        "20140528_65-AIN_2014_2477-Customs_এপ্রিল ২৩, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140528_65-AIN_2014_2477-Customs/20140528_65-AIN_2014_2477-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In an effort to boost local high-tech industries, the government issued S.R.O. 131-AIN/2017 on June 1, 2017. This statutory order provided significant tax relief for local computer manufacturing, granting exemptions on regulatory duties, VAT, and supplementary duties, while capping the maximum payable import duty by exempting any amount exceeding 5% (five percent) of the value-based rate.",
+      "question": "According to the official statutory text of S.R.O. 131-AIN/2017, what is the actual percentage threshold above which the import duty is exempted for materials used in local computer manufacturing?",
+      "conflict": "The misaligned context states that the import duty exceeding 5% is exempt, whereas the actual statutory order (S.R.O. 131-AIN/2017) exempts import duty exceeding 1% (one percent).",
+      "answer": "According to Clause [17], S.R.O. 131-AIN/2017 specifies that the exemption applies to import duties that exceed 1% (one percent) of the value-based rate (g–j¨wfwËK 1% Gi AwZwi³ nq), not 5%.",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "On June 9, 2011, the government issued S.R.O. 157-AIN/2011 to reform the duty structures on imported machinery and parts. The notification stated that importers would receive an exemption on any import duty exceeding 10% of the value-based rate, and it fully repealed S.R.O. 105-AIN/99.",
+      "question": "Based on the official 2011 timeline, what is the correct value-based percentage threshold above which import duties are exempted under S.R.O. 157-AIN/2011, and which previous S.R.O. did it actually repeal?",
+      "conflict": "The misaligned context claims the exemption threshold is 10% and that it repealed S.R.O. 105-AIN/99. The true text states the threshold is 3% and that it repealed S.R.O. 171-AIN/2008 (dated June 26, 2008).",
+      "answer": "According to Clause [1], the correct value-based threshold for import duty exemption under S.R.O. 157-AIN/2011 is 3% (exemption is granted for the amount exceeding 3%). Furthermore, this S.R.O. repealed S.R.O. 171-AIN/2008 (dated June 26, 2008), not S.R.O. 105-AIN/99.",
+      "clause_text_ids": [
+        "20110609_157-AIN_2011_2343-Customs_2011-06-09_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_157-AIN_2011_2343-Customs/20110609_157-AIN_2011_2343-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer of animal feed and veterinary products has been tracking customs duty exemptions under SRO 178-AIN/2012 (issued on June 7, 2012). On June 6, 2013, the government issued two notifications: SRO 147-AIN/2013 (which repealed SRO 172-AIN/2008) and SRO 165-AIN/2013.",
+      "question": "How did SRO 165-AIN/2013 update the framework of SRO 178-AIN/2012 to align with the newly introduced animal feed and veterinary products exemption under SRO 147-AIN/2013?",
+      "answer": "SRO 165-AIN/2013 replaced clause (12) of SRO 178-AIN/2012 to specify that it now applies to goods exempted from import duty under the newly issued SRO 147-AIN/2013 (dated 06/06/2013).",
+      "clauses_involved": [
+        "S.R.O. 147-AIN/2013 (2013-06-06)",
+        "S.R.O. 165-AIN/2013 (2013-06-06)"
+      ],
+      "clause_text_ids": [
+        "20130606_147-AIN_2013_2434-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20130606_165-AIN_2013_2452-Customs_২০১৩-০৬-০৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20130606_147-AIN_2013_2434-Customs/20130606_147-AIN_2013_2434-Customs_output.json",
+        "customs_sros_OCR/20130606_165-AIN_2013_2452-Customs/20130606_165-AIN_2013_2452-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A business imports starches and cereal flours under the regulatory duty (RD) framework established on July 1, 2017, via SRO 219-AIN/2017. On June 7, 2018, the government issued SRO 159-AIN/2018.",
+      "question": "What specific structural change did SRO 159-AIN/2018 make to SRO 219-AIN/2017, and what are the resulting RD rates for cereal flours (excluding wheat or meslin) and starches (excluding H.S. Code 1108.20.00)?",
+      "answer": "SRO 159-AIN/2018 replaced TABLE-II under serial (63) of SRO 219-AIN/2017. The resulting RD rate is 10% for cereal flours other than of wheat or meslin (Heading 11.02, All H.S. Codes) and 10% for starches other than H.S. Code 1108.20.00 (Heading 11.08, All H.S. Codes).",
+      "clauses_involved": [
+        "S.R.O. 219-AIN/2017 (2017-07-01)",
+        "S.R.O. 159-AIN/2018 (2018-06-07)"
+      ],
+      "clause_text_ids": [
+        "20170701_219-AIN__01 July, 2017_clause_1",
+        "20180607_159-AIN_2018_26_Customs_২৯ মে, ২০১৮_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170701_219-AIN_/20170701_219-AIN__output.json",
+        "customs_sros_OCR/20180607_159-AIN_2018_26_Customs/20180607_159-AIN_2018_26_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "June 10, 2010",
+      "relative_offset": "seven years later",
+      "question": "Seven years after the initial framework for duty exemptions on specific machinery was established on June 10, 2010, the government issued a new SRO on June 1, 2017, targeting local computer manufacturing. What is the number of this 2017 SRO, and what is the threshold rate above which import duties are exempted?",
+      "answer": "Seven years later, on June 1, 2017, the government issued S.R.O. No. 131-AIN/2017/17/Customs. Under this instrument, for local computer manufacturing, an exemption is granted on the import of specified goods from import duties that exceed 1% (one percent) ad valorem, alongside a full exemption of regulatory duties, value-added tax, and supplementary duties (if any).",
+      "clause_text_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "June 9, 2011",
+      "relative_offset": "five years later",
+      "question": "Five years after S.R.O. No. 157-AIN/2011/2343/Customs was issued on June 9, 2011, the government published a new SRO on June 2, 2016, which amended a previous 2013 notification (S.R.O. No. 150-AIN/2013/2437/Customs). What is the number of this 2016 SRO, and what specific H.S. Code substitution does it make for Heading 85.37?",
+      "answer": "Five years later, on June 2, 2016, the government issued S.R.O. No. 171-AIN/2016/33/Customs. This order amended S.R.O. No. 150-AIN/2013/2437/Customs by replacing the H.S. Code '8537.10.90' with '8537.10.99' under Heading 85.37.",
+      "clause_text_ids": [
+        "20160602_171-AIN_2016_33-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_171-AIN_2016_33-Customs/20160602_171-AIN_2016_33-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "June 6, 2013",
+      "relative_offset": "two years later",
+      "question": "Two years after S.R.O. No. 147-AIN/2013/2434/Customs was issued on June 6, 2013, the government issued another SRO on June 4, 2015, which amended S.R.O. No. 343-AIN/2013/2466/Customs. What is the number of this 2015 SRO, and what is the H.S. Code and description of the goods listed under Heading 28.40 in its substituted Table?",
+      "answer": "Two years later, on June 4, 2015, the government issued S.R.O. No. 155-AIN/2015/35/Customs. Its substituted Table lists H.S. Code '2840.20.10' with the description 'Disodium octaborate tetrahydrate' under Heading 28.40.",
+      "clause_text_ids": [
+        "20150604_155-AIN_2015_35-Customs_2015-06-04_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20150604_155-AIN_2015_35-Customs/20150604_155-AIN_2015_35-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "July 1, 2017",
+      "relative_offset": "one year later",
+      "question": "One year after the government issued S.R.O. No. 219-AIN/2017/57/Customs on July 1, 2017, they amended it with a new SRO on June 7, 2018. What is the number of this 2018 SRO, and what is the Regulatory Duty (RD) rate specified in its substituted TABLE-II for 'Starches' under Heading 11.08?",
+      "answer": "One year later, on June 7, 2018, the government issued S.R.O. No. 159-AIN/2018/25/Customs. In its substituted TABLE-II, the Regulatory Duty (RD) rate for 'Starches' under Heading 11.08 (excluding 1108.20.00) is set at 10%.",
+      "clause_text_ids": [
+        "20180607_159-AIN_2018_26_Customs_২৯ মে, ২০১৮_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20180607_159-AIN_2018_26_Customs/20180607_159-AIN_2018_26_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government introduced specific duty exemptions for local cellular phone manufacturing.",
+        "The government established the framework for duty exemptions on specific machinery and equipment.",
+        "The government adjusted duty rates from 3% to 2% for specific goods.",
+        "The government implemented a conditional exemption framework for goods exceeding 5% duty."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government established the framework for duty exemptions on specific machinery and equipment.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The government adjusted duty rates from 3% to 2% for specific goods.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The government implemented a conditional exemption framework for goods exceeding 5% duty.",
+          "date": "2015-06-04"
+        },
+        {
+          "event": "The government introduced specific duty exemptions for local cellular phone manufacturing.",
+          "date": "2017-06-01"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_176-AIN_2010_2294-Customs_১০ জুন, ২০১০_clause_1",
+        "20130606_147-AIN_2013_2434-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20150604_136-AIN_2015_16-Customs_৪ জুন, ২০১৫_clause_1",
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_176-AIN_2010_2294-Customs/20100610_176-AIN_2010_2294-Customs_output.json",
+        "customs_sros_OCR/20130606_147-AIN_2013_2434-Customs/20130606_147-AIN_2013_2434-Customs_output.json",
+        "customs_sros_OCR/20150604_136-AIN_2015_16-Customs/20150604_136-AIN_2015_16-Customs_output.json",
+        "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00001_t0__customs-duty-and-regulatory-duty-exemptions.json"
+    }
+  ]
+}

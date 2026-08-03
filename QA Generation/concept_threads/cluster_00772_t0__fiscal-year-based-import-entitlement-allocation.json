@@ -1,0 +1,263 @@
+{
+  "cluster_id": 772,
+  "cluster_label": "fiscal year",
+  "thread_index": 0,
+  "thread_id": "cluster_00772_t0",
+  "title": "Fiscal Year-Based Import Entitlement Allocation",
+  "summary": "This thread tracks the NBR's administrative process of setting annual import entitlements for bonded warehouse entities under Section 13(2) of the Customs Act, 1969. The evolution reflects the transition from generic fiscal year references to specific, entity-linked annual quota determinations.",
+  "evolution": {
+    "scope": "Shifted from general regulatory implementation to specific, entity-based annual financial quota management."
+  },
+  "timeline": [
+    {
+      "date": "2022-05-23",
+      "instrument": "NBR Directive",
+      "change": "Initial formalization of specific fiscal year (2021-2022) import entitlement for a duty-free shop.",
+      "clause_ids": [
+        "20220523_২২ মে, ২০২২_clause_1"
+      ]
+    },
+    {
+      "date": "2022-06-02",
+      "instrument": "NBR Directive",
+      "change": "Application of the fiscal year entitlement model to diplomatic bonded warehouses for 2022-2023.",
+      "clause_ids": [
+        "20220602_২৬ মে, ২০২২_clause_1"
+      ]
+    },
+    {
+      "date": "2022-06-06",
+      "instrument": "NBR Directive",
+      "change": "Continued application of the fiscal year entitlement model to a different diplomatic bonded warehouse for 2022-2023.",
+      "clause_ids": [
+        "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1"
+      ]
+    }
+  ],
+  "num_member_objects": 3,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20220523_২২ মে, ২০২২_clause_1",
+      "resolved_text": "নং-০৯/২০২২/কাস্টমস/বন্ড। The Customs Act, 1969 (Act-IV of 1969) এর Section-13(2) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ড কর্তৃক হযরত শাহ্-আমানত আন্তর্জাতিক বিমানবন্দর, চট্টগ্রাম এ অবস্থিত মেসার্স বেলাজিও লিমিটেড (বন্ড লাইসেন্স নং- ৫(১৩)কাবক/চট্টগ্রাম/বন্ড(শুল্ক বিপনী)/লাইঃ/০২/২০১৯, তারিখ: ১৩.০২.২০১৯ খ্রি:) নামীয় শুল্কমুক্ত বিপনীর অনুকূলে ২০২১-২০২২ অর্থবছরের জন্য নিম্নবর্ণিত আমদানি প্রাপ্যতা নির্ধারণ করিল, যথা: \n| ক্র.নং | আমদানিকৃত পণ্য | ২০২১-২০২২ অর্থবছরের জন্য সুপারিশ (মার্কিন ডলার) |\n| --- | --- | --- |\n| ১. | Cigarettes & Tobacco | ১,২৫,০০০.০০ |\n| ২. | Alcoholic Beverage (Liquor, Beer, Wine) | ২৮,০০০.০০ |\n| ৩. | Cosmetic and Toiletries | ৫০,০০০.০০ |\n| ৪. | Beverage (Non-alcoholic), Confectionary, Electronics, Gift Item. | ৫০,০০০.০০ |\n|  | সর্বমোট | ২,৫০,০০০.০০ দুই লক্ষ পঞ্চাশ হাজার মা. ডলার |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 13(2) of this Act provides the legal authority for the National Board of Revenue to determine import eligibility for duty-free shops."
+        ],
+        "National Board of Revenue": [
+          "The board is empowered to set annual import quotas for authorized duty-free establishments operating at international airports."
+        ],
+        "Duty-Free Shop": [
+          "The operational authority is granted to a specific entity in Chittagong to import a defined total value of goods for the specified fiscal year under its bonded license."
+        ],
+        "Cigarettes and Tobacco": [
+          "This category of goods is included in the annual import quota allowance for the duty-free shop."
+        ],
+        "Alcoholic Beverages": [
+          "The import quota includes a specific allocation for alcoholic beverages, including liquor, beer, and wine, for the fiscal year."
+        ],
+        "Cosmetic and Toiletries": [
+          "These items are part of the authorized import list permitted for the duty-free shop under the current fiscal year's allocation."
+        ],
+        "Electronic": [
+          "Electronics are categorized within the miscellaneous import allocation permitted for the duty-free shop."
+        ],
+        "Gift Items": [
+          "Gift items are included in the permitted import categories for the duty-free shop's annual quota."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_659",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 13(2)",
+          "National Board of Revenue",
+          "import eligibility",
+          "duty-free shops"
+        ],
+        "National Board of Revenue": [
+          "annual import quotas",
+          "authorized duty-free establishments",
+          "international airports"
+        ],
+        "Duty-Free Shop": [
+          "entity in Chittagong",
+          "total value of goods",
+          "fiscal year",
+          "bonded license"
+        ],
+        "Cigarettes and Tobacco": [
+          "goods",
+          "annual import quota allowance"
+        ],
+        "Alcoholic Beverages": [
+          "import quota",
+          "liquor",
+          "beer",
+          "wine",
+          "fiscal year"
+        ],
+        "Cosmetic and Toiletries": [
+          "authorized import list",
+          "fiscal year's allocation"
+        ],
+        "Electronic": [
+          "Electronics",
+          "miscellaneous import allocation"
+        ],
+        "Gift Items": [
+          "permitted import categories",
+          "annual quota"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        621,
+        772,
+        1044,
+        1393,
+        1675,
+        1707,
+        2019,
+        2456,
+        2688,
+        3051,
+        3514,
+        3882,
+        4228,
+        5517,
+        5529,
+        5782,
+        5807,
+        6041,
+        6350,
+        6744,
+        7752,
+        8158,
+        8859,
+        9897,
+        10616,
+        12874,
+        13396
+      ],
+      "source_file": "customs_gos_OCR/20220523/20220523_output.json",
+      "clause_date": "2022-05-23"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20220602_২৬ মে, ২০২২_clause_1",
+      "resolved_text": "নং-২৪/২০২২/কাস্টমস/১৮৩। The Customs Act, 1969 (Act-IV of 1969) এর Section-13(2) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ড ডিপ্লোমেটিক বন্ডেড ওয়্যারহাউজ প্রতিষ্ঠান মেসার্স ইস্টার্ন ডিপ্লোমেটিক সার্ভিসেস লি: (বন্ড লাইসেন্স নং-১২৫/কাস/এসবিডব্লিউ/১৯৮৪, তারিখ: ০২/০৮/১৯৮৪ খ্রি:) এর অনুকূলে ২০২২-২০২৩ অর্থবছরের বার্ষিক আমদানি প্রাপ্যতা নিম্নরূপে নির্ধারণ করিল, যথা: \n| ক্র.নং | প্রতিষ্ঠানের নাম | নির্ধারিত আমদানি প্রাপ্যতার পরিমাণ |\n| --- | --- | --- |\n| ১. | মেসার্স ইস্টার্ন ডিপ্লোমেটিক সার্ভিসেস লি: | মার্কিন ডলার ১১.০৭ লক্ষ (এগার লক্ষ সাত হাজার) |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 13(2) of this Act provides the legal authority for the National Board of Revenue to regulate the annual import entitlements for bonded warehouse establishments."
+        ],
+        "National Board of Revenue": [
+          "The board is the authority responsible for setting and authorizing the annual import quotas for diplomatic bonded warehouse facilities under the powers granted by the Customs Act."
+        ],
+        "Diplomatic Bonded Warehouse": [
+          "The establishment known as Eastern Diplomatic Services Ltd is a diplomatic bonded warehouse operator authorized to import goods under a specific annual limit for the designated fiscal year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_660",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 13(2)",
+          "National Board of Revenue",
+          "annual import entitlements",
+          "bonded warehouse establishments"
+        ],
+        "National Board of Revenue": [
+          "annual import quotas",
+          "diplomatic bonded warehouse facilities",
+          "Customs Act"
+        ],
+        "Diplomatic Bonded Warehouse": [
+          "Eastern Diplomatic Services Ltd",
+          "goods",
+          "annual limit",
+          "fiscal year"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        37,
+        772,
+        2007,
+        2455,
+        2456,
+        3051,
+        3538,
+        5522,
+        7342,
+        7591
+      ],
+      "source_file": "customs_gos_OCR/20220602/20220602_output.json",
+      "clause_date": "2022-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20220606_২৬ মে, ২০২২ খ্রিঃ_clause_1",
+      "resolved_text": "নং-২২/২০২২/কাস্টমস/১৮১। The Customs Act, 1969 (Act-IV of 1969) এর Section-13(2) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ড ডিপ্লোমেটিক বন্ডেড ওয়্যারহাউজ প্রতিষ্ঠান মেসার্স সাবের ট্রেডার্স লি: (বন্ড লাইসেন্স নং-৪/কাস/এসবিলিউ/১৯৮২, তারিখ: ১৬/০২/১৯৮২ খ্রি:) এর অনুকূলে ২০২২-২০২৩ অর্থবছরের বার্ষিক আমদানি প্রাপ্যতা নিম্নরূপে নির্ধারণ করিল, যথা:\n\n| ক্র.নং | প্রতিষ্ঠানের নাম | নির্ধারিত আমদানি প্রাপ্যতার পরিমাণ |\n| --- | --- | --- |\n| ১. | মেসার্স সাবের ট্রেডার্স লি: | মার্কিন ডলার ১২.৪৫ লক্ষ (বার লক্ষ পঁয়তাল্লিশ হাজার) |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 13(2) of this Act grants the National Board of Revenue the authority to determine and approve annual import entitlements for bonded warehouse establishments."
+        ],
+        "National Board of Revenue": [
+          "The Board is the regulatory body authorized to issue specific annual import entitlements to licensed bonded warehouse operations."
+        ],
+        "Bonded Warehouse Operation": [
+          "This standing order defines the annual import entitlement for a specific diplomatic bonded warehouse facility for the upcoming fiscal year. The operator is limited to an annual import value as set forth in the current regulatory determination."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_662",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 13(2)",
+          "National Board of Revenue",
+          "annual import entitlements",
+          "bonded warehouse establishments"
+        ],
+        "National Board of Revenue": [
+          "annual import entitlements",
+          "licensed bonded warehouse operations"
+        ],
+        "Bonded Warehouse Operation": [
+          "annual import entitlement",
+          "diplomatic bonded warehouse facility",
+          "fiscal year",
+          "annual import value",
+          "regulatory determination"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        61,
+        540,
+        772,
+        2455,
+        3051,
+        3538,
+        7343,
+        9475,
+        11359
+      ],
+      "source_file": "customs_gos_OCR/20220606/20220606_output.json",
+      "clause_date": "2022-06-06"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

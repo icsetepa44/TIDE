@@ -1,0 +1,102 @@
+{
+  "thread_id": "cluster_00751_t2",
+  "cluster_id": 751,
+  "cluster_label": "Bangladesh Export Processing Zones Authority",
+  "title": "Administrative Licensing and Relocation Procedures",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to the regulations formalized on June 6, 2024, what document is mandatory for a factory to submit when applying for final factory relocation approval?",
+      "options": [
+        "A bank statement from the last five years",
+        "A copy of the updated registration certificate",
+        "A certificate of environmental clearance",
+        "A letter of recommendation from the local chamber of commerce"
+      ],
+      "answer_index": 1,
+      "answer": "A copy of the updated registration certificate",
+      "explanation": "The source 20240606_209-AIN_2024_61_Customs_output specifies that a copy of the updated registration certificate is required to be submitted when applying for final factory relocation approval.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_19",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the provisions introduced on 2024-06-06 regarding ownership changes, what must new owners execute following the approval of an ownership transfer?",
+      "options": [
+        "A new import license",
+        "A general bond in accordance with the 2024 rules",
+        "A tax clearance certificate from the previous decade",
+        "A mandatory factory layout redesign"
+      ],
+      "answer_index": 1,
+      "answer": "A general bond in accordance with the 2024 rules",
+      "explanation": "As per the 2024-06-06 instrument (209-AIN_2024_61), once an ownership transfer is approved, new owners are required to execute a general bond in accordance with the General Bond Rules 2024.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_19",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which entities are explicitly identified as regulatory bodies whose permission letters may be required for factory relocation as of the June 6, 2024, policy update?",
+      "options": [
+        "The Ministry of Finance and the Central Bank",
+        "BEZA and BEPZA",
+        "The Department of Environment and the Fire Service",
+        "The Customs Intelligence and the Board of Investment"
+      ],
+      "answer_index": 1,
+      "answer": "BEZA and BEPZA",
+      "explanation": "The 2024-06-06 instrument (209-AIN_2024_61) explicitly lists Bangladesh Economic Zones Authority (BEZA) or Bangladesh Export Processing Zones Authority (BEPZA) as bodies whose permission letters are required for factory relocation.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_19",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Following the approval of a temporary factory relocation as per the June 6, 2024, guidelines, what is the timeframe provided for the subsequent action?",
+      "options": [
+        "Within 15 days",
+        "Within 30 days",
+        "Within 2 months",
+        "Within 6 months"
+      ],
+      "answer_index": 2,
+      "answer": "Within 2 months",
+      "explanation": "Clause 19(2) of the 2024-06-06 instrument (209-AIN_2024_61) states that the factory must complete the necessary actions within 2 months of receiving the temporary relocation approval.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_19",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A factory operating within a Bangladesh Export Processing Zone (BEPZA) is undergoing both a physical relocation to a new site and a simultaneous change in its board of directors. The management is preparing the documentation required for the Customs Licensing Authority to ensure compliance with the 2024 regulatory framework.",
+      "question": "Regarding the documentation requirements for these two distinct processes, what specific document must be submitted for the factory relocation that is not explicitly mandated for the ownership transfer process under the 2024 rules?",
+      "answer": "For factory relocation, the entity must submit a copy of the updated registration certificate, whereas the ownership transfer process focuses on audit status, liability clearance, and the execution of a new general bond under the General Bond Rules 2024.",
+      "clauses_involved": [
+        "2024-06-06_209-AIN_2024_61_Customs_output_Clause_19",
+        "2024-06-06_209-AIN_2024_61_Customs_output_Clause_20"
+      ],
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_19",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    }
+  ]
+}

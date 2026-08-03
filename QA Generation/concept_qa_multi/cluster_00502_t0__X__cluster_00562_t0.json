@@ -1,0 +1,43 @@
+{
+  "group_id": "cluster_00502_t0__X__cluster_00562_t0",
+  "entities": [
+    "sections",
+    "Second Schedule"
+  ],
+  "cluster_ids": [
+    502,
+    562
+  ],
+  "thread_ids": [
+    "cluster_00502_t0",
+    "cluster_00562_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the Customs Act, 2023 provisions for 'sections' and the 'Second Schedule' interact in the context of the regulatory framework established by S.R.O. No. 234-Law/2025/56/Customs?",
+      "answer": "Under the Customs Act, 2023, the regulatory framework is established by exercising powers under section 263, which is read in conjunction with specific serial numbers (7, 11, 32, 35) of the Second Schedule, as referenced in metadata_2 [1].",
+      "entities_involved": [
+        "sections",
+        "Second Schedule"
+      ],
+      "clause_text_ids": [
+        "metadata_2"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "Which legal sections of the Customs Act, 2023 are applied alongside the Second Schedule in the issuance of S.R.O. No. 205-Law/2024/57/Customs?",
+      "answer": "The issuance of this S.R.O. relies on section 263, sub-section (2) of section 41, and sub-section (3) of section 46 of the Customs Act, 2023, read in conjunction with serial number (48) of the Second Schedule [2].",
+      "entities_involved": [
+        "sections",
+        "Second Schedule"
+      ],
+      "clause_text_ids": [
+        "metadata_3"
+      ]
+    }
+  ]
+}

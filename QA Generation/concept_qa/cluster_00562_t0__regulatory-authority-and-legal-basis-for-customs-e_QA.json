@@ -1,0 +1,182 @@
+{
+  "thread_id": "cluster_00562_t0",
+  "cluster_id": 562,
+  "cluster_label": "Second Schedule",
+  "title": "Regulatory Authority and Legal Basis for Customs Exemptions",
+  "source_num_member_objects": 10,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the Second Schedule first referenced in relation to energy sector exemptions under the Customs Act 1969?",
+      "options": [
+        "2022-10-18",
+        "2021-06-03",
+        "2024-05-29",
+        "2024-07-08"
+      ],
+      "answer_index": 1,
+      "answer": "2021-06-03",
+      "explanation": "SRO 130-AIN/2021, dated 2021-06-03, established the initial reference to the Second Schedule under the Customs Act 1969 for energy sector exemptions.",
+      "clause_text_ids": [
+        "20210603_130-AIN_2021_19_Customs_২৪ মে, ২০২১_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2",
+        "20240708_239-_2024_81_২৬ জুন, ২০২৪_clause_3",
+        "20240708_241-_2024_83_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument marked the formal transition of the Second Schedule to the Customs Act 2023?",
+      "options": [
+        "SRO 130-AIN/2021",
+        "SRO 2022-10-18",
+        "SRO 206/212-AIN/2024",
+        "SRO 240/241-AIN/2024"
+      ],
+      "answer_index": 2,
+      "answer": "SRO 206/212-AIN/2024",
+      "explanation": "SRO 206/212-AIN/2024, dated 2024-05-29, formally transitioned the Second Schedule to the Customs Act 2023, linking it to industrial warehouse and duty-free import regulations.",
+      "clause_text_ids": [
+        "20210603_130-AIN_2021_19_Customs_২৪ মে, ২০২১_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2",
+        "20240708_239-_2024_81_২৬ জুন, ২০২৪_clause_3",
+        "20240708_241-_2024_83_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary function of the Second Schedule according to the SRO dated 2022-10-18?",
+      "options": [
+        "Defining export-oriented warehouse procedures",
+        "Regulating energy sector machinery imports",
+        "Adjusting Supplementary Duty and Margin of Preference",
+        "Establishing industrial warehouse serial numbers"
+      ],
+      "answer_index": 2,
+      "answer": "Adjusting Supplementary Duty and Margin of Preference",
+      "explanation": "The SRO dated 2022-10-18 integrated the Second Schedule with the calculation of Supplementary Duty (SD) adjustments and Margin of Preference.",
+      "clause_text_ids": [
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "In the context of the Customs Act 2023, which specific serial numbers of the Second Schedule are cited in the 2024 regulatory amendments for export-oriented industries?",
+      "options": [
+        "5, 12, 30, 40",
+        "7, 11, 32, 35",
+        "1, 2, 3, 4",
+        "16, 20, 24, 28"
+      ],
+      "answer_index": 1,
+      "answer": "7, 11, 32, 35",
+      "explanation": "SRO 240/241-AIN/2024 (2024-07-08) and related 2024 instruments explicitly cite serial numbers 7, 11, 32, and 35 of the Second Schedule under the Customs Act 2023.",
+      "clause_text_ids": [
+        "20240708_239-_2024_81_২৬ জুন, ২০২৪_clause_3",
+        "20240708_241-_2024_83_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial warehouse operator has been conducting duty-free imports since 2021 based on energy sector exemptions. Following the legislative shift in 2024, the operator must now comply with new regulations for industrial manufacturing operations under the Customs Act, 2023.",
+      "question": "How has the legal basis and specificity of the Second Schedule changed for this operator between the 2021 SRO and the 2024 SROs?",
+      "answer": "The legal basis shifted from the Customs Act, 1969 to the Customs Act, 2023, and the structure evolved from general schedule references for energy exemptions to specific itemized serial numbers (such as 7, 11, 32, 35) governing industrial warehouse and export-oriented procedures.",
+      "clauses_involved": [
+        "2021-06-03 | SRO 130-AIN/2021",
+        "2024-05-29 | SRO 206/212-AIN/2024",
+        "2024-07-08 | SRO 240/241-AIN/2024"
+      ],
+      "clause_text_ids": [
+        "20210603_130-AIN_2021_19_Customs_২৪ মে, ২০২১_clause_1",
+        "20240708_239-_2024_81_২৬ জুন, ২০২৪_clause_3",
+        "20240708_241-_2024_83_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-06-03",
+      "relative_offset": "about 16 months later",
+      "question": "Starting from the initial reference to the Second Schedule under the 1969 Customs Act in 2021-06-03, what major adjustment occurred about 16 months later?",
+      "answer": "On 2022-10-18, the Second Schedule was integrated with Supplementary Duty (SD) adjustments and Margin of Preference calculations.",
+      "clause_text_ids": [
+        "20210603_130-AIN_2021_19_Customs_২৪ মে, ২০২১_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-10-18",
+      "relative_offset": "roughly 19 months later",
+      "question": "Following the integration of the Second Schedule with SD adjustments in 2022-10-18, what significant legislative transition occurred roughly 19 months later?",
+      "answer": "On 2024-05-29, through SRO 206/212-AIN/2024, there was a formal transition to the Customs Act, 2023, linking specific serial numbers of the Second Schedule to industrial warehouse and duty-free import regulations.",
+      "clause_text_ids": [
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2",
+        "20240708_239-_2024_81_২৬ জুন, ২০২৪_clause_3",
+        "20240708_241-_2024_83_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-05-29",
+      "relative_offset": "about one month later",
+      "question": "After the transition to the Customs Act, 2023, on 2024-05-29, what procedural refinement took place about one month later?",
+      "answer": "On 2024-07-08, through SRO 240/241-AIN/2024, the government refined export-oriented industrial warehouse procedures by linking them to specific clauses of the Second Schedule.",
+      "clause_text_ids": [
+        "20240708_239-_2024_81_২৬ জুন, ২০২৪_clause_3",
+        "20240708_241-_2024_83_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Second Schedule is formally utilized to define specific industrial warehouse privileges and duty-free import conditions under the Customs Act.",
+        "The Second Schedule is integrated with Supplementary Duty adjustments and Margin of Preference calculations for goods.",
+        "The Second Schedule is established as a reference point for energy sector exemptions under the Customs Act.",
+        "Specific clauses of the Second Schedule are applied to refine procedures for export-oriented industrial warehouse operations."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Second Schedule is established as a reference point for energy sector exemptions under the Customs Act.",
+          "date": "2021-06-03"
+        },
+        {
+          "event": "The Second Schedule is integrated with Supplementary Duty adjustments and Margin of Preference calculations for goods.",
+          "date": "2022-10-18"
+        },
+        {
+          "event": "The Second Schedule is formally utilized to define specific industrial warehouse privileges and duty-free import conditions under the Customs Act.",
+          "date": "2024-05-29"
+        },
+        {
+          "event": "Specific clauses of the Second Schedule are applied to refine procedures for export-oriented industrial warehouse operations.",
+          "date": "2024-07-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20210603_130-AIN_2021_19_Customs_২৪ মে, ২০২১_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_2",
+        "metadata_1",
+        "20240708_239-_2024_81_২৬ জুন, ২০২৪_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20210603_130-AIN_2021_19_Customs/20210603_130-AIN_2021_19_Customs_output.json",
+        "customs_sros_OCR/20221018_259-Act_2022_134_Customs/20221018_259-Act_2022_134_Customs_output.json",
+        "customs_sros_OCR/20240606_212-AIN_2024_64_Customs/20240606_212-AIN_2024_64_Customs_output.json",
+        "customs_sros_OCR/20240708_239-_2024_81/20240708_239-_2024_81_output.json"
+      ],
+      "thread_source_file": "cluster_00562_t0__regulatory-authority-and-legal-basis-for-customs-e.json"
+    }
+  ]
+}

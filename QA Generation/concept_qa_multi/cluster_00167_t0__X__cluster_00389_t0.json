@@ -1,0 +1,55 @@
+{
+  "group_id": "cluster_00167_t0__X__cluster_00389_t0",
+  "entities": [
+    "Customs Risk Management Commissionerate",
+    "customs offices"
+  ],
+  "cluster_ids": [
+    167,
+    389
+  ],
+  "thread_ids": [
+    "cluster_00167_t0",
+    "cluster_00389_t0"
+  ],
+  "num_shared_clauses": 3,
+  "num_qa_pairs": 3,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the joint responsibility of the Customs Risk Management Commissionerate and customs offices (stations) when an Authorized Economic Operator (AEO-LO) is found to be involved in irregularities or tax evasion?",
+      "answer": "If irregularities or tax evasion are discovered regarding an AEO-LO, the customs station must inform the AEO Center, the Customs Risk Management Commissionerate, or the Customs Automation wing using Appendix 7.1. Following this notification, each respective office, including the Customs Risk Management Commissionerate and the customs stations, is responsible for suspending the benefits applicable to that AEO-LO.",
+      "entities_involved": [
+        "Customs Risk Management Commissionerate",
+        "customs offices"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_102"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How are the Customs Risk Management Commissionerate and customs stations involved in the communication process when an AEO certification is suspended, cancelled, or downgraded?",
+      "answer": "When the AEO Center decides to suspend, cancel, or downgrade an AEO certification, it must immediately notify all customs stations, the Customs Risk Management Commissionerate, the Board's Customs Automation wing, the Systems Manager, and other relevant offices according to Appendix 6.6.",
+      "entities_involved": [
+        "Customs Risk Management Commissionerate",
+        "customs offices"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the procedure for informing relevant customs entities, including the Customs Risk Management Commissionerate and customs houses/stations, when an AEO certification becomes effective?",
+      "answer": "To make an AEO certification effective, the AEO Center must notify the National Board of Revenue's Customs Automation wing, the Systems Manager, the Customs Risk Management Commissionerate, and all customs houses and customs stations in accordance with Appendix 6.6.",
+      "entities_involved": [
+        "Customs Risk Management Commissionerate",
+        "customs offices"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_60"
+      ]
+    }
+  ]
+}

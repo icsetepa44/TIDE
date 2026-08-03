@@ -1,0 +1,34 @@
+{
+  "group_id": "cluster_00005_t0__X__cluster_00016_t0",
+  "entities": [
+    "H.S. Code",
+    "Section 19(1)"
+  ],
+  "cluster_ids": [
+    5,
+    16
+  ],
+  "thread_ids": [
+    "cluster_00005_t0",
+    "cluster_00016_t0"
+  ],
+  "num_shared_clauses": 38,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the government utilize Section 19(1) of the Customs Act, 1969, in relation to H.S. Codes within the provided SROs?",
+      "answer": "The government, acting under the powers granted by Section 19(1) of the Customs Act, 1969, and section 14(1) of the Value Added Tax Act, 1991, issues SROs to amend or modify existing notifications. These amendments frequently involve the adjustment of entries related to specific H.S. Codes or Headings listed in the tables of these SROs to grant or refine duty exemptions in the public interest [3], [4], [7], [11].",
+      "entities_involved": [
+        "H.S. Code",
+        "Section 19(1)"
+      ],
+      "clause_text_ids": [
+        "20110609_171-AIN_2011_2358-Customs_০৯ জুন, ২০১১_clause_1",
+        "20110609_172-AIN_2011_2359-Customs_০৯ জুন, ২০১১ খ্রিষ্টাব্দ_clause_1",
+        "20130606_151-AIN_2013_2438-Customs_২০১৩-০৬-০৬_clause_1",
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_1"
+      ]
+    }
+  ]
+}

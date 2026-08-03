@@ -1,0 +1,949 @@
+{
+  "cluster_id": 481,
+  "cluster_label": "agents",
+  "thread_index": 0,
+  "thread_id": "cluster_00481_t0",
+  "title": "Evolution of Agent Roles and Regulatory Accountability",
+  "summary": "The concept of 'agents' has evolved from a traditional customs clearing role to a broader, technology-integrated, and risk-accountable entity. Over time, the scope has expanded to include specialized self-clearance rights for importers/exporters, strict liability for transit/transshipment operations, and integration into automated risk management systems.",
+  "evolution": {
+    "Accountability": "Shifted from general compliance to specific legal liability for fraud and transit violations.",
+    "Scope": "Expanded from traditional clearing agents to include self-clearing importers and specialized logistics providers.",
+    "Technology": "Transitioned from manual documentation to mandatory integration with automated risk management and electronic filing systems."
+  },
+  "timeline": [
+    {
+      "date": "2023-09-27",
+      "instrument": "Audit Directive",
+      "change": "Formalized agents as a distinct category of stakeholders subject to customs audit.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_8"
+      ]
+    },
+    {
+      "date": "2024-06-05",
+      "instrument": "Customs Act 2023",
+      "change": "Established legal basis for prosecuting agents for system misuse and revenue fraud.",
+      "clause_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_17"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Customs Directive",
+      "change": "Introduced 'Self-Agent' status, allowing authorized importers/exporters to act as their own agents via specialized IDs.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_82"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "instrument": "Risk Management Rules",
+      "change": "Integrated agents into the Automated Risk Management System (ARMS) for selectivity profiling.",
+      "clause_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_7"
+      ]
+    },
+    {
+      "date": "2025-05-18",
+      "instrument": "Transit/Transshipment Rules",
+      "change": "Imposed joint/individual liability on agents for transit/transshipment compliance and procedural errors.",
+      "clause_ids": [
+        "20250518_._২৭ মে, ২০২১_clause_18",
+        "20250518_._২৭ মে, ২০২১_clause_20",
+        "20250518_._২৭ মে, ২০২১_clause_9"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Cargo Declaration Rules",
+      "change": "Defined specific agency roles (Shipping Agents/Freight Forwarders) based on transport mode.",
+      "clause_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6"
+      ]
+    }
+  ],
+  "num_member_objects": 8,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "১.৪ অডিট এর পরিধি",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_8",
+      "resolved_text": "১.৪ অডিট এর পরিধি—পণ্য আমদানি-রপ্তানি অথবা কাস্টমস নিয়ন্ত্রিত এলাকা থেকে পণ্য গ্রহণ, মজুদকরণ, উৎপাদন ও সরবরাহের সাথে সম্পৃক্ত সকল ব্যবসা প্রতিষ্ঠান বা ব্যক্তি; যেমন:\n(ক) আমদানিকারক/রপ্তানিকারক বা আমদানিকৃত/রপ্তানিকৃত পণ্যের মালিক;\n(খ) আমদানিকৃত/রপ্তানিকৃত পণ্যের ঘোষণাকারী;\n(গ) আমদানিকৃত/রপ্তানিকৃত পণ্যের প্রেরক;\n(ঘ) আমদানিকৃত/রপ্তানিকৃত পণ্যের পরবর্তী অধিগ্রহণকারী;\n(ঙ) আমদানিকৃত/রপ্তানিকৃত পণ্যের কাস্টমস এজেন্ট;\n(চ) আমদানিকৃত/রপ্তানিকৃত পণ্যের সংরক্ষক (Custodian);\n(ছ) অথরাইজড ইকোনমিক অপারেটর (AEO);\n(জ) অন্যান্য ব্যক্তি/ কোম্পানি যারা প্রত্যক্ষ বা পরোক্ষভাবে আমদানিকৃত চালানের সাথে জড়িত; এবং\n(ঝ) কাস্টমস আইন ও আইনের আওতাধীন বিধিমালা মোতাবেক অডিটের জন্য উপযুক্ত ব্যক্তি/প্রতিষ্ঠান।",
+      "entity_concepts": {
+        "Customs Audit": [
+          "This instruction defines the scope of the customs audit, covering all businesses or individuals involved in the import, export, storage, production, or supply of goods within customs-controlled areas.",
+          "The audit authority extends to any entity or person directly or indirectly connected to import or export shipments, including owners, declarants, agents, custodians, and Authorized Economic Operators."
+        ],
+        "Authorized Economic Operator": [
+          "Authorized Economic Operators are formally recognized as subjects within the scope of customs audit procedures."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_679",
+      "entity_sub_entities": {
+        "Customs Audit": [
+          "businesses",
+          "individuals",
+          "import",
+          "export",
+          "storage",
+          "production",
+          "supply of goods",
+          "customs-controlled areas",
+          "entity",
+          "person",
+          "import shipments",
+          "export shipments",
+          "owners",
+          "declarants",
+          "agents",
+          "custodians",
+          "Authorized Economic Operators"
+        ],
+        "Authorized Economic Operator": [
+          "Authorized Economic Operators"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        70,
+        86,
+        234,
+        236,
+        337,
+        388,
+        481,
+        594,
+        790,
+        1089,
+        1279,
+        1403,
+        1566,
+        1644,
+        6796,
+        7044,
+        7143,
+        12576
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_17",
+      "clause_title": "",
+      "text_id": "20240605_০৩ জুন ২০২৪_clause_17",
+      "resolved_text": "১৭। এই ধরনের এজেন্টের মাধ্যমে সরকারের রাজস্ব ঝুঁকি বা রাজস্ব ফাঁকির জন্য বা সিস্টেমে অনধিকার প্রবেশের মাধ্যমে কৃতকর্মের জন্য সংগঠিত অপরাধের বিচার কাস্টমস আইন, ২০২৩ এবং স্ব স্ব লাইসেন্সিং বিধিমালা অনুযায়ী নিষ্পত্তি হইবে;",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This Act serves as the legal framework for adjudicating offences related to revenue risk, tax evasion, or unauthorized system access committed by licensed agents."
+        ],
+        "Licensing Rules": [
+          "These rules act as the governing standard, alongside the Customs Act, for handling cases and settling disputes involving actions by agents that compromise customs procedures or result in revenue loss."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_781",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "offences",
+          "revenue risk",
+          "tax evasion",
+          "unauthorized system access",
+          "licensed agents"
+        ],
+        "Licensing Rules": [
+          "cases",
+          "disputes",
+          "agents",
+          "customs procedures",
+          "revenue loss"
+        ]
+      },
+      "clause_clusters": [
+        19,
+        225,
+        375,
+        468,
+        481,
+        500,
+        627,
+        1227,
+        2663,
+        4284,
+        11528,
+        13063
+      ],
+      "source_file": "customs_gos_OCR/20240605/20240605_output.json",
+      "clause_date": "2024-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_82",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_82",
+      "resolved_text": "২০. কাস্টমস স্টেশনের দায়িত্বপ্রাপ্ত কমিশনার স্বীকৃতি সনদপ্রাপ্ত আমদানিকারক বা রপ্তানিকারক প্রতিষ্ঠানকে কাস্টমস হাউস এজেন্ট হিসেবে স্বীকৃতি প্রদান করতে পারবে এবং উক্ত প্রতিষ্ঠানের নিজস্ব পণ্যচালান খালাসের জন্য কাস্টমস কর্তৃপক্ষের নিকট ঘোষণা দাখিলের সুযোগ প্রদান করতে পারবে। উক্ত সুবিধা প্রদানের জন্য স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের অনুকূলে বিশেষায়িত এজেন্ট আইডেন্টিফিকেশন নম্বর প্রদান করতে হবে। কাস্টমস স্টেশন কর্তৃপক্ষ কাস্টমস অটোমেশন শাখার সাথে যোগাযোগ ও সমন্বয়পূর্বক কাস্টমস কম্পিউটার সিস্টেমে এ বিষয়ে প্রয়োজনীয় সংযোজন আনবে।",
+      "entity_concepts": {
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is authorized to grant status as a Customs House Agent to recognized importing or exporting entities, allowing them to submit declarations for their own cargo clearance directly to the customs authorities."
+        ],
+        "Customs House Agent": [
+          "Qualified importing or exporting firms may be recognized as Customs House Agents to facilitate the clearance of their own specific goods."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs station authorities must coordinate with the automation division to update the customs computer system to reflect the recognition and authorization of agents."
+        ],
+        "Agent Identification Number": [
+          "Recognized importing or exporting entities granted agency status must be issued a specialized identification number to facilitate the use of their clearance privileges."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_872",
+      "entity_sub_entities": {
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Customs House Agent",
+          "importing entities",
+          "exporting entities",
+          "cargo clearance",
+          "customs authorities"
+        ],
+        "Customs House Agent": [
+          "importing firms",
+          "exporting firms",
+          "Customs House Agents",
+          "goods"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "customs station authorities",
+          "automation division",
+          "customs computer system",
+          "agents"
+        ],
+        "Agent Identification Number": [
+          "importing entities",
+          "exporting entities",
+          "agency status",
+          "identification number",
+          "clearance privileges"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        45,
+        66,
+        156,
+        481,
+        1003,
+        1605,
+        1610,
+        2084,
+        2094,
+        3562,
+        3949,
+        3950,
+        5405,
+        5869,
+        6414,
+        6925,
+        8957
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি (Automated Risk Management System-এআরএমএস)",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_7",
+      "resolved_text": "৭। স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি (Automated Risk Management System-এআরএমএস)।—যথাযর্থ কাস্টমস নিয়ন্ত্রণ প্রতিষ্ঠার উদ্দেশ্যে, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেটে পণ্যচালান, যাত্রী, এজেন্ট ও ব্যাংক সংশ্লিষ্ট ঝুঁকি বিশ্লেষণপূর্বক সিলেক্টভিটি নিরূপণের লক্ষ্যে এআরএমএস অথবা উপযোগী স্বয়ংক্রিয় ইলেকট্রনিক সিস্টেম ব্যবহার করিবে।",
+      "entity_concepts": {
+        "Automated Risk Management System": [
+          "The Customs Risk Management Commissionerate is mandated to utilize an Automated Risk Management System or an equivalent electronic system to conduct risk analysis.",
+          "The objective of using this system is to ensure effective customs control by performing risk analysis on consignments, passengers, agents, and banking transactions to determine selectivity."
+        ],
+        "Customs Risk Management Commissionerate": [
+          "This body is responsible for managing customs risk by implementing automated systems to analyze various data points related to trade, passengers, and financial intermediaries for selectivity purposes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1229",
+      "entity_sub_entities": {
+        "Automated Risk Management System": [
+          "Automated Risk Management System",
+          "electronic system",
+          "consignments",
+          "passengers",
+          "agents",
+          "banking transactions"
+        ],
+        "Customs Risk Management Commissionerate": [
+          "trade",
+          "passengers",
+          "financial intermediaries"
+        ]
+      },
+      "clause_clusters": [
+        135,
+        167,
+        219,
+        361,
+        481,
+        1635,
+        5048,
+        5932,
+        8087
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_18",
+      "clause_title": "ট্রানজিট বা ট্রান্সশিপমেন্ট সংশ্লিষ্ট বন্দর বা স্টেশন পরিবর্তন",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_18",
+      "resolved_text": "১৮। ট্রানজিট বা ট্রান্সশিপমেন্ট সংশ্লিষ্ট বন্দর বা স্টেশন পরিবর্তন।—অনুমোদিত ব্যক্তি বা এজেন্ট কর্তৃক যথাযথ কারণ উল্লেখ করিয়া কাস্টমস Authorities [কর্তৃপক্ষের] নিকট আবেদন করা হইলে, ক্ষেত্রমত, ঘটনা পরবর্তী (Ex Post Facto) অনুমোদন এবং কাস্টমস কর্তৃপক্ষের পূর্বানুমতি গ্রহণ ও কাস্টমস কম্পিউটার সিস্টেমে প্রয়োজনীয় সংশোধনের শর্তে প্রস্থান বন্দর পরিবর্তন করা যাইবে।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "The procedure for changing the designated port or station for transit or transshipment is established.",
+          "Authorized persons or agents must provide valid reasons and receive approval from customs authorities to change the port of exit."
+        ],
+        "Customs Authority": [
+          "Customs authorities have the power to grant ex post facto approval and pre-approval for the modification of transit or transshipment points.",
+          "They oversee the process where an authorized person or agent submits a request for changing the port or station."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Any change to the port of exit for transit or transshipment operations requires necessary amendments to be made within the customs computerized system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2991",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "designated port",
+          "station",
+          "port of exit",
+          "authorized persons",
+          "agents",
+          "customs authorities"
+        ],
+        "Customs Authority": [
+          "customs authorities",
+          "authorized person",
+          "agent",
+          "port",
+          "station"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "port of exit",
+          "transit operations",
+          "transshipment operations",
+          "customs computerized system"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        45,
+        66,
+        94,
+        216,
+        317,
+        435,
+        481,
+        526,
+        683,
+        806,
+        807,
+        1914,
+        2933,
+        7264
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_20",
+      "clause_title": "দণ্ড",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_20",
+      "resolved_text": "২০। দণ্ড।—এই বিধিমালায় বর্ণিত কোনো বিধান লঙ্ঘিত হইলে উহা আইনের সংশ্লিষ্ট ধারার লঙ্ঘনজনিত অপরাধ হিসাবে গণ্য হইবে এবং ট্রানজিট বা ট্রান্সশিপমেন্ট চালানের ব্যবস্থাপনায় নিয়োজিত অনুমোদিত ব্যক্তি বা এজেন্ট একক বা যৌথভাবে উক্ত অপরাধের জন্য দায়ী হইবেন এবং আইনের সংশ্লিষ্ট বিধান অনুযায়ী দণ্ড আরোপিত হইবে।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "The violation of any provisions set forth in these rules regarding transit or transshipment operations shall be treated as an offence under the relevant sections of the law."
+        ],
+        "Authorized Person or Agent": [
+          "Authorized persons or agents engaged in the management of transit or transshipment shipments are held individually or jointly liable for any violations of these rules.",
+          "Liability for such offences may result in the imposition of penalties in accordance with the relevant provisions of the law."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2993",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "transit operations",
+          "transshipment operations"
+        ],
+        "Authorized Person or Agent": [
+          "authorized persons",
+          "agents",
+          "transit shipments",
+          "transshipment shipments",
+          "penalties"
+        ]
+      },
+      "clause_clusters": [
+        46,
+        216,
+        481,
+        806,
+        807,
+        1495,
+        1807,
+        1914,
+        2495
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "ট্রানজিট বা ট্রান্সশিপমেন্ট পণ্য পরিবহন",
+      "text_id": "20250518_._২৭ মে, ২০২১_clause_9",
+      "resolved_text": "৯। ট্রানজিট বা ট্রান্সশিপমেন্ট পণ্য পরিবহন।—(১) বাংলাদেশের অভ্যন্তর ব্যবহার করিয়া ট্রানজিট বা ট্রান্সশিপমেন্টের ক্ষেত্রে পণ্য কন্টেইনার বা ট্যাঙ্কার বা জাহাজের আবদ্ধ খোল বা আবদ্ধ ট্রাকে এইরূপ পরিবহণ করিতে হইবে যেন উহা ইলেকট্রনিক সিল ও লক দ্বারা সিল করা সম্ভব হয় এবং সংশ্লিষ্ট যানবাহনের সহিত পরিবাহিত পণ্য সম্পর্কিত সুস্পষ্ট ঘোষণা থাকিতে হইবে।\n(২) কন্টেইনারজাত করিয়া পরিবহনযোগ্য নয় এইরূপ বৃহৎ আকৃতির পণ্যের ট্রানজিট বা ট্রান্সশিপমেন্টের ক্ষেত্রে কাস্টমস কর্তৃপক্ষের পূর্বানুমতি গ্রহণ করিতে হইবে এবং অনুমোদিত ব্যক্তি বা এজেন্ট এই সকল ক্ষেত্রে কাস্টমস কর্তৃপক্ষের চাহিদা অনুযায়ী পণ্যের পরিদর্শন এবং পরীক্ষণের প্রয়োজনীয় ব্যবস্থা গ্রহণ করিবে।",
+      "entity_concepts": {
+        "Transit and Transshipment": [
+          "Goods moved under transit or transshipment through Bangladesh must be secured in containers, tankers, or sealed compartments to allow for the application of electronic seals and locks.",
+          "Transporters must provide a clear declaration regarding the goods being transported.",
+          "The transport of oversized goods that cannot be containerized requires prior approval from the Customs Authority.",
+          "Authorized persons or agents must facilitate the inspection and examination of goods as required by the Customs Authority during transit or transshipment."
+        ],
+        "Customs Authority": [
+          "The authority must grant prior permission for the movement of non-containerizable, oversized goods during transit or transshipment.",
+          "They maintain the right to mandate and oversee the inspection and examination of goods during the transit or transshipment process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2982",
+      "entity_sub_entities": {
+        "Transit and Transshipment": [
+          "goods",
+          "containers",
+          "tankers",
+          "sealed compartments",
+          "electronic seals",
+          "locks",
+          "transporters",
+          "oversized goods",
+          "Customs Authority",
+          "authorized persons",
+          "agents"
+        ],
+        "Customs Authority": [
+          "Customs Authority",
+          "non-containerizable, oversized goods",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        23,
+        183,
+        196,
+        216,
+        244,
+        481,
+        1914,
+        4475,
+        4991,
+        10094,
+        11897,
+        13006
+      ],
+      "source_file": "customs_sros_OCR/20250518_./20250518_._output.json",
+      "clause_date": "2025-05-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "যানবাহনের রুটভিত্তিক যানবাহন বা কার্গো ঘোষণাকারী নির্ধারণ",
+      "text_id": "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6",
+      "resolved_text": "৬। যানবাহনের রুটভিত্তিক যানবাহন বা কার্গো ঘোষণাকারী নির্ধারণ।─ (১) বাংলাদেশের বাহির হইতে বাংলাদেশে আগমন করিবে এইরূপ যানবাহনের রুট (যেমন, সমুদ্রপথ, স্থলপথ, আকাশপথ, রেলপথ, প্রভৃতি) ভিত্তিক কার্গোঘোষণাকারী নিম্নরূপ হইবে:\n\nবটববল\n\n| ক্রম | যানবাহনের রুট | যানবাহন বা কার্গো ঘোষণাকারী | বিবেচ্য বিষয় |\n| --- | --- | --- | --- |\n| ১. | সমুদ্রপথভিত্তিক কাস্টমস বন্দর | জাহাজের মাস্টার বা ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত জাহাজের মালিক বা পরিচালনাকারী বা তাহার মনোনীত শিপিং এজেন্ট বা freight forwarders | সরাসরি বিদেশ হইতে সমুদ্রবন্দরে আগমনের পরে কাস্টমস অভ্যন্তরীণ কন্টেইনার ডিপো অথবা কাস্টমস অভ্যন্তরীণ নৌ-কন্টেইনার টার্মিনালে কার্গো স্থানান্তরের ক্ষেত্রেও কলাম (৩) এর যানবাহন বা কার্গো ঘোষণাকারী ঘোষণা দাখিল করিবে |\n| ২. | অভ্যন্তরীণ জলপথভিত্তিক কাস্টমস স্টেশন অথবা কাস্টমস অভ্যন্তরীণ নৌ-কন্টেইনার টার্মিনাল | জাহাজের মাস্টার বা ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত জাহাজের মালিক বা পরিচালনাকারী বা তাহার মনোনীত শিপিং এজেন্ট বা freight forwarders |  |\n| ৩. | আকাশপথভিত্তিক কাস্টমস বিমানবন্দর | বিমানের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত এয়ারলাইন্স কর্তৃপক্ষ বা তাহার এজেন্ট |  |\n| ৪. | রেলপথ | বাংলাদেশ রেলওয়ের সংশ্লিষ্ট দায়িত্বপ্রাপ্ত কর্মকর্তা | কেবল সরাসরি বিদেশ হইতে রেলযোগে আগমনের ক্ষেত্রে প্রযোজ্য হইবে। |\n| ৫. | স্থলপথ | আইনের ধারা ২৪৩ অনুসারে সংশ্লিষ্ট কাস্টমস স্টেশন হইতে লাইসেন্সপ্রাপ্ত কোনো এজেন্ট, যিনি যানবাহনের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক বা পরিচালনাকারী কর্তৃক মনোনীত হইয়াছেন | যানবাহনের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক বা পরিচালনাকারী নিজেই কার্গো ঘোষণা দাখিল করিতে চাহিলে বা উহাদের পক্ষে উহাদের কোনো সংঘ বা সংস্থার মাধ্যমে কার্গো ঘোষণা দাখিল করিতে চাহিলে উহাকে এজেন্ট হিসেবে বিশেষ লাইসেন্স গ্রহণ করিতে হইবে এবং উক্ত লাইসেন্স গ্রহণ প্রক্রিয়া এতদসংক্রান্ত বিধিমালার আলোকে নির্ধারিত হইবে। |\n\n\n(২) উপ-বিধি (১) এর টেবিলের ক্রমিক ৫ এ উল্লিখিত স্থলপথে আগমনকারী যানবাহনের ক্ষেত্রে যানাবাহনের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক বা পরিচালনাকারী কার্গো ঘোষণা দাখিলের জন্য ‘ফরম-খ’ অনুসারে কোনো এজেন্টকে দায়িত্ব অর্পণ করিতে পারিবে।\n\n(৩) উপবিধি (১) ও (২) এ যাহা কিছুই থাকুক না কেন, বোর্ড আদেশ জারির মাধ্যমে কোনো নির্দিষ্ট রুট বা কাস্টমস স্টেশনে উপবিধি (১) এর টেবিলের কলাম (৩) উল্লিখিত কার্গো ঘোষণাকারী পরিবর্তন করিতে পারিবে অথবা অন্য কাউকেও কার্গো ঘোষণাকারী হিসেবে নির্ধারণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Person in Charge of Conveyance": [
+          "The person in charge of a vessel, aircraft, or vehicle arriving from abroad is responsible for submitting cargo declarations based on the specific route taken.",
+          "They may designate agents or freight forwarders to act on their behalf for cargo declarations, or in the case of land routes, they may perform these functions themselves subject to obtaining specific licensing requirements."
+        ],
+        "Freight Forwarders": [
+          "Freight forwarders are formally recognized as authorized entities to submit cargo declarations for sea and inland water transport routes when designated by the owner, operator, or the person in charge of the vessel."
+        ],
+        "National Board of Revenue": [
+          "The board holds the authority to issue orders modifying or designating alternative parties as cargo declarants for specific routes or customs stations, regardless of the default rules prescribed for vehicle and cargo declaration."
+        ],
+        "Customs Act 1969": [
+          "The licensing of agents for land transport cargo declarations is governed by provisions established under the authority of Section 243 of the Act."
+        ],
+        "Bangladesh Railway": [
+          "For cargo arriving directly from abroad by rail, the designated official of the Bangladesh Railway is responsible for submitting the necessary cargo declarations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3142",
+      "entity_sub_entities": {
+        "Person in Charge of Conveyance": [
+          "vessel",
+          "aircraft",
+          "vehicle",
+          "agents",
+          "freight forwarders"
+        ],
+        "Freight Forwarders": [
+          "freight forwarders",
+          "cargo declarations",
+          "owner",
+          "operator",
+          "person in charge of the vessel"
+        ],
+        "National Board of Revenue": [
+          "board",
+          "cargo declarants",
+          "vehicle",
+          "cargo declaration"
+        ],
+        "Customs Act 1969": [
+          "agents",
+          "land transport cargo declarations",
+          "Section 243"
+        ],
+        "Bangladesh Railway": [
+          "designated official",
+          "Bangladesh Railway",
+          "cargo declarations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        71,
+        120,
+        161,
+        240,
+        357,
+        426,
+        448,
+        481,
+        620,
+        1086,
+        2005,
+        3498,
+        4845,
+        6160,
+        9377,
+        10622
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 4,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "ইলেকট্রনিক মাধ্যমে দলিল দাখিল এবং ইলেকট্রনিক পেমেন্ট দাখিলের সময়, স্থান ও পদ্ধতি",
+      "text_id": "20240606_204-AIN_2024_56_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "৭। ইলেকট্রনিক মাধ্যমে দলিল দাখিল এবং ইলেকট্রনিক পেমেন্ট দাখিলের সময়, স্থান ও পদ্ধতি।— (১) এই বিধির উদ্দেশ্যপূরণকল্পে, বিধি ৪ এর অধীন অনুমতিপ্রাপ্ত কোনো ব্যক্তি যদি কোনো কাস্টমস কম্পিউটার সিস্টেমে ইলেকট্রনিক পদ্ধতিতে কোনো দলিল দাখিল বা পেমেন্ট কার্যকর করেন, তাহা হইলে উহা যথাযথভাবে দাখিল বা প্রেরণ করা হইয়াছে বলিয়া গণ্য হইবে।\n\n(২) কমিশনার অব কাস্টমস, বিশেষ পরিস্থিতিতে, ইলেকট্রনিক পদ্ধতিতে কোনো পণ্য ঘোষণা প্রেরণ করিয়াছেন এইরূপ কোনো আমদানিকারক, বা ক্ষেত্রমত, রপ্তানিকারক বা তদ্কর্তৃক ক্ষমতাপ্রাপ্ত এজেন্টকে যথাযথভাবে স্বাক্ষরিত কাগজে প্রদত্ত পণ্য ঘোষণা, বোর্ড কর্তৃক প্রয়োজনীয় বলিয়া বিবেচিত তথ্য ও দলিলাদি যথাযথ কর্মকর্তার নিকট দাখিলের জন্য নির্দেশ প্রদান করিতে পারিবেন।\n\n(৩) বোর্ড, ইলেকট্রনিক মাধ্যমে শুল্ক ও কর, ফি ইত্যাদি পরিশোধের পদ্ধতি নির্ধারণ করিবে।\n\n(৪) ইলেকট্রনিক পেমেন্ট সংশ্লিষ্ট তফসিলি ব্যাংক ও MFS (Mobile Financial Services) প্রতিষ্ঠানসমূহের তালিকা এবং তাহাদের সহিত যোগাযোগের নম্বর বোর্ড কর্তৃক, সময় সময়, প্রকাশ করা হইবে।",
+      "entity_concepts": {
+        "Customs Computerised Entry Processing System": [
+          "Submissions or payments made electronically through the customs system by authorized persons are legally recognized as properly filed or transmitted."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is authorized to require importers, exporters, or their agents to submit physical, signed documents or additional information to the appropriate customs officer, even if the declaration was initially made electronically."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is responsible for determining the procedures for electronic payment of customs duties, taxes, and fees.",
+          "The National Board of Revenue is mandated to publish and periodically update a list of scheduled banks and mobile financial service providers authorized to handle electronic payments."
+        ],
+        "Importer": [
+          "Importers may be directed by the Commissioner of Customs to provide physical documentation or additional required information under specific circumstances."
+        ],
+        "Exporter": [
+          "Exporters may be directed by the Commissioner of Customs to provide physical documentation or additional required information under specific circumstances."
+        ],
+        "Customs Agent": [
+          "Authorized agents acting on behalf of importers or exporters may be directed by the Commissioner of Customs to provide physical documentation or additional required information under specific circumstances."
+        ],
+        "Mobile Financial Services": [
+          "Mobile financial service providers are identified as entities through which electronic payments related to customs duties and taxes may be facilitated, subject to a list published by the National Board of Revenue."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2725",
+      "entity_sub_entities": {
+        "Customs Computerised Entry Processing System": [
+          "submissions",
+          "payments"
+        ],
+        "Commissioner of Customs": [
+          "importers",
+          "exporters",
+          "agents",
+          "physical, signed documents",
+          "additional information",
+          "customs officer",
+          "declaration"
+        ],
+        "National Board of Revenue": [
+          "procedures",
+          "electronic payment",
+          "customs duties",
+          "taxes",
+          "fees",
+          "scheduled banks",
+          "mobile financial service providers"
+        ],
+        "Importer": [
+          "physical documentation",
+          "additional required information"
+        ],
+        "Exporter": [
+          "physical documentation",
+          "additional required information"
+        ],
+        "Customs Agent": [
+          "physical documentation",
+          "additional required information"
+        ],
+        "Mobile Financial Services": [
+          "mobile financial service providers",
+          "electronic payments",
+          "customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        13,
+        14,
+        39,
+        49,
+        66,
+        77,
+        79,
+        92,
+        150,
+        151,
+        157,
+        242,
+        481,
+        821,
+        1734,
+        2138,
+        2190,
+        2433,
+        2692,
+        4370,
+        4823,
+        4959,
+        7671,
+        10694
+      ],
+      "source_file": "customs_sros_OCR/20240606_204-AIN_2024_56_Customs/20240606_204-AIN_2024_56_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_17",
+      "clause_title": "এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের ঘোষণা দাখিলের পদ্ধতি",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_17",
+      "resolved_text": "১৭। এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের ঘোষণা দাখিলের পদ্ধতি।— (১) লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের ক্ষেত্রে বিধি ১৩ এর উপ-বিধি (১) এ বর্ণিত বিভিন্ন ক্যাটাগরির ভিত্তিতে পণ্যচালান ছাড়করণের উদ্দেশ্যে নিম্নবর্ণিত পদ্ধতি অনুসরণ করিয়া কাস্টমস কম্পিউটার সিস্টেমে আইনের ধারা ৮১ অনুসারে পণ্যের ঘোষণা অর্থাৎ বিল অব এন্ট্রি দাখিল করিতে হইবে-\n(ক) ক্যাটাগরি-১: একক মাস্টার এয়ারওয়ে বিল বা কার্গো ঘোষণার মাধ্যমে কোনো লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিসযোগে আনীত সকল ডকুমেন্টস এর বিপরীতে প্রস্তুতকৃত সমন্বিত হাউজ এয়ারওয়ে বিলের ভিত্তিতে এক্সপ্রেস সার্ভিস কর্তৃক নিজ নামে কাস্টমস কম্পিউটার সিস্টেমে কতিপয় একান্ত আবশ্যক সুনির্দিষ্ট মৌলিক তথ্য সম্বলিত (simplified) ঘোষণা বা বিল অব এন্ট্রি দাখিল করিতে হইবে;\n(খ) ক্যাটাগরি-২ ও ক্যাটাগরি ৩: একক মাস্টার এয়ারওয়ে বিল বা কার্গো ঘোষণার মাধ্যমে কোনো লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিস প্রতিষ্ঠানযোগে আনীত ক্যাটাগরি-২ ও ক্যাটাগরি ৩ এর সকল পণ্যের ক্ষেত্রে প্রত্যেকের জন্য প্রস্তুতকৃত ভিন্ন ভিন্ন হাউজ এয়ারওয়ে বিলের বিপরীতে ক্ষমতাপ্রাপ্ত এক্সপ্রেস সার্ভিস প্রতিষ্ঠান কর্তৃক কাস্টমস কম্পিউটার সিস্টেমে কতিপয় একান্ত আবশ্যক মৌলিক তথ্য সম্বলিত (simplified) ঘোষণা বা বিল অব এন্ট্রি প্রত্যেকটি পণ্যচালানের জন্য গ্রাহকের নামে আলাদা আলাদাভাবে দাখিল করিতে হইবে: তবে শর্ত থাকে যে, उपहार সামগ্রী বা ডি-মিনিমিস পণ্যচালানের ক্ষেত্রে গ্রাহক যদি কোনো ব্যক্তি হন তাহা হইলে গ্রাহকের জাতীয় পরিচয়পত্র বা পাসপোর্টের কপি দাখিল করিতে হইবে এবং উপহার সামগ্রী বা নমুনা বা ডি-মিনিমিস পণ্যচালানের ক্ষেত্রে গ্রাহক যদি কোনো প্রতিষ্ঠান হন তাহা হইলে উহার মূল্য সংযোজন কর নিবন্ধন নম্বর বা ক্ষেত্রমত, কাস্টমস স্টেশন কর্তৃক প্রদত্ত Consignee Identification Number (CIN) উল্লেখ করিয়া পণ্য ঘোষণা বিল অব এন্ট্রি দাখিল করিতে হইবে: আরও শর্ত থাকে যে, গ্রাহক কর্তৃক তাহার নামে আনীত পণ্য খালাসের জন্য প্রত্যেকটি হাউজ এয়ারওয়ে বিলের বিপরীতে লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে ক্ষমতা অর্পণের দলিলাদি থাকিতে হইবে;\n(গ) ক্যাটাগরি-৪: একক কার্গো ঘোষণা বা মাস্টার এয়ারওয়ে বিলের মাধ্যমে কোনো লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিস প্রতিষ্ঠানযোগে আনীত ক্যাটাগরি-৪ এর সকল পণ্যচালানের ক্ষেত্রে প্রতিটি চালানের জন্য প্রস্তুতকৃত ভিন্ন ভিন্ন হাউজ এয়ারওয়ে বিলের বিপরীতে লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিস প্রতিষ্ঠান বা কোনো কাস্টমস ক্লিয়ারিং এজেন্ট কর্তৃক কাস্টমস কম্পিউটার সিস্টেমে প্রযোজ্য সকল তথ্য সম্বলিত পণ্য ঘোষণা বা বিল অব এন্ট্রি প্রত্যেকটি পণ্যচালানের জন্য... গ্রাহকের নামে আলাদা আলাদাভাবে দাখিল করিতে হইবে: তবে শর্ত থাকে যে, গ্রাহক কর্তৃক তাহার নামে আনীত পণ্য খালাসের জন্য প্রত্যেকটি হাউজ এয়ারওয়ে বিলের বিপরীতে লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিস প্রতিষ্ঠানকে বা কোনো কাস্টমস ক্লিয়ারিং এজেন্টকে ক্ষমতা অর্পণের দলিলাদি থাকিতে হইবে।\n(২) লাইসেন্সপ্রাপ্ত এক্সপ্রেস সার্ভিস প্রতিষ্ঠান এই বিধির অধীন পণ্যের ঘোষণা দাখিলের ক্ষেত্রে আইনের ধারা ২৪৩ এর উপ-ধারা (১) অনুসারে এজেন্ট লাইসেন্স প্রাপ্ত হিসাবে গণ্য হইবে এবং উহাকে আইনের ধারা ২৪৪ ও ধারা ২৪৫ এর বাধ্যবাধকতা ও শর্তসমূহ পরিপালন করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Computerised Entry Processing System": [
+          "This system is used to file declarations for goods imported via express services under the procedures specified by the Customs Act.",
+          "Express service providers are required to enter simplified or full declarations into this system depending on the category of the imported goods."
+        ],
+        "Express Service Providers Identification Number (ESPIN)": [
+          "Licensed express service providers are required to follow specific declaration procedures, including the submission of simplified declarations for certain product categories, acting as agents under the Customs Act."
+        ],
+        "Value Added Tax Registration Number": [
+          "Corporate consignees importing gift items, samples, or de-minimis shipments must provide their Value Added Tax Registration Number as part of the declaration process."
+        ],
+        "Consignee Identification Number (CIN)": [
+          "For corporate entities importing gifts, samples, or de-minimis goods, a Consignee Identification Number provided by the customs station is required for the bill of entry if a tax registration number is not applicable."
+        ],
+        "Consignee": [
+          "Individual consignees must provide a copy of their national identity card or passport for gift or de-minimis shipments.",
+          "Consignees are required to provide formal authorization documents to the express service provider or clearing agent to facilitate the release of goods under each house airway bill."
+        ],
+        "Customs Act 1969": [
+          "Section 81 governs the general requirement for filing bills of entry for goods, while sections 243, 244, and 245 define the status and obligations of agents acting in the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1212",
+      "entity_sub_entities": {
+        "Customs Computerised Entry Processing System": [
+          "declarations",
+          "goods",
+          "simplified declarations",
+          "full declarations"
+        ],
+        "Express Service Providers Identification Number (ESPIN)": [
+          "licensed express service providers",
+          "simplified declarations",
+          "product categories"
+        ],
+        "Value Added Tax Registration Number": [
+          "gift items",
+          "samples",
+          "de-minimis shipments"
+        ],
+        "Consignee Identification Number (CIN)": [
+          "corporate entities",
+          "gifts",
+          "samples",
+          "de-minimis goods",
+          "bill of entry",
+          "tax registration number"
+        ],
+        "Consignee": [
+          "individual consignees",
+          "national identity card",
+          "passport",
+          "gift shipments",
+          "de-minimis shipments",
+          "formal authorization documents",
+          "express service provider",
+          "clearing agent",
+          "goods",
+          "house airway bill"
+        ],
+        "Customs Act 1969": [
+          "Section 81",
+          "bills of entry",
+          "goods",
+          "sections 243",
+          "sections 244",
+          "sections 245",
+          "agents"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        27,
+        66,
+        164,
+        218,
+        220,
+        248,
+        271,
+        275,
+        350,
+        481,
+        642,
+        1110,
+        1226,
+        1393,
+        1670,
+        2064,
+        2921,
+        3083,
+        3670,
+        3685,
+        3798,
+        4065,
+        4389,
+        5009,
+        7136,
+        8261,
+        8358,
+        8998,
+        10993,
+        12025,
+        12026,
+        12027
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "সিলেক্টভিটি নির্ণায়ক",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9",
+      "resolved_text": "৯। সিলেক্টভিটি নির্ণায়ক।—কাস্টমস কম্পিউটার সিস্টেম নিম্নরূপ সিলেক্টভিটি নির্ণায়ক ব্যবহার করিবে, যথা:—\n(ক) এক বা একাধিক নির্ধারিত ঝুঁকি নির্দেশকের বিপরীতে ঘোষণার উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য উপাত্তসমূহ তুলনা করিয়া সম্ভাব্য ঝুঁকি নিরূপণের লক্ষ্যে একটি স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি প্রতিষ্ঠা করা হইবে;\n(খ) ঝুঁকি ব্যবস্থাপনার মাধ্যমে ঝুঁকি নিরসনের লক্ষ্যে পণ্যচালান কাস্টমস কম্পিউটার সিস্টেমে রেড লেন, ইয়েলো লেন, ব্লু লেন ও গ্রিন লেন হিসেবে চিহ্নিত হইবে এবং আগত যাত্রী এর ক্ষেত্রে রেড চ্যানেল ও গ্রিন চ্যানেলের মাধ্যমে ব্যবস্থিত হইবে;\n(গ) এআরএমএস এ রক্ষিত পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত কোনো পণ্যচালান অথবা যাত্রী এর তথ্য-উপাত্ত হুবহু মিলিয়া যাক অথবা না যাক, পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত সাদৃশ্যের মাত্রার সাপেক্ষে ঝুঁকির আপেক্ষিক মাত্রা নির্ধারণ করা হইবে;\n(ঘ) এক বা একাধিক পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত ঘোষণার তথ্য-উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য তথ্য উপাত্তসমূহ তুলনা এবং তথ্য প্রক্রিয়াকরণের মাধ্যমে সম্ভাব্য ঝুঁকি চিহ্নিতকরণের লক্ষ্যে ঝুঁকিপূর্ণ আমদানিকারক, রপ্তানিকারক, এজেন্ট, যাত্রী এর জন্য ঝুঁকি ব্যবস্থাপনা সিস্টেমের মধ্যে প্রোফাইল প্রতিষ্ঠা করা হইবে;\n(ঙ) স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি কাস্টমস রেকর্ড ও দলিল-দস্তাবেজ, বিভিন্ন উৎস হইতে প্রাপ্ত তথ্য, গোয়েন্দা তথ্য, কৃত্রিম বুদ্ধিমত্তা ব্যবহার করিয়া প্রাপ্তর উপাত্ত বিশ্লেষণ পদ্ধতি (Advanced Data Analytics), মেশিন লার্নিং এবং অন্যান্য উপযোগী পদ্ধতি ব্যবহার ও প্রয়োগ করিয়া ঝুঁকি নির্দেশক নির্ধারণ করিবে।",
+      "entity_concepts": {
+        "Automated System for Customs Data": [
+          "The system uses selectivities to determine processing channels for cargo and passengers. It establishes an automated risk management framework to evaluate shipment risks based on pre-defined indicators.",
+          "The system classifies consignments into red, yellow, blue, and green lanes, and passengers into red and green channels for customs clearance. It also assigns risk scores based on the degree of similarity to established risk indicators.",
+          "It creates profiles for importers, exporters, agents, and passengers to identify potential risks through data processing. The system incorporates historical records, intelligence data, and advanced analytical methods to refine its risk assessment indicators."
+        ],
+        "Data Analytics": [
+          "Advanced data analytics, machine learning, and artificial intelligence are utilized to process customs documentation and records. These methodologies serve as the technical foundation for identifying and setting risk indicators within the automated management framework."
+        ],
+        "Manifest Data": [
+          "Consignment information and related data are compared against established risk indicators to determine potential security or compliance threats during the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1231",
+      "entity_sub_entities": {
+        "Automated System for Customs Data": [
+          "selectivities",
+          "processing channels",
+          "cargo",
+          "passengers",
+          "automated risk management framework",
+          "shipment risks",
+          "risk indicators",
+          "consignments",
+          "red lane",
+          "yellow lane",
+          "blue lane",
+          "green lane",
+          "red channel",
+          "green channel",
+          "customs clearance",
+          "risk scores",
+          "profiles",
+          "importers",
+          "exporters",
+          "agents",
+          "historical records",
+          "intelligence data",
+          "analytical methods"
+        ],
+        "Data Analytics": [
+          "advanced data analytics",
+          "machine learning",
+          "artificial intelligence",
+          "customs documentation",
+          "records",
+          "risk indicators",
+          "automated management framework"
+        ],
+        "Manifest Data": [
+          "consignment information",
+          "risk indicators",
+          "security threats",
+          "compliance threats",
+          "customs clearance process"
+        ]
+      },
+      "clause_clusters": [
+        51,
+        79,
+        113,
+        131,
+        135,
+        157,
+        219,
+        394,
+        439,
+        481,
+        483,
+        487,
+        696,
+        1103,
+        1262,
+        1500,
+        1916,
+        1927,
+        2636,
+        2847,
+        3438,
+        4214,
+        5374,
+        5493,
+        5858,
+        5862,
+        6562,
+        6638,
+        8737,
+        9648,
+        10981,
+        11037,
+        11575,
+        12068,
+        12089,
+        12169
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_305",
+      "clause_title": "ব্যবসায়ের নথিপত্রের সংরক্ষণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_305",
+      "resolved_text": "২১১। ব্যবসায়ের নথিপত্রের সংরক্ষণ।— (১) প্রত্যেক লাইসেন্সধারী, আমদানিকারক, রপ্তানিকারক অথবা তাহাদের এজেন্ট বোর্ড যেভাবে নির্ধারিত করে সেইভাবে নথিপত্র তিন বৎসর মেয়াদের জন্য সংরক্ষণ করিবেন অথবা করার ব্যবস্থা গ্রহণ করিবেন।\n(২) উক্তরূপ প্রত্যেক ব্যক্তি কোন কাস্টমস কর্মকর্তা যেভাবে এবং যখন করিতে বলেন সেইভাবে এবং তখন অবশ্যই—\n(ক) নথিপত্র এবং হিসাবপত্র কাস্টমসের নিকট প্রাপণীয় করিবেন ;\n(খ) নথিপত্র এবং হিসাবপত্রের অনুলিপি প্রয়োজনমত সরবরাহ করিবেন ; এবং\n(গ) এই আইনের অধীন উদ্ভূত কোন বিষয়ের সাথে সংশ্লিষ্ট ক্ষেত্রে কাস্টমস কর্মকর্তা কর্তৃক জিজ্ঞাসিত যে কোন প্রশ্নের উত্তর দিবেন。\n(৩) যে ক্ষেত্রে উপ-ধারা (২) এর উদ্দেশ্য পূরণকল্পে ইলেকট্রনিক অথবা অন্য কোন যন্ত্রের মাধ্যমে তথ্য লিপিবদ্ধ অথবা সংরক্ষণ করা হয় সেই ক্ষেত্রে লাইসেন্সধারী, আমদানিকারক, রপ্তানিকারক অথবা তাহাদের এজেন্ট কোন কাস্টমস কর্মকর্তার অনুরোধক্রমে উপ-ধারা (২) এর আবশ্যকতা পূরণকল্পে যন্ত্রটি পরিচালনা করিবেন অথবা করার ব্যবস্থা করিবেন。\n(৪) উপ-ধারা (২) এবং উপ-ধারা (৩) এর উদ্দেশ্য পূরণকল্পে ধারা ২৫ক এর অধীন নিয়োগকৃত অডিট এজেন্সী এবং উক্ত এজেন্সীর কোন কর্মচারী কাস্টমস কর্মকর্তা হিসাবে গণ্য হইবেন।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to determine the specific manner in which business records and documentation must be maintained by licensees, importers, exporters, and their agents."
+        ],
+        "Customs Records Retention": [
+          "Licensees, importers, exporters, and their agents are required to retain or arrange for the retention of business records for a period of three years.",
+          "These persons must provide access to records, submit copies when requested, and respond to inquiries from customs officials regarding matters under the Customs Act 1969.",
+          "When records are maintained electronically, the relevant parties must operate or facilitate the operation of electronic equipment upon the request of a customs official to ensure access to the information."
+        ],
+        "Audit Agency": [
+          "Audit agencies appointed under the relevant section of the Customs Act 1969 and their employees are legally designated to act with the authority and status of customs officials for the purposes of record examination and verification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_309",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "business records",
+          "documentation",
+          "licensees",
+          "importers",
+          "exporters",
+          "agents"
+        ],
+        "Customs Records Retention": [
+          "licensees",
+          "importers",
+          "exporters",
+          "agents",
+          "business records",
+          "three years",
+          "customs officials",
+          "Customs Act 1969",
+          "electronic equipment",
+          "information"
+        ],
+        "Audit Agency": [
+          "Audit agencies",
+          "employees",
+          "Customs Act 1969",
+          "customs officials"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        63,
+        79,
+        87,
+        148,
+        157,
+        481,
+        491,
+        591,
+        755,
+        1904,
+        1987,
+        2022,
+        2483,
+        12820
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

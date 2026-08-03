@@ -1,0 +1,157 @@
+{
+  "thread_id": "cluster_00374_t1",
+  "cluster_id": 374,
+  "cluster_label": "non-judicial stamp paper",
+  "title": "General Undertaking and Bond Documentation",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the requirement for an importer to submit an undertaking on non-judicial stamp paper for industrial materials first established in the provided context?",
+      "options": [
+        "2021-08-16",
+        "2016-06-02",
+        "2024-06-06",
+        "2019-01-01"
+      ],
+      "answer_index": 1,
+      "answer": "2016-06-02",
+      "explanation": "According to the source 20160602_152-AIN_2016_14-Customs_output, the requirement for importers to submit a formal undertaking on appropriate value non-judicial stamp paper was introduced on 2016-06-02.",
+      "clause_text_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_4",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_10",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which specific industry was mandated to provide an undertaking on non-judicial stamp paper as of the June 6, 2024 policy update?",
+      "options": [
+        "Export refund applicants",
+        "Raw material importers",
+        "Generator manufacturing or assembling industries",
+        "VAT administration offices"
+      ],
+      "answer_index": 2,
+      "answer": "Generator manufacturing or assembling industries",
+      "explanation": "The source 20240606_171-AIN_2024_23_Customs_output states that registered generator manufacturing or assembling institutions are required to provide an undertaking on appropriate value non-judicial stamp paper as of 2024-06-06.",
+      "clause_text_ids": [
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the procedural requirement for exporters regarding outstanding dues as stipulated in the 2021-08-16 policy?",
+      "options": [
+        "They must pay all dues in cash before applying for a refund.",
+        "They must declare the status of outstanding dues on non-judicial stamp paper.",
+        "They are exempt from reporting dues if they use electronic filing.",
+        "They must submit a bank guarantee instead of a stamp paper undertaking."
+      ],
+      "answer_index": 1,
+      "answer": "They must declare the status of outstanding dues on non-judicial stamp paper.",
+      "explanation": "As per the 2021-08-16 source (20210816_266-AIN_2021_45_Customs_output), exporters are required to declare the status of any outstanding dues on a non-judicial stamp paper as part of their refund application procedure.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which legal framework was explicitly referenced in the 2016-06-02 policy regarding the penalties for unauthorized use of imported materials?",
+      "options": [
+        "Customs Act 2023",
+        "Customs Act 1969",
+        "VAT Act 2012",
+        "Import Policy Order 2021"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Act 1969",
+      "explanation": "The 2016-06-02 document (src=20160602_152-AIN_2016_14-Customs_output) explicitly mentions that importers must accept legal liability for duties, taxes, and penalties under the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_4",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_10"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An industrial importer submitted an undertaking on non-judicial stamp paper in 2016 for imported materials. Later, in 2024, the same company established a generator assembly unit and is required to submit a new undertaking for this operation.",
+      "question": "How does the requirement for the 'value' of the non-judicial stamp paper compare between the 2016 industrial import undertaking and the 2024 generator assembly undertaking?",
+      "answer": "Both the 2016 and 2024 requirements mandate the use of 'appropriate value' (yothajotho mullyoman) non-judicial stamp paper, maintaining the standardized procedural approach rather than specifying fixed monetary amounts.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_4",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "five years later",
+      "question": "In 2016-06-02, the requirement for 'appropriate value' stamp paper was introduced for industrial import undertakings; what change occurred five years later regarding stamp paper requirements for other types of undertakings?",
+      "answer": "On 2021-08-16, the scope for stamp paper requirements was expanded to include undertakings related to export refund processes.",
+      "clause_text_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_4",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_10"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-08-16",
+      "relative_offset": "three years later",
+      "question": "Following the 2021-08-16 mandate concerning export refund undertakings, what new requirement was introduced three years later for specific manufacturing sectors?",
+      "answer": "On 2024-06-06, a requirement was introduced for Registered Generator manufacturers or assembly institutions to provide an undertaking on non-judicial stamp paper of an appropriate value.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_10",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Exporters are mandated to provide an undertaking on non-judicial stamp paper regarding potential outstanding dues during the refund application process.",
+        "Generator manufacturing or assembling industries are required to submit an undertaking on non-judicial stamp paper as per the specified appendix.",
+        "Importers of raw materials are required to submit an undertaking on non-judicial stamp paper of appropriate value to the customs authority regarding the exclusive use of goods for industrial purposes."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Importers of raw materials are required to submit an undertaking on non-judicial stamp paper of appropriate value to the customs authority regarding the exclusive use of goods for industrial purposes.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "Exporters are mandated to provide an undertaking on non-judicial stamp paper regarding potential outstanding dues during the refund application process.",
+          "date": "2021-08-16"
+        },
+        {
+          "event": "Generator manufacturing or assembling industries are required to submit an undertaking on non-judicial stamp paper as per the specified appendix.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20160602_152-AIN_2016_14-Customs_২ জুন, ২০১৬_clause_4",
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_10",
+        "20240606_171-AIN_2024_23_Customs_২৯ মে, ২০২৪_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_152-AIN_2016_14-Customs/20160602_152-AIN_2016_14-Customs_output.json",
+        "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+        "customs_sros_OCR/20240606_171-AIN_2024_23_Customs/20240606_171-AIN_2024_23_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00374_t1__general-undertaking-and-bond-documentation.json"
+    }
+  ]
+}

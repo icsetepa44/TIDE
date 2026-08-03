@@ -1,0 +1,36 @@
+{
+  "group_id": "cluster_00052_t1__X__cluster_00140_t0",
+  "entities": [
+    "import duty",
+    "regulatory duties"
+  ],
+  "cluster_ids": [
+    52,
+    140
+  ],
+  "thread_ids": [
+    "cluster_00052_t1",
+    "cluster_00140_t0"
+  ],
+  "num_shared_clauses": 7,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the legal framework for granting exemptions on import duty and regulatory duties for Economic Zones and High-Tech Parks transitioned over time according to the provided SROs?",
+      "answer": "The legal basis for granting these duty exemptions has transitioned from the Customs Act, 1969 (section 19(1)), as seen in SROs from 2015 [0, 1, 2, 3] and 2020 [4], to the Customs Act, 2023 (section 25(1)), as evidenced in the 2024 SRO [5]. These exemptions are granted by the government in consultation with the National Board of Revenue for purposes such as the establishment of Economic Zones and High-Tech Parks.",
+      "entities_involved": [
+        "import duty",
+        "regulatory duties"
+      ],
+      "clause_text_ids": [
+        "20150701_208-AIN_2015_45-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20150701_210-AIN_2015_47-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20150701_212-AIN_2015_49-Customs_১ জুলাই, ২০১৫_clause_1",
+        "20151129_352-AIN_2015_60-Customs_২৯ নভেম্বর ২০১৫_clause_1",
+        "20200611_134-AIN_2019_85_Customs_৩ জুন, ২০২০ খ্রিষ্টাব্দ_clause_1",
+        "20240606_184-AIN_2024_36_Customs_২৯ মে, ২০২৪_clause_1"
+      ]
+    }
+  ]
+}

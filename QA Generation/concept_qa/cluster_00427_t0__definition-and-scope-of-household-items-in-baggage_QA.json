@@ -1,0 +1,208 @@
+{
+  "thread_id": "cluster_00427_t0",
+  "cluster_id": 427,
+  "cluster_label": "household items",
+  "title": "Definition and Scope of Household Items in Baggage Rules",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 15,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the definition of 'baggage' evolved in terms of weight constraints from 2011 to 2024?",
+      "answer": "In the Baggage Rules 2011, baggage was defined broadly as a reasonable quantity of food, clothing, or household items without specific weight restrictions. By the Baggage Rules 2024, the definition was refined to include a specific weight constraint, stipulating that no single item of baggage can exceed 15kg.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What shift in regulatory approach is observed in the definition of baggage between the 2011 and 2024 rules?",
+      "answer": "The regulatory approach shifted from a qualitative standard of 'reasonable quantity' to a more precise, quantitative framework. While the 2011 rules relied on general descriptions, the 2024 rules introduced explicit weight limits (maximum 15kg per item) to better distinguish between personal household items and commercial imports.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the definition of a 'passenger' changed in the context of baggage rules from 2011 to 2024?",
+      "answer": "In the Baggage Rules 2011, a passenger was defined simply as any person arriving from abroad. In the Baggage Rules 2024 and the 2025 update, the definition was narrowed to specifically refer to a non-tourist (Non-Tourist) arriving from abroad.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the significance of the 15kg weight limit introduced in the 2024 Baggage Rules regarding household items?",
+      "answer": "The 15kg weight limit serves as a regulatory tool to define the scope of 'baggage' more strictly. By setting this limit per item, the policy aims to ensure that imported goods qualify as personal or household items rather than commercial quantities, as established in the 2024-06-06 Baggage Rules.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the legal framework for 'unaccompanied baggage' reflect the evolution of customs policies?",
+      "answer": "The legal framework evolved to explicitly define 'unaccompanied baggage' as items not brought by the passenger themselves, a concept formalized in the 2024-06-06 and 2025-06-03 rules. This addition provides clarity on how goods arriving separately from the traveler are categorized under the Customs Act 2023.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the definition of 'baggage' require more precise criteria in the 2024 and 2025 rules compared to 2011?",
+      "answer": "The evolution toward precise criteria, such as the 15kg weight limit and the distinction of non-tourist passengers, reflects a shift toward more strictly regulated classifications. This transition helps the authorities better distinguish between legitimate personal/household use and potential commercial imports, as evidenced by the refinements made between the 2011 rules and the 2024/2025 updates.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Baggage Rules 2011, 'baggage' was defined to include household items, provided that no single item exceeded a weight limit of 15kg.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "provided that no single item exceeded a weight limit of 15kg",
+      "correct_fact": "The 15kg weight limit was introduced in the Baggage Rules 2024.",
+      "answer": "This statement is inaccurate. The Baggage Rules 2011 defined baggage as reasonable quantities of items without specifying a weight limit; the 15kg weight constraint per item was only introduced in the Baggage Rules 2024.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Baggage Rules 2024 define 'baggage' as reasonable quantities of food, clothing, household items, or other personal effects, with a restriction that no single item exceeds 15kg.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate according to the Baggage Rules 2024 (src=20240606_203-AIN_2024_55_Customs_output).",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2025 updates, the term 'passenger' for baggage purposes is defined as any person arriving from abroad, including both tourists and non-tourists.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "including both tourists and non-tourists",
+      "correct_fact": "The definition is restricted to non-tourist passengers.",
+      "answer": "This statement is inaccurate. The 2025 rules (src=20250603_._._._output.json) define a 'passenger' specifically as a non-tourist (Non-Tourist) arriving from abroad.",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Baggage Rules 2011 established the initial definition of 'baggage', which included household items as part of reasonable quantities of personal items.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate based on the Baggage Rules 2011 (src=20110609_165-AIN_2011_2352-Customs_output).",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024 Baggage Rules introduced the Customs Act 2010 as the primary legislation governing the rules.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Act 2010",
+      "correct_fact": "Customs Act 2023",
+      "answer": "This statement is inaccurate. The Baggage Rules 2024 (src=20240606_203-AIN_2024_55_Customs_output) define the 'Act' as the Customs Act 2023.",
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In the 2025 regulations, 'unaccompanied baggage' is defined as baggage that is not brought by the passenger themselves.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate according to the 2025 rules (src=20250603_._._._output.json).",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger arrives in Bangladesh with a household item weighing 20kg. Under the 2011 Baggage Rules, the passenger was permitted to import household items in 'reasonable quantities' without a specific weight limit per item. However, the passenger is now subject to the 2024 Baggage Rules.",
+      "question": "Does the 20kg household item qualify as 'baggage' under the current regulations compared to the 2011 rules?",
+      "answer": "No. While the 2011 rules permitted household items in reasonable quantities without a specific weight constraint, the 2024 rules (and subsequent 2025 rules) introduced a mandatory limit where no single item can exceed 15kg to qualify as baggage.",
+      "clauses_involved": [
+        "2011-06-09",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2011-06-09",
+      "relative_offset": "13 years later",
+      "question": "In 2011-06-09, baggage was defined generally as reasonable quantities of personal or household items. What significant change to the definition of baggage occurred 13 years later?",
+      "answer": "In the Baggage Rules 2024 (issued on 2024-06-06), the regulation introduced a specific weight constraint, limiting items to a maximum of 15kg each to qualify as baggage.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The definition of baggage is updated to include a specific constraint that each individual item must not exceed a weight of 15kg, and the definition of a passenger is restricted to non-tourists.",
+        "The definition of gold jewelry is adjusted to include items made of 22-karat gold or lower, while maintaining the 15kg weight limit for baggage items.",
+        "The definition of baggage is established as reasonable quantities of food, clothing, household, or other personal items imported by a passenger."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The definition of baggage is established as reasonable quantities of food, clothing, household, or other personal items imported by a passenger.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "The definition of baggage is updated to include a specific constraint that each individual item must not exceed a weight of 15kg, and the definition of a passenger is restricted to non-tourists.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The definition of gold jewelry is adjusted to include items made of 22-karat gold or lower, while maintaining the 15kg weight limit for baggage items.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_2",
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250603_._._._০২ জুন, ২০২৫_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+        "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00427_t0__definition-and-scope-of-household-items-in-baggage.json"
+    }
+  ]
+}

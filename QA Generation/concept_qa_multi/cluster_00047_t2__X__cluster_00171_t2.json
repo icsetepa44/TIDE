@@ -1,0 +1,45 @@
+{
+  "group_id": "cluster_00047_t2__X__cluster_00171_t2",
+  "entities": [
+    "baggage",
+    "Passenger Baggage Allowance"
+  ],
+  "cluster_ids": [
+    47,
+    171
+  ],
+  "thread_ids": [
+    "cluster_00047_t2",
+    "cluster_00171_t2"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How has the duty-free baggage allowance for Bangladeshi crew members working on airlines changed according to the most recent customs regulations compared to the 2012 policy?",
+      "answer": "Under the 2012 regulations [0], the duty-free baggage allowance for airline crew was 100 USD. According to the most recent regulation from 2025 [4], this allowance has been adjusted to 150 USD.",
+      "entities_involved": [
+        "baggage",
+        "Passenger Baggage Allowance"
+      ],
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What is the current duty-free allowance for baggage imported by Bangladeshi airline crew members upon returning from professional duty, and how does it compare to the allowance set in 2024?",
+      "answer": "As of the 2025 regulation [4], the duty-free allowance for baggage for airline crew members is 150 USD. This is a decrease from the 300 USD allowance that was in effect under the 2024 regulation [3].",
+      "entities_involved": [
+        "baggage",
+        "Passenger Baggage Allowance"
+      ],
+      "clause_text_ids": [
+        "20240606_203-AIN_2024_55_Customs_২৯ মে, ২০২৪_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    }
+  ]
+}

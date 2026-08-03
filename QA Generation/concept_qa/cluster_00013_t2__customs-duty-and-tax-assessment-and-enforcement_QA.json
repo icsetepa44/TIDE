@@ -1,0 +1,229 @@
+{
+  "thread_id": "cluster_00013_t2",
+  "cluster_id": 13,
+  "cluster_label": "taxes",
+  "title": "Customs Duty and Tax Assessment and Enforcement",
+  "source_num_member_objects": 18,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the Customs Rules 2025, licensees must obtain an Express Service Providers Identification Number (ESPIN) from the Customs Authority to process cargo declarations, effective from May 18, 2025.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "May 18, 2025",
+      "correct_fact": "February 17, 2025",
+      "answer": "The statement is inaccurate. The mandate for obtaining an ESPIN for customs operations was established in the Customs Rules 2025 on February 17, 2025, not May 18, 2025.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Rules 2025, the 'yellow lane' is defined as a selectivity lane in the automated system designated for reviewing documents without requiring physical examination of the goods.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. As per the Customs Rules 2025 (March 10, 2025), the 'yellow lane' is defined as a selectivity lane for document review without physical examination.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Authority requires an unconditional and continuous bank guarantee for transit or transshipment shipments, which must be released within 10 working days after the process is completed.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "10 working days",
+      "correct_fact": "7 working days",
+      "answer": "The statement is inaccurate. According to the Customs Rules 2025 dated May 18, 2025, the customs authorities must ensure the release of bonds or guarantees within 7 working days after the completion of the transit or transshipment process.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 200-Law/2025, issued on June 2, 2025, provides duty exemptions for industrial molds or dies, provided the import duty exceeds 5% of the value.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "5%",
+      "correct_fact": "1%",
+      "answer": "The statement is inaccurate. SRO 200-Law/2025 stipulates that the exemption applies to import duties that exceed 1% of the value of the industrial molds or dies.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Act 2023 serves as the foundational legal authority for the issuance of tax concessions for medical equipment imports under the June 2, 2025 orders.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The Customs Act 2023 (specifically Section 25(1)) provides the legal authority for the tax concessions issued via the June 2, 2025 regulatory orders.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, any person misusing warehouse facilities to evade duties is liable to a penalty equal to three times the amount of the evaded taxes.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "three times",
+      "correct_fact": "twice",
+      "answer": "The statement is inaccurate. According to Clause 51A of the Customs Act 1969, the penalty for misusing warehouse facilities is equal to twice the amount of the evaded duties and taxes.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer registered their business in early February 2025 by obtaining their ESPIN and user credentials. By June 2025, they wish to import industrial molds and clear their goods as quickly as possible under the new digital framework.",
+      "question": "Having already secured their ESPIN in February 2025, what additional procedural benefit regarding cargo clearance can this importer now utilize under the June 2, 2025, provisions if their consignment is not selected for physical examination?",
+      "answer": "The importer may have their consignment cleared immediately upon arrival without physical examination, provided all customs declarations are formally registered and compliant.",
+      "clauses_involved": [
+        "2025-02-17",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-02-17",
+      "relative_offset": "three months later",
+      "question": "Starting from the mandate for digital registration on February 17, 2025, what requirement was introduced three months later regarding transit and transshipment shipments?",
+      "answer": "On May 18, 2025, the Customs Rules 2025 established that each transit or transshipment shipment requires an unconditional and continuous bank guarantee from a scheduled bank in Bangladesh to mitigate revenue risks.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-05-18",
+      "relative_offset": "approximately two weeks later",
+      "question": "Following the transit guarantee requirements established on May 18, 2025, what specific regulatory changes were introduced approximately two weeks later regarding duty exemptions and cargo declarations?",
+      "answer": "On June 2, 2025, SRO 200-Law/2025 was issued, which implemented specific duty exemptions for industrial molds and medical equipment and formalized digital cargo declaration procedures.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250518_._২৭ মে, ২০২১_clause_2",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_210-AIN_2025_32_Customs_২৯ মে, ২০২৫_clause_1",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_11",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_12"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government established transit and transshipment bank guarantee requirements and updated definitions for authorized agents.",
+        "The customs authority mandated digital registration, including user IDs and ESPIN, for customs operations.",
+        "The customs rules defined economic risk and the yellow lane selectivity criteria under the customs legal framework.",
+        "The government implemented specific duty exemptions for industrial molds and medical equipment alongside formalized digital cargo declaration procedures."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The customs authority mandated digital registration, including user IDs and ESPIN, for customs operations.",
+          "date": "2025-02-17"
+        },
+        {
+          "event": "The customs rules defined economic risk and the yellow lane selectivity criteria under the customs legal framework.",
+          "date": "2025-03-10"
+        },
+        {
+          "event": "The government established transit and transshipment bank guarantee requirements and updated definitions for authorized agents.",
+          "date": "2025-05-18"
+        },
+        {
+          "event": "The government implemented specific duty exemptions for industrial molds and medical equipment alongside formalized digital cargo declaration procedures.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_9",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_2",
+        "20250518_._২৭ মে, ২০২১_clause_10",
+        "20250602_200-AIN_2025_22_Customs_২৯ মে, ২০২৫_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+        "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+        "customs_sros_OCR/20250518_./20250518_._output.json",
+        "customs_sros_OCR/20250602_200-AIN_2025_22_Customs/20250602_200-AIN_2025_22_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00013_t2__customs-duty-and-tax-assessment-and-enforcement.json"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "thread_id": "cluster_00235_t1",
+  "cluster_id": 235,
+  "cluster_label": "HS codes",
+  "title": "HS Code-Based Industrial Input Declaration and Audit",
+  "source_num_member_objects": 13,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the role of HS codes in industrial input declarations evolved from 2019 to 2025?",
+      "answer": "Initially, the 2019 NBR directive focused on standardizing declarations for footwear inputs using HS codes to track wastage and quantities. By 2025, the scope expanded significantly, with the NBR mandate now requiring detailed reporting of total production and usage metrics alongside HS codes, reflecting a shift toward more comprehensive digital inventory and production tracking.",
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_11",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the relationship between the evolution of bonded warehouse rules and the audit framework regarding HS codes?",
+      "answer": "The 2024 Bonded Warehouse Rules codified HS code requirements for licensing and inventory management, ensuring that raw material storage aligns with the audit criteria established in 2023. This integration allows customs authorities to verify declared HS codes against bond register entries and utilization declarations, effectively bridging the gap between operational warehouse management and systemic customs audits.",
+      "clause_text_ids": [
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_12",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the NBR shift from simple input declarations to integrating HS codes into transaction-based and system-based audits?",
+      "answer": "The shift, formalized in the 2023 Audit Guidelines, was driven by the need to manage customs risk effectively by identifying irregular traders or those misclassifying goods. By using HS codes as a risk factor, auditors can now cross-reference declared values and classifications against international tariff standards and import documentation to detect duty evasion or misdeclaration.",
+      "clause_text_ids": [
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the 2024 and 2025 updates to documentation requirements impact the compliance obligations of industrial enterprises?",
+      "answer": "The 2024 rules mandated that bonded warehouse applicants provide detailed commercial descriptions and HS codes for raw materials, while the 2025 NBR directive introduced a requirement to report total production and usage metrics. These changes increase compliance obligations by forcing enterprises to maintain precise alignment between their licensed input-output coefficients, actual production data, and their VAT registration records.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_12",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240912_১২-০৯-২০২৪_clause_5",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the implications of the 2023 Customs Act 1969 enforcement on the use of HS codes in customs audits?",
+      "answer": "Under Section 83(C) of the Customs Act 1969, as emphasized in the 2023 audit guidelines, misdeclaration of HS codes is treated as a punishable offence under Section 32(1). This legal framework empowers customs authorities to conduct post-clearance audits where they verify HS codes against the Bangladesh Customs Tariff and WCO Explanatory Notes, leading to the recovery of short-paid duties and the imposition of penalties for non-compliance.",
+      "clause_text_ids": [
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How has the institutional oversight of HS code declarations changed over time?",
+      "answer": "The oversight has evolved from a basic validation process by VAT commissioners, as seen in the 2019 footwear directive, to a more specialized institutional role for the Customs Audit Commissionerate. Following the 2023 Audit Guidelines, this institution now actively utilizes risk management approaches and system-based audits to verify HS code accuracy, moving beyond simple administrative signatures to systematic verification of business entity data.",
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_11",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A footwear manufacturer has been submitting input declarations since 2019. In 2025, the company is preparing a new declaration for a production order and notices that the required reporting format has changed compared to their initial filings under the 2019 directive.",
+      "question": "What specific metrics must the manufacturer now include in their 2025 declaration that were not required in the 2019 standardized declaration format?",
+      "answer": "The 2025 directive requires the inclusion of total production quantities and total usage metrics for the materials, which were absent from the 2019 format.",
+      "clauses_involved": [
+        "2019-05-30",
+        "2025-09-29"
+      ],
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_11",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A bonded warehouse operator has maintained their inventory records since before the 2024 Bonded Warehouse Rules were issued. They are now updating their internal tracking to ensure compliance with the new codification of HS code requirements for their warehouse operations.",
+      "question": "Under the 2024 rules, what must the operator do with their bond register entries when goods are removed from the warehouse, and how does this relate to their HS code documentation?",
+      "answer": "The operator must record the entry of goods in the bond register using the prescribed format (including HS codes) and must perform a 'deduction' (adjustment) from the register when goods are removed.",
+      "clauses_involved": [
+        "2024-06-06",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_12",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "four years later",
+      "question": "The NBR established a standardized declaration format for footwear production inputs in 2019-05-30; what expansion to this declaration requirement occurred four years later?",
+      "answer": "On 2023-06-01, the NBR expanded the declaration format to include raw materials and components used in the production of moulds or dies, requiring submission of HS codes, unit measurements, and waste percentages.",
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_11",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "one year later",
+      "question": "Following the 2023-06-01 directive on mould and die production materials, what significant change occurred exactly one year later regarding bonded warehouse regulations?",
+      "answer": "On 2024-06-06, the Bonded Warehouse Rules were updated to codify HS code requirements for bonded warehouse licensing and inventory management, allowing duty-free import of approved raw materials and auxiliary items.",
+      "clause_text_ids": [
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_71",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_74",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_87",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_12",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240912_১২-০৯-২০২৪_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year and nearly four months later",
+      "question": "In the period following the 2024-06-06 Bonded Warehouse Rules, what update did the NBR issue regarding input declaration forms one year and nearly four months later?",
+      "answer": "On 2025-09-29, the NBR issued a directive refining input declaration forms to include total production and usage metrics.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_12",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_9",
+        "20240912_১২-০৯-২০২৪_clause_5",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these industrial input declaration and audit events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The National Board of Revenue mandates the inclusion of total production and usage metrics within input declaration forms.",
+        "The National Board of Revenue issues a standardized declaration format specifically for inputs used in footwear manufacturing.",
+        "The National Board of Revenue expands the standardized input declaration format to cover materials used in the production of moulds or dies.",
+        "Bonded warehouse regulations are updated to codify requirements for HS code usage in licensing and inventory management."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The National Board of Revenue issues a standardized declaration format specifically for inputs used in footwear manufacturing.",
+          "date": "2019-05-30"
+        },
+        {
+          "event": "The National Board of Revenue expands the standardized input declaration format to cover materials used in the production of moulds or dies.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "Bonded warehouse regulations are updated to codify requirements for HS code usage in licensing and inventory management.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "The National Board of Revenue mandates the inclusion of total production and usage metrics within input declaration forms.",
+          "date": "2025-09-29"
+        }
+      ],
+      "clause_text_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_11",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_5",
+        "20250929_২৫ সেপ্টেম্বর, ২০২৫_clause_13"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20190530_159-AIN_2019_28_Customs/20190530_159-AIN_2019_28_Customs_output.json",
+        "customs_sros_OCR/20230601_121-AIN_2023_165_Customs/20230601_121-AIN_2023_165_Customs_output.json",
+        "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json",
+        "customs_sros_OCR/20250929/20250929_output.json"
+      ],
+      "thread_source_file": "cluster_00235_t1__hs-code-based-industrial-input-declaration-and-aud.json"
+    }
+  ]
+}

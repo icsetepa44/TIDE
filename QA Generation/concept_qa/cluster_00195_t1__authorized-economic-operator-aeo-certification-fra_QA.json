@@ -1,0 +1,250 @@
+{
+  "thread_id": "cluster_00195_t1",
+  "cluster_id": 195,
+  "cluster_label": "certification",
+  "title": "Authorized Economic Operator (AEO) Certification Framework",
+  "source_num_member_objects": 8,
+  "num_qa_pairs": 14,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the regulatory approach to Authorized Economic Operator (AEO) status shifted from the 2018 framework to the 2024 regulations?",
+      "answer": "The transition represents a shift from a static recognition status, as seen in the 2018 Rules, to a dynamic, time-bound certification framework. Under the AEO Regulations 2024, the program now mandates periodic renewal, formal audit protocols, and structured risk-based monitoring, moving away from the initial application-focused model.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75",
+        "metadata_15",
+        "metadata_2",
+        "metadata_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the implications of the 2025 regulatory changes on the oversight of certified AEO entities?",
+      "answer": "The 2025 regulations, specifically the AEO Regulations 2024, introduced stricter governance by defining clear timelines for renewals and audits. Furthermore, they established formal suspension and cancellation protocols, ensuring that customs authorities maintain the power to perform inspections based on credible intelligence despite an entity's certified status.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why does the current AEO framework prioritize automated notifications and risk management compared to earlier iterations?",
+      "answer": "The evolution toward automated notification systems—as formalized in the 2025 AEO Regulations—is designed to ensure system-wide coordination across customs offices and the Customs Risk Management Commissionerate. By mandating immediate updates upon status changes like suspension or downgrading, the framework ensures that risk profiles remain accurate and that all relevant customs stations are informed in real-time.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2024 regulatory framework balance the benefits granted to AEOs with the necessity of customs enforcement?",
+      "answer": "While the 2024 regulations provide structured benefits and renewal paths, they maintain enforcement integrity by allowing customs officials to conduct physical examinations or inspections whenever credible intelligence is received. Additionally, the framework imposes strict compliance requirements, where failure to meet operational conditions within an extended timeframe—as permitted under Rule 20(3)—leads to potential suspension or cancellation of the certification.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75",
+        "metadata_15",
+        "metadata_2",
+        "metadata_3"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What procedural protections are afforded to AEOs under the 2024 regulations when facing potential status revocation?",
+      "answer": "Under the AEO Regulations 2024, an operator facing suspension is protected by a due process requirement that includes the issuance of a show-cause notice. This provides the entity with an opportunity to offer a satisfactory explanation for alleged violations before the designated committee makes a final decision regarding permanent cancellation or reinstatement.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75",
+        "metadata_15",
+        "metadata_2",
+        "metadata_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the AEO Regulations 2024, the recognition certificate for an Authorized Economic Operator is valid for a period of two years.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "two years",
+      "correct_fact": "one year",
+      "answer": "The statement is inaccurate. As per the AEO Regulations 2024 (2025-02-17), the recognition certificate for an Authorized Economic Operator is valid for a period of one year, not two.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the AEO Regulations 2024, an entity must apply for the renewal of its AEO certificate within 60 days of the expiration of the current certificate.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "60 days",
+      "correct_fact": "30 days",
+      "answer": "The statement is inaccurate. According to the 2025-02-17 update of the AEO Regulations 2024, an entity must apply for renewal within 30 days of the expiration of the certificate's validity period.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Authorized Economic Operator Center may grant an extension of up to 6 months for existing certified entities to fulfill applicable operational conditions under Rule 20(3) of the 2024 Rules.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. As documented in the 2025-02-16 source, Rule 20(3) of the Authorized Economic Operator (Recognition and Management) Rules 2024 allows for an extension of up to 6 months to fulfill operational conditions.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Even if an entity holds AEO certification, customs officials are prohibited from performing physical examinations on their consignments under any circumstances.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "prohibited from performing physical examinations",
+      "correct_fact": "authorized to perform physical examinations based on credible intelligence",
+      "answer": "The statement is inaccurate. According to the 2025-01-21 regulations, AEO certification does not preclude customs authorities from performing physical examinations or inspections if credible intelligence information is received regarding the consignments.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Following the receipt of a renewal application, the AEO Center is required to complete the verification and onsite post-clearance audit and renew the certificate within 60 days.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. Per the 2025-02-17 regulations, the AEO Center must process the application, conduct the onsite audit, and finalize the renewal within 60 days of receiving the application.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "If an AEO operator's status is suspended, cancelled, or downgraded, the Center must notify the Customs Automation Branch of the Board immediately.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "The statement is accurate. According to the 2025-01-21 documentation, the Center is mandated to immediately notify the Customs Automation Branch of the Board, among other offices, regarding any suspension, cancellation, or downgrading of an operator's status.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An entity received its AEO certification and was operating under the initial framework established on January 21, 2025. Following the updates on February 17, 2025, the entity now needs to understand the duration of its status and the procedure for maintaining it.",
+      "question": "How did the regulatory requirements for the validity and maintenance of the AEO certification change for the entity between January 21, 2025, and February 17, 2025?",
+      "answer": "While the January 21, 2025 regulations focused on risk management and suspension protocols, the February 17, 2025 regulations introduced a fixed one-year validity period for the certificate and mandated that entities apply for renewal within 30 days after the expiration of that term to continue receiving AEO benefits.",
+      "clauses_involved": [
+        "2025-01-21",
+        "2025-02-17"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "less than one month later",
+      "question": "Starting from the establishment of risk management and suspension protocols on 2025-01-21, what specific procedural framework for AEO certification was introduced less than one month later?",
+      "answer": "On 2025-02-17, the AEO Regulations 2024 were updated to define specific timelines for the renewal, audit, and formal notification of status changes, as well as establishing that the recognition certificate is valid for a period of one year.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_141",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13",
+        "20250217_2024_2024-06-06_clause_75"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The regulatory body defined specific timelines for the renewal of certification, mandatory audit procedures, and formal notification protocols for status changes.",
+        "The regulatory body established risk management protocols and procedures for the suspension or cancellation of status for recognized entities.",
+        "The regulatory body provided a mechanism allowing existing certified entities to apply for an extension of the time limit to fulfill operational conditions."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The regulatory body established risk management protocols and procedures for the suspension or cancellation of status for recognized entities.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "The regulatory body provided a mechanism allowing existing certified entities to apply for an extension of the time limit to fulfill operational conditions.",
+          "date": "2025-02-16"
+        },
+        {
+          "event": "The regulatory body defined specific timelines for the renewal of certification, mandatory audit procedures, and formal notification protocols for status changes.",
+          "date": "2025-02-17"
+        }
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_43",
+        "20250217_2024_2024-06-06_clause_13"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+        "customs_rules_OCR/20250217_2024/20250217_2024_output.json"
+      ],
+      "thread_source_file": "cluster_00195_t1__authorized-economic-operator-aeo-certification-fra.json"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "thread_id": "cluster_00231_t1",
+  "cluster_id": 231,
+  "cluster_label": "applicants",
+  "title": "Customs Agent Licensing",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A veteran customs agent has spent over a decade successfully navigating the complex clearance processes at the Chattogram port. Seeking to broaden their reach, they are now finalizing plans to begin operations at the Benapole land port. As they prepare their paperwork to secure a reference license for this new location, they are reviewing the extensive list of documentation mandated for new applicants. They are concerned about whether they must repeat the entire submission process for every document listed under Rule 5(2)(7) despite their long-standing professional track record.",
+      "question": "Does this agent need to fulfill all the documentary requirements listed in Rule 5(2)(7) to obtain a reference license?",
+      "answer": "No, because the agent has at least ten years of satisfactory operational experience, they are exempted from specific documentary requirements under the 2016 rules.",
+      "date_or_instrument": "2016-06-02",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_11"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A long-standing warehouse owner has reached an agreement to sell their entire facility to a new business entity in 2024. The transition involves a formal change of ownership that has already received the necessary regulatory approval. As the new owners take charge of the facility's daily operations and bonded cargo, they are reviewing their legal obligations regarding the existing financial guarantees. They are now questioning their specific responsibilities concerning the general bond that was previously held by the former owner.",
+      "question": "What must the new owners do regarding the general bond after the ownership transfer is approved?",
+      "answer": "The new owners must execute a new general bond in accordance with the General Bond Rules 2024, replacing any existing valid bonds.",
+      "date_or_instrument": "2024-06-06",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2010, the National Board of Revenue undertook a strategic review of its administrative oversight bodies, specifically focusing on the committee responsible for customs agent licensing. The board recognized a need for greater flexibility in how these committees were structured to ensure efficiency in decision-making. Consequently, they decided to revise the specific eligibility criteria for the officials appointed to these roles. The question arises regarding how the official requirement for the 'most senior' joint commissioner and deputy/assistant commissioner was adjusted in the updated policy.",
+      "question": "How was the composition of the committee modified regarding the joint commissioner and deputy/assistant commissioner roles?",
+      "answer": "The requirement for the 'most senior' joint commissioner and deputy/assistant commissioner was replaced with a general requirement for 'a joint commissioner and a deputy commissioner/assistant commissioner'.",
+      "date_or_instrument": "2010-06-10",
+      "clause_text_ids": [
+        "20100610_196-AIN_2010_2314-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A logistics entrepreneur has decided to enter the competitive field of customs brokerage and is currently gathering all the necessary information to apply for a formal Customs Agent license. They have consulted with the authorities to ensure their submission complies with the current regulatory framework. To initiate the legal process correctly, they need to identify the specific, standardized document required by the board to process their request.",
+      "question": "What is the name of the standardized application form required for this process?",
+      "answer": "Form Ka (ফরম-ক) is the standardized application document required for individuals or entities seeking a Customs Agent license.",
+      "date_or_instrument": "2016-06-05",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_11"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A large, bonded warehouse institution is currently navigating a significant transition as its management board undergoes a total restructuring. The current owners have filed an official request for an ownership transfer to the incoming management group. Before the licensing authority grants final approval for this change, they have insisted on a thorough review of the institution's fiscal and operational history. The applicants are now seeking clarity on the specific conditions and requirements they must satisfy for the authority to greenlight the transfer.",
+      "question": "What conditions must be met for the licensing authority to approve the ownership transfer?",
+      "answer": "The institution's audit must be updated, there must be no outstanding liabilities, all conditions for a new license must be met, and the authority must interview the old and new owners.",
+      "date_or_instrument": "2024-06-06",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs agent who has built a solid reputation at their primary customs station is now ready to expand their footprint to a different customs station. They are preparing their formal application for a reference license to allow them to operate at this additional location. As they compile their submission package for the licensing authority, they are double-checking the specific procedural requirements. They need to know which exact documents and specific form types must accompany their application to ensure it is accepted.",
+      "question": "What documentation must the agent submit to the licensing authority along with the application?",
+      "answer": "The agent must submit a copy of their original license and the documents described in Rule 5, formatted as Form Ga.",
+      "date_or_instrument": "2016-06-02",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_11"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs agent licensed under the 2016 rules wishes to expand their operations to a new customs station and subsequently undergoes a complete change in their management board and ownership in 2024.",
+      "question": "Which specific procedural requirements must the agent follow for their expansion versus their ownership change, considering the evolution of the licensing framework?",
+      "answer": "For the expansion (reference license), the agent must follow the 2016 procedure, which requires submitting a copy of the original license and documentation for oral examination. For the ownership change, the agent must follow the 2024 Warehouse Licensing Rules, which require an application with documentation listed in Schedule-3, provided the institution's audit is updated and there are no outstanding liabilities.",
+      "clauses_involved": [
+        "2016-06-02",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_11",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In 2010-06-10, the licensing authority committee composition was modified; what significant regulatory change regarding customs agent operations occurred six years later?",
+      "answer": "Six years later, in 2016-06-02, the Customs Agents (Licensing) Rules 2016 were introduced, which defined the procedure for obtaining reference licenses, allowing agents to operate at customs stations other than their original licensed location.",
+      "clause_text_ids": [
+        "20100610_196-AIN_2010_2314-Customs_১০ জুন, ২০১০_clause_1",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_11"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-06-02",
+      "relative_offset": "eight years later",
+      "question": "Following the 2016-06-02 introduction of reference license procedures, what new procedural requirement was established for licensed entities eight years later?",
+      "answer": "Eight years later, in 2024-06-06, the Warehouse Licensing Rules were established, which created specific procedures for reporting and approving partial or complete changes in the management board or ownership of licensed warehouse entities.",
+      "clause_text_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_11",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The licensing authority committee composition is modified to include a joint commissioner and a deputy or assistant commissioner.",
+        "Procedures are established for warehouse license holders to apply for approval when there is a partial or complete change in the management board or ownership.",
+        "Customs agents are permitted to apply for a reference license to operate at customs stations other than the one specified in their primary license."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The licensing authority committee composition is modified to include a joint commissioner and a deputy or assistant commissioner.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "Customs agents are permitted to apply for a reference license to operate at customs stations other than the one specified in their primary license.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "Procedures are established for warehouse license holders to apply for approval when there is a partial or complete change in the management board or ownership.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_196-AIN_2010_2314-Customs_১০ জুন, ২০১০_clause_1",
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_11",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_20"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_196-AIN_2010_2314-Customs/20100610_196-AIN_2010_2314-Customs_output.json",
+        "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+        "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00231_t1__customs-agent-licensing.json"
+    }
+  ]
+}

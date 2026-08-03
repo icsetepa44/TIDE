@@ -1,0 +1,153 @@
+{
+  "thread_id": "cluster_00006_t2",
+  "cluster_id": 6,
+  "cluster_label": "Government",
+  "title": "Trade Agreement Implementation",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A Dhaka-based importer is finalizing the clearance of a large consignment arriving from an OIC member state in late 2022. Eager to optimize his overhead costs, he reviews the recent government notifications to understand the legal framework supporting the preferential duty treatment his goods are receiving. He wants to ensure his documentation is robust and fully aligned with the statutory power vested in the authorities.",
+      "question": "What legal authority allows the Government to grant these duty concessions for the TPS-OIC agreement?",
+      "answer": "Section 19(1) of the Customs Act 1969 empowers the Government to grant exemptions or concessions on import duties, following consultation with the National Board of Revenue.",
+      "date_or_instrument": "2022-10-18 | SRO 251-2022",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs officer at the Chittagong port is inspecting a shipment of industrial components imported from a fellow D-8 member state. As he prepares the assessment report, he needs to confirm that the items are not just originating from the partner country, but strictly adhere to the specific procedural benchmarks established by the trade agreement. He is looking to verify the exact criteria the goods must meet to qualify for the preferential rates.",
+      "question": "What requirement must the goods satisfy to benefit from the reduced import duty rates under the D-8 Preferential Trade Agreement?",
+      "answer": "The goods must satisfy the rules of origin specified in the agreement to qualify for the reduced import duty rates.",
+      "date_or_instrument": "2022-10-18 | SRO 252-2022",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A local manufacturer is sourcing essential raw materials from Bhutan and is carefully analyzing the new trade benefits available under the bilateral agreement. She is trying to determine the full scope of fiscal relief she can claim for her production inputs. Specifically, she needs to clarify whether the agreement provides relief solely on basic customs duties or if it also extends to the various para-tariffs applied at the border.",
+      "question": "Under the Bangladesh-Bhutan Preferential Trade Agreement, what types of trade taxes can be reduced or waived for eligible goods?",
+      "answer": "The agreement allows for the reduction or total waiver of both import duties (tariff) and para-tariffs.",
+      "date_or_instrument": "2022-10-18 | SRO 259-2022",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A customs consultant is advising a client on the regulatory procedures for seeking duty exemptions under the Customs Act 1969. To provide accurate guidance, he is researching the formal administrative steps the government must take before any official notification for such relief can be issued. He needs to confirm which specific government body is legally mandated to be part of this consultative process.",
+      "question": "Which government body must the Government consult with before issuing notifications for customs duty exemptions under Section 19(1)?",
+      "answer": "The Government must consult with the National Board of Revenue.",
+      "date_or_instrument": "2022-10-18 | SRO 251-2022",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A trader specializing in cross-border commerce with D-8 nations is conducting an audit of his international trade compliance. As part of his due diligence, he is reviewing the official documentation regarding the D-8 Preferential Trade Agreement to ensure his records are historically accurate. He needs to pinpoint the precise date when the agreement transitioned from a signed document to an officially effective instrument.",
+      "question": "On what date did the Preferential Trade Agreement Among D-8 Member States become effective?",
+      "answer": "The agreement became effective on August 25, 2011.",
+      "date_or_instrument": "2022-10-18 | SRO 252-2022",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "While preparing his customs declarations for a shipment arriving under the TPS-OIC agreement, an importer is cross-referencing his cargo manifests with the national tariff schedule. He notices that certain goods qualify for significantly lower duty rates and wants to understand the technical method used by the authorities to categorize these specific items. He is looking for the mechanism that links these concessional benefits to his imported products.",
+      "question": "How are the goods that are granted a concessional customs duty rate under the TPS-OIC agreement identified?",
+      "answer": "They are identified by H.S. Codes listed in the table provided in the notification.",
+      "date_or_instrument": "2022-10-18 | SRO 251-2022",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "On October 18, 2022, the Government issued SRO 252-Act/2022/132/Customs to implement the D-8 Preferential Trade Agreement, which was officially signed and became effective in 2022 to initiate the trade framework between member states.",
+      "question": "When did the Preferential Trade Agreement Among D-8 Member States actually become effective according to the official customs documentation?",
+      "conflict": "The misaligned context incorrectly suggests the D-8 agreement became effective in 2022, whereas the SRO states it became effective earlier.",
+      "answer": "According to SRO 252-Act/2022/132/Customs dated October 18, 2022, the Preferential Trade Agreement Among D-8 Member States actually became effective on August 25, 2011.",
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer is planning to bring goods into Bangladesh from both a D-8 member state and Bhutan. The importer notes that while both trade agreements were formalized through SROs issued on the same day (2022-10-18), the legal basis for the concessions granted for each origin differs in its scope regarding the types of duties covered.",
+      "question": "How does the scope of duty relief for imports from Bhutan differ from the scope for D-8 member states under the 2022-10-18 notifications?",
+      "answer": "The Bhutan agreement (SRO 259) provides for the reduction or waiver of both import duties (tariff) and para-tariffs, whereas the D-8 agreement (SRO 252) specifically focuses on concessions regarding import duty rates.",
+      "clauses_involved": [
+        "2022-10-18_252-Act_2022_132_Customs_output",
+        "2022-10-18_259-Act_2022_134_Customs_output"
+      ],
+      "clause_text_ids": [
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government formalizes duty concessions for member states under the Framework Agreement on Trade Preferential System among the Organization of Islamic Conference member states.",
+        "The government implements duty concessions for goods originating from D-8 member states under the framework of the Preferential Trade Agreement, incorporating rules of origin requirements.",
+        "The government reduces or waives import duties and para-tariffs on goods listed in the annex of the Preferential Trade Agreement between Bangladesh and Bhutan."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government implements duty concessions for goods originating from D-8 member states under the framework of the Preferential Trade Agreement, incorporating rules of origin requirements.",
+          "date": "2022-10-18"
+        },
+        {
+          "event": "The government formalizes duty concessions for member states under the Framework Agreement on Trade Preferential System among the Organization of Islamic Conference member states.",
+          "date": "2022-10-18"
+        },
+        {
+          "event": "The government reduces or waives import duties and para-tariffs on goods listed in the annex of the Preferential Trade Agreement between Bangladesh and Bhutan.",
+          "date": "2022-10-18"
+        }
+      ],
+      "clause_text_ids": [
+        "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+        "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_1",
+        "20221018_259-Act_2022_134_Customs_August 4, 2022_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20221018_251-Act_2022_133_Customs/20221018_251-Act_2022_133_Customs_output.json",
+        "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+        "customs_sros_OCR/20221018_259-Act_2022_134_Customs/20221018_259-Act_2022_134_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00006_t2__trade-agreement-implementation.json"
+    }
+  ]
+}

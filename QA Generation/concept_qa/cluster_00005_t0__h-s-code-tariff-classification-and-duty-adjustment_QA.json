@@ -1,0 +1,547 @@
+{
+  "thread_id": "cluster_00005_t0",
+  "cluster_id": 5,
+  "cluster_label": "H.S. Code",
+  "title": "H.S. Code Tariff Classification and Duty Adjustment",
+  "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json",
+  "source_num_member_objects": 78,
+  "num_qa_pairs": 32,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 7,
+    "temporal_mcq": 6,
+    "event_sorting": 1,
+    "open_ended": 6,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 4
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In June 2010, a customs clearing agent in Chittagong, Mr. Rahman, is processing a shipment of raw materials. He refers to the old S.R.O. 11-AIN/2005 (dated 16 January 2005) to check the H.S. Code for a specific item listed under Serial Number 1 of Table 'Part-A'. However, he is informed that S.R.O. 185-AIN/2010 has just been issued, amending this entry.",
+      "question": "Under S.R.O. 185-AIN/2010, what new H.S. Code replaces the previous entry of '3806.90.00' for Serial Number 1 in the Table?",
+      "answer": "3806.90.90",
+      "date_or_instrument": "June 10, 2010 / S.R.O. 185-AIN/2010/2303/Customs",
+      "clause_text_ids": [
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_185-AIN_2010_2303-Customs/20100610_185-AIN_2010_2303-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In July 2011, a feed manufacturing company, 'Bengal Agro Ltd.', is importing a shipment of specialized nutritional supplements for animal feed under H.S. Code 2309.90.10. The customs officer initially hesitates because the old description under S.R.O. 172-AIN/2008 only covered 'Poultry/Dairy/ Fish feed'. The company's consultant points out that a June 2011 amendment (S.R.O. 171-AIN/2011) expanded this description.",
+      "question": "What is the exact expanded description substituted for 'Poultry/Dairy/ Fish feed' under H.S. Code 2309.90.10 by S.R.O. 171-AIN/2011?",
+      "answer": "Poultry/Dairy/Fish feed/ Food suppliment/Additives",
+      "date_or_instrument": "June 9, 2011 / S.R.O. 171-AIN/2011/2358/Customs",
+      "clause_text_ids": [
+        "20110609_171-AIN_2011_2358-Customs_০৯ জুন, ২০১১_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_171-AIN_2011_2358-Customs/20110609_171-AIN_2011_2358-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In late 2012, a logistics manager at 'Dhaka Import Hub' is reviewing the pre-shipment inspection (PSI) requirements for a large consignment of goods. He refers to S.R.O. 178-AIN/2012, which repealed the previous year's S.R.O. 158-AIN/2011. He wants to know if goods with zero import duty in the First Schedule are exempt from mandatory pre-shipment inspection.",
+      "question": "According to S.R.O. 178-AIN/2012, are goods whose import duty (Customs duty) rate is shown as zero (0%) in the First Schedule of the Customs Act, 1969 exempt from mandatory pre-shipment inspection?",
+      "answer": "Yes, they are exempted from mandatory pre-shipment inspection.",
+      "date_or_instrument": "June 7, 2012 / S.R.O. 178-AIN/2012/2406/Customs",
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_178-AIN_2012_2406-Customs/20120607_178-AIN_2012_2406-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In June 2014, a pharmaceutical importer is preparing customs clearance documents for a chemical compound under S.R.O. 169-AIN/2005. The clearing agent notices that S.R.O. 126-AIN/2014 has just been gazetted, modifying the H.S. Code for a specific chemical under the table.",
+      "question": "Which new H.S. Code is substituted for the previous code '2905.31.00' under S.R.O. 126-AIN/2014?",
+      "answer": "2905.31.90",
+      "date_or_instrument": "June 5, 2014 / S.R.O. 126-AIN/2014/2490/Customs",
+      "clause_text_ids": [
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_126-AIN_2014_2490-Customs/20140605_126-AIN_2014_2490-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2016, 'Savar Agri-Tech Ltd.' plans to import specialized components to assemble modern agricultural machinery in Bangladesh. To claim the duty concession benefits under the newly issued regulations, the company's compliance officer must ensure they meet all institutional registration and certification prerequisites.",
+      "question": "According to the agricultural machinery concession terms of S.R.O. 154-AIN/2016/16/Customs, which two specific laws/rules must the importer-manufacturer be registered under, and from which ministry's Secretary must they obtain a recommendation?",
+      "answer": "Value Added Tax Act 1991 and Value Added Tax Rules 1991, with a recommendation from the Secretary of the Ministry of Agriculture.",
+      "date_or_instrument": "June 2, 2016 / S.R.O. 154-AIN/2016/16/Customs",
+      "clause_text_ids": [
+        "20160602_154-AIN_2016_16-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_154-AIN_2016_16-Customs/20160602_154-AIN_2016_16-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "During a post-clearance audit in late 2017, a customs auditor is reviewing a declaration made under the 'Spare Parts' (যন্ত্রাংশ) definition of S.R.O. 128-AIN. The importer declared parts falling under Heading 84.01 to Heading 94.06 of the First Schedule. The auditor needs to verify if any specific H.S. Codes under these headings are explicitly excluded from being classified as 'Spare Parts' under this definition.",
+      "question": "Under the explanation of 'Spare Parts' (যন্ত্রাংশ) in S.R.O. 128-AIN, which two specific H.S. Codes are explicitly excluded from the parts listed under Headings 84.01 to 94.06?",
+      "answer": "H.S. Code 8448.51.00 and H.S. Code 8503.00.20",
+      "date_or_instrument": "June 1, 2017 / S.R.O. 128-AIN",
+      "clause_text_ids": [
+        "20170601_128-AIN__১ জুন, ২০১৭_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_128-AIN_/20170601_128-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In July 2017, a VAT-registered food processing factory is importing a bulk consignment of dry mixed ingredients used in food preparation. The customs officer checks Table-3 under S.R.O. 135-AIN to see if this specific category has been inserted and what import duty rate applies to it.",
+      "question": "According to S.R.O. 135-AIN, what H.S. Code is inserted for bulk dry mixed ingredients of food preparation imported by VAT-registered food processing industries, and what is its listed import duty rate?",
+      "answer": "H.S. Code 1901.90.20 with an import duty rate of 10",
+      "date_or_instrument": "June 1, 2017 / S.R.O. 135-AIN",
+      "clause_text_ids": [
+        "20170601_135-AIN__2017-06-01_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_135-AIN_/20170601_135-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "How did the classification of goods under Sl. No. 1 of S.R.O. 11-AIN/2005/2063/Customs evolve through the amendment issued on June 10, 2010 (S.R.O. 185-AIN/2010/2303/Customs)?",
+      "options": [
+        "The entry '3806.90.00' was replaced with '3806.90.90'.",
+        "The entry '3806.90.90' was replaced with '3806.90.00'.",
+        "The entry '3806.90.00' was completely deleted from the table.",
+        "The entry '3806.90.00' was replaced with '8703.21.12'."
+      ],
+      "answer_index": 0,
+      "answer": "The entry '3806.90.00' was replaced with '3806.90.90'.",
+      "explanation": "According to S.R.O. 185-AIN/2010/2303/Customs dated 2010-06-10, which amended S.R.O. 11-AIN/2005/2063/Customs, the entry '3806.90.00' under Sl.No. 1 of column (2) of Table Part-A was replaced with the entry '3806.90.90'.",
+      "clause_text_ids": [
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_185-AIN_2010_2303-Customs/20100610_185-AIN_2010_2303-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "S.R.O. No. 169-AIN/2005/2078/Customs underwent multiple amendments over time. What specific H.S. Code replacement was introduced to this S.R.O. on June 5, 2014, and what replacements were made later on June 4, 2015?",
+      "options": [
+        "In 2014, '2905.31.00' was replaced with '2905.31.90'; in 2015, '3204.13.00' and '3206.19.00' were replaced with '3204.13.90' and '3206.19.90' respectively.",
+        "In 2014, '3204.13.00' was replaced with '3204.13.90'; in 2015, '2905.31.00' was replaced with '2905.31.90'.",
+        "In 2014, '2905.31.00' was replaced with '2905.31.90'; in 2015, '7307.99.00' was replaced with '7307.99.90'.",
+        "In 2014, '8537.10.00' was replaced with '8537.10.90'; in 2015, '2905.31.00' was replaced with '2905.31.90'."
+      ],
+      "answer_index": 0,
+      "answer": "In 2014, '2905.31.00' was replaced with '2905.31.90'; in 2015, '3204.13.00' and '3206.19.00' were replaced with '3204.13.90' and '3206.19.90' respectively.",
+      "explanation": "S.R.O. 126-AIN/2014/2490/Customs (issued June 5, 2014) amended S.R.O. 169-AIN/2005/2078/Customs by replacing H.S. Code '2905.31.00' with '2905.31.90'. Later, S.R.O. 156-AIN/2015/36/Customs (issued June 4, 2015) further amended the same S.R.O. by replacing '3204.13.00' with '3204.13.90' and '3206.19.00' with '3206.19.90'.",
+      "clause_text_ids": [
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_126-AIN_2014_2490-Customs/20140605_126-AIN_2014_2490-Customs_output.json",
+        "customs_sros_OCR/20150604_156-AIN_2015_36-Customs/20150604_156-AIN_2015_36-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "In 2016, S.R.O. 169-AIN/2016/31/Customs further amended S.R.O. 11-AIN/2005/2063/Customs. What specific change was made to the H.S. Codes under Sl. No. 14 and 15?",
+      "options": [
+        "The H.S. Code '7307.99.90' was replaced with '7307.99.00'.",
+        "The H.S. Code '7307.99.00' (listed twice) was replaced in both places with '7307.99.90'.",
+        "The H.S. Code '3806.90.00' was replaced with '3806.90.90'.",
+        "Sl. No. 14 and 15 were completely deleted from the table."
+      ],
+      "answer_index": 1,
+      "answer": "The H.S. Code '7307.99.00' (listed twice) was replaced in both places with '7307.99.90'.",
+      "explanation": "Clause [18] shows that on June 2, 2016, S.R.O. 169-AIN/2016/31/Customs amended S.R.O. 11-AIN/2005/2063/Customs such that the H.S. Code '7307.99.00', which was mentioned twice under Sl. No. 14 and 15, was replaced in both places with '7307.99.90'.",
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_169-AIN_2016_31-Customs/20160602_169-AIN_2016_31-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "On June 9, 2011, S.R.O. 171-AIN/2011/2358/Customs amended the descriptions under H.S. Code 2309.90.10 (Heading No. 23.09) of S.R.O. 172-AIN/2008/2200/Customs. What was the exact change in wording?",
+      "options": [
+        "The words 'Poultry/Dairy/ Fish feed' were replaced with 'Poultry/Dairy/Fish feed/ Food suppliment/Additives'.",
+        "The words 'Poultry/Dairy/ Fish feed' were replaced with 'Dry Mixed Ingredient of food preparation'.",
+        "The words 'Poultry/Dairy/Fish feed/ Food suppliment/Additives' were replaced with 'Poultry/Dairy/ Fish feed'.",
+        "The words 'Poultry/Dairy/ Fish feed' were replaced with 'Poultry/Dairy/Fish feed and Veterinary Products'."
+      ],
+      "answer_index": 0,
+      "answer": "The words 'Poultry/Dairy/ Fish feed' were replaced with 'Poultry/Dairy/Fish feed/ Food suppliment/Additives'.",
+      "explanation": "S.R.O. 171-AIN/2011/2358/Customs amended the table of S.R.O. 172-AIN/2008/2200/Customs under Heading No. 23.09, H.S. Code 2309.90.10, replacing 'Poultry/Dairy/ Fish feed' with 'Poultry/Dairy/Fish feed/ Food suppliment/Additives'.",
+      "clause_text_ids": [
+        "20110609_171-AIN_2011_2358-Customs_০৯ জুন, ২০১১_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_171-AIN_2011_2358-Customs/20110609_171-AIN_2011_2358-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under S.R.O. 178-AIN/2012/2406/Customs issued on June 7, 2012, which previous notification was repealed, and what was established as the first category of goods exempted from mandatory pre-shipment inspection?",
+      "options": [
+        "It repealed S.R.O. 158-AIN/2011/2344/Customs and exempted goods under the First Schedule of the Customs Act 1969 where the import duty rate is shown as zero.",
+        "It repealed S.R.O. 137-AIN/2009/2240/Customs and exempted goods under the First Schedule with an import duty rate of 10% or less.",
+        "It repealed S.R.O. 11-AIN/2005/2063/Customs and exempted all imports by government, semi-government, and sector corporations.",
+        "It repealed S.R.O. 183-AIN/2009/2263/Customs and exempted raw materials imported by VAT registered food processing industries."
+      ],
+      "answer_index": 0,
+      "answer": "It repealed S.R.O. 158-AIN/2011/2344/Customs and exempted goods under the First Schedule of the Customs Act 1969 where the import duty rate is shown as zero.",
+      "explanation": "S.R.O. 178-AIN/2012/2406/Customs repealed S.R.O. 158-AIN/2011/2344/Customs and exempted several categories from mandatory pre-shipment inspection. The first category listed is goods under the FIRST SCHEDULE of the Customs Act, 1969, where the import duty (Customs duty) rate is shown as zero.",
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_178-AIN_2012_2406-Customs/20120607_178-AIN_2012_2406-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "On June 1, 2017, S.R.O. 135-AIN/Customs updated TABLE-3 by inserting new H.S. Codes. Which of the following correctly identifies a code inserted and its specific target industry condition?",
+      "options": [
+        "H.S. Code '1901.90.20' (Dry Mixed Ingredient of food preparation in bulk) was inserted after '0404.10.10', specifically for imports by VAT registered food processing industries.",
+        "H.S. Code '3215.90.20' (Ink for ball point pen) was inserted after '0404.10.10', for imports by any manufacturing industry.",
+        "H.S. Code '1901.90.20' was inserted after '2710.19.22', for imports by non-registered food processing industries.",
+        "H.S. Code '3215.90.20' was inserted after '1901.90.20', for agricultural machinery parts."
+      ],
+      "answer_index": 0,
+      "answer": "H.S. Code '1901.90.20' (Dry Mixed Ingredient of food preparation in bulk) was inserted after '0404.10.10', specifically for imports by VAT registered food processing industries.",
+      "explanation": "According to S.R.O. 135-AIN/Customs dated June 1, 2017, H.S. Code '1901.90.20' for 'Dry Mixed Ingredient of food preparation in bulk imported by VAT registered food processing industries' was inserted after H.S. Code '0404.10.10' in TABLE-3.",
+      "clause_text_ids": [
+        "20170601_135-AIN__2017-06-01_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_135-AIN_/20170601_135-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the registration and eligibility criteria for manufacturers seeking duty concessions evolve by 2016, specifically for agricultural machinery, and how does this contrast with the declaration process of 2014 for pre-fabricated building importers?",
+      "answer": "In 2014, importers of pre-fabricated buildings were required to provide a declaration (under S.R.O. 137-AIN/2014) detailing the heading, H.S. Code, description, and quantity of goods based on approved designs, alongside their VAT registration number. By 2016, the requirements became more stringent and sector-specific; under S.R.O. 154-AIN/2016, agricultural machinery manufacturers seeking concessions had to not only be registered under the VAT Act 1991 and Rules 1991, but also be registered as a progressive manufacturer with the Board of Investment, and obtain a certification from the Secretary of the Ministry of Agriculture validating their institutional capacity and experience.",
+      "clause_text_ids": [
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_3",
+        "20160602_154-AIN_2016_16-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_137-AIN_2014_2501-Customs/20140605_137-AIN_2014_2501-Customs_output.json",
+        "customs_sros_OCR/20160602_154-AIN_2016_16-Customs/20160602_154-AIN_2016_16-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Analyze the systematic shift in H.S. Code subdivision formats between the years 2010, 2014, and 2015, specifically focusing on the amendments made to S.R.O. 11-AIN/2005 and S.R.O. 169-AIN/2005. How do these changes reflect the refinement of classification codes?",
+      "answer": "The refinement of classification codes is demonstrated by the transition of specific items from generic sub-headings to more detailed subdivisions (ending in \".90\" or \".00\"). In 2010, S.R.O. 185-AIN/2010 amended S.R.O. 11-AIN/2005 by replacing H.S. Code \"3806.90.00\" with \"3806.90.90\". In 2014, S.R.O. 126-AIN/2014 amended S.R.O. 169-AIN/2005 by replacing H.S. Code \"2905.31.00\" with \"2905.31.90\". This trend of replacing \".00\" endings with \".90\" continued in 2015, where S.R.O. 156-AIN/2015 further amended S.R.O. 169-AIN/2005 by replacing \"3204.13.00\" with \"3204.13.90\" and \"3206.19.00\" with \"3206.19.90\". This shows a consistent regulatory pattern of expanding classification granularity.",
+      "clause_text_ids": [
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_185-AIN_2010_2303-Customs/20100610_185-AIN_2010_2303-Customs_output.json",
+        "customs_sros_OCR/20140605_126-AIN_2014_2490-Customs/20140605_126-AIN_2014_2490-Customs_output.json",
+        "customs_sros_OCR/20150604_156-AIN_2015_36-Customs/20150604_156-AIN_2015_36-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "In 2017, how did S.R.O. 135-AIN/2017 utilize VAT-registration status to target duty concessions for specific industrial raw materials, and what specific H.S. Codes were introduced for this purpose?",
+      "answer": "S.R.O. 135-AIN/2017 targeted duty concessions to specific local manufacturing sectors by inserting new H.S. Codes into TABLE-3 that explicitly require VAT-registration. Specifically, it inserted H.S. Code \"1901.90.20\" for \"Dry Mixed Ingredient of food preparation in bulk\" imported exclusively by VAT-registered food processing industries (placed after code \"0404.10.10\"), and H.S. Code \"3215.90.20\" for \"Ink for ball point pen\" imported exclusively by VAT-registered ball point pen manufacturers (placed after code \"2710.19.22\").",
+      "clause_text_ids": [
+        "20170601_135-AIN__2017-06-01_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_135-AIN_/20170601_135-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Explain the scope of the definition of 'parts' (যন্ত্রাংশ) as formalized in S.R.O. 128-AIN/2017, including the specific exclusions and the range of First Schedule headings involved.",
+      "answer": "According to S.R.O. 128-AIN/2017, 'parts' (যন্ত্রাংশ) is defined to encompass goods falling under Headings 39.23 to 82.09 of the First Schedule, as well as goods explicitly listed as 'Parts' under Headings 84.01 to 94.06 of the First Schedule. However, this definition explicitly excludes two specific H.S. Codes: 8448.51.00 and 8503.00.20.",
+      "clause_text_ids": [
+        "20170601_128-AIN__১ জুন, ২০১৭_clause_4"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_128-AIN_/20170601_128-AIN__output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "How did the criteria for exempting goods from mandatory pre-shipment inspection under S.R.O. 178-AIN/2012 relate to the customs duty rates specified in the First Schedule of the Customs Act 1969?",
+      "answer": "Under S.R.O. 178-AIN/2012, which repealed S.R.O. 158-AIN/2011, the government exempted certain goods from mandatory pre-shipment inspection based directly on their tariff rates. Specifically, it exempted all imported goods for which the import duty (Customs duty) rate is shown as zero against their respective H.S. Codes in the FIRST SCHEDULE of the Customs Act, 1969. It also exempted goods that received duty and tax exemptions under section 20 of the same Act.",
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_178-AIN_2012_2406-Customs/20120607_178-AIN_2012_2406-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "open_ended",
+      "question": "Trace the evolution of the classification of poultry, dairy, and fish feed additives under Heading 23.09. What specific change was introduced in 2011, and which S.R.O. governed this change?",
+      "answer": "In 2011, under S.R.O. 171-AIN/2011, the classification under Heading No. 23.09, specifically for H.S. Code 2309.90.10, was expanded. The amendment replaced the description \"Poultry/Dairy/ Fish feed\" with the broader description \"Poultry/Dairy/Fish feed/ Food suppliment/Additives\" to formally include supplements and additives within the same classification code.",
+      "clause_text_ids": [
+        "20110609_171-AIN_2011_2358-Customs_০৯ জুন, ২০১১_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_171-AIN_2011_2358-Customs/20110609_171-AIN_2011_2358-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "S.R.O. 126-AIN/2014/2490/Customs, issued on June 5, 2014, amended S.R.O. 169-AIN/2005/2078/Customs by replacing the H.S. Code '2905.31.00' with '2905.31.50'.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2905.31.50",
+      "correct_fact": "2905.31.90",
+      "answer": "No, the statement is inaccurate. Under S.R.O. 126-AIN/2014/2490/Customs, the H.S. Code '2905.31.00' was replaced with '2905.31.90', not '2905.31.50'.",
+      "clause_text_ids": [
+        "20140605_126-AIN_2014_2490-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_126-AIN_2014_2490-Customs/20140605_126-AIN_2014_2490-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "On June 10, 2010, the government issued S.R.O. 185-AIN/2010/2303/Customs to amend S.R.O. 11-AIN/2005/2063/Customs, substituting the entry '3806.90.00' under Sl.No. 1 of the Table in Part A with '3806.90.20'.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "3806.90.20",
+      "correct_fact": "3806.90.90",
+      "answer": "No, the statement is inaccurate. S.R.O. 185-AIN/2010/2303/Customs substituted the entry '3806.90.00' with '3806.90.90', not '3806.90.20'.",
+      "clause_text_ids": [
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_185-AIN_2010_2303-Customs/20100610_185-AIN_2010_2303-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "S.R.O. 173-AIN/2016/35/Customs, dated June 2, 2016, amended the previous notification S.R.O. 203-AIN/2015/40/Customs by replacing the H.S. Code '2933.39.90' under Heading 29.33 with H.S. Code '2933.39.10'.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2933.39.10",
+      "correct_fact": "2933.39.00",
+      "answer": "No, the statement is inaccurate. The H.S. Code '2933.39.90' was replaced with '2933.39.00', not '2933.39.10'.",
+      "clause_text_ids": [
+        "20160602_173-AIN_2016_35-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_173-AIN_2016_35-Customs/20160602_173-AIN_2016_35-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to S.R.O. 178-AIN/2012/2406/Customs, issued on June 7, 2012, mandatory pre-shipment inspection is waived for goods where the import duty (Customs duty) rate is shown as 5% in the First Schedule of the Customs Act, 1969.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "5%",
+      "correct_fact": "zero (0 / শূন্য)",
+      "answer": "No, the statement is inaccurate. S.R.O. 178-AIN/2012/2406/Customs provides an exemption from mandatory pre-shipment inspection for imported goods where the import duty (Customs duty) rate is shown as zero (0 / শূন্য) in the First Schedule.",
+      "clause_text_ids": [
+        "20120607_178-AIN_2012_2406-Customs_০৭ জুন, ২০১২_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_178-AIN_2012_2406-Customs/20120607_178-AIN_2012_2406-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In the amendments made on June 5, 2014 under S.R.O. 134-AIN/2014/2498/Customs, the number '22' in column (3) under Heading 85.28 for H.S. Code '8528.51.10' was replaced with the number '15'.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "15",
+      "correct_fact": "19",
+      "answer": "No, the statement is inaccurate. S.R.O. 134-AIN/2014/2498/Customs replaced the number '22' with the number '19' in column (3) for H.S. Code '8528.51.10'.",
+      "clause_text_ids": [
+        "20140605_134-AIN_2014_2498-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_134-AIN_2014_2498-Customs/20140605_134-AIN_2014_2498-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under S.R.O. 156-AIN/2015/36/Customs, issued on June 4, 2015, the table in S.R.O. 169-AIN/2005/2078/Customs was amended to replace H.S. Code '3204.13.00' with '3204.13.90' and '3206.19.00' with '3206.19.80'.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "3206.19.80",
+      "correct_fact": "3206.19.90",
+      "answer": "No, the statement is inaccurate. S.R.O. 156-AIN/2015/36/Customs replaced the H.S. Code '3206.19.00' with '3206.19.90', not '3206.19.80'.",
+      "clause_text_ids": [
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20150604_156-AIN_2015_36-Customs/20150604_156-AIN_2015_36-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the development of Bangladesh Customs Tariff notifications, S.R.O. 11-AIN/2005 underwent several changes. In 2010, the government issued S.R.O. 185-AIN/2010 to replace H.S. Code '7307.99.00' with '7307.99.90'. Later, in 2016, S.R.O. 169-AIN/2016 was published to substitute H.S. Code '3806.90.00' with '3806.90.90'. This sequential update ensured that industrial fittings were prioritized first, followed by chemical derivatives years later.",
+      "question": "According to the official timeline and clauses of the Bangladesh Customs Tariff, which H.S. Code substitution was actually enacted in 2010 under S.R.O. 185-AIN/2010, and which one was introduced in 2016 under S.R.O. 169-AIN/2016?",
+      "conflict": "The misaligned context swaps the dates and SROs for the two H.S. Code updates to S.R.O. 11-AIN/2005, falsely claiming '7307.99.00' was replaced in 2010 and '3806.90.00' was replaced in 2016.",
+      "answer": "According to the true chronological records, the substitutions are reversed. Under S.R.O. 185-AIN/2010 (issued on June 10, 2010), the government amended S.R.O. 11-AIN/2005 by replacing the entry '3806.90.00' with '3806.90.90' at Sl.No. 1. The substitution of H.S. Code '7307.99.00' with '7307.99.90' (at Sl. No. 14 and 15) was actually enacted years later on June 2, 2016, under S.R.O. 169-AIN/2016/31/Customs.",
+      "clause_text_ids": [
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_185-AIN_2010_2303-Customs/20100610_185-AIN_2010_2303-Customs_output.json",
+        "customs_sros_OCR/20160602_169-AIN_2016_31-Customs/20160602_169-AIN_2016_31-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi manufacturer imports industrial inputs governed by the long-standing notification S.R.O. 11-AIN/2005. Over the decade, the government periodically updates the classification codes in the 'ক অংশ' (Part A) Table of this S.R.O. to align with modern customs standards. The manufacturer is auditing their historical imports, specifically looking at an item under Sl.No. 1 that they imported in late 2010, and pipe fitting items under Sl. No. 14 and 15 that they imported in late 2016.",
+      "question": "Based on the amendments made to S.R.O. 11-AIN/2005, what updated H.S. Code was the manufacturer required to declare for the Sl.No. 1 item after the June 10, 2010 amendment (S.R.O. 185-AIN/2010/2303/Customs), and what updated H.S. Code replaced both instances of '7307.99.00' under Sl. No. 14 and 15 after the June 2, 2016 amendment (S.R.O. 169-AIN/2016/31/Customs)?",
+      "answer": "Following the June 10, 2010 amendment, the H.S. Code for Sl.No. 1 was updated from '3806.90.00' to '3806.90.90'. Following the June 2, 2016 amendment, both instances of '7307.99.00' under Sl. No. 14 and 15 were replaced by '7307.99.90'.",
+      "clauses_involved": [
+        "S.R.O. 185-AIN/2010/2303/Customs dated 2010-06-10",
+        "S.R.O. 169-AIN/2016/31/Customs dated 2016-06-02"
+      ],
+      "clause_text_ids": [
+        "20100610_185-AIN_2010_2303-Customs_১০ জুন, ২০১০_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_185-AIN_2010_2303-Customs/20100610_185-AIN_2010_2303-Customs_output.json",
+        "customs_sros_OCR/20160602_169-AIN_2016_31-Customs/20160602_169-AIN_2016_31-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "June 10, 2010",
+      "relative_offset": "six years later",
+      "question": "Six years after the issuance of SRO 185-AIN/2010/2303/Customs on June 10, 2010, the government issued SRO 169-AIN/2016/31/Customs to further amend SRO 11-AIN/2005/2063/Customs. Under clause (ক) of this later 2016 SRO, what specific H.S. Code substitution was made in the Table of 'Part A'?",
+      "answer": "Under SRO 169-AIN/2016/31/Customs, the H.S. Code \"7307.99.00\" (which was mentioned twice in column 2 against Sl. No. 14 and 15 of the Table in 'Part A') was replaced in both places with H.S. Code \"7307.99.90\".",
+      "clause_text_ids": [
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_169-AIN_2016_31-Customs/20160602_169-AIN_2016_31-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "June 9, 2011",
+      "relative_offset": "three years later",
+      "question": "Three years after SRO 171-AIN/2011/2358/Customs was issued on June 9, 2011, the government issued SRO 134-AIN/2014/2498/Customs. What specific numerical replacement did this 2014 SRO make in the Table under Heading 85.28 against H.S. Code \"8528.51.10\"?",
+      "answer": "In SRO 134-AIN/2014/2498/Customs, the number \"22\" in column (3) against H.S. Code \"8528.51.10\" was replaced with the number \"19\".",
+      "clause_text_ids": [
+        "20140605_134-AIN_2014_2498-Customs_০৫ জুন, ২০১৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20140605_134-AIN_2014_2498-Customs/20140605_134-AIN_2014_2498-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "June 7, 2012",
+      "relative_offset": "three years later",
+      "question": "Three years after SRO 166-AIN/2012/2394/Customs was issued on June 7, 2012, the government issued SRO 156-AIN/2015/36/Customs to amend SRO 169-AIN/2005/2078/Customs. What specific H.S. Code substitutions were made in the Table of the 2005 notification by this 2015 SRO?",
+      "answer": "SRO 156-AIN/2015/36/Customs substituted the following H.S. Codes in the Table:\n(ক) \"3204.13.00\" was replaced with \"3204.13.90\"\n(খ) \"3206.19.00\" was replaced with \"3206.19.90\"",
+      "clause_text_ids": [
+        "20150604_156-AIN_2015_36-Customs_2015-06-04_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20150604_156-AIN_2015_36-Customs/20150604_156-AIN_2015_36-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "June 1, 2017",
+      "relative_offset": "one year earlier",
+      "question": "One year before the updates in SRO 135-AIN/2017 (issued on June 1, 2017) which inserted H.S. Codes like \"1901.90.20\", the government issued SRO 173-AIN/2016/35/Customs. What specific H.S. Code substitution did this 2016 SRO make against Heading 29.33 in the Table of SRO 203-AIN/2015/40/Customs?",
+      "answer": "SRO 173-AIN/2016/35/Customs substituted H.S. Code \"2933.39.90\" with H.S. Code \"2933.39.00\" against Heading 29.33 in the Table of SRO 203-AIN/2015/40/Customs.",
+      "clause_text_ids": [
+        "20160602_173-AIN_2016_35-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20160602_173-AIN_2016_35-Customs/20160602_173-AIN_2016_35-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these H.S. Code tariff classification and duty adjustment events in chronological order.",
+      "events_shuffled": [
+        "Replacement of specific H.S. Codes for electronic and lighting products, including the substitution of codes for monitors and lamps.",
+        "Expansion of product descriptions for animal feed additives under an existing tariff heading.",
+        "Formalization of documentation requirements for H.S. Code declarations for pre-fabricated building materials.",
+        "Introduction of duty concessions for specific industrial equipment and materials through the insertion of new entries in the tariff tables."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Expansion of product descriptions for animal feed additives under an existing tariff heading.",
+          "date": "2011-06-09"
+        },
+        {
+          "event": "Replacement of specific H.S. Codes for electronic and lighting products, including the substitution of codes for monitors and lamps.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "Introduction of duty concessions for specific industrial equipment and materials through the insertion of new entries in the tariff tables.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "Formalization of documentation requirements for H.S. Code declarations for pre-fabricated building materials.",
+          "date": "2014-06-05"
+        }
+      ],
+      "clause_text_ids": [
+        "20110609_171-AIN_2011_2358-Customs_০৯ জুন, ২০১১_clause_1",
+        "20120607_166-AIN_2012_2394-Customs_০৭ জুন, ২০১২_clause_1",
+        "20130606_178-AIN_2013_2440-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20140605_137-AIN_2014_2501-Customs_০৫ জুন, ২০১৪_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20110609_171-AIN_2011_2358-Customs/20110609_171-AIN_2011_2358-Customs_output.json",
+        "customs_sros_OCR/20120607_166-AIN_2012_2394-Customs/20120607_166-AIN_2012_2394-Customs_output.json",
+        "customs_sros_OCR/20130606_178-AIN_2013_2440-Customs/20130606_178-AIN_2013_2440-Customs_output.json",
+        "customs_sros_OCR/20140605_137-AIN_2014_2501-Customs/20140605_137-AIN_2014_2501-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00005_t0__h-s-code-tariff-classification-and-duty-adjustment.json"
+    }
+  ]
+}

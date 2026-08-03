@@ -1,0 +1,166 @@
+{
+  "thread_id": "cluster_00485_t1",
+  "cluster_id": 485,
+  "cluster_label": "finished products",
+  "title": "Regulatory Framework for Bonded Manufacturing",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the requirement for bonded institutions to obtain input-output coefficients and follow specific application procedures?",
+      "options": [
+        "Customs Act 2023",
+        "Customs Bond Rules dated 2021-08-16",
+        "Customs Amendment 2025",
+        "General Bond Regulation 2024"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Bond Rules dated 2021-08-16",
+      "explanation": "The Customs Bond Rules dated 2021-08-16 (src=20210816_266-AIN_2021_45) explicitly established the procedure for bonded institutions to obtain input-output coefficients.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_17",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When were the bond categories for direct, deemed, and domestic consumption formally defined within the legal framework?",
+      "options": [
+        "2021-08-16",
+        "2024-06-06",
+        "2025-06-02",
+        "2023-01-01"
+      ],
+      "answer_index": 1,
+      "answer": "2024-06-06",
+      "explanation": "The Customs Act 2023, formalized on 2024-06-06, introduced the specific definitions for direct, deemed, and domestic consumption bond categories.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_17",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which policy change introduced the ability for industrial enterprises to import raw materials on a Free of Cost (FOC) basis for CMT operations without back-to-back L/C requirements?",
+      "options": [
+        "Customs Bond Rules (2021)",
+        "Customs Act 2023 (2024)",
+        "Customs Amendment (2025-06-02)",
+        "General Bond Directive (2024)"
+      ],
+      "answer_index": 2,
+      "answer": "Customs Amendment (2025-06-02)",
+      "explanation": "The Customs Amendment dated 2025-06-02 (src=20250602_234-AIN_2025_56) introduced provisions allowing CMT-based manufacturing without traditional back-to-back L/C requirements.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_17",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the Customs Act 2023 (effective 2024-06-06), what is the required general bond value for a deemed exporter?",
+      "options": [
+        "1 crore taka",
+        "2 crore taka",
+        "3 crore taka",
+        "5 crore taka"
+      ],
+      "answer_index": 0,
+      "answer": "1 crore taka",
+      "explanation": "According to the Customs Act 2023 (src=20240606_209-AIN_2024_61), the general bond for a deemed exporter is fixed at 1 crore taka.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_17",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A garment manufacturer has been operating since 2021 by importing raw materials, paying duties, and then applying for duty drawbacks after exporting finished products. In 2025, the manufacturer wants to transition to a CMT (Cutting, Making, and Trimming) model where they receive raw materials free of cost (FOC) from foreign buyers without opening traditional back-to-back L/Cs.",
+      "question": "How does the regulatory requirement for the manufacturer's import process change from the 2021 rules to the 2025 amendment?",
+      "answer": "Under the 2021 rules, the manufacturer was required to import raw materials by paying duties and subsequently applying for a refund. Under the 2025 amendment, the manufacturer is permitted to import raw materials on a Free of Cost (FOC) basis without back-to-back L/Cs, provided they obtain a certificate from their authorized lien bank based on their previous audit period's production.",
+      "clauses_involved": [
+        "2021-08-16",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_7",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-08-16",
+      "relative_offset": "nearly three years later",
+      "question": "Nearly three years after the initial procedure for input-output coefficients was established in 2021, what major legal framework was introduced to formalize bond categories like direct and deemed exports?",
+      "answer": "In 2024-06-06, the Customs Act 2023 was enacted, which formalized bond categories including direct, deemed, and domestic consumption, and defined the scope of bonded manufacturing.",
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_7",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_17",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-06",
+      "relative_offset": "one year later",
+      "question": "One year after the Customs Act 2023 was formalized, what specific operational flexibility was introduced for industrial enterprises engaged in CMT-based manufacturing?",
+      "answer": "In 2025-06-02, a Customs Amendment was introduced allowing industrial enterprises to import raw materials on a Free of Cost (FOC) basis for CMT-based manufacturing without the requirement of traditional back-to-back L/Cs.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_17",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Bonded institutions are required to obtain input-output coefficients and apply to the Customs Bond Commissionerate for utilization permission using a prescribed form.",
+        "Industrial enterprises engaged in export production are permitted to import raw materials on a Free of Cost basis for Cutting, Making, and Trimming operations without requiring back-to-back letters of credit.",
+        "The Customs Act formalizes distinct bond categories including direct, deemed, and domestic consumption, while defining the scope of bonded manufacturing."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Bonded institutions are required to obtain input-output coefficients and apply to the Customs Bond Commissionerate for utilization permission using a prescribed form.",
+          "date": "2021-08-16"
+        },
+        {
+          "event": "The Customs Act formalizes distinct bond categories including direct, deemed, and domestic consumption, while defining the scope of bonded manufacturing.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Industrial enterprises engaged in export production are permitted to import raw materials on a Free of Cost basis for Cutting, Making, and Trimming operations without requiring back-to-back letters of credit.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_7",
+        "20240606_211-AIN_2024_63_Customs_২৯ মে, ২০২৪_clause_2",
+        "20250602_234-AIN_2025_56_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+        "customs_sros_OCR/20240606_211-AIN_2024_63_Customs/20240606_211-AIN_2024_63_Customs_output.json",
+        "customs_sros_OCR/20250602_234-AIN_2025_56_Customs/20250602_234-AIN_2025_56_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00485_t1__regulatory-framework-for-bonded-manufacturing.json"
+    }
+  ]
+}

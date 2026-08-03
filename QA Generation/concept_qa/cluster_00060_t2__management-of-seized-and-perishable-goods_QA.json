@@ -1,0 +1,136 @@
+{
+  "thread_id": "cluster_00060_t2",
+  "cluster_id": 60,
+  "cluster_label": "Customs House",
+  "title": "Management of Seized and Perishable Goods",
+  "source_num_member_objects": 18,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 3,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2021-08-29 Perishable Goods Management Rules, all seized alcohol and cigarette products must be sold to the Bangladesh Parjatan Corporation or other authorized institutions to ensure efficient disposal of perishable items.",
+      "question": "Does the 2021-08-29 Perishable Goods Management Rules mandate the disposal of alcohol and cigarette products? If not, what instrument governs this?",
+      "conflict": "The context incorrectly attributes the disposal procedures for alcohol and cigarettes (which are governed by the 2021-12-20 Disposal Order) to the 2021-08-29 Perishable Goods Management Rules.",
+      "answer": "No, the 2021-08-29 Perishable Goods Management Rules does not govern the disposal of alcohol and cigarettes; it focuses on the management of perishable goods. The disposal of seized alcohol and cigarettes is mandated by the 'Disposal Order' issued on 2021-12-20, which requires such items to be sold to the Bangladesh Parjatan Corporation or other authorized institutions.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_7",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_20",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_24",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_30",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_31"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2021-12-20 Disposal Order, Customs Houses are required to form a committee of up to five members to manage the immediate auction of perishable goods, a policy that was first introduced in that order.",
+      "question": "Is the formation of perishable goods management committees a result of the 2021-12-20 Disposal Order, and how does this align with the timeline?",
+      "conflict": "The context misattributes the creation of perishable goods management committees to the 2021-12-20 Disposal Order, when they were actually established by the 2021-08-29 Perishable Goods Management Rules.",
+      "answer": "No, the formation of perishable goods management committees was not introduced in the 2021-12-20 Disposal Order. It was mandated by the 'Perishable Goods Management Rules' issued on 2021-08-29, which required each Customs House to form a committee of up to five members to expedite the disposal of perishable items.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_7",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_20",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_24",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_30",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_31"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the 2021-08-29 Perishable Goods Management Rules, all seized gold and bullion must be immediately transferred to the Bangladesh Bank for permanent deposit to ensure valuation accuracy.",
+      "question": "Does the 2021-08-29 instrument cover the handling of gold and bullion, or is this a later development?",
+      "conflict": "The context incorrectly claims that gold and bullion handling procedures were part of the 2021-08-29 rules, whereas these procedures were established in the 2021-12-20 Disposal Order.",
+      "answer": "The 2021-08-29 Perishable Goods Management Rules does not cover the handling of gold and bullion. The management of valuable goods like gold and bullion, including their transfer to the Bangladesh Bank and the appointment of a goldsmith panel, was established later in the 'Disposal Order' dated 2021-12-20.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_7",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_20",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_24",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_30",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_31"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Customs House is managing a shipment of perishable goods that arrived in late 2021. Before August 29, 2021, the management of such goods followed general customs procedures. After that date, specific rules were introduced to expedite their disposal. A committee was formed to handle these goods, but the rules for disposal differed based on the value of the consignment.",
+      "question": "How did the authority and management structure for disposing of perishable goods change for a Customs House following the August 29, 2021, Perishable Goods Management Rules compared to the previous regime?",
+      "answer": "Prior to the August 29, 2021 rules, perishable goods were handled under general customs storage and disposal procedures. Following the rules, Customs Houses were mandated to establish dedicated sections for inspection and clearance, and form specific management committees of up to five members to oversee disposal, with distinct oversight levels based on whether the consignment value exceeded 5 lakh taka.",
+      "clauses_involved": [
+        "2021-08-29 | Rules for speedy disposal and d",
+        "undated | Customs Act 1969"
+      ],
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_7",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_20",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_24",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_30",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_31"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-08-29",
+      "relative_offset": "nearly four months later",
+      "question": "Following the Perishable Goods Management Rules established on 2021-08-29, what significant regulatory change regarding the handling of high-value items like gold and liquor occurred nearly four months later?",
+      "answer": "On 2021-12-20, the Disposal Order was issued, which standardized the handling of high-value items (such as gold and liquor) and established professional panels for valuation, requiring these items to be transferred to the Bangladesh Bank.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_7",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_20",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_24",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_30",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_31"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Customs Authority mandated the formation of specific groups and management committees within Customs Houses to accelerate the disposal of perishable goods.",
+        "Customs Commissionerates were granted authorization to appoint panels of goldsmiths and procure automated measurement equipment for verifying the purity of valuable goods.",
+        "A standardized order introduced professional valuation panels for high-value items like liquor and gold, alongside specific handling procedures."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Customs Authority mandated the formation of specific groups and management committees within Customs Houses to accelerate the disposal of perishable goods.",
+          "date": "2021-08-29"
+        },
+        {
+          "event": "A standardized order introduced professional valuation panels for high-value items like liquor and gold, alongside specific handling procedures.",
+          "date": "2021-12-20"
+        },
+        {
+          "event": "Customs Commissionerates were granted authorization to appoint panels of goldsmiths and procure automated measurement equipment for verifying the purity of valuable goods.",
+          "date": "2021-12-20"
+        }
+      ],
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_5",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_20",
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_30"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20211220/20211220_output.json",
+        "customs_rules_OCR/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_output.json"
+      ],
+      "thread_source_file": "cluster_00060_t2__management-of-seized-and-perishable-goods.json"
+    }
+  ]
+}

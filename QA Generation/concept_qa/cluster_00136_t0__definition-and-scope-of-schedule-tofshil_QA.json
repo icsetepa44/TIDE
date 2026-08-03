@@ -1,0 +1,244 @@
+{
+  "thread_id": "cluster_00136_t0",
+  "cluster_id": 136,
+  "cluster_label": "schedule",
+  "title": "Definition and Scope of 'Schedule' (Tofshil)",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 16,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 5,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A traveler landing at Hazrat Shahjalal International Airport in mid-2010 finds themselves confused by the technical terminology used in the official baggage documentation handed to them at customs. As they prepare to declare their items, they realize they need to fully understand the legal scope of the documentation provided. They approach an officer to clarify the precise meaning of a specific term used throughout the regulatory text.",
+      "question": "How is 'Schedule' defined in the 2010 baggage rules?",
+      "answer": "It is defined as any schedule attached to those rules.",
+      "date_or_instrument": "2010-06-10",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "While preparing for a long-term relocation to Bangladesh in 2016, a returnee spends hours meticulously reading through the latest baggage rules published that April. They want to ensure full compliance with every requirement, but they stumble upon a formal term that seems to underpin the entire structure of the document. Seeking to avoid any ambiguity during their clearance process, they consult a legal advisor to confirm the exact definition of this term.",
+      "question": "What is the legal definition of 'Schedule' according to the 2016 rules?",
+      "answer": "A 'Schedule' is defined as any schedule appended to those rules.",
+      "date_or_instrument": "2016-04-08",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A passenger arriving in Bangladesh in the summer of 2023 is reviewing the updated baggage rules to prepare their declaration form. While navigating the various sections of the document, they encounter a specific term used to categorize the supplementary lists at the end of the text. To ensure they are interpreting the regulations correctly before reaching the customs counter, they seek clarification on how the rule book defines that term.",
+      "question": "How does the 2023 rule define the term 'Schedule'?",
+      "answer": "The term is defined as any schedule specifically contained within those rules.",
+      "date_or_instrument": "2023-06-01",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A warehouse manager overseeing the import of industrial raw materials is carefully examining the newly issued 2024 customs rules to ensure their facility remains in full compliance. As they cross-reference these requirements with their previous operational manuals, they notice the frequent mention of a particular regulatory term. They begin to wonder if the legal interpretation of this term has shifted compared to the standards they have been following for years.",
+      "question": "Does the definition of 'Schedule' in the 2024 customs rules differ from previous iterations?",
+      "answer": "No, the definition remains legally static as a reference to any schedule attached to the rules.",
+      "date_or_instrument": "2024-06-06",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A senior customs officer is training a group of new recruits on the historical consistency of Bangladeshi regulatory language. During the session, they pull out a stack of documents spanning from 2010 to 2024 to illustrate how certain foundational terms have been utilized. The recruits are tasked with analyzing these various notifications to determine if the core legal definition of a specific term has undergone any substantive transformation over the last decade and a half.",
+      "question": "Has the definition of 'Schedule' evolved in substance between 2010 and 2024?",
+      "answer": "No, the definition has remained legally static across various rules, consistently defined as any schedule attached to the respective rules.",
+      "date_or_instrument": "2010-06-10 to 2024-06-06",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2010 rules, a 'Schedule' (তফসিল) is defined as any schedule attached to the Customs Act 2023.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Act 2023",
+      "correct_fact": "these rules",
+      "answer": "The statement is inaccurate. In the 2010 rules, a 'Schedule' (তফসিল) is defined as any schedule attached to 'these rules', not the Customs Act 2023.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The definition of 'Schedule' (তফসিল) has remained legally static across the 2010, 2016, 2023, and 2024 rules, consistently referring to schedules appended to the respective rules.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The definition of 'Schedule' (তফসিল) has remained consistent as a reference to appended schedules within the specific rule set across the mentioned years.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In the 2023 rules, the definition of 'Baggage' was updated to include a weight limit of 20 kg per individual item.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "20 kg",
+      "correct_fact": "15 kg",
+      "answer": "The statement is inaccurate. According to the 2023 rules, the weight threshold for each individual item of baggage is 15 kg, not 20 kg.",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2016 rules define a 'Passenger' as any individual arriving from abroad.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2016 rules define a passenger as any individual arriving from abroad.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2024 rules (src=20240606_212-AIN_2024_64_Customs_output) define 'Import Eligibility' based on the approved annual production capacity of machinery and projected consumption of raw materials.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The 2024 rules define import eligibility as the quantity of raw materials that may be imported under warehousing facilities, determined by approved annual production capacity and projected consumption.",
+      "clause_text_ids": [
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2010 rules define 'Baggage' as any item imported by a passenger, regardless of quantity or type.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "regardless of quantity or type",
+      "correct_fact": "reasonable quantity of food items, apparel, household goods, or other personal effects",
+      "answer": "The statement is inaccurate. The 2010 rules define 'Baggage' specifically as a 'reasonable quantity of food items, apparel, household goods, or other personal effects' imported by a passenger.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A legal researcher is reviewing the definition of 'Schedule' (তফসিল) in Bangladeshi customs rules. They observe that the term has been defined in multiple instruments across the years, starting from 2010, through 2016 and 2023, and finally in the 2024 updates. The researcher wants to know if the legal substance or core meaning of this term has undergone any modification during this period.",
+      "question": "Has the legal definition of 'Schedule' (তফসিল) changed in substance from the 2010 rules to the 2024 rules?",
+      "answer": "No, the definition has remained legally static and consistent across all referenced instruments, consistently defined as any schedule attached to the respective rules.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2016-04-08",
+        "2023-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In the initial 2010 rules, the term 'Schedule' was defined as any schedule appended to the rules; how was this definition treated six years later?",
+      "answer": "Six years later, in the 2016-04-08 rules, the definition remained legally static, reiterating that 'Schedule' refers to any schedule appended to the rules.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "seven years later",
+      "question": "Following the 2016 definition of 'Schedule', what happened to this definition seven years later?",
+      "answer": "Seven years later, in the 2023-06-01 rules, the definition remained consistent, continuing to define 'Schedule' as any schedule specifically contained within the rules.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "one year later",
+      "question": "Given the definition of 'Schedule' in the 2023 rules, how did this definition evolve one year later?",
+      "answer": "One year later, in the 2024-06-06 rules, the definition of 'Schedule' remained legally static, serving as a consistent foundational anchor within the updated 2024 context.",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_212-AIN_2024_64_Customs_২৯ মে, ২০২৪_clause_2",
+        "20240606_213-AIN_2024_65_Customs_২৯ মে, ২০২৪_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order based on the evolution of the definition of 'Schedule' (Tofshil) in the rules.",
+      "events_shuffled": [
+        "The definition of 'Schedule' is established as any schedule attached to the rules.",
+        "The definition of 'Schedule' is reiterated in the context of rules incorporating the Customs Act.",
+        "The definition of 'Schedule' is reiterated as any schedule specifically contained within the rules, alongside a new weight limit for baggage items."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The definition of 'Schedule' is established as any schedule attached to the rules.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The definition of 'Schedule' is reiterated as any schedule specifically contained within the rules, alongside a new weight limit for baggage items.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The definition of 'Schedule' is reiterated in the context of rules incorporating the Customs Act.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_2",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_2",
+        "20240606_209-AIN_2024_61_Customs_২৯ মে, ২০২৪_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+        "customs_sros_OCR/20240606_209-AIN_2024_61_Customs/20240606_209-AIN_2024_61_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00136_t0__definition-and-scope-of-schedule-tofshil.json"
+    }
+  ]
+}

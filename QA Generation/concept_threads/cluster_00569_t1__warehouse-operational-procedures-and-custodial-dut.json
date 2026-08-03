@@ -1,0 +1,899 @@
+{
+  "cluster_id": 569,
+  "cluster_label": "warehouses",
+  "thread_index": 1,
+  "thread_id": "cluster_00569_t1",
+  "title": "Warehouse Operational Procedures and Custodial Duties",
+  "summary": "These clauses represent the foundational legal framework for warehouse operations, including deposit, movement, manufacturing, and custodial liability. These provisions are largely static, representing the core operational rules that have been carried forward across various iterations of customs law.",
+  "evolution": {
+    "structure": "Remains consistent as the baseline legal text for warehouse management.",
+    "scope": "Covers the entire lifecycle of warehoused goods from entry to removal."
+  },
+  "timeline": [
+    {
+      "date": "undated",
+      "instrument": "Customs Act (Historical/Consolidated)",
+      "change": "Establishment of core operational procedures for warehousing, including control, manufacturing, removal, and liability.",
+      "clause_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_117",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_121",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_126",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_143",
+        "customs-act-1969-english_8th March, 1969_clause_109",
+        "customs-act-1969-english_8th March, 1969_clause_117",
+        "customs-act-1969-english_8th March, 1969_clause_121",
+        "customs-act-1969-english_8th March, 1969_clause_129",
+        "customs-act-1969-english_8th March, 1969_clause_143",
+        "customs-act-1969-english_8th March, 1969_clause_91",
+        "metadata_13"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 11,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_117",
+      "clause_title": "ওয়্যারহাউসকৃত পণ্যের উপর নিয়ন্ত্রণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_117",
+      "resolved_text": "৯১। ওয়্যারহাউসকৃত পণ্যের উপর নিয়ন্ত্রণ।— (১) সকল ওয়্যারহাউসকৃত পণ্য যথাযথ কর্মকর্তার নিয়ন্ত্রণের অধীনে থাকিবে।\n(২) যথাযথ কর্মকর্তা স্পেশাল বন্ডেড ওয়্যারহাউস ব্যতীত যে কোন ওয়্যারহাউস তালাবদ্ধ রাখার ব্যবস্থা করিতে পারিবেন।\n(৩) উপধারা (৪) সাপেক্ষে যথাযথ কর্মকর্তার লিখিত অনুমতি ব্যতীত কোন ব্যক্তি-\n(ক) ওয়্যারহাউসে প্রবেশ করিতে অথবা তথা হইতে কোন পণ্য অপসারণ করিতে; অথবা\n(খ) উপধারা (২) এর অধীন তালাবদ্ধ ওয়্যারহাউসের তালা খুলিতে পারিবেন না।\n(৪) (ক) পদমর্যাদায় সহকারী কমিশনারের নিম্নে নহেন পরিদর্শন ডাইরেক্টরেটের অথবা কাস্টমস গোয়েন্দা এবং তদন্ত ডাইরেক্টরেটের এমন কোন কর্মকর্তার, অথবা\n(খ) দফা (ক) এ উল্লেখিত কর্মকর্তা কর্তৃক ক্ষমতাপ্রাপ্ত সহকারী কমিশনার পদমর্যাদার নিম্নের উক্ত দুই ডাইরেক্টরেটের কোন কর্মকর্তার কোন ওয়্যারহাউসের যে কোন অংশে প্রবেশাধিকার থাকিবে এবং তাহাতে রক্ষিত পণ্য, নথিপত্র, হিসাবপত্র এবং দলিলপত্র পরীক্ষা করার এবং তিনি যেরূপ প্রয়োজন মনে করিবেন সেইরূপ কোন প্রশ্ন করার ক্ষমতা থাকিবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "All goods deposited in a warehouse remain subject to the control of an appropriate customs officer.",
+          "Appropriate customs officers are authorized to lock any warehouse, with the exception of special bonded warehouses.",
+          "No person may enter a warehouse, remove goods from it, or break the seal of a locked warehouse without the prior written permission of an appropriate customs officer."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer maintains authority over warehoused goods and holds the power to restrict access to warehouses through locking mechanisms and required permissions for entry or removal of items."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "Authorized officers from this directorate have the legal right to access any part of a warehouse to examine goods, documents, and records.",
+          "Officers from this directorate, subject to rank requirements or specific authorization, are empowered to conduct inspections and make inquiries they deem necessary regarding warehoused goods."
+        ],
+        "Directorate of Inspection": [
+          "Authorized officers from this directorate are empowered to access warehouse premises, inspect stored goods and relevant documentation, and make inquiries as required for oversight purposes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_121",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "goods",
+          "warehouse",
+          "customs officer",
+          "special bonded warehouses",
+          "seal"
+        ],
+        "Appropriate Officer of Customs": [
+          "warehoused goods",
+          "warehouses",
+          "locking mechanisms",
+          "permissions"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "authorized officers",
+          "warehouse",
+          "goods",
+          "documents",
+          "records"
+        ],
+        "Directorate of Inspection": [
+          "authorized officers",
+          "warehouse premises",
+          "stored goods",
+          "documentation"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        49,
+        59,
+        61,
+        63,
+        74,
+        89,
+        131,
+        379,
+        405,
+        569,
+        969,
+        1162,
+        1280,
+        3848,
+        9613,
+        10613,
+        13322
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_121",
+      "clause_title": "ওয়্যারহাউস পণ্যসমূহ সম্পর্কিত প্রস্তুতকরণ এবং অন্যান্য কার্যক্রম",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_121",
+      "resolved_text": "৯৫। ওয়্যারহাউস পণ্যসমূহ সম্পর্কিত প্রস্তুতকরণ এবং অন্যান্য কার্যক্রম।— (১) বিধিমালা সাপেক্ষে, কোন ওয়্যারহাউসকৃত পণ্যের মালিক কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড হইতে ক্ষমতাপ্রাপ্ত অন্য কোন কমিশনার অব কাস্টমসকে পনের দিবসের পূর্ব-নোটিশ লিখিতভাবে প্রদান করিয়া ওয়্যারহাউসে উক্ত পণ্য দ্বারা কোন প্রস্তুতকরণ প্রক্রিয়া অথবা অন্য কার্যক্রম পরিচালনা করিতে পারিবেন।\n(২) যে ক্ষেত্রে উক্ত কার্যক্রম অথবা প্রক্রিয়ায় পণ্যের কোন অবচয় অথবা বর্জ্য হয় সেই ক্ষেত্রে নিম্নবর্ণিত বিধানাবলী প্রযোজ্য হইবে, যথা :-\n(ক) যদি উক্ত কার্যক্রম অথবা প্রক্রিয়া দ্বারা উৎপাদিত পণ্যের সম্পূর্ণ অথবা আংশিক রপ্তানি করা হয় তাহা হইলে রপ্তানিকৃত পণ্যের ক্ষেত্রে পরিচালিত কার্যক্রম অথবা প্রক্রিয়ায় যে পরিমাণ ওয়্যারহাউসকৃত পণ্য অপচয়িত অথবা বর্জ্য হইয়াছে উহার জন্য কোন শুল্ক আরোপ করা হইবে না :\nতবে শর্ত থাকে যে, উক্ত অপচয়িত অথবা বর্জ্য হয় ধ্বংস করিতে হইবে নতুবা উহাদের উপর শুল্ক পরিশোধ করিতে হইবে, যেন উহা ঐ অবস্থায় বাংলাদেশে আমদানি করা হইয়াছে।\n(খ) যদি উক্ত কার্যক্রম অথবা প্রক্রিয়ায় উৎপাদিত পণ্যের সম্পূর্ণ অথবা আংশিক দেশীয় ভোগের জন্য ওয়্যারহাউস হইতে খালাস করা হয়, তাহা হইলে দেশীয় ভোগের জন্য উক্ত পণ্যের যে পরিমাণ খালাস করা হয় তাহার উপর, এবং বিধিমালা দ্বারা নির্ধারিত পদ্ধতিতে ওয়্যারহাউসকৃত পণ্যের ক্ষেত্রে পরিচালিত কার্যক্রম বা প্রক্রিয়ায় সৃষ্ট অপচয়িত বস্তু অথবা বর্জ্য দেশীয় ভোগের জন্য খালাস করা হইলে তাহার উপর শুল্ক এবং অন্যান্য কর আরোপ করা হইবে :\nতবে শর্ত থাকে যে, এই আইনের অন্য কোন বিধানাবলী সত্ত্বেও কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড দ্বারা ক্ষমতাপ্রাপ্ত অন্য কোন কমিশনার অব কাস্টমস কর্তৃক এই দফার অধীন শুল্কায়নের উদ্দেশ্যে মূল্য নিরূপণ করা হইবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The owner of warehoused goods may conduct manufacturing or other authorized operations within a bonded warehouse after providing prior written notice to the Commissioner of Customs (Bond) or other authorized Commissioner. These operations remain subject to applicable rules and regulations."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or other designated Commissioners are authorized to oversee manufacturing operations in warehouses and are responsible for determining the value of goods, waste, or residues for the purpose of assessing duties and taxes."
+        ],
+        "Customs Duty": [
+          "Customs duties are not imposed on waste or residues resulting from manufacturing processes if the finished goods are exported, provided that such waste is either destroyed or duties are paid as if the waste were imported in that state. If goods or residues are cleared for domestic consumption, they are subject to all applicable customs duties and taxes determined by the relevant customs authority."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_125",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "warehoused goods",
+          "manufacturing",
+          "authorized operations",
+          "bonded warehouse",
+          "Commissioner of Customs (Bond)",
+          "authorized Commissioner"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "designated Commissioners",
+          "manufacturing operations",
+          "warehouses",
+          "goods",
+          "waste",
+          "residues",
+          "duties",
+          "taxes"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "waste",
+          "residues",
+          "manufacturing processes",
+          "finished goods",
+          "taxes",
+          "relevant customs authority"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        10,
+        13,
+        14,
+        30,
+        61,
+        89,
+        146,
+        538,
+        569,
+        593,
+        748,
+        1714,
+        2128,
+        2851,
+        4693,
+        5820,
+        11403
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_126",
+      "clause_title": "একই কাস্টমস-স্টেশনে এক ওয়্যারহাউস হইতে অন্য ওয়্যারহাউসে পণ্য অপসারণের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_126",
+      "resolved_text": "৯৯। একই কাস্টমস-স্টেশনে এক ওয়্যারহাউস হইতে অন্য ওয়্যারহাউসে পণ্য অপসারণের ক্ষমতা।— (১) এই আইনের অধীন ওয়্যারহাউসকৃত পণ্যের কোন মালিক ধারা ৯৮ এর অধীন ওয়্যারহাউসিং মেয়াদের মধ্যে এবং কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড কর্তৃক ক্ষমতা প্রদত্ত অন্য কোন কমিশনার অব কাস্টমস, অথবা কমিশনার অব কাস্টমস (বন্ড) কর্তৃক অথবা Boards ক্ষমতাপ্রাপ্ত অন্য কোন কমিশনার কর্তৃক এতদুদ্দেশ্যে ক্ষমতা প্রদত্ত অন্য কোন কর্মকর্তার অনুমতিক্রমে উক্ত কমিশনারের যেরূপ নির্দেশ প্রদান করেন সেইরূপ শর্তাবলীতে এবং জামানত পেশের পর পণ্য একই কাস্টমস স্টেশনের এক ওয়্যারহাউস হইতে অন্য ওয়্যারহাউসে অপসারণ করিতে পারিবেন।\n(২) যখন কোন মালিক কোন পণ্য অপসারণ করিতে ইচ্ছা করেন তখন তিনি এইরূপ করার জন্য বোর্ড কর্তৃক নির্ধারিত ফরমে অনুমতির জন্য আবেদন করিবেন।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The owner of warehoused goods is permitted to move their goods from one warehouse to another within the same customs station during the authorized warehousing period.",
+          "Such transfer is subject to compliance with conditions specified by the Commissioner of Customs, the submission of security, and the prior approval of the authorized customs official."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or other empowered Commissioners hold the authority to approve the transfer of goods between warehouses and set the terms and conditions for such movements."
+        ],
+        "National Board of Revenue": [
+          "The Board has the authority to empower customs officials to approve the relocation of warehoused goods and is responsible for prescribing the official form required for a owner to apply for such transfer permission."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_130",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "warehoused goods",
+          "warehouse",
+          "customs station",
+          "warehousing period",
+          "conditions",
+          "security",
+          "authorized customs official"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "empowered Commissioners",
+          "goods",
+          "warehouses",
+          "terms and conditions"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "customs officials",
+          "warehoused goods",
+          "official form",
+          "transfer permission"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        25,
+        61,
+        74,
+        87,
+        89,
+        99,
+        209,
+        569,
+        1285,
+        1819,
+        1906,
+        2159,
+        12938
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_143",
+      "clause_title": "ওয়্যারহাউস রক্ষকের দায়িত্ব",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_143",
+      "resolved_text": "১১৬। ওয়্যারহাউস রক্ষকের দায়িত্ব।— সরকারী ওয়্যারহাউসে রক্ষিত পণ্যের ক্ষেত্রে ওয়্যারহাউস রক্ষক এবং বেসরকারী ওয়্যারহাউসে রক্ষিত পণ্যের ক্ষেত্রে লাইসেন্সধারী, উক্ত পণ্য শুল্কায়ন করিয়াছেন Ggb কাস্টমস্ কর্মকর্তা কর্তৃক রিপোর্টকৃত পরিমাণ, ওজন অথবা মাপ অনুসারে, প্রয়োজন হইলে ধারা ১১০ এ ব্যবস্থিত স্বাভাবিক অপচয়ের কারণে পরিমাণ ঘাটতির জন্য ছাড় প্রদানপূর্বক, ওয়্যারহাউসে উহাদের যথাযথ গ্রহণ এবং সেখান হইতে সরবরাহ এবং সেখানে জমা থাকাকালীন সময়ে নিরাপদ হেফাজতের জন্য দায়ী থাকিবেন :\nতবে শর্ত থাকে যে, ওয়্যারহাউসে পণ্য প্রবেশ করানোর অথবা সেখান হইতে বাহিরে নেওয়ার অথবা সেখানে জমা থাকাকালীন সময়ে সংঘটিত কোন অপচয় অথবা ক্ষতির জন্য কোন মালিক যথাযথ কর্মকর্তা অথবা কোন সরকারী ওয়্যারহাউসের রক্ষকের নিকট ক্ষতিপূরণ দাবী করার অধিকারী হইবেন না, যদি না এটা প্রমাণিত হয় যে উক্ত অপচয় অথবা ক্ষতি ওয়্যারহাউস রক্ষক অথবা কোন কাস্টমস কর্মকর্তার ইচ্ছাকৃত কর্ম অথবা অবহেলার কারণে সংঘটিত হইয়াছে।",
+      "entity_concepts": {
+        "Warehouse Keeper": [
+          "The warehouse keeper is responsible for the proper receipt, delivery, and safe custody of goods stored in a government warehouse while such goods remain within the premises.",
+          "They are held accountable for the quantity, weight, or measurement of goods as reported by the customs officer, subject to allowances for natural wastage or loss as provided under the relevant section of the Customs Act."
+        ],
+        "Licensee": [
+          "For goods stored in a private warehouse, the licensee holds the responsibility for the proper receipt, delivery, and safe custody of the goods, mirroring the duties of a warehouse keeper in a government facility."
+        ],
+        "Customs Officer": [
+          "The customs officer is responsible for reporting the official quantity, weight, or measurement of goods upon which the warehouse keeper or licensee's accountability is based.",
+          "Liability for damage or loss of goods cannot be claimed against a customs officer unless it is proven that such loss resulted from their willful act or negligence."
+        ],
+        "Customs Act 1969": [
+          "The Act provides the legal framework for calculating permissible allowances for natural wastage of goods stored in warehouses and sets the conditions for liability regarding loss or damage to warehoused goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_147",
+      "entity_sub_entities": {
+        "Warehouse Keeper": [
+          "goods",
+          "government warehouse",
+          "quantity",
+          "weight",
+          "measurement",
+          "natural wastage",
+          "loss",
+          "Customs Act"
+        ],
+        "Licensee": [
+          "goods",
+          "private warehouse",
+          "warehouse keeper",
+          "government facility"
+        ],
+        "Customs Officer": [
+          "quantity",
+          "weight",
+          "measurement",
+          "goods",
+          "warehouse keeper",
+          "licensee",
+          "damage",
+          "loss",
+          "willful act",
+          "negligence"
+        ],
+        "Customs Act 1969": [
+          "allowances",
+          "natural wastage",
+          "goods",
+          "warehouses",
+          "liability",
+          "loss",
+          "damage"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        37,
+        49,
+        190,
+        206,
+        288,
+        346,
+        569,
+        668,
+        1190,
+        1666,
+        1718,
+        2130,
+        2828,
+        2842,
+        2878,
+        5443,
+        8523,
+        13392
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_109",
+      "clause_title": "Application to warehouse",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_109",
+      "resolved_text": "84. Application to warehouse.- When any dutiable goods have been entered for warehousing and assessed under section 80, the owner of such goods may apply for leave to deposit the same in any warehouse appointed or licensed under this Act.",
+      "entity_concepts": {
+        "Goods": [
+          "Once dutiable goods have been entered for warehousing and duly assessed, the owner may request authorization to deposit them in an approved or licensed warehouse."
+        ],
+        "Warehouse": [
+          "The law provides a framework for the deposit of assessed dutiable goods into any facility that has been officially appointed or licensed to act as a warehouse."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal authority for the appointment or licensing of warehouses where owners of assessed goods may apply to store their inventory."
+        ],
+        "Owner of Warehoused Goods": [
+          "The owner of goods that have been assessed for warehousing is authorized to apply for permission to store those items in a licensed or appointed warehouse."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_436",
+      "entity_sub_entities": {
+        "Goods": [
+          "dutiable goods"
+        ],
+        "Warehouse": [
+          "facility",
+          "warehouse"
+        ],
+        "Customs Act 1969": [
+          "warehouses",
+          "inventory"
+        ],
+        "Owner of Warehoused Goods": [
+          "owner",
+          "goods",
+          "licensed warehouse",
+          "appointed warehouse"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        74,
+        120,
+        226,
+        412,
+        519,
+        569,
+        1074,
+        2833,
+        3429
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_117",
+      "clause_title": "Control over warehoused goods",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_117",
+      "resolved_text": "91. Control over warehoused goods.- (1) All warehoused goods shall be subject to the control of the appropriate officer.\n(2) The appropriate officer may cause any warehouse, except a special bonded warehouse, to be locked.\n(3) No person shall, without the written permission of the appropriate officer,-\n(a) enter into a warehouse or remove any goods therefrom;\n(b) unlock the warehouse which is locked under sub-section (2).\n(4) Notwithstanding sub-section (1) any other officer of customs Inspection Directorate, Intelligence and Investigation Directorate, authorised in this behalf by an officer not below the rank of an Assistant Commissioner of Customs, shall have access to any part of a warehouse and power to examine the goods, records, accounts and documents therein and ask any question as may be deemed necessary.",
+      "entity_concepts": {
+        "Warehoused Goods": [
+          "All warehoused goods are subject to the direct control of the appropriate officer of customs."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer has the authority to exercise control over all warehoused goods and may lock any warehouse, excluding special bonded warehouses.",
+          "Written permission from the appropriate officer is mandatory for any person to enter a warehouse, remove goods, or unlock a warehouse that has been officially locked."
+        ],
+        "Warehouse": [
+          "Warehouses, other than special bonded warehouses, may be locked by the appropriate officer to maintain customs control."
+        ],
+        "Special Bonded Warehouse": [
+          "Special bonded warehouses are exempt from the power of the appropriate officer to lock the premises under this section."
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "Officers from this directorate, when authorized by an officer of at least the rank of Assistant Commissioner of Customs, have the right to access any warehouse.",
+          "These authorized officers are empowered to examine goods, records, accounts, and documents within a warehouse and may conduct necessary inquiries."
+        ],
+        "Assistant Commissioner of Customs": [
+          "This officer holds the minimum rank required to authorize other customs officers from investigation or inspection directorates to access warehouses and examine goods and records."
+        ],
+        "Directorate of Inspection": [
+          "Authorized officers from this directorate possess the authority to enter warehouses, inspect goods and records, and ask questions deemed necessary for official purposes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_444",
+      "entity_sub_entities": {
+        "Warehoused Goods": [
+          "warehoused goods"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "warehouse",
+          "special bonded warehouses",
+          "goods"
+        ],
+        "Warehouse": [
+          "warehouses",
+          "special bonded warehouses"
+        ],
+        "Special Bonded Warehouse": [
+          "special bonded warehouses"
+        ],
+        "Customs Intelligence and Investigation Directorate": [
+          "officers",
+          "Assistant Commissioner of Customs",
+          "warehouse",
+          "goods",
+          "records",
+          "accounts",
+          "documents"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner of Customs",
+          "customs officers",
+          "warehouses",
+          "goods",
+          "records"
+        ],
+        "Directorate of Inspection": [
+          "authorized officers",
+          "warehouses",
+          "goods",
+          "records"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        59,
+        69,
+        74,
+        78,
+        89,
+        111,
+        131,
+        273,
+        379,
+        405,
+        564,
+        569,
+        910,
+        1162,
+        3848
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_121",
+      "clause_title": "Manufacture and other operations in relation to goods in a warehouse",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_121",
+      "resolved_text": "95. Manufacture and other operations in relation to goods in a warehouse.- (1) Subject to rules, the owner of any warehoused goods may, 1[by giving fifteen days prior notice in writing to the 2[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board]], carry on any manufacturing process or other operations in the warehouse in relation to such goods.\n(2) Where in the course of any such operation or process there is any waste or refuse the following provisions shall apply, namely:-\n(a) If the whole or any part of the goods produced by such operation or process are exported, no duty shall be charged on the quantity of the warehoused goods wasted or turned into refuse in the course of the operation or processing carried on in relation to the goods exported:\nProvided that such waste or refuse is either destroyed or duty is paid on such waste or refuse as if it had been imported into 1[Bangladesh] in that form.\n2[(b) If the whole or any part of the goods produced by such operation or process are cleared from the warehouse for home- consumption, duty and other taxes shall be charged on the quantity of such goods cleared for home-consumption and also on the warehoused goods wasted or turned into refuse in the course of the operation or processing carried on the relation to such goods cleared for home-consumption in a manner to be prescribed by rules:\nProvided that the value for assessment purposes under this clause shall, notwithstanding any other provisions of this Act, be determined by the 3[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board].]",
+      "entity_concepts": {
+        "Warehoused Goods": [
+          "The owner of warehoused goods may perform manufacturing processes or other operations on them within a warehouse, subject to prescribed rules and following a fifteen-day prior written notice to the authorized customs authority."
+        ],
+        "Commissioner of Customs": [
+          "This official acts as the primary authority to receive notices for manufacturing operations in warehouses and is empowered to determine the value of waste or refuse for assessment purposes when goods are cleared for home consumption."
+        ],
+        "Bonded Warehouse Operation": [
+          "Manufacturing and other operations performed on goods within a warehouse are subject to rules, and any resulting waste or refuse must be either destroyed or subjected to duties if the produced goods are cleared for export or home consumption."
+        ],
+        "Export Goods": [
+          "No duty is charged on waste or refuse generated during the manufacturing process if the resulting final goods are exported, provided the waste is destroyed or appropriate duty is paid upon the waste itself."
+        ],
+        "Imported or Exported Goods": [
+          "When goods produced from warehouse operations are cleared for home consumption, duties and taxes are applicable to both the cleared goods and any waste or refuse generated during the process as determined by prescribed rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_448",
+      "entity_sub_entities": {
+        "Warehoused Goods": [
+          "warehoused goods",
+          "manufacturing processes",
+          "operations",
+          "warehouse",
+          "fifteen-day prior written notice",
+          "authorized customs authority"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "notices",
+          "manufacturing operations",
+          "warehouses",
+          "waste",
+          "refuse",
+          "goods",
+          "home consumption"
+        ],
+        "Bonded Warehouse Operation": [
+          "manufacturing",
+          "operations",
+          "goods",
+          "warehouse",
+          "waste",
+          "refuse",
+          "duties",
+          "produced goods",
+          "export",
+          "home consumption"
+        ],
+        "Export Goods": [
+          "duty",
+          "waste",
+          "refuse",
+          "manufacturing process",
+          "final goods",
+          "export"
+        ],
+        "Imported or Exported Goods": [
+          "goods",
+          "warehouse operations",
+          "home consumption",
+          "duties",
+          "taxes",
+          "cleared goods",
+          "waste",
+          "refuse"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        13,
+        30,
+        61,
+        74,
+        89,
+        109,
+        228,
+        234,
+        407,
+        538,
+        569,
+        712,
+        783,
+        957,
+        983,
+        1446,
+        1681,
+        1714,
+        1947,
+        2128,
+        2851,
+        2951,
+        3975,
+        5776,
+        8053
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_129",
+      "clause_title": "Remover may enter into a general bond",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_129",
+      "resolved_text": "102. Remover may enter into a general bond.- The 4[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] may permit any person desirous of removing warehoused goods to enter into a general bond, with such sureties, in such amount and under such conditions as 5[that Commissioner] approves, for the removal, from time to time, of any goods from one warehouse to another, either in the same or in a different warehousing station and for the due arrival and re-warehousing of such goods at the destination within such time as 5[that Commissioner] directs.",
+      "entity_concepts": {
+        "Commissioner of Customs": [
+          "This officer is empowered to authorize persons to enter into a general bond for the removal of warehoused goods.",
+          "An authorized Commissioner of Customs may approve the sureties, amounts, and conditions of a general bond used for moving goods between warehouses."
+        ],
+        "National Board of Revenue": [
+          "The Board provides the authority for a Commissioner of Customs to permit the execution of general bonds."
+        ],
+        "Warehoused Goods": [
+          "These goods may be removed from one warehouse to another under a general bond arrangement, subject to the requirement that they arrive and are re-warehoused at the destination within the time directed by the Commissioner."
+        ],
+        "Warehouse": [
+          "Goods covered by a general bond may be moved between warehouses located within the same or different warehousing stations."
+        ],
+        "Warehousing Station": [
+          "These stations serve as the origin and destination points for the transfer of bonded goods under a general bond."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_456",
+      "entity_sub_entities": {
+        "Commissioner of Customs": [
+          "officer",
+          "general bond",
+          "warehoused goods",
+          "sureties",
+          "amounts",
+          "conditions"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioner of Customs",
+          "general bonds"
+        ],
+        "Warehoused Goods": [
+          "goods",
+          "warehouse",
+          "general bond",
+          "Commissioner"
+        ],
+        "Warehouse": [
+          "goods",
+          "general bond",
+          "warehouses",
+          "warehousing stations"
+        ],
+        "Warehousing Station": [
+          "stations",
+          "bonded goods",
+          "general bond"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        64,
+        74,
+        89,
+        99,
+        114,
+        266,
+        353,
+        569,
+        579,
+        614,
+        735,
+        1391,
+        2450,
+        4978
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_143",
+      "clause_title": "Power to decide where goods may be deposited in warehouse, and on what terms",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_143",
+      "resolved_text": "118. Power to decide where goods may be deposited in 3[warehouse], and on what terms.- The 4[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] may from time to time determine in what division of any 5[warehouse], and in what manner, and on what terms, any goods may be deposited, and what sort of goods may be deposited in any such warehouse.",
+      "entity_concepts": {
+        "Warehouse": [
+          "The appropriate customs authority has the power to determine the specific divisions of a warehouse where goods may be stored.",
+          "The authority may regulate the manner and terms under which goods are deposited, as well as define the specific types of goods permitted for storage in a given warehouse."
+        ],
+        "Commissioner of Customs": [
+          "This officer is empowered to decide the operational terms, storage divisions, and the categories of goods allowed within a warehouse.",
+          "Any Commissioner of Customs authorized by the Board may exercise the power to regulate the deposit of goods in warehouses."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the authority to empower specific Commissioners of Customs to manage and determine terms for the storage of goods in warehouses."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_470",
+      "entity_sub_entities": {
+        "Warehouse": [
+          "divisions of a warehouse",
+          "goods",
+          "types of goods"
+        ],
+        "Commissioner of Customs": [
+          "operational terms",
+          "storage divisions",
+          "categories of goods",
+          "warehouse",
+          "Board"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioners of Customs",
+          "terms",
+          "goods",
+          "warehouses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        74,
+        452,
+        569,
+        1169,
+        1486,
+        2338,
+        5081,
+        10361
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_91",
+      "clause_title": "Power to permit immediate discharge",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_91",
+      "resolved_text": "78. Power to permit immediate discharge.- (1) Notwithstanding anything contended in sections 74, 76 and 77, the appropriate officer in any customs-station to which the Board, by notification in the official Gazette, declares this section to apply, may permit the master of any vessel immediately on receipt of an order under section 47 or a special pass under section 49, or the person-in-charge of a conveyance other than a vessel on receipt of the import manifest to discharge the goods imported by such conveyance, or any portion thereof, into the custody of his agent, if he be willing to receive the same, for the purpose of unloading the same forthwith-\n(a) at the custom-house, or at any specified landing-place or wharf; or\n(b) at any landing-place or wharf belonging to the port commissioners, port trust, railways or other public body or company; or\n(c) for giving it in the custody of such person as may be approved by the 2[Commissioner of Customs].\n(2) Any agent so receiving such cargo or portion shall be bound to discharge all claims for damage or short delivery which may be established in respect of the same by the owner thereof, and shall be entitled to recover from such owner his charges for service rendered, but not for commission or the like, where any agent for the unloading of such cargo or portion has been previously appointed by the owner and such appointment is unrevoked 1[:\nProvide that no agent so receiving such cargo or portion shall cause it to be removed or otherwise dealt with except in accordance with the written order of the appropriate officer.]\n(3) The appropriate officer shall take charge of all goods discharged under clause (a) of sub-section (1) and otherwise proceed in relation thereto as provided in section 76 and 82.\n(4) 2[A public body or company or port authority or airlines or] person at whose landing- place or wharf or place of storage any goods are discharged under clause (b) or clause (c) of sub-section (1) shall not permit the same to be removed or otherwise dealt with except in accordance with the order in writing of the appropriate officer.",
+      "entity_concepts": {
+        "Appropriate Officer of Customs": [
+          "The appropriate officer has the authority to permit the immediate discharge of goods from a vessel or conveyance into the custody of an agent, provided the customs-station has been declared applicable for this section by the Board.",
+          "This officer is responsible for managing the custody of goods discharged at custom-houses and ensuring that goods discharged at authorized landing places or warehouses are not removed or dealt with without written authorization.",
+          "The officer must proceed with the handling of discharged goods in accordance with the prescribed sections of the Customs Act 1969."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the power to designate specific customs-stations where the provision for immediate discharge of goods may be applied through a notification in the official Gazette."
+        ],
+        "Master of the Vessel": [
+          "The master of a vessel may be permitted to immediately discharge imported goods upon receiving a valid arrival order or a special pass."
+        ],
+        "Person in Charge of Conveyance": [
+          "The person in charge of a conveyance other than a vessel is authorized to discharge imported goods upon receipt of the import manifest, subject to the permission of the appropriate officer."
+        ],
+        "Agent": [
+          "An agent may receive imported goods for immediate discharge if they are willing to do so, assuming legal responsibility for claims related to damage or short delivery.",
+          "The agent is entitled to recover service charges from the owner of the goods but is prohibited from removing or dealing with the cargo except as permitted by the written order of the appropriate officer."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is authorized to approve the specific persons permitted to hold goods in custody under the immediate discharge provisions."
+        ],
+        "Port Authority": [
+          "Port authorities, public bodies, or companies providing landing places or storage are prohibited from allowing the removal or handling of discharged goods without the written order of the appropriate officer."
+        ],
+        "Imported Goods": [
+          "Imported goods may be discharged immediately into the custody of an agent at approved locations such as custom-houses, wharves, or other public body storage facilities to facilitate prompt unloading."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_418",
+      "entity_sub_entities": {
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "goods",
+          "vessel",
+          "conveyance",
+          "customs-station",
+          "Board",
+          "custom-houses",
+          "authorized landing places",
+          "warehouses",
+          "Customs Act 1969"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "customs-stations",
+          "official Gazette"
+        ],
+        "Master of the Vessel": [
+          "master of a vessel",
+          "imported goods",
+          "arrival order",
+          "special pass"
+        ],
+        "Person in Charge of Conveyance": [
+          "person in charge of a conveyance",
+          "imported goods",
+          "import manifest",
+          "appropriate officer"
+        ],
+        "Agent": [
+          "agent",
+          "imported goods",
+          "cargo",
+          "appropriate officer"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "goods"
+        ],
+        "Port Authority": [
+          "Port authorities",
+          "public bodies",
+          "companies",
+          "landing places",
+          "storage",
+          "discharged goods",
+          "appropriate officer"
+        ],
+        "Imported Goods": [
+          "imported goods",
+          "agent",
+          "custom-houses",
+          "wharves",
+          "public body storage facilities"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        7,
+        8,
+        17,
+        56,
+        69,
+        71,
+        80,
+        94,
+        112,
+        113,
+        357,
+        411,
+        431,
+        552,
+        569,
+        742,
+        760,
+        863,
+        964,
+        974,
+        1038,
+        1176,
+        1279,
+        2330,
+        2961,
+        3206,
+        3476,
+        7386,
+        9380,
+        11101
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "একাদশ অধ্যায় - ওয়্যারহাউসকরণ",
+      "text_id": "metadata_13",
+      "resolved_text": "একাদশ অধ্যায়\nওয়্যারহাউসকরণ",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "This chapter of the Customs Act establishes the legal framework and procedures for the storage of goods in warehouses under customs control."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_15",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "Customs Act",
+          "goods",
+          "warehouses"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        37,
+        61,
+        569
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

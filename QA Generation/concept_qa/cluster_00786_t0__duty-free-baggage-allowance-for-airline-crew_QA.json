@@ -1,0 +1,174 @@
+{
+  "thread_id": "cluster_00786_t0",
+  "cluster_id": 786,
+  "cluster_label": "personal goods",
+  "title": "Duty-Free Baggage Allowance for Airline Crew",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "What was the duty-free baggage allowance for Bangladeshi airline crew returning from professional duties abroad as of the 2010 Customs Rules?",
+      "options": [
+        "100 USD",
+        "150 USD",
+        "300 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 0,
+      "answer": "100 USD",
+      "explanation": "According to the 2010-06-10 Customs Rules (src=20100610_195-AIN_2010_2313), the initial duty-free allowance for airline crew was set at 100 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument increased the duty-free baggage allowance for Bangladeshi airline crew from 100 USD to 300 USD?",
+      "options": [
+        "2010 Customs Rules",
+        "2016 Customs Rules Amendment",
+        "2025 Customs Rules Amendment",
+        "2020 Customs Policy Update"
+      ],
+      "answer_index": 1,
+      "answer": "2016 Customs Rules Amendment",
+      "explanation": "The 2016-04-08 Customs Rules Amendment (src=20160408_BAGGAGE_RULES2016_output.json) specifically increased the allowance for airline crew from 100 USD to 300 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Following the 2025-06-03 Customs Rules Amendment, what is the current duty-free baggage allowance for Bangladeshi airline crew?",
+      "options": [
+        "100 USD",
+        "150 USD",
+        "300 USD",
+        "2,000 USD"
+      ],
+      "answer_index": 1,
+      "answer": "150 USD",
+      "explanation": "The 2025-06-03 Customs Rules Amendment (src=20250603_._._._output.json) reduced the duty-free baggage allowance for airline crew from 300 USD to 150 USD.",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "How did the duty-free baggage allowance for airline crew evolve between 2010 and 2025?",
+      "options": [
+        "It remained constant at 300 USD throughout the period.",
+        "It decreased from 300 USD in 2010 to 100 USD in 2025.",
+        "It increased from 100 USD in 2010 to 300 USD in 2016, then decreased to 150 USD in 2025.",
+        "It was 100 USD in 2010, 150 USD in 2016, and 300 USD in 2025."
+      ],
+      "answer_index": 2,
+      "answer": "It increased from 100 USD in 2010 to 300 USD in 2016, then decreased to 150 USD in 2025.",
+      "explanation": "The timeline shows the allowance started at 100 USD (2010-06-10), rose to 300 USD (2016-04-08), and was finally reduced to 150 USD (2025-06-03).",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi airline crew member returned from an international flight on May 1st, 2016, and again on July 1st, 2025. On both occasions, they brought personal baggage items that were duty-free.",
+      "question": "How did the duty-free monetary threshold for the crew member's baggage change between their 2016 return and their 2025 return?",
+      "answer": "The duty-free allowance decreased from 300 USD in 2016 to 150 USD in 2025.",
+      "clauses_involved": [
+        "2016-04-08",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi airline crew member joined the service in 2009. They made duty-free imports under the 2010 rules and continued to work through the 2016 amendment and the 2025 reduction.",
+      "question": "Tracing the evolution of the duty-free baggage allowance for this crew member from the 2010 rules to the 2025 amendment, what was the sequence of the monetary limits?",
+      "answer": "The limit started at 100 USD in 2010, increased to 300 USD in 2016, and was subsequently reduced to 150 USD in 2025.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2016-04-08",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "The duty-free baggage allowance for airline crew was set at 100 USD in 2010. What change occurred six years later regarding this allowance?",
+      "answer": "In the 2016-04-08 Customs Rules Amendment, the duty-free baggage allowance for airline crew was increased from 100 USD to 300 USD.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "nine years later",
+      "question": "Following the 2016 amendment that set the duty-free baggage allowance at 300 USD, what was the status of this allowance nine years later?",
+      "answer": "In the 2025-06-03 Customs Rules Amendment, the duty-free baggage allowance for airline crew was reduced from 300 USD to 150 USD.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The duty-free baggage allowance for airline crew returning from professional duties abroad is set at 300 USD.",
+        "The duty-free baggage allowance for airline crew returning from professional duties abroad is set at 100 USD.",
+        "The duty-free baggage allowance for airline crew returning from professional duties abroad is set at 150 USD."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The duty-free baggage allowance for airline crew returning from professional duties abroad is set at 100 USD.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The duty-free baggage allowance for airline crew returning from professional duties abroad is set at 300 USD.",
+          "date": "2016-04-08"
+        },
+        {
+          "event": "The duty-free baggage allowance for airline crew returning from professional duties abroad is set at 150 USD.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_6",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+        "20250603_._._._০২ জুন, ২০২৫_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00786_t0__duty-free-baggage-allowance-for-airline-crew.json"
+    }
+  ]
+}

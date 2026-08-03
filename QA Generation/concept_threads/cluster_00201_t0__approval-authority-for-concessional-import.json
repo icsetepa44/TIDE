@@ -1,0 +1,427 @@
+{
+  "cluster_id": 201,
+  "cluster_label": "Chairman of the National Board of Revenue",
+  "thread_index": 0,
+  "thread_id": "cluster_00201_t0",
+  "title": "Approval Authority for Concessional Import",
+  "summary": "The process for obtaining concessional import approval evolved from a direct application to the Chairman of the NBR to a more structured committee-based verification process. Over time, the role of the Chairman shifted from being the primary recipient of individual reports to the final authority confirming the satisfaction of industrial establishment criteria based on committee recommendations.",
+  "evolution": {
+    "procedure": "Shifted from direct reporting to committee-based verification.",
+    "institutional_involvement": "Expanded from VAT officials to include Ministry of Industries and Customs Policy secretaries."
+  },
+  "timeline": [
+    {
+      "date": "2017-06-01",
+      "instrument": "SRO 132-AIN/2017",
+      "change": "Initial requirement for application and reporting directly to the Chairman of the NBR.",
+      "clause_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_5"
+      ]
+    },
+    {
+      "date": "2019-05-30",
+      "instrument": "SRO 2019",
+      "change": "Introduction of the Second Secretary (Customs Policy) into the verification process.",
+      "clause_ids": [
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4"
+      ]
+    },
+    {
+      "date": "2022-06-09",
+      "instrument": "SRO 2022",
+      "change": "Formalization of a committee involving the NBR, VAT officials, and the Ministry of Industries.",
+      "clause_ids": [
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO 2025",
+      "change": "Consolidation of the committee-based reporting structure as the final prerequisite for the Chairman's approval.",
+      "clause_ids": [
+        "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5",
+        "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_4"
+      ]
+    }
+  ],
+  "num_member_objects": 6,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20170601_131-AIN__১ জুন, ২০১৭_clause_5",
+      "resolved_text": "৪। উৎপাদনকারী বা সংযোজনকারী শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় পণ্য বা যন্ত্রাংশ বা উপকরণ আমদানির অনুমোদনের জন্য চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর আবেদন করিতে হইবে এবং আবেদন বিবেচনার ক্ষেত্রে তথ্য ও যোগাযোগ প্রযুক্তি বিভাগের প্রতিনিধি এবং সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা সরেজমিন যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর “পরিশিষ্ট-১” অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Chairman of the National Board of Revenue is designated as the authority to receive applications from manufacturing or assembly industries seeking to import goods, parts, or raw materials under the concessional benefits provided by this order."
+        ],
+        "Manufacturing or Assembly Industry": [
+          "Industries establishing a factory must apply to the National Board of Revenue to obtain approval for importing items under concessional duty benefits after the factory has been set up."
+        ],
+        "Information and Communication Technology Division": [
+          "A representative from this division is required to participate in an on-site physical verification process to assess the eligibility of industrial applicants seeking concessional import benefits."
+        ],
+        "VAT Department": [
+          "Relevant officers from the VAT department must conduct a physical inspection of the applicant's facility and, alongside other representatives, submit a formal report to the Chairman of the National Board of Revenue based on a specified template."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1732",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Chairman",
+          "goods",
+          "parts",
+          "raw materials"
+        ],
+        "Manufacturing or Assembly Industry": [
+          "factory",
+          "items"
+        ],
+        "Information and Communication Technology Division": [
+          "representative"
+        ],
+        "VAT Department": [
+          "relevant officers",
+          "facility",
+          "formal report",
+          "Chairman of the National Board of Revenue"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        12,
+        54,
+        117,
+        201,
+        348,
+        377,
+        519,
+        809,
+        849,
+        1205,
+        4190,
+        4331,
+        11414
+      ],
+      "source_file": "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_4",
+      "resolved_text": "৩। উৎপাদনকারী শিল্প প্রতিষ্ঠান কর্তৃক এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় উপকরণ আমদানির অনুমোদনের জন্য চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর আবেদন করিতে হইবে এবং আবেদনটি বিবেচনার জন্য দ্বিতীয় সচিব (কাস্টমস নীতি), জাতীয় রাজস্ব বোর্ড এবং সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা কর্তৃক আবেদনকারী প্রতিষ্ঠানটি সরেজমিনে পরিদর্শন ও যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর “পরিশিষ্ট-১” অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Manufacturing industrial establishments seeking duty concession benefits must submit an application directly to the Chairman of the National Board of Revenue."
+        ],
+        "Manufacturing Industrial Establishment": [
+          "Manufacturing entities must undergo a physical on-site inspection and verification process by authorized customs and VAT officials before their application for concessional import benefits can be considered."
+        ],
+        "Duty Concession": [
+          "Industrial producers are required to follow a formal application and verification process to obtain approval for importing raw materials at concessional rates under this notification."
+        ],
+        "Customs Verification Report": [
+          "Following an on-site inspection, the designated customs and VAT officials must submit a verification report to the Chairman of the National Board of Revenue according to the prescribed appendix format."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1945",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Chairman of the National Board of Revenue"
+        ],
+        "Manufacturing Industrial Establishment": [
+          "Manufacturing entities",
+          "authorized customs and VAT officials"
+        ],
+        "Duty Concession": [
+          "Industrial producers",
+          "raw materials"
+        ],
+        "Customs Verification Report": [
+          "on-site inspection",
+          "customs and VAT officials",
+          "verification report",
+          "Chairman of the National Board of Revenue",
+          "prescribed appendix format"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        201,
+        410,
+        1198,
+        1846,
+        2162,
+        3188,
+        6829,
+        7028,
+        9042,
+        10863
+      ],
+      "source_file": "customs_sros_OCR/20190530_159-AIN_2019_28_Customs/20190530_159-AIN_2019_28_Customs_output.json",
+      "clause_date": "2019-05-30"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20210603_116-AIN_2021_05_Customs_২৪ মে, ২০২১_clause_2",
+      "resolved_text": "২। উৎপাদনকারী বা সংযোজনকারী শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতী সুবিধায় পণ্য বা যন্ত্রাংশ বা উপকরণ আমদানির অনুমোদনের জন্য চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর আবেদন করিতে হইবে এবং আবেদন বিবেচনার ক্ষেত্রে (কাস্টমস নীতি), তথ্য ও যোগাযোগ প্রযুক্তি বিভাগের প্রতিনিধি এবং সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা সরজমিন যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর “পরিশিষ্ট-১” অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Manufacturers or assembly industrial units seeking concessional import benefits under this notification must submit an application to the Chairman of the National Board of Revenue.",
+          "The Chairman of the National Board of Revenue receives site inspection reports from relevant representatives and officers to evaluate applications for import concessions."
+        ],
+        "Import Concession": [
+          "Manufacturers and assembly units must apply to receive concessions on the import of raw materials, parts, or equipment under this notification."
+        ],
+        "Site Inspection": [
+          "A formal inspection must be conducted by the representative of the ICT Division and the relevant Value Added Tax officer to verify the factory premises before concession approval.",
+          "The findings of the inspection must be submitted to the National Board of Revenue in the format prescribed in the first appendix."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2069",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "relevant representatives",
+          "officers"
+        ],
+        "Import Concession": [
+          "raw materials",
+          "parts",
+          "equipment"
+        ],
+        "Site Inspection": [
+          "representative of the ICT Division",
+          "Value Added Tax officer",
+          "factory premises",
+          "first appendix"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        54,
+        72,
+        201,
+        273,
+        2724,
+        2729,
+        2786,
+        3084,
+        3179,
+        11419,
+        11465
+      ],
+      "source_file": "customs_sros_OCR/20210603_116-AIN_2021_05_Customs/20210603_116-AIN_2021_05_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+      "resolved_text": "২। মোটরসাইকেল উৎপাদনকারী বা ভেন্ডর শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর আবেদন করিতে হইবে; উক্ত আবেদন বিবেচনার ক্ষেত্রে জাতীয় রাজস্ব বোর্ড, সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনকারী প্রতিষ্ঠান সরেজমিন যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর ‘‘পরিশিষ্ট-১’’ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন এবং উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে; উক্ত অনুমোদন পত্রের সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Chairman of the National Board of Revenue is the designated authority to receive applications from motorcycle manufacturers or vendors seeking duty concessions for the import of raw materials or components.",
+          "The National Board of Revenue is responsible for forming a verification committee comprising VAT officials and Ministry of Industry representatives to evaluate factory operations and grant approval based on the committee's report."
+        ],
+        "Duty Concession": [
+          "Manufacturers or vendor industries are eligible to import raw materials or components at a concessional rate of duty, provided they satisfy the prescribed verification process and obtain the necessary approval."
+        ],
+        "Bill of Entry": [
+          "A certified copy of the approval letter for the concessional import facility must be submitted along with the bill of entry during the customs clearance process for every shipment."
+        ],
+        "Motorcycle Manufacturing Industry": [
+          "Motorcycle manufacturers or vendor industrial units are required to undergo a physical site verification by a designated committee to confirm the adequacy of their factory setup before qualifying for import duty concessions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2241",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "motorcycle manufacturers",
+          "vendors",
+          "verification committee",
+          "VAT officials",
+          "Ministry of Industry representatives"
+        ],
+        "Duty Concession": [
+          "raw materials",
+          "components",
+          "concessional rate of duty"
+        ],
+        "Bill of Entry": [
+          "approval letter",
+          "bill of entry",
+          "shipment"
+        ],
+        "Motorcycle Manufacturing Industry": [
+          "Motorcycle manufacturers",
+          "vendor industrial units",
+          "designated committee",
+          "factory setup"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        12,
+        27,
+        42,
+        201,
+        330,
+        359,
+        382,
+        636,
+        993,
+        1130,
+        1154,
+        1198,
+        2142,
+        2351,
+        4380,
+        8009,
+        13259
+      ],
+      "source_file": "customs_sros_OCR/20220609_139-AIN_2022_87_Customs/20220609_139-AIN_2022_87_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20250602_193-AIN_2025_15_Customs_২৯ মে, ২০২৫_clause_5",
+      "resolved_text": "৪। অনুচ্ছেদ-৩ এর মাধ্যমে গঠিত কমিটি সংশ্লিষ্ট প্রতিষ্ঠান সরেজমিন যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর পরিশিষ্ট-১ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন এবং উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে; উক্ত অনুমোদনপত্রের সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The committee formed under this order must submit a site inspection report regarding the applicant institution to the Chairman of the National Board of Revenue."
+        ],
+        "Concessional Duty": [
+          "The institution is granted approval for importing goods at concessional rates provided their industrial establishment activities are found satisfactory according to the submitted inspection report."
+        ],
+        "Bill of Entry": [
+          "An attested copy of the approval letter for the concessional imports must be submitted along with the Bill of Entry at the time of customs clearance for every consignment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3013",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "site inspection report",
+          "applicant institution"
+        ],
+        "Concessional Duty": [
+          "goods",
+          "industrial establishment activities",
+          "inspection report"
+        ],
+        "Bill of Entry": [
+          "approval letter",
+          "concessional imports",
+          "Bill of Entry",
+          "consignment"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        27,
+        162,
+        201,
+        382,
+        559,
+        1899,
+        1959,
+        1961,
+        2098,
+        12218
+      ],
+      "source_file": "customs_sros_OCR/20250602_193-AIN_2025_15_Customs/20250602_193-AIN_2025_15_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20250602_194-AIN_2025_16_Customs_২৯ মে, ২০২৫_clause_4",
+      "resolved_text": "৪। অনুচ্ছেদ-৩ এর মাধ্যমে গঠিত কমিটি আবেদনিত প্রতিষ্ঠান সরেজমিন যাচাইপূর্বক চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বরাবর পরিশিষ্ট-১ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন এবং উক্ত প্রতিবেদন অনুযায়ী প্রতিষ্ঠানের শিল্প স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে এবং উক্ত অনুমোদনপত্রের সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Committee for Factory Verification": [
+          "This committee is responsible for conducting physical inspections of applicant entities to assess their industrial setup activities.",
+          "The committee must submit a formal report to the Chairman of the National Board of Revenue according to the prescribed format."
+        ],
+        "National Board of Revenue": [
+          "The Chairman of the National Board of Revenue receives verification reports from the committee to evaluate the eligibility of applicant companies for duty concessions."
+        ],
+        "Concessional Duty": [
+          "Eligible entities identified through the verification process are granted approval to import goods at a concessional rate of duty under this notification."
+        ],
+        "Bill of Entry": [
+          "Applicants must submit an authenticated photocopy of their approval letter along with the Bill of Entry during the customs clearance process for each consignment of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3021",
+      "entity_sub_entities": {
+        "Committee for Factory Verification": [
+          "physical inspections",
+          "applicant entities",
+          "industrial setup activities",
+          "formal report",
+          "Chairman of the National Board of Revenue"
+        ],
+        "National Board of Revenue": [
+          "Chairman of the National Board of Revenue",
+          "verification reports",
+          "applicant companies",
+          "duty concessions"
+        ],
+        "Concessional Duty": [
+          "eligible entities",
+          "goods",
+          "concessional rate of duty"
+        ],
+        "Bill of Entry": [
+          "approval letter",
+          "Bill of Entry",
+          "consignment of goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        27,
+        189,
+        201,
+        382,
+        717,
+        993,
+        1174,
+        1205,
+        1959,
+        2425,
+        2461,
+        3904,
+        4187,
+        5573,
+        6502
+      ],
+      "source_file": "customs_sros_OCR/20250602_194-AIN_2025_16_Customs/20250602_194-AIN_2025_16_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

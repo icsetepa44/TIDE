@@ -1,0 +1,225 @@
+{
+  "thread_id": "cluster_00065_t0",
+  "cluster_id": 65,
+  "cluster_label": "regulatory notification",
+  "title": "Regulatory Notification Amendment and Repeal Mechanism",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 6,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument formalized the procedure for the outright cancellation or repeal of previous regulatory notifications for the first time in the provided timeline?",
+      "options": [
+        "SRO 175-AIN/2012",
+        "SRO 143-AIN/2013",
+        "SRO 156-AIN/2016",
+        "SRO 151-AIN/2019"
+      ],
+      "answer_index": 1,
+      "answer": "SRO 143-AIN/2013",
+      "explanation": "SRO 143-AIN/2013, issued on 2013-06-06, specifically formalized the procedure for the outright cancellation/repeal of previous SROs.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1",
+        "20190530_151-AIN_2019_20_Customs_৩০ মে, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When did the legal framework for regulatory notifications officially begin incorporating the Customs Act, 2023?",
+      "options": [
+        "2012-06-07",
+        "2019-05-30",
+        "2023-06-01",
+        "2025-06-02"
+      ],
+      "answer_index": 3,
+      "answer": "2025-06-02",
+      "explanation": "SRO 242-AIN/2025, issued on 2025-06-02, adopted the Customs Act, 2023 as the primary legal basis for repealing legacy notifications.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20190530_151-AIN_2019_20_Customs_৩০ মে, ২০১৯_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1",
+        "20250602_242-AIN_2025_64_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary legal basis for issuing regulatory notifications according to SRO 175-AIN/2012?",
+      "options": [
+        "Customs Act, 1969 and VAT Act, 1991",
+        "Customs Act, 2023 and VAT Act, 1991",
+        "Customs Act, 1969 and VAT and Supplementary Duty Act, 2012",
+        "Customs Act, 2023 and VAT and Supplementary Duty Act, 2012"
+      ],
+      "answer_index": 0,
+      "answer": "Customs Act, 1969 and VAT Act, 1991",
+      "explanation": "SRO 175-AIN/2012, dated 2012-06-07, explicitly cites the Customs Act, 1969 and the Value Added Tax Act, 1991 as its legal foundation.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the refinement of the amendment process by specifically targeting H.S. Code entries within existing tables in 2019?",
+      "options": [
+        "SRO 143-AIN/2013",
+        "SRO 156-AIN/2016",
+        "SRO 151-AIN/2019",
+        "SRO 122-AIN/2021"
+      ],
+      "answer_index": 2,
+      "answer": "SRO 151-AIN/2019",
+      "explanation": "SRO 151-AIN/2019, dated 2019-05-30, refined the amendment process by targeting specific H.S. Code entries.",
+      "clause_text_ids": [
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1",
+        "20190530_151-AIN_2019_20_Customs_৩০ মে, ২০১৯_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "In which year was the VAT and Supplementary Duty Act, 2012 first utilized as a legal basis for managing H.S. Code deletions in a regulatory notification?",
+      "options": [
+        "2012",
+        "2016",
+        "2021",
+        "2023"
+      ],
+      "answer_index": 3,
+      "answer": "2023",
+      "explanation": "SRO 122-AIN/2021 (Amendment), issued on 2023-06-01, transitioned the legal basis to include the VAT and Supplementary Duty Act, 2012 for managing deletions of H.S. Code entries.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which SRO applied a specific regulatory scope to hybrid motor vehicle taxation, replacing previous frameworks in 2016?",
+      "options": [
+        "SRO 156-AIN/2016",
+        "SRO 143-AIN/2013",
+        "SRO 175-AIN/2012",
+        "SRO 151-AIN/2019"
+      ],
+      "answer_index": 0,
+      "answer": "SRO 156-AIN/2016",
+      "explanation": "SRO 156-AIN/2016, issued on 2016-06-02, applied specific regulatory scope to hybrid motor vehicle taxation and replaced SRO 121-AIN/2014.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20160602_156-AIN_2016_18-Customs_2016-06-02_clause_1",
+        "20190530_151-AIN_2019_20_Customs_৩০ মে, ২০১৯_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been operating under the regulatory framework established by the 1991 VAT Act. In 2023, they are reviewing their compliance requirements and notice that the legal basis for their ongoing customs exemptions has shifted to include the VAT and Supplementary Duty Act, 2012, as seen in the amendment of SRO 122-AIN/2021.",
+      "question": "How did the legal authority cited for issuing regulatory amendments evolve between the 2012-06-07 notification and the 2023-06-01 amendment?",
+      "answer": "The legal basis evolved from relying on the Value Added Tax Act, 1991 to incorporating the Value Added Tax and Supplementary Duty Act, 2012.",
+      "clauses_involved": [
+        "2012-06-07",
+        "2023-06-01"
+      ],
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company has been tracking a legacy regulatory notification (SRO 158-AIN/2008) for years. In 2025, the government issues a new order to address this specific notification.",
+      "question": "What is the primary difference in the legislative framework used to repeal the 2008 notification in 2025 compared to the framework that would have been used for a similar repeal in 2013?",
+      "answer": "In 2013, repeals were executed under the Customs Act, 1969 and the Value Added Tax Act, 1991, whereas in 2025, the repeal was executed under the Customs Act, 2023 and the Value Added Tax and Supplementary Duty Act, 2012.",
+      "clauses_involved": [
+        "2013-06-06",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1",
+        "20250602_242-AIN_2025_64_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "one year later",
+      "question": "In 2012, SRO 175-AIN/2012 established a mechanism for amending SROs; what procedural change was introduced exactly one year later?",
+      "answer": "One year later, in 2013, SRO 143-AIN/2013 formalized the procedure for the outright cancellation or repeal of previous regulatory notifications.",
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-05-30",
+      "relative_offset": "six years later",
+      "question": "SRO 151-AIN/2019 focused on refining the amendment process through H.S. Code entries; what significant shift in the legal basis for repealing legacy notifications occurred six years later?",
+      "answer": "Six years later, in 2025, SRO 242-AIN/2025 was issued, which adopted the Customs Act, 2023 as the primary legal basis for repealing legacy notifications dating back to 2008.",
+      "clause_text_ids": [
+        "20190530_151-AIN_2019_20_Customs_৩০ মে, ২০১৯_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1",
+        "20250602_242-AIN_2025_64_Customs_২৯ মে, ২০২৫_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these regulatory events in chronological order based on the evolution of tax and customs procedures.",
+      "events_shuffled": [
+        "The government formalizes a procedure to completely cancel and repeal an existing regulatory notification.",
+        "The government mandates a table replacement within a regulatory notification to modify duty exemptions.",
+        "The government adopts a new regulatory framework to repeal a legacy notification issued for customs purposes.",
+        "The government refines the amendment process by targeting specific H.S. Code entries for deletion within an existing notification table."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government mandates a table replacement within a regulatory notification to modify duty exemptions.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The government formalizes a procedure to completely cancel and repeal an existing regulatory notification.",
+          "date": "2013-06-06"
+        },
+        {
+          "event": "The government refines the amendment process by targeting specific H.S. Code entries for deletion within an existing notification table.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "The government adopts a new regulatory framework to repeal a legacy notification issued for customs purposes.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20120607_175-AIN_2012_2403-Customs_2012-06-07_clause_1",
+        "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1",
+        "20230601_122-AIN_2023_166_Customs_২১ মে, ২০২৩_clause_1",
+        "20250602_242-AIN_2025_64_Customs_২৯ মে, ২০২৫_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20120607_175-AIN_2012_2403-Customs/20120607_175-AIN_2012_2403-Customs_output.json",
+        "customs_sros_OCR/20130606_143-AIN_2013_2430-Customs/20130606_143-AIN_2013_2430-Customs_output.json",
+        "customs_sros_OCR/20230601_122-AIN_2023_166_Customs/20230601_122-AIN_2023_166_Customs_output.json",
+        "customs_sros_OCR/20250602_242-AIN_2025_64_Customs/20250602_242-AIN_2025_64_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00065_t0__regulatory-notification-amendment-and-repeal-mecha.json"
+    }
+  ]
+}

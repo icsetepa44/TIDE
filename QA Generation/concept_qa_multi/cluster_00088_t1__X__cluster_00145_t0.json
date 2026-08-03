@@ -1,0 +1,33 @@
+{
+  "group_id": "cluster_00088_t1__X__cluster_00145_t0",
+  "entities": [
+    "TABLE-2",
+    "amendments"
+  ],
+  "cluster_ids": [
+    88,
+    145
+  ],
+  "thread_ids": [
+    "cluster_00088_t1",
+    "cluster_00145_t0"
+  ],
+  "num_shared_clauses": 5,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the amendment mechanisms involving the NBR and the government affect the entries in TABLE-2, such as those related to China clays in H.S. Code 2507.00.11?",
+      "answer": "Amendments are issued by the government, in consultation with the NBR, to update or modify specific entries within existing notifications. For example, clause [1] demonstrates an amendment where the description for H.S. Code 2507.00.11 in TABLE-2 was updated to expand the scope of eligible industrial IRC holders to include Tiles, Sanitary, Ceramic, or Tableware products manufacturing industries.",
+      "entities_involved": [
+        "TABLE-2",
+        "amendments"
+      ],
+      "clause_text_ids": [
+        "20220628_205-_2022_113_২৮ জুন, ২০২২_clause_2",
+        "20220628_215-_2022_123_২৮ জুন, ২০২২_clause_1",
+        "20240708_226-_2024_68_২৬ জুন, ২০২৪_clause_4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "thread_id": "cluster_00245_t1",
+  "cluster_id": 245,
+  "cluster_label": "fines",
+  "title": "Penalty and Fine Thresholds in Customs Act",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 5,
+    "perturbation_detection": 5,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the policy approach to monetary penalties for customs offences evolved between the 1969 baseline and the recent legislative amendments?",
+      "answer": "The policy has shifted toward increasing the deterrent effect of financial penalties to account for inflation and the nature of modern customs offences. While the Customs Act 1969 originally established baseline magistrate powers, subsequent amendments, such as those in 2000 and the 2022-2023 update, have significantly raised specific penalty ceilings, notably increasing many fines from fifty thousand Taka to two lakh Taka.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the rationale behind the legislative adjustments to penalty thresholds for customs offences?",
+      "answer": "The adjustments are driven by a need to enhance the deterrent effect of financial penalties against customs violations. By increasing monetary fine ceilings, the legislature aims to ensure that penalties remain effective in an environment impacted by inflation and evolving risks, such as data misuse within the customs computerized system.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the Customs Act 1969 interact with the Code of Criminal Procedure 1898 regarding the sentencing authority of magistrates?",
+      "answer": "The Customs Act 1969 grants special sentencing powers to specially empowered first-class magistrates that take precedence over the general limitations found in the Code of Criminal Procedure 1898. Consequently, these magistrates are authorized to impose prison sentences exceeding five years and fines exceeding ten thousand taka, notwithstanding the general provisions of the 1898 Code.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "In what way has the scope of penalties expanded regarding the customs computerized entry processing system?",
+      "answer": "The legislative amendments have introduced stricter consequences for unauthorized access or data misuse within the customs computerized system. Beyond administrative fines, these offences now carry the potential for criminal conviction, imprisonment, and penalties that can reach up to twice the amount of the duty involved, reflecting a more severe approach to digital security within customs operations.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How do the penalty structures for customs offences illustrate a move toward more severe administrative and criminal accountability?",
+      "answer": "The evolution of the Customs Act 1969 shows a dual-track approach: increasing standard administrative fines for general offences from fifty thousand to two lakh Taka, and introducing hybrid penalties for technical offences. The latter combines administrative fines with potential criminal liability and imprisonment, indicating that the policy framework is increasingly utilizing both financial and carceral measures to enforce compliance.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, a specially empowered first-class magistrate is authorized to impose fines exceeding five thousand taka for customs offences.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "five thousand taka",
+      "correct_fact": "ten thousand taka",
+      "answer": "The statement is inaccurate. According to the Customs Act 1969, a specially empowered first-class magistrate is authorized to impose fines exceeding ten thousand taka, not five thousand taka.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Recent amendments to the Customs Act 1969 increased the monetary penalties for numerous customs offences listed in Section 156 from fifty thousand Taka to two lakh Taka.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "fifty thousand Taka to two lakh Taka",
+      "answer": "The statement is accurate. The amendments to the Customs Act 1969 increased the specified penalties for numerous offences in the Table of Section 156 from fifty thousand Taka to two lakh Taka.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Unauthorized access to the customs computerized system now carries a penalty of up to three times the duty or a fixed maximum amount, alongside potential imprisonment.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "three times the duty",
+      "correct_fact": "twice the duty",
+      "answer": "The statement is inaccurate. Unauthorized access to the customs computerized system carries a penalty of up to twice the duty, not three times the duty.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The sentencing powers granted to a specially empowered Magistrate under the Customs Act 1969 allow for prison sentences exceeding five years, notwithstanding the Code of Criminal Procedure 1898.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "five years",
+      "answer": "The statement is accurate. Under the Customs Act 1969, a specially empowered first-class magistrate may pass a sentence of imprisonment for a term exceeding five years, overriding the general limitations of the Code of Criminal Procedure 1898.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2000 Customs Act Amendment increased specific penalty amounts for various offences from 50k to 3 lakh Taka.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "3 lakh Taka",
+      "correct_fact": "2 lakh Taka",
+      "answer": "The statement is inaccurate. The 2000 Customs Act Amendment increased specific penalty amounts for various offences to 2 lakh Taka, not 3 lakh Taka.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer committed a customs offence listed in the Table of Section 156 of the Customs Act 1969. Historically, the penalty for this specific offence was capped at fifty thousand Taka. Following the recent legislative amendments, the penalty for this same offence has been revised to two lakh Taka.",
+      "question": "How has the monetary penalty threshold for the specific customs offences listed in the amendment to Section 156 changed compared to the previous standard?",
+      "answer": "The penalty threshold for the specified customs offences has been increased from fifty thousand Taka to two lakh Taka.",
+      "clauses_involved": [
+        "Customs Act 1969 (Original/General)",
+        "Customs-act-1969-amend-2022-2023_output"
+      ],
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "1969-01-01",
+      "relative_offset": "31 years later",
+      "question": "In the context of the Customs Act 1969, what significant adjustment to penalty amounts occurred 31 years later?",
+      "answer": "In 2000, the Customs Act Amendment was enacted, which increased specific penalty amounts for various offenses, such as raising fines from 50,000 to 2 lakh Taka.",
+      "clause_text_ids": [
+        "Customs-act-1969-amend-2022-2023_২০২২_clause_2",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_268",
+        "customs-act-1969-english_8th March, 1969_clause_212"
+      ]
+    }
+  ]
+}

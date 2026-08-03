@@ -1,0 +1,214 @@
+{
+  "thread_id": "cluster_00171_t3",
+  "cluster_id": 171,
+  "cluster_label": "Passenger Baggage Allowance",
+  "title": "Special Exemptions (Medical and Death)",
+  "source_num_member_objects": 14,
+  "num_qa_pairs": 13,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A traveler arriving at Hazrat Shahjalal International Airport in 2010 finds themselves navigating the arrival terminal with essential medical equipment and a specialized wheelchair. As they approach the customs channel, they are concerned about the regulatory requirements for their mobility aids. Given their physical circumstances, they seek clarification on the fiscal treatment of these items upon entry into Bangladesh.",
+      "question": "Are these medical items subject to customs duties and taxes under the 2010 baggage rules?",
+      "answer": "No, they are permitted to be cleared free of all duties and taxes.",
+      "date_or_instrument": "2010-06-10",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_5",
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_9"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Following the tragic passing of a Bangladeshi national abroad in 2012, family members are in the process of repatriating the deceased's personal effects back to their home country. As the cargo arrives at the border, the relatives are unsure of the financial implications regarding the clearance of these sensitive personal belongings. They inquire about the applicable tax status of these items under the prevailing baggage regulations.",
+      "question": "Is the baggage of the deceased citizen exempt from customs duties and taxes?",
+      "answer": "Yes, the baggage is fully exempt from the payment of all customs duties and taxes.",
+      "date_or_instrument": "2012-06-07",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_5",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_9"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "An elderly passenger completes a long journey across the land border into Bangladesh in 2016, accompanied by necessary medical equipment to support their health. Upon reaching the customs checkpoint, the traveler is uncertain whether the rules governing baggage allow for the duty-free entry of such equipment when arriving via a land port. They ask the customs officials to clarify their rights regarding these vital medical items.",
+      "question": "Does the 2016 baggage rule allow for a duty-free exemption for this passenger's medical equipment?",
+      "answer": "Yes, sick, disabled, or elderly passengers are granted the privilege to import medical equipment free of all duties and taxes regardless of the mode of transport.",
+      "date_or_instrument": "2016-04-08",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_9",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2023, a grieving family is managing the logistics of bringing home the personal baggage of a loved one who passed away while living overseas. As the belongings arrive at the customs facility for processing, the family members are worried about the potential costs associated with the import. They request information on the customs duty status of these personal items under the current national regulations.",
+      "question": "What is the customs duty status of this baggage upon arrival?",
+      "answer": "The baggage is granted a full exemption from all applicable duties and taxes.",
+      "date_or_instrument": "2023-06-01",
+      "clause_text_ids": [
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "A disabled passenger arrives at a busy Bangladeshi seaport in 2024, disembarking from a vessel with their personal wheelchair in tow. As they prepare to clear the customs area, they want to ensure they are fully compliant with the latest baggage regulations. They ask the attending officer whether their mobility aid is subject to any form of customs assessment or charges.",
+      "question": "Are there any customs charges applied to the wheelchair under the 2024 regulations?",
+      "answer": "No, the wheelchair is permitted to be cleared free of all customs duties and taxes.",
+      "date_or_instrument": "2024-06-06",
+      "clause_text_ids": [
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "In 2025, an infirm passenger lands at the airport carrying essential medical equipment needed for their ongoing care. Upon approaching the customs desk, the traveler is anxious about the potential tax burden that might be levied on their health-related items. They seek confirmation regarding whether the current baggage rules necessitate the payment of duties for this equipment.",
+      "question": "Under the 2025 baggage rules, must the passenger pay taxes on their medical equipment?",
+      "answer": "No, passengers who are infirm, disabled, or elderly are permitted to import their personal medical equipment free of all customs duties and taxes.",
+      "date_or_instrument": "2025-06-03",
+      "clause_text_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_5",
+        "20250603_._._._০২ জুন, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2010 regulations (src=20100610_195-AIN_2010_2313), the baggage of a deceased Bangladeshi citizen is subject to standard import duties, whereas the 2025 regulations (src=20250603) introduced the humanitarian exemption for such baggage for the first time.",
+      "question": "Is it true that the exemption for the baggage of a deceased Bangladeshi citizen was only introduced in 2025?",
+      "conflict": "The context incorrectly claims the exemption was introduced in 2025 and that it was subject to duties in 2010.",
+      "answer": "No, that is incorrect. The exemption for the baggage of a deceased Bangladeshi citizen has been a consistent humanitarian provision within the customs framework since at least 2010 (src=20100610_195-AIN_2010_2313), and it has remained a full exemption from all customs duties and taxes through subsequent updates, including the 2025 regulations (src=20250603).",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_5",
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_9",
+        "20250603_._._._০২ জুন, ২০২৫_clause_5",
+        "20250603_._._._০২ জুন, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "In the 2011 customs rules (src=20110609_165-AIN_2011_2352), sick or elderly passengers were required to pay partial duties on imported wheelchairs, but this was later changed to a full exemption in the 2016 rules (src=20160408_BAGGAGE_RULES2016_output).",
+      "question": "Did the 2011 regulations require partial duties for wheelchairs imported by sick or elderly passengers?",
+      "conflict": "The context misrepresents the 2011 policy by claiming partial duties were required, whereas the policy has consistently provided a full exemption.",
+      "answer": "No. According to the 2011 regulations (src=20110609_165-AIN_2011_2352), sick, disabled, or elderly passengers were already permitted to import medical equipment and wheelchairs free of all duties and taxes, meaning there was no requirement for partial duty payments.",
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_9",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Bangladeshi citizen passed away abroad in 2010, and their family is now inquiring about the customs treatment of their baggage compared to a similar case occurring in 2025.",
+      "question": "Has the customs duty and tax exemption status for the baggage of a Bangladeshi citizen who dies abroad changed between 2010 and 2025?",
+      "answer": "No, the exemption status has remained consistent; in both 2010 and 2025, the baggage of a Bangladeshi citizen who dies abroad is fully exempt from all customs duties and taxes.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2025-06-03"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_5",
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_9",
+        "20250603_._._._০২ জুন, ২০২৫_clause_5",
+        "20250603_._._._০২ জুন, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An elderly passenger arrived in Bangladesh with a wheelchair in 2011, and a similarly situated passenger arrived with the same equipment in 2024.",
+      "question": "How does the customs treatment for wheelchairs imported by elderly passengers compare between the 2011 and 2024 regulations?",
+      "answer": "The treatment is identical; in both 2011 and 2024, wheelchairs used by elderly, sick, or disabled passengers are permitted to be imported free of all duties and taxes.",
+      "clauses_involved": [
+        "2011-06-09",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_5",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_9",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_9"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "six years later",
+      "question": "In 2010-06-10, provisions were established for the duty-free import of medical equipment for sick or elderly passengers. Six years later, how did the regulatory framework reiterate this exemption for passengers regardless of their mode of transport?",
+      "answer": "In 2016-04-08, the rules explicitly granted the privilege to import medical equipment and wheelchairs free of all duties and taxes, confirming the exemption applies to all modes of transport including air, water, or land routes.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_5",
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_9",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_9",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2016-04-08",
+      "relative_offset": "nine years later",
+      "question": "Regarding the exemption for the baggage of deceased Bangladeshi citizens abroad as defined in 2016-04-08, what was the status of this provision nine years later?",
+      "answer": "Nine years later, in 2025-06-03, the provision remained in effect, maintaining that the personal baggage of a Bangladeshi citizen who dies abroad is fully exempt from all customs duties and taxes.",
+      "clause_text_ids": [
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_9",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5",
+        "20250603_._._._০২ জুন, ২০২৫_clause_5",
+        "20250603_._._._০২ জুন, ২০২৫_clause_9"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Sick, disabled, or elderly passengers arriving via air, sea, or land routes are permitted to clear their medical equipment and wheelchairs free of all customs duties and taxes.",
+        "Passengers arriving via air, water, or land routes who are infirm, disabled, or elderly are permitted to import their personal medical equipment and wheelchairs free of all customs duties and taxes.",
+        "Sick, disabled, or elderly passengers arriving by air, sea, or land are permitted to import medical equipment and wheelchairs free of all duties and taxes.",
+        "Sick, disabled, or elderly passengers arriving by air, sea, or land are entitled to import medical equipment and wheelchairs for their personal use without payment of any customs duties or taxes."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Sick, disabled, or elderly passengers arriving by air, sea, or land are permitted to import medical equipment and wheelchairs free of all duties and taxes.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "Sick, disabled, or elderly passengers arriving by air, sea, or land are entitled to import medical equipment and wheelchairs for their personal use without payment of any customs duties or taxes.",
+          "date": "2016-06-02"
+        },
+        {
+          "event": "Sick, disabled, or elderly passengers arriving via air, sea, or land routes are permitted to clear their medical equipment and wheelchairs free of all customs duties and taxes.",
+          "date": "2024-06-06"
+        },
+        {
+          "event": "Passengers arriving via air, water, or land routes who are infirm, disabled, or elderly are permitted to import their personal medical equipment and wheelchairs free of all customs duties and taxes.",
+          "date": "2025-06-03"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_5",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_5",
+        "20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_5",
+        "20250603_._._._০২ জুন, ২০২৫_clause_5"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+        "customs_sros_OCR/20250603_._._./20250603_._._._output.json"
+      ],
+      "thread_source_file": "cluster_00171_t3__special-exemptions-medical-and-death.json"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "group_id": "cluster_00018_t0__X__cluster_00231_t0",
+  "entities": [
+    "Authorized Economic Operator",
+    "applicants"
+  ],
+  "cluster_ids": [
+    18,
+    231
+  ],
+  "thread_ids": [
+    "cluster_00018_t0",
+    "cluster_00231_t0"
+  ],
+  "num_shared_clauses": 8,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the AEO Center facilitate the interaction between the administrative process and applicants seeking Authorized Economic Operator status?",
+      "answer": "The AEO Center ensures that applicants have easy access to information regarding eligibility, application procedures, benefits, and relevant laws [3]. Furthermore, the AEO Center handles communications regarding deficiencies in submitted documents [6], notifies applicants if their application is rejected during preliminary screening [7], and coordinates with the AEO team to maintain communication with entities wishing to apply [5].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "applicants"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_2",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_6",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_26",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_27"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What responsibilities must an applicant fulfill before submitting an application to the AEO Center, and how does the evaluation process involve intelligence reporting?",
+      "answer": "Applicants must have a clear understanding of the provisions set forth in Rule 5 of the 'Authorized Economic Operator (Recognition and Operation) Rules, 2024' before submitting their application [2]. During the evaluation process, the AEO Center and the committee consider intelligence reports regarding the applicant, as specified in Appendix 2.1, to make recommendations on the recognition status [4].",
+      "entities_involved": [
+        "Authorized Economic Operator",
+        "applicants"
+      ],
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_157",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_19",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41"
+      ]
+    }
+  ]
+}

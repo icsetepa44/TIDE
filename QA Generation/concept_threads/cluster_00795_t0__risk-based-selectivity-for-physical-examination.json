@@ -1,0 +1,837 @@
+{
+  "cluster_id": 795,
+  "cluster_label": "Risk Analysis",
+  "thread_index": 0,
+  "thread_id": "cluster_00795_t0",
+  "title": "Risk-Based Selectivity for Physical Examination",
+  "summary": "The concept of risk-based selectivity has evolved from a general requirement for automated selection in express services to a sophisticated, multi-layered framework. It now integrates specific institutional oversight by the Customs Risk Management Commissionerate (CRMC), defines clear operational lanes (Green/Red), and mandates the use of advanced technologies like AI and data analytics to differentiate between high and low-risk consignments.",
+  "evolution": {
+    "Institutional_Framework": "Shifted from general customs system automation to centralized oversight by the Customs Risk Management Commissionerate.",
+    "Technological_Depth": "Evolved from basic automated selection to the use of AI, data analytics, and intelligence-led targeting.",
+    "Operational_Precision": "Moved from binary selection to defined lane systems (Green/Red) and specific selectivity percentage thresholds for AEOs."
+  },
+  "timeline": [
+    {
+      "date": "2024-06-06",
+      "instrument": "Express Service Rules",
+      "change": "Initial introduction of automated risk management for physical examination of express goods.",
+      "clause_ids": [
+        "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_18"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "Customs Rules",
+      "change": "Formalization of the Customs Risk Management Commissionerate's role and introduction of Green/Red lane concepts for AEOs.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_90",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_93"
+      ]
+    },
+    {
+      "date": "2025-02-16",
+      "instrument": "Customs Rules",
+      "change": "Refinement of selectivity criteria, specifically providing reduced inspection benefits for AEOs compared to standard risk profiles.",
+      "clause_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_11"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "instrument": "Customs Rules",
+      "change": "Introduction of manifest-based automated risk assessment and specific quantitative thresholds (e.g., 50% selectivity rate) for AEOs.",
+      "clause_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_15",
+        "20250217_2024_2024-06-06_clause_11"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "instrument": "Customs Rules",
+      "change": "Institutionalization of risk management via SOPs, confidentiality of risk profiles, and adoption of AI/targeting intelligence.",
+      "clause_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_10",
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_3"
+      ]
+    }
+  ],
+  "num_member_objects": 8,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_18",
+      "clause_title": "এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের কায়িক পরীক্ষা",
+      "text_id": "20240606_207-AIN_2024_59_Customs_২৯ মে, ২০২৪_clause_18",
+      "resolved_text": "১৮। এক্সপ্রেস সার্ভিসযোগে আনীত পণ্যের কায়িক পরীক্ষা।— (১) এক্সপ্রেস সার্ভিসযোগে আনীত পণ্য ছাড়করণের জন্য কাস্টমস কম্পিউটার সিস্টেমে পণ্যের ঘোষণা দাখিলের পর ঝুঁকি ব্যবস্থাপনার আওতায় স্বয়ংক্রিয়ভাবে নির্বাচিত পণ্যচালানই কেবল কায়িক পরীক্ষা করা হইবে:\nতবে শর্ত থাকে যে, কোনো পণ্যচালান সম্পর্কে সুনির্দিষ্ট গোয়েন্দা তথ্য থাকিলে তাহা যথাযথ কাস্টমস কর্মকর্তা কর্তৃক কায়িক পরীক্ষা করা যাইবে।\n(২) কায়িক পরীক্ষণের জন্য মনোনীত পণ্যচালান সংশ্লিষ্ট এক্সপ্রেস সার্ভিস প্রতিষ্ঠান যথোপযুক্ত কাস্টমস কর্মকর্তার সম্মুখে কায়িক পরীক্ষণের জন্য উপস্থাপন করিবে।\n(৩) উপ-বিধি (১) এ যাহা কিছুই থাকুক না কেন, এক্সপ্রেস সার্ভিসযোগে আনীত সকল পণ্য ক্যাটাগরি নির্বিশেষে যথোপযুক্ত কাস্টমস কর্মকর্তার উপস্থিতিতে ১০০% (শতভাগ) স্ক্যানিং সম্পন্ন করিতে হইবে।\n(৪) কায়িক পরীক্ষণের জন্য মনোনীত পণ্যচালান যথাযথ কাস্টমস কর্মকর্তা কর্তৃক কায়িক পরীক্ষণের পর কায়িক পরীক্ষা প্রতিবেদন কাস্টমস কম্পিউটার সিস্টেমের যথাযথ স্থানে দ্রুততম সময়ের মধ্যে দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Customs Computerised Entry Processing System": [
+          "This system is utilized to register cargo declarations for goods imported via express services.",
+          "Physical inspection reports for selected cargo must be submitted into this system by the appropriate officer as soon as possible after examination."
+        ],
+        "Risk Analysis": [
+          "Goods imported via express services are subject to physical examination only if they are automatically selected for such inspection based on risk management criteria."
+        ],
+        "Appropriate Officer of Customs": [
+          "This officer retains the authority to conduct a physical inspection of any specific cargo shipment if there is credible intelligence information, regardless of selection status.",
+          "This officer must be present when express service providers present cargo for physical inspection.",
+          "This officer is responsible for conducting the physical inspection and uploading the resulting report into the customs computer system."
+        ],
+        "Express Service Provider": [
+          "These entities are required to present cargo shipments designated for physical examination to the appropriate customs officer."
+        ],
+        "Customs Clearance": [
+          "All goods imported via express services must undergo mandatory scanning of the entire shipment, regardless of the goods' category, in the presence of an appropriate customs officer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2757",
+      "entity_sub_entities": {
+        "Customs Computerised Entry Processing System": [
+          "cargo declarations",
+          "goods",
+          "physical inspection reports",
+          "selected cargo"
+        ],
+        "Risk Analysis": [
+          "goods",
+          "physical examination",
+          "risk management criteria"
+        ],
+        "Appropriate Officer of Customs": [
+          "physical inspection",
+          "cargo shipment",
+          "credible intelligence information",
+          "express service providers",
+          "cargo",
+          "physical inspection report",
+          "customs computer system"
+        ],
+        "Express Service Provider": [
+          "cargo shipments",
+          "physical examination",
+          "appropriate customs officer"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "mandatory scanning",
+          "entire shipment",
+          "appropriate customs officer"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        51,
+        66,
+        113,
+        156,
+        205,
+        271,
+        448,
+        466,
+        592,
+        795,
+        913,
+        1520,
+        1528,
+        3565,
+        4526,
+        6174,
+        7746,
+        9695,
+        10680,
+        12086
+      ],
+      "source_file": "customs_sros_OCR/20240606_207-AIN_2024_59_Customs/20240606_207-AIN_2024_59_Customs_output.json",
+      "clause_date": "2024-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_90",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_90",
+      "resolved_text": "১. ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট AEO সনদপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারক প্রতিষ্ঠানের কেবল সুনির্দিষ্ট সংখ্যক পণ্যচালান কায়িক পরীক্ষণ বা ক্ষেত্রমতে, পরিদর্শনের জন্য রেড লেন (Red Lane)-এ নির্বাচন করবে এবং সংশ্লিষ্ট কাস্টমস স্টেশন উক্ত নির্বাচিত পণ্যচালান কায়িক পরীক্ষণ বা ক্ষেত্র মতো, পরিদর্শন করবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "These accredited importers and exporters are subject to the risk management system managed by the Customs Risk Management Commissionerate.",
+          "Specific consignments belonging to these entities are selected for physical examination or inspection under the Red Lane channel."
+        ],
+        "Risk Analysis": [
+          "The customs administration applies risk management methods to identify specific consignments that require physical examination or inspection at customs stations."
+        ],
+        "Red Lane": [
+          "Consignments identified through the risk management system are directed to this channel for physical examination or inspection by customs station officials."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_880",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "accredited importers",
+          "exporters",
+          "Customs Risk Management Commissionerate",
+          "consignments",
+          "Red Lane channel"
+        ],
+        "Risk Analysis": [
+          "customs administration",
+          "risk management methods",
+          "consignments",
+          "customs stations"
+        ],
+        "Red Lane": [
+          "consignments",
+          "risk management system",
+          "customs station officials"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        118,
+        157,
+        167,
+        219,
+        361,
+        517,
+        795,
+        1262,
+        4716,
+        5272,
+        7005,
+        11275
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_93",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_93",
+      "resolved_text": "৪. বিধিমালার বিধি ১১(২) অনুসারে কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট ঝুঁকি ব্যবস্থাপনা পদ্ধতি প্রয়োগ করে স্বীকৃতিপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারকের ঘোষণানুসারে কাস্টমস কম্পিউটার সিস্টেমে স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের ব্যবস্থা (Green Lane) করবে। সংশ্লিষ্ট কাস্টমস স্টেশন স্বয়ংক্রিয় শুল্কায়নের ক্ষেত্রে পণ্য খালাসে প্রয়োজনীয় সহায়তা প্রদান করবে।",
+      "entity_concepts": {
+        "Risk Analysis": [
+          "The Customs Risk Management Commissionerate is responsible for applying risk management methods as stipulated in the rules."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The system is used to facilitate automated customs clearance and assessment based on declarations made by recognized importers or exporters."
+        ],
+        "Green Lane": [
+          "This channel is utilized for the automated assessment and clearance of goods for recognized importers or exporters following the application of risk management procedures."
+        ],
+        "Customs Authority": [
+          "The relevant customs station must provide necessary assistance to ensure the smooth clearance of goods processed through the automated system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_883",
+      "entity_sub_entities": {
+        "Risk Analysis": [
+          "Customs Risk Management Commissionerate",
+          "risk management methods",
+          "rules"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "automated customs clearance",
+          "assessment",
+          "declarations",
+          "recognized importers",
+          "exporters"
+        ],
+        "Green Lane": [
+          "automated assessment",
+          "clearance of goods",
+          "recognized importers",
+          "exporters",
+          "risk management procedures"
+        ],
+        "Customs Authority": [
+          "customs station",
+          "clearance of goods",
+          "automated system"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        25,
+        29,
+        66,
+        157,
+        167,
+        220,
+        487,
+        570,
+        684,
+        759,
+        795,
+        825,
+        2235,
+        4631,
+        4716
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "ঝুঁকি ব্যবস্থাপনা, পণ্য পরীক্ষা, পরিদর্শন ও শুল্কায়ন",
+      "text_id": "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_11",
+      "resolved_text": "১১। ঝুঁকি ব্যবস্থাপনা, পণ্য পরীক্ষা, পরিদর্শন ও শুল্কায়ন।—(১) ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে অথরাইজড ইকোনোমিক অপারেটর সনদপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারক প্রতিষ্ঠানের কেবল নির্বাচিত পণ্যচালানই কায়িক পরীক্ষা বা, ক্ষেত্রমত, পরিদর্শন করা যাইবে:\nতবে শর্ত থাকে যে, ঝুঁকি ব্যবস্থাপনার আওতায় উক্তরূপ পণ্যচালানের ক্ষেত্রে স্বাভাবিক (পণ্যের শ্রেণি, উৎস দেশ, অতীত রেকর্ড, প্রভৃতির ভিত্তিতে) নির্বাচনের (Selectivity) তুলনায় অথরাইজড ইকোনোমিক অপারেটর সনদপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারকের শ্রেণিভিত্তিক অপেক্ষাকৃত কম সংখ্যক পণ্যচালান কায়িক পরীক্ষা করার জন্য নির্বাচন করিতে হইবে এবং এইক্ষেত্রে শ্রেণি-১ এর ক্ষেত্রে স্বাভাবিক নির্বাচনের (Selectivity) তুলনায় অন্যুন ৫০% (পঞ্চাশ শতাংশ), শ্রেণি-২ এর ক্ষেত্রে স্বাভাবিক নির্বাচনের (Selectivity) তুলনায় অন্যুন ৭৫% (পঁচাত্তর শতাংশ) এবং শ্রেণি-৩ এর ক্ষেত্রে স্বাভাবিক নির্বাচনের (Selectivity) তুলনায় অন্যুন ৯০% (নব্বই শতাংশ) কম পণ্যচালান কায়িক পরীক্ষার জন্য নির্বাচন করিতে হইবে।\n(২) ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে অথরাইজড ইকোনোমিক অপারেটর সনদপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারক প্রতিষ্ঠানের বিল অব এন্ট্রি অথবা বিল অব এক্সপোর্টসমূহের মধ্যে শ্রেণিবিন্যাসভিত্তিক একটি বাস্তবসম্মত সংখ্যক, তবে শ্রেণি-১ এর ক্ষেত্রে অন্যুন ২০% (বিশ শতাংশ), শ্রেণি-২ এর ক্ষেত্রে অন্যুন ৩০% (ত্রিশ শতাংশ) এবং শ্রেণি-৩ এর ক্ষেত্রে অন্যুন ৫০% (পঞ্চাশ শতাংশ) বিল অব এন্ট্রি অথবা বিল অব এক্সপোর্ট আমদানিকারক অথবা রপ্তানিকারকের ঘোষণানুসারে কাস্টমস কম্পিউটার সিস্টেমে স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের ব্যবস্থা (Green Lane) থাকিতে হইবে:\nতবে শর্ত থাকে যে, অথরাইজড ইকোনোমিক অপারেটর স্বীকৃতিপ্রাপ্ত আমদানিকারক বা রপ্তানিকারক সরবরাহ শৃঙ্খলে অথরাইজড ইকোনোমিক অপারেটর স্বীকৃতি সনদধারী লজিস্টিকস অপারেটরের মাধ্যমে সেবা গ্রহণ করিলে অতিরিক্ত অন্যুন ১০% (দশ শতাংশ) সংখ্যক পণ্যচালান স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের (Green Lane) সুবিধা পাইবে:\nআরও শর্ত থাকে যে, যেই সকল পণ্যের ক্ষেত্রে রাসায়নিক পরীক্ষা বা মান সনদের প্রয়োজন রহিয়াছে, সেই সকল পণ্যের ক্ষেত্রে স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের ব্যবস্থা (Green Lane) সুবিধা প্রযোজ্য হইবে না।\n(৩) উপ-বিধি (১) ও (২) এ যাহা কিছুই থাকুক না কেন, বিশ্বাসযোগ্য গোয়েন্দা তথ্যের ভিত্তিতে অথরাইজড ইকোনোমিক অপারেটর সনদধারী লজিস্টিকস অপারেটরের মাধ্যমে পণ্যচালান কায়িক পরীক্ষা, ক্ষেত্রমত, পরিদর্শন বা শুল্কায়ন করা যাইবে:\nতবে শর্ত থাকে যে, অথরাইজড ইকোনোমিক অপারেটর সনদপ্রাপ্ত কোনো প্রতিষ্ঠানের ক্ষেত্রে কাস্টমস কর্তৃপক্ষের কোনো পণ্যচালানে অনিয়ম পাওয়া গেলে উক্ত প্রতিষ্ঠানের অন্য পণ্যচালান তৎক্ষণাৎ কায়িক পরীক্ষার জন্য নির্বাচন করা যাইবে এবং উপ-বিধি (১) ও (২) এর আওতায় প্রযোজ্য সুবিধাদি স্থগিত হইবে:\nআরও শর্ত থাকে যে, অথরাইজড ইকোনোমিক অপারেটর সনদপ্রাপ্ত কোনো প্রতিষ্ঠানের ক্ষেত্রে প্রতিষ্ঠানের ইচ্ছাকৃত কোনো অনিয়ম উদ্ঘাটিত হইলে উহা গুরুতর অপরাধ বিবেচনা করিতে হইবে এবং এইরূপ ক্ষেত্রে আইনের আওতায় সম্ভাব্য সর্বোচ্চ দণ্ড প্রযোজ্য হইবে।\n(৪) প্রযোজ্য ক্ষেত্রে, কোনো পণ্যচালান আমদানিকারক বা রপ্তানিকারকের অজ্ঞনে কায়িক পরীক্ষার প্রয়োজন হইলে সংশ্লিষ্ট কাস্টমস স্টেশনের দায়িত্বপ্রাপ্ত কাস্টমস কর্মকর্তার অনুমোদন সাপেক্ষে প্রতিষ্ঠানটি যেই এলাকায় অবস্থিত সেই এলাকার দায়িত্বপ্রাপ্ত কাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ মনোনীত যথোপযুক্ত কাস্টমস কর্মকর্তা কর্তৃক কায়িক পরীক্ষা করিতে হইবে:\nতবে শর্ত থাকে যে, আমদানিকারক বা রপ্তানিকারকের অজ্ঞনে কায়িক পরীক্ষার জন্য মনোনীত যথোপযুক্ত কাস্টমস কর্মকর্তার যাতায়াত ও আনুষঙ্গিক ব্যয় এবং মার্চেন্ডাইজ ওভারটাইম (MOT), ক্ষেত্রমত, আমদানিকারক বা রপ্তানিকারক কর্তৃক বহন করিতে হইবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Authorized Economic Operators receive prioritized treatment in customs processing, including reduced physical examination rates for goods and automated clearance pathways through the Green Lane based on their compliance category.",
+          "The selection of goods for physical examination is significantly reduced for Authorized Economic Operators compared to standard importers or exporters, with specific percentage reductions defined for different compliance tiers.",
+          "If an Authorized Economic Operator is found to have committed intentional irregularities, such actions are classified as serious offences and are subject to the maximum penalties permitted under the law.",
+          "Benefits granted to an Authorized Economic Operator may be suspended if irregularities are detected in any of their consignments, and such shipments may be immediately selected for physical examination."
+        ],
+        "Green Channel": [
+          "Authorized Economic Operators are eligible for automated customs clearance, known as the Green Lane, for a specified proportion of their bills of entry or export declarations, depending on their compliance tier.",
+          "Additional automated clearance benefits are provided to Authorized Economic Operators who utilize the services of certified logistics operators within their supply chain.",
+          "The automated clearance facility is not applicable to goods that require mandatory chemical analysis or quality certification."
+        ],
+        "Risk Analysis": [
+          "Customs authorities apply risk analysis techniques to determine the selectivity of consignments for physical examination, allowing for streamlined processing of low-risk goods belonging to Authorized Economic Operators.",
+          "Exceptions to automated clearance or reduced inspection benefits can be made if credible intelligence information suggests a risk, allowing customs authorities to conduct physical examinations or inspections regardless of the operator's status."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The system is used to automatically clear and assess bills of entry or export declarations for Authorized Economic Operators who meet specified compliance thresholds for automated processing."
+        ],
+        "Appropriate Officer of Customs": [
+          "If a physical examination is required at the premises of an importer or exporter, the responsible officer at the customs station may authorize a designated officer from the local customs, excise, and VAT department to conduct the inspection.",
+          "Costs related to the travel, incidental expenses, and merchandise overtime for designated officers conducting off-site examinations are to be borne by the importer or exporter."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1076",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "goods",
+          "physical examination rates",
+          "automated clearance pathways",
+          "Green Lane",
+          "compliance category",
+          "importers",
+          "exporters",
+          "compliance tiers",
+          "intentional irregularities",
+          "serious offences",
+          "penalties",
+          "consignments",
+          "shipments"
+        ],
+        "Green Channel": [
+          "Authorized Economic Operators",
+          "automated customs clearance",
+          "Green Lane",
+          "bills of entry",
+          "export declarations",
+          "compliance tier",
+          "certified logistics operators",
+          "supply chain",
+          "automated clearance facility",
+          "goods",
+          "chemical analysis",
+          "quality certification"
+        ],
+        "Risk Analysis": [
+          "risk analysis techniques",
+          "consignments",
+          "physical examination",
+          "low-risk goods",
+          "Authorized Economic Operators",
+          "automated clearance",
+          "reduced inspection benefits",
+          "intelligence information",
+          "customs authorities",
+          "inspections"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "bills of entry",
+          "export declarations",
+          "Authorized Economic Operators",
+          "compliance thresholds"
+        ],
+        "Appropriate Officer of Customs": [
+          "physical examination",
+          "importer",
+          "exporter",
+          "responsible officer",
+          "customs station",
+          "designated officer",
+          "local customs, excise, and VAT department",
+          "inspection",
+          "travel costs",
+          "incidental expenses",
+          "merchandise overtime"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        18,
+        25,
+        39,
+        45,
+        46,
+        66,
+        77,
+        79,
+        86,
+        157,
+        164,
+        205,
+        219,
+        247,
+        394,
+        487,
+        570,
+        795,
+        950,
+        1021,
+        1369,
+        1380,
+        1691,
+        2108,
+        2133,
+        2210,
+        2391,
+        2811,
+        3112,
+        3159,
+        3303,
+        4311,
+        4525,
+        4696,
+        4883,
+        5846,
+        6296,
+        6550,
+        6563,
+        6564,
+        6565,
+        11278,
+        11552
+      ],
+      "source_file": "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+      "clause_date": "2025-02-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_15",
+      "clause_title": "এক্সপ্রেস সার্ভিসের মাধ্যমে আনীত পণ্যে ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগ",
+      "text_id": "20250217_2024_1_২৯ মে, ২০২৪_clause_15",
+      "resolved_text": "১৫। এক্সপ্রেস সার্ভিসের মাধ্যমে আনীত পণ্যে ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগ।— (১) কাস্টমস কম্পিউটার সিস্টেমে দাখিলকৃত ম্যানিফেস্ট পর্যালোচনাপূর্বক ঝুঁকি ব্যবস্থাপনার স্বয়ংক্রিয় পদ্ধতিতে উচ্চ ঝুঁকিপূর্ণ পণ্যচালান কায়িক পরীক্ষণের জন্য শনাক্ত করিতে হইবে。\n(২) যে সকল পণ্যচালান ঝুঁকি ব্যবস্থাপনার আওতায় উচ্চ ঝুঁকিপূর্ণ পণ্যচালানের আওতায় পড়িবে না সেই সকল পণ্যচালান যথাসম্ভব দ্রুততার সহিত খালাস প্রদান করিতে হইবে।\n(৩) উপ-বিধি (২) এ যাহাই থাকুক না কেন, সুনির্দিষ্ট গোয়েন্দা তথ্যের ভিত্তিতে যে কোনো পণ্যচালানই কায়িক পরীক্ষার জন্য মনোনয়ন করা যাইবে।",
+      "entity_concepts": {
+        "Customs Computerised Entry Processing System": [
+          "This system is used to submit manifests for express service shipments, which are then reviewed to identify high-risk consignments through an automated risk management procedure."
+        ],
+        "Risk Analysis": [
+          "The automated risk management system is required to identify high-risk goods for physical examination based on manifest reviews.",
+          "Consignments that are not classified as high-risk under the automated system must be cleared for release as quickly as possible.",
+          "Despite automated risk classifications, any shipment can be selected for mandatory physical inspection if specific intelligence information suggests a need for it."
+        ],
+        "Customs Clearance": [
+          "Goods imported via express services that are not identified as high-risk by the automated management system must be processed for clearance with high priority and speed."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1210",
+      "entity_sub_entities": {
+        "Customs Computerised Entry Processing System": [
+          "manifests",
+          "express service shipments",
+          "high-risk consignments",
+          "automated risk management procedure"
+        ],
+        "Risk Analysis": [
+          "automated risk management system",
+          "high-risk goods",
+          "physical examination",
+          "manifest reviews",
+          "consignments",
+          "shipment",
+          "mandatory physical inspection",
+          "intelligence information"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "express services",
+          "automated management system"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        51,
+        66,
+        205,
+        219,
+        359,
+        361,
+        603,
+        795,
+        1051,
+        1397,
+        1691,
+        2781,
+        5859,
+        5863,
+        7980,
+        9688,
+        9706
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "ঝুঁকি ব্যবস্থাপনা, পণ্য পরীক্ষা, পরিদর্শন ও শুল্কায়ন",
+      "text_id": "20250217_2024_2024-06-06_clause_11",
+      "resolved_text": "১১। ঝুঁকি ব্যবস্থাপনা, পণ্য পরীক্ষা, পরিদর্শন ও শুল্কায়ন।—(১) ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে অথরাইজড ইকোনমিক অপারেটর সনদপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারক প্রতিষ্ঠানের কেবল নির্বাচিত পণ্যচালানই কায়িক পরীক্ষণ বা, ক্ষেত্রমত, পরিদর্শন করা যাইবে:\nতবে শর্ত থাকে যে, ঝুঁকি ব্যবস্থাপনার আওতায় কন্টেইনারের অভ্যন্তরীণ পণ্যচালানের (পণ্যের শ্রেণি, উৎস দেশ, অতীত রেকর্ড, প্রভৃতির ভিত্তিতে) নির্বাচনের (Selectivity) ক্ষেত্রে অথরাইজড ইকোনমিক অপারেটরের স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের পণ্যবাহী পণ্যচালান নির্বাচনের হার সর্বনিম্ন হইবে এবং শ্রেণি-১ এর ক্ষেত্রে নির্বাচনের (Selectivity) হার অনূর্ধ্ব ৫০% (পঞ্চাশ শতাংশ), শ্রেণি-২ এর ক্ষেত্রে নির্বাচনের (Selectivity) হার অনূর্ধ্ব ৭৫% (পঁচাত্তর শতাংশ) এবং শ্রেণি-৩ এর ক্ষেত্রে নির্বাচনের (Selectivity) হার অনূর্ধ্ব ৯০% (নব্বই শতাংশ) কাস্টমস কায়িক পরীক্ষার জন্য নির্বাচন করিতে হইবে।\n(২) ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে অথরাইজড ইকোনমিক অপারেটর সনদপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারক প্রতিষ্ঠানের বিল অব এন্ট্রি অথবা বিল অব এক্সপোর্টসমূহের মধ্যে ঝুঁকি ব্যবস্থাপনার আওতায় একটি বাস্তবসম্মত সংখ্যক, তবে শ্রেণি-১ এর ক্ষেত্রে অনূর্ধ্ব ২০% (বিশ শতাংশ), শ্রেণি-২ এর ক্ষেত্রে অনূর্ধ্ব ৩০% (ত্রিশ শতাংশ) এবং শ্রেণি-৩ এর ক্ষেত্রে অনূর্ধ্ব ৫০% (পঞ্চাশ শতাংশ) বিল অব এন্ট্রি অথবা বিল অব এক্সপোর্ট আমদানিকারক অথবা রপ্তানিকারকের ঘোষণানুসারে কাস্টমস কম্পিউটার সিস্টেমে স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের ব্যবস্থা (Green Lane) থাকিতে হইবে:\nতবে শর্ত থাকে যে, অথরাইজড ইকোনমিক অপারেটর স্বীকৃতিপ্রাপ্ত আমদানিকারক বা রপ্তানিকারক সরবরাহ শৃঙ্খলে কাস্টমস কর্তৃক মনোনীত লজিস্টিকস অপারেটরের মাধ্যমে পূর্ণ সরবরাহ শৃঙ্খলে সেবা গ্রহণ করিলে উপ-বিধি (১) ও (২) এর আওতায় অতিরিক্ত অনূর্ধ্ব ১০% (দশ শতাংশ) সংখ্যক পণ্যচালান খালাসের (Green Lane) সুবিধা পাইবে:\nআরও শর্ত থাকে যে, যেই সকল পণ্যের ক্ষেত্রে রাসায়নিক পরীক্ষা বা মান সনদের প্রয়োজন রহিয়াছে, সেই সকল পণ্যের ক্ষেত্রে স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের ব্যবস্থা (Green Lane) সুবিধা প্রযোজ্য হইবে না।\n(৩) উপ-বিধি (১) ও (২) এ যাহা কিছুই থাকুক না কেন, বিশ্বাসযোগ্য গোয়েন্দা তথ্যের ভিত্তিতে অথরাইজড ইকোনমিক অপারেটর সনদধারী লজিস্টিকস অপারেটর এর মাধ্যমে পণ্যচালান সরবরাহ শৃঙ্খলে সেবা গ্রহণ করিলেও পণ্য কায়িক পরীক্ষণ বা, ক্ষেত্রমত, পরিদর্শন বা শুল্কায়ন করা যাইবে:\nতবে শর্ত থাকে যে, কাস্টমস কর্মকর্তা সরেজমিনে পণ্যচালান কায়িক পরীক্ষার জন্য নির্বাচন করিলে উহার কারণ লিখিতভাবে লিপিবদ্ধ করিতে হইবে এবং উপ-বিধি (১) ও (২) এর আওতায় এই রূপ সুবিধা স্থগিত হইবে:\nআরও শর্ত থাকে যে, অথরাইজড ইকোনমিক অপারেটর সনদপ্রাপ্ত কোনো প্রতিষ্ঠানের ক্ষেত্রে প্রতিষ্ঠানের ইচ্ছাকৃত কোনো অনিয়ম উদ্ঘাটিত হইলে উহা গুরুতর অপরাধ বিবেচনা করিতে হইবে এবং এইরূপ ক্ষেত্রে আইনের আওতায় সম্ভাব্য সর্বোচ্চ দণ্ড প্রযোজ্য হইবে।\n(৪) প্রযোজ্য ক্ষেত্রে, কোনো পণ্যচালান আমদানিকারক বা রপ্তানিকারকের অজ্ঞানে কায়িক পরীক্ষার প্রয়োজন হইলে সংশ্লিষ্ট কাস্টমস স্টেশনের দায়িত্বপ্রাপ্ত কাস্টমস কর্মকর্তার অনুমোদন সাপেক্ষে প্রতিষ্ঠানটি যেই এলাকায় অবস্থিত সেই এলাকার দায়িত্বপ্রাপ্ত কাস্টমস, এক্সাইজ ও ভ্যাট বিভাগ মনোনীত যথোপযুক্ত কাস্টমস কর্মকর্তা কর্তৃক কায়িক পরীক্ষা করিতে হইবে:\nতবে শর্ত থাকে যে, আমদানিকারক বা রপ্তানিকারকের অজ্ঞানে কায়িক পরীক্ষার জন্য মনোনীত যথোপযুক্ত কাস্টমস কর্মকর্তার যাতায়াত ও আনুষঙ্গিক ব্যয় এবং মার্চেন্টাইজ ওভারটাইম (MOT), ক্ষেত্রমত, আমদানিকারক বা রপ্তানিকারক কর্তৃক বহন করিতে হইবে।",
+      "entity_concepts": {
+        "Risk Analysis": [
+          "The Customs Authority employs risk management procedures to determine the necessity and intensity of physical inspection for imported or exported goods.",
+          "Customs officials must record written justifications for selecting any shipment for physical examination, and such selection overrides standard automated clearance protocols."
+        ],
+        "Authorized Economic Operator": [
+          "These certified importers or exporters benefit from simplified clearance procedures, including reduced rates of physical inspection and automated customs assessment based on risk-category tiers.",
+          "If intentional irregularities are discovered involving an Authorized Economic Operator, it is classified as a severe offence subject to the maximum penalties permitted under law.",
+          "Certified entities utilizing designated logistics operators for their supply chain may receive additional clearance benefits, provided they do not require mandatory chemical or quality standard testing."
+        ],
+        "Green Channel": [
+          "This facility allows for automated customs assessment and clearance of bills of entry or export based on risk-based selectivity thresholds defined for Authorized Economic Operators.",
+          "Goods requiring chemical analysis or quality certification are ineligible for automated clearance under this channel."
+        ],
+        "Appropriate Officer of Customs": [
+          "An officer may perform physical inspections of goods at the location of the importer or exporter, subject to approval from the customs station head.",
+          "The importer or exporter is responsible for covering the travel costs, incidental expenses, and mercantile overtime (MOT) associated with physical examinations conducted off-site."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The system facilitates automated customs clearance for shipments eligible for green channel processing, based on declarant information and assigned risk tiers."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1124",
+      "entity_sub_entities": {
+        "Risk Analysis": [
+          "risk management procedures",
+          "physical inspection",
+          "imported goods",
+          "exported goods",
+          "written justifications",
+          "shipment",
+          "physical examination",
+          "automated clearance protocols"
+        ],
+        "Authorized Economic Operator": [
+          "certified importers",
+          "certified exporters",
+          "simplified clearance procedures",
+          "physical inspection",
+          "automated customs assessment",
+          "risk-category tiers",
+          "intentional irregularities",
+          "maximum penalties",
+          "logistics operators",
+          "supply chain",
+          "clearance benefits",
+          "chemical testing",
+          "quality standard testing"
+        ],
+        "Green Channel": [
+          "automated customs assessment",
+          "clearance",
+          "bills of entry",
+          "bills of export",
+          "risk-based selectivity thresholds",
+          "Authorized Economic Operators",
+          "chemical analysis",
+          "quality certification"
+        ],
+        "Appropriate Officer of Customs": [
+          "physical inspections",
+          "goods",
+          "importer",
+          "exporter",
+          "customs station head",
+          "travel costs",
+          "incidental expenses",
+          "mercantile overtime",
+          "physical examinations"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "automated customs clearance",
+          "shipments",
+          "green channel processing",
+          "declarant information",
+          "risk tiers"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        17,
+        18,
+        39,
+        66,
+        77,
+        86,
+        142,
+        164,
+        205,
+        247,
+        359,
+        394,
+        466,
+        570,
+        625,
+        630,
+        655,
+        717,
+        795,
+        830,
+        1021,
+        1870,
+        2210,
+        2235,
+        2356,
+        2391,
+        2811,
+        3112,
+        3159,
+        3252,
+        4902,
+        6290,
+        6293,
+        6409,
+        7141,
+        9789,
+        9848,
+        11150,
+        11581,
+        13426
+      ],
+      "source_file": "customs_rules_OCR/20250217_2024/20250217_2024_output.json",
+      "clause_date": "2025-02-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "সিলেক্টভিটি পদ্ধতি",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_10",
+      "resolved_text": "১০। সিলেক্টভিটি পদ্ধতি।—(১) এই বিধিমালায় নির্দেশিত কার্যপদ্ধতি ও সময় সময় বোর্ড কর্তৃক জারীকৃত ঝুঁকি ব্যবস্থাপনা সম্পর্কিত নির্দেশনা অনুযায়ী স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি পরিচালিত হইবে।\n(২) ঝুঁকি ব্যবস্থাপনার সার্বিক প্রক্রিয়ািদর ব্যবস্থাপনার বিষয়ে কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট একটি আদর্শ পরিচালন পদ্ধতি বা Standard Operating Procedure (এসওপি) প্রণয়ন করিবে যাহা গোপনীয় দলিল হিসেবে বিবেচিত হইবে এবং উহার ভিত্তিতে দৈনন্দিন ঝুঁকি ব্যবস্থাপনা কার্যক্রম পরিচালিত হইবে।\n(৩) স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা সম্ভাব্য ঝুঁকি নির্দেশক, প্রোফাইল, ঝুঁকি রেজিস্টার গোপনীয় হিসেবে বিবেচিত হইবে।",
+      "entity_concepts": {
+        "Risk Analysis": [
+          "The automated risk management system operates in accordance with the procedures outlined in these rules and the guidelines issued by the National Board of Revenue.",
+          "The automated risk management system treats risk indicators, risk profiles, and risk registers as confidential information."
+        ],
+        "National Board of Revenue": [
+          "The Board is empowered to issue ongoing instructions and guidelines regarding the management of risk for the customs authorities."
+        ],
+        "Customs Risk Management Commissionerate": [
+          "This authority is responsible for formulating a Standard Operating Procedure that serves as the basis for daily customs risk management activities.",
+          "The Standard Operating Procedure formulated by this commissionerate is classified as a confidential document."
+        ],
+        "Standard Operating Procedure": [
+          "This document governs daily risk management operations and must be maintained as a confidential record."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1232",
+      "entity_sub_entities": {
+        "Risk Analysis": [
+          "automated risk management system",
+          "procedures",
+          "guidelines",
+          "risk indicators",
+          "risk profiles",
+          "risk registers"
+        ],
+        "National Board of Revenue": [
+          "instructions",
+          "guidelines"
+        ],
+        "Customs Risk Management Commissionerate": [
+          "Standard Operating Procedure"
+        ],
+        "Standard Operating Procedure": [
+          "daily risk management operations",
+          "confidential record"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        150,
+        167,
+        238,
+        361,
+        795,
+        1103,
+        1394,
+        1758,
+        2109,
+        4719,
+        6623,
+        7086
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট (সিআরএমসি) এর ক্ষমতা ও কার্যাবলি",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_3",
+      "resolved_text": "৩। কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট (সিআরএমসি) এর ক্ষমতা ও কার্যাবলি।—কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট এর ক্ষমতা ও কার্যাবলি হইবে নিম্নরূপ, যথা:—\n(ক) কাস্টমস ঝুঁকির ক্ষেত্র নির্বাচনের লক্ষ্যে ঝুঁকি সম্পর্কিত তথ্য সংগ্রহ, বিশ্লেষণ ও পর্যালোচনা করা;\n(খ) প্রতিষ্ঠিত তথ্যের ভিত্তিতে ঝুঁকির ক্ষেত্রসমূহ নির্বাচন, ঝুঁকির ধরন ও ঝুঁকির শ্রেণিবিন্যাস করা;\n(গ) সার্বিক কাস্টমস ঝুঁকি ব্যবস্থাপনা সংক্রান্ত পরিকল্পনা প্রণয়ন ও উহার বাস্তবায়ন করা;\n(ঘ) উচ্চ ও নিম্ন ঝুঁকির পণ্যচালান ও যাত্রী শনাক্তকরণের লক্ষ্যে টার্গেটিং ইন্টেলিজেন্স (targeting intelligence), কৃত্রিম বুদ্ধিমত্তা (artificial intelligence) এবং উপাত্ত বিশ্লেষণ ও ঝুঁকি ব্যবস্থাপনার অন্যাবিধ কৌশল প্রয়োগ করে সকল প্রকার ঝুঁকি ব্যবস্থাপনা বাস্তবায়ন করা;\n(ঙ) কাস্টমস সংক্রান্ত ঝুঁকি ব্যবস্থাপনা এবং এতদসংক্রান্ত ঝুঁকি প্রোফাইল (risk profile) তৈরি করা;\n(চ) কাস্টমস কম্পিউটার সিস্টেম ও স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা সিস্টেমের সিলেক্টভিটি নির্ণায়কের সামগ্রিক ব্যবস্থাপনা অর্থাৎ ঝুঁকির ভিত্তিতে পণ্য চালান রেড বা ইয়েলো বা ব্লু বা গ্রিন লেন নির্বাচন করা;\n(ছ) অনলাইন ভিত্তিক ঝুঁকি রেজিস্টার (risk register) তৈরি, হালনাগাদকরণ ও সংরক্ষণ করা;\n(জ) ঝুঁকি নির্দেশক ও ঝুঁকি প্রোফাইল তৈরি, মেয়াদী পর্যালোচনা, সংশোধন ও অবলোপন করা;\n(ঝ) জাতীয় ও আন্তর্জাতিক উৎস হইতে তথ্য-উপাত্ত সংগ্রহপূর্বক তাহা বিশ্লেষণের মাধ্যমে ঝুঁকি প্রবণতা ও প্রকৃতি নির্ধারণ করা;\n(ঞ) জাতীয় ও আন্তর্জাতিক পরিসরে অর্থনৈতিক অবস্থা, ভৌগোলিক অবস্থা, শুল্ক-কর হার, শুল্ক মূল্যায়ন, শুল্ক-কর অব্যাহতি, আঞ্চলিক ও আন্তর্জাতিক চুক্তি, বাজার ব্যবস্থাসহ অন্যাবিধ যে সকল অনুষঙ্গ কাস্টমসের দায়িত্ব ও কার্যাবলিকে প্রভাবিত করে তাহা পর্যবেক্ষণ ও পর্যালোচনার লক্ষ্যে উপাত্ত সংগ্রহ করতঃ প্রয়োজনীয় সমীক্ষা ও গবেষণা কার্যক্রম পরিচালনা এবং প্রতিকারমূলক ব্যবস্থা গ্রহণ ও কাস্টমস নীতি প্রণয়নে পরামর্শ প্রদান করা;\n(ট) সকল কাস্টমস স্টেশন এবং বন্ড কমিশনারেটের এর জন্য দৈবচয়নের ভিত্তিতে পণ্যচালান সিলেকশনের মানদণ্ড নির্ধারণ এবং সময়ে সময়ে উক্ত মানদণ্ড হালনাগাদ করা;\n(ঠ) ঝুঁকি ব্যবস্থাপনা কার্যক্রমের কার্যকারিতা পরিবীক্ষণ ও তত্ত্বাবধান, বোর্ডকে অবহিতকরণ ও প্রয়োজনীয় সমন্বয় সাধন এবং মুখ্য কর্মতৎপরতা নির্দেশকের (Key Performance Indicator) সাপেক্ষে গৃহীত কার্যক্রমের ফলাফল পর্যালোচনা করা;\n(ড) আইনের ধারা ৭ অনুযায়ী যেকোনো সরকারি, আধা-সরকারি ও স্বায়ত্তশাসিত সংস্থা, আমদানি ও রপ্তানির সাথে সংশ্লিষ্ট যেকোনো ব্যক্তি বা প্রতিষ্ঠান, ব্যাংক, আর্থিক প্রতিষ্ঠান এবং অন্যান্য সংস্থা হইতে তথ্য-উপাত্ত সংগ্রহ ও প্রয়োজনে তথ্য বিশ্লেষণে অন্যান্য সংস্থার সহায়তা গ্রহণ করা;\n(ঢ) গোপনীয় ও সংবেদনশীল তথ্য সংরক্ষণ এবং ব্যবহারের ক্ষেত্রে গোপনীয়তা রক্ষা করা;\n(ণ) জাতীয় রাজস্ব বোর্ডের পূর্বানুমোদনক্রমে, জাতীয় রাজস্ব বোর্ডের পক্ষে, কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেটের কার্যাবলির সাথে সম্পৃক্ত কোনো চুক্তি বা সমঝোতা স্মারক স্বাক্ষর করা;\n(ত) সংশ্লিষ্ট সকল দপ্তরে ঝুঁকি সতর্কবার্তা জারীকরণ;\n(থ) ঝুঁকির স্থান চিহ্নিতকরণপূর্বক ক্ষেত্রমত, উহা নিরসনকল্পে যুগোপযোগী পদক্ষেপ গ্রহণের লক্ষ্যে সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস স্টেশন সংশ্লিষ্ট ভ্যাট কমিশনারেটকে পরামর্শ প্রদান করা;\n(দ) নিয়মিত ভিত্তিতে ঝুঁকি সংক্রান্ত প্রয়োজনীয় তথ্য পর্যালোচনা ও ঝুঁকি ব্যবস্থাপনার নির্দেশকসমূহ হালনাগাদ করা;\n(ধ) আন্তঃদেশীয় সীমান্তবাণিজ্য সংশ্লিষ্ট ঝুঁকি ব্যবস্থাপনার সহিত জড়িত জাতীয়, আন্তর্জাতিক বিভিন্ন সংস্থা ও প্রতিষ্ঠানের সহিত তথ্য আদান-প্রদান এবং নিয়মিত যোগাযোগ ও সমন্বয় সাধন করা;\n(ন) বাৎসরিক প্রতিবেদন প্রণয়ন ও বোর্ডের নিকট উপস্থাপন করা; এবং\n(প) বোর্ড কর্তৃক, সময়ে সময়, প্রদত্ত অন্যান্য দায়িত্ব পালন করা।",
+      "entity_concepts": {
+        "Customs Risk Management Commissionerate": [
+          "The Customs Risk Management Commissionerate is responsible for collecting and analyzing risk data, establishing risk profiles, and implementing comprehensive risk management plans.",
+          "It manages the selectivity parameters for automated systems, maintains risk registers, and conducts research to provide policy recommendations to the National Board of Revenue.",
+          "The Commissionerate oversees risk management activities at customs stations, coordinates with international and national agencies, and ensures the protection of sensitive information.",
+          "It is empowered to collect necessary data from various government and financial institutions and may sign agreements or memoranda of understanding subject to the approval of the National Board of Revenue."
+        ],
+        "Risk Analysis": [
+          "Risk analysis involves the systematic collection and evaluation of information to identify, classify, and mitigate risks associated with customs operations.",
+          "The process incorporates techniques like targeting intelligence, artificial intelligence, and data analytics to identify high and low-risk shipments or passengers."
+        ],
+        "Risk Management System": [
+          "The automated risk management system facilitates the selectivity process for customs shipments, assigning them to different lanes such as green, blue, yellow, or red based on risk evaluation.",
+          "It serves as a central tool for monitoring, updating, and applying risk indicators to streamline customs clearance procedures."
+        ],
+        "Risk Register": [
+          "A risk register is to be maintained as an online-based tool for documenting, updating, and storing identified risks related to customs activities."
+        ],
+        "Profile": [
+          "Risk profiles are generated and subjected to periodic review, modification, and deletion to ensure they remain relevant to current customs risk trends."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue receives performance reports, provides approval for official agreements, and exercises oversight over the activities of the Customs Risk Management Commissionerate."
+        ],
+        "Economic Risk": [
+          "Economic risk is assessed by monitoring factors like tax rates, customs valuation, market conditions, and international trade agreements that influence customs operations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1225",
+      "entity_sub_entities": {
+        "Customs Risk Management Commissionerate": [
+          "risk data",
+          "risk profiles",
+          "risk management plans",
+          "selectivity parameters",
+          "automated systems",
+          "risk registers",
+          "policy recommendations",
+          "National Board of Revenue",
+          "risk management activities",
+          "customs stations",
+          "international agencies",
+          "national agencies",
+          "sensitive information",
+          "government institutions",
+          "financial institutions",
+          "agreements",
+          "memoranda of understanding"
+        ],
+        "Risk Analysis": [
+          "information",
+          "risks",
+          "customs operations",
+          "targeting intelligence",
+          "artificial intelligence",
+          "data analytics",
+          "high-risk shipments",
+          "low-risk shipments",
+          "passengers"
+        ],
+        "Risk Management System": [
+          "automated risk management system",
+          "customs shipments",
+          "green lane",
+          "blue lane",
+          "yellow lane",
+          "red lane",
+          "risk indicators",
+          "customs clearance procedures"
+        ],
+        "Risk Register": [
+          "online-based tool",
+          "identified risks",
+          "customs activities"
+        ],
+        "Profile": [
+          "risk profiles",
+          "customs risk trends"
+        ],
+        "National Board of Revenue": [
+          "performance reports",
+          "official agreements",
+          "Customs Risk Management Commissionerate"
+        ],
+        "Economic Risk": [
+          "tax rates",
+          "customs valuation",
+          "market conditions",
+          "international trade agreements",
+          "customs operations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        118,
+        135,
+        148,
+        167,
+        233,
+        361,
+        390,
+        487,
+        795,
+        1004,
+        1103,
+        1262,
+        1500,
+        1518,
+        1528,
+        1758,
+        1793,
+        1872,
+        1917,
+        1927,
+        2636,
+        2782,
+        3002,
+        3004,
+        3005,
+        3438,
+        3703,
+        3885,
+        4235,
+        4507,
+        4597,
+        4719,
+        6866,
+        6991,
+        7000,
+        8086,
+        8526,
+        8803,
+        9197,
+        9635,
+        9758,
+        9845,
+        10006,
+        10177,
+        10301,
+        10735,
+        11565,
+        12631
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

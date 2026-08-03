@@ -1,0 +1,203 @@
+{
+  "thread_id": "cluster_00145_t0",
+  "cluster_id": 145,
+  "cluster_label": "amendments",
+  "title": "Regulatory Amendment Mechanism for Customs Notifications",
+  "source_num_member_objects": 36,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which legal instrument marked the transition from the Customs Act 1969 to the Customs Act 2023 as the primary basis for customs amendments?",
+      "options": [
+        "SRO 186/2010",
+        "SRO 138/2015",
+        "SRO 227/2024",
+        "SRO 130/2014"
+      ],
+      "answer_index": 2,
+      "answer": "SRO 227/2024",
+      "explanation": "According to the timeline provided, SRO 227/2024, issued on 2024-07-08, marks the transition to the Customs Act 2023 as the legal basis for amendments, replacing the 1969 Act.",
+      "clause_text_ids": [
+        "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20140604_133-AIN_2014_2497-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20140605_130-AIN_2014_2494-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20140605_132-AIN_2014_2496-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20150604_138-AIN_2015_18-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "20150604_157-AIN_2015_37-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "20240708_226-_2024_68_২৬ জুন, ২০২৪_clause_4",
+        "20240708_233-_2024_75_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "In which year was the scope of the amendment process expanded to include the insertion of new conditions alongside HS code adjustments?",
+      "options": [
+        "2010",
+        "2015",
+        "2018",
+        "2022"
+      ],
+      "answer_index": 1,
+      "answer": "2015",
+      "explanation": "The timeline and evolution dimensions indicate that in 2015-06-04, with SRO 138/2015, the scope of amendments expanded to include the insertion of new conditions and specific HS code adjustments.",
+      "clause_text_ids": [
+        "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20150604_138-AIN_2015_18-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "20150604_157-AIN_2015_37-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "20180607_153-AIN_2018_19_Customs_২৯ মে, ২০১৮ খ্রিস্টাব্দ_clause_1",
+        "20220628_205-_2022_113_২৮ জুন, ২০২২_clause_2",
+        "20220628_215-_2022_123_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the legal basis for issuing amendments to customs notifications as per SRO 186/2010?",
+      "options": [
+        "Customs Act 2023 and VAT Act 2012",
+        "Customs Act 1969 and VAT Act 1991",
+        "Customs Act 1969 only",
+        "VAT Act 1991 only"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Act 1969 and VAT Act 1991",
+      "explanation": "SRO 186/2010, dated 2010-06-10, explicitly cites the Customs Act 1969 and the Value Added Tax Act 1991 as the legal basis for its amendments.",
+      "clause_text_ids": [
+        "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20120627_235-AIN_2012_2416-Customs_২৮ জুন, ২০১২_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which of the following changes was introduced by SRO 163/2011 on 2011-06-09 regarding taxicab eligibility?",
+      "options": [
+        "Replacing the date of registration requirement with a date of production requirement",
+        "Increasing the mandatory age of taxicabs from 8 to 10 years",
+        "Removing the age requirement for taxicabs entirely",
+        "Replacing the date of production requirement with a date of registration requirement"
+      ],
+      "answer_index": 0,
+      "answer": "Replacing the date of registration requirement with a date of production requirement",
+      "explanation": "SRO 163/2011, issued on 2011-06-09, amended the condition for taxicab eligibility by replacing the requirement based on the date of registration with one based on the date of production.",
+      "clause_text_ids": [
+        "20110609_163-AIN_2011_2350-Customs_০৯ জুন, ২০১১_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer is reviewing the legal authority behind an amendment issued in 2014 and compares it to a new amendment issued in July 2024. The officer notes that the 2014 amendment explicitly cited the Customs Act 1969 as its enabling legislation for modifying customs notifications.",
+      "question": "How has the primary legal basis for issuing amendments to customs notifications changed between the 2014 amendment and the July 2024 amendment?",
+      "answer": "The legal basis transitioned from the Customs Act 1969, which was used in 2014, to the Customs Act 2023, which serves as the authority for the July 2024 amendments.",
+      "clauses_involved": [
+        "2014-06-05",
+        "2024-07-08"
+      ],
+      "clause_text_ids": [
+        "20140604_133-AIN_2014_2497-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20140605_130-AIN_2014_2494-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20140605_132-AIN_2014_2496-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20240708_226-_2024_68_২৬ জুন, ২০২৪_clause_4",
+        "20240708_233-_2024_75_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A manufacturer has been operating under a customs notification that was initially amended in 2010 to update HS codes. In 2015, they notice a new amendment to a different notification that introduces specific regulatory conditions alongside HS code adjustments.",
+      "question": "How did the scope of the amendment mechanism evolve between the 2010 notification and the 2015 notification?",
+      "answer": "The scope expanded from strictly updating HS codes (as seen in 2010) to including the insertion of new conditions and specific regulatory clauses (as seen in 2015).",
+      "clauses_involved": [
+        "2010-06-10",
+        "2015-06-04"
+      ],
+      "clause_text_ids": [
+        "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20150604_138-AIN_2015_18-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "20150604_157-AIN_2015_37-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2015-06-04",
+      "relative_offset": "nine years later",
+      "question": "In 2015-06-04, the scope of the amendment process included the insertion of new conditions and HS code adjustments. Nine years later, what major transition occurred regarding the legal basis for these amendments?",
+      "answer": "Nine years later, in 2024-07-08 (SRO 227/2024), the legal basis for amendments transitioned from the Customs Act 1969 to the Customs Act 2023.",
+      "clause_text_ids": [
+        "20150604_138-AIN_2015_18-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "20150604_157-AIN_2015_37-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+        "20240708_226-_2024_68_২৬ জুন, ২০২৪_clause_4",
+        "20240708_233-_2024_75_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "five years later",
+      "question": "Starting from the initial regulatory amendment mechanism established on 2010-06-10, how did the scope of the amendment process change five years later?",
+      "answer": "Five years later, on 2015-06-04 (SRO 138/2015), the scope of the amendment process was expanded to include the insertion of new conditions and specific HS code adjustments, beyond the simple HS code replacements used previously.",
+      "clause_text_ids": [
+        "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20150604_138-AIN_2015_18-Customs_৪ জুন, ২০১৫_clause_1",
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "20150604_157-AIN_2015_37-Customs_৪ জুন, ২০১৫_clause_1",
+        "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these regulatory changes in chronological order based on the evolution of the legal framework and scope of customs amendments.",
+      "events_shuffled": [
+        "The scope of amendments expands to permit the insertion of new conditions alongside specific adjustments to HS codes.",
+        "The legal basis for issuing amendments transitions from the Customs Act to the newly enacted Customs Act.",
+        "The government utilizes the Customs Act to perform simple replacement of HS codes within existing notifications."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government utilizes the Customs Act to perform simple replacement of HS codes within existing notifications.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The scope of amendments expands to permit the insertion of new conditions alongside specific adjustments to HS codes.",
+          "date": "2015-06-04"
+        },
+        {
+          "event": "The legal basis for issuing amendments transitions from the Customs Act to the newly enacted Customs Act.",
+          "date": "2024-07-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1",
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "20240708_233-_2024_75_২৬ জুন, ২০২৪_clause_1"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_186-AIN_2010_2304-Customs/20100610_186-AIN_2010_2304-Customs_output.json",
+        "customs_sros_OCR/20150604_141-AIN_2015_21-Customs/20150604_141-AIN_2015_21-Customs_output.json",
+        "customs_sros_OCR/20240708_233-_2024_75/20240708_233-_2024_75_output.json"
+      ],
+      "thread_source_file": "cluster_00145_t0__regulatory-amendment-mechanism-for-customs-notific.json"
+    }
+  ]
+}

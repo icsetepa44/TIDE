@@ -1,0 +1,172 @@
+{
+  "thread_id": "cluster_00779_t0",
+  "cluster_id": 779,
+  "cluster_label": "manufacturing facilities",
+  "title": "Manufacturing Facility Verification and Compliance Procedures",
+  "source_num_member_objects": 7,
+  "num_qa_pairs": 10,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 132-AIN/2017, established on June 1, 2017, mandated that local VAT officials conduct physical inspections of manufacturing facilities every 12 months to verify production compliance.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "every 12 months",
+      "correct_fact": "every 6 months",
+      "answer": "The statement is inaccurate. According to SRO 132-AIN/2017 dated June 1, 2017, the requirement for physical inspections by local VAT officials was set at every 6 months, not 12 months.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "As of SRO 173-AIN/2024, introduced on June 6, 2024, the verification of manufacturing facilities for duty concessions requires a multi-agency committee consisting of Customs, VAT, and the Ministry of Industry.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 173-AIN/2024, issued on June 6, 2024, formalized the multi-agency committee approach involving Customs, VAT, and the Ministry of Industry for site verification.",
+      "clause_text_ids": [
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The standardized inspection template used for reporting on manufacturing facilities is officially referred to as Perishistha-2.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Perishistha-2",
+      "correct_fact": "Perishistha-1",
+      "answer": "The statement is inaccurate. The standardized inspection template introduced for reporting on manufacturing facilities is referred to as Perishistha-1.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the regulatory framework, factory inspection reports for manufacturing facilities must include the Business Identification Number (BIN) and the Tax Identification Number (TIN) of the owner or proprietor.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Multiple regulatory instruments, such as those for electrical components and air conditioner manufacturing, mandate the inclusion of both the BIN and the owner's TIN in the inspection reports.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The oversight mechanism for verifying manufacturing facilities evolved from a multi-agency committee approach in 2017 to a simple periodic inspection by local VAT officials by 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "evolved from a multi-agency committee approach in 2017 to a simple periodic inspection by local VAT officials by 2024",
+      "correct_fact": "evolved from simple periodic inspections by local VAT officials in 2017 to a multi-agency committee approach by 2024",
+      "answer": "The statement is inaccurate. The regulatory evolution moved in the opposite direction: it began with simple periodic inspections by local VAT officials in 2017 and progressed to a more rigorous multi-agency committee-based verification process by 2024.",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2023-06-01 SRO regarding electrical components, the factory inspection report requires documentation of whether the factory building is owned by the entity or rented, including a copy of the rental agreement if applicable.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The inspection reporting structure established in 2023 requires details on property ownership and, specifically, a copy of the rental agreement if the factory building is rented.",
+      "clause_text_ids": [
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "In 2017, a factory owner was subject to periodic 6-month inspections conducted by local VAT departmental officers to verify compliance with input-output coefficients. By 2024, the owner wishes to apply for new concessional duty benefits for their industrial operations.",
+      "question": "How has the oversight mechanism for verifying this factory's operations changed from the 2017 regime to the 2024 regime?",
+      "answer": "The oversight shifted from unilateral inspections by local VAT departmental officers to a multi-agency committee approach consisting of the Customs policy representative, a VAT departmental officer, and a Ministry of Industry representative.",
+      "clauses_involved": [
+        "2017-06-01",
+        "2024-06-06"
+      ],
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "six years later",
+      "question": "Starting from the establishment of periodic inspection requirements in 2017-06-01, what formal change regarding inspection reporting structures occurred six years later?",
+      "answer": "In 2023-06-01, SRO 2023 formalized the inspection reporting structure by introducing standardized industry-specific templates known as Perishistha-1, which mandated the inclusion of the Business Identification Number (BIN) and the owner's Tax Identification Number (TIN).",
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-06-01",
+      "relative_offset": "one year later",
+      "question": "What significant shift in the oversight mechanism for manufacturing facility verification occurred one year after the 2023-06-01 standardization of inspection templates?",
+      "answer": "In 2024-06-06 (SRO 173-AIN/2024), the oversight mechanism transitioned from purely VAT department-led inspections to a multi-agency committee approach involving Customs, VAT, and the Ministry of Industry to verify industrial operations before granting duty concessions.",
+      "clause_text_ids": [
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "A multi-agency committee involving the Customs department, VAT officials, and the Ministry of Industry is mandated to perform site verification and file a report before granting duty concessions.",
+        "The requirement for periodic physical inspections of production facilities by local VAT officials is established to verify compliance with input-output coefficients.",
+        "The factory inspection process is formalized through the introduction of standardized industry-specific reporting templates."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The requirement for periodic physical inspections of production facilities by local VAT officials is established to verify compliance with input-output coefficients.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "The factory inspection process is formalized through the introduction of standardized industry-specific reporting templates.",
+          "date": "2023-06-01"
+        },
+        {
+          "event": "A multi-agency committee involving the Customs department, VAT officials, and the Ministry of Industry is mandated to perform site verification and file a report before granting duty concessions.",
+          "date": "2024-06-06"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_133-AIN__২০১৭-০৬-০১_clause_5",
+        "20230601_120-AIN_2023_164_Customs_২১ মে, ২০২৩_clause_3",
+        "20240606_167-AIN_2024_19_Customs_২৯ মে, ২০২৪_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_133-AIN_/20170601_133-AIN__output.json",
+        "customs_sros_OCR/20230601_120-AIN_2023_164_Customs/20230601_120-AIN_2023_164_Customs_output.json",
+        "customs_sros_OCR/20240606_167-AIN_2024_19_Customs/20240606_167-AIN_2024_19_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00779_t0__manufacturing-facility-verification-and-compliance.json"
+    }
+  ]
+}

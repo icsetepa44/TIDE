@@ -1,0 +1,410 @@
+{
+  "cluster_id": 572,
+  "cluster_label": "invoice",
+  "thread_index": 1,
+  "thread_id": "cluster_00572_t1",
+  "title": "Standardized Certification and Compliance Documentation",
+  "summary": "This thread represents the standardized administrative use of invoices as a reference point in various industry-specific certification templates (CNG, agriculture, poultry, shipbuilding). These templates serve as proof of import compliance for tax/duty exemptions.",
+  "evolution": {
+    "application": "Expanded from general industrial use to specific sector-based compliance (CNG, agriculture, shipbuilding)."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Various Metadata/Appendices",
+      "change": "Standardization of invoice-linked certification forms for duty-free/concessional import eligibility.",
+      "clause_ids": [
+        "metadata_2",
+        "metadata_4",
+        "metadata_4",
+        "metadata_6",
+        "metadata_8",
+        "metadata_9"
+      ]
+    }
+  ],
+  "num_member_objects": 6,
+  "member_objects": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১ প্রত্যয়নপত্র",
+      "text_id": "metadata_2",
+      "resolved_text": "পরিশিষ্ট-১\nপ্রত্যয়নপত্র\n[শর্তাবলির দফা (১) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা যাইতেছে যে, .............................................. কর্তৃক ইনভয়েস নং .................. তারিখঃ ..................., এল/সি নং .................... তারিখঃ ..............., বিল অব লেডিং/ এয়ারওয়ে বিল/ট্রাক রিসিট নং- ............................ তারিখঃ .............. এর মাধ্যমে আমদানিকৃত পণ্য কৃষিকার্যে ব্যবহার্য কীটনাশক ও উহার মোড়ক সামগ্রী জ্তরীর কাঁচামাল হিসাবে ব্যবহার করা হইবে এবং উল্লিখিত প্রতিষ্ঠান কৃষি মন্ত্রণালয় কর্তৃক অনুমোদিত কৃষিকার্যে ব্যবহার্য কীটনাশক প্রস্তুতকারী একটি প্রতিষ্ঠান।\n\nতারিখ: ----------------------\nস্বাক্ষর:-------------------------------------\nনাম:---------------------------------------\nপদবি:--------------------------------------\nসীল;---------------------------------------",
+      "entity_concepts": {
+        "Import Documentation": [
+          "The declaration requires validation of specific commercial documents including invoice, letter of credit, and transport documents such as bill of lading, airway bill, or truck receipt for imported goods."
+        ],
+        "Agricultural Pesticides": [
+          "Imported agricultural pesticides and their packaging materials are eligible for specific treatment when intended to be used as raw materials in agricultural production processes.",
+          "The importer must be a recognized entity specifically authorized by the Ministry of Agriculture to manufacture agricultural pesticides."
+        ],
+        "Ministry of Agriculture": [
+          "The Ministry of Agriculture acts as the regulatory authority responsible for officially recognizing and authorizing institutions engaged in the manufacturing of agricultural pesticides."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1588",
+      "entity_sub_entities": {
+        "Import Documentation": [
+          "invoice",
+          "letter of credit",
+          "transport documents",
+          "bill of lading",
+          "airway bill",
+          "truck receipt"
+        ],
+        "Agricultural Pesticides": [
+          "imported agricultural pesticides",
+          "packaging materials",
+          "raw materials",
+          "importer"
+        ],
+        "Ministry of Agriculture": [
+          "Ministry of Agriculture"
+        ]
+      },
+      "clause_clusters": [
+        12,
+        39,
+        268,
+        409,
+        572,
+        601,
+        730,
+        1232,
+        1321,
+        2445,
+        2916,
+        3160,
+        8896
+      ],
+      "source_file": "customs_sros_OCR/20250602_199-AIN_2025_21_Customs/20250602_199-AIN_2025_21_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১ প্রত্যয়নপত্র",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট-১\nপ্রত্যয়নপত্র\n[শর্ত (১) দ্রষ্টব্য]\n\nপ্রত্যয়ন করা যাইতেছে যে, (প্রতিষ্ঠানের নাম, ঠিকানা)........................ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনার জন্য অনুমোদিত একটি প্রতিষ্ঠান। প্রত্যয়নাধীন যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনা সংক্রান্ত কার্যক্রমের সহিত সম্পর্কিত এবং কেবল সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনার নিমিত্ত প্রজ্ঞাপনের শর্ত প্রতিপালনপূর্বক আমদানিকৃত। উক্ত প্রতিষ্ঠান কর্তৃক ইনভয়েস নং.................. তারিখ:....................... বিল অব লেডিং/এয়ারওয়ে বিল/ট্রাক রসিপ্ট নং...................তারিখ:....................এ উল্লিখিত বিবরণ, পরিমাণ ও মূল্য অনুযায়ী আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম এবং এলপিজি ফিলিং স্টেশন স্থাপন ও এলপিজি কার্যক্রম পরিচালনায় ব্যবহৃত হইবে।\n\nস্বাক্ষর :.................................................\nনাম :.................................................\nতারিখ: পদবি :.................................................\nসীল :.................................................",
+      "entity_concepts": {
+        "Certificate of Certification": [
+          "This certificate serves as a formal declaration for a business entity engaged in CNG and LPG station setup and operational activities. It confirms that the imported machinery and parts are exclusively related to these activities and are compliant with notification requirements."
+        ],
+        "CNG Filling Station": [
+          "The document mandates that machinery and equipment imported under this certification must be used specifically for the establishment and operation of CNG filling stations."
+        ],
+        "LPG Filling Station": [
+          "The document mandates that machinery and equipment imported under this certification must be used specifically for the establishment and operation of LPG filling stations."
+        ],
+        "Imported Goods": [
+          "The certified goods, verified by invoice and transport documents like bills of lading or airway bills, must correspond to the declared description, quantity, and value, and their usage is restricted to the purposes outlined in the certificate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1414",
+      "entity_sub_entities": {
+        "Certificate of Certification": [
+          "machinery",
+          "parts"
+        ],
+        "CNG Filling Station": [
+          "machinery",
+          "equipment"
+        ],
+        "LPG Filling Station": [
+          "machinery",
+          "equipment"
+        ],
+        "Imported Goods": [
+          "certified goods",
+          "invoice",
+          "transport documents",
+          "bills of lading",
+          "airway bills"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        33,
+        54,
+        72,
+        572,
+        626,
+        730,
+        1005,
+        1349,
+        2844,
+        6258,
+        6292
+      ],
+      "source_file": "customs_sros_OCR/20240606_174-AIN_2024_26_Customs/20240606_174-AIN_2024_26_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট [শর্ত (৩) দ্রষ্টব্য] অঙ্গীকারনামা",
+      "text_id": "metadata_4",
+      "resolved_text": "পরিশিষ্ট\n[শর্ত (৩) দ্রষ্টব্য]\nঅঙ্গীকারনামা\nআমি ------------------------------------ মালিক/প্রধান নির্বাহী কর্মকর্তা/ ব্যবস্থাপনা পরিচালক, মেসার্স ----------------------------------------------------------- (সমিতি/প্রতিষ্ঠানের নাম ও সম্পূর্ণ ঠিকানা) এই মর্মে অঙ্গীকার করিতেছি যে, আমার সমিতি/ প্রতিষ্ঠানটি তাঁত বোর্ড কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর .......................)। আমি ঋণপত্র নং---------------------------------------, তারিখঃ--------------, ইনভয়েস নং------------------------------, তারিখঃ --------------------, বি এল/এয়ারওয়ে বিল/ট্রাক রিসিট নং ---------------------- তারিখঃ ----------------- এর মাধ্যমে আমদানিকৃত উপকরণ তাঁত বস্ত্র উৎপাদনে ব্যবহার করিব এবং উহার কোন ব্যত্যয় হইলে আমদানিকৃত উক্ত পণ্যের উপর প্রযোজ্য হারে শুল্ক-কর পরিশোধ ছাড়াও কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর অধীন শুল্ক কর্তৃপক্ষ কর্তৃক গৃহীত অন্য যে কোন শাস্তিমূলক ব্যবস্থা মানিয়া লইতে বাধ্য থাকিব।\n\nস্বাক্ষর: ........................................................\nতারিখ: মালিক/ প্রধান নির্বাহী কর্মকর্তা/ব্যবস্থাপনা পরিচালকের নাম: ....\nপ্রতিষ্ঠানের নাম ও ঠিকানা: ................................. ।\n\nরাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This Act provides the legal framework under which customs authorities can impose penalties for the misuse of imported goods.",
+          "Importers are legally bound to accept any punitive measures taken by customs authorities under the provisions of this Act if the conditions of the import undertaking are violated."
+        ],
+        "Customs Duty and Taxes": [
+          "The undertaking mandates that importers must pay all applicable duties and taxes on imported goods if those goods are not used for their intended purpose in the production of handloom textiles."
+        ],
+        "Handloom Board": [
+          "The entity acts as the regulatory body responsible for the registration of business firms and institutions engaged in the handloom sector."
+        ],
+        "Import Process": [
+          "The import process involves an undertaking by the business owner to use imported raw materials exclusively for the production of handloom textiles.",
+          "The importer must formally declare the details of the letter of credit, invoice, and bill of lading or transport documents as part of the customs compliance requirement."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1452",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "legal framework",
+          "penalties",
+          "imported goods",
+          "Importers",
+          "punitive measures",
+          "customs authorities",
+          "import undertaking"
+        ],
+        "Customs Duty and Taxes": [
+          "duties",
+          "taxes",
+          "imported goods",
+          "handloom textiles"
+        ],
+        "Handloom Board": [
+          "regulatory body",
+          "business firms",
+          "institutions",
+          "handloom sector"
+        ],
+        "Import Process": [
+          "undertaking",
+          "business owner",
+          "imported raw materials",
+          "handloom textiles",
+          "importer",
+          "letter of credit",
+          "invoice",
+          "bill of lading",
+          "transport documents",
+          "customs compliance requirement"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        13,
+        19,
+        30,
+        39,
+        45,
+        46,
+        79,
+        132,
+        268,
+        400,
+        572,
+        598,
+        601,
+        634,
+        648,
+        730,
+        793,
+        1100,
+        2791,
+        3554,
+        4099,
+        4149,
+        6107,
+        6876,
+        8610,
+        8611
+      ],
+      "source_file": "customs_sros_OCR/20240606_200-AIN_2024_52_Customs/20240606_200-AIN_2024_52_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_6",
+      "resolved_text": "পরিশিষ্ট-১\n\nপ্রত্যয়নপত্র\n[শর্তাবলীর দফা (১) দ্রষ্টব্য]\n\nপ্রত্যয়ন করা যাইতেছে যে, (প্রতিষ্ঠানের নাম, ঠিকানা)............................................. সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম পরিচালনার জন্য অনুমোদিত একটি প্রতিষ্ঠান। প্রত্যয়নাধীন যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম পরিচালনা সংক্রান্ত কার্যক্রমের সহিত সম্পর্কিত এবং কেবল সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম পরিচালনার নিমিত্ত প্রজ্ঞাপনের শর্ত প্রতিপালনপূর্বক আমদানিকৃত। উক্ত প্রতিষ্ঠান কর্তৃক ইনভয়েস নং.................................... তারিখ,....................বিল অব লেডিং/এয়ারওয়ে বিল/ট্রাক রিসিপ্ট নং............................তারিখ,......................এ উল্লিখিত বিবরণ, পরিমাণ ও মূল্য অনুযায়ী আমদানিকৃত যন্ত্রপাতি ও যন্ত্রাংশ সিএনজি ফিলিং স্টেশন স্থাপন ও সিএনজি কার্যক্রম পরিচালনায় ব্যবহৃত হইবে।\n\nস্বাক্ষর : ........................................................\nনাম : ........................................................\nপদবি : ........................................................\nসীল : ........................................................",
+      "entity_concepts": {
+        "CNG Filling Station": [
+          "This certificate confirms that a designated entity is authorized to establish and operate a CNG filling station.",
+          "Equipment and machinery imported for the establishment and operation of a CNG filling station must be utilized exclusively for those purposes in compliance with notification conditions."
+        ],
+        "Imported Machinery and Equipment": [
+          "Machinery and equipment imported for the purpose of setting up a CNG filling station must be certified as being directly related to the authorized business activities.",
+          "The imported goods must correspond to the descriptions, quantities, and values stated in the provided invoice and shipping documents like the bill of lading, airway bill, or truck receipt."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1034",
+      "entity_sub_entities": {
+        "CNG Filling Station": [
+          "CNG filling station",
+          "equipment",
+          "machinery"
+        ],
+        "Imported Machinery and Equipment": [
+          "machinery",
+          "equipment",
+          "goods",
+          "invoice",
+          "shipping documents",
+          "bill of lading",
+          "airway bill",
+          "truck receipt"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        33,
+        72,
+        268,
+        572,
+        854,
+        883,
+        1321,
+        1349,
+        3160
+      ],
+      "source_file": "customs_sros_OCR/20200611_133-AIN_2019_84_Customs/20200611_133-AIN_2019_84_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_8",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৩) দ্রষ্টব্য]\n\nপ্রত্যয়ন পত্র\n\nএই মর্মে প্রত্যয়ন করা হইতেছে যে, মেসার্স ------------------------ (সম্পূর্ণ ঠিকানা দিতে হইবে) বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ বা প্রাণী সম্পদ অধিদপ্তর কর্তৃক নিবন্ধিত একটি হাঁস-মুরগির খামার ও গবাদি পশু বা ডেইরী ফার্ম। এই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ---------------------- তারিখঃ ------------------- ইনভয়েস নং ------------------------ তারিখঃ ------------------ বিল অব এন্ট্রি নং ----------------------- তারিখঃ ---------- এর মাধ্যমে আমদানিকৃত যন্ত্রপাতি, যন্ত্রাংশ ও উপকরণ বা উহার অংশবিশেষ (অংশবিশেষ ব্যবহৃত হইলে উক্ত ব্যবহৃত অংশের পরিমাণ উল্লেখ করিতে হইবে) উল্লিখিত খামারের সুষমকরণ, আধুনিকীকরণ, প্রতিস্থাপন ও সম্প্রসারণ (বি এম আর ই) এর সকল বা যে কোন কাজে ব্যবহার করা হইয়াছে/হয় নাই।\n\nস্বাক্ষরঃ ...........................................\nনামঃ .............................................\nতারিখঃ পদবীঃ সভাপতি/সাধারণ সম্পাদক,\nব্রিডার্স এসোসিয়েশন অব বাংলাদেশ।\nসীলঃ",
+      "entity_concepts": {
+        "Poultry and Dairy Farm": [
+          "This entity is defined as an industrial establishment registered with either the Bangladesh Investment Development Authority or the Department of Livestock Services.",
+          "The entity is required to undergo a certification process to confirm that imported machinery, spare parts, and equipment are utilized for the balancing, modernization, replacement, and expansion of the farm."
+        ],
+        "Imported Machinery and Equipment": [
+          "These goods are subject to verification regarding their utilization for the balancing, modernization, replacement, and expansion of registered poultry and dairy farms.",
+          "The importation details, including letter of credit, invoice, and bill of entry numbers, must be certified to validate the intended use of the equipment."
+        ],
+        "Breeders Association of Bangladesh": [
+          "The association is empowered to issue formal certification regarding the usage of imported machinery and equipment by registered poultry and dairy farms."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1197",
+      "entity_sub_entities": {
+        "Poultry and Dairy Farm": [
+          "industrial establishment",
+          "Bangladesh Investment Development Authority",
+          "Department of Livestock Services",
+          "machinery",
+          "spare parts",
+          "equipment"
+        ],
+        "Imported Machinery and Equipment": [
+          "machinery",
+          "equipment",
+          "letter of credit",
+          "invoice",
+          "bill of entry"
+        ],
+        "Breeders Association of Bangladesh": [
+          "machinery",
+          "equipment",
+          "poultry and dairy farms"
+        ]
+      },
+      "clause_clusters": [
+        27,
+        33,
+        72,
+        110,
+        554,
+        572,
+        578,
+        601,
+        854,
+        947,
+        3545,
+        10795,
+        10796
+      ],
+      "source_file": "customs_sros_OCR/20220609_143-AIN_2022_91_Customs/20220609_143-AIN_2022_91_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-৩ প্রত্যয়নপত্র",
+      "text_id": "metadata_9",
+      "resolved_text": "পরিশিষ্ট-৩\nপ্রত্যয়নপত্র\n[শর্তাবলির দফা (৬) দ্রষ্টব্য]\n\nএই মর্মে প্রত্যয়ন করা হইতেছে যে, মেসার্স .............................................\n...............................................................................................\n(সম্পূর্ণ নাম ও ঠিকানা) বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর ...........)\nপণ্যবাহী/যাত্রীবাহী জাহাজ/ড্রেজার প্রস্তুতকারী প্রতিষ্ঠান। এই শিল্প প্রতিষ্ঠান কর্তৃক ঋণপত্র নং ...................... তারিখঃ .................. ইনভয়েস নং .......................\n...... তারিখঃ ............. বিল অব এন্ট্রি নং ............................. তারিখঃ ....\n............................ এর মাধ্যমে আমদানিকৃত যন্ত্রাংশ ও উপকরণ বা উহার অংশবিশেষ (অংশবিশেষ ব্যবহৃত হইলে উক্ত ব্যবহৃত অংশের পরিমাণ উল্লেখ করিতে হইবে)\nউল্লিখিত পণ্যবাহী/যাত্রীবাহী জাহাজ/ড্রেজার প্রস্তুতকারী প্রতিষ্ঠানে ব্যবহার করা হইয়াছে/হয় নাই।\n\nস্বাক্ষরঃ ......................................\nনামঃ .........................................\nতারিখঃ                       পদবীঃ বিভাগীয় কর্মকর্তা\nকাস্টমস, এক্সাইজ ও ভ্যাট বিভাগীয় দপ্তর,\n............।\nসীলঃ।",
+      "entity_concepts": {
+        "Certificate of Utilization": [
+          "This document serves as an official certification to verify whether imported machinery, parts, or components have been utilized by a registered manufacturing establishment.",
+          "It requires the disclosure of specific import documentation details such as the Letter of Credit, invoice, and Bill of Entry numbers for transparency in duty-free or concessionary import verification."
+        ],
+        "Customs, Excise and VAT Department": [
+          "The departmental officer from this government body is responsible for signing and sealing the certificate to validate the utilization status of imported industrial goods."
+        ],
+        "Bangladesh Investment Development Authority": [
+          "Industrial establishments must be registered with this authority to qualify for the benefits associated with the import of goods verified by this certificate."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1020",
+      "entity_sub_entities": {
+        "Certificate of Utilization": [
+          "imported machinery",
+          "parts",
+          "components",
+          "registered manufacturing establishment",
+          "import documentation",
+          "Letter of Credit",
+          "invoice",
+          "Bill of Entry numbers"
+        ],
+        "Customs, Excise and VAT Department": [
+          "departmental officer",
+          "imported industrial goods"
+        ],
+        "Bangladesh Investment Development Authority": [
+          "Industrial establishments",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        42,
+        54,
+        177,
+        409,
+        550,
+        572,
+        578,
+        601,
+        769,
+        948,
+        1571,
+        2090,
+        3519,
+        11328
+      ],
+      "source_file": "customs_sros_OCR/20200611_130-AIN_2020_81_Customs/20200611_130-AIN_2020_81_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

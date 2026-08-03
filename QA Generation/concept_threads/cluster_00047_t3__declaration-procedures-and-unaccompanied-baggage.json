@@ -1,0 +1,422 @@
+{
+  "cluster_id": 47,
+  "cluster_label": "baggage",
+  "thread_index": 3,
+  "thread_id": "cluster_00047_t3",
+  "title": "Declaration Procedures and Unaccompanied Baggage",
+  "summary": "The procedural requirements for declaring baggage, particularly unaccompanied baggage, have been tightened regarding the timeframe for declaration after arrival.",
+  "evolution": {
+    "procedural_window": "Shifted from 21 days to 3 days, then settled at 7 days."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Baggage Rules 2010",
+      "change": "21-day window for declaration.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8"
+      ]
+    },
+    {
+      "date": "2012-06-07",
+      "instrument": "Baggage Rules 2012",
+      "change": "Reduced window to 3 days.",
+      "clause_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8"
+      ]
+    },
+    {
+      "date": "2016-06-02",
+      "instrument": "Baggage Rules 2016",
+      "change": "Increased window to 7 days.",
+      "clause_ids": [
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8"
+      ]
+    }
+  ],
+  "num_member_objects": 6,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান।— (১) বিদেশ হইতে আগত সকল যাত্রী শুল্ক কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল/শুল্ক এলাকা ত্যাগ করিবার পূর্বেই শুল্ক কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশতঃ অথবা অন্য কোন অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) মোতাবেক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের তারিখ হইতে অনধিক ২১ (একুশ) দিনের মধ্যে সংশ্লিষ্ট সহকারী কমিশনারের নিম্নে নহেন এমন শুল্ক কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে পারিবে।\n(৪) একজন যাত্রী ১ পঞ্জিকা বৎসরে ১ বার unaccompanied baggage আনিতে পারিবেন।",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad must submit a baggage declaration by completing the form prescribed in the first schedule to the customs authority.",
+          "In cases of unaccompanied baggage, the declaration must be submitted by completing the prescribed form before leaving the customs hall or customs area.",
+          "If a declaration cannot be filed due to inadvertent errors or unavoidable circumstances, passengers may submit the required form to a customs officer, who must be at least of the rank of Assistant Commissioner, within a specified number of days from the date of arrival."
+        ],
+        "Baggage": [
+          "This clause sets out the formal requirements for declaring items brought by passengers, including unaccompanied baggage.",
+          "Passengers are permitted to import unaccompanied baggage only once per calendar year."
+        ],
+        "Appropriate Officer of Customs": [
+          "A customs officer with a rank not lower than an Assistant Commissioner is authorized to accept delayed baggage declarations if the passenger was unable to provide them upon arrival due to unavoidable reasons."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1282",
+      "entity_sub_entities": {
+        "Baggage Declaration": [
+          "baggage declaration",
+          "form",
+          "first schedule",
+          "customs authority",
+          "unaccompanied baggage",
+          "customs hall",
+          "customs area",
+          "customs officer",
+          "Assistant Commissioner"
+        ],
+        "Baggage": [
+          "items",
+          "unaccompanied baggage"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs officer",
+          "Assistant Commissioner"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        23,
+        38,
+        47,
+        49,
+        117,
+        213,
+        217,
+        246,
+        313,
+        762,
+        1181
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান।-(১) বিদেশ হইতে আগত সকল যাত্রী কর্তৃক শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল (Customs hall)/শুল্ক এলাকা ত্যাগ করিবার পূর্বেই যাত্রী কর্তৃক শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশতঃ অথবা অন্য কোন অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) মোতাবেক যাত্রী কর্তৃক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের তারিখ হইতে অনধিক ২১ (একুশ) দিনের মধ্যে সংশ্লিষ্ট সহকারী কমিশনার (Assistant Commissioner of Customs) নিম্নে নহেন এমন শুল্ক (Customs) কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে পারিবেন।\n(৪) একজন যাত্রী ১ (এক) পঞ্জিকা বৎসরে মাত্র ১ (এক) বার unaccompanied baggage আনিতে পারিবেন।\n\nতফসিল-১\nবিধি ৩(৪), ৮(১), ৮(২) ও বিধি ৮(৩) দ্রষ্টব্য\n[ জাতীয় রাজস্ব বোর্ড এর ব্যাগেজ ঘোষণা ফরম ]\n[প্রযোজ্য অংশে টিক (✓) চিহ্ন দিন]\n\n১। যাত্রীর নাম :\n২। পিতা/ স্বামীর নাম :\n৩। মাতার নাম :\n৪। পাসপোর্ট নং :\n৫। ফ্লাইট নং :\n৬। আগমনের তারিখ :\n৭। জাতীয়তা :\n৮। পেশা :\n৯। আপনি বিগত তিন মাসে যে সকল দেশ ভ্রমণ করিয়াছেন :\nদেশের নাম    ভ্রমণের তারিখ\n(ক)\n(খ)\n(গ)\n১০। আপনার সঙ্গে আনীত স্যুটকেস, কার্টন, ট্রাঙ্ক, ব্যাগ এবং কেবিন ব্যাগ ইত্যাদির তথ্য :\nবর্ণনা ও সংখ্যা    ওজন\n\n১১। (ক) আপনার নিকট ২০০ (দুইশত) গ্রামের বেশী ওজনের স্বর্ণ অথবা রৌপ্য অলংকার আছে কি? [উল্লেখ্য, ২০০ (দুইশত) গ্রাম ওজনের স্বর্ণ/রৌপ্য অলংকার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাসযোগ্য, তবে এক প্রকার অলংকার ১২(বার) টির অধিক হইবে না ]\n[ ] আছে  [ ] নাই\n(খ) স্বর্ণ বা রৌপ্য অলংকার উপরের (ক) তে উল্লিখিত পরিমাণের বেশী থাকিলে ২০০ গ্রামের অতিরিক্ত স্বর্ণ অথবা রৌপ্য অলংকারের পরিমাণ :\nবর্ণনা    পরিমাণ\n\n১২। (ক) আপনার নিকট ২০০ (দুইশত) গ্রামের বেশী ওজনের স্বর্ণবার বা স্বর্ণপিণ্ড অথবা ২০০ (Core) গ্রামের বেশী ওজনের রৌপ্যবার বা রৌপ্যপিণ্ড আছে কি? [উল্লেখ্য ২০০ গ্রাম পর্যন্ত স্বর্ণবার বা স্বর্ণপিণ্ড অথবা রৌপ্যবার বা রৌপ্যপিণ্ড শুল্ক-করাদি পরিশোধ সাপেক্ষে খালাসযোগ্য]\n[ ] আছে  [ ] নাই\n(খ) স্বর্ণবার বা স্বর্ণপিণ্ড অথবা রৌপ্যবার বা রৌপ্যপিণ্ডের উপরের (ক) তে উল্লিখিত পরিমাণের বেশী থাকিলে ২০০ গ্রামের অতিরিক্ত স্বর্ণপিণ্ড বা স্বর্ণবার অথবা রৌপ্যপিণ্ড বা রৌপ্যবারের পরিমাণ :\nবর্ণনা    পরিমাণ\n\n১৩। (ক) আপনার নিকট মদ, মদ্যজাতীয় পানীয়, cigarette বা মাদক দ্রব্য আছে কি ? [উল্লেখ্য, এক কার্টন (২০০ শলাকা) সিগারেট এবং কেবল বিদেশী পাসপোর্টধারী যাত্রীর ক্ষেত্রে এক বোতল অথবা ৫০০ এম. এল. পর্যন্ত মদ বা মদ্য জাতীয় পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাসযোগ্য ]\n[ ] আছে  [ ] নাই\n(খ) উপরের (ক) তে উল্লিখিত পরিমাণের বেশী থাকিলে উহার বিবরণঃ\nবর্ণনা    পরিমাণ\n\n১৪। (ক) আপনার নিকট অনূ্যন ৫,০০০ (পাঁচ হাজার) মার্কিন ডলারের বা উহার সমপরিমাণ অর্থের অধিক কোন বৈদেশিক মুদ্রা আছে কি?\n[ ] আছে  [ ] নাই\n(খ) উপরের (ক) তে উল্লিখিত পরিমাণের বেশী থাকিলে উহার বিবরণ এফএমজে ফরমে ঘোষণা করিতে হইবে :\nবর্ণনা    পরিমাণ\n\n১৫। (ক) আপনার ব্যাগেজে শুল্ক বা কর আরোপযোগ্য কোন পণ্য আছে কি?\n[ ] আছে  [ ] নাই\n(খ) ব্যাগেজে শুল্ক বা কর আরোপযোগ্য পণ্য থাকিলে উহার বিবরণ :\nবর্ণনা    পরিমাণ\n\n১৬। (ক) সঙ্গে আনা হয় নাই এমন ব্যাগ, স্যুটকেস, ট্রাঙ্ক, কার্টন, ইত্যাদির তথ্য :\nসংখ্যা    ওজন\n(খ) এয়ারওয়ে বিল/বিল অব লেডিং নম্বর ও তারিখ :\n\nযাত্রীর স্বাক্ষর (পাসপোর্ট অনুসারে) :\nতারিখ :\nরেভিনিউ অফিসার অব কাস্টমস",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad are required to declare their baggage to the customs authorities using a specified form.",
+          "For unaccompanied baggage, the passenger must submit a declaration to the customs authority prior to exiting the customs hall or customs area.",
+          "If a declaration cannot be made upon arrival due to unavoidable circumstances, it may be submitted within a specified timeframe to an officer not below the rank of Assistant Commissioner of Customs."
+        ],
+        "Passenger Baggage Declaration Form": [
+          "This is the official form prescribed under the rules for passengers to declare their personal belongings, jewelry, precious metals, currency, and other dutiable or non-dutiable items upon arrival.",
+          "The form requires comprehensive details including passenger identity, travel history, information on accompanied and unaccompanied baggage, and specific disclosures regarding high-value items like gold, silver, alcohol, tobacco, and foreign currency."
+        ],
+        "Assistant Commissioner of Customs": [
+          "This officer is the minimum authorized authority to accept a delayed baggage declaration if the passenger was unable to file it upon arrival due to unavoidable reasons."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority responsible for prescribing the standard baggage declaration form to be used by all arriving passengers."
+        ],
+        "Baggage": [
+          "Passengers are subject to specific limitations and requirements when importing unaccompanied baggage, which is restricted to a set frequency per calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1323",
+      "entity_sub_entities": {
+        "Baggage Declaration": [
+          "baggage",
+          "specified form",
+          "unaccompanied baggage",
+          "declaration"
+        ],
+        "Passenger Baggage Declaration Form": [
+          "personal belongings",
+          "jewelry",
+          "precious metals",
+          "currency",
+          "dutiable items",
+          "non-dutiable items",
+          "passenger identity",
+          "travel history",
+          "accompanied baggage",
+          "unaccompanied baggage",
+          "gold",
+          "silver",
+          "alcohol",
+          "tobacco",
+          "foreign currency"
+        ],
+        "Assistant Commissioner of Customs": [
+          "Assistant Commissioner of Customs"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "standard baggage declaration form"
+        ],
+        "Baggage": [
+          "unaccompanied baggage"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        47,
+        78,
+        217,
+        242,
+        313,
+        368,
+        393,
+        547,
+        658,
+        664,
+        741,
+        872,
+        1125,
+        1511,
+        1515,
+        1802,
+        2117,
+        2427,
+        10099,
+        10530,
+        10632,
+        12371
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান।— (১) বিদেশ হইতে আগত সকল যাত্রীকে শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল (Customs hall) বা শুল্ক এলাকা ত্যাগ করিবার পূর্বেই যাত্রী কর্তৃক শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশতঃ অথবা অন্য কোন অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) এর বিধান মোতাবেক কোন যাত্রী কর্তৃক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের ৩ (তিন) দিনের মধ্যে সংশ্লিষ্ট সহকারী কমিশনার অব কাস্টমস এর (Assistant Commissioner of Customs) নিম্নে নহেন এমন শুল্ক (Customs) কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া তিনি ব্যাগেজ ঘোষণা প্রদান করিতে পারিবেন।\n(৪) একজন যাত্রী ১ (এক) পঞ্জিকা বৎসরে মাত্র ১ (এক) বার unaccompanied baggage আনিতে পারিবেন।",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad are required to submit a baggage declaration to the customs authorities using the prescribed form.",
+          "For unaccompanied baggage, the passenger must submit a declaration using the prescribed form before leaving the customs hall or designated customs area.",
+          "If a passenger fails to declare baggage due to unavoidable reasons, they may submit the required declaration to an officer not below the rank of Assistant Commissioner of Customs within a specified period from their arrival."
+        ],
+        "Assistant Commissioner of Customs": [
+          "In cases where a passenger fails to declare baggage upon arrival due to unavoidable circumstances, they may file a delayed declaration with an officer holding the rank of Assistant Commissioner of Customs or higher."
+        ],
+        "Baggage": [
+          "Passengers are restricted to importing unaccompanied baggage only once per calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1383",
+      "entity_sub_entities": {
+        "Baggage Declaration": [
+          "baggage declaration",
+          "prescribed form",
+          "unaccompanied baggage"
+        ],
+        "Assistant Commissioner of Customs": [
+          "officer",
+          "Assistant Commissioner of Customs"
+        ],
+        "Baggage": [
+          "unaccompanied baggage"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        78,
+        114,
+        217,
+        313,
+        527
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান।- (১) বিদেশ হইতে আগত সকল যাত্রীকে শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল (Customs hall) বা শুল্ক এলাকা ত্যাগ করিবার পূর্বেই যাত্রী কর্তৃক শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশতঃ অথবা অন্য কোন অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) এর বিধান মোতাবেক কোন যাত্রী কর্তৃক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের ৮[৭ (সাত)] দিনের মধ্যে সংশ্লিষ্ট সহকারী কমিশনার অব কাস্টমস এর (Assistant Commissioner of Customs) নিম্নে নহেন এমন শুল্ক (Customs) কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া তিনি ব্যাগেজ ঘোষণা প্রদান করিতে পারিবেন।\n(৪) একজন যাত্রী ১ (এক) পঞ্জিকা বৎসরে মাত্র ১ (এক) বার unaccompanied baggage আনিতে পারিবেন।",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad are required to provide a baggage declaration to the customs authorities using the prescribed form found in the first schedule.",
+          "For unaccompanied baggage, passengers must submit the required declaration form to the customs authorities before leaving the customs hall or designated customs area.",
+          "If a passenger fails to provide a declaration due to errors or unavoidable circumstances, they are permitted to submit the declaration form to an officer not below the rank of Assistant Commissioner of Customs within a specified period of days following their arrival."
+        ],
+        "Baggage Declaration Form": [
+          "This form is the mandatory document prescribed in the first schedule for all passengers to declare their baggage to the customs authorities."
+        ],
+        "Customs": [
+          "Customs authorities are the designated recipients of baggage declaration forms from incoming passengers.",
+          "Passengers must ensure that declarations for unaccompanied baggage are completed and submitted to the customs authorities before exiting the customs area."
+        ],
+        "Assistant Commissioner of Customs": [
+          "Passengers who fail to declare baggage upon arrival may submit the required form to an officer not below the rank of Assistant Commissioner of Customs within the permitted timeframe."
+        ],
+        "Unaccompanied Baggage": [
+          "Passengers are restricted to importing unaccompanied baggage only once per calendar year.",
+          "Declarations for unaccompanied baggage must be submitted to the customs authorities before the passenger leaves the customs hall or designated customs area."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_997",
+      "entity_sub_entities": {
+        "Baggage Declaration": [
+          "baggage declaration",
+          "prescribed form",
+          "first schedule",
+          "declaration form"
+        ],
+        "Baggage Declaration Form": [
+          "form",
+          "first schedule",
+          "baggage"
+        ],
+        "Customs": [
+          "customs authorities",
+          "customs area",
+          "customs hall"
+        ],
+        "Assistant Commissioner of Customs": [
+          "officer",
+          "Assistant Commissioner of Customs"
+        ],
+        "Unaccompanied Baggage": [
+          "unaccompanied baggage",
+          "customs authorities",
+          "customs hall",
+          "customs area"
+        ]
+      },
+      "clause_clusters": [
+        21,
+        38,
+        45,
+        47,
+        78,
+        114,
+        217,
+        246,
+        313,
+        391,
+        527,
+        762,
+        1014,
+        1181
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য কাস্টমস ঘোষণাপত্রের বিধান",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য কাস্টমস ঘোষণাপত্রের বিধান।— (১) বিদেশ হইতে আগত সকল যাত্রীকে কাস্টমস কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল (Customs hall) বা কাস্টমস এলাকা ত্যাগ করিবার পূর্বেই যাত্রী কর্তৃক কাস্টমস কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশতঃ অথবা অন্য কোন অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) এর বিধান মোতাবেক কোন যাত্রী কর্তৃক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের ৭ (সাত) দিনের মধ্যে সংশ্লিষ্ট অ্যাসিস্টেন্ট কমিশনার অব কাস্টমস এর নিম্নে নহেন এমন কাস্টমস কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া তিনি ব্যাগেজ ঘোষণা প্রদান করিতে পারিবেন।\n(৪) একজন যাত্রী ১ (এক) পঞ্জিকা বৎসরে মাত্র ১ (এক) বার unaccompanied baggage আনিতে পারিবেন।",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad must submit a baggage declaration to the customs authority using the form specified in the relevant schedule.",
+          "For unaccompanied baggage, the passenger is required to submit the declaration using the specified form before departing from the customs hall or designated customs area.",
+          "In cases where a declaration cannot be made upon arrival due to error or unavoidable circumstances, the passenger may submit the required form within a specified timeframe to a customs officer at or above the rank of Assistant Commissioner of Customs."
+        ],
+        "Baggage": [
+          "A passenger is permitted to import unaccompanied baggage only once within a single calendar year."
+        ],
+        "Customs Authority": [
+          "The customs authority is the designated entity to receive baggage declarations from passengers arriving from abroad or those declaring unaccompanied baggage."
+        ],
+        "Appropriate Officer of Customs": [
+          "An officer of or above the rank of Assistant Commissioner of Customs is authorized to accept delayed baggage declarations when passengers fail to report their items upon initial arrival due to error or unavoidable circumstances."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1645",
+      "entity_sub_entities": {
+        "Baggage Declaration": [
+          "baggage declaration",
+          "form",
+          "schedule"
+        ],
+        "Baggage": [
+          "unaccompanied baggage"
+        ],
+        "Customs Authority": [
+          "customs authority"
+        ],
+        "Appropriate Officer of Customs": [
+          "Assistant Commissioner of Customs"
+        ]
+      },
+      "clause_clusters": [
+        17,
+        23,
+        47,
+        78,
+        136,
+        217,
+        246,
+        313
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য কাস্টমস ঘোষণাপত্রের বিধান",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য কাস্টমস ঘোষণাপত্রের বিধান।— (১) বিদেশ হইতে আগত সকল যাত্রীকে কাস্টমস কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল (Customs hall) বা কাস্টমস এলাকা ত্যাগ করিবার পূর্বেই যাত্রী কর্তৃক কাস্টমস কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশত অথবা অন্য কোনো অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) এর বিধান মোতাবেক কোনো যাত্রী কর্তৃক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের ৭ (সাত) দিনের মধ্যে সংশ্লিষ্ট অ্যাসিস্টেন্ট কমিশনার অব কাস্টমস এর নিম্নে নহেন এমন কাস্টমস কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া তিনি ব্যাগেজ ঘোষণা প্রদান করিতে পারিবেন।\n(৪) একজন যাত্রী ১ (এক) পঞ্জিকা বৎসরে মাত্র ১ (এক) বার unaccompanied baggage আনিতে পারিবেন।",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad must provide a baggage declaration to the customs authorities using the form specified in the relevant schedule.",
+          "For unaccompanied baggage, the passenger must submit a declaration using the specified form to the customs authorities before leaving the customs hall or designated customs area."
+        ],
+        "Baggage Inspector": [
+          "In cases where a passenger cannot declare baggage upon arrival due to error or unavoidable reasons, they are permitted to submit the declaration within a set number of days to a customs official not below the rank of Assistant Commissioner of Customs."
+        ],
+        "Passenger Baggage": [
+          "A passenger is restricted to importing unaccompanied baggage only once within a single calendar year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2517",
+      "entity_sub_entities": {
+        "Baggage Declaration": [
+          "baggage declaration",
+          "form",
+          "schedule",
+          "unaccompanied baggage",
+          "customs hall",
+          "designated customs area"
+        ],
+        "Baggage Inspector": [
+          "baggage",
+          "customs official",
+          "Assistant Commissioner of Customs"
+        ],
+        "Passenger Baggage": [
+          "unaccompanied baggage"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        78,
+        136,
+        178,
+        217,
+        246,
+        313,
+        318,
+        1181,
+        2649,
+        3492
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

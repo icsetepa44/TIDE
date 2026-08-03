@@ -1,0 +1,85 @@
+{
+  "thread_id": "cluster_00340_t1",
+  "cluster_id": 340,
+  "cluster_label": "operational procedures",
+  "title": "Post-Clearance Audit (PCA) Operational Framework",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How did the formalization of the Post-Clearance Audit (PCA) framework on September 27, 2023, impact the authority of previous audit directives?",
+      "answer": "The NBR Order 2023 issued on September 27, 2023, explicitly rescinded and replaced all previous instructions and orders related to the conduct of post-clearance audit activities. This move established a centralized, manual-governed process that requires strict adherence to the new operational procedures.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What specific mechanisms are now in place to ensure accountability among customs officials regarding the implementation of the 2023 PCA manual?",
+      "answer": "According to the NBR Order 2023, Commissioners of Customs are responsible for ensuring that there is no negligence in following the manual's operational procedures. Furthermore, they are mandated to submit a monthly report to the relevant branch of the National Board of Revenue to verify compliance and enforcement.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 'Customs Post Clearance Audit Manual 2023' shift the selection process for audit subjects?",
+      "answer": "The manual shifts the selection process away from discretionary activities by mandating the use of risk management techniques. As outlined in Chapter 4, the audit selection strategy is now based on risk-based criteria to identify specific individuals or business entities for post-clearance audits.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why is the use of Business Identification Numbers (BIN) and Tax Identification Numbers (TIN) critical to the audit strategy under the 2023 framework?",
+      "answer": "Under the system-based audit procedures formalized in the 2023 order, audit teams use BINs or TINs as primary identifiers to access and process transaction records. This allows teams to collect comprehensive data from various government and financial sources to build business profiles and inform their audit strategy.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What are the core components of the planning phase for system-based audits as defined in the 2023 PCA framework?",
+      "answer": "The planning phase involves creating an initial audit plan based on collected data, which must account for the audit's scope and duration, the entity's systems, physical premises to be inspected, and relevant third-party stakeholders. This process culminates in a detailed business profile created through data analysis, site surveys, or audit questionnaires.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Customs official has been conducting Post-Clearance Audits based on discretionary methods used throughout their career. Following the issuance of the NBR Order on 2023-09-27, the official is unsure if they can continue using their previous audit selection criteria or if they must change their reporting practices.",
+      "question": "How does the 2023-09-27 NBR Order affect the official's previous discretionary audit practices and reporting obligations?",
+      "answer": "The 2023-09-27 Order rescinds and replaces all previous instructions, mandating that the official strictly follow the operational procedures in the new manual and submit monthly reports to the National Board of Revenue.",
+      "clauses_involved": [
+        "2023-09-27 (src=20230927_output.json)",
+        "2023-09-27 (src=20230927_output.json)"
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    }
+  ]
+}

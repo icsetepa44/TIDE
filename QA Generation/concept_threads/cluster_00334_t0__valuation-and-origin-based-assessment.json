@@ -1,0 +1,556 @@
+{
+  "cluster_id": 334,
+  "cluster_label": "country of origin",
+  "thread_index": 0,
+  "thread_id": "cluster_00334_t0",
+  "title": "Valuation and Origin-Based Assessment",
+  "summary": "The concept of 'country of origin' evolved from a simple descriptive requirement for customs declarations into a critical factor for determining dutiable value and risk management. Over time, it shifted from a static declaration requirement to a dynamic tool used by customs authorities to override minimum values and trigger audit-based verification.",
+  "evolution": {
+    "policy_model": "From descriptive declaration to risk-based audit criteria.",
+    "legal_basis": "Shifted from general customs oversight to specific valuation override powers.",
+    "scope": "Expanded from vehicle-specific valuation to general commodity risk management."
+  },
+  "timeline": [
+    {
+      "date": "2013-06-06",
+      "instrument": "SRO 2013",
+      "change": "Established the principle that origin, brand, and model are benchmarks for minimum valuation of vehicles.",
+      "clause_ids": [
+        "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4"
+      ]
+    },
+    {
+      "date": "2020-06-11",
+      "instrument": "SRO 2020",
+      "change": "Formalized the authority to set higher dutiable values based on origin, brand, and model, overriding previous minimum value constraints.",
+      "clause_ids": [
+        "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "Audit Manual",
+      "change": "Integrated 'country of origin' as a formal risk factor for transaction-based audits, specifically targeting misdeclaration.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "SRO 2025",
+      "change": "Codified the hierarchy of valuation, prioritizing origin-based assessment while linking it to the 2000 Valuation Rules.",
+      "clause_ids": [
+        "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20130606_148-AIN_2013_2435-Customs_২০১৩-০৬-০৬_clause_4",
+      "resolved_text": "(৪) একই উৎস দেশে তৈরী একই ব্র্যান্ড, মডেল ও সিলিন্ডার ক্যাপাসিটি (সিসি) এর নতুন গাড়ির মূল্য উক্তরূপ একই ব্র্যান্ড, মডেল এবং সিলিন্ডার ক্যাপাসিটি (সিসি) এর ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত গাড়ি অপেক্ষা কোনক্রমেই কম হইতে পারিবে না।",
+      "entity_concepts": {
+        "Motor Vehicle Valuation": [
+          "The customs valuation of a used, old, or reconditioned vehicle cannot be lower than the valuation of a new vehicle of the same brand, model, country of origin, and cylinder capacity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1414",
+      "entity_sub_entities": {
+        "Motor Vehicle Valuation": [
+          "used vehicle",
+          "old vehicle",
+          "reconditioned vehicle",
+          "new vehicle",
+          "brand",
+          "model",
+          "country of origin",
+          "cylinder capacity"
+        ]
+      },
+      "clause_clusters": [
+        334,
+        447,
+        508,
+        782,
+        2874,
+        3788,
+        4401,
+        10264
+      ],
+      "source_file": "customs_sros_OCR/20130606_148-AIN_2013_2435-Customs/20130606_148-AIN_2013_2435-Customs_output.json",
+      "clause_date": "2013-06-06"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20200611_135-AIN_2019_86_Customs_৩ জুন, ২০২০_clause_3",
+      "resolved_text": "৩। দফা (২) এ যাহা কিছুই থাকুক না কেন, কোন পণ্যের ক্ষেত্রে উৎস দেশ, ব্র্যান্ড, মডেল ইত্যাদি বিবেচনায় উহার ন্যূনতম মূল্য অপেক্ষা উচ্চতর শুল্কায়নযোগ্য মূল্য স্থির করা যাইবে;",
+      "entity_concepts": {
+        "Customs Valuation": [
+          "Notwithstanding previous provisions, the assessing authority is empowered to determine a higher assessable value for imported goods than their declared minimum value, taking into account factors such as the country of origin, brand, and model."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2044",
+      "entity_sub_entities": {
+        "Customs Valuation": [
+          "assessing authority",
+          "assessable value",
+          "imported goods",
+          "declared minimum value",
+          "country of origin",
+          "brand",
+          "model"
+        ]
+      },
+      "clause_clusters": [
+        8,
+        233,
+        334,
+        447,
+        544,
+        782,
+        3804,
+        5660
+      ],
+      "source_file": "customs_sros_OCR/20200611_135-AIN_2019_86_Customs/20200611_135-AIN_2019_86_Customs_output.json",
+      "clause_date": "2020-06-11"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_28",
+      "clause_title": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+      "resolved_text": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ—ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ নিম্নরূপ:\n(১) আমদানিকারক/রপ্তানিকারক:\nএকটি নির্দিষ্ট সময়ে কোন আমদানিকারক/রপ্তানিকারক মোট নথিবুক্ত ট্র্যানজ্যাকশনের সংখ্যা ঝুঁকির নির্ণায়ক হিসাবে কাজ করতে পারে বলে অডিট নির্বাচনের ক্ষেত্রে একে একটি মানদণ্ড হিসাবে ব্যবহার করা যায়। যেমন:\n(ক) অনিয়মিত আমদানিকারক/রপ্তানিকারক;\n(খ) প্রায়শই অসত্য ঘোষণা দেয় এমন আমদানিকারক/রপ্তানিকারক;\n(গ) একই চালানে একাধিক এইচ.এস কোডের পণ্য আমদানিকারক\n(ঘ) কোন পণ্যের এককালীন আমদানিকারক/রপ্তানিকারক;\n(ঙ) প্রথমবারের মত আমদানিকারক/রপ্তানিকারক।\n\n(২) ট্র্যানজ্যাকশনের ভ্যালু\nকোন আমদানিকারক/রপ্তানিকারক অস্বাভাবিক উচ্চমূল্য/নিম্নমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই (TTI) দিয়ে সম্পন্ন করে থাকলে অথবা তার বিপরীত হয়ে থাকলে তা ঝুঁকিসম্পন্ন বিবেচনা করে তাদের প্রতি বিশেষ নজর দেওয়া যেতে পারে। যেমন:\nট্র্যানজ্যাকশন ভ্যালু সংক্রান্ত যে সকল নিয়ামক বিবেচনায় পণ্যচালান অডিটের জন্য নির্বাচন করতে হবে তা নিম্নরূপ:\n(ক) কোনো ট্র্যানজ্যাকশন মূল্য শিপিং বা পরিবহন ব্যয়ের কম/সমান;\n(খ) পণ্যের মূল্য পণ্যের কাঁচামালের মূল্যের প্রায় সমান;\n(গ) ঘোষিত ইউনিট মূল্যের তুলনায় প্যাকিং/প্যাকেজিংয়ের ব্যয় বেশি;\n(ঘ) কোনো পণ্যের মূল্য আন্তর্জাতিক বাজারে উক্ত পণ্যের ঘোষিত মূল্যের চেয়ে অস্বাভাবিক কম/বেশি;\n(ঙ) রপ্তানিকারক দেশের মুদ্রার বাইরে অন্য মুদ্রা ব্যবহার;\n(চ) শুল্কায়ন বিধিমালা অনুযায়ী কাস্টমস ডিক্লারেশন করা হয়নি;\n(ছ) উচ্চমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই অথবা তার বিপরীত।\n\n(৩) কাস্টমস ডিউটির হার\nউচ্চ বা নিম্ন উভয় কাস্টমস ডিউটির পণ্যের ট্র্যানজ্যাকশনেই বিভিন্ন ধরনের ঝুঁকি থাকে। শূন্য রেটের পণ্যসমূহে সাধারণত রাজস্ব ফাঁকির ঝুঁকি বেশি না হলেও জাল-জালিয়াতির মাধ্যমে সুবিধালাভের উদ্দেশ্যে অসত্য ক্লাসিফিকেশনের ঝুঁকি থেকেই যায়। যেহেতু উচ্চ শুল্কের পণ্যের ক্ষেত্রে যেকোনো ত্রুটি উল্লেখযোগ্য রাজস্ব ক্ষতির কারণ হতে পারে তাই এগুলোকে ঝুঁকিপূর্ণ বিবেচনা করে এই ক্ষেত্রে বিশেষ মনোযোগ দিতে হবে। যেমন:\n(ক) যন্ত্রাংশ ও আনুসাঙ্গিক উপকরণকে মূল যন্ত্রপাতির কোডে শ্রেণিবিন্যাস করা;\n(খ) পণ্যের অস্পষ্ট বিবরণ, হ্রাসকৃত কাস্টমস ডিউটির সুবিধা নিতে এমন এইচ. এস. কোড ব্যবহার যা ব্যবসা প্রতিষ্ঠানের কাজের সাথে সঙ্গতিপূর্ণ নয়;\n(গ) কোনো এক বা একাধিক নির্দিষ্ট HS Code এর আওতায় অস্বাভাবিক পরিমাণের আমদানি যা সাধারণত সংশ্লিষ্ট দেশে আমদানি বা রপ্তানি করা হয়না;\n(ঘ) খুব কম পরিমাণ আমদানি/রপ্তানি যা বাজার পরিসংখ্যান বা অবস্থার সাথে মেলে না;\n(ঙ) কোনো কোডে কাস্টমস ডিউটি হার পরিবর্তিত হলে আমদানির পরিমাণকে এক কোড থেকে অন্য কোডে পরিবর্তন করা।\n\n(৪) কান্ট্রি অব অরিজিন\nবেশ কয়েকটি ক্ষেত্রে যেমন, যেক্ষেত্রে পণ্যের ওপর কোটা বা অন্যান্য বিধি-নিষেধ রয়েছে, সেক্ষেত্রে কান্ট্রি অব অরিজিনে অসত্য ঘোষণার ঝুঁকি বেড়ে যায়। এমন ক্ষেত্রে আরো যাচাই-বাছাই ফলপ্রসূ প্রমাণিত হতে পারে। 'অরিজিন'-এর ক্ষেত্রে আশঙ্কার অন্যান্য ক্ষেত্রসমূহ:\n(ক) কান্ট্রি অব অরিজিন যদি কান্ট্রি অব শিপমেন্ট থেকে ভিন্ন হয়;\n(খ) আইপিও অনুসারে নিষিদ্ধ দেশ বা উৎস হতে আমদানি করা হয়;\n(গ) Bill of Lading (BL)/Airway Bill (AWB)/অন্যান্য পরিবহন চালান-এ ঘোষিত অরিজিনের সাথে সামঞ্জস্যপূর্ণ কি না।\n\n(৫) ইমপোর্ট জেনারেল ম্যানিফেস্ট (আইজিএম)\nআইজিএম জাহাজের মাস্টার বা তার এজেন্ট কর্তৃক দাখিল করা হয়। আইজিএম এ শিপার, কনসাইনি, প্যাকেজের সংখ্যা, প্যাকেজের ধরন, পণ্যের বিবরণ, এয়ারওয়ে বিল বা বিল অব লেডিং নম্বর এবং তারিখ, ফ্লাইট বা জাহাজের বিবরণ ইত্যাদির বিবরণ থাকে। আইজিএমে নিম্নলিখিত বিষয়াদির প্রতি লক্ষ্য রাখতে হবে।\n(ক) বি/এল তে দাখিলকৃত পণ্যের বর্ণনা, মূল্য ও পরিমাণের সাথে আইজিএমে দাখিলকৃত পণ্যের বর্ণনার সাথে মিল রয়েছে কিনা?\n(খ) কন্টেইনারের বিবরণের সাথে দাখিলকৃত ঘোষণার মিল রয়েছে কিনা?\n\n(৬) পণ্যচালান সম্পর্কিত অন্যান্য গুরুত্বপূর্ণ তথ্যাদি পর্যালোচনা:\n(ক) এমন কিছু পণ্য আমদানি হতে পারে যেগুলো উল্লিখিত দেশে উৎপাদিত বা সেখান থেকে রপ্তানি করা হয়নি;\n(খ) ঝুঁকিপূর্ণ কোনো দেশ থেকে রপ্তানি করা করা হয়েছে কি না;\n(গ) কোনো দেশ থেকে আমদানিকৃত পণ্যের গড় ইউনিট মূল্যে অস্বাভাবিক পরিবর্তন।",
+      "entity_concepts": {
+        "Transaction Based Audit": [
+          "This standing order provides the criteria and indicators for selecting consignments for transaction-based audits to manage customs risk effectively.",
+          "The selection strategy focuses on identifying high-risk transactions based on importer/exporter behavior, transaction values, duty rates, country of origin, and discrepancies in manifest data."
+        ],
+        "Importer and Exporter": [
+          "Audit selection criteria consider the frequency and history of importers or exporters.",
+          "Operational focus is placed on irregular traders, those frequently providing false declarations, one-time traders, first-time traders, or those importing multiple products under various HS Codes in a single consignment."
+        ],
+        "H.S. Code": [
+          "Discrepancies in HS Code usage, such as misclassification of accessories as primary machinery or selecting codes inconsistent with the business nature, are key indicators for audit selection.",
+          "Abnormal import volumes under specific codes that do not match market statistics or intentional switching of codes following duty rate changes are flagged as high risk."
+        ],
+        "Customs Duty": [
+          "Transactions involving high or low customs duty rates are monitored for risks of revenue leakage or fraudulent classification.",
+          "Special attention is required for high-duty items where errors could lead to significant revenue loss, and for zero-rated items susceptible to misclassification to gain improper benefits."
+        ],
+        "Country of Origin": [
+          "Misdeclaration of the country of origin is a significant risk factor, particularly for goods subject to quotas or specific import restrictions.",
+          "Discrepancies between the declared country of origin and the country of shipment, or importing from restricted sources according to Import Policy Orders, trigger mandatory further verification."
+        ],
+        "Bill of Lading": [
+          "The Bill of Lading must be cross-verified against the Import General Manifest to ensure consistency in shipper, consignee, and cargo details.",
+          "Declarations of origin and product details in the Bill of Lading are validated as part of the customs audit process to prevent misdeclaration."
+        ],
+        "Airway Bill": [
+          "The Airway Bill serves as a critical transport document where declared details such as origin must align with other customs documents to mitigate the risk of fraud."
+        ],
+        "Import General Manifest": [
+          "The Import General Manifest submitted by the ship's master or agent is reviewed to compare declarations of product description, value, and quantity against other shipping documents.",
+          "Operational checks include verifying the consistency of container details with the provided declarations to ensure accuracy in cargo clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_699",
+      "entity_sub_entities": {
+        "Transaction Based Audit": [
+          "consignments",
+          "importer/exporter behavior",
+          "transaction values",
+          "duty rates",
+          "country of origin",
+          "manifest data"
+        ],
+        "Importer and Exporter": [
+          "importers",
+          "exporters",
+          "irregular traders",
+          "one-time traders",
+          "first-time traders",
+          "products",
+          "HS Codes",
+          "consignment"
+        ],
+        "H.S. Code": [
+          "accessories",
+          "primary machinery",
+          "import volumes",
+          "duty rate"
+        ],
+        "Customs Duty": [
+          "customs duty rates",
+          "high-duty items",
+          "zero-rated items"
+        ],
+        "Country of Origin": [
+          "country of origin",
+          "goods",
+          "quotas",
+          "import restrictions",
+          "country of shipment",
+          "restricted sources",
+          "Import Policy Orders"
+        ],
+        "Bill of Lading": [
+          "Bill of Lading",
+          "Import General Manifest",
+          "shipper",
+          "consignee",
+          "cargo details",
+          "origin",
+          "product details"
+        ],
+        "Airway Bill": [
+          "Airway Bill",
+          "origin",
+          "customs documents"
+        ],
+        "Import General Manifest": [
+          "Import General Manifest",
+          "ship's master",
+          "agent",
+          "product description",
+          "value",
+          "quantity",
+          "shipping documents",
+          "container details",
+          "cargo clearance"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        79,
+        83,
+        94,
+        157,
+        162,
+        192,
+        206,
+        219,
+        235,
+        268,
+        295,
+        320,
+        334,
+        350,
+        404,
+        535,
+        763,
+        843,
+        883,
+        1097,
+        1239,
+        1321,
+        2092,
+        2528,
+        2788,
+        2789,
+        2847,
+        3077,
+        3562,
+        4150,
+        4583,
+        4615,
+        4893,
+        6672,
+        6756,
+        8151,
+        8705,
+        8876,
+        8952,
+        9282,
+        10282,
+        10911,
+        11505,
+        12930,
+        13447
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_226-AIN_2025_48_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "দ্রষ্টব্য:-\n২। (ক) কোনো পণ্যের ক্ষেত্রে উৎস দেশ, ব্র্যান্ড, মডেল ইত্যাদি বিবেচনায় উহার ন্যূনতম মূল্য অপেক্ষা উচ্চতর শুল্কায়নযোগ্য মূল্য স্থির করা যাইবে।\n(খ) যে সকল পণ্যের ন্যূনতম মূল্য নির্ধারণ করা হয় নাই সেই সকল পণ্যের ক্ষেত্রে শুল্ক মূল্যায়ন (আমদানি পণ্যের মূল্য নির্ধারণ) বিধিমালা, ২০০০ অনুযায়ী শুল্কায়নযোগ্য মূল্য নির্ধারণ করিতে হইবে।\n(গ) এই প্রজ্ঞাপন দ্বারা রহিত প্রজ্ঞাপন কার্যকর থাকাকালীন সময়ে কোন পণ্যের বিনিময় মূল্যকে বিবেচনায় নিয়ে শুল্ক মূল্যায়ন (আমদানি পণ্যের মূল্য নির্ধারণ) বিধিমালা, ২০০০ অনুযায়ী উহার শুল্কায়নযোগ্য মূল্য নির্ধারণ করিতে হইবে।\n(ঘ) কপার, অ্যালুমিনিয়াম, স্টিল, প্লাস্টিকসহ অন্যান্য ধাতব ও অধাতব পদার্থের ক্ষেত্রে আন্তর্জাতিক স্বীকৃত উৎস, যেমন- Platts, London Metal Exchange অর্থাৎ LME ইত্যাদিতে বর্ণিত মূল্য অপেক্ষা কম মূল্যে শুল্কায়নযোগ্য মূল্য নির্ধারণ করা যাইবে না।",
+      "entity_concepts": {
+        "Customs Valuation": [
+          "The customs assessable value of goods may be determined based on factors such as country of origin, brand, and model, ensuring the value is not lower than the minimum price where applicable.",
+          "For goods without a predetermined minimum price, the customs assessable value must be determined in accordance with the Customs Valuation (Determination of Value of Imported Goods) Rules, 2000."
+        ],
+        "Customs Valuation (Determination of Value of Imported Goods) Rules 2000": [
+          "These rules serve as the primary legal framework for determining the assessable value of imported goods, especially when minimum prices have not been established or when specific exchange rate considerations are applicable to prior transactions."
+        ],
+        "Platts": [
+          "The price of certain metallic and non-metallic materials, such as copper, aluminum, steel, and plastic, must not be assessed for customs purposes at a value lower than the international market prices published by this recognized source."
+        ],
+        "London Metal Exchange": [
+          "The customs assessable value for specified metallic and non-metallic commodities is strictly regulated to ensure it does not fall below the international price benchmarks established by this exchange."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3111",
+      "entity_sub_entities": {
+        "Customs Valuation": [
+          "customs assessable value",
+          "goods",
+          "country of origin",
+          "brand",
+          "model",
+          "minimum price",
+          "Customs Valuation (Determination of Value of Imported Goods) Rules, 2000"
+        ],
+        "Customs Valuation (Determination of Value of Imported Goods) Rules 2000": [
+          "assessable value",
+          "imported goods",
+          "minimum prices",
+          "exchange rate",
+          "prior transactions"
+        ],
+        "Platts": [
+          "metallic materials",
+          "non-metallic materials",
+          "copper",
+          "aluminum",
+          "steel",
+          "plastic",
+          "international market prices"
+        ],
+        "London Metal Exchange": [
+          "customs assessable value",
+          "metallic commodities",
+          "non-metallic commodities",
+          "international price benchmarks"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        233,
+        334,
+        440,
+        447,
+        534,
+        544,
+        602,
+        640,
+        713,
+        782,
+        901,
+        926,
+        989,
+        1036,
+        1134,
+        1251,
+        1867,
+        2595,
+        4366,
+        7023,
+        9860,
+        10111,
+        10935
+      ],
+      "source_file": "customs_sros_OCR/20250602_226-AIN_2025_48_Customs/20250602_226-AIN_2025_48_Customs_output.json",
+      "clause_date": "2025-06-02"
+    }
+  ],
+  "num_static_replicated_objects": 5,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20210603_133-AIN_2021_22_Customs_২৪ মে, ২০২১ খ্রিস্টাব্দ_clause_3",
+      "resolved_text": "৩। দফা (২) এ যাহা কিছুই থাকুক না কেন, কোনো পণ্যের ক্ষেত্রে উৎস দেশ, ব্র্যান্ড, মডেল ইত্যাদি বিবেচনায় উহার ন্যূনতম মূল্য অপেক্ষা উচ্চতর শুল্কায়নযোগ্য মূল্য স্থির করা যাইবে।",
+      "entity_concepts": {
+        "Customs Valuation": [
+          "Notwithstanding the provisions of sub-clause (2), customs authorities are empowered to determine a dutiable value for goods that is higher than their declared minimum value.",
+          "The determination of this higher dutiable value may be based on factors such as the country of origin, brand, or model of the imported items."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2135",
+      "entity_sub_entities": {
+        "Customs Valuation": [
+          "dutiable value",
+          "goods",
+          "declared minimum value",
+          "country of origin",
+          "brand",
+          "model",
+          "imported items"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        233,
+        334,
+        369,
+        447,
+        782,
+        1197,
+        3804
+      ],
+      "source_file": "customs_sros_OCR/20210603_133-AIN_2021_22_Customs/20210603_133-AIN_2021_22_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20220609_147-AIN_2022_95_Customs_১ জুন, ২০২২_clause_4",
+      "resolved_text": "৩। দফা (২) এ যাহা কিছুই থাকুক না কেন, কোনো পণ্যের ক্ষেত্রে উৎস দেশ, ব্র্যান্ড, মডেল ইত্যাদি বিবেচনায় উহার ন্যূনতম মূল্য অপেক্ষা উচ্চতর শুল্কায়নযোগ্য মূল্য স্থির করা যাইবে।",
+      "entity_concepts": {
+        "Customs Valuation": [
+          "Notwithstanding previous provisions, the customs authority may determine a dutiable value for goods that is higher than their minimum price.",
+          "The determination of the higher customs value must take into account specific factors including the country of origin, brand, and model of the imported goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2271",
+      "entity_sub_entities": {
+        "Customs Valuation": [
+          "dutiable value",
+          "goods",
+          "minimum price",
+          "customs authority",
+          "country of origin",
+          "brand",
+          "model",
+          "imported goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        23,
+        233,
+        334,
+        447,
+        713,
+        782,
+        1197
+      ],
+      "source_file": "customs_sros_OCR/20220609_147-AIN_2022_95_Customs/20220609_147-AIN_2022_95_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20220717_203-_2022_111_২৮ জুন, ২০২২_clause_4",
+      "resolved_text": "৩। দফা (২) এ যাহা কিছুই থাকুক না কেন, কোনো পণ্যের ক্ষেত্রে উৎস দেশ, ব্র্যান্ড, মডেল ইত্যাদি বিবেচনায় উহার ন্যূনতম মূল্য অপেক্ষা উচ্চতর শুল্কায়নযোগ্য মূল্য স্থির করা যাইবে।",
+      "entity_concepts": {
+        "Customs Valuation": [
+          "Notwithstanding any previous provisions, customs authorities are empowered to determine a customs-assessable value that is higher than the minimum declared value for a commodity based on its country of origin, brand, or model."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2376",
+      "entity_sub_entities": {
+        "Customs Valuation": [
+          "customs-assessable value",
+          "minimum declared value",
+          "commodity",
+          "country of origin",
+          "brand",
+          "model"
+        ]
+      },
+      "clause_clusters": [
+        233,
+        334,
+        447,
+        782,
+        1583,
+        4363,
+        7040
+      ],
+      "source_file": "customs_sros_OCR/20220717_203-_2022_111/20220717_203-_2022_111_output.json",
+      "clause_date": "2022-07-17"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20230601_134-AIN_2023_178_Customs_২১ মে, ২০২৩_clause_3",
+      "resolved_text": "৩। দফা (২) এ যাহা কিছুই থাকুক না কেন, কোনো পণ্যের ক্ষেত্রে উৎস দেশ, ব্র্যান্ড, মডেল ইত্যাদি বিবেচনায় উহার ন্যূনতম মূল্য অপেক্ষা উচ্চতর শুল্কায়নযোগ্য মূল্য স্থির করা যাইবে।",
+      "entity_concepts": {
+        "Customs Valuation": [
+          "Notwithstanding any existing provisions, customs authorities are authorized to determine a taxable value for goods that is higher than their minimum declared value, based on factors such as country of origin, brand, and model."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2524",
+      "entity_sub_entities": {
+        "Customs Valuation": [
+          "taxable value",
+          "goods",
+          "minimum declared value",
+          "country of origin",
+          "brand",
+          "model"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        233,
+        334,
+        447,
+        782,
+        4363,
+        12706
+      ],
+      "source_file": "customs_sros_OCR/20230601_134-AIN_2023_178_Customs/20230601_134-AIN_2023_178_Customs_output.json",
+      "clause_date": "2023-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_202-AIN_2024_54_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "৩। দফা (২) এ যাহা কিছুই থাকুক না কেন, কোনো পণ্যের ক্ষেত্রে উৎস দেশ, ব্র্যান্ড, মডেল ইত্যাদি বিবেচনায় উহার ন্যূনতম মূল্য অপেক্ষা উচ্চতর শুল্কায়নযোগ্য মূল্য স্থির করা যাইবে।",
+      "entity_concepts": {
+        "Customs Valuation": [
+          "Notwithstanding any previous provisions, the customs authorities are empowered to determine a customs assessable value that is higher than the minimum value for certain goods, taking into account factors such as the country of origin, brand, and model."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2702",
+      "entity_sub_entities": {
+        "Customs Valuation": [
+          "customs assessable value",
+          "minimum value",
+          "goods",
+          "country of origin",
+          "brand",
+          "model"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        233,
+        334,
+        429,
+        447,
+        782,
+        2595
+      ],
+      "source_file": "customs_sros_OCR/20240606_202-AIN_2024_54_Customs/20240606_202-AIN_2024_54_Customs_output.json",
+      "clause_date": "2024-06-06"
+    }
+  ]
+}

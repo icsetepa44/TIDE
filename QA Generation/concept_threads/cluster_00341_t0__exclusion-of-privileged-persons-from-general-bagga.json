@@ -1,0 +1,363 @@
+{
+  "cluster_id": 341,
+  "cluster_label": "Privileged Persons (Customs Procedures) Rules 2003",
+  "thread_index": 0,
+  "thread_id": "cluster_00341_t0",
+  "title": "Exclusion of Privileged Persons from General Baggage Rules",
+  "summary": "The concept evolves from a standard exclusion clause in baggage rules to a more explicit and nuanced definition of non-applicability. Over time, the language shifts from referencing the 2003 Rules as a blanket exclusion to explicitly naming 'Privileged Persons' as a distinct category excluded from the scope of baggage regulations.",
+  "evolution": {
+    "scope": "From referencing the 2003 Rules as a legal instrument to identifying the status of 'Privileged Person' as the basis for exclusion."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "Passenger (Non-Tourist) Baggage (Import) Rules 2010",
+      "change": "Initial establishment of exclusion for Privileged Persons (Customs Procedures) Rules 2003.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "instrument": "Non-Tourist Passenger Baggage Rules 2025",
+      "change": "Shift from referencing the 2003 Rules to explicitly naming 'Privileged Person' as a category excluded from the scope.",
+      "clause_ids": [
+        "20250603_._._._০২ জুন, ২০২৫_clause_1"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "সংক্ষিপ্ত শিরোনাম ও প্রয়োগ",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "১। সংক্ষিপ্ত শিরোনাম ও প্রয়োগ।— (১) এই বিধিমালা যাত্রী (অপর্যটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০১০ নামে অভিহিত হইবে।\n(২) এই বিধিমালা Tourists Baggage (Import) Rules, 1981 এবং Privileged Persons (Customs Procedures) Rules, 2003 এর আওতাভুক্ত যাত্রী ব্যতীত সকল যাত্রীর ক্ষেত্রে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2010": [
+          "These rules are officially titled the Passenger (Non-Tourist) Baggage (Import) Rules 2010."
+        ],
+        "Passenger Baggage": [
+          "These rules apply to all passengers except those who are covered under the separate Tourist Baggage (Import) Rules 1981 and the Privileged Persons (Customs Procedures) Rules 2003."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These specific rules define a category of passengers that are explicitly excluded from the scope of the Passenger (Non-Tourist) Baggage (Import) Rules 2010."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "These rules define a specific class of passengers that fall outside the jurisdiction of the Passenger (Non-Tourist) Baggage (Import) Rules 2010."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1275",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2010": [
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2010"
+        ],
+        "Passenger Baggage": [
+          "passengers",
+          "Tourist Baggage (Import) Rules 1981",
+          "Privileged Persons (Customs Procedures) Rules 2003"
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "passengers",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2010"
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "passengers",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2010"
+        ]
+      },
+      "clause_clusters": [
+        135,
+        178,
+        341,
+        469,
+        1732
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "শিরোনাম, প্রয়োগ ও প্রবর্তন",
+      "text_id": "20250603_._._._০২ জুন, ২০২৫_clause_1",
+      "resolved_text": "১। শিরোনাম, প্রয়োগ ও প্রবর্তন।—(১) এই বিধিমালা অপর্যটক যাত্রী ব্যাগেজ বিধিমালা, ২০২৫ নামে অভিহিত হইবে।\n(২) এই বিধিমালা পর্যটক (Tourist) যাত্রী, প্রিভিলেজড পার্সন (Privileged Person), ট্রানজিট যাত্রী ও ক্রু এবং উপকূলীয় পণ্যের ক্ষেত্রে প্রযোজ্য হইবে না।\n(৩) এই বিধিমালা সরকারি গেজেটে প্রকাশিত হইবার ৩০ (ত্রিশ) দিন পর হইতে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage Rules 2025": [
+          "These rules are formally titled as the Passenger (Non-Tourist) Baggage Rules 2025.",
+          "The rules become effective thirty days after the date of their publication in the official gazette."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These rules do not apply to tourist passengers as they are governed by separate regulations."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "The rules expressly exclude privileged persons from their scope of application."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3190",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage Rules 2025": [
+          "Passenger (Non-Tourist) Baggage Rules 2025",
+          "official gazette"
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "tourist passengers"
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "privileged persons"
+        ]
+      },
+      "clause_clusters": [
+        112,
+        341,
+        469,
+        1095,
+        4489,
+        12885
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "2025-06-03"
+    }
+  ],
+  "num_static_replicated_objects": 5,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "সংক্ষিপ্ত শিরোনাম ও প্রয়োগ",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_1",
+      "resolved_text": "১। সংক্ষিপ্ত শিরোনাম ও প্রয়োগ।- (১) এই বিধিমালা যাত্রী (অপযটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০১১ নামে অভিহিত হইবে।\n(২) এই বিধিমালা Tourists Baggage (Import) Rules, 1981 এবং Privileged Persons (Customs Procedures) Rules, 2003 এর আওতাভুক্ত যাত্রী ব্যতীত সকল যাত্রীর ক্ষেত্রে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2011": [
+          "This set of rules is officially designated as the Passenger (Non-Tourist) Baggage (Import) Rules 2011.",
+          "These rules apply to all passengers except for those specifically governed under the Tourist Baggage (Import) Rules 1981 and the Privileged Persons (Customs Procedures) Rules 2003."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These rules establish a distinct regulatory framework for tourists, and the Passenger (Non-Tourist) Baggage (Import) Rules 2011 do not apply to individuals covered by this instrument."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "These rules provide specific customs procedures for privileged persons, who are explicitly excluded from the application of the Passenger (Non-Tourist) Baggage (Import) Rules 2011."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1316",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2011": [
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2011",
+          "Tourist Baggage (Import) Rules 1981",
+          "Privileged Persons (Customs Procedures) Rules 2003"
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "Tourist Baggage (Import) Rules 1981",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2011"
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "Privileged Persons (Customs Procedures) Rules 2003",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2011"
+        ]
+      },
+      "clause_clusters": [
+        341,
+        469,
+        1432
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "শিরোনাম, প্রবর্তন ও প্রয়োগ",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_1",
+      "resolved_text": "১। শিরোনাম, প্রবর্তন ও প্রয়োগ।— (১) এই বিধিমালা যাত্রী (অপযটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০১২ নামে অভিহিত হইবে।\n(২) এই বিধিমালা ১৭ আষাঢ়, ১৪১৯ বঙ্গাব্দ/১ জুলাই, ২০১২ তারিখে কার্যকর হইবে।\n(৩) এই বিধিমালা Tourists Baggage (Import) Rules, 1981 এবং Privileged Persons (Customs Procedures) Rules, 2003 এর আওতাভুক্ত যাত্রী ব্যতীত সকল যাত্রীর ক্ষেত্রে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "These rules establish the regulatory framework for the importation of baggage by passengers, excluding tourists and privileged persons.",
+          "The rules are formally titled the Passenger (Non-Tourist) Baggage (Import) Rules, 2012, and take effect from the beginning of July, 2012."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These rules are explicitly excluded from the scope of the Passenger (Non-Tourist) Baggage (Import) Rules 2012."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "These rules are explicitly excluded from the scope of the Passenger (Non-Tourist) Baggage (Import) Rules 2012."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1376",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "baggage",
+          "passengers",
+          "tourists",
+          "privileged persons",
+          "Passenger (Non-Tourist) Baggage (Import) Rules, 2012"
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "Tourist Baggage (Import) Rules 1981"
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "Privileged Persons (Customs Procedures) Rules 2003"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        135,
+        341,
+        469,
+        869,
+        1095,
+        3145,
+        10521
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "শিরোনাম, প্রবর্তন ও প্রয়োগ",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_1",
+      "resolved_text": "১। শিরোনাম, প্রবর্তন ও প্রয়োগ।- (১) এই বিধিমালা যাত্রী (অপর্যটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০১২ নামে অভিহিত হইবে।\n(২) এই বিধিমালা ১৭ আষাঢ়, ১৪১৯ বঙ্গাব্দ/১ জুলাই, ২০১২ তারিখে কার্যকর হইবে।\n(৩) এই বিধিমালা Tourists Baggage (Import) Rules, 1981 এবং Privileged Persons (Customs Procedures) Rules, 2003 এর আওতাভুক্ত যাত্রী ব্যতীত সকল যাত্রীর ক্ষেত্রে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "These rules are officially titled the Passenger (Non-Tourist) Baggage (Import) Rules 2012.",
+          "The rules became effective on July 1, 2012.",
+          "The rules apply to all passengers except those covered under the Tourist Baggage (Import) Rules 1981 and the Privileged Persons (Customs Procedures) Rules 2003."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These rules define the scope of passengers exempted from the application of the Passenger (Non-Tourist) Baggage (Import) Rules 2012."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "These rules define the category of passengers, such as privileged persons, who are excluded from the applicability of the Passenger (Non-Tourist) Baggage (Import) Rules 2012."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_990",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2012",
+          "July 1, 2012",
+          "passengers",
+          "Tourist Baggage (Import) Rules 1981",
+          "Privileged Persons (Customs Procedures) Rules 2003"
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "Tourist Baggage (Import) Rules 1981",
+          "passengers"
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "Privileged Persons (Customs Procedures) Rules 2003",
+          "passengers",
+          "privileged persons"
+        ]
+      },
+      "clause_clusters": [
+        135,
+        341,
+        469,
+        869,
+        1095,
+        9335
+      ],
+      "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+      "clause_date": "2016-04-08"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "শিরোনাম, প্রবর্তন ও প্রয়োগ",
+      "text_id": "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "১। শিরোনাম, প্রবর্তন ও প্রয়োগ।— (১) এই বিধিমালা যাত্রী (অপৰ্যটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০১৬ নামে অভিহিত হইবে।\n(২) এই বিধিমালা Tourists Baggage (Import) Rules, 1981 এবং Privileged Persons (Customs Procedures) Rules, 2003 এর আওতাভুক্ত যাত্রী ব্যতীত সকল যাত্রীর ক্ষেত্রে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2016": [
+          "This set of rules is officially titled the Passenger (Non-Tourist) Baggage (Import) Rules 2016.",
+          "The application of these rules excludes passengers who are covered under the Tourist Baggage (Import) Rules 1981 and the Privileged Persons (Customs Procedures) Rules 2003."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These rules define the scope of application for the Passenger (Non-Tourist) Baggage (Import) Rules 2016 by explicitly excluding passengers who fall under the coverage of this existing instrument."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "These rules identify a category of passengers that are excluded from the applicability of the Passenger (Non-Tourist) Baggage (Import) Rules 2016."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1638",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2016": [
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2016",
+          "Tourist Baggage (Import) Rules 1981",
+          "Privileged Persons (Customs Procedures) Rules 2003"
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "Tourist Baggage (Import) Rules 1981",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2016"
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "Privileged Persons (Customs Procedures) Rules 2003",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2016"
+        ]
+      },
+      "clause_clusters": [
+        341,
+        469,
+        870
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "শিরোনাম ও প্রয়োগ",
+      "text_id": "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_1",
+      "resolved_text": "১। শিরোনাম ও প্রয়োগ।— (১) এই বিধিমালা যাত্রী (অপযটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০২৩ নামে অভিহিত হইবে।\n(২) এই বিধিমালা Tourists Baggage (Import) Rules, 1981 এবং Privileged Persons (Customs Procedures) Rules, 2003 এর আওতাভুক্ত যাত্রী ব্যতীত সকল যাত্রীর ক্ষেত্রে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2023": [
+          "This instrument is officially titled the Passenger (Non-Tourist) Baggage (Import) Rules 2023.",
+          "These rules define the scope of application for passengers, specifically excluding those governed by the Tourist Baggage (Import) Rules 1981 and the Privileged Persons (Customs Procedures) Rules 2003."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These rules establish a category of passengers whose baggage import requirements are distinct and outside the scope of the Passenger (Non-Tourist) Baggage (Import) Rules 2023."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "These rules define a specific class of privileged persons whose baggage imports are excluded from the coverage of the Passenger (Non-Tourist) Baggage (Import) Rules 2023."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2510",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2023": [
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2023",
+          "passengers",
+          "Tourist Baggage (Import) Rules 1981",
+          "Privileged Persons (Customs Procedures) Rules 2003"
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "Tourist Baggage (Import) Rules 1981",
+          "passengers",
+          "baggage",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2023"
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "Privileged Persons (Customs Procedures) Rules 2003",
+          "privileged persons",
+          "baggage",
+          "Passenger (Non-Tourist) Baggage (Import) Rules 2023"
+        ]
+      },
+      "clause_clusters": [
+        47,
+        135,
+        341,
+        469,
+        1095,
+        1244
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "2023-06-01"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "thread_id": "cluster_00749_t1",
+  "cluster_id": 749,
+  "cluster_label": "Authorized Economic Operator (Recognition) Rules 2018",
+  "title": "Historical Context and Foundational Framework of AEO",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "The Authorized Economic Operator (Recognition) Rules 2018 were established to align with international standards set by the World Customs Organization and the World Trade Organization, specifically following the 2019 Trade Facilitation Agreement.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2019 Trade Facilitation Agreement",
+      "correct_fact": "World Trade Organization-Trade Facilitation Agreement (TFA)",
+      "answer": "This statement is inaccurate. The Authorized Economic Operator program aligns with the World Trade Organization's Trade Facilitation Agreement (TFA), but the context does not specify a 2019 date for this agreement; rather, it notes that Bangladesh initiated the program to align with these international instruments starting in 2017.",
+      "clause_text_ids": [
+        "metadata_19",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the current regulatory regime, business entities previously certified under the Authorized Economic Operator (Accreditation) Rules 2018 must now adhere to the operational procedures prescribed by the Authorized Economic Operator (Recognition and Operation) Rules 2024.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. According to the 20250121_output.json source, entities previously certified under the 2018 rules must follow the operational procedures and compliance requirements set forth in the Authorized Economic Operator (Recognition and Operation) Rules 2024.",
+      "clause_text_ids": [
+        "metadata_19",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Authorized Economic Operator (Recognition) Rules 2018 establish the legal framework for the application and committee evaluation process, with the National Board of Revenue serving as the authority responsible for issuing these rules.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. As per the 20180628_214-AIN_2018_37_Customs_output, the National Board of Revenue is the authority responsible for issuing the rules governing the recognition and certification of AEOs, which includes the application and committee evaluation procedures.",
+      "clause_text_ids": [
+        "metadata_19",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The SAFE Framework of Standards, which serves as the foundational basis for the AEO program, was developed by the World Trade Organization.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "World Trade Organization",
+      "correct_fact": "World Customs Organization",
+      "answer": "This statement is inaccurate. The SAFE Framework of Standards was developed by the World Customs Organization, not the World Trade Organization.",
+      "clause_text_ids": [
+        "metadata_19",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Authorized Economic Operator (Recognition and Operation) Rules 2024 represent the original regulatory framework under which AEOs were initially accredited in 2018.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Authorized Economic Operator (Recognition and Operation) Rules 2024",
+      "correct_fact": "Authorized Economic Operator (Accreditation) Rules 2018",
+      "answer": "This statement is inaccurate. The Authorized Economic Operator (Accreditation) Rules 2018 provided the original regulatory framework, whereas the 2024 rules establish the updated regulatory and operational regime.",
+      "clause_text_ids": [
+        "metadata_19",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The AEO program is a collaborative partnership between customs and business that provides special clearance benefits to compliant and trusted entities, as outlined in the program's evolution.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "N/A",
+      "answer": "This statement is accurate. The program is described as a collaborative partnership between customs and business offering special clearance benefits to compliant and trusted entities.",
+      "clause_text_ids": [
+        "metadata_19",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A business entity was granted Authorized Economic Operator status under the 2018 regulatory framework. Following the issuance of new regulations in 2024, the entity is unsure which compliance and operational standards it must now adhere to.",
+      "question": "Does the entity continue to operate under the Authorized Economic Operator (Accreditation) Rules 2018, or must it transition to a new set of rules?",
+      "answer": "The entity must transition to follow the operational procedures and compliance requirements prescribed under the Authorized Economic Operator (Accreditation and Operation) Rules 2024.",
+      "clauses_involved": [
+        "Authorized Economic Operator (Accreditation) Rules 2018",
+        "Authorized Economic Operator (Accreditation and Operation) Rules 2024"
+      ],
+      "clause_text_ids": [
+        "metadata_19",
+        "metadata_3",
+        "metadata_4"
+      ]
+    }
+  ]
+}

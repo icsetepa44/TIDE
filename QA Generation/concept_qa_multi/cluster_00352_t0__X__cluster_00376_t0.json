@@ -1,0 +1,34 @@
+{
+  "group_id": "cluster_00352_t0__X__cluster_00376_t0",
+  "entities": [
+    "Deputy Commissioner",
+    "official website"
+  ],
+  "cluster_ids": [
+    352,
+    376
+  ],
+  "thread_ids": [
+    "cluster_00352_t0",
+    "cluster_00376_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the Deputy Commissioner's responsibility for customs clearance approval, as mandated by clauses [0], [1], [2], and [3], interact with the verification processes conducted via the official website?",
+      "answer": "According to clauses [0], [1], [2], and [3], the Deputy Commissioner (or Assistant Commissioner) is responsible for approving customs clearance after ensuring that all conditions related to import and taxation—which involve verification processes typically supported by the official website—have been met by the assessing officer to avoid delays in clearance.",
+      "entities_involved": [
+        "Deputy Commissioner",
+        "official website"
+      ],
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ]
+}

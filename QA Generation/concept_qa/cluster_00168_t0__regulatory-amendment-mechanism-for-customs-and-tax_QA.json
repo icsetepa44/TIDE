@@ -1,0 +1,216 @@
+{
+  "thread_id": "cluster_00168_t0",
+  "cluster_id": 168,
+  "cluster_label": "tax notifications",
+  "title": "Regulatory Amendment Mechanism for Customs and Tax Notifications",
+  "source_num_member_objects": 26,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 227/2024, issued on July 8, 2024, utilized the Customs Act, 1969 as the primary legal authority for its amendments.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Customs Act, 1969",
+      "correct_fact": "Customs Act, 2023",
+      "answer": "The statement is inaccurate. SRO 227/2024, dated July 8, 2024, adopted the Customs Act, 2023 as its primary legal authority, not the Customs Act, 1969.",
+      "clause_text_ids": [
+        "20230601_111-AIN_2023_155_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_129-_2023_173_২১ মে, ২০২৩_clause_1",
+        "20240708_227-_2024_69_২৬ জুন, ২০২৪_clause_3",
+        "20240708_234-_2024_76_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "In SRO 143/2015, the government adjusted tax rates from 3% to 5% within the existing notification framework.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 143/2015, issued on June 4, 2015, indeed adjusted tax rates from 3% to 5%.",
+      "clause_text_ids": [
+        "20150604_143-AIN_2015_23-Customs_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20150604_159-AIN_2015_39-Customs_৪ জুন, ২০১৫_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 30-AIN/2025, amended on June 2, 2025, updated the H.S. Code for Heading 84.21 by replacing 8421.39.90 with 8421.39.99.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "replacing 8421.39.90 with 8421.39.99",
+      "correct_fact": "replacing 8421.39.99 with 8421.39.90",
+      "answer": "The statement is inaccurate. SRO 30-AIN/2025, dated June 2, 2025, replaced H.S. Code 8421.39.99 with 8421.39.90.",
+      "clause_text_ids": [
+        "20250602_221-AIN_2025_43_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The initial baseline for the tax notification mechanism in 2010 was established via SRO 177/2010, citing the Customs Act 1969 and the VAT Act 1991.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 177/2010, issued on June 10, 2010, established the baseline using the Customs Act 1969 and the VAT Act 1991.",
+      "clause_text_ids": [
+        "20100610_177-AIN_2010_2295-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 216-AIN/2022/124/Customs amended the classification for 'Unglazed tiles' to 'Ceramic tiles' under Heading 69.07.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. SRO 216-AIN/2022/124/Customs, dated June 28, 2022, replaced the description 'Unglazed tiles' with 'Ceramic tiles' under Heading 69.07.",
+      "clause_text_ids": [
+        "20220609_128-AIN_2022_76_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_132-AIN_2022_80_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_208-_2022_116_২৮ জুন, ২০২২_clause_1",
+        "20220628_213-_2022_121_২৮ জুন, ২০২২_clause_1",
+        "20220628_216-_2022_124_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "SRO 145-AIN/2013/2432/Customs, issued on June 6, 2013, adjusted a tax rate from 2% to 3%.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "from 2% to 3%",
+      "correct_fact": "from 3% to 2%",
+      "answer": "The statement is inaccurate. SRO 145-AIN/2013/2432/Customs, dated June 6, 2013, adjusted the rate from 3% to 2%.",
+      "clause_text_ids": [
+        "20130606_145-AIN_2013_2432-Customs_২০১৩-০৬-০৬_clause_1",
+        "20180607_145-AIN_2018_11_Customs_২৯ মে, ২০১৮_clause_1",
+        "20180607_156-AIN_2018_22_Customs_২৯ মে, ২০১৮_clause_1",
+        "20180726_195-AIN_2018_34_Customs_২৬ জুন, ২০১৮_clause_1"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer has been tracking the legal basis for customs and tax notification amendments since 2010. They observed that for over a decade, amendments consistently cited the Customs Act, 1969 and the Value Added Tax Act, 1991. However, starting from mid-2022, they noticed a shift in the legislative references used in SROs, and by mid-2024, the primary authority for customs amendments had changed again.",
+      "question": "How did the legal basis for issuing customs and tax notification amendments evolve from the 2010-2021 period to the post-2024 period?",
+      "answer": "The legal basis evolved from relying on the Customs Act, 1969 and the VAT Act, 1991 (2010-2021) to incorporating the VAT and Supplementary Duty Act, 2012 (starting mid-2022), and finally adopting the Customs Act, 2023 as the primary authority for customs amendments (by mid-2024).",
+      "clauses_involved": [
+        "2010-06-10 | SRO 177/2010",
+        "2022-06-09 | SRO 128/2022",
+        "2024-07-08 | SRO 227/2024"
+      ],
+      "clause_text_ids": [
+        "20100610_177-AIN_2010_2295-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20120607_165-AIN_2012_2393-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_166-AIN_2012_2394-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_169-AIN_2012_2397-Customs_০৭ জুন, ২০১২_clause_1",
+        "20160602_169-AIN_2016_31-Customs_২ জুন, ২০১৬_clause_1",
+        "20220609_128-AIN_2022_76_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_132-AIN_2022_80_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_208-_2022_116_২৮ জুন, ২০২২_clause_1",
+        "20220628_213-_2022_121_২৮ জুন, ২০২২_clause_1",
+        "20220628_216-_2022_124_২৮ জুন, ২০২২_clause_1",
+        "20230601_111-AIN_2023_155_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_129-_2023_173_২১ মে, ২০২৩_clause_1",
+        "20240708_227-_2024_69_২৬ জুন, ২০২৪_clause_3",
+        "20240708_234-_2024_76_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "five years later",
+      "question": "Starting from the baseline established in 2010, what significant change occurred in the regulatory framework five years later in terms of tax rate adjustments?",
+      "answer": "Five years later, in 2015, SRO 143/2015 was issued, which facilitated an adjustment of tax rates from 3% to 5% within the existing notification frameworks.",
+      "clause_text_ids": [
+        "20100610_177-AIN_2010_2295-Customs_১০ জুন, ২০১০_clause_1",
+        "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+        "20150604_143-AIN_2015_23-Customs_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20150604_159-AIN_2015_39-Customs_৪ জুন, ২০১৫_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2015-06-04",
+      "relative_offset": "seven years later",
+      "question": "Following the 2015 framework, what major transition in the legal basis for issuing tax notifications occurred seven years later?",
+      "answer": "Seven years later, in 2022, SRO 128/2022 marked the transition to citing the VAT and Supplementary Duty Act, 2012 as the legal basis for tax notification amendments.",
+      "clause_text_ids": [
+        "20120607_165-AIN_2012_2393-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_166-AIN_2012_2394-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_169-AIN_2012_2397-Customs_০৭ জুন, ২০১২_clause_1",
+        "20150604_143-AIN_2015_23-Customs_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+        "20150604_159-AIN_2015_39-Customs_৪ জুন, ২০১৫_clause_1",
+        "20220609_128-AIN_2022_76_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_132-AIN_2022_80_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_208-_2022_116_২৮ জুন, ২০২২_clause_1",
+        "20220628_213-_2022_121_২৮ জুন, ২০২২_clause_1",
+        "20220628_216-_2022_124_২৮ জুন, ২০২২_clause_1"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2022-06-09",
+      "relative_offset": "two years later",
+      "question": "What primary legal authority was adopted for customs amendments two years after the 2022 transition?",
+      "answer": "Two years later, in 2024, SRO 227/2024 was issued, which adopted the Customs Act, 2023 as the primary legal authority for customs-related amendments.",
+      "clause_text_ids": [
+        "20220609_128-AIN_2022_76_Customs_১ জুন, ২০২২_clause_1",
+        "20220609_132-AIN_2022_80_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+        "20220628_208-_2022_116_২৮ জুন, ২০২২_clause_1",
+        "20220628_213-_2022_121_২৮ জুন, ২০২২_clause_1",
+        "20220628_216-_2022_124_২৮ জুন, ২০২২_clause_1",
+        "20230601_111-AIN_2023_155_Customs_২১ মে, ২০২৩_clause_1",
+        "20230601_129-_2023_173_২১ মে, ২০২৩_clause_1",
+        "20240708_227-_2024_69_২৬ জুন, ২০২৪_clause_3",
+        "20240708_234-_2024_76_২৬ জুন, ২০২৪_clause_1"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these regulatory developments in chronological order based on the evolution of the legal framework and amendment mechanisms.",
+      "events_shuffled": [
+        "The government adopts the Customs Act as the primary legal authority for amending customs and tax notifications, replacing the older Customs Act.",
+        "The government amends customs notifications by citing both the Customs Act and the Value Added Tax Act.",
+        "The government shifts its legal basis for issuing regulatory amendments to include the Value Added Tax and Supplementary Duty Act alongside the Customs Act."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government amends customs notifications by citing both the Customs Act and the Value Added Tax Act.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The government shifts its legal basis for issuing regulatory amendments to include the Value Added Tax and Supplementary Duty Act alongside the Customs Act.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The government adopts the Customs Act as the primary legal authority for amending customs and tax notifications, replacing the older Customs Act.",
+          "date": "2024-07-08"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_177-AIN_2010_2295-Customs_১০ জুন, ২০১০_clause_1",
+        "20220609_128-AIN_2022_76_Customs_১ জুন, ২০২২_clause_1",
+        "20240708_227-_2024_69_২৬ জুন, ২০২৪_clause_3"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_177-AIN_2010_2295-Customs/20100610_177-AIN_2010_2295-Customs_output.json",
+        "customs_sros_OCR/20220609_128-AIN_2022_76_Customs/20220609_128-AIN_2022_76_Customs_output.json",
+        "customs_sros_OCR/20240708_227-_2024_69/20240708_227-_2024_69_output.json"
+      ],
+      "thread_source_file": "cluster_00168_t0__regulatory-amendment-mechanism-for-customs-and-tax.json"
+    }
+  ]
+}

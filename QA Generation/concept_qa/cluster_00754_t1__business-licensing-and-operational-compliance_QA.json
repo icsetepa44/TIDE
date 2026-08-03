@@ -1,0 +1,205 @@
+{
+  "thread_id": "cluster_00754_t1",
+  "cluster_id": 754,
+  "cluster_label": "business",
+  "title": "Business Licensing and Operational Compliance",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 11,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 2,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument first introduced strict eligibility criteria for businesses, including Industrial IRC holder status and VAT compliance, for specific sectors?",
+      "options": [
+        "Customs Directive (2014-04-03)",
+        "Customs SRO (2022-07-17)",
+        "Customs Regulations (2025-02-17)",
+        "Customs Amendment (2025-06-02)"
+      ],
+      "answer_index": 1,
+      "answer": "Customs SRO (2022-07-17)",
+      "explanation": "The Customs SRO dated 2022-07-17 introduced the requirement for businesses to be Industrial IRC holders and VAT compliant to operate in specific sectors.",
+      "clause_text_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When did the requirement for warehouse license holders to notify the licensing authority of ownership or management changes within two months become mandated?",
+      "options": [
+        "2014-04-03",
+        "2022-07-17",
+        "2025-02-17",
+        "2025-06-02"
+      ],
+      "answer_index": 3,
+      "answer": "2025-06-02",
+      "explanation": "The Customs Amendment dated 2025-06-02 mandated that any changes in management or ownership must be reported to the licensing authority within two months of approval by relevant regulatory bodies.",
+      "clause_text_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the primary restriction placed on applicant hotels regarding commercial importation under the 2014-04-03 Customs Directive?",
+      "options": [
+        "They were prohibited from importing any goods.",
+        "They were restricted to a one-time import of goods in quantities specified by the National Board of Revenue.",
+        "They were required to hold an Industrial IRC before importing.",
+        "They were required to report all management changes to the licensing authority."
+      ],
+      "answer_index": 1,
+      "answer": "They were restricted to a one-time import of goods in quantities specified by the National Board of Revenue.",
+      "explanation": "According to the 2014-04-03 Customs Directive, applicant hotels were permitted to make a one-time import of goods for commercial operations, provided the quantities were specified by the National Board of Revenue.",
+      "clause_text_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which business classifications were explicitly expanded to include express services and e-commerce entities under the 2025-02-17 Customs Regulations?",
+      "options": [
+        "Manufacturing and Industrial IRC holders",
+        "Commercial hotels and warehouses",
+        "On-board express services, international air express services, and cross-border e-commerce institutions",
+        "Retailers and local logistics providers"
+      ],
+      "answer_index": 2,
+      "answer": "On-board express services, international air express services, and cross-border e-commerce institutions",
+      "explanation": "The 2025-02-17 Customs Regulations formally defined and included on-board express services, international air express services, and cross-border e-commerce institutions within the customs framework.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "As of the 2014-04-03 Customs Directive, all businesses including cross-border e-commerce institutions and express service providers are required to report ownership changes to the licensing authority within two months of approval by regulatory bodies.",
+      "question": "Does the 2014-04-03 Customs Directive mandate that cross-border e-commerce institutions report ownership changes to licensing authorities?",
+      "conflict": "The context misattributes 2025-06-02 reporting requirements and 2025-02-17 business classifications to the 2014-04-03 directive.",
+      "answer": "No. The 2014-04-03 Customs Directive only addressed import quantity restrictions for commercial applicant hotels. Cross-border e-commerce institutions were not defined until the 2025-02-17 Customs Regulations, and the mandatory reporting of ownership or management changes was only introduced in the 2025-06-02 Customs Amendment.",
+      "clause_text_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2022-07-17 Customs SRO, businesses operating as express service providers are required to be VAT compliant and hold an Industrial IRC to maintain their license.",
+      "question": "Is it accurate that the 2022-07-17 Customs SRO mandates Industrial IRC and VAT compliance for express service providers?",
+      "conflict": "The context incorrectly applies the 2022-07-17 industrial eligibility criteria to service-based entities defined in 2025.",
+      "answer": "No. The 2022-07-17 Customs SRO established Industrial IRC and VAT compliance requirements specifically for manufacturers of automated teller machines and closed-circuit cameras. Express service providers were not classified under these customs regulations until the 2025-02-17 Customs Regulations.",
+      "clause_text_ids": [
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A business entity that obtained a warehouse license in 2024 underwent a change in its management board in July 2025 following approval from the relevant regulatory body.",
+      "question": "Based on the evolution of customs regulations, what is the new obligation for this business that did not exist under the initial licensing framework prior to 2025?",
+      "answer": "The business must now submit an application to the licensing authority on its official letterhead, including documentation specified in Schedule-3, within two months of the regulatory approval of the management change.",
+      "clauses_involved": [
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A company operating since 2014 as a commercial hotel importer was permitted to import goods based on NBR-specified quantities. In 2022, the company decides to pivot its operations to become a manufacturer of automated teller machines (ATMs).",
+      "question": "How has the eligibility requirement for this company changed from its 2014 operational status to its 2022 manufacturing status?",
+      "answer": "In 2014, the company only needed to adhere to NBR-specified import quantities for commercial use. By 2022, it must additionally hold a valid Industrial Import Registration Certificate (Industrial IRC) and maintain VAT compliant status under the Value Added Tax and Supplementary Duty Act, 2012.",
+      "clauses_involved": [
+        "2014-04-03",
+        "2022-07-17"
+      ],
+      "clause_text_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2014-04-03",
+      "relative_offset": "eight years later",
+      "question": "Eight years after the initial 2014 restriction on import quantities for commercial business entities, what new eligibility criteria were introduced for specific business sectors?",
+      "answer": "On 2022-07-17, a Customs SRO introduced strict eligibility requirements, specifically mandating that businesses in sectors like ATM and closed-circuit camera manufacturing must hold a valid Industrial Import Registration Certificate (IRC) and be VAT compliant.",
+      "clause_text_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-02-17",
+      "relative_offset": "the following amendment",
+      "question": "In the amendment following the 2025-02-17 expansion of business classifications, what new operational reporting obligation was imposed on license holders?",
+      "answer": "On 2025-06-02, a Customs Amendment was issued requiring license holders to formally notify the licensing authority of any significant changes in their management or ownership structure within two months of such changes being approved by the relevant authorities.",
+      "clause_text_ids": [
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "Mandatory reporting of ownership or management changes to licensing authorities within a fixed timeframe.",
+        "Expansion of business classifications to include specific service providers like express services and e-commerce entities.",
+        "Restriction on import quantities for commercial business entities.",
+        "Introduction of strict eligibility criteria including Industrial Import Registration Certificate holding and tax compliance for specific business sectors."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Restriction on import quantities for commercial business entities.",
+          "date": "2014-04-03"
+        },
+        {
+          "event": "Introduction of strict eligibility criteria including Industrial Import Registration Certificate holding and tax compliance for specific business sectors.",
+          "date": "2022-07-17"
+        },
+        {
+          "event": "Expansion of business classifications to include specific service providers like express services and e-commerce entities.",
+          "date": "2025-02-17"
+        },
+        {
+          "event": "Mandatory reporting of ownership or management changes to licensing authorities within a fixed timeframe.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20140403_50-AIN_2014_2476-Customs_3 GwcÖj, 2014_clause_6",
+        "20220717_202-_2022_110_২৮ জুন, ২০২২_clause_2",
+        "20250217_2024_1_২৯ মে, ২০২৪_clause_2",
+        "20250602_231-AIN_2025_53_Customs_২৯ মে, ২০২৪ খ্রিষ্টাব্দ_clause_6"
+      ],
+      "clause_source_files": [
+        "customs_rules_OCR/20250217_2024_1/20250217_2024_1_output.json",
+        "customs_sros_OCR/20140403_50-AIN_2014_2476-Customs/20140403_50-AIN_2014_2476-Customs_output.json",
+        "customs_sros_OCR/20220717_202-_2022_110/20220717_202-_2022_110_output.json",
+        "customs_sros_OCR/20250602_231-AIN_2025_53_Customs/20250602_231-AIN_2025_53_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00754_t1__business-licensing-and-operational-compliance.json"
+    }
+  ]
+}

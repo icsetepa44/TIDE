@@ -1,0 +1,202 @@
+{
+  "thread_id": "cluster_00063_t2",
+  "cluster_id": 63,
+  "cluster_label": "documentation",
+  "title": "Post-Clearance Audit (PCA) Documentation",
+  "source_num_member_objects": 10,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to the PCA Manual, what requirement was established regarding the confidentiality of information provided for customs audit purposes as of 2023-09-27?",
+      "options": [
+        "Confidentiality is at the discretion of the audit team leader.",
+        "Section 204B of the Customs Act 1969 mandates strict maintenance of confidentiality for sensitive information.",
+        "Confidentiality is only required for business entities with a turnover exceeding a specific threshold.",
+        "Confidentiality protocols were not formalized until the 2025 update."
+      ],
+      "answer_index": 1,
+      "answer": "Section 204B of the Customs Act 1969 mandates strict maintenance of confidentiality for sensitive information.",
+      "explanation": "The 2023-09-27 PCA Manual explicitly states that per Section 204B of the Customs Act 1969, all information and documents provided for official customs audit purposes must be treated as sensitive and kept confidential.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_13",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_42",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_48",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_59",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_162",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What procedural change regarding document request timelines and audit evaluation was introduced in the 2025-01-21 PCA Manual Update?",
+      "options": [
+        "The removal of the requirement for a Self-Assessment Questionnaire.",
+        "The introduction of a mandatory 30-day waiting period for all document submissions.",
+        "Refinement of document request timelines and audit evaluation procedures.",
+        "The total abolition of audit files in favor of digital-only reporting."
+      ],
+      "answer_index": 2,
+      "answer": "Refinement of document request timelines and audit evaluation procedures.",
+      "explanation": "The 2025-01-21 PCA Manual Update specifically focuses on the refinement of document request timelines and audit evaluation procedures.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_162",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2023-09-27 PCA Manual guidelines, what must the audit team leader ensure before submitting an audit file to the supervisor?",
+      "options": [
+        "That the file is submitted only after the annual audit plan is updated.",
+        "That all documentation is complete, signed, and indexed.",
+        "That the business entity has paid all requested fines in full.",
+        "That the file is sent directly to the National Board of Revenue."
+      ],
+      "answer_index": 1,
+      "answer": "That all documentation is complete, signed, and indexed.",
+      "explanation": "According to the 2023-09-27 PCA Manual (Clause 5.3.7 and 6.3.6), the team leader must verify that all documentation is complete, signed, and indexed before submission to the supervisor.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_13",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_42",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_48",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_59",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What is the consequence for an applicant failing to submit requested documentation within the prescribed timeframe according to the 2025-01-21 procedures?",
+      "options": [
+        "The application is automatically granted a 6-month extension.",
+        "The application is subject to cancellation.",
+        "The applicant is fined 10% of their annual turnover.",
+        "The audit team conducts the audit without the requested documents."
+      ],
+      "answer_index": 1,
+      "answer": "The application is subject to cancellation.",
+      "explanation": "The 2025-01-21 update stipulates that if an applicant fails to submit requested information or documentation within the prescribed or extended time frame, the application shall be considered cancelled.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_162",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2023-09-27 PCA Manual, the Assessment Team is mandated to review the Self-Assessment Questionnaire (SAQ) and issue written requests for additional documentation if the applicant fails to meet the submission deadlines.",
+      "question": "Does the 2023-09-27 PCA Manual contain the requirement for an Assessment Team to review a Self-Assessment Questionnaire (SAQ)?",
+      "conflict": "The context misattributes the 2025-01-21 update regarding the 'Self-Assessment Questionnaire' and 'Assessment Team' to the 2023-09-27 PCA Manual.",
+      "answer": "No. The requirement for the Assessment Team to review the Self-Assessment Questionnaire (SAQ) and request additional documentation was introduced in the 2025-01-21 PCA Manual Update, not the 2023-09-27 PCA Manual.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_13",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_42",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_48",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_59",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_162",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer is undergoing a Post Clearance Audit initiated in 2023. During this process, the audit team requests specific documentation. In 2025, the importer applies for Authorized Economic Operator (AEO) status, which also requires submitting documentation and undergoing an evaluation process that includes a Self-Assessment Questionnaire (SAQ) and potential requests for further information.",
+      "question": "How does the consequence of failing to provide requested documentation differ for the importer between the 2023 audit process and the 2025 AEO application process?",
+      "answer": "Under the 2023 PCA framework, the focus is on audit file completion and resolution of duty payments; however, under the 2025 AEO rules, failure to submit requested information or documentation within the prescribed or extended timeframe results in the formal cancellation of the application.",
+      "clauses_involved": [
+        "2023-09-27",
+        "2025-01-21"
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_13",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_42",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_48",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_59",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_162",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-09-27",
+      "relative_offset": "one year and four months later",
+      "question": "Following the 2023-09-27 PCA Manual, how did the documentation process evolve one year and four months later regarding the timelines for document requests and evaluation procedures?",
+      "answer": "On 2025-01-21, the PCA Manual Update introduced refinements to document request timelines and audit evaluation procedures, including specific provisions for Authorized Economic Operator (AEO) status applications and consequences for failing to submit requested documentation within prescribed timeframes.",
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_10",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_13",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_42",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_48",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_57",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_59",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_162",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order based on the evolution of Post-Clearance Audit and evaluation documentation requirements.",
+      "events_shuffled": [
+        "Assessment teams are authorized to formally request additional information or documentation from applicants during the evaluation process.",
+        "Procedures are established for finalizing audit files, requiring team leaders to ensure all documentation is complete, signed, and indexed before supervisor approval.",
+        "Applications for status recognition are subject to cancellation if the applicant fails to submit requested information or documentation within the prescribed time frame.",
+        "A standardized template is introduced for conducting transaction-based audits, detailing specific information requirements for business entities."
+      ],
+      "answer_ordered": [
+        {
+          "event": "A standardized template is introduced for conducting transaction-based audits, detailing specific information requirements for business entities.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "Procedures are established for finalizing audit files, requiring team leaders to ensure all documentation is complete, signed, and indexed before supervisor approval.",
+          "date": "2023-09-27"
+        },
+        {
+          "event": "Assessment teams are authorized to formally request additional information or documentation from applicants during the evaluation process.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "Applications for status recognition are subject to cancellation if the applicant fails to submit requested information or documentation within the prescribed time frame.",
+          "date": "2025-01-21"
+        }
+      ],
+      "clause_text_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_72",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_59",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_32",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_33"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20230927/20230927_output.json",
+        "customs_gos_OCR/20250121/20250121_output.json"
+      ],
+      "thread_source_file": "cluster_00063_t2__post-clearance-audit-pca-documentation.json"
+    }
+  ]
+}

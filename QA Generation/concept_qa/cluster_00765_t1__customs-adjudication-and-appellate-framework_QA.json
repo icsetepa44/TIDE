@@ -1,0 +1,75 @@
+{
+  "thread_id": "cluster_00765_t1",
+  "cluster_id": 765,
+  "cluster_label": "customs orders",
+  "title": "Customs Adjudication and Appellate Framework",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 5,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 4,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How does the Customs Act 1969 structure the hierarchy for addressing grievances against customs decisions?",
+      "answer": "The Customs Act 1969 establishes a hierarchy where an aggrieved person can appeal a decision or order passed by an officer lower in rank than a Commissioner of Customs to the Commissioner (Appeal). This process must generally be initiated within three months of the communication of the decision, though the Commissioner (Appeal) has the discretion to extend this by two months if sufficient cause for the delay is demonstrated.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_182",
+        "customs-act-1969-english_8th March, 1969_clause_231",
+        "customs-act-1969-english_8th March, 1969_clause_246"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What mechanisms were introduced in the Customs Act 1969 to ensure continuity for legal proceedings during the transition to the Appellate Tribunal?",
+      "answer": "To ensure continuity, the Customs Act 1969 mandated the transfer of pending appeals from the National Board of Revenue to the Customs, Excise and VAT Appellate Tribunal. The Tribunal is empowered to continue these proceedings from the stage they reached prior to the transfer, while also granting the appellant the right to request a re-hearing before the Tribunal proceeds further.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_182",
+        "customs-act-1969-english_8th March, 1969_clause_231",
+        "customs-act-1969-english_8th March, 1969_clause_246"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why does the Customs Act 1969 differentiate between the jurisdiction of the Appellate Tribunal and the Government regarding pending proceedings?",
+      "answer": "The Act differentiates jurisdiction based on the nature and value of the case. While the Appellate Tribunal serves as the successor body for pending appeals previously held by the Board, the Government retains jurisdiction over specific pending proceedings related to customs orders where the value of confiscated goods, duty differences, or penalty amounts do not exceed a specified threshold.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_182",
+        "customs-act-1969-english_8th March, 1969_clause_231",
+        "customs-act-1969-english_8th March, 1969_clause_246"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the Customs Act 1969 address administrative failures and unauthorized system access within its penalty framework?",
+      "answer": "The Customs Act 1969 defines a broad range of offences, including administrative failures and unauthorized access to the computerized entry processing system. Penalties for these violations are cumulative, meaning they apply in addition to any other legal liabilities, and can include the confiscation of goods, monetary fines, and imprisonment upon conviction by a Magistrate.",
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_182",
+        "customs-act-1969-english_8th March, 1969_clause_231",
+        "customs-act-1969-english_8th March, 1969_clause_246"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer filed an appeal with the National Board of Revenue under the old customs adjudication framework. Before the Board could issue a final decision, a new legal provision (Section 196J) was enacted, establishing the Customs, Excise and VAT Appellate Tribunal as the successor body for pending appeals.",
+      "question": "What is the status of the importer's pending appeal following the enactment of the new provision, and what procedural right does the importer have regarding the continuation of their case?",
+      "answer": "The appeal is automatically transferred to the Appellate Tribunal, which may proceed from the stage the case had reached prior to the transfer; however, the importer maintains the right to demand a re-hearing before the Tribunal proceeds further.",
+      "clauses_involved": [
+        "Section 193 (Appeals to Commissioner)",
+        "Section 196J (Transfer of certain pending proceedings)"
+      ],
+      "clause_text_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_182",
+        "customs-act-1969-english_8th March, 1969_clause_231",
+        "customs-act-1969-english_8th March, 1969_clause_246"
+      ]
+    }
+  ]
+}

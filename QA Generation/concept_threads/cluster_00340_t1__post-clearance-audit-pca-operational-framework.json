@@ -1,0 +1,290 @@
+{
+  "cluster_id": 340,
+  "cluster_label": "operational procedures",
+  "thread_index": 1,
+  "thread_id": "cluster_00340_t1",
+  "title": "Post-Clearance Audit (PCA) Operational Framework",
+  "summary": "The PCA framework evolved from ad-hoc directives to a centralized, manual-driven operational procedure. It mandates strict adherence to audit manuals, risk-based selection, and systematic reporting to the NBR.",
+  "evolution": {
+    "procedure": "Shifted from discretionary audit activities to a standardized, manual-governed process with mandatory reporting."
+  },
+  "timeline": [
+    {
+      "date": "2023-09-27",
+      "instrument": "NBR Order 2023",
+      "change": "Formalization of PCA procedures via a mandatory manual and reporting requirements.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_52"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "পোস্ট ক্লিয়ারেন্স অডিট কার্যক্রম পরিচালনার কার্যপদ্ধতি",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_2",
+      "resolved_text": "২। এ আদেশ জারীর পর সকল প্রকার পোস্ট ক্লিয়ারেন্স অডিট কার্যক্রম পরিচালনার ক্ষেত্রে এই ম্যানুয়ালে বর্ণিত কার্যপদ্ধতি অনুসরণ করতে হবে এবং এই আদেশের মাধ্যমে ইতোপূর্বের এ সংক্রান্ত সকল আদেশ বাতিল করা হলো।",
+      "entity_concepts": {
+        "Post Clearance Audit": [
+          "This standing order mandates the application of the specific operational procedures detailed in the manual for conducting all post clearance audit activities.",
+          "The current order rescinds and replaces all previous instructions and orders related to the conduct of post clearance audit activities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_673",
+      "entity_sub_entities": {
+        "Post Clearance Audit": [
+          "standing order",
+          "operational procedures",
+          "manual",
+          "post clearance audit activities",
+          "instructions",
+          "orders"
+        ]
+      },
+      "clause_clusters": [
+        73,
+        259,
+        276,
+        340,
+        1230,
+        2109
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "কার্যপদ্ধতি অনুসরণে শৈথিল্য প্রদর্শন রোধ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_3",
+      "resolved_text": "৩। এখানে আরও উল্লেখ্য যে, ম্যানুয়ালে বর্ণিত কার্যপদ্ধতি অনুসরণের ক্ষেত্রে কোনো প্রকার শৈথিল্য যেন প্রদর্শন করা না হয় তা নিশ্চিতকল্পে সংশ্লিষ্ট কমিশনারগণ প্রয়োজনীয় পদক্ষেপ গ্রহণ করবেন। উপরন্তু, এ বিষয়ে জাতীয় রাজস্ব বোর্ডের সংশ্লিষ্ট শাখায় মাসিক প্রতিবেদন দাখিল করবেন।",
+      "entity_concepts": {
+        "Commissioner of Customs": [
+          "The Commissioner of Customs is instructed to ensure that there is no negligence in following the operational procedures outlined in the official manual.",
+          "They are responsible for taking necessary actions to enforce compliance with these established procedures."
+        ],
+        "National Board of Revenue": [
+          "The Commissioner of Customs must submit a monthly report to the relevant branch of the National Board of Revenue regarding the enforcement of procedural compliance."
+        ],
+        "Customs Procedure": [
+          "Operational procedures described in the manual must be strictly followed without any laxity or negligence."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_674",
+      "entity_sub_entities": {
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "official manual",
+          "operational procedures"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "monthly report"
+        ],
+        "Customs Procedure": [
+          "operational procedures",
+          "manual"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        340,
+        932,
+        1230,
+        9952,
+        10222
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_52",
+      "clause_title": "৬.২.১ সিস্টেম বেইজড অডিট কার্যক্রমের প্রাথমিক ধাপসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_52",
+      "resolved_text": "৬.২.১ সিস্টেম বেইজড অডিট কার্যক্রমের প্রাথমিক ধাপসমূহ—\n(১) প্রাথমিক অনুশীলন:\nঅডিট টিম সংগৃহীত প্রাথমিক তথ্য ব্যবহার করে একটি প্রাথমিক অডিট পরিকল্পনা তৈরি করবেন। প্রাথমিক পরিকল্পনা প্রণয়নের সময় নিম্নলিখিত বিষয়সমূহ বিবেচনা করতে হবে:\n  i) অডিটের ব্যাপ্তি ও সময়কাল;\n  ii) প্রতিষ্ঠানের সিস্টেমসমূহ;\n  iii) প্রতিষ্ঠানের প্রাঙ্গণসমূহ যা পরিদর্শন করতে হবে;\n  iv) পণ্যচালানের সাথে সংশ্লিষ্ট অন্যান্য পক্ষ ও বিষয়াদি;\n  v) প্রতিষ্ঠানের উপযুক্ত তথ্য বিশ্লেষণের মাধ্যমে ব্যবসায়িক কাঠামোর একটি বিস্তারিত প্রোফাইল তৈরি করা।\n\nসরেজমিন সমীক্ষার মাধ্যমে বা অডিট প্রশ্নাবলীর মাধ্যমে এই তথ্য/উপাত্ত সংগ্রহ করতে হবে। তথ্যের অন্যান্য উপযোগী উৎস হলো ইন্টারনেট, প্রতিষ্ঠানের নিজস্ব প্রকাশনা, লিফলেট, বিজ্ঞাপন, একই ধরনের অন্য ব্যবসায়ী ইত্যাদি। প্রাথমিক অনুশীলন হিসাবে প্রাক-অডিট গবেষণার দুটি প্রধান উদ্দেশ্য রয়েছে:\n(ক) সম্ভাব্য তথ্য পর্যালোচনার মাধ্যমে প্রতিষ্ঠানের সিস্টেমের ঝুঁকিসম্পন্ন ক্ষেত্র এবং বিশেষভাবে গুরুত্ব দেয়া প্রয়োজন এমন আমদানি ঘোষণা শনাক্ত করতে সহায়তা করা এবং\n(খ) অস্থায়ী অডিট পরিকল্পনার খসড়া তৈরিতে সহায়তা করা যার মধ্যে অডিটের উদ্দেশ্য, পরিধি, পদ্ধতি এবং দলের সদস্যদের নিয়োগ অন্তর্ভুক্ত থাকে।\n\n(২) অডিটের নিমিত্ত প্রাথমিক তথ্য সংগ্রহ:\nপ্রাথমিক পর্যায়ে সিস্টেম অডিটের জন্য নির্বাচিত প্রতিষ্ঠান সম্পর্কে নিম্নোক্ত তথ্য সংগ্রহ করতে হবে:\n(ক) প্রতিষ্ঠান সম্পর্কিত তথ্যের উৎস শনাক্ত করা যেমন- কাস্টমসের সংশ্লিষ্ট শাখা, মূল্য সংযোজন কর, ব্যাংক, জয়েন্ট স্টক, আয়কর বিভাগ, সরকারি অন্যান্য বিভাগ;\n(খ) আমদানিকারক সম্পর্কে নিম্নলিখিত তথ্য সংগ্রহ করতে হবে:\n• বিগত সময়ের আমদানি পরিসংখ্যান;\n• আমদানিকারকের সাথে সম্পর্কিত ইতোপূর্বে কোনো কাস্টমস রুলিং যেমন- পণ্যের ক্লাসিফিকেশন বা মূল্য নির্ধারণ;\n• অনুরূপ কোনো রুলিং যা পর্যালোচনাধীন ক্ষেত্রে প্রযোজ্য হতে পারে;\n• আমদানিকারক সম্পর্কিত পূর্ববর্তী পরিদর্শন প্রতিবেদন এবং শনাক্তকৃত অনিয়মের বিশদ বিবরণ;\n• প্রতিষ্ঠানের তর্কিত কোনো বিষয় বিচারাধীন রয়েছে কিনা;\n• প্রস্তুতিমূলক প্রক্রিয়ায় উদ্ভূত অন্য কোন বিষয়।\n\n(৩) প্রস্তুতিমূলক চেকলিস্ট:\nঅডিট কার্য সম্পন্ন করার অভিপ্রায়ে অডিট ফাইল খোলার পর, অডিট টিম প্রতিষ্ঠানের ট্যাক্স আইডেন্টিফিকেশন নম্বর (টিআইএন) কিংবা বিজনেস আইডেন্টিফিকেশন নম্বর (BIN) এর মাধ্যমে অডিট প্রক্রিয়াধীন প্রতিষ্ঠানের ট্র্যানজ্যাকশন এর তথ্য পরিশিষ্ট-১ অনুযায়ী সংগ্রহ এবং কার্যক্রম গ্রহণ করবে।\n\n(৪) চূড়ান্ত অডিট পরিকল্পনা:\nব্যবসায়িক প্রাঙ্গণে প্রাথমিক সভা এবং পরিদর্শনের পরে, ঝুঁকিপূর্ণ ক্ষেত্রগুলোর অডিটের জন্য পরিকল্পনাটি প্রয়োজন অনুযায়ী পরিমার্জন করা যেতে পারে। পরবর্তীতে নিম্নোক্ত বিষয়গুলো একত্রিত করে চূড়ান্ত অডিট পরিকল্পনা তৈরি করা হবে:\n(ক) অডিট কাজের পরিধি;\n(খ) অডিটের উদ্দেশ্য;\n(গ) অডিট প্রোগ্রাম;\n(ঘ) যে সকল প্রাঙ্গণ পরিদর্শন করা হবে, যাদের সাক্ষাৎকার নেওয়া হবে এবং প্রক্রিয়াগুলো পর্যবেক্ষণ করা হবে;\n(ঙ) পরিদর্শনের প্রস্তাবিত সময়;",
+      "entity_concepts": {
+        "System Based Audit": [
+          "This standing order outlines the operational procedures for conducting system-based audits of business entities. It involves a structured approach encompassing initial planning, preliminary data collection, and the development of final audit programs.",
+          "The process requires audit teams to identify high-risk areas, analyze business profiles, and collect comprehensive data from various government and financial departments to inform their audit strategy."
+        ],
+        "Business Identification Number": [
+          "Audit teams must use the Business Identification Number or Tax Identification Number to access and collect transaction data for the entities under audit as specified in the relevant annexes."
+        ],
+        "Tax Identification Number": [
+          "The Tax Identification Number is utilized by the audit team as a primary identifier to retrieve and process transaction records for the institution being audited."
+        ],
+        "Customs Ruling": [
+          "As part of the preliminary data collection process, auditors must review previous customs rulings related to the importer, such as those concerning product classification or valuation, to assess their relevance to the current audit."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_723",
+      "entity_sub_entities": {
+        "System Based Audit": [
+          "operational procedures",
+          "business entities",
+          "initial planning",
+          "preliminary data collection",
+          "final audit programs",
+          "audit teams",
+          "high-risk areas",
+          "business profiles",
+          "government departments",
+          "financial departments",
+          "audit strategy"
+        ],
+        "Business Identification Number": [
+          "Business Identification Number",
+          "Tax Identification Number",
+          "transaction data",
+          "annexes"
+        ],
+        "Tax Identification Number": [
+          "Tax Identification Number",
+          "audit team",
+          "transaction records",
+          "institution"
+        ],
+        "Customs Ruling": [
+          "customs rulings",
+          "importer",
+          "product classification",
+          "valuation"
+        ]
+      },
+      "clause_clusters": [
+        35,
+        39,
+        91,
+        277,
+        340,
+        461,
+        471,
+        580,
+        665,
+        1258,
+        1365,
+        1550,
+        1663,
+        2620,
+        3150,
+        5505,
+        5744,
+        6122,
+        8061,
+        8082,
+        8710,
+        9082,
+        10853,
+        12928
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "অধ্যায়-৩ অডিট কার্যক্রমের ধরণ",
+      "text_id": "metadata_6",
+      "resolved_text": "কাস্টমস পোস্ট ক্লিয়ারেন্স অডিট ম্যানুয়াল, ২০২৩\nঅধ্যায়-৩\nঅডিট কার্যক্রমের ধরণ",
+      "entity_concepts": {
+        "Customs Post Clearance Audit Manual 2023": [
+          "This manual establishes the framework for audit activities in the post-clearance environment.",
+          "Chapter 3 of the manual specifically outlines the various types and operational procedures of audit activities performed by customs authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_91",
+      "entity_sub_entities": {
+        "Customs Post Clearance Audit Manual 2023": [
+          "manual",
+          "audit activities",
+          "post-clearance environment",
+          "Chapter 3",
+          "types of audit activities",
+          "operational procedures",
+          "customs authorities"
+        ]
+      },
+      "clause_clusters": [
+        45,
+        340,
+        898,
+        1230,
+        1547,
+        6308,
+        10772,
+        13049
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "অধ্যায়-৪ রিস্ক ম্যানেজমেন্ট এর ভিত্তিতে অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন কৌশল",
+      "text_id": "metadata_8",
+      "resolved_text": "কাস্টমস পোস্ট ক্লিয়ারেন্স অডিট ম্যানুয়াল, ২০২৩\nঅধ্যায়-৪\nরিস্ক ম্যানেজমেন্ট এর ভিত্তিতে অডিটের জন্য ব্যক্তি/প্রতিষ্ঠান নির্বাচন কৌশল",
+      "entity_concepts": {
+        "Customs Post Clearance Audit Manual 2023": [
+          "This manual outlines the standard procedures for conducting audits after customs clearance has been granted."
+        ],
+        "Risk Analysis": [
+          "Risk management techniques are to be utilized as the primary basis for selecting individuals or business entities for post-clearance audits."
+        ],
+        "Customs Audit Selection": [
+          "Operational procedures are established to determine the strategic selection of subjects for customs audits based on risk-based criteria."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_93",
+      "entity_sub_entities": {
+        "Customs Post Clearance Audit Manual 2023": [
+          "standard procedures",
+          "audits",
+          "customs clearance"
+        ],
+        "Risk Analysis": [
+          "Risk management techniques",
+          "individuals",
+          "business entities",
+          "post-clearance audits"
+        ],
+        "Customs Audit Selection": [
+          "Operational procedures",
+          "subjects",
+          "customs audits",
+          "risk-based criteria"
+        ]
+      },
+      "clause_clusters": [
+        51,
+        236,
+        298,
+        340,
+        363,
+        497,
+        580,
+        795,
+        898,
+        2599,
+        4931,
+        4956,
+        6844,
+        11578
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,1772 @@
+{
+  "cluster_id": 266,
+  "cluster_label": "Warehousing Station",
+  "thread_index": 1,
+  "thread_id": "cluster_00266_t1",
+  "title": "Statutory Framework for Warehousing Operations",
+  "summary": "This thread represents the static legal foundation of warehousing stations as defined in the Customs Act. These clauses establish the powers of the Board to declare stations, appoint public warehouses, and regulate the movement of bonded goods between stations.",
+  "evolution": {
+    "legal_basis": "Remains consistent as the primary authority for customs-bonded warehousing."
+  },
+  "timeline": [
+    {
+      "date": "0000-00-00",
+      "instrument": "Customs Act (General Provisions)",
+      "change": "Replication of core statutory definitions and operational procedures.",
+      "clause_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_11",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_12",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_127",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_128",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_129",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_13",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_2",
+        "customs-act-1969-english_8th March, 1969_clause_11",
+        "customs-act-1969-english_8th March, 1969_clause_111",
+        "customs-act-1969-english_8th March, 1969_clause_12",
+        "customs-act-1969-english_8th March, 1969_clause_126",
+        "customs-act-1969-english_8th March, 1969_clause_127",
+        "customs-act-1969-english_8th March, 1969_clause_128",
+        "customs-act-1969-english_8th March, 1969_clause_129",
+        "customs-act-1969-english_8th March, 1969_clause_2",
+        "metadata_12"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 16,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "ওয়্যারহাউস স্টেশন ঘোষণা করার ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_11",
+      "resolved_text": "১১। ওয়্যারহাউস স্টেশন ঘোষণা করার ক্ষমতা।— বোর্ড, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, যে সকল স্থানে কেবলমাত্র সরকারী ওয়্যারহাউস নিয়োগ করা যায় এবং বেসরকারি ওয়্যারহাউসকে লাইসেন্স প্রদান করা যায় সেই সকল স্থানকে ওয়্যারহাউসিং স্টেশন হিসাবে ঘোষণা করিতে পারিবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to declare specific locations as warehousing stations by issuing notifications in the official gazette."
+        ],
+        "Warehousing Station": [
+          "A warehousing station is a location designated by the National Board of Revenue where public warehouses may be appointed and private warehouses may be granted licenses for operation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_15",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "warehousing stations",
+          "official gazette"
+        ],
+        "Warehousing Station": [
+          "public warehouses",
+          "private warehouses",
+          "licenses"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        112,
+        266,
+        338,
+        735,
+        1261,
+        1440
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "সরকারী ওয়্যারহাউস নিয়োগের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_12",
+      "resolved_text": "১২। সরকারী ওয়্যারহাউস নিয়োগের ক্ষমতা।— কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড হইতে ক্ষমতাপ্রাপ্ত অন্য কোন কমিশনার অব কাস্টমস, সময়ে সময়ে, যে কোন ওয়্যারহাউসিং স্টেশনে সরকারী ওয়্যারহাউস নিয়োগ করিতে পারিবে, যেখানে শুল্ক আরোপযোগ্য পণ্য কাস্টমস-শুল্ক পরিশোধ ব্যতিরেকে জমা রাখা যাইবে।",
+      "entity_concepts": {
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or any other Commissioner of Customs authorized by the National Board of Revenue is empowered to appoint public warehouses at any warehousing station."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue holds the authority to empower Commissioners of Customs to designate official public warehouses."
+        ],
+        "Public Warehouse": [
+          "Public warehouses may be appointed at designated warehousing stations for the storage of dutiable goods without the immediate payment of customs duties."
+        ],
+        "Customs Duty": [
+          "Dutiable goods may be stored in an appointed public warehouse without the requirement to pay customs duty at the time of entry into the warehouse."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_16",
+      "entity_sub_entities": {
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "Commissioner of Customs",
+          "National Board of Revenue",
+          "public warehouses",
+          "warehousing station"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "Commissioners of Customs",
+          "public warehouses"
+        ],
+        "Public Warehouse": [
+          "public warehouses",
+          "warehousing stations",
+          "dutiable goods",
+          "customs duties"
+        ],
+        "Customs Duty": [
+          "dutiable goods",
+          "public warehouse",
+          "customs duty"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        10,
+        14,
+        226,
+        266,
+        452,
+        609,
+        735,
+        1261
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_127",
+      "clause_title": "পণ্য এক ওয়্যারহাউসিং স্টেশন হইতে অন্য ওয়্যারহাউসিং স্টেশনে অপসারণের ক্ষমতা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_127",
+      "resolved_text": "১০০। পণ্য এক ওয়্যারহাউসিং স্টেশন হইতে অন্য ওয়্যারহাউসিং স্টেশনে অপসারণের ক্ষমতা।— (১) কোন ওয়্যারহাউসিং স্টেশন ওয়্যারহাউসকৃত পণ্যের কোন মালিক ধারা ৯৮ এর অধীন ওয়্যারহাউসিং এর সময়সীমার মধ্যে অন্য কোন ওয়্যারহাউসিং স্টেশন ওয়্যারহাউসিং এর উদ্দেশ্যে উহা অপসারণ করিতে পারিবেন।\n(২) যখন কোন মালিক উক্ত উদ্দেশ্যে কোন পণ্য অপসারণের ইচ্ছা করেন তখন তিনি বোর্ড যেরূপ নির্ধারণ করে সেইরূপ ফরমে এবং পদ্ধতিতে যে পণ্য অপসারণ করা হইবে তাহার বিবরণ এবং যে কাস্টমস স্টেশন অপসারিত হইবে তাহার নাম উল্লেখপূর্বক কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড কর্তৃক ক্ষমতা প্রদত্ত অন্য কোন কমিশনারের নিকট আবেদন করিবেন।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The owner of bonded goods is authorized to move goods from one warehousing station to another within the prescribed time limits established under the Customs Act.",
+          "To initiate the removal of goods, the owner must submit an application to the Commissioner of Customs (Bond) or another authorized Commissioner in the prescribed form and manner.",
+          "The application for the removal of goods must specify the details of the goods being moved and identify the customs station to which the goods will be transported."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to define the specific forms and procedures required for the application process when moving bonded goods between stations.",
+          "The National Board of Revenue holds the authority to designate which officers are empowered to accept and process applications for the removal of goods."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) is the designated authority responsible for reviewing and authorizing applications from goods owners for the transfer of bonded merchandise between stations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_131",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "bonded goods",
+          "warehousing station",
+          "time limits",
+          "Customs Act",
+          "application",
+          "Commissioner of Customs (Bond)",
+          "authorized Commissioner",
+          "goods",
+          "customs station"
+        ],
+        "National Board of Revenue": [
+          "forms",
+          "procedures",
+          "bonded goods",
+          "stations",
+          "officers",
+          "applications"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "applications",
+          "goods owners",
+          "bonded merchandise",
+          "stations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        25,
+        37,
+        58,
+        61,
+        68,
+        150,
+        266,
+        273,
+        579,
+        614,
+        643,
+        748,
+        977,
+        6043,
+        8479
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_128",
+      "clause_title": "গন্তব্যের ওয়্যারহাউসিং স্টেশনের কর্মকর্তাগণের নিকট পণ্যের হিসাব প্রেরণ",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_128",
+      "resolved_text": "১০১। গন্তব্যের ওয়্যারহাউসিং স্টেশনের কর্মকর্তাগণের নিকট পণ্যের হিসাব প্রেরণ।— (১) যখন ধারা ১০০ এর অধীনে এক ওয়্যারহাউসিং স্টেশন হইতে অন্য স্টেশনে কোন পণ্য অপসারণের অনুমতি মঞ্জুর করা হয় তখন অপসারণের কাস্টমস-স্টেশনের যথাযথ কর্মকর্তা কর্তৃক পণ্যের বিবরণ সম্বলিত একটি হিসাব গন্তব্যের কাস্টমস-স্টেশনের যথাযথ কর্মকর্তার নিকট প্রেরণ করা হইবে।\n(২) যে ব্যক্তির পণ্য অপসারণ প্রয়োজন তিনি উক্তরূপ অপসারণের পূর্বে কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড কর্তৃক ক্ষমতা প্রদত্ত অন্য কোন কমিশনার অব কাস্টমস যেরূপ নির্দেশ করেন সেইরূপ সময়ের মধ্যে পণ্য গন্তব্যের ওয়্যারহাউসিং কাস্টমস-স্টেশনে সঠিকভাবে পৌঁছার এবং পুনওয়্যারহাউসিং এর জন্য উক্ত পণ্যের উপর আরোপণীয় শুল্কের কমপক্ষে সমপরিমাণ অর্থের একটি বন্ড পর্যাপ্ত জামানতসহ দায়বদ্ধ হইবেন।\n(৩) মালিকের সর্বোত্তম সুবিধা অনুসারে উক্ত বন্ড যথাযথ কর্মকর্তা কর্তৃক অপসারণের কাস্টমস-স্টেশন অথবা গন্তব্যের কাস্টমস-স্টেশনে গ্রহণ করা যাইবে।\n(৪) উক্ত বন্ড যদি গন্তব্যের কাস্টমস-স্টেশনে গ্রহণ করা হয়, তাহা হইলে সেই কাস্টমস-স্টেশনের যথাযথ কর্মকর্তা কর্তৃক স্বাক্ষরিত একটি প্রত্যয়নপত্র পণ্য অপসারণের সময় অপসারণের কাস্টমস-স্টেশনের যথাযথ কর্মকর্তার নিকট পেশ করিতে হইবে; এইরূপ অপসারণের জন্য এবং অনুমোদিত সময়ের মধ্যে উক্ত পণ্য যথাযথ কর্মকর্তার নিকট উপস্থাপন এবং সঠিকভাবে গন্তব্যের কাস্টমস-স্টেশনে পুনওয়্যারহাউসকৃত করা না হইলে অথবা উক্ত কর্মকর্তার সন্তোষমত অন্যভাবে হিসাব প্রদান না করা পর্যন্ত, অথবা হিসাব না পাওয়া উক্ত পণ্যের ঘাটতির উপর প্রদেয় সম্পূর্ণ শুল্ক পরিশোধ না করা পর্যন্ত উক্ত বন্ড অবমুক্ত করা যাইবে না।\n(৫) পূর্বোক্ত উপ-ধারাসমূহে যাহা কিছুই থাকুক না কেন, কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড কর্তৃক ক্ষমতা প্রদত্ত অন্য কোন কমিশনার অব কাস্টমস স্পেশাল বন্ডেড ওয়্যারহাউস হইতে ওয়্যারহাউসকৃত পণ্যের অপসারণের জন্য তিনি যেরূপ উপযুক্ত বিবেচনা করেন সেইরূপ শর্তাবলী নির্ধারণ করিতে পারিবেন।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "The procedure for transferring goods from one warehousing station to another requires a detailed account of the goods to be sent by the customs officer at the station of removal to the customs officer at the destination.",
+          "The owner must execute a bond with sufficient security covering the full amount of duties chargeable on the goods to ensure their arrival and re-warehousing at the destination within a specified timeframe.",
+          "The bond remains in force until the goods are successfully re-warehoused or accounted for to the satisfaction of the appropriate officer, or until any duty on shortages is fully paid.",
+          "The Commissioner of Customs (Bond) or any other authorized Commissioner has the authority to prescribe specific terms and conditions for the removal of goods from a special bonded warehouse."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer at the station of removal is responsible for sending the account of goods to the destination station.",
+          "The appropriate officer has the discretion to accept the required bond at either the station of removal or the destination station based on the owner's convenience."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or a commissioner authorized by the National Board of Revenue is empowered to determine the timeframe for re-warehousing and to set specific conditions for the removal of goods from special bonded warehouses."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the authority to empower Commissioners of Customs to oversee the transfer of goods and set conditions for bonded warehouse operations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_132",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "goods",
+          "warehousing station",
+          "customs officer",
+          "bond",
+          "security",
+          "duties",
+          "special bonded warehouse"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "station of removal",
+          "destination station",
+          "bond",
+          "owner"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "commissioner",
+          "National Board of Revenue",
+          "special bonded warehouses"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioners of Customs",
+          "goods",
+          "bonded warehouse operations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        17,
+        30,
+        49,
+        61,
+        64,
+        69,
+        120,
+        187,
+        209,
+        266,
+        379,
+        452,
+        564,
+        4936,
+        7280
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_129",
+      "clause_title": "অপসারণকারী একটি সাধারণ বন্ডে দায়বদ্ধ হইতে পারিবেন",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_129",
+      "resolved_text": "১০২। অপসারণকারী একটি সাধারণ বন্ডে দায়বদ্ধ হইতে পারিবেন।— কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড কর্তৃক ক্ষমতা প্রদত্ত অন্য কোন কমিশনার অব কাস্টমস একই অথবা পৃথক ওয়্যারহাউসিং স্টেশনের এক ওয়্যারহাউস হইতে অন্য ওয়্যারহাউসে সময়ে সময়ে কোন পণ্য অপসারণের জন্য এবং উক্ত কমিশনারের যেরূপ নির্দেশ প্রদান করেন সেইরূপ সময়ের মধ্যে তাহাদের যথাযথভাবে গন্তব্যে পৌঁছা ও পুনওয়ারহাউসিং এর জন্য কোন ইচ্ছুক ব্যক্তিকে উক্ত কমিশনারের যেরূপ অনুমোদন করেন সেইরূপ পরিমাণ অর্থের এবং সেইরূপ শর্তাবলীর জামানতসহ একটি সাধারণ বন্ডে দায়বদ্ধ হওয়ার অনুমতি প্রদান করিতে পারিবেন।",
+      "entity_concepts": {
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond) or any other authorized Commissioner of Customs has the power to grant permission to a willing person to enter into a general bond.",
+          "They are responsible for determining the specific terms, conditions, and the amount of security required for such bonds."
+        ],
+        "Bonded Warehouse Operation": [
+          "This clause provides a mechanism for the movement of goods from one warehouse to another, either within the same warehousing station or between different ones.",
+          "The operation requires the entity responsible for the removal of goods to enter into a general bond, ensuring that goods reach their final destination and are re-warehoused within the timeframe and conditions stipulated by the Commissioner of Customs."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_133",
+      "entity_sub_entities": {
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "authorized Commissioner of Customs",
+          "general bond",
+          "terms",
+          "conditions",
+          "amount of security"
+        ],
+        "Bonded Warehouse Operation": [
+          "goods",
+          "warehouse",
+          "warehousing station",
+          "general bond",
+          "Commissioner of Customs"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        61,
+        74,
+        99,
+        266,
+        353,
+        1486,
+        5480
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_13",
+      "clause_title": "বেসরকারী ওয়্যারহাউসের লাইসেন্স প্রদান",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_13",
+      "resolved_text": "১৩। বেসরকারী ওয়্যারহাউসের লাইসেন্স প্রদান।— (১) উপধারা (২) সাপেক্ষে, কোন ওয়্যারহাউসিং স্টেশনে কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড হইতে ক্ষমতাপ্রাপ্ত অন্য কোন কমিশনার অব কাস্টমস বেসরকারি ওয়্যারহাউস লাইসেন্স প্রদান করিতে পারিবেন, যেখানে লাইসেন্সধারী কর্তৃক বা তাহার পক্ষে আমদানিকৃত শুল্ক আরোপযোগ্য পণ্য অথবা সরকারী ওয়্যারহাউসে জমা রাখার সুবিধা লভ্য নয় আমদানিকৃত এইরূপ অন্য আমদানিকৃত কোন পণ্য জমা রাখা যাইবে।\n\n(২) বোর্ড, সময়ে সময়ে, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা -\n(ক) বেসরকারি ওয়্যারহাউসের জন্য লাইসেন্স মঞ্জুর করার উপর;\n(খ) ওয়্যারহাউসকৃত হইবে এমন পণ্যের উপর; এবং\n(গ) ওয়্যারহাউসের আমদানি স্বত্বের উপর\n\n- শর্তাবলী অথবা নিয়ন্ত্রণসমূহ আরোপ করিতে পারিবে।\n\n(৩) উপধারা (১) এর অধীন প্রদত্ত লাইসেন্স কমিশনার অব কাস্টমস (বন্ড) অথবা বোর্ড হইতে ক্ষমতাপ্রাপ্ত অন্য কোন কমিশনার অব কাস্টমস সাময়িকভাবে বাতিল অথবা বাতিল করিতে পারিবেন -\n\n(ক) যদি লাইসেন্সধারী এই আইনের অথবা তদ্বাধীনে প্রণীত বিধিমালার কোন বিধান লঙ্ঘন করেন বা লাইসেন্সের কোন শর্ত ভঙ্গ করেন; অথবা\n\n(খ) যে ক্ষেত্রে জনস্বার্থে কোন লাইসেন্স সাময়িকভাবে বাতিল অথবা বাতিল করা তিনি উপযুক্ত বিবেচনা করেন সেই ক্ষেত্রে :\n\nতবে শর্ত থাকে যে, কোন লাইসেন্স বাতিল করার ক্ষেত্রে লাইসেন্সধারীকে এক মাসের কারণ দর্শানো নোটিশ এবং যুক্তিসঙ্গত শুনানির সুযোগ প্রদান করিতে হইবে।",
+      "entity_concepts": {
+        "Private Warehouse": [
+          "A private warehouse may be licensed in a warehousing station by the Commissioner of Customs (Bond) or another authorized Commissioner of Customs.",
+          "These facilities are designated for the deposit of dutiable goods imported by or on behalf of the licensee, or other imported goods for which storage in a government warehouse is not available.",
+          "The National Board of Revenue may impose conditions or controls regarding the licensing, the types of goods stored, and import rights associated with these warehouses."
+        ],
+        "National Board of Revenue": [
+          "The Board acts as the primary regulatory authority empowered to set conditions, controls, and restrictions on the operation, goods, and import rights of private warehouses through official gazette notifications.",
+          "The Board may also authorize other Commissioners of Customs to perform licensing functions."
+        ],
+        "Commissioner of Customs": [
+          "This official is responsible for the granting of licenses for private warehouses within a warehousing station.",
+          "They have the authority to suspend or revoke a license if the licensee violates the provisions of the Customs Act, relevant rules, or specific license conditions, or if it is deemed in the public interest to do so."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework for the regulation of private warehouses, including the authority for licensing, the imposition of regulatory conditions, and the procedures for suspension or revocation of licenses."
+        ],
+        "Licensee": [
+          "A licensee of a private warehouse must adhere to all statutory provisions and license conditions.",
+          "In the event of a violation of these conditions or laws, a licensee is entitled to a one-month show-cause notice and a reasonable opportunity for a hearing before a license can be revoked."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_17",
+      "entity_sub_entities": {
+        "Private Warehouse": [
+          "private warehouse",
+          "warehousing station",
+          "dutiable goods",
+          "imported goods",
+          "government warehouse"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "official gazette notifications",
+          "Commissioners of Customs"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "Commissioner of Customs",
+          "license",
+          "Customs Act",
+          "license conditions"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "private warehouses",
+          "licensing",
+          "regulatory conditions",
+          "suspension",
+          "revocation of licenses"
+        ],
+        "Licensee": [
+          "licensee",
+          "private warehouse",
+          "statutory provisions",
+          "license conditions",
+          "show-cause notice",
+          "hearing"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        7,
+        8,
+        37,
+        84,
+        190,
+        226,
+        266,
+        288,
+        378,
+        452,
+        721,
+        867,
+        1414,
+        1416,
+        1440,
+        1483,
+        1666,
+        2079,
+        2272,
+        11537
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— বিষয় অথবা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই আইনে—\n\n(ক) “এজেন্ট” অর্থ ধারা ২০৭ এর অধীন লাইসেন্সকৃত কোন ব্যক্তি, এবং শিপিং এজেন্ট, ক্লিয়ারিং এন্ড ফরোয়ার্ডিং এজেন্ট, কার্গো এজেন্ট, ফ্রেট ফরোয়ার্ডিং এজেন্ট ও স্টিভডোর অথবা ধারা ২০৮ এর অধীন কার্যবলী পরিচালনা করার জন্য অনুমতিপ্রাপ্ত কোন ব্যক্তি ইহার অন্তর্ভুক্ত হইবে;\n\n(কক) “আপীলাত ট্রাইব্যুনাল” অর্থ ধারা ১৯৬ এর অধীন গঠিত কাস্টমস এক্সাইজ এবং মূল্য সংযোজন কর আপীলাত ট্রাইব্যুনাল ;\n\n(খ) “যথোপযুক্ত কর্মকর্তা” অর্থ এই আইনের অধীন দায়িত্ব পালন সম্পর্কিত বিষয়ে এই আইন দ্বারা অথবা এই আইনের অধীন উক্ত দায়িত্ব পালনের জন্য ক্ষমতাপ্রাপ্ত কোন কাস্টমস কর্মকর্তা ;\n\n(খখ) “বাংলাদেশ কাস্টমস্ জলসীমা” অর্থ বাংলাদেশের যথোপযুক্ত উপকূলের তটরেখা হইতে পরিমাপকৃত বারো নটিকাল মাইল দূরত্ব পর্যন্ত সমুদ্রের মধ্যে বিস্তৃত জলসীমা ;\n\n(গ) “বিল অব এন্ট্রি” অর্থ ধারা ৭৯ এর অধীন দাখিলকৃত বিল অব এন্ট্রি, এবং বোর্ড কর্তৃক নির্ধারিত ক্ষেত্রে নির্দেশিত পদ্ধতি অবলম্বন করিয়া ইলেকট্রনিক মাধ্যমে প্রেরিত নির্দিষ্ট বিবরণ সম্বলিত বিল অব এন্ট্রিও ইহার অন্তর্ভুক্ত হইবে;\n\n(ঘ) “বিল অব এক্সপোর্ট” অর্থ ধারা ১৩১ এর অধীন দাখিলকৃত বিল অব এক্সপোর্ট, এবং বোর্ড কর্তৃক নির্ধারিত ক্ষেত্রে নির্দেশিত পদ্ধতি অবলম্বন করিয়া ইলেকট্রনিক মাধ্যমে প্রেরিত নির্দিষ্ট বিবরণ সম্বলিত বিল অব এক্সপোর্টও ইহার অন্তর্ভুক্ত হইবে ;\n\n(ঙ) “বোর্ড” অর্থ ন্যাশনাল বোর্ড অব রেভিনিউ অর্ডার, ১৯৭২ (১৯৭২ সনের পি.ও.নং ৭৬) এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড ;\n\n(চ) “উপকূলীয় পণ্য” অর্থ বাংলাদেশের এক বন্দর হইতে অন্য বন্দরে কোন জাহাজযোগে পরিবহনকৃত পণ্য, কিন্তু ইহাতে কাস্টমস শুল্ক পরিশোধিত হয় নাই এমন আমদানিকৃত পণ্য অন্তর্ভুক্ত হইবে না ;\n\n(চচ) “কন্টেইনার” অর্থ কোন স্থায়ী আধার যাহা এক মিটার অথবা তাহার অধিক অভ্যন্তরীণ আয়তন বিশিষ্ট, যাহা পণ্য ধারণ করার জন্য সম্পূর্ণ অথবা আংশিক পরিবেষ্টিত কামরা কাঠামোয় তৈরী এবং যাহা মধ্যবর্তী পুনঃবোঝাই না করিয়া এক অথবা একাধিক পরিবহন মাধ্যমে পরিবহন সুবিধার জন্য বিশেষভাবে নকশাকৃত, বিশেষ করিয়া যাহা এক পরিবহন মাধ্যম হইতে অন্য পরিবহন মাধ্যমে স্থানান্তরযোগ্য এবং বারে বারে ব্যবহারের জন্য যথেষ্ট মজবুত;\n\n(চচচ) “নিয়ন্ত্রণকারী কর্তৃপক্ষ” অর্থ কোন কাস্টমস-বিমানবন্দর, কাস্টমস-বন্দর, কাস্টমস-ইনল্যান্ড কন্টেইনার ডিপো অথবা কাস্টমস-স্টেশন সংশ্লিষ্ট এলাকার মালিক অথবা উহার আইনী দখলদার অথবা উহাতে আইনী নিয়ন্ত্রণ আছে এমন কোন ব্যক্তি;\n\n(ছ) “যানবাহন” অর্থ পণ্য অথবা যাত্রী পরিবহনের জন্য ব্যবহৃত যে কোন প্রকার যানবাহন, যথা: জাহাজ, উড়োজাহাজ, গাড়ি অথবা পশু ;\n\n(জ) “কাস্টমস-বিমানবন্দর” অর্থ ধারা ৯ এর অধীন কাস্টমস-বিমানবন্দর হিসাবে ঘোষিত কোন বিমানবন্দর;\n\n(ঝ) “কাস্টমস এলাকা” অর্থ ধারা ১০ এর অধীন নির্ধারিত কাস্টমস-স্টেশনের সীমা, এবং কাস্টমস কর্তৃপক্ষ কর্তৃক খালাস প্রদানের পূর্বে যে এলাকায় আমদানিকৃত অথবা রপ্তানির জন্য পণ্য সাধারণত রক্ষিত থাকে সেই এলাকাও ইহার অন্তর্ভুক্ত;\n\n(ঝঝ) “কাস্টমস কম্পিউটার সিস্টেম” অর্থ এই আইনের উদ্দেশ্য পূরণকল্পে বোর্ড কর্তৃক প্রতিষ্ঠিত কাস্টমস কম্পিউটারাইজড্ এন্ট্রি প্রক্রিয়া করণ পদ্ধতি;\n\n(ঝঝঝ) “কাস্টমস-ইনল্যান্ড কন্টেইনার ডিপো” অর্থ ধারা ৯ এর অধীন কাস্টমস অভ্যন্তরীণ কন্টেইনার ডিপো হিসাবে ঘোষিত কোন এলাকা ;\n\n(ঞ) “কাস্টমস-বন্দর” অর্থ ধারা ৯ এর অধীন পণ্য বোঝাই ও খালাস করার জন্য বন্দর হিসাবে ঘোষিত কোন এলাকা;\n\n(ট) “কাস্টমস-স্টেশন” অর্থ কোন কাস্টমস-বন্দর, কাস্টমস-বিমানবন্দর অথবা কোন স্থল কাস্টমস-স্টেশন;\n\n(টট) “রপ্তানি ম্যানিফেস্ট” অর্থ ধারা ৫৩ এর অধীন অর্পিত কোন রপ্তানি ম্যানিফেস্ট, এবং বোর্ড যেরূপ নির্ধারিত করে সেইরূপ ক্ষেত্রে, সেইরূপ পদ্ধতিতে এবং সেইরূপ বিবরণ সম্বলিত ইলেকট্রনিক মাধ্যমে প্রেরিত রপ্তানি ম্যানিফেস্ট ইহার অন্তর্ভুক্ত ;\n\n(ঠ) “পণ্য” অর্থ সকল অস্থাবর পণ্য, এবং -\n(অ) যানবাহন;\n(আ) ভান্ডার সামগ্রী ও উপকরণ সামগ্রী;\n(ই) ব্যাগেজ; এবং\n(ঈ) মুদ্রা এবং বিনিময়যোগ্য দলিলপত্র; এবং\n(উ) ইলেকট্রনিক তথ্য ইহার অন্তর্ভুক্ত।\n\n(ঠঠ) “আমদানি ম্যানিফেস্ট” অর্থ ধারা ৪৩ অথবা ধারা ৪৪ এর অধীন অর্পিত কোন আমদানি ম্যানিফেস্ট, এবং বোর্ড যেরূপ নির্ধারণ করে সেইরূপ ক্ষেত্রে, সেইরূপ আমদানি ম্যানিফেস্ট, এবং বোর্ড যেরূপ নির্ধারণ করে সেইরূপ ক্ষেত্রে, সেইরূপ পদ্ধতিতে এবং সেইরূপ বিবরণ সম্বলিত ইলেকট্রনিক মাধ্যমে প্রেরিত আমদানি ম্যানিফেস্ট ইহার অন্তর্ভুক্ত;\n\n(ড) “ল্যান্ড কাস্টমস-স্টেশন” অর্থ ধারা ৯ এর অধীন অভ্যন্তরীণ নদী বন্দরসহ স্থল কাস্টমস-স্টেশন হিসাবে ঘোষিত কোন স্থান;\n\n(ঢ) “মাস্টার” অর্থ, জাহাজ সম্পর্কে ব্যবহারের ক্ষেত্রে, পাইলট অথবা হারবার মাস্টার ব্যতীত উক্ত জাহাজের উপর কর্তৃত্ব বা দায়িত্ব আছে এমন কোন ব্যক্তি;\n\n(ণ) “কাস্টমস কর্মকর্তা” অর্থ ধারা ৩ এর অধীন নিযুক্ত কোন কর্মকর্তা ;\n\n(ত) “ব্যক্তি” বলিতে কোন কোম্পানী, অংশীদারিত্বমূলক প্রতিষ্ঠান, সমিতি অথবা ব্যক্তি সংঘ অন্তর্ভুক্ত হইবে;\n\n(থ) “ভারপ্রাপ্ত ব্যক্তি” অর্থ -\n(অ) জাহাজের ক্ষেত্রে, জাহাজের মাস্টার,\n(আ) উড়োজাহাজের ক্ষেত্রে, উড়োজাহাজের অধিনায়ক বা ভারপ্রাপ্ত পাইলট,\n(ই) রেলওয়ে ট্রেনের ক্ষেত্রে, ট্রেনের কন্ডাক্টর, গার্ড বা মুখ্য পরিচালক হিসাবে অন্য কোন ব্যক্তি,\n(ঈ) অন্য যানবাহনের ক্ষেত্রে, যানবাহনের ড্রাইভার বা নিয়ন্ত্রণকারী অন্য কোন ব্যক্তি\n\n(থথ) “প্রি-শিপমেন্ট ইন্সপেকশন এজেন্সী” অর্থ ধারা ২৫ক এর অধীন প্রি-শিপমেন্ট এজেন্সী হিসাবে নিযুক্ত কোন ব্যক্তি এবং উক্ত ব্যক্তির কোন প্রতিনিধি ইহার অন্তর্ভুক্ত হইবে;\n\n(থথথ) “নির্ধারিত” অর্থ বিধিমালা দ্বারা অথবা, ক্ষেত্রমত, আদেশ দ্বারা নির্ধারিত;\n\n(থথথথ) “নিবন্ধিত ব্যবহারকারী”, কাস্টমস কম্পিউটার সিস্টেমের ক্ষেত্রে, অর্থ উক্ত সিস্টেম ব্যবহারকারী এবং যিনি এই আইনের উদ্দেশ্যে নিবন্ধিত;\n\n(দ) “বিধিমালা” অর্থ এই আইনের অধীন প্রণীত বিধিমালা;\n\n(ধ) “চোরাচালান করা” অর্থ আপাততঃ বলবৎ কোন নিষিদ্ধকরণ অথবা নিয়ন্ত্রণ লঙ্ঘন করিয়া অথবা আরোপণীয় কাস্টমস-শুল্ক ও কর ফাঁকি দিয়া -\n(অ) মাদক দ্রব্য, নেশাজাতীয় ঔষধ বা সাইকোট্রপিক বস্তু; অথবা\n(আ) স্বর্ণ বুলিয়ন, রৌপ্য বুলিয়ন, প্লাটিনাম, প্যালাডিয়াম, রেডিয়াম, মহামূল্যবান পাথর, মুদ্রা, স্বর্ণ বা রৌপ্য বা প্লাটিনাম বা প্যালাডিয়াম বা মহামূল্য পাথরের তৈরী অলংকার অথবা প্রতিটি ক্ষেত্রে দশ লক্ষ টাকার অধিক মূল্যের সরকার কর্তৃক সরকারী গেজেটে প্রজ্ঞাপিত অন্য কোন পণ্য; অথবা\n(ই) কোন জাহাজ, নৌযান বা উড়োজাহাজ বা অন্য কোন যানবাহনের কোন স্থানে বা কোন ব্যাগেজে বা কোন পণ্যের মধ্যে অথবা কোন ব্যক্তির দেহে যে কোন প্রকারে লুকানো কোন পণ্য; অথবা\n(ঈ) ধারা ৯ অথবা ১০ এর অধীন ঘোষিত রুট ব্যতীত অন্য কোন রুটে কাস্টমস স্টেশন ব্যতীত অন্য কোন স্থান হইতে অন্য কোন পণ্য বাংলাদেশের অভ্যন্তরে আনয়ন করা অথবা বাহিরে নেওয়া; এবং উক্ত পণ্য সমূহ উল্লিখিতভাবে আনয়ন করার অথবা বাহিরে নেওয়ার জন্য কোন প্রচেষ্টা, প্ররোচনা অথবা সমর্থন করা ইহার অন্তর্ভুক্ত হইবে এবং সকল সমজাতীয় শব্দ ও অভিব্যক্তি সমূহের ব্যাখ্যা তদানুসারে করা হইবে।\n\n(ন) “স্পেশাল বন্ডেড ওয়্যারহাউস ” অর্থ ধারা ১৩ এর অধীন লাইসেন্সকৃত বেসরকারি ওয়্যারহাউস, যাহা ধারা ৯১ এর উপধারা (২) এর বিধান হইতে অব্যাহতির উদ্দেশ্যে বোর্ড কর্তৃক একশত শতাংশ রপ্তানিকারক শিল্প হিসাবে নির্ধারিত;\n\n(নন) “ওয়্যারহাউস” অর্থ ধারা ১২ এর অধীন নিয়োজিত অথবা ধারা ১৩ এর অধীন লাইসেন্সকৃত কোন স্থান;\n\n(প) “ওয়্যারহাউসিং স্টেশন” অর্থ ধারা ১১ এর অধীন ওয়্যারহাউসিং স্টেশন হিসাবে ঘোষিত কোন স্থান;\n\n(ফ) “জেটি” অর্থ ধারা ১০ এর দফা (খ) এর অধীন কাস্টমস-বন্দরে পণ্য অথবা কোন পণ্য শ্রেণী বোঝাই এবং খালাস করার জন্য অনুমোদিত কোন স্থান।",
+      "entity_concepts": {
+        "Agent": [
+          "An agent is defined as any person licensed under the specific provisions of this Act to carry out customs-related functions.",
+          "This definition encompasses shipping agents, clearing and forwarding agents, cargo agents, freight forwarders, stevedores, or any person otherwise authorized to perform such duties."
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "This body is established under the relevant section of the Act to serve as the appellate authority for customs, excise, and value added tax matters."
+        ],
+        "Appropriate Officer of Customs": [
+          "This refers to any customs official who is empowered by the Act or authorized to perform specific duties related to the administration of customs law."
+        ],
+        "Bangladesh customs-waters": [
+          "This is defined as the maritime zone extending up to a specified distance of nautical miles from the baseline of the Bangladeshi coast."
+        ],
+        "Bill of Entry": [
+          "A bill of entry is the formal document submitted under the Act for the clearance of imported goods.",
+          "This definition includes those submitted in electronic form using procedures determined by the National Board of Revenue."
+        ],
+        "Bill of Export": [
+          "A bill of export is the document required for the export of goods as per the Act, including electronic submissions filed under the methods directed by the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Board refers to the national apex body for revenue administration established under the relevant Presidential Order."
+        ],
+        "Coastal Goods": [
+          "These are goods transported by vessel from one port to another within Bangladesh, excluding any imported goods for which customs duties have not been paid."
+        ],
+        "Container": [
+          "A container is a durable, reusable vessel of a specific minimum volume designed for transport of goods across different modes without intermediate reloading.",
+          "It must be fully or partially enclosed and specifically constructed to be easily transferable between various transport infrastructures."
+        ],
+        "Controlling Authority": [
+          "This refers to any person who holds legal ownership, possession, or control over a customs airport, customs port, inland container depot, or customs station."
+        ],
+        "Conveyance": [
+          "The term includes any means of transport used for passengers or goods, specifically encompassing ships, aircraft, vehicles, or animals."
+        ],
+        "Customs Airport": [
+          "A customs airport is any airport officially declared or notified as such under the enabling section of the Act."
+        ],
+        "Customs-area": [
+          "This refers to the designated boundaries of a customs station, as well as any specific location where imported or export-bound goods are stored prior to customs clearance."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system consists of the digital platform established by the National Board of Revenue for the purpose of carrying out customs processing activities under this Act."
+        ],
+        "Customs-inland container depot": [
+          "This is any specific area declared as an inland container depot under the governing provisions of the Act."
+        ],
+        "Customs Port": [
+          "A customs port is any area declared or notified under the Act for the specific purpose of loading and unloading goods."
+        ],
+        "Customs Station": [
+          "This encompasses the collective definition of customs ports, customs airports, and land customs stations."
+        ],
+        "Export Manifest": [
+          "An export manifest is the document filed under the Act for exported goods, and includes electronic versions as prescribed by the National Board of Revenue."
+        ],
+        "Goods": [
+          "The definition of goods is broad, covering all movable property including vehicles, stores, baggage, currency, negotiable instruments, and electronic data."
+        ],
+        "Import Manifest": [
+          "This refers to the declaration of imported cargo filed under the Act, including those transmitted electronically in accordance with the standards set by the National Board of Revenue."
+        ],
+        "Land Customs Station": [
+          "This includes any place, such as inland river ports or land border points, declared as a land customs station under the relevant section of the Act."
+        ],
+        "Master": [
+          "In the context of a ship, this refers to any person having command or charge of the vessel, excluding pilots or harbour masters."
+        ],
+        "Officer of Customs": [
+          "This means any person appointed to exercise customs powers under the section of the Act dealing with the appointment of officers."
+        ],
+        "Person": [
+          "The term person includes legal entities such as companies, partnerships, associations, or bodies of persons."
+        ],
+        "Person in Charge": [
+          "This refers to the individual responsible for the operation of a conveyance, such as the master of a ship, pilot of an aircraft, conductor or guard of a train, or driver of a vehicle."
+        ],
+        "Pre-shipment Inspection Agency": [
+          "This refers to any individual or entity, including their authorized representatives, appointed under the Act to conduct pre-shipment inspections of goods."
+        ],
+        "Prescribed": [
+          "This term means determined or set out through statutory rules or official orders issued under the authority of this Act."
+        ],
+        "Registered User": [
+          "This refers to any party specifically registered to access and utilize the Customs Computerised Entry Processing System for the purposes of the Act."
+        ],
+        "Rules": [
+          "This refers to the regulations and legal instruments framed under the enabling powers of this Act."
+        ],
+        "Smuggling": [
+          "Smuggling involves the illegal importation or exportation of goods by evading duties, violating prohibitions, or using non-authorized routes and stations.",
+          "It includes concealing goods on a person, in baggage, or within conveyances, and extends to any attempt, abetment, or support of such illegal transport activities."
+        ],
+        "Special Bonded Warehouse": [
+          "This is a private warehouse licensed under the Act that is designated by the National Board of Revenue as an export-oriented industrial unit, qualifying for specific exemptions."
+        ],
+        "Warehouse": [
+          "A warehouse is any place appointed or licensed under the relevant sections of the Act for the secure storage of goods."
+        ],
+        "Warehousing Station": [
+          "This refers to any specific location declared as a warehousing station under the provisions of the Act."
+        ],
+        "Jetty": [
+          "A jetty is an area within a customs port that has been specifically approved for the loading and unloading of goods or specific classes of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_6",
+      "entity_sub_entities": {
+        "Agent": [
+          "shipping agents",
+          "clearing and forwarding agents",
+          "cargo agents",
+          "freight forwarders",
+          "stevedores"
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "customs",
+          "excise",
+          "value added tax matters"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs official"
+        ],
+        "Bangladesh customs-waters": [
+          "maritime zone"
+        ],
+        "Bill of Entry": [
+          "formal document",
+          "electronic form"
+        ],
+        "Bill of Export": [
+          "document",
+          "electronic submissions"
+        ],
+        "National Board of Revenue": [
+          "national apex body"
+        ],
+        "Coastal Goods": [
+          "goods",
+          "vessel"
+        ],
+        "Container": [
+          "durable, reusable vessel"
+        ],
+        "Controlling Authority": [
+          "customs airport",
+          "customs port",
+          "inland container depot",
+          "customs station"
+        ],
+        "Conveyance": [
+          "ships",
+          "aircraft",
+          "vehicles",
+          "animals"
+        ],
+        "Customs Airport": [
+          "airport"
+        ],
+        "Customs-area": [
+          "customs station",
+          "location"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "digital platform"
+        ],
+        "Customs-inland container depot": [
+          "inland container depot"
+        ],
+        "Customs Port": [
+          "area"
+        ],
+        "Customs Station": [
+          "customs ports",
+          "customs airports",
+          "land customs stations"
+        ],
+        "Export Manifest": [
+          "document",
+          "electronic versions"
+        ],
+        "Goods": [
+          "movable property",
+          "vehicles",
+          "stores",
+          "baggage",
+          "currency",
+          "negotiable instruments",
+          "electronic data"
+        ],
+        "Import Manifest": [
+          "imported cargo",
+          "electronic transmissions"
+        ],
+        "Land Customs Station": [
+          "inland river ports",
+          "land border points"
+        ],
+        "Master": [
+          "ship"
+        ],
+        "Officer of Customs": [
+          "person"
+        ],
+        "Person": [
+          "companies",
+          "partnerships",
+          "associations",
+          "bodies of persons"
+        ],
+        "Person in Charge": [
+          "master of a ship",
+          "pilot of an aircraft",
+          "conductor of a train",
+          "guard of a train",
+          "driver of a vehicle"
+        ],
+        "Pre-shipment Inspection Agency": [
+          "individual",
+          "entity",
+          "authorized representatives"
+        ],
+        "Prescribed": [
+          "statutory rules",
+          "official orders"
+        ],
+        "Registered User": [
+          "party"
+        ],
+        "Rules": [
+          "regulations",
+          "legal instruments"
+        ],
+        "Smuggling": [
+          "goods",
+          "person",
+          "baggage",
+          "conveyances"
+        ],
+        "Special Bonded Warehouse": [
+          "private warehouse",
+          "export-oriented industrial unit"
+        ],
+        "Warehouse": [
+          "place"
+        ],
+        "Warehousing Station": [
+          "location"
+        ],
+        "Jetty": [
+          "area"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        17,
+        21,
+        25,
+        27,
+        29,
+        47,
+        56,
+        66,
+        70,
+        71,
+        74,
+        80,
+        90,
+        93,
+        94,
+        97,
+        121,
+        164,
+        202,
+        211,
+        214,
+        222,
+        248,
+        249,
+        250,
+        251,
+        256,
+        261,
+        266,
+        280,
+        288,
+        304,
+        310,
+        315,
+        318,
+        335,
+        337,
+        397,
+        399,
+        422,
+        426,
+        547,
+        551,
+        564,
+        597,
+        599,
+        620,
+        710,
+        760,
+        815,
+        822,
+        861,
+        931,
+        939,
+        972,
+        973,
+        1031,
+        1037,
+        1163,
+        1249,
+        1336,
+        1371,
+        1409,
+        1431,
+        1731,
+        1781,
+        1858,
+        1902,
+        2116,
+        2453,
+        2468,
+        2792,
+        3234,
+        3681,
+        3902,
+        3924,
+        3943,
+        4196,
+        4382,
+        4394,
+        4566,
+        6001,
+        6619,
+        7483,
+        7500,
+        8277,
+        8571,
+        9369,
+        9756,
+        9774,
+        10007,
+        10700,
+        12451
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-bangla/customs-act-1969-bangla_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "Power to declare warehousing stations",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_11",
+      "resolved_text": "11. Power to declare warehousing stations.- The Board may, by notification in the official Gazette, declare places to be warehousing stations at which alone public warehouses may be appointed and private warehouses may be licensed.",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is empowered to designate specific geographical locations as warehousing stations through an official gazette notification."
+        ],
+        "Warehousing Station": [
+          "A warehousing station is a formally declared location where public warehouses may be appointed and private warehouses may be licensed, serving as the exclusive zone for these operations."
+        ],
+        "Public Warehouse": [
+          "Public warehouses can only be appointed within those locations that have been officially declared as warehousing stations by the National Board of Revenue."
+        ],
+        "Private Warehouse": [
+          "Private warehouses may only be licensed to operate within the specific geographical areas designated as warehousing stations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_338",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "geographical locations",
+          "warehousing stations",
+          "official gazette notification"
+        ],
+        "Warehousing Station": [
+          "public warehouses",
+          "private warehouses"
+        ],
+        "Public Warehouse": [
+          "warehousing stations",
+          "National Board of Revenue"
+        ],
+        "Private Warehouse": [
+          "geographical areas",
+          "warehousing stations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        180,
+        266,
+        288,
+        438,
+        609,
+        735,
+        1261,
+        1440,
+        1862
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_111",
+      "clause_title": "Warehousing bond",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_111",
+      "resolved_text": "86. Warehousing bond.- (1) When any such application has been made in respect of any goods, the owner of the goods to which it relates shall execute a bond, binding himself in a penalty of twice the amount of the duty assessed under section 80 or section 81 1[* *] on such goods,-\n(a) to observe all provisions of this Act and the rules in respect of such goods;\n(b) to pay on or before a date specified in a notice of demand all duties, rent and charges payable in respect of such goods together with interest on the same from the date so specified at the rate 2[to be determined by the Board, being a rate not less than the bank rate fixed by the Bangladesh Bank and not more than double the Bank rate so fixed]; and\n(c) to discharge all penalties incurred for violation of the provisions of this Act and the rules in respect of such goods.\n(2) Every such bond shall be in such form as is from time to time prescribed by the Board, and shall relate to the goods or portion of goods of one conveyance only.\n(3) Notwithstanding anything in sub-section (2), for the purposes of sub- section (1), the 3[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] may permit any importer to entry into a general bond in such amount and subject to such conditions, limitations or restrictions as the 3[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] may determine in respect of the warehousing of goods to be imported by such importer within a specified period.\n(4) A bond executed under this section by an importer in respect of any goods shall continue in force notwithstanding the transfer of the goods to any other person or the removal of the goods to another warehouse or warehousing station:\nProvided that, where the whole of the goods or any part thereof are transferred to another person, the appropriate officer may accept a fresh bond from the transferee in a sum equal to twice the amount of the duty assessed on the goods transferred and thereupon the bond executed by the transferer shall be deemed to be discharged to the extent to which the fresh bond has been executed by the transferee.",
+      "entity_concepts": {
+        "Owner of Warehoused Goods": [
+          "The owner is required to execute a bond upon making an application for warehousing, committing to a penalty of twice the assessed duty amount.",
+          "The owner must comply with all provisions of the Customs Act and relevant rules concerning the goods, including payment of duties, rent, charges, and applicable interest."
+        ],
+        "Bonded Warehouse": [
+          "The warehouse operations are governed by a bond that covers goods imported by a single conveyance.",
+          "The bond remains in force even if goods are transferred to another person or moved to a different warehouse or warehousing station."
+        ],
+        "National Board of Revenue": [
+          "The Board is empowered to determine the rate of interest applicable to unpaid duties and charges, ensuring it falls within a range defined by the prevailing bank rate set by the Bangladesh Bank.",
+          "The Board is responsible for prescribing the form to be used for warehousing bonds."
+        ],
+        "Commissioner of Customs": [
+          "This officer, or any other Commissioner of Customs authorized by the Board, may permit an importer to enter into a general bond for warehousing goods imported within a specific period.",
+          "They have the authority to determine the conditions, limitations, or restrictions applicable to such general bonds."
+        ],
+        "Importer": [
+          "Importers may be permitted to execute a general bond in lieu of individual bonds for warehousing goods, subject to the discretion and conditions set by the Commissioner of Customs (Bond).",
+          "A bond executed by an importer remains in effect despite the subsequent transfer of the goods to another party."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer may accept a fresh bond from a transferee when warehoused goods are sold or transferred to a new owner.",
+          "Upon the acceptance of a fresh bond from the transferee, the original bond executed by the transferor is deemed discharged to that extent."
+        ],
+        "Customs Act 1969": [
+          "This Act provides the legal framework for the execution of warehousing bonds, the payment of duties and interest, and the enforcement of penalties for non-compliance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_438",
+      "entity_sub_entities": {
+        "Owner of Warehoused Goods": [
+          "bond",
+          "application for warehousing",
+          "assessed duty amount",
+          "Customs Act",
+          "rules",
+          "goods",
+          "duties",
+          "rent",
+          "charges",
+          "interest"
+        ],
+        "Bonded Warehouse": [
+          "warehouse operations",
+          "bond",
+          "goods",
+          "conveyance",
+          "warehousing station"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "rate of interest",
+          "unpaid duties",
+          "charges",
+          "bank rate",
+          "Bangladesh Bank",
+          "warehousing bonds"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Board",
+          "importer",
+          "general bond",
+          "warehousing goods",
+          "conditions",
+          "limitations",
+          "restrictions"
+        ],
+        "Importer": [
+          "general bond",
+          "individual bonds",
+          "warehousing goods",
+          "Commissioner of Customs (Bond)",
+          "goods"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "fresh bond",
+          "transferee",
+          "warehoused goods",
+          "new owner",
+          "original bond",
+          "transferor"
+        ],
+        "Customs Act 1969": [
+          "Act",
+          "warehousing bonds",
+          "duties",
+          "interest",
+          "penalties"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        7,
+        17,
+        29,
+        30,
+        37,
+        39,
+        46,
+        56,
+        69,
+        89,
+        99,
+        115,
+        144,
+        146,
+        187,
+        266,
+        324,
+        353,
+        412,
+        529,
+        560,
+        611,
+        890,
+        915,
+        983,
+        3504,
+        4179,
+        5059,
+        5142,
+        5143,
+        5591,
+        5659,
+        8346,
+        10070,
+        10405,
+        11188,
+        12942
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_12",
+      "clause_title": "Power to appoint public warehouses",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_12",
+      "resolved_text": "12. Power to appoint public warehouses.- At any warehousing station, the 1[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] may, from time to time, appoint public warehouses wherein dutiable goods may be deposited without payment of customs-duty.",
+      "entity_concepts": {
+        "Public Warehouse": [
+          "The Commissioner of Customs (Bond) or other authorized Commissioners are empowered to designate locations as public warehouses at any warehousing station.",
+          "Public warehouses are authorized facilities where dutiable goods can be stored without the immediate requirement to pay customs duties."
+        ],
+        "Commissioner of Customs": [
+          "This official is specifically granted the authority to appoint public warehouses at any warehousing station to facilitate the storage of goods under bond."
+        ],
+        "Warehousing Station": [
+          "These are designated locations where the appointment of public warehouses is legally permitted under the provisions of the Act."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the supervisory power to authorize specific Commissioners of Customs to exercise the function of appointing public warehouses."
+        ],
+        "Customs Duty": [
+          "Goods deposited in a public warehouse are exempted from the immediate payment of customs duty until they are removed or otherwise cleared according to law."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_339",
+      "entity_sub_entities": {
+        "Public Warehouse": [
+          "locations",
+          "authorized facilities",
+          "dutiable goods"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "authorized Commissioners",
+          "goods",
+          "bond"
+        ],
+        "Warehousing Station": [
+          "designated locations",
+          "public warehouses"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioners of Customs",
+          "public warehouses"
+        ],
+        "Customs Duty": [
+          "Goods",
+          "public warehouse",
+          "customs duty"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        10,
+        187,
+        226,
+        266,
+        438,
+        452,
+        609,
+        1261,
+        2364,
+        3823
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_126",
+      "clause_title": "Power to remove goods from one warehouse to another in the same customs-station",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_126",
+      "resolved_text": "99. Power to remove goods from one warehouse to another in the same customs-station.- (1) Any owner of goods warehoused under this Act may, within the period of their warehousing under section 98, and with the permission of the 2[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] 3[or any officer authorised for the purpose by the 2[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board],] on such conditions and after giving such security, if any, as 4[that commissioner] directs, remove goods from one warehouse to another warehouse in the same warehousing station.\n(2) When any owner desires to remove any goods, he shall apply for permission to do so in such form as the Board may prescribe.",
+      "entity_concepts": {
+        "Owner of Warehoused Goods": [
+          "The owner of warehoused goods is permitted to transfer their goods from one warehouse to another within the same warehousing station, provided this is done within the authorized warehousing period.",
+          "The owner must obtain official permission and provide any security as directed by the authorized customs official, and must submit a formal application in the format prescribed by the Board."
+        ],
+        "Commissioner of Customs": [
+          "This authority, or any other Commissioner of Customs authorized by the Board, holds the power to grant permission for the removal of warehoused goods between warehouses at the same station.",
+          "This official has the power to set specific conditions for the transfer of goods and mandate the provision of security as a prerequisite for the removal."
+        ],
+        "National Board of Revenue": [
+          "The Board holds the authority to authorize Commissioners of Customs to oversee the transfer of warehoused goods and is responsible for prescribing the application form required for such removal processes."
+        ],
+        "Warehousing Station": [
+          "This represents the geographical or administrative jurisdiction where the transfer of warehoused goods between different warehouse facilities is permitted under the Act."
+        ],
+        "Bonded Warehouse": [
+          "These facilities serve as the origin and destination points for the transfer of goods, governed by specific conditions and security requirements imposed by customs authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_453",
+      "entity_sub_entities": {
+        "Owner of Warehoused Goods": [
+          "warehoused goods",
+          "warehouse",
+          "warehousing station",
+          "warehousing period",
+          "official permission",
+          "security",
+          "authorized customs official",
+          "formal application",
+          "Board"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Board",
+          "warehoused goods",
+          "warehouse",
+          "station",
+          "conditions",
+          "security"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioners of Customs",
+          "warehoused goods",
+          "application form"
+        ],
+        "Warehousing Station": [
+          "warehoused goods",
+          "warehouse facilities",
+          "Act"
+        ],
+        "Bonded Warehouse": [
+          "goods",
+          "conditions",
+          "security requirements",
+          "customs authorities"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        45,
+        74,
+        89,
+        99,
+        144,
+        146,
+        209,
+        266,
+        331,
+        412,
+        435,
+        452,
+        486,
+        882,
+        1819,
+        1906,
+        2316,
+        2897
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_127",
+      "clause_title": "Power to remove goods from one warehousing station to another",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_127",
+      "resolved_text": "100. Power to remove goods from one warehousing station to another.- (1) Any owner of goods warehoused at any warehousing station may, within the period of their warehousing under section 98, remove the same for the purpose of warehousing them at any other warehousing station.\n(2) When any owner desires to remove any goods for such purpose, he shall apply to the 5[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] in such form and manner as the Board may prescribe stating therein the particulars of the goods to be removed, and the name of the customs-station to which they are to be removed.",
+      "entity_concepts": {
+        "Owner of Warehoused Goods": [
+          "An owner of warehoused goods is authorized to move their goods from one warehousing station to another within the period of warehousing permitted under the Act.",
+          "To initiate a transfer, the owner must apply to the appropriate customs authority by following the prescribed form and providing the required details about the goods and the destination customs station."
+        ],
+        "Warehousing Station": [
+          "A warehousing station acts as a site where goods are stored under bond, and the law provides a legal mechanism for moving goods from one such station to another."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of Customs (Bond), or another authorized Commissioner of Customs, is the designated authority responsible for reviewing and processing applications submitted by owners for the transfer of goods between warehousing stations."
+        ],
+        "National Board of Revenue": [
+          "The Board is empowered to prescribe the specific forms, procedures, and conditions that owners must follow when applying to transfer warehoused goods between different stations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_454",
+      "entity_sub_entities": {
+        "Owner of Warehoused Goods": [
+          "owner",
+          "warehoused goods",
+          "warehousing station",
+          "customs authority",
+          "prescribed form",
+          "destination customs station"
+        ],
+        "Warehousing Station": [
+          "warehousing station",
+          "goods",
+          "bond"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs (Bond)",
+          "authorized Commissioner of Customs",
+          "owner",
+          "goods",
+          "warehousing stations"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "forms",
+          "procedures",
+          "conditions",
+          "owners",
+          "warehoused goods",
+          "stations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        23,
+        89,
+        99,
+        120,
+        150,
+        187,
+        266,
+        412,
+        527,
+        614,
+        643,
+        735,
+        1089,
+        3832
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_128",
+      "clause_title": "Transmission of account of goods to officers at warehousing station of destination",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_128",
+      "resolved_text": "101. Transmission of account of goods to officers at warehousing station of destination.- (1) When permission is granted for the removal of any goods from one warehousing station to another under section 100, an account containing the particulars thereof shall be transmitted by the appropriate officer of the customs-station of removal to the appropriate officer of the customs- station of destination.\n(2) The person requiring the removal shall before such removal enter into a bond with one sufficient surety, in a sum equal at least to the duty chargeable on such goods, for the due arrival and re-warehousing thereof at the custom- station of destination, within such time, as the 1[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] directs.\n(3) Such bond may be taken by the appropriate officer either at the customs-station of removal or at the customs-station of destination as best suits the convenience of the owner.\n(4) If such bond is taken at customs-station of destination, a certificate thereof signed by the appropriate officer of such station shall at the time of the removal of such goods be produced to the appropriate officer at the customs- station of removal; and such bond shall not be discharged unless such goods are produced to the appropriate officer, and duly re-warehoused at the customs- station of destination within the time allowed for such removal or are otherwise accounted for to the satisfaction of such officer; nor until the full duty due upon any deficiency of such goods, not so accounted for, has been paid.\n2[(5) Notwithstanding anything contained in the aforesaid sub-sections, the 3[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] may prescribe such conditions as he deems fit for the removal of warehoused goods from special bonded warehouse.]",
+      "entity_concepts": {
+        "Appropriate Officer of Customs": [
+          "This officer is responsible for transmitting the particulars of warehoused goods when they are authorized for removal from one warehousing station to another.",
+          "They are authorized to accept the required bond for the removal of goods either at the station of removal or at the station of destination.",
+          "They ensure that warehoused goods are properly accounted for or re-warehoused at the destination within the allowed time, and they oversee the payment of duties on any deficiencies."
+        ],
+        "Warehousing Station": [
+          "These stations serve as the origin and destination points for the movement of warehoused goods under customs control."
+        ],
+        "Warehoused Goods": [
+          "The removal of these goods between warehousing stations requires specific documentation and the execution of a bond to ensure they arrive and are re-warehoused at the destination."
+        ],
+        "Commissioner of Customs": [
+          "This authority determines the time limits within which goods removed from one warehousing station must arrive and be re-warehoused at the destination.",
+          "This authority may prescribe conditions for the removal of goods from a special bonded warehouse."
+        ],
+        "Special Bonded Warehouse": [
+          "The removal of warehoused goods from this type of facility is subject to such conditions as the Commissioner of Customs (Bond) deems fit."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_455",
+      "entity_sub_entities": {
+        "Appropriate Officer of Customs": [
+          "particulars of warehoused goods",
+          "bond",
+          "station of removal",
+          "station of destination",
+          "duties",
+          "deficiencies"
+        ],
+        "Warehousing Station": [
+          "origin point",
+          "destination point",
+          "warehoused goods"
+        ],
+        "Warehoused Goods": [
+          "documentation",
+          "bond"
+        ],
+        "Commissioner of Customs": [
+          "time limits",
+          "conditions",
+          "special bonded warehouse"
+        ],
+        "Special Bonded Warehouse": [
+          "warehoused goods",
+          "conditions",
+          "Commissioner of Customs (Bond)"
+        ]
+      },
+      "clause_clusters": [
+        7,
+        17,
+        30,
+        63,
+        89,
+        99,
+        187,
+        266,
+        564,
+        977,
+        1614,
+        4936,
+        7279,
+        10402,
+        10513,
+        12414
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_129",
+      "clause_title": "Remover may enter into a general bond",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_129",
+      "resolved_text": "102. Remover may enter into a general bond.- The 4[Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board] may permit any person desirous of removing warehoused goods to enter into a general bond, with such sureties, in such amount and under such conditions as 5[that Commissioner] approves, for the removal, from time to time, of any goods from one warehouse to another, either in the same or in a different warehousing station and for the due arrival and re-warehousing of such goods at the destination within such time as 5[that Commissioner] directs.",
+      "entity_concepts": {
+        "Commissioner of Customs": [
+          "This officer is empowered to authorize persons to enter into a general bond for the removal of warehoused goods.",
+          "An authorized Commissioner of Customs may approve the sureties, amounts, and conditions of a general bond used for moving goods between warehouses."
+        ],
+        "National Board of Revenue": [
+          "The Board provides the authority for a Commissioner of Customs to permit the execution of general bonds."
+        ],
+        "Warehoused Goods": [
+          "These goods may be removed from one warehouse to another under a general bond arrangement, subject to the requirement that they arrive and are re-warehoused at the destination within the time directed by the Commissioner."
+        ],
+        "Warehouse": [
+          "Goods covered by a general bond may be moved between warehouses located within the same or different warehousing stations."
+        ],
+        "Warehousing Station": [
+          "These stations serve as the origin and destination points for the transfer of bonded goods under a general bond."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_456",
+      "entity_sub_entities": {
+        "Commissioner of Customs": [
+          "officer",
+          "general bond",
+          "warehoused goods",
+          "sureties",
+          "amounts",
+          "conditions"
+        ],
+        "National Board of Revenue": [
+          "Board",
+          "Commissioner of Customs",
+          "general bonds"
+        ],
+        "Warehoused Goods": [
+          "goods",
+          "warehouse",
+          "general bond",
+          "Commissioner"
+        ],
+        "Warehouse": [
+          "goods",
+          "general bond",
+          "warehouses",
+          "warehousing stations"
+        ],
+        "Warehousing Station": [
+          "stations",
+          "bonded goods",
+          "general bond"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        7,
+        64,
+        74,
+        89,
+        99,
+        114,
+        266,
+        353,
+        569,
+        579,
+        614,
+        735,
+        1391,
+        2450,
+        4978
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "Definitions",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_2",
+      "resolved_text": "2. Definitions.- In this Act, unless there in anything repugnant in the subject or context-\n4[(a) \"agent\" means any person, including a shipping agent, clearing and forwarding agent, cargo agent 5[and freight forwarding agent], licenced under section 207, or any person permitted to transact any business under section 208;]\n6[(aa) \"Appellate Tribunal\" means the Customs, Excise and মূল্য সংযোজন কর Appellate Tribunal constituted under section 196;]\n(b) \"appropriate officer\", in relation to any functions to be performed under this Act, means the officer of customs to whom such functions have been assigned by or under this Act;\n7[(bb) \"Bangladesh customs-waters\" means the waters extending into the sea to a distance of twelve nautical miles measured from the appropriate base line on the coast of Bangladesh;]\n8[(c) \"bill of entry\" means a bill of entry delivered under section 79, and includes, an electronically transmitted bill of entry in such cases and in such manner containing such particulars as the Board may specify;]\n1(d) \"bill of export\" means a bill of export delivered under section 131, and includes an electronically transmitted bill of export in such cases and in such manner containing such particulars as the Board may specify;\n2[(e)\"Board\" means the National Board of Revenue constituted under the National Board of Revenue Order, 1972 (P.O. No. 76 of 1972);]\n(f) \"coastal goods\" means goods transported in a vessel from one port in 3[Bangladesh] to another, but dose not include imported goods on which customs duty has not been paid;\n4[(ff) \"container\" means a receptacle of permanent nature, having an internal volume of one meter or more, full or partially enclosed to constitute a compartment for containing goods and specially designed to facilitate carriage of goods by one or more modes of transport, without intermediate reloading, and ready handling, particularly when transferred from one mode of transport to another and strong enough for repeated use;\n(fff) \"controlling authority\", in relating to any customs-airport, customs-port, customs-inland container depot or customs- station, means the owner or legal occupier thereof or any person having legal control thereof;]\n(g) \"conveyance\" means any means of transport used for carrying goods or passengers such as a vessel, aircraft, vehicle or animal;\n(h) \"customs-airport\" means any airport declared under section 9 to be a customs-airport;\n(i) \"customs-area\" means the limits of the customs-station specified under section 10 and includes any area in which imported goods or goods for export are ordinarily kept before clearance by the customs authorities;\n5[(ii) \"Customs computer system\" means the customs computerized entry processing system established by the Board for the purposes of this Act;]\n6[7[(iii)]\"customs-inland container depot\" means any place declared under section 9 to be a customs-inland container depot;]\n(j) \"customs-port\" means any place declared under section 9 to be a port for the shipment and landing of goods;\n(k) \"customs-station\" means any customs-port, customs-airport or any land customs- station;\n2(kk) \"export manifest\" means an export manifest delivered under section 53, and includes electronically transmitted export manifest in such cases and in such manner containing such particulars as the board may specify;\n(l) \"goods\" means all movable goods and includes-\n(i) conveyances,\n(ii) stores and materials,\n1[(iii) baggage,\n(iv) currency and negotiable instruments;\n(v) electronic data;]\n2(ll) \"import manifest\" means an import manifest delivered under sections 43 and 44, and includes electronically transmitted import manifest in such cases and in such manner containing such particulars as the Board may specify;\n(m) \"land customs-station\" means any place including an inland river port declared under section 9 to be a land customs-station;\n(n) \"master\" when used in relation to any vessel, means any person, except a pilot or harbour master, having command or charge of such vessel;\n(o) \"officer of customs\" means an officer appointed under section 3;\n3[ ** ** ** ** ** ** ** **];\n4[(pp) \"person\" includes a company, partnership, association, firm or a body of persons;];\n(q) \"person-in-charge\" means-\n(i) in relation to a vessel, the master of the vessel;\n(ii) in relation to an aircraft, the commander or pilot in-charge of the aircraft;\n(iii) in relation to a railway train, the conductor, guard or other person having the chief direction of the train;\n(iv) in relation to any other conveyance, the driver or any other person having control of the conveyance;\n5[(qq)\"pre-shipment inspection agency\" means any person appointed under section 25A as a pre-shipment inspection agency and includes a representative of that person;\n3[(qqa) \"prescribed\" means prescribed by rules or order, as the case may be ;]\n4[(qqq) \"registered user\", in relation to a Customs computer system, means a user of that system and registered for the purposes of this Act;]\n(r) \"rules\" means the rules made under this Act;\n1[(s) \"smuggle\" means to bring into or take out of Bangladesh in breach of any prohibition or restriction for the time being in force; or evading payment of customs-duties or taxes leviable thereon,-\n(a) narcotics, narcotic drugs or psychotropic substance, or\n(b) gold bullion, silver bullion, platinum, palladium, radium, precious stones, currency, manufactures of gold or silver or platinum or palladium or precious stones, or any other goods notified by the Government in the official Gazette, in each case exceeding 2[Taka ten lakhs] in value; or\n(c) any goods concealed in any manner in any place on board any ship, vessel or aircraft or in any other vehicle or in any baggage or cargo or on person; or\n(d) any other goods by any route other than a route declared under section 9 or 10 from any place other than a customs- station; and includes an attempt, abatement or connivance of so bringing in or taking out of such goods; and all cognate words and expressions shall be construed accordingly;]\n3[(t) \"Special bonded warehouse\" means a private warehouse licensed under section 13 and which is a hundred percent export oriented industry to be determined as such by the Board for the purpose of exemption from the provision of sub-section (2) of section 91;]\n4[(tt) \"warehouse\" means a place appointed under section 12 or a place licensed under section 13;]\n(u) \"warehousing station\" means a place declared as a warehousing station under section 11;\n(v) \"wharf\" means any place in customs-port approved under clause (b) of section 10 for the loading and unloading of goods or any class of goods.",
+      "entity_concepts": {
+        "Agent": [
+          "An agent is defined as any person, such as a shipping, clearing, forwarding, or cargo agent, who is licensed under section 207 or permitted to transact business under section 208 of this Act."
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "This is the defined Appellate Tribunal constituted under section 196 of the Act for handling customs, excise, and VAT matters."
+        ],
+        "Officer of Customs": [
+          "An appropriate officer is defined as an officer of customs tasked with specific functions assigned by or under this Act. The term officer of customs generally refers to any individual appointed under section 3."
+        ],
+        "Bangladesh customs-waters": [
+          "This defines the maritime jurisdiction of the Act as the sea area extending twelve nautical miles from the appropriate baseline on the Bangladesh coast."
+        ],
+        "Bill of Entry": [
+          "A bill of entry is a document delivered under section 79, which now includes electronically transmitted versions containing particulars specified by the National Board of Revenue."
+        ],
+        "Bill of Export": [
+          "A bill of export is a document delivered under section 131, which includes electronically transmitted versions containing particulars specified by the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Board refers to the National Board of Revenue, which is the entity constituted under the National Board of Revenue Order 1972."
+        ],
+        "Coastal Goods": [
+          "Coastal goods are defined as items transported by vessel between ports in Bangladesh, excluding any imported goods for which customs duty remains unpaid."
+        ],
+        "Container": [
+          "A container is a durable, enclosed receptacle of at least one cubic meter, specifically designed for the repeated carriage of goods across multiple transport modes without intermediate reloading."
+        ],
+        "Controlling Authority": [
+          "This refers to the owner, legal occupier, or any person holding legal control over a customs-airport, customs-port, customs-inland container depot, or customs-station."
+        ],
+        "Conveyance": [
+          "A conveyance is defined as any means of transport used to carry goods or passengers, including vessels, aircraft, vehicles, or animals."
+        ],
+        "Customs Airport": [
+          "A customs-airport is any airport declared as such under section 9 of the Act."
+        ],
+        "Customs-area": [
+          "A customs-area includes the limits of a customs-station as specified under section 10, encompassing locations where imported or export-bound goods are stored pending customs clearance."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Defined as the Customs computer system, this is an automated processing system established by the National Board of Revenue to facilitate the purposes of this Act."
+        ],
+        "Customs-inland container depot": [
+          "This is any location declared as a customs-inland container depot under section 9 of the Act."
+        ],
+        "Customs Port": [
+          "A customs-port is any place declared under section 9 to be a port for the landing and shipment of goods."
+        ],
+        "Customs Station": [
+          "A customs-station refers collectively to any customs-port, customs-airport, or land customs-station."
+        ],
+        "Export Manifest": [
+          "An export manifest is a document delivered under section 53, including electronically transmitted versions containing particulars specified by the National Board of Revenue."
+        ],
+        "Goods": [
+          "Goods are defined broadly to include all movable property, specifically including conveyances, stores, materials, baggage, currency, negotiable instruments, and electronic data."
+        ],
+        "Import Manifest": [
+          "An import manifest is a document delivered under sections 43 and 44, including electronically transmitted versions containing particulars specified by the National Board of Revenue."
+        ],
+        "Land Customs Station": [
+          "A land customs-station is any place, including inland river ports, declared as such under section 9."
+        ],
+        "Master of the Vessel": [
+          "The master is the person, excluding pilots or harbour masters, who has command or charge of a vessel."
+        ],
+        "Person": [
+          "For the purposes of this Act, a person includes companies, partnerships, associations, firms, or any body of persons."
+        ],
+        "Pre-shipment Inspection Agency": [
+          "An entity appointed under section 25A to conduct pre-shipment inspections, including its representatives."
+        ],
+        "Prescribed": [
+          "The term prescribed signifies that requirements or details are set out by rules or official orders made under this Act."
+        ],
+        "Registered User": [
+          "A registered user is any individual or entity authorized and registered to access the Customs computer system for the purposes of the Act."
+        ],
+        "Rules": [
+          "Rules refer to the regulations and operational procedures established under the authority of this Act."
+        ],
+        "Smuggling": [
+          "Smuggling involves the illegal import or export of restricted goods, evasion of customs duties/taxes, or use of unauthorized routes, and includes any attempts, abetment, or concealment of such activities."
+        ],
+        "Special Bonded Warehouse": [
+          "This is a private warehouse licensed under section 13 for hundred percent export-oriented industries, designated by the National Board of Revenue for specific exemptions."
+        ],
+        "Warehouse": [
+          "A warehouse is defined as any place appointed under section 12 or licensed under section 13 of the Act."
+        ],
+        "Warehousing Station": [
+          "A warehousing station is a location officially declared as such under section 11."
+        ],
+        "Wharf": [
+          "A wharf is a place within a customs-port, approved under section 10(b), designated for the loading and unloading of goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_329",
+      "entity_sub_entities": {
+        "Agent": [
+          "shipping agent",
+          "clearing agent",
+          "forwarding agent",
+          "cargo agent"
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "customs matters",
+          "excise matters",
+          "VAT matters"
+        ],
+        "Officer of Customs": [
+          "officer of customs"
+        ],
+        "Bangladesh customs-waters": [
+          "sea area",
+          "baseline"
+        ],
+        "Bill of Entry": [
+          "document",
+          "electronically transmitted versions",
+          "particulars"
+        ],
+        "Bill of Export": [
+          "document",
+          "electronically transmitted versions",
+          "particulars"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue"
+        ],
+        "Coastal Goods": [
+          "items",
+          "imported goods"
+        ],
+        "Container": [
+          "receptacle"
+        ],
+        "Controlling Authority": [
+          "owner",
+          "legal occupier",
+          "customs-airport",
+          "customs-port",
+          "customs-inland container depot",
+          "customs-station"
+        ],
+        "Conveyance": [
+          "vessels",
+          "aircraft",
+          "vehicles",
+          "animals"
+        ],
+        "Customs Airport": [
+          "airport"
+        ],
+        "Customs-area": [
+          "customs-station",
+          "imported goods",
+          "export-bound goods"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs computer system",
+          "automated processing system"
+        ],
+        "Customs-inland container depot": [
+          "customs-inland container depot"
+        ],
+        "Customs Port": [
+          "port"
+        ],
+        "Customs Station": [
+          "customs-port",
+          "customs-airport",
+          "land customs-station"
+        ],
+        "Export Manifest": [
+          "document",
+          "electronically transmitted versions",
+          "particulars"
+        ],
+        "Goods": [
+          "movable property",
+          "conveyances",
+          "stores",
+          "materials",
+          "baggage",
+          "currency",
+          "negotiable instruments",
+          "electronic data"
+        ],
+        "Import Manifest": [
+          "document",
+          "electronically transmitted versions",
+          "particulars"
+        ],
+        "Land Customs Station": [
+          "place",
+          "inland river ports"
+        ],
+        "Master of the Vessel": [
+          "master",
+          "vessel"
+        ],
+        "Person": [
+          "companies",
+          "partnerships",
+          "associations",
+          "firms",
+          "body of persons"
+        ],
+        "Pre-shipment Inspection Agency": [
+          "entity",
+          "representatives"
+        ],
+        "Prescribed": [
+          "rules",
+          "official orders"
+        ],
+        "Registered User": [
+          "individual",
+          "entity",
+          "Customs computer system"
+        ],
+        "Rules": [
+          "regulations",
+          "operational procedures"
+        ],
+        "Smuggling": [
+          "restricted goods",
+          "customs duties",
+          "taxes"
+        ],
+        "Special Bonded Warehouse": [
+          "private warehouse",
+          "export-oriented industries"
+        ],
+        "Warehouse": [
+          "place"
+        ],
+        "Warehousing Station": [
+          "location"
+        ],
+        "Wharf": [
+          "place",
+          "customs-port",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        8,
+        13,
+        14,
+        25,
+        27,
+        29,
+        47,
+        56,
+        57,
+        66,
+        70,
+        71,
+        74,
+        80,
+        90,
+        93,
+        94,
+        97,
+        117,
+        120,
+        121,
+        155,
+        156,
+        164,
+        169,
+        202,
+        211,
+        214,
+        248,
+        250,
+        251,
+        256,
+        261,
+        266,
+        280,
+        288,
+        304,
+        315,
+        335,
+        337,
+        340,
+        397,
+        399,
+        411,
+        422,
+        526,
+        547,
+        551,
+        552,
+        564,
+        597,
+        620,
+        662,
+        705,
+        710,
+        760,
+        767,
+        822,
+        861,
+        868,
+        939,
+        1037,
+        1249,
+        1336,
+        1452,
+        1731,
+        1902,
+        2047,
+        2323,
+        2453,
+        2624,
+        3224,
+        3234,
+        3329,
+        3509,
+        3681,
+        4196,
+        4256,
+        4382,
+        4394,
+        4566,
+        6005,
+        7845,
+        7940,
+        8320,
+        9430,
+        11231,
+        11886
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "CHAPTER XI WAREHOUSING",
+      "text_id": "metadata_12",
+      "resolved_text": "CHAPTER XI\nWAREHOUSING",
+      "entity_concepts": {
+        "Warehousing Station": [
+          "This chapter governs the legal framework and procedures for the establishment and operation of warehousing stations under the customs jurisdiction."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_39",
+      "entity_sub_entities": {
+        "Warehousing Station": [
+          "warehousing stations"
+        ]
+      },
+      "clause_clusters": [
+        266,
+        735
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "cluster_id": 330,
+  "cluster_label": "vendors",
+  "thread_index": 0,
+  "thread_id": "cluster_00330_t0",
+  "title": "Vendor Compliance and Enforcement Framework",
+  "summary": "The framework for holding vendors accountable for customs and tax violations remains consistent in its legal basis, citing the Customs Act 1969 and the VAT and Supplementary Duty Act 2012. While the specific context of the industries (motorcycles, cellular phones, refrigerators) changes, the punitive clause structure remains a static legal requirement across all instruments.",
+  "evolution": {
+    "legal_basis": "Remains anchored to the Customs Act 1969 and VAT Act 2012 throughout the period.",
+    "structure": "The punitive mechanism is a standard boilerplate clause applied across different industrial SROs."
+  },
+  "timeline": [
+    {
+      "date": "2017-06-01",
+      "instrument": "SRO 2017",
+      "change": "Initial establishment of enforcement clause for vendors.",
+      "clause_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_7"
+      ]
+    },
+    {
+      "date": "2021-06-03",
+      "instrument": "SRO 2021",
+      "change": "Reiteration of enforcement clause for different sectors.",
+      "clause_ids": [
+        "20210603_127-AIN_2021_16_Customs_২০২১-০৫-২৪_clause_7",
+        "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_6"
+      ]
+    },
+    {
+      "date": "2022-06-09",
+      "instrument": "SRO 2022",
+      "change": "Continued application of the standard enforcement clause.",
+      "clause_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_8",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_7"
+      ]
+    }
+  ],
+  "num_member_objects": 0,
+  "member_objects": [],
+  "num_static_replicated_objects": 5,
+  "static_replicated_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20170601_155-AIN__1 June, 2017_clause_7",
+      "resolved_text": "৬। কোন উৎপাদনকারী বা ভেন্ডর এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাঁহার বিরুদ্ধে কাস্টমস আইন ও মূল্য সংযোজন কর আইনের বিধান অনুযায়ী ও প্রযোজ্য ক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইন মোতাবেক প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "In cases where manufacturers or vendors violate the conditions of this order resulting in a loss of revenue, the government will initiate necessary legal actions against them under the provisions of this Act."
+        ],
+        "Value Added Tax Act": [
+          "This act serves as a legal basis for taking enforcement actions against manufacturers or vendors who violate the terms of this notification and cause revenue loss."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1804",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "manufacturers",
+          "vendors",
+          "revenue",
+          "legal actions"
+        ],
+        "Value Added Tax Act": [
+          "manufacturers",
+          "vendors",
+          "notification",
+          "revenue loss"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        20,
+        149,
+        330,
+        500,
+        536,
+        612,
+        998
+      ],
+      "source_file": "customs_sros_OCR/20170601_155-AIN_/20170601_155-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20210603_127-AIN_2021_16_Customs_২০২১-০৫-২৪_clause_7",
+      "resolved_text": "৭। কোন উৎপাদনকারী বা সংযোজনকারী বা ভেন্ডর এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাহার বিরুদ্ধে Customs Act, 1969 ও মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর বিধান অনুযায়ী এবং প্রযোজ্য ক্ষেত্রে, সংশ্লিষ্ট অন্যান্য আইন মোতাবেক প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act serves as a legal basis for taking necessary actions against manufacturers, assemblers, or vendors who violate the conditions of this notification and cause a loss of revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This act is invoked alongside other customs laws to provide the legal framework for penalizing manufacturers, assemblers, or vendors who breach the conditions stipulated in this notification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2114",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "manufacturers",
+          "assemblers",
+          "vendors"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "manufacturers",
+          "assemblers",
+          "vendors"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        22,
+        149,
+        330,
+        824
+      ],
+      "source_file": "customs_sros_OCR/20210603_127-AIN_2021_16_Customs/20210603_127-AIN_2021_16_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_6",
+      "resolved_text": "৬। কোন উৎপাদনকারী বা ভেন্ডর এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাহার বিরুদ্ধে কাস্টমস আইন ও মূল্য সংযোজন কর আইনের বিধান অনুযায়ী ও প্রযোজ্য ক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইন মোতাবেক প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act serves as the legal framework for taking enforcement action against manufacturers or vendors who violate the terms of this order and cause a loss of revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Provisions under this act are applicable for penalizing manufacturers or vendors whose actions result in revenue losses due to the violation of the conditions set forth in this order."
+        ],
+        "Manufacturer or Vendor": [
+          "Manufacturers and vendors are subject to enforcement actions if they violate the conditions specified in this order and thereby cause financial loss to the state. Appropriate legal measures will be initiated against them as per the relevant customs and value added tax laws."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2122",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "manufacturers",
+          "vendors"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "manufacturers",
+          "vendors"
+        ],
+        "Manufacturer or Vendor": [
+          "manufacturers",
+          "vendors"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        22,
+        149,
+        330
+      ],
+      "source_file": "customs_sros_OCR/20210603_128-AIN_2021_17_Customs/20210603_128-AIN_2021_17_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "(৭)",
+      "text_id": "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_8",
+      "resolved_text": "(৭) কোন উৎপাদনকারী বা ভেন্ডর এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাহার বিরুদ্ধে কাস্টমস আইন ও মূল্য সংযোজন কর আইনের বিধান অনুযায়ী ও প্রযোজ্য ক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইনের বিধান অনুযায়ী প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act serves as the legal framework for taking necessary action against producers or vendors who breach the conditions of this notification resulting in revenue loss."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This act is cited as a legal basis for enforcement actions against producers or vendors who violate the terms of this notification leading to a loss of revenue."
+        ],
+        "Producer or Vendor": [
+          "Any producer or vendor who violates the conditions specified in this notification is subject to legal action under customs and tax laws if their actions cause revenue loss."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2184",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "producers",
+          "vendors"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "producers",
+          "vendors"
+        ],
+        "Producer or Vendor": [
+          "producer",
+          "vendor"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        22,
+        133,
+        330,
+        1257,
+        4582
+      ],
+      "source_file": "customs_sros_OCR/20220609_120-AIN_2022_68_Customs/20220609_120-AIN_2022_68_Customs_output.json",
+      "clause_date": "2022-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_7",
+      "resolved_text": "৬। কোন উৎপাদনকারী বা ভেন্ডর এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাহার বিরুদ্ধে কাস্টমস আইন ও মূল্য সংযোজন কর আইনের বিধান অনুযায়ী ও প্রযোজ্য ক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইন মোতাবেক প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act provides the legal framework under which enforcement actions are initiated against manufacturers or vendors who violate notification conditions leading to revenue loss."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This act serves as a legal basis for taking necessary punitive measures against manufacturers or vendors in cases where their violation of notification conditions results in a loss of government revenue."
+        ],
+        "Manufacturer or Vendor": [
+          "Any manufacturer or vendor found to be in violation of the conditions stipulated in this notification is subject to legal action if such violation results in a loss of customs or tax revenue."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2245",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "manufacturers",
+          "vendors",
+          "notification conditions",
+          "revenue loss"
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "manufacturers",
+          "vendors",
+          "notification conditions",
+          "government revenue"
+        ],
+        "Manufacturer or Vendor": [
+          "manufacturer",
+          "vendor",
+          "notification",
+          "customs revenue",
+          "tax revenue"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        20,
+        22,
+        95,
+        133,
+        149,
+        330,
+        500,
+        644,
+        1236,
+        1363,
+        12690
+      ],
+      "source_file": "customs_sros_OCR/20220609_139-AIN_2022_87_Customs/20220609_139-AIN_2022_87_Customs_output.json",
+      "clause_date": "2022-06-09"
+    }
+  ]
+}

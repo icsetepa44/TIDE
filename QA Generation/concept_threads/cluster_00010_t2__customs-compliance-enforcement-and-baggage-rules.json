@@ -1,0 +1,2882 @@
+{
+  "cluster_id": 10,
+  "cluster_label": "Customs Duty",
+  "thread_index": 2,
+  "thread_id": "cluster_00010_t2",
+  "title": "Customs Compliance, Enforcement, and Baggage Rules",
+  "summary": "This thread tracks the procedural and punitive aspects of customs duty, including baggage rules, agent licensing, and audit procedures. It has evolved from basic channel management to sophisticated risk-based audit, recovery mechanisms, and structured schedule-based baggage duty.",
+  "evolution": {
+    "focus": "Shifted from passenger facilitation to institutional risk management and revenue recovery.",
+    "structure": "Baggage duty moved from ad-hoc assessment to fixed-rate schedules."
+  },
+  "timeline": [
+    {
+      "date": "1969-03-08",
+      "instrument": "Customs Act, 1969",
+      "change": "Established principle that baggage duty is determined by the rate in force on the date of declaration.",
+      "clause_ids": [
+        "customs-act-1969-english_8th March, 1969_clause_166"
+      ]
+    },
+    {
+      "date": "2010-06-10",
+      "instrument": "Baggage Rules",
+      "change": "Initial green/red channel rules.",
+      "clause_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_7"
+      ]
+    },
+    {
+      "date": "2016-06-02",
+      "instrument": "Customs Agent Rules",
+      "change": "Introduction of specific penalties for duty evasion by agents.",
+      "clause_ids": [
+        "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_21",
+        "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_21"
+      ]
+    },
+    {
+      "date": "2022-06-01",
+      "instrument": "Schedules 2 and 3",
+      "change": "Implemented detailed schedules defining fixed duty amounts for specific items.",
+      "clause_ids": [
+        "metadata_10",
+        "metadata_11",
+        "metadata_9"
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "instrument": "Audit Manual",
+      "change": "Introduction of risk-based audit and formal recovery procedures.",
+      "clause_ids": [
+        "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_69",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+        "20230927_১০ অক্টোবর, ২০২৩_clause_92"
+      ]
+    }
+  ],
+  "num_member_objects": 38,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "গ্রীন এবং রেড চ্যানেল ব্যবহার",
+      "text_id": "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_7",
+      "resolved_text": "৭। গ্রীন এবং রেড চ্যানেল ব্যবহার।— (১) কোন যাত্রী শুল্ক ও কর আরোপযোগ্য পণ্য বহন না করিলে তিনি বিমান বন্দরের গ্রীন চ্যানেল (যদি থাকে) ব্যবহার করিতে পারিবেন।\n(২) উপ-বিধি (১) এ যাহা কিছুই থাকুক না কেন, কোন শুল্ক কর্মকর্তা, যুক্তিসংগত সন্দেহেবশতঃ গ্রীন চ্যানেল অতিক্রমকারী যে কোন যাত্রীর ব্যাগেজ পরীক্ষা করিতে পারিবেন।",
+      "entity_concepts": {
+        "Green Channel": [
+          "Passengers who are not carrying any goods liable for customs duty or taxes are permitted to use the Green Channel at the airport.",
+          "Customs officers reserve the right to inspect the baggage of any passenger using the Green Channel if there is a reasonable suspicion."
+        ],
+        "Red Channel": [
+          "The Red Channel is designated for passengers who are carrying goods that may be subject to customs duty or tax assessments upon arrival."
+        ],
+        "Appropriate Officer of Customs": [
+          "A customs officer has the authority to conduct an examination of any passenger's baggage passing through the Green Channel if they have reasonable grounds for suspicion."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1281",
+      "entity_sub_entities": {
+        "Green Channel": [
+          "goods liable for customs duty",
+          "taxes",
+          "baggage",
+          "passenger"
+        ],
+        "Red Channel": [
+          "goods",
+          "customs duty",
+          "tax assessments"
+        ],
+        "Appropriate Officer of Customs": [
+          "customs officer",
+          "passenger's baggage",
+          "Green Channel"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        13,
+        17,
+        47,
+        49,
+        257,
+        394,
+        439,
+        988,
+        2179,
+        5000
+      ],
+      "source_file": "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।- এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোন যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোন পণ্য আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রক (সিসিআইএন্ডই) - এর ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক-কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।\n\nতফসিল-২\nবিধি ৩(৫),৩(৭) ও বিধি ১০ দ্রষ্টব্য\n[শুল্ক-কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা]\n\n(ক) ব্যক্তিগত এবং গৃহস্থালী কাজে ব্যবহৃত হয়না এমন কোন পণ্য।\n(খ) দুইটি স্যুটকেসের অতিরিক্ত স্যুটকেসে আনীত ব্যাগেজ। তবে তৃতীয় স্যুটকেসে আনীত বই পত্র, সাময়িকী বা শিক্ষার উপকরণ শুল্ক ও কর মুক্তভাবে খালাসযোগ্য।\n(গ) বাণিজ্যিক পরিমাণে যে কোন পণ্য ব্যাগেজে আমদানি করা হইলে শুল্ক ও কর আদায়যোগ্য।\n(ঘ) নিম্নে বর্ণিত ব্যক্তিগত ও গৃহস্থালী পণ্য ব্যাগেজ হিসাবে আমদানি হইলেও প্রতিটির পার্শ্বে উল্লিখিত নির্দিষ্ট পরিমাণ শুল্ক ও কর পরিশোধ করিতে হইবেঃ\n\n| ক্রমিক নং | পণ্যের বর্ণনা | শুল্ক-কর এর পরিমাণ |\n| --- | --- | --- |\n| ১। | Plasma, LCD, TFT, LED ও অনুরূপ প্রযুক্তির টেলিভিশন |  |\n|  | (ক) ১৮\"- ২১\" পর্যন্ত | ৭,৫০০/- টাকা |\n|  | (খ) ২২\"-২৯\" পর্যন্ত | ১৫,০০০/- টাকা |\n|  | (গ) ৩০\"-৩৬\" পর্যন্ত | ২০,০০০/- টাকা |\n|  | (ঘ) ৩৭\"-৪২\" পর্যন্ত | ৩০,০০০/- টাকা |\n|  | (ঙ) ৪৩\" -৪৬\" পর্যন্ত | ৫০,০০০/- টাকা |\n|  | (চ) ৪৭\"-৫২\" পর্যন্ত | ৭০,০০০/- টাকা |\n|  | (ছ) ৫৩\" থেকে তদুর্ধ্ব সাইজ | ১,০০,০০০/- টাকা |\n| ২। | (ক) ৪ (চার) টি স্পীকারসহ কম্পোনেন্ট (মিউজিক সেন্টার) (সিডি/ ভিসিডি/ ডিভিডি/এলডি/ এমডি/ ব্লু-রেডিস্ক সেট) | ৪,০০০/- টাকা |\n|  | (খ) ৪ (চার) এর অধিক তবে সর্বোচ্চ ৮ টি স্পীকারসহ (মিউজিক সেন্টার)/স্পীকার নির্বিশেষে হোম থিয়েটার (সিডি/ ভিসিডি/ ডিভিডি/ এলডি/এমডি/ব্লু-রেডিস্ক সেট) | ৮,০০০/- টাকা |\n| ৩। | রেফ্রিজারেটর/ডিপ ফ্রিজার | ৫,০০০/- টাকা |\n| ৪। | ডিশ ওয়াশার/ওয়াশিং মেশিন/ক্লথ ড্রায়ার | ৩,০০০/- টাকা |\n| ৫। | এয়ার কুলার/এয়ার কন্ডিশনার (ক) উইন্ডো টাইপ (window type) | ৭,০০০/- টাকা |\n|  | (খ) স্প্লিট টাইপ (split type) | ১৫,০০০/- টাকা |\n| ৬। | গ্যাস ওভেন (বার্নার সহ) | ৩,০০০/- টাকা |\n| ৭। | ডিশ এন্টেনা | ৭,০০০/- টাকা |\n| ৮। | স্বর্ণবার বা স্বর্ণপিণ্ড (সর্বোচ্চ ২০০ গ্রাম) | প্রতি ১১.৬৬৪ গ্রাম ১৫০/- টাকা |\n| ৯। | রৌপ্যবার বা রৌপ্যপিণ্ড (সর্বোচ্চ ২০০ গ্রাম) | প্রতি ১১.৬৬৪ গ্রাম ৬/- টাকা |\n| ১০। | HD Cam, DV Cam, BETA Cam এবং Professional কাজে ব্যবহৃত হয় এরূপ ক্যামেরা | ১৫,০০০/- টাকা |\n| ১১। | এয়ারগান/এয়ার রাইফেল (বাণিজ্য মন্ত্রণালয়ের অনুমোদন সাপেক্ষে আমদানির্যোগী, আমদানি নীতি আদেশ ২০০৯-২০১২ দ্রষ্টব্য) | ৫,০০০/- টাকা |\n| ১২। | ঝাড়বাতি | ৩০০/- টাকা (প্রতি পয়েন্ট) |\n| ১৩। | কার্পেট ১৫ বর্গমিটার পর্যন্ত | ৩০০/- টাকা (প্রতি বর্গমিটার) |\n\n\nতফসিল-৩\n[ বিধি ৩(৫), ৩(৭) ও বিধি ১০ দ্রষ্টব্য ]\n[শুল্ক ও কর মুক্ত পণ্যের তালিকা]\n\n| ক্রমিক | পণ্যের নাম |\n| --- | --- |\n| ১ | ক্যাসেট প্লেয়ার/টুইনওয়ান ; |\n| ২ | ডিস্কম্যান/ওয়াকম্যান (অডিও) ; |\n| ৩ | বহনযোগ্য অডিও সিডি প্লেয়ার ; |\n| ৪ | ডেস্কটপ/ল্যাপটপ কম্পিউটার (একটি ইউপিএস সহ) ; |\n| ৫ | কম্পিউটার স্ক্যানার ; |\n| ৬ | কম্পিউটার প্রিন্টার ; |\n| ৭ | ফ্যাক্স মেশিন; |\n| ৮ | ভিডিও ক্যামেরা (HD Cam, DV Cam, BETA Cam এবং Professional কাজে ব্যবহৃত হয় এরূপ ক্যামেরা ব্যতীত) ; |\n| ৯ | স্টীল ক্যামেরা /ডিজিটাল ক্যামেরা ; |\n| ১০ | সাধারণ/পুশবটন/কর্ডলেস টেলিফোন সেট ; |\n| ১১ | সাধারণ/ইলেকট্রিক ওভেন/ মাইক্রোওয়েভ ওভেন ; |\n| ১২ | রাইস কুকার/প্রেসার কুকার ; |\n| ১৩ | টোস্টার/স্যান্ডউইচ মেকার/ব্লেন্ডার/ফুড প্রসেসর/জুসার/ কফি মেকার; |\n| ১৪ | সাধারণ ও বৈদ্যুতিক টাইপরাইটার ; |\n| ১৫ | গৃহস্থালী সেলাই মেশিন (ম্যানুয়াল/ বৈদ্যুতিক) ; |\n| ১৬ | টেবিল/ প্যাডেস্টাল ফ্যান/গৃহস্থালী সিলিং ফ্যান ; |\n| ১৭ | স্পোর্টস সরঞ্জাম (ব্যক্তিগত ব্যবহারের জন্য); |\n| ১৮ | ২০০ গ্রাম ওজনের স্বর্ণ/ রৌপ্য অলংকার ( এক প্রকার অলংকার ১২টির অধিক হইবে না) ; |\n| ১৯ | ১ কার্টন (২০০ শলাকা) সিগারেট ; |\n| ২০ | ২৯\" পর্যন্ত (CRT) সাদাকালো/রঙিন টেলিভিশন ; |\n| ২১ | ভিসিআর/ভিসিপি ; |\n| ২২ | সাধারণ সিডি ও দুইটি স্পীকারসহ কম্পোনেন্ট (মিউজিক সেন্টার) (সিডি/ ভিসিডি/ ডিভিডি/এলডি/ এমডি সেট); |\n| ২৩ | ভিসিডি/ডিভিডি/এলডি/এমডি/ ব্লু রেডিস্ক প্লেয়ার ; |\n| ২৪ | এলসিডি কম্পিউটার মনিটর (টিভি সুবিধা থাকুক বা নাই থাকুক) ১৭\" পর্যন্ত; |\n| ২৫ | একটি মোবাইল/ সেলুলার ফোন সেট |\n",
+      "entity_concepts": {
+        "Commercial Baggage Import": [
+          "Passengers importing goods in commercial quantities or goods exceeding established limits are subject to customs duty and tax assessment.",
+          "Such imports may require clearance from the Chief Controller of Imports and Exports.",
+          "Clearance is contingent upon the payment of all applicable duties, taxes, and penalties determined through the adjudication process."
+        ],
+        "Adjudication of Customs Cases": [
+          "Adjudication is the mandatory legal mechanism for determining the customs duty, taxes, and penalties due on baggage imported in commercial quantities."
+        ],
+        "Schedule-2": [
+          "This schedule lists specific categories of personal and household items that are subject to prescribed duties and taxes when imported as baggage.",
+          "It includes items such as home appliances, electronic equipment, precious metals, and cameras used for professional purposes."
+        ],
+        "Schedule-3": [
+          "This schedule provides a list of personal and household goods that are eligible for import as baggage free of all customs duties and taxes.",
+          "It includes essential home appliances, communication devices, and personal electronics within specified limits."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The Chief Controller of Imports and Exports is the authority responsible for issuing clearances for baggage imports that fall under the commercial category."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1325",
+      "entity_sub_entities": {
+        "Commercial Baggage Import": [
+          "goods",
+          "customs duty",
+          "tax",
+          "Chief Controller of Imports and Exports",
+          "penalties"
+        ],
+        "Adjudication of Customs Cases": [
+          "customs duty",
+          "taxes",
+          "penalties",
+          "baggage"
+        ],
+        "Schedule-2": [
+          "personal items",
+          "household items",
+          "duties",
+          "taxes",
+          "home appliances",
+          "electronic equipment",
+          "precious metals",
+          "cameras"
+        ],
+        "Schedule-3": [
+          "personal goods",
+          "household goods",
+          "customs duties",
+          "taxes",
+          "home appliances",
+          "communication devices",
+          "personal electronics"
+        ],
+        "Chief Controller of Imports and Exports": [
+          "Chief Controller of Imports and Exports",
+          "clearances",
+          "baggage imports"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        13,
+        14,
+        30,
+        46,
+        47,
+        283,
+        349,
+        427,
+        467,
+        525,
+        675,
+        786,
+        872,
+        1465,
+        1580,
+        1669,
+        1918,
+        2022,
+        2249,
+        2524,
+        3611,
+        3640,
+        10635
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "গ্রীন এবং রেড চ্যানেল ব্যবহার",
+      "text_id": "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_7",
+      "resolved_text": "৭। গ্রীন এবং রেড চ্যানেল ব্যবহার।- (১) কোন যাত্রী শুল্ক ও কর আরোপযোগ্য পণ্য বহন না করিলে তিনি বিমান বন্দরের গ্রীন চ্যানেল (যদি থাকে) ব্যবহার করিতে পারিবেন।\n(২) গ্রীন চ্যানেল অতিক্রমকারী সর্বোচ্চ ৫% (শতকরা পাঁচ ভাগ) যাত্রীর ব্যাগেজ দৈবচয়নের ভিত্তিতে শুল্ক (Customs) কর্মকর্তা কর্তৃক স্ক্যানিং ও পরীক্ষা করা যাইবে।\n(৩) উপ-বিধি (১) ও (২) এ যাহা কিছুই থাকুক না কেন, কোন শুল্ক (Customs) কর্মকর্তা, যুক্তিসংগত সন্দেহবশতঃ গ্রীন চ্যানেল অতিক্রমকারী যে কোন যাত্রীর ব্যাগেজ স্ক্যানিং ও পরীক্ষা করিতে পারিবেন।",
+      "entity_concepts": {
+        "Green Channel": [
+          "Passengers who are not carrying any dutiable or taxable goods are permitted to use the Green Channel at the airport.",
+          "Customs officers have the authority to perform random scanning and examination of a limited percentage of passengers passing through the Green Channel.",
+          "Customs officers may conduct a scan and examination of the baggage of any passenger using the Green Channel if there is a reasonable suspicion."
+        ],
+        "Red Channel": [
+          "The Red Channel is designated for use by passengers carrying goods that are subject to customs duty and taxes."
+        ],
+        "Customs Authority": [
+          "Customs officers are authorized to select a specific percentage of passengers using the Green Channel for random baggage screening.",
+          "Customs officers maintain the right to inspect and scan any passenger's baggage at their discretion based on reasonable suspicion, regardless of channel selection."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1322",
+      "entity_sub_entities": {
+        "Green Channel": [
+          "dutiable goods",
+          "taxable goods",
+          "passengers",
+          "baggage"
+        ],
+        "Red Channel": [
+          "goods",
+          "customs duty",
+          "taxes",
+          "passengers"
+        ],
+        "Customs Authority": [
+          "Customs officers",
+          "passengers",
+          "baggage"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        13,
+        23,
+        47,
+        111,
+        135,
+        226,
+        394,
+        439,
+        988
+      ],
+      "source_file": "customs_sros_OCR/20110609_165-AIN_2011_2352-Customs/20110609_165-AIN_2011_2352-Customs_output.json",
+      "clause_date": "2011-06-09"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "তফসিল-২",
+      "text_id": "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_11",
+      "resolved_text": "তফসিল-২\n[ বিধি ৩(৫), ৩(৭) ও বিধি ১০ দ্রষ্টব্য ]\n[ শুল্ক-কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা ]\n(ক) ব্যক্তিগত এবং গৃহস্থালী কাজে ব্যবহৃত হয় না এমন কোন পণ্য।\n(খ) দুইটি স্যুটকেসের অতিরিক্ত স্যুটকেসে আনীত ব্যাগেজ। তবে তৃতীয় স্যুটকেসে আনীত পরিধেয় বস্ত্র, ব্যক্তিগত ব্যবহার্য সামগ্রী, বই, সাময়িকী এবং পড়াশুনার সামগ্রী শুল্ক ও কর মুক্তভাবে খালাসযোগ্য।\n(গ) ব্যাগেজে আমদানিকৃত বাণিজ্যিক পরিমাণে যে কোন পণ্য;\n(ঘ) নিম্নবর্ণিত গৃহস্থালী ও ব্যক্তিগত পণ্য ব্যাগেজ হিসাবে আমদানি হইলেও প্রতিটির পার্শ্বে উল্লিখিত নির্দিষ্ট পরিমাণ শুল্ক ও কর পরিশোধ করিতে হইবে:\n\n| ক্রমিক নং | পণ্যের বর্ণনা | শুল্ক-কর এর পরিমাণ |\n| --- | --- | --- |\n| ১। | Plasma, LCD, TFT, LED ও অনুরূপ প্রযুক্তির টেলিভিশন (ক) ২২\" - ২৯\" পর্যন্ত (খ) ৩০\" - ৩৬\" পর্যন্ত (গ) ৩৭\" - ৪২\" পর্যন্ত (ঘ) ৪৩\" - ৪৬\" পর্যন্ত (ঙ) ৪৭\" - ৫২\" পর্যন্ত (চ) ৫৩\" থেকে তদূর্ধ্ব সাইজ | ১৫,০০০/- টাকা ২০,০০০/- টাকা ৩০,০০০/- টাকা ৫০,০০০/- টাকা ৭০,০০০/- টাকা ১,০০,০০০/- টাকা |\n| ২। | ৪ (চার) এর অধিক তবে সর্বোচ্চ ৮ টি স্পীকারসহ (মিউজিক সেন্টার)/স্পীকার নির্বিশেষে হোম থিয়েটার (সিডি/ ভিডিডি/ ডিভিডি/ এলডি/ এমডি/ ব্লু রেডিস্ক সেট) | ৮,০০০/- টাকা |\n| ৩। | রেফ্রিজারেটর/ডিপ ফ্রিজার | ৫,০০০/- টাকা |\n| ৪। | এয়ার কুলার/এয়ার কন্ডিশনার (ক) উইনডো টাইপ (window type) (খ) স্প্লিট টাইপ (split type upto 18000 BTU) (গ) স্প্লিট টাইপ (split type above 18000 BTU) | ৭,০০০/- টাকা ১৫,০০০/- টাকা ২০,০০০/- টাকা |\n| ৫। | ডিশ এন্টেনা | ৭,০০০/- টাকা |\n| ৬। | স্বর্ণবার বা স্বর্ণপিণ্ড (সর্বোচ্চ ২০০ গ্রাম) | প্রতি ১১.৬৬৪ গ্রাম ১৫০/- টাকা |\n| ৭। | রৌপ্যবার বা রৌপ্যপিণ্ড (সর্বোচ্চ ২০০ গ্রাম) | প্রতি ১১.৬৬৪ gram ৬/- টাকা |\n| ৮। | HD Cam, DV Cam, BETA Cam এবং Professional কাজে ব্যবহৃত হয় এরূপ ক্যামেরা | ১৫,০০০/- টাকা |\n| ৯। | এয়ারগান/এয়ার রাইফেল (বাণিজ্য মন্ত্রণালয়ের অনুমোদন সাপেক্ষে আমদানিযোগ্য, আমদানি নীতি আদেশ ২০০৯-২০১২ দ্রষ্টব্য) | ৫,০০০/- টাকা |\n| ১০। | ঝাড়বাতি | ৩০০/- টাকা (প্রতি পয়েন্ট) |\n| ১১। | কার্পেট ১৫ বর্গমিটার পর্যন্ত | ৩০০/- টাকা (প্রতি বর্গমিটার) |\n| ১২। | ডিশ ওয়াশার/ওয়াশিং মেশিন/ক্লথ ড্রায়ার | ৩,০০০/- টাকা |\n",
+      "entity_concepts": {
+        "Passenger Baggage": [
+          "This schedule provides a list of goods imported as baggage that are subject to specific customs duties and taxes. It specifically categorizes items that are not for personal or household use, baggage exceeding the allowed quantity of suitcases, and goods imported in commercial quantities.",
+          "Specific categories of household and personal items are liable for fixed duties and taxes when imported as baggage, regardless of the passenger's duty-free allowance."
+        ],
+        "Customs Duty": [
+          "Fixed rates of customs duty and taxes are established for various household and electronic items imported as baggage, including televisions, home theatre systems, home appliances, and gold or silver bars.",
+          "The schedule outlines specific duty amounts based on item specifications such as the size of display panels, capacity of cooling appliances, or unit measurements for carpets and lighting fixtures."
+        ],
+        "Professional Auditor": [
+          "Professional cameras and recording equipment are subject to a specified fixed amount of customs duty per unit when imported as baggage."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1386",
+      "entity_sub_entities": {
+        "Passenger Baggage": [
+          "goods",
+          "suitcases",
+          "household items",
+          "personal items"
+        ],
+        "Customs Duty": [
+          "household items",
+          "electronic items",
+          "televisions",
+          "home theatre systems",
+          "home appliances",
+          "gold bars",
+          "silver bars",
+          "display panels",
+          "cooling appliances",
+          "carpets",
+          "lighting fixtures"
+        ],
+        "Professional Auditor": [
+          "professional cameras",
+          "recording equipment"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        178,
+        402,
+        427,
+        478,
+        525,
+        1098,
+        1513,
+        1669,
+        1797,
+        1938,
+        2585,
+        2690,
+        4594,
+        4964,
+        7396,
+        9509,
+        11261
+      ],
+      "source_file": "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20150701_207-AIN_2015_44-Customs_১ জুলাই, ২০১৫_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কিছু না থাকিলে, এই বিধিমালায়-\n(ক) “আইন” অর্থ The Customs Act, 1969 (Act NO. IV of 1969);\n(খ) “দেউলিয়া” অর্থ “দেউলিয়া বিষয়ক আইন, ১৯৯৭” এর ধারা ২ এর ক্রমিক নং (১৮) তে সংজ্ঞায়িত দেনাদার;\n(গ) “ব্যক্তি” অর্থ কোনো কোম্পানি, অংশীদারীত্বমূলক প্রতিষ্ঠান, সমিতি অথবা কোনো ব্যক্তিসংঘ অন্তর্ভুক্ত হইবে;\n(ঘ) “বোর্ড” অর্থ National Board of Revenue Order, 1972 (P.O. No 76 of 1972) এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ঙ) “শুল্ক ও কর” অর্থ The Customs Act 1969, Sales Tax Ordinance, 1984 (বর্তমানে বাতিলকৃত) ও মূল্য সংযোজন কর আইন, ১৯৯১ এর আওতায় প্রযোজ্য শুল্ক-কর;\n(চ) “সরকারি পাওনা” অর্থ আইনের section 202A তে বর্ণিত পাওনা;",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act is the primary legislation governing customs activities in Bangladesh and is the law referred to as 'the Act' in this context."
+        ],
+        "Bankruptcy": [
+          "The term is defined by reference to the specific debtor definition provided under the relevant national bankruptcy legislation."
+        ],
+        "Person": [
+          "The term encompasses various legal structures including companies, partnership firms, associations, and other bodies of individuals."
+        ],
+        "National Board of Revenue": [
+          "This entity is defined as the authority constituted under the National Board of Revenue Order 1972."
+        ],
+        "Customs Duty": [
+          "Customs and other taxes are defined to include those applicable under the Customs Act 1969, the repealed Sales Tax Ordinance 1984, and the Value Added Tax Act 1991."
+        ],
+        "Value Added Tax Act 1991": [
+          "This act serves as one of the legal bases for the collection and determination of applicable taxes."
+        ],
+        "Government Revenue Collection": [
+          "Government revenue or dues refer specifically to the outstanding amounts described under the relevant section of the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1556",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "the Act"
+        ],
+        "Bankruptcy": [
+          "debtor",
+          "national bankruptcy legislation"
+        ],
+        "Person": [
+          "companies",
+          "partnership firms",
+          "associations",
+          "bodies of individuals"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue Order 1972"
+        ],
+        "Customs Duty": [
+          "Customs",
+          "taxes",
+          "Customs Act 1969",
+          "Sales Tax Ordinance 1984",
+          "Value Added Tax Act 1991"
+        ],
+        "Value Added Tax Act 1991": [
+          "Value Added Tax Act 1991"
+        ],
+        "Government Revenue Collection": [
+          "Government revenue",
+          "dues",
+          "Customs Act 1969"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        10,
+        13,
+        21,
+        34,
+        70,
+        644,
+        703,
+        760,
+        1310,
+        1902,
+        1998,
+        2143,
+        3132,
+        3506,
+        4486,
+        6000,
+        10010,
+        11845
+      ],
+      "source_file": "customs_sros_OCR/20150701_207-AIN_2015_44-Customs/20150701_207-AIN_2015_44-Customs_output.json",
+      "clause_date": "2015-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20150701_214-AIN_2015_51-Customs_১ জুলাই, ২০১৫_clause_3",
+      "resolved_text": "৩। হাই-টেক পার্কে স্থাপিত শিল্প কারখানা উহার পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ আমদানির সময় প্রযোজ্য আমদানি শুল্ক, সম্পূরক শুল্ক ও মূল্য সংযোজন কর পরিশোধ না করিয়া বন্ড ব্যবস্থায় আমদানি করিতে পারিবে।",
+      "entity_concepts": {
+        "Bonded Warehouse Operation": [
+          "Industrial factories located in high-tech parks are permitted to import raw materials or manufacturing inputs under a bonded warehouse system.",
+          "This system allows these factories to defer the payment of import duties, supplementary duties, and value-added tax at the time of importation."
+        ],
+        "Customs Duty": [
+          "Industrial factories in high-tech parks may import production-related materials without paying customs duties upfront under the bonded system."
+        ],
+        "Supplementary Duty": [
+          "The bonded system permits the deferment of supplementary duty for raw materials imported by industrial units established within high-tech parks."
+        ],
+        "Value Added Tax": [
+          "Value added tax payments are not required at the time of import for raw materials brought into high-tech parks by industrial factories under the bonded arrangement."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1576",
+      "entity_sub_entities": {
+        "Bonded Warehouse Operation": [
+          "raw materials",
+          "manufacturing inputs",
+          "import duties",
+          "supplementary duties",
+          "value-added tax"
+        ],
+        "Customs Duty": [
+          "production-related materials"
+        ],
+        "Supplementary Duty": [
+          "raw materials"
+        ],
+        "Value Added Tax": [
+          "raw materials"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        12,
+        36,
+        52,
+        61,
+        147,
+        153,
+        4330,
+        4592
+      ],
+      "source_file": "customs_sros_OCR/20150701_214-AIN_2015_51-Customs/20150701_214-AIN_2015_51-Customs_output.json",
+      "clause_date": "2015-07-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_21",
+      "clause_title": "লাইসেন্স বাতিল এবং অর্থদণ্ড আরোপ",
+      "text_id": "20160602_174-AIN_2016_36-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ (2 June 2016)_clause_21",
+      "resolved_text": "২১। লাইসেন্স বাতিল এবং অর্থদণ্ড আরোপ।— (১) লাইসেন্সিং কর্তৃপক্ষ নিম্নবর্ণিত যে কোন কারণে কাস্টমস এজেন্টকে ১৫(পনের) দিনের মধ্যে কারণ দর্শাইবার সুযোগ প্রদান করিয়া তাহার লাইসেন্স বাতিলসহ উপ-বিধি (২) এর অধীন ক্ষেত্রমত অর্থদণ্ড আরোপ করিতে পারিবে, যথা:-\n(১) এই বিধিমালার কোন বিধান বা লাইসেন্সে উল্লিখিত কোন শর্ত ভঙ্গ করা হইলে;\n(২) कर्तव्य পালনে অবহেলা, দীর্ঘসূত্রতা বা অদক্ষতা প্রদর্শন করা হইলে;\n(৩) কাস্টমস কর্মকর্তাগণের সহিত অসৌজন্যমূলক আচরণ করা হইলে;\n(৪) নিজ গ্রাহকের আমদানিকৃত বা রপ্তানিযোগ্য পণ্যের চালান সম্পর্কে কোন মিথ্যা ঘোষণা উদ্ঘাটনের ক্ষেত্রে কাস্টমস কর্তৃপক্ষকে যথাযথ সহযোগিতা প্রদানে ব্যর্থ হইলে;\n(৫) কাস্টমস কর্মকর্তা কর্তৃক চাহিত তাহার আর্থিক লেনদেনের পূর্ণাঙ্গ দলিল, উহা দ্বারা ব্যবহৃত সকল কাস্টমস দলিল এবং কাস্টমস সংশ্লিষ্ট ব্যবসার সহিত সংশ্লিষ্ট সকল চিঠি, বিল, হিসাব গোপন, অপসারণ বা ধ্বংস করিলে অথবা কাস্টমস কর্মকর্তাকে উক্ত রেকর্ডসমূহ দেখাইতে অস্বীকৃতি জানাইলে;\n(৬) ভয়-ভীতি, মিথ্যা অভিযোগ, বলপ্রয়োগ বা কোন অন্যায় সুযোগ-সুবিধা প্রদানের মাধ্যমে কাস্টমস কর্মকর্তা বা কর্মচারীকে প্রভাবিত করিলে;\n(৭) গ্রাহক কর্তৃক কোন মিথ্যা তথ্যের মাধ্যমে শুল্ক-কর ফাঁকির ঘটনা সম্পর্কে অবগত হইবার পর কাস্টমস কর্মকর্তার নিকট উক্ত তথ্য না জানাইলে;\n(৮) নিজ গ্রাহক কর্তৃক শুল্ক-কর ফাঁকির ঘটনায় সহযোগিতা করিলে;\n(৯) প্রযোজ্য কোন শুল্ক-কর ফাঁকি বা প্রচলিত আইনের অধীনে আরোপিত শর্ত বা নিষেধাজ্ঞা এড়াইয়া যাইবার উদ্দেশ্যে কোন জাল দলিল প্রস্তুত করিয়া কাস্টমস কর্মকর্তার নিকট দাখিল করিলে;\n(১০) প্রযোজ্য কোন শুল্ক-কর পরিহার করিলে;\n(১১) যথাসময়ে লাইসেন্স নবায়নের উদ্যোগ গ্রহণ ও নবায়ন না করিলে;\n(১২) মূল লাইসেন্সীর মৃত্যুর ৯০ (নব্বই) দিনের মধ্যে উক্ত মৃত্যু সংবাদ লাইসেন্সিং কর্তৃপক্ষকে লিখিতভাবে অবহিত না করিলে বা বৈধ উত্তরাধিকারী উক্ত সময়ের মধ্যে লাইসেন্সটি তাঁহার অনুকূলে হস্তান্তরের বিষয়ে আবেদন না করিলে;\n(১৩) গ্রাহকের নিকট হইতে বিধি বহির্ভূত অর্থ আদায় বা তাহাকে অন্য কোনরূপে হয়রানি করিলে;\n(১৪) কাস্টমস প্রক্রিয়া অসম্পূর্ণ থাকাবস্থায় কোন বিল অব এন্ট্রি বা বিল অব এক্সপোর্ট কাস্টমস কর্তৃপক্ষ কর্তৃক অনূ্যন ২ (দুই) বার লিখিতভাবে দাখিলের তাগিদ প্রদানের পরও উহা দাখিল না করিলে; এবং\n(১৫) এই বিধিমালার অধীন অর্পিত কোন দায়িত্ব পালন না করিলে।\n\n(২) উপ-বিধি (১) এর অধীন লাইসেন্স বাতিলসহ লাইসেন্সিং কর্তৃপক্ষ সংশ্লিষ্ট কাস্টমস এজেন্টকে, ক্ষেত্রমত, নিম্নরূপ অর্থদণ্ড আরোপ করিতে পারিবে, যথা:-\n(ক) কাস্টমস এজেন্ট এর কর্মকাণ্ড শুল্ক-কর ফাঁকির সহিত সংশ্লিষ্ট না হইলে অনূ্যন ৫০ (পঞ্চাশ) হাজার টাকা হইতে অনূ্যর্ধ্ব ২ (দুই) লক্ষ টাকা;\n(খ) কাস্টমস এজেন্ট কর্তৃক শুল্ক-কর ফাঁকির প্রচেষ্টা করা হইলে এবং উক্ত কর ফাঁকি সংঘটিত না হওয়া সত্ত্বেও উক্ত ফাঁকি সংঘটিত হইলে যে পরিমাণ রাজস্ব ক্ষতি সাধিত হইত উহার অনধিক ২৫ (পঁচিশ) শতাংশ অথবা ১ (এক) লক্ষ টাকার মধ্যে যাহা অধিক হয়; অথবা\n(গ) কাস্টমস এজেন্ট এর কর্মকাণ্ডের ফলে যে পরিমাণ শুল্ক-কর ফাঁকি হইয়াছে উহার অনধিক দ্বিগুণ পরিমাণ অর্থ কিংবা অনূ্যন ২(দুই) লক্ষ টাকা বা উহাদের মধ্যে যাহা অধিক হয়।\n\n(৩) উপ-বিধি (১) Ges (২) G যাহা কিছুই থাকুক না কেন, বিধি ৯ এর উপ বিধি (৫) এর আওতায় গৃহীত কার্যক্রমের ক্ষেত্রে কাস্টমস এজেন্ট এর বিরুদ্ধে কোন মামলা বা দাবীনামা চলমান থাকিলে উহা নিষ্পত্তি বা চূড়ান্ত না হওয়া পর্যন্ত লাইসেন্স বাতিল বা অর্থদণ্ডের বিষয়ে কোন সিদ্ধান্ত গ্রহন করা যাইবে না।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A Customs Agent is subject to license cancellation and financial penalties for various infractions, including duty evasion, submission of fraudulent documents, or non-compliance with licensing conditions.",
+          "The Licensing Authority must provide the agent an opportunity to show cause within a specified period before taking any punitive action against their license or imposing a fine.",
+          "Penalties are tiered based on the nature of the offence, with specific scales for non-revenue related infractions, attempted revenue evasion, and actual revenue evasion.",
+          "Legal or administrative actions against a Customs Agent may be stayed if there is a pending case or claim under specified sub-rules until the matter is finalized."
+        ],
+        "Licensing Authority": [
+          "The Licensing Authority is empowered to cancel the license of a Customs Agent and impose monetary penalties for breaches of customs regulations, professional negligence, or misconduct.",
+          "They are required to follow due process, including issuing a show-cause notice, before finalizing any cancellation or financial penalty."
+        ],
+        "Customs Duty": [
+          "Failure to pay or evasion of Customs Duty by a Customs Agent, or failure to disclose information regarding a client's evasion of such taxes, constitutes grounds for license cancellation and penalty.",
+          "Financial penalties for customs-related offences are calculated based on the quantum of duty evasion or fixed minimum thresholds, depending on the severity and nature of the violation."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1677",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "license",
+          "financial penalties",
+          "duty evasion",
+          "fraudulent documents",
+          "licensing conditions",
+          "Licensing Authority",
+          "show cause",
+          "fine",
+          "non-revenue related infractions",
+          "attempted revenue evasion",
+          "actual revenue evasion",
+          "legal actions",
+          "administrative actions"
+        ],
+        "Licensing Authority": [
+          "license",
+          "Customs Agent",
+          "monetary penalties",
+          "customs regulations",
+          "professional negligence",
+          "misconduct",
+          "due process",
+          "show-cause notice"
+        ],
+        "Customs Duty": [
+          "Customs Duty",
+          "Customs Agent",
+          "client",
+          "taxes",
+          "license cancellation",
+          "penalty",
+          "financial penalties",
+          "duty evasion",
+          "fixed minimum thresholds"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        13,
+        43,
+        84,
+        92,
+        175,
+        378,
+        392,
+        425,
+        430,
+        998,
+        1054,
+        1080,
+        2435,
+        3612,
+        4042,
+        4288,
+        4368,
+        4898,
+        5296,
+        5699,
+        7487,
+        8181,
+        9465,
+        10113,
+        11033
+      ],
+      "source_file": "customs_sros_OCR/20160602_174-AIN_2016_36-Customs/20160602_174-AIN_2016_36-Customs_output.json",
+      "clause_date": "2016-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_21",
+      "clause_title": "লাইসেন্স বাতিল এবং অর্থদণ্ড আরোপ",
+      "text_id": "20160605_CF_Agents_licensing_Rules_2016_2 June, 2016_clause_21",
+      "resolved_text": "২১। লাইসেন্স বাতিল এবং অর্থদণ্ড আরোপ।— (১) লাইসেন্সিং কর্তৃপক্ষ নিম্নবর্ণিত যে কোন কারণে কাস্টমস এজেন্টকে ১৫(পনের) দিনের মধ্যে কারণ দর্শাইবার সুযোগ প্রদান করিয়া তাহার লাইসেন্স বাতিলসহ উপ-বিধি (২) এর অধীন ক্ষেত্রমত অর্থদণ্ড আরোপ করিতে পারিবে, যথা:-\n(১) এই বিধিমালার কোন বিধান বা লাইসেন্সে উল্লিখিত কোন শর্ত ভঙ্গ করা হইলে;\n(২) कर्तव्य পালনে অবহেলা, দীর্ঘসূত্রিতা বা অদক্ষতা প্রদর্শন করা হইলে;\n(৩) কাস্টমস কর্মকর্তাগণের সহিত অসৌজন্যমূলক আচরণ করা হইলে;\n(৪) নিজ গ্রাহকের আমদানিকৃত বা রপ্তানিযোগ্য পণ্যের চালান সম্পর্কে কোন মিথ্যা ঘোষণা উদ্ঘাটনের ক্ষেত্রে কাস্টমস কর্তৃপক্ষকে যথাযথ সহযোগিতা প্রদানে ব্যর্থ হইলে;\n(৫) কাস্টমস কর্মকর্তা কর্তৃক চাহিত তাহার আর্থিক লেনদেনের পূর্ণাঙ্গ দলিল, উহা দ্বারা ব্যবস্থিত সকল কাস্টমস দলিল এবং কাস্টমস সংশ্লিষ্ট ব্যবসার সহিত সংশ্লিষ্ট সকল চিঠি, বিল, হিসাব গোপন, অপসারণ বা ধ্বংস করিলে অথবা কাস্টমস কর্মকর্তাকে উক্ত রেকর্ডসমূহ দেখাইতে অস্বীকৃতি জানাইলে;\n(৬) ভয়-ভীতি, মিথ্যা অভিযোগ, বলপ্রয়োগ বা কোন অন্যায় সুযোগ-সুবিধা প্রদানের মাধ্যমে কাস্টমস কর্মকর্তা বা কর্মচারীকে প্রভাবিত করিলে;\n(৭) গ্রাহক কর্তৃক কোন মিথ্যা তথ্যের মাধ্যমে শুল্ক-কর ফাঁকির ঘটনা সম্পর্কে অবগত হইবার পর কাস্টমস কর্মকর্তার নিকট উক্ত তথ্য না জানাইলে;\n(৮) নিজ গ্রাহক কর্তৃক শুল্ক-কর ফাঁকির ঘটনায় সহযোগিতা করিলে;\n(৯) প্রযোজ্য কোন শুল্ক-কর ফাঁকি বা প্রচলিত আইনের অধীনে আরোপিত শর্ত বা নিষেধাজ্ঞা এড়াইয়া যাইবার উদ্দেশ্যে কোন জাল দলিল প্রস্তুত করিয়া কাস্টমস কর্মকর্তার নিকট দাখিল করিলে;\n(১০) প্রযোজ্য কোন শুল্ক-কর পরিহার করিলে;\n(১১) যথাসময়ে লাইসেন্স নবায়নের উদ্যোগ গ্রহণ ও নবায়ন না করিলে;\n(১২) মূল লাইসেন্সীর মৃত্যুর ৯০ (নব্বই) দিনের মধ্যে উক্ত মৃত্যু সংবাদ লাইসেন্সিং কর্তৃপক্ষকে লিখিতভাবে অবহিত না করিলে বা বৈধ উত্তরাধিকারী উক্ত সময়ের মধ্যে লাইসেন্সটি তাঁহার অনুকূলে হস্তান্তরের বিষয়ে আবেদন না করিলে;\n(১৩) গ্রাহকের নিকট হইতে বিধি বহির্ভূত অর্থ আদায় বা তাহাকে অন্য কোনরূপে হয়রানি করিলে;\n(১৪) কাস্টমস প্রক্রিয়া অসম্পন্ন থাকাবস্থায় কোন বিল অব এন্ট্রি বা বিল অব এক্সপোর্ট কাস্টমস কর্তৃপক্ষ কর্তৃক অন্যূন ২ (দুই) বার লিখিতভাবে দাখিলের তাগিদ প্রদানের পরও উহা দাখিল না করিলে; এবং\n(১৫) এই বিধিমালার অধীন অর্পিত কোন দায়িত্ব পালন না করিলে।\n(২) উপ-বিধি (১) এর অধীন লাইসেন্স বাতিলসহ লাইসেন্সিং কর্তৃপক্ষ সংশ্লিষ্ট কাস্টমস এজেন্টকে, ক্ষেত্রমত, নিম্নরূপ অর্থদণ্ড আরোপ করিতে পারিবে, যথা:-\n(ক) কাস্টমস এজেন্ট এর কর্মকাণ্ড শুল্ক-কর ফাঁকির সহিত সংশ্লিষ্ট না হইলে অন্যূন ৫০ (পঞ্চাশ) হাজার টাকা হইতে অনূর্ধ্ব ২ (দুই) লক্ষ টাকা;\n(খ) কাস্টমস এজেন্ট কর্তৃক শুল্ক-কর ফাঁকির প্রচেষ্টা করা হইলে এবং উক্ত কর ফাঁকি সংঘটিত না হওয়া সত্ত্বেও উক্ত ফাঁকি সংঘটিত হইলে যে পরিমাণ রাজস্ব ক্ষতি সাধিত হইত উহার অনধিক ২৫ (পঁচিশ) শতাংশ অথবা ১ (এক) লক্ষ টাকার মধ্যে যাহা অধিক হয়; অথবা\n(গ) কাস্টমস এজেন্ট এর কর্মকাণ্ডের ফলে যে পরিমাণ শুল্ক-কর ফাঁকি হইয়াছে উহার অনধিক দ্বিগুণ পরিমাণ অর্থ কিংবা অন্যূন ২(দুই) লক্ষ টাকা বা উহাদের মধ্যে যাহা অধিক হয়।\n(৩) উপ-বিধি (১) Ges (২) G যাহা কিছুই থাকুক না কেন, বিধি ৯ এর উপ-বিধি (৫) এর আওতায় গৃহীত কার্যক্রমের ক্ষেত্রে কাস্টমস এজেন্ট এর বিরুদ্ধে কোন মামলা বা দাবীনামা চলমান থাকিলে উহা নিষ্পত্তি বা চূড়ান্ত না হওয়া পর্যন্ত লাইসেন্স বাতিল বা অর্থদণ্ডের বিষয়ে কোন সিদ্ধান্ত গ্রহন করা যাইবে না।",
+      "entity_concepts": {
+        "Customs Agent": [
+          "A Customs Agent is subject to license cancellation and monetary penalties if they fail to comply with licensing conditions, demonstrate professional misconduct, engage in duty evasion, or fail to provide required documents to customs officials.",
+          "The Licensing Authority must provide the Customs Agent with a reasonable opportunity to show cause within a specified timeframe before taking any disciplinary action.",
+          "No final decision on license cancellation or penalties can be taken against a Customs Agent while legal proceedings or demand notices are pending under specific provisions of these rules."
+        ],
+        "Licensing Authority": [
+          "The Licensing Authority is empowered to cancel the license of a Customs Agent and impose monetary penalties for specified violations after following due process, including issuing a show-cause notice.",
+          "The Licensing Authority determines the quantum of monetary penalties based on the severity of the violation, ranging from flat amounts to percentages of the evaded revenue or potential revenue loss."
+        ],
+        "Customs Duty": [
+          "A Customs Agent is prohibited from evading, assisting in the evasion of, or failing to report any instances of duty and tax evasion discovered during the course of business.",
+          "The penalty structure for a Customs Agent is tiered based on whether their actions resulted in actual revenue loss, attempted revenue loss, or non-duty related professional misconduct."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1038",
+      "entity_sub_entities": {
+        "Customs Agent": [
+          "license",
+          "monetary penalties",
+          "licensing conditions",
+          "professional misconduct",
+          "duty evasion",
+          "documents",
+          "customs officials",
+          "Licensing Authority",
+          "show cause",
+          "legal proceedings",
+          "demand notices"
+        ],
+        "Licensing Authority": [
+          "license",
+          "Customs Agent",
+          "monetary penalties",
+          "show-cause notice",
+          "quantum of monetary penalties",
+          "evaded revenue",
+          "potential revenue loss"
+        ],
+        "Customs Duty": [
+          "duty",
+          "tax evasion",
+          "revenue loss",
+          "non-duty related professional misconduct"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        43,
+        59,
+        84,
+        87,
+        92,
+        109,
+        378,
+        392,
+        468,
+        500,
+        600,
+        841,
+        1080,
+        4288,
+        4898,
+        7812,
+        10100,
+        10790,
+        11032,
+        11157
+      ],
+      "source_file": "customs_rules_OCR/20160605_CF_Agents_licensing_Rules_2016/20160605_CF_Agents_licensing_Rules_2016_output.json",
+      "clause_date": "2016-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20170601_147-AIN__১ জুন, ২০১৭_clause_3",
+      "resolved_text": "(৩) বিধি ১৬ এর দফা (খ) এর পরিবর্তে নিম্নলিখিত দফা (খ) প্রতিস্থাপিত হইবে, যথা:-\n\n“(খ) কুরিয়ার সার্ভিস প্রতিষ্ঠানের কর্মকান্ড শুল্ক-কর ফাঁকির সহিত সংশ্লিষ্ট হইলে, যে পরিমাণ শুল্ক-করের ক্ষতি অথবা ফাঁকি হইয়াছে উহার দ্বিগুণ পরিমাণ অর্থ অথবা ৫০ (পঞ্চাশ) হাজার টাকা, উহার মধ্যে যাহা অধিক হয় ।”।",
+      "entity_concepts": {
+        "Courier Service": [
+          "The legal provision for courier service operators is amended to introduce a specific penalty structure when their activities are associated with the evasion of customs duties and taxes."
+        ],
+        "Customs Offence Penalties": [
+          "In cases of customs duty or tax evasion involving courier services, the penalty is set at either twice the amount of the evaded duties and taxes or a fixed monetary value, whichever is higher."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1790",
+      "entity_sub_entities": {
+        "Courier Service": [
+          "courier service operators"
+        ],
+        "Customs Offence Penalties": [
+          "customs duty",
+          "tax",
+          "evaded duties",
+          "evaded taxes",
+          "fixed monetary value"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        116,
+        467,
+        1523,
+        3690,
+        6759,
+        8183
+      ],
+      "source_file": "customs_sros_OCR/20170601_147-AIN_/20170601_147-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "",
+      "text_id": "20170601_155-AIN__1 June, 2017_clause_8",
+      "resolved_text": "৭। আমদানিকৃত যন্ত্রাংশ বা উপকরণ দ্বারা মোটরসাইকেল বা যন্ত্রাংশ উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে। এক্ষেত্রে উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Motorcycle Manufacturing": [
+          "The disposal of scrap generated from the production of motorcycles or components using imported inputs is permitted through local sale with the approval of the relevant departmental customs officer."
+        ],
+        "Value Added Tax": [
+          "The importer is required to pay the applicable rate of Value Added Tax on the value of scrap material generated from manufacturing processes when such scrap is sold locally."
+        ],
+        "Customs Duty": [
+          "Any applicable customs duties and other taxes must be paid by the importer upon the local sale of production scrap generated from imported parts or materials."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1805",
+      "entity_sub_entities": {
+        "Motorcycle Manufacturing": [
+          "scrap",
+          "motorcycles",
+          "components",
+          "imported inputs"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "scrap material"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "taxes",
+          "production scrap",
+          "imported parts",
+          "materials"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        13,
+        14,
+        42,
+        57,
+        229,
+        326,
+        370,
+        797,
+        1081,
+        1466,
+        2208
+      ],
+      "source_file": "customs_sros_OCR/20170601_155-AIN_/20170601_155-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "সেবা প্রদানকারীর দায়িত্ব",
+      "text_id": "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_5",
+      "resolved_text": "৫। সেবা প্রদানকারীর দায়িত্ব।- সেবা প্রদানকারী নিম্নবর্ণিত দায়িত্ব পালন করিবে, যথা:-\n(ক) সেবা প্রদানকারী প্রতিষ্ঠান উহার উপর প্রযোজ্য মূল্য সংযোজন কর, আয়কর, অগ্রিম আয়কর, শুল্ক, চার্জ ও ফি ইত্যাদি যথাসময়ে পরিশোধ করিবে;\n(খ) সেবা প্রদানকারী প্রতিষ্ঠান চুক্তিতে নির্ধারিত সময়ের মধ্যে কন্টেইনার, কাভার্ড ভ্যান বা ট্রাক সীল ও লক করিতে ব্যর্থ হইলে উক্ত বিলম্বজনিত সময়ের জন্য বন্দর মাসুল, যদি থাকে, বন্দর কর্তৃপক্ষকে পরিশোধ করিবে;\n(গ) ইলেকট্রনিক সীল ও লক অবস্থায় পণ্য স্থানান্তরকালে আমদানিকৃত বা রপ্তানিযোগ্য পণ্য পথিমধ্যে চুরি হইলে, হারাইয়া গেলে বা অন্যবিধভাবে ক্ষতিগ্রস্ত হইলে এবং উপযুক্ত তদন্তে সেবাপ্রদানকারীর ব্যর্থতায় বা অবহেলায় ঘটনা সংঘটিত হইয়াছে বলিয়া প্রমাণিত হইলে সংশ্লিষ্ট সেবা প্রদানকারী প্রতিষ্ঠান দায়-দায়িত্ব বহন করিবে;\n(ঘ) সেবা গ্রহণকারী তাহার কন্টেইনার, কাভার্ড ভ্যান বা ট্রাকের পণ্যের অবস্থান সম্পর্কে অবগত হইতে চাহিলে সেবা প্রদানকারী প্রতিষ্ঠান বিনামূল্যে উক্ত তথ্য ডিজিটাল পদ্ধতিতে সরবরাহ করিবার ব্যবস্থা গ্রহণ করিবে;\n(ঙ) সেবা প্রদানকারী প্রতিষ্ঠান আমদানিকৃত বা রপ্তানিযোগ্য পণ্য সীল ও লক অবস্থায় পরিবহনকালে উহার প্রয়োজনীয় নিরাপত্তার ব্যবস্থা গ্রহণ করিবে;\n(চ) পণ্য পরিবহনে কন্টেইনার, কাভার্ড ভ্যান বা ট্রাকসমূহে ট্র্যাকিং করিবার সুবিধার্থে জিপিএস বা জিপিআরএস ডিভাইস স্থাপন করিবে;\n(ছ) কন্টেইনার, কাভার্ড ভ্যান বা ট্রাকসমূহকে ইলেকট্রনিক সীল ও লক করা, সীলের অখণ্ডতা ও সঠিকতা যাচাই এবং উহা খোলার সুবিধার্থে আইসিডি বা অফডক বা চট্টগ্রাম বন্দরে কিংবা বন্দর সংলগ্ন এলাকায় অফিস স্থাপন ও প্রয়োজনীয় জনবলের ব্যবস্থা করিবে; এবং\n(জ) সেবা প্রদানকারী প্রয়োজনীয় সংখ্যক ইলেকট্রনিক সীল ও লক, আনুষঙ্গিক প্রয়োজনীয় যন্ত্রপাতি-যন্ত্রাংশ নিজ ব্যয়ে সংগ্রহ করিবে এবং নির্বিঘ্নে সেবা প্রদানের উদ্দেশ্যে নিয়মিত উহা রক্ষণাবেক্ষণ করিবে।",
+      "entity_concepts": {
+        "Service Provider": [
+          "The service provider is responsible for the timely payment of all applicable taxes, including Value Added Tax, Income Tax, Advance Income Tax, Customs Duty, and other relevant charges and fees.",
+          "In case of delays in sealing or locking containers, covered vans, or trucks, the service provider must compensate the port authorities for any resulting port charges.",
+          "The service provider bears liability for any theft, loss, or damage to goods transported under electronic seal and lock if an investigation determines that the incident occurred due to the provider's negligence or failure.",
+          "The service provider must ensure the security of imported or exportable goods during transport while under seal and lock.",
+          "The service provider is required to install GPS or GPRS devices in transport vehicles to facilitate real-time tracking.",
+          "The service provider must establish offices and provide sufficient personnel at designated port areas to facilitate the application, verification, and opening of electronic seals and locks.",
+          "The service provider is responsible for procuring, at their own expense, the necessary electronic seal and lock equipment and components, and for performing regular maintenance to ensure seamless service delivery."
+        ],
+        "Customs Clearance": [
+          "The service provider must offer digital information services free of charge to customers seeking the location of their goods during transit."
+        ],
+        "Electronic Seal and Lock": [
+          "These devices must be applied to containers, covered vans, or trucks used for transporting goods, and the service provider is mandated to maintain the integrity and functionality of these systems."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1871",
+      "entity_sub_entities": {
+        "Service Provider": [
+          "Value Added Tax",
+          "Income Tax",
+          "Advance Income Tax",
+          "Customs Duty",
+          "charges",
+          "fees",
+          "containers",
+          "covered vans",
+          "trucks",
+          "port charges",
+          "goods",
+          "electronic seal and lock",
+          "GPS devices",
+          "GPRS devices",
+          "transport vehicles",
+          "offices",
+          "personnel",
+          "electronic seal and lock equipment",
+          "components"
+        ],
+        "Customs Clearance": [
+          "digital information services",
+          "goods"
+        ],
+        "Electronic Seal and Lock": [
+          "containers",
+          "covered vans",
+          "trucks",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        9,
+        10,
+        42,
+        51,
+        115,
+        151,
+        196,
+        358,
+        586,
+        731,
+        732,
+        787,
+        844,
+        855,
+        1156,
+        2892,
+        7322,
+        7678,
+        8548,
+        8549,
+        10746
+      ],
+      "source_file": "customs_sros_OCR/20180626_198-AIN_2018_30_Customs/20180626_198-AIN_2018_30_Customs_output.json",
+      "clause_date": "2018-06-26"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20190530_156-AIN_2019_25_Customs_৩০ মে, ২০১৯_clause_1",
+      "resolved_text": "উপরি-উক্ত বিধিমালার তফসিল-২ এর অনুচ্ছেদ (ঘ) এর টেবিলের কলাম (১) এর ক্রমিক নং ৬ এর বিপরীতে কলাম (৩) এ উল্লিখিত এন্ট্রি “প্রতি ১১.৬৬৪ গ্রাম ৩০০০/- টাকা” এর পরিবর্তে এন্ট্রি “প্রতি ১১.৬৬৪ গ্রাম ২,০০০/- টাকা” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "The duty rate applicable to gold or specific precious metal items is revised downward to a lower specified rate per unit of weight as defined in the schedule of the rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1921",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "gold",
+          "precious metal items",
+          "duty rate",
+          "schedule of the rules"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        368,
+        843,
+        2944,
+        4822
+      ],
+      "source_file": "customs_sros_OCR/20190530_156-AIN_2019_25_Customs/20190530_156-AIN_2019_25_Customs_output.json",
+      "clause_date": "2019-05-30"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20190530_157-AIN_2019_26_Customs_২০১৯-০৫-৩০_clause_7",
+      "resolved_text": "৬। আমদানিকৃত যন্ত্রাংশ বা উপকরণ দ্বারা লিফট উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে। এক্ষেত্রে উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Scrap Materials": [
+          "Scrap generated from the production of lifts using imported parts or materials may be sold locally with the approval of the relevant departmental customs official.",
+          "The importer is required to pay all applicable Value Added Tax and other duties and taxes on the value of such scrap."
+        ],
+        "Value Added Tax": [
+          "This tax is applicable to the sale of scrap materials generated from imported parts or components used in the local production of lifts."
+        ],
+        "Customs Duty": [
+          "Applicable duties and taxes must be paid by the importer upon the local sale of scrap materials resulting from imported production inputs."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1929",
+      "entity_sub_entities": {
+        "Scrap Materials": [
+          "scrap",
+          "imported parts",
+          "imported materials",
+          "Value Added Tax",
+          "duties",
+          "taxes"
+        ],
+        "Value Added Tax": [
+          "scrap materials",
+          "imported parts",
+          "imported components",
+          "lifts"
+        ],
+        "Customs Duty": [
+          "duties",
+          "taxes",
+          "scrap materials",
+          "imported production inputs"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        13,
+        30,
+        105,
+        370,
+        395,
+        797,
+        1105,
+        4292,
+        8928
+      ],
+      "source_file": "customs_sros_OCR/20190530_157-AIN_2019_26_Customs/20190530_157-AIN_2019_26_Customs_output.json",
+      "clause_date": "2019-05-30"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_7",
+      "resolved_text": "৬। আমদানিকৃত যন্ত্রপাতি বা উপকরণ দ্বারা কম্প্রেসর উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে। এক্ষেত্রে উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Industrial Raw Materials": [
+          "The scrap generated from the production of compressors using imported machinery or raw materials may be sold locally with the approval of the relevant customs official.",
+          "The importer is required to pay all applicable Value Added Tax and other duties and taxes on the value of such scrap material."
+        ],
+        "Value Added Tax": [
+          "Value Added Tax must be paid by the importer on the value of scrap material generated during the production process if the scrap is sold locally."
+        ],
+        "Customs Duty": [
+          "Applicable customs duties and taxes are payable on the value of scrap produced during industrial operations before such scrap can be sold in the local market."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1938",
+      "entity_sub_entities": {
+        "Industrial Raw Materials": [
+          "scrap",
+          "compressors",
+          "imported machinery",
+          "raw materials"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "scrap material"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "taxes",
+          "scrap"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        12,
+        13,
+        14,
+        177,
+        285,
+        797,
+        1353,
+        1466
+      ],
+      "source_file": "customs_sros_OCR/20190530_158-AIN_2019_27_Customs/20190530_158-AIN_2019_27_Customs_output.json",
+      "clause_date": "2019-05-30"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20210603_125-AIN_2021_14_Customs_২৪ মে, ২০২১ খ্রিষ্টাব্দ_clause_6",
+      "resolved_text": "৬। আমদানিকৃত যন্ত্রাংশ বা উপকরণ দ্বারা ওয়াশিং মেশিন উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে এবং উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Washing Machine Manufacturing": [
+          "Manufacturers producing washing machines using imported components are permitted to sell production-related scrap locally, provided they obtain prior approval from the relevant customs official."
+        ],
+        "Value Added Tax": [
+          "The importer is required to pay applicable Value Added Tax on the value of the scrap material sold locally after the manufacturing process."
+        ],
+        "Customs Duty": [
+          "The importer must pay all applicable customs duties and other related taxes on the value of the scrap material when sold within the local market."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2103",
+      "entity_sub_entities": {
+        "Washing Machine Manufacturing": [
+          "washing machines",
+          "imported components",
+          "production-related scrap",
+          "customs official"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "scrap material"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "related taxes",
+          "scrap material"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        14,
+        318,
+        395,
+        894,
+        1466,
+        1869,
+        3201,
+        4593
+      ],
+      "source_file": "customs_sros_OCR/20210603_125-AIN_2021_14_Customs/20210603_125-AIN_2021_14_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20210603_128-AIN_2021_17_Customs_২৪ মে, ২০২১_clause_5",
+      "resolved_text": "৫। আমদানিকৃত যন্ত্রাংশ বা উপকরণ দ্বারা মোটরসাইকেল বা যন্ত্রাংশ উৎপাদনের ফলে সৃষ্ট অপচয়জনিত স্ক্র্যাপ সংশ্লিষ্ট বিভাগীয় কর্মকর্তার অনুমোদনক্রমে স্থানীয়ভাবে বিক্রয় করা যাইবে এবং এই ক্ষেত্রে উক্ত স্ক্র্যাপের মূল্যের উপর প্রযোজ্য হারে মূল্য সংযোজন কর কিংবা প্রযোজ্য অন্যান্য শুল্ক-কর আমদানিকারককে পরিশোধ করিতে হইবে।",
+      "entity_concepts": {
+        "Motorcycle Manufacturing": [
+          "Manufacturers of motorcycles or their components are permitted to sell scrap resulting from production processes locally, provided they obtain authorization from the relevant customs officer."
+        ],
+        "Value Added Tax": [
+          "The importer is required to pay the applicable rate of Value Added Tax on the value of scrap sold locally arising from the production of motorcycles or their components."
+        ],
+        "Customs Duty": [
+          "In addition to other taxes, the importer must pay all applicable customs duties on the value of locally sold production scrap."
+        ],
+        "Appropriate Officer of Customs": [
+          "Local sale of production scrap generated from imported parts or materials is subject to the prior approval of the relevant departmental officer."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2121",
+      "entity_sub_entities": {
+        "Motorcycle Manufacturing": [
+          "motorcycles",
+          "components",
+          "scrap"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "scrap",
+          "motorcycles",
+          "components"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "production scrap"
+        ],
+        "Appropriate Officer of Customs": [
+          "production scrap",
+          "imported parts",
+          "materials",
+          "departmental officer"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        14,
+        17,
+        42,
+        57,
+        326,
+        370,
+        769,
+        797,
+        1081,
+        2208
+      ],
+      "source_file": "customs_sros_OCR/20210603_128-AIN_2021_17_Customs/20210603_128-AIN_2021_17_Customs_output.json",
+      "clause_date": "2021-06-03"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_14",
+      "clause_title": "ফরম-গ",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_14",
+      "resolved_text": "অঙ্গীকারনামা\n[বিধি ৯ ও ১০ দ্রষ্টব্য]\n\nবরাবর\nমহাপরিচালক (শুল্ক রেয়াত ও প্রত্যর্পণ)\nশুল্ক রেয়াত ও প্রত্যর্পণ পরিদপ্তর,\nঠিকানা: ............................\n\n(১) আমি নিম্ন স্বাক্ষরকারী ............................................................. এই মর্মে ঘোষণা প্রদান করিতেছি যে,\n(ক) আমাদের প্রতিষ্ঠান ‘......................................’ একটি রপ্তানিকারক শিল্প প্রতিষ্ঠান। নিম্নের ছক অনুযায়ী আমরা ......................... রপ্তানি করিয়াছি\n\n\n| ক্রমিক নং | বিল অব এক্সপোর্ট নং | তারিখ | ঋণপত্র/চুক্তিপত্র নং | তারিখ | রপ্তানিকৃত পণ্যের পরিমাণ (এককসহ) | প্রত্যর্পণযোগ্য শুল্কের পরিমাণ |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n\n\n(খ) রপ্তানিকৃত পণ্য প্রকৃতই রপ্তানি করা হইয়াছে, উহা বাংলাদেশের কোনো স্থানে পুনরায় খালাস করা হয় নাই এবং বাংলাদেশের কোনো স্থানে উহা পুনঃ খালাসের অভিপ্রায় নাই;\n(গ) আমরা উৎপাদক, রপ্তানিকারক হিসাবে স্পেশাল বন্ড সুবিধা ভোগ করি নাই;\n(ঘ) আলোচ্য রপ্তানিকৃত পণ্য প্রস্তুতিতে ব্যবহৃত উপকরণ আমদানির প্রমাণক হিসাবে যেই সকল বিল অব এন্ট্রি দাখিল করিয়াছি তাহা আমাদের প্রতিষ্ঠানের দাখিলপত্রে প্রতিফলিত হইয়াছে;\n(ঙ) আলোচ্য রপ্তানিযোগ্য পণ্য উৎপাদনে যে সমস্ত কাঁচামাল ব্যবহৃত হইয়াছে সেই সমস্ত কাঁচামাল আমদানিকালীন কোনো বন্ড সুবিধা গ্রহণ করি নাই;\n(চ) বাংলাদেশ ব্যাংক হইতে জারিকৃত সার্কুলার এর আওতায় নগদ সহায়তা গ্রহণ করিয়াছি/ করি নাই (নগদ সহায়তা গ্রহণ করিয়া থাকিলে তাহার তথ্য);\n(ছ) এই যাবৎ আমাদের প্রতিষ্ঠানের নিকট সরকারের কোনো শুল্ক কর, মূল্য সংযোজন কর ও সম্পূরক শুল্ক পাওনা নাই এবং কোনো পাওনা উদ্ভব হইলে আপনার দপ্তর হইতে পত্র মারফত দাবি করা মাত্রই তাহা সরকারের কোষাগারে জমা প্রদানে বাধ্য থাকিব;\n(জ) আমদানি শুল্ক প্রত্যর্পণ বিধিমালা, ২০২১ এর বিধি ১১ এর বিধান অনুযায়ী ভুলক্রমে গৃহীত প্রত্যর্পণ সমন্বয় করিতে বাধ্য থাকিব;\n(ঝ) শুল্ক রেয়াত ও প্রত্যর্পণ পরিদপ্তরের নিকট দাখিলকৃত এই আবেদনের সহিত সংযুক্ত সকল দলিল, তথ্য আমার দ্বারা স্বাক্ষরিত, যা সঠিক ও সত্য। উক্ত তথ্যাদি ও দাখিলকৃত দলিলাহে পরবর্তীতে যদি ভুল বা মিথ্যা প্রমাণিত হয়, তাহা হইলে আমাদের অনুকূলে প্রদত্ত কিন্তু প্রাপ্য নহে এইরূপ সমুদয় অর্থ ফেরত প্রদানসহ যে কোনো আইনানুগ শাস্তি মানিয়া লইতে বাধ্য থাকিব।\n\n(২) বর্ণিত পরিস্থিতিতে আবেদন অনুযায়ী আমাদের প্রতিষ্ঠানের নামে পরিচালিত হিসাব নং-.................... এর বরাবরে চেক ও কার্যাদেশ ইস্যু করিবার জন্য অনুরোধ করিতেছি।\n\nনিবেদক,\n\nচেয়ারম্যান/ব্যবস্থাপনা পরিচালকের স্বাক্ষর\nনাম:.....................\nপদবি: ..................\n\n** ক্ষেত্রবিশেষে অতিরিক্ত তথ্য সংযোজনের প্রয়োজন হইলে আলাদা পৃষ্ঠা সংযুক্ত করা যাইবে।",
+      "entity_concepts": {
+        "Duty Drawback": [
+          "This form represents a formal undertaking by an exporter to claim duty drawback, requiring declarations regarding the status of exported goods and the non-receipt of other bonded facility benefits.",
+          "Applicants must ensure that all documentation submitted to the Directorate of Duty Exemption and Drawback is accurate, and they are legally liable to refund any erroneously received drawback payments."
+        ],
+        "Directorate of Duty Exemption and Drawback": [
+          "This government body is the authority to which exporters must submit their applications and declarations for duty drawback eligibility.",
+          "The Directorate is authorized to verify the accuracy of the information provided and may demand the recovery of any unpaid government dues, including customs duty, Value Added Tax, and Supplementary Duty."
+        ],
+        "Customs Duty": [
+          "Exporters are required to declare that there are no outstanding government dues concerning customs duty, Value Added Tax, and Supplementary Duty.",
+          "If any such dues are discovered, the exporter is contractually bound to deposit the outstanding amount into the government treasury upon demand."
+        ],
+        "Duty Drawback Rules 2021": [
+          "The rules establish the regulatory framework under which exporters must reconcile and return any duty drawback funds that were inadvertently or incorrectly received."
+        ],
+        "Special Bonded Warehouse": [
+          "Exporters must explicitly declare whether they have utilized special bond facilities for the raw materials used in the production of the exported goods, as this affects their eligibility for duty drawback."
+        ],
+        "Bill of Export": [
+          "This document serves as primary evidence of export for the purpose of claiming duty drawback, and its details must be systematically recorded in the application form."
+        ],
+        "Bill of Entry": [
+          "Exporters must provide details of the Bills of Entry used for the importation of raw materials to prove that these inputs have been accurately accounted for in their institutional records."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2156",
+      "entity_sub_entities": {
+        "Duty Drawback": [
+          "duty drawback",
+          "exported goods",
+          "bonded facility benefits",
+          "drawback payments"
+        ],
+        "Directorate of Duty Exemption and Drawback": [
+          "applications",
+          "declarations",
+          "customs duty",
+          "Value Added Tax",
+          "Supplementary Duty",
+          "government dues"
+        ],
+        "Customs Duty": [
+          "government dues",
+          "customs duty",
+          "Value Added Tax",
+          "Supplementary Duty",
+          "outstanding amount",
+          "government treasury"
+        ],
+        "Duty Drawback Rules 2021": [
+          "duty drawback funds"
+        ],
+        "Special Bonded Warehouse": [
+          "special bond facilities",
+          "raw materials",
+          "exported goods"
+        ],
+        "Bill of Export": [
+          "Bill of Export",
+          "application form"
+        ],
+        "Bill of Entry": [
+          "Bills of Entry",
+          "raw materials",
+          "institutional records"
+        ]
+      },
+      "clause_clusters": [
+        9,
+        10,
+        12,
+        27,
+        36,
+        68,
+        90,
+        142,
+        164,
+        220,
+        321,
+        331,
+        564,
+        590,
+        774,
+        1196,
+        2380,
+        2675,
+        2914,
+        6038,
+        7523,
+        9120,
+        12269
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20210816_266-AIN_2021_45_Customs_০৪ আগস্ট, ২০২১_clause_2",
+      "resolved_text": "২। সংজ্ঞা।— (১) বিষয় বা প্রসঙ্গের পরিপন্থী কোনো কিছু না থাকিলে, এই বিধিমালায়—\n(ক) “আইন” অর্থ Customs Act, 1969 (Act No. IV of 1969);\n(খ) “আমদানি শুল্ক” অর্থ রপ্তানিকৃত পণ্য প্রস্তুতি বা উৎপাদনে ব্যবহৃত উপকরণের বিপরীতে আমদানি পর্যায়ে পরিশোধিত কাস্টমস ডিউটি ও রেগুলেটরি ডিউটি;\n(গ) “উপকরণ-উৎপাদ সম্পর্ক (input-output co-efficient)” অর্থ প্রতি একক রপ্তানিকৃত পণ্য উৎপাদনে ব্যবহৃত উপকরণসমূহের অপচয়সহ মোট পরিমাণ;\n(ঘ) “প্রকৃত হার” অর্থ কোনো নির্দিষ্ট পণ্য প্রতি একক রপ্তানিকৃত পণ্য উৎপাদনের জন্য প্রস্তুতকারী প্রতিষ্ঠানকে অপচয়সহ ব্যবহৃত আমদানিকৃত উপকরণের বিপরীতে পরিশোধিত সমপরিমাণ আমদানি শুল্ক;\n(ঙ) “প্রচ্ছন্ন রপ্তানি” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ২ এর দফা (৬২) এ সংজ্ঞায়িত প্রচ্ছন্ন রপ্তানি;\n(চ) “বন্ডেড প্রতিষ্ঠান” অর্থ Customs Act, 1969 এর section 13 এর অধীন বেসরকারি ওয়ারহাউসের জন্য লাইসেন্সপ্রাপ্ত প্রতিষ্ঠান;\n(ছ) “বিল অব এক্সপোর্ট” অর্থ Customs Act, 1969 এর section 2 এর clause (d) এ সংজ্ঞায়িত বিল অব এক্সপোর্ট;\n(জ) “বোর্ড” অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর Article 3 এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ঝ) “মহাপরিচালক (শুল্ক রেয়াত ও প্রত্যর্পণ)” অর্থ Customs Act, 1969 এর section 3 এর clause (g) এ উল্লিখিত মহাপরিচালক (শুল্ক রেয়াত ও প্রত্যর্পণ);\n(ঞ) “রপ্তানি” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর ধারা ২ এর দফা (৮২) এ সংজ্ঞায়িত এবং Customs Act, 1969 এ উল্লিখিত রপ্তানি;\n(ট) “রপ্তানিকারক” অর্থ এইরূপ কোনো ব্যক্তি বা প্রতিষ্ঠান যিনি বা যে—\n(অ) তাহার উৎপাদিত পণ্য অথবা অন্যভাবে সংগৃহীত পণ্য সরকার কর্তৃক, সময় সময়, জারিকৃত রপ্তানি নীতিতে বর্ণিত শর্তাবলি এবং বাংলাদেশ ব্যাংক কর্তৃক, সময় সময়, জারিকৃত বৈদেশিক মুদ্রা সংক্রান্ত বিধি-বিধান পরিপালন করিয়া সরাসরি রপ্তানি প্রক্রিয়াকরণ এলাকায় অথবা বাংলাদেশের বাহিরে রপ্তানি করেন; বা\n(আ) প্রচ্ছন্ন রপ্তানি কার্যক্রম সম্পাদন করেন;\n(ঠ) “রপ্তানির তারিখ” অর্থ Customs Act, 1969 এর section 131 এর অধীন রপ্তানির উদ্দেশ্যে যে তারিখে বিল অব এক্সপোর্ট দাখিল করা হয় সেই তারিখ; এবং\n(ড) “সমহার” অর্থ কোনো প্রতিষ্ঠান বা সমজাতীয় অন্য কোনো প্রতিষ্ঠান কর্তৃক একই ধরনের উপকরণ ব্যবহার করিয়া অভিন্ন বা সমজাতীয় পণ্য উৎপাদনপূর্বক প্রতি একক রপ্তানিকৃত পণ্যের বিপরীতে নির্ধারিত হারের পরিমাণে আমদানি শুল্ক।\n(২) এই বিধিমালায় যে সকল শব্দ বা অভিব্যক্তি ব্যবহৃত হইয়াছে কিন্তু সংজ্ঞা প্রদান করা হয় নাই, সেই সকল শব্দ বা অভিব্যক্তি আইনে যে অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The term Act is defined as the Customs Act 1969 for the purpose of these rules.",
+          "It serves as the parent legal instrument for interpreting terms not specifically defined within this regulation."
+        ],
+        "Import Duty": [
+          "This is defined as the customs duty and regulatory duty paid at the import stage against materials used in the production or manufacturing of exported goods."
+        ],
+        "Input-Output Coefficient": [
+          "It refers to the total quantity of inputs, including wastage, consumed in the production of one unit of exported goods."
+        ],
+        "Actual Rate": [
+          "This refers to the amount of import duty paid on imported materials, including wastage, used by a manufacturer to produce one unit of a specific exported product."
+        ],
+        "Deemed Export": [
+          "This is defined as per the meaning assigned in the Value Added Tax and Supplementary Duty Act 2012."
+        ],
+        "Bonded Institution": [
+          "This refers to an establishment licensed to operate as a private warehouse under the provisions of the Customs Act 1969."
+        ],
+        "Bill of Export": [
+          "The term refers to the document as defined under the relevant clauses of the Customs Act 1969."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the authority established under the National Board of Revenue Order 1972."
+        ],
+        "Director General (Duty Exemption and Drawback)": [
+          "This refers to the official designated under the Customs Act 1969 as responsible for matters concerning duty exemption and drawback."
+        ],
+        "Export": [
+          "This refers to the act of exporting as defined under the Value Added Tax and Supplementary Duty Act 2012 and the Customs Act 1969."
+        ],
+        "Exporter": [
+          "An exporter is defined as a person or institution that exports goods either directly to locations outside Bangladesh or to export processing zones, or performs deemed export activities while complying with export policies and central bank regulations."
+        ],
+        "Date of Export": [
+          "This is defined as the date on which the bill of export is submitted for the purpose of exportation in accordance with the Customs Act 1969."
+        ],
+        "Average Rate": [
+          "This refers to a fixed rate of import duty determined per unit of exported goods produced by a firm or similar firms using the same types of inputs for identical or similar products."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2144",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Customs Act 1969"
+        ],
+        "Import Duty": [
+          "customs duty",
+          "regulatory duty",
+          "materials",
+          "exported goods"
+        ],
+        "Input-Output Coefficient": [
+          "inputs",
+          "wastage",
+          "exported goods"
+        ],
+        "Actual Rate": [
+          "import duty",
+          "imported materials",
+          "wastage",
+          "exported product"
+        ],
+        "Deemed Export": [
+          "Value Added Tax and Supplementary Duty Act 2012"
+        ],
+        "Bonded Institution": [
+          "private warehouse",
+          "Customs Act 1969"
+        ],
+        "Bill of Export": [
+          "Bill of Export",
+          "Customs Act 1969"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue Order 1972"
+        ],
+        "Director General (Duty Exemption and Drawback)": [
+          "Customs Act 1969"
+        ],
+        "Export": [
+          "Value Added Tax and Supplementary Duty Act 2012",
+          "Customs Act 1969"
+        ],
+        "Exporter": [
+          "person",
+          "institution",
+          "goods",
+          "Bangladesh",
+          "export processing zones",
+          "deemed export",
+          "export policies",
+          "central bank regulations"
+        ],
+        "Date of Export": [
+          "bill of export",
+          "Customs Act 1969"
+        ],
+        "Average Rate": [
+          "import duty",
+          "exported goods",
+          "inputs",
+          "products"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        10,
+        22,
+        52,
+        57,
+        70,
+        75,
+        77,
+        83,
+        90,
+        105,
+        106,
+        137,
+        142,
+        234,
+        288,
+        300,
+        461,
+        810,
+        846,
+        1372,
+        2000,
+        2143,
+        3358,
+        3797,
+        5879,
+        6040,
+        6241,
+        7921,
+        7959
+      ],
+      "source_file": "customs_sros_OCR/20210816_266-AIN_2021_45_Customs/20210816_266-AIN_2021_45_Customs_output.json",
+      "clause_date": "2021-08-16"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "ব্যাখ্যা",
+      "text_id": "20221018_251-Act_2022_133_Customs_২০ জুলাই ২০২২_clause_2",
+      "resolved_text": "ব্যাখ্যা।—কলাম (৬) এ বর্ণিত Ex বা Exclusively Applicable অর্থ উল্লেখিত পণ্যের HS Code-এ একাধিক পণ্য অন্তর্ভুক্ত থাকিলেও কেবল Table-এর কলাম (৩) এ বর্ণিত পণ্যটির ক্ষেত্রেই কলাম (৫) এ বর্ণিত Customs Duty (CD) হার প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "The application of customs duty rates is specified for goods within a tariff heading where the term Exclusively Applicable implies that the duty rate pertains solely to the specific item described in the relevant table column, even if the HS Code covers multiple types of goods."
+        ],
+        "H.S. Code": [
+          "The HS Code is used to categorize goods, and specific customs duty rates are restricted to individual items within these codes when marked as exclusively applicable in the official table."
+        ],
+        "TABLE": [
+          "The table provides a structured framework for defining the scope of customs duty application by mapping specific goods to their respective duty rates, utilizing designations such as exclusively applicable to clarify tax liabilities for items under a shared HS Code."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2384",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "customs duty rates",
+          "goods",
+          "tariff heading",
+          "item"
+        ],
+        "H.S. Code": [
+          "HS Code",
+          "goods",
+          "customs duty rates",
+          "individual items"
+        ],
+        "TABLE": [
+          "table",
+          "goods",
+          "duty rates",
+          "tax liabilities",
+          "HS Code"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        26,
+        320,
+        408,
+        763,
+        1412,
+        2282,
+        9002
+      ],
+      "source_file": "customs_sros_OCR/20221018_251-Act_2022_133_Customs/20221018_251-Act_2022_133_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২৫২-আইন/২০২২/১৩২/কাস্টমস",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২৫২-আইন/২০২২/১৩২/কাস্টমস—যেহেতু পারস্পরিক বাণিজ্য সম্প্রসারণের লক্ষ্যে D-8-ভুক্ত দেশসমূহের মধ্যে Preferential Trade Agreement Among D-8 Member States শীর্ষক চুক্তি, অতঃপর উক্ত চুক্তি বলিয়া উল্লিখিত, ২৫ আগস্ট, ২০১১ তারিখে কার্যকর হইয়াছে; এবং\n\nযেহেতু উক্ত চুক্তির Article 2 এর clause (b) এর উদ্দেশ্যপূরণকল্পে, উহার Article 5 এর clause (1) ও (2) এবং Article 6 এ বর্ণিত Concession List অনুযায়ী, চুক্তিভুক্ত দেশসমূহের আমদানি শুল্ক হার হ্রাস করিবার বিধান রহিয়াছে; এবং\n\nযেহেতু উক্ত চুক্তি অনুযায়ী বাংলাদেশ কর্তৃক Concession List অনুমোদন ও প্রেরণ করা হইয়াছে;\n\nসেহেতু সরকার, Customs Act, 1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 19 এর sub-section (1)-এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, উক্ত Act এর FIRST SCHEDULE-ভুক্ত পণ্যসমূহের মধ্যে নিম্নের TABLE এর কলাম (১) এ উল্লিখিত ক্রমিক নম্বর (Sl. No.) এর বিপরীতে কলাম (২) এ বর্ণিত H.S Code-সমূহের আওতাভুক্ত কলাম (৩) এ উল্লিখিত বর্ণনা (Description)-এর পণ্যের উপর আরোপণীয় আমদানি শুল্কের যে পরিমাণ কলাম (৫) এ বর্ণিত হারের অতিরিক্ত হয় সেই পরিমাণ হইতে, উক্ত চুক্তিতে বর্ণিত মেয়াদের জন্য, Annex I এ বর্ণিত দেশসমূহে উৎপাদিত ও প্রক্রিয়াজাতকৃত পণ্যের ক্ষেত্রে Annex II এ বর্ণিত Rules of Origin for The Preferential Trade Agreement (PTA) among the D-8 Member States-তে বর্ণিত শর্তাবলি প্রতিপালন সাপেক্ষে, অব্যাহতি প্রদান করিল, যথা:—\n\nTABLE\n\n\n| Sl. No. | HS Code | Description | Base Rate (FY 2007-2008) | Preferential rate under D-8 PTA | Remarks |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 0502.10.00 | Pigs', hogs', or boars' bristles or hair & waste there of | 15 | 10 |  |\n| 2 | 0502.90.00 | Badger and other brush making hair & waste there of | 15 | 10 |  |\n| 3 | 0505.10.00 | Raw feathers for stuffing; down | 15 | 10 |  |\n| 4 | 0505.90.00 | Skins and parts of birds (excl. Feathers for stuffing; down) | 15 | 10 |  |\n| 5 | 0506.10.00 | Ossein and bones treated with acid | 15 | 10 |  |\n| 6 | 0510.00.90 | Other animal products used in the preparation of pharmaceuticals products | 15 | 10 |  |\n| 7 | 1008.10.10 | Buckwheat, Wrapped/Canned upto 2.5 kg | 15 | 10 |  |\n| 8 | 1008.10.90 | Buckwheat, nes | 15 | 10 |  |\n| 9 | 1008.29.10 | Millet other than Seed, Wrapped/canned upto 2.5 Kg | 15 | 10 |  |\n| 10 | 1008.29.90 | Millet other than Seed, EXCL. Wrapped/canned upto 2.5 Kg | 15 | 10 |  |\n| 11 | 1008.30.10 | Canary Seed, Wrapped/Canned upto 2.5 kg | 15 | 10 |  |\n| 12 | 1008.90.10 | Other Cereal, Wrapped/Canned upto 2.5 kg | 15 | 10 |  |\n| 13 | 1008.90.90 | Other cereal, nes | 15 | 10 |  |\n| 14 | 1202.41.10 | Ground-nuts, not roasted or otherwise cooked, whether in Shell, Wrapped/canned upto 2.5 kg | 15 | 10 |  |\n| 15 | 1202.42.10 | Other Ground-nuts, Shelled whether or not broken Wrapped/canned upto 2.5 Kg | 15 | 10 |  |\n| 16 | 1210.10.10 | Hop Cones(Not Ground,Powdered Or Pellets) Fresh Or Drired, Wrapped/Canned upto 2.5 kg | 15 | 10 |  |\n| 17 | 1210.10.90 | Hop cones (not ground,powdered or pellets) fresh or dried, nes | 15 | 10 |  |\n| 18 | 1210.20.00 | Hop cones, ground, powdered or in pellets; lupulin | 15 | 10 |  |\n| 19 | 1211.30.10 | Coco leaf, wrapped/canned upto 2.5 kg | 15 | 10 |  |\n| 20 | 1211.30.90 | Coco leaf, nes | 15 | 10 |  |\n| 21 | 1211.40.10 | Poppy straw, wrapped/canned upto 2.5 kg | 15 | 10 |  |\n| 22 | 1211.40.90 | Poppy straw, nes | 15 | 10 |  |\n| 23 | 1211.90.11 | Plants or parts, used in perfume....,Nes, Wrapped/Canned upto 2.5 kg | 15 | 10 |  |\n| 24 | 1212.21.11 | Seaweeds and other algae: Fit for human consumption Wrapped/canned upto 2.5 Kg | 15 | 10 |  |\n| 25 | 1212.29.11 | Seaweeds and other algae: Other than Fit for human consumption Wrapped/canned upto 2.5 kg | 15 | 10 |  |\n| 26 | 1212.91.10 | Sugar Beet, Fresh, Dried, Chilled Or Frozen, Wrapped/Canned upto 2.5 kg | 15 | 10 |  |\n| 27 | 1212.91.90 | Sugar beet, fresh, dried, chilled or frozen, nes | 15 | 10 |  |\n| 28 | 1212.93.10 | Sugar cane Wrapped/canned upto 2.5 Kg | 15 | 10 |  |\n| 29 | 1302.11.00 | Opium vegetable sap for pharma | 15 | 10 |  |\n| 30 | 1302.12.00 | Liquorice sap and extract | 15 | 10 |  |\n| 31 | 1302.13.00 | Hop sap and extract | 15 | 10 |  |\n| 32 | 1404.20.90 | Cotton linters, nes | 15 | 10 |  |\n| 33 | 1504.30.00 | Marine mammal fats, oils and their fractions | 15 | 10 |  |\n| 34 | 1506.00.00 | Other animal fats and oils and their fractions | 15 | 10 |  |\n| 35 | 1508.10.00 | Crude ground-nut oil | 15 | 10 |  |\n| 36 | 1512.11.00 | Crude sunflower-seed oil and safflower oil | 15 | 10 |  |\n| 37 | 1512.21.00 | Crude cotton-seed oil,whether or not gossypol has been removed | 15 | 10 |  |\n| 38 | 1514.11.00 | Low eruic acid rape or colza oil and its fractions, crude oil | 15 | 10 |  |\n| 39 | 1515.11.00 | Crude linseed oil | 15 | 10 |  |\n| 40 | 1515.21.00 | Crude maize (corn) oil | 15 | 10 |  |\n| 41 | 1522.00.00 | Degras; residues of fatty substances or animal or vegetable waxes | 15 | 10 |  |\n| 42 | 1801.00.00 | Cocoa beans, whole or broken, raw or roasted | 15 | 10 |  |\n| 43 | 1802.00.00 | Cocoa shells, husks, skins and other cocoa waste | 15 | 10 |  |\n| 44 | 2511.20.00 | Natural barium carbonate (whitherife) | 15 | 10 |  |\n| 45 | 2525.30.00 | Mica waste | 15 | 10 |  |\n| 46 | 2530.20.00 | Kieserite, epsomite (natural magnesium sulphates) | 15 | 10 |  |\n| 47 | 2619.00.00 | Slag,dross,etc,from the manufacture of iron/steel (excl.granulated slag) | 15 | 10 |  |\n| 48 | 2621.90.10 | Crude potassium saalts obtained from residues of beet molasses | 15 | 10 |  |\n| 49 | 2701.20.00 | Briquettes, ovoids and similar solid fuels manufactured from coal | 15 | 10 |  |\n| 50 | 2702.10.00 | Lignite, not agglomerated | 15 | 10 |  |\n| 51 | 2702.20.00 | Agglomerated lignite | 15 | 10 |  |\n| 52 | 2703.00.00 | Peat (incl. Peat litter), whetehr or not agglomerated. | 15 | 10 |  |\n| 53 | 2706.00.90 | Tar distilled from coal,lignite or peat,& other mineral tars nes(exc.crude) | 15 | 10 |  |\n| 54 | 2707.10.00 | Benzole | 15 | 10 |  |\n| 55 | 2708.20.00 | Pitch coke obtained from coal tar or from other mineral tars | 15 | 10 |  |\n| 56 | 2713.11.00 | Petroleum coke, not calcined | 15 | 10 |  |\n| 57 | 2714.10.00 | Bituminous or oil shale and tar sands | 15 | 10 |  |\n| 58 | 2805.30.00 | Rare-earth metals, scandium and yttrium | 15 | 10 |  |\n| 59 | 2806.20.00 | Chlorosulphuric acid | 15 | 10 |  |\n| 60 | 2809.10.00 | Diphosphorus pentaoxide | 15 | 10 |  |\n| 61 | 2813.10.00 | Carbon disulphide | 15 | 10 |  |\n| 62 | 2813.90.00 | Sulphides of non metals(ex.carbon disulphide)comrcl,phosphorus trisulphide | 15 | 10 |  |\n| 63 | 2821.20.00 | Earth colours containing >=70% by weight of combined iron | 15 | 10 |  |\n| 64 | 2824.10.00 | Lead monoxide (litharge, massicot) | 15 | 10 |  |\n| 65 | 2825.30.00 | Vanadium oxides and hydroxides | 15 | 10 |  |\n| 66 | 2825.40.00 | Nickel oxides and hydroxides | 15 | 10 |  |\n| 67 | 2825.60.00 | Germanium oxides and zirconium dioxides | 15 | 10 |  |\n| 68 | 2826.12.00 | Fluorides of aluminium | 15 | 10 |  |\n| 69 | 2826.30.00 | Sodium hexafluoro aluminate (synthetic cryolite) | 15 | 10 |  |\n| 70 | 2827.41.00 | Chloride oxides and chloride hydroxides of copper | 15 | 10 |  |\n| 71 | 2836.92.00 | Strontium carbonate | 15 | 10 |  |\n| 72 | 2840.11.00 | Anhydrous disodium tetraborate (refined borax) | 15 | 10 |  |\n| 73 | 2841.80.00 | Tungstates (wolframates) | 15 | 10 |  |\n| 74 | 2844.10.00 | Natural uranium and its compounds; alloys, dispersions (incl. Cermets), ceramic product.. | 15 | 10 |  |\n| 75 | 2844.20.00 | Uranium enriched in u235 and its compunds, plutonium and its compounds; alloys… | 15 | 10 |  |\n| 76 | 2844.30.00 | Uranium depleted in u235 and its compounds; thorium and its compounds; alloys… | 15 | 10 |  |\n| 77 | 2849.90.00 | Other carbides (excl. Of calcium and silicon) | 15 | 10 |  |\n| 78 | 2901.21.00 | Ethylene | 15 | 10 |  |\n| 79 | 2901.22.00 | Propene (propylene) | 15 | 10 |  |\n| 80 | 2901.24.00 | Buta-1,3-diene and isoprene | 15 | 10 |  |\n| 81 | 2902.11.00 | Cyclohexane | 15 | 10 |  |\n| 82 | 2902.20.00 | Benzene | 15 | 10 |  |\n| 83 | 2902.60.00 | Ethylbenzene | 15 | 10 |  |\n| 84 | 2902.70.00 | Cumene | 15 | 10 |  |\n| 85 | 2903.11.00 | Chloromethane (methyl chloride) and chloroethane (ethyl chloride) | 15 | 10 |  |\n| 86 | 2903.14.00 | Carbon tetrachloride | 15 | 10 |  |\n| 87 | 2903.15.00 | 1,2-dichloroethane (ethylene dichloride) | 15 | 10 |  |\n| 88 | 2903.62.00 | Ethylene dibromide (ISO) (1,2dibromoethane) | 15 | 10 |  |\n| 89 | 2903.76.00 | Bromochlorodifluoromethane, bromotrifluoromethane and Dibromotetrafluoroethanes | 15 | 10 |  |\n| 90 | 2903.77.30 | Trichlorotrifluoroethanes | 15 | 10 |  |\n| 91 | 2903.77.40 | Dichlorotetrafluoroethanes and chloropentafluoroethane | 15 | 10 |  |\n| 92 | 2903.77.50 | Other derivatives perhalogenated only with fluorine and chlorine | 15 | 10 |  |\n| 93 | 2903.78.00 | Other perhalogenated derivatives | 15 | 10 |  |\n| 94 | 2903.82.00 | Aldrin (ISO), chlordane (ISO) and heptachlor (ISO) | 15 | 10 |  |\n| 95 | 2903.89.00 | Other halogenated derivaties of.. .EXLC. 1-6 Hexa ., Aldin, chlordane (ISO) and heptachl | 15 | 10 |  |\n| 96 | 2903.92.00 | Hexachlorobenzene (ISO) and DDT (ISO) (clofenotane (INN), .loro-2,2-bis(p-chlorophenyl) | 15 | 10 |  |\n| 97 | 2904.20.00 | Hydrocarbon derivatives containing only nitro/nitroso groups | 15 | 10 |  |\n| 98 | 2905.29.00 | Other unsaturated monohydric alcohols, nes | 15 | 10 |  |\n| 99 | 2905.51.00 | Ethchlorvynol(inn) | 15 | 10 |  |\n| 100 | 2906.12.00 | Cyclohexanol, methylcyclohexanols and dimethylcyclohexanols | 15 | 10 |  |\n| 101 | 2912.21.00 | Benzaldehyde | 15 | 10 |  |\n| 102 | 2912.49.00 | Oth.aldehyde-ether,aldehyde phenols,aldehydes,with oth.oxygen function,nes | 15 | 10 |  |\n| 103 | 2912.50.00 | Cyclic polymers of aldehydes | 15 | 10 |  |\n| 104 | 2914.19.00 | Other acyclic ketones, without oxygen function, nes | 15 | 10 |  |\n| 105 | 2914.23.00 | Ionones and methylionones | 15 | 10 |  |\n| 106 | 2914.31.00 | Phenylacetone (phenylpropan-2-one) | 15 | 10 |  |\n| 107 | 2914.39.00 | Other aromatic ketones without other oxygen function (excl. Phenylacetone) | 15 | 10 |  |\n| 108 | 2915.13.00 | Esters of formic acid | 15 | 10 |  |\n| 109 | 2915.36.00 | Dinoseb (ISO) acetate | 15 | 10 |  |\n| 110 | 2915.40.00 | Mono-, di- or trichloroacetic acids, their salts and esters | 15 | 10 |  |\n| 111 | 2926.10.00 | Acrylonitrile | 15 | 10 |  |\n| 112 | 2926.30.00 | Fenproporex (inn) & its salts; methadone (inn) inter. (4-cya.2 dim. -4, 4-diphenyl. | 15 | 10 |  |\n| 113 | 2932.12.00 | 2-furaldehyde (furfuraldehyde) | 15 | 10 |  |\n| 114 | 2932.91.00 | Isosafrole | 15 | 10 |  |\n| 115 | 2932.92.00 | 1-(1,3-benzodioxol-5-yl)propan-2-one | 15 | 10 |  |\n| 116 | 2932.93.00 | Piperonal | 15 | 10 |  |\n| 117 | 2932.94.00 | Safrole | 15 | 10 |  |\n| 118 | 2932.95.00 | Tetrahydrocannabinols (all isomers) | 15 | 10 |  |\n| 119 | 2933.32.00 | Piperidine and its salts | 15 | 10 |  |\n| 120 | 2933.41.00 | Levorphanol (inn)and its salts | 15 | 10 |  |\n| 121 | 2939.20.90 | Alkaloids of cinchona and their derivatives; salts thereof, Exlc. Quinine and i | 15 | 10 |  |\n| 122 | 2939.41.00 | Ephedrine and its salts excl.pseudoephedrine (inn) and its salts | 15 | 10 |  |\n| 123 | 2939.42.00 | Pseudoephedrine (inn) and its salts | 15 | 10 |  |\n| 124 | 2939.43.00 | Cathine (inn) and its salts | 15 | 10 |  |\n| 125 | 2939.45.00 | Levometamfetamine, metamfetamine (INN), metamfetamine racemate and their salts | 15 | 10 |  |\n| 126 | 2939.49.00 | Other ephedrines and their salts nes | 15 | 10 |  |\n| 127 | 2939.62.00 | Ergotamine (inn) and its salts | 15 | 10 |  |\n| 128 | 2939.63.00 | Lysergic acid and its salts | 15 | 10 |  |\n| 129 | 2939.72.00 | Cocaine, ecgonine;salts, esters and other derivatives thereof | 15 | 10 |  |\n| 130 | 3301.25.00 | Essential oils of mints (incl. Concretes and absolutes), nes | 15 | 10 |  |\n| 131 | 3501.10.00 | Casein | 15 | 10 |  |\n| 132 | 3502.19.00 | Egg albumin(excluding dried egg albumin) | 15 | 10 |  |\n| 133 | 3502.20.00 | Milk albumin, including concentrates of two or more whey proteins | 15 | 10 |  |\n| 134 | 3502.90.00 | Albumins (excl. Egg albumin and milk albumin), albuminates and other derivatives | 15 | 10 |  |\n| 135 | 3701.20.00 | Instant print flat film, unexposed | 15 | 10 |  |\n| 136 | 3702.31.00 | Photographic for color photos film,in rolls,non-perforated, | 15 | 10 |  |\n| 137 | 3702.32.00 | Photo Film, In Rolls, Non Perforated, With Silver... Emulsion, Width =<105mn | 15 | 10 |  |\n| 138 | 3702.41.00 | Color Photo Film, In Rolls, Non Perforated, Width >610mm And Length >200mm | 15 | 10 |  |\n| 139 | 3702.42.00 | Photo Film,In Rolls,Non Perforated,Width >610mm Length >200m(Excl. Colour) | 15 | 10 |  |\n| 140 | 3702.52.00 | Oth. Film, for colour.., of a width not exceeding 16mm | 15 | 10 |  |\n| 141 | 3702.53.00 | Color Photo Slide Film, In Rolls, Width >16mm But =<35mm, Length =<30m | 15 | 10 |  |\n| 142 | 3702.54.00 | Oth. Film, for colour..,of a width exce.16mm but not exce.35mm and of..not exce.30m.. | 15 | 10 |  |\n| 143 | 3702.55.00 | Oth. Film, for colour..,of a width exce.16mm but not exce.35mm and of.. Exce.30m | 15 | 10 |  |\n| 144 | 3702.56.00 | Oth. Film, for colour..,of a width exceeding 35mm | 15 | 10 |  |\n| 145 | 3702.96.00 | Other Photographic film of a width not exceeding 35 mm and of a length not exceeding 30 | 15 | 10 |  |\n| 146 | 3702.97.00 | Other Photographic film of a width not exceeding 35 mm and of a length exceeding 30 m | 15 | 10 |  |\n| 147 | 3702.98.00 | Other Photographic film of a width exceeding 35 mm | 15 | 10 |  |\n| 148 | 3705.00.00 | Photographic plates and film, exposed and developed, other than cinematographic film | 15 | 10 |  |\n| 149 | 3801.20.00 | Colloidal graphite or semi-colloidal graphite | 15 | 10 |  |\n| 150 | 3803.00.00 | Tall oil, whether or not refined | 15 | 10 |  |\n| 151 | 3807.00.00 | Wood tar; wood tar oils; wood creosote; wood naphtha..., etc | 15 | 10 | Ex |\n| 152 | 38.16.00.90 | Agglomerated dolomite (incl. Tarred dolomite) | 15 | 10 |  |\n| 153 | 3823.13.00 | Tall oil fatty acids | 15 | 10 |  |\n| 154 | 3824.81.00 | Containing oxirane (ethylene oxide) | 15 | 10 |  |\n| 155 | 3824.82.00 | Containing polychlorinated biphenyls (pcbs), ?.(pcts) or polybrominated biphen | 15 | 10 |  |\n| 156 | 3824.83.00 | Containing tris(2,3dibromopropyl) phosphate | 15 | 10 |  |\n| 157 | 3827.11.00 | Mixtures cont.acyclic hydrocarbos perhalogenatd only wth fluorine & chlorine | 15 | 10 | Ex |\n| 158 | 3827.12.00 | Containing hydrobromofluorocarbons (hbfcs) | 15 | 10 |  |\n| 159 | 3827.13.00 | Containing carbon tetrachloride | 15 | 10 |  |\n| 160 | 3827.14.00 | Containing 1,1,1trichloroethane (methyl chloroform) | 15 | 10 |  |\n| 161 | 3827.31.00 | Containing substances of subheadings 2903.41 to 2903.48 | 15 | 10 |  |\n| 162 | 3827.32.00 | Other, containing substances of subheadings 2903.71 to 2903.75 | 15 | 10 |  |\n| 163 | 3827.39.00 | Other, containing hydrochlorofluorocarbons (hcfcs), whether or not containing perfluorocarbons (pfcs) or... | 15 | 10 |  |\n| 164 | 3827.40.00 | Containing bromomethane (methyl bromide) or bromochloromethane | 15 | 10 |  |\n| 165 | 4001.30.00 | Balata, gutta-percha... And similar gums, in primary forms or in plates | 15 | 10 |  |\n| 166 | 4006.10.00 | Camel-back strips for retreading rubber tyres | 15 | 10 |  |\n| 167 | 4206.00.10 | Catgut | 15 | 10 |  |\n| 168 | 4206.00.90 | Articles of gut (excl. Silk-worm), goldbeater's skin, bladders, nes | 15 | 10 |  |\n| 169 | 4302.11.00 | Tanned or dressed whole skins of mink, not assembled | 15 | 10 |  |\n| 170 | 4302.19.00 | Tanned or dressed whole furskins, nes, not assembled | 15 | 10 |  |\n| 171 | 4302.20.00 | Tanned Or Dressed Heads, Tails, Paws & Oth. Pieces, of Furskins Not Assembled | 15 | 10 |  |\n| 172 | 4302.30.00 | Tanned or dressed whole furskins & other pieces thereof or cuttings, assemble | 15 | 10 |  |\n| 173 | 4403.12.00 | Treated with paint, stains, creosote or othe preservatives:Non coniferous | 15 | 10 |  |\n| 174 | 4408.10.00 | Coniferous Veneer Sheets And Sheets For Plywood, Etc, =<6mm Thick | 15 | 10 |  |\n| 175 | 4408.31.00 | Dark red meranti,light red meranti & meranti bakau | 15 | 10 |  |\n| 176 | 4413.00.10 | Wooden ribs of 25.4 cm x 0.29 cm x 0.32 cm size | 15 | 10 |  |\n| 177 | 4413.00.29 | Treated wood,nes | 15 | 10 |  |\n| 178 | 4416.00.00 | Casks, barrets, vats, tubs, etc, and parts thereof, of wood | 15 | 10 |  |\n| 179 | 4503.90.00 | Articles of natural cork, nes | 15 | 10 |  |\n| 180 | 4601.22.00 | Mats, matting and screens of vegetable materials of rattan | 15 | 10 |  |\n| 181 | 4601.93.00 | Mats, matting and screens of vegetable materials, NES of rattan | 15 | 10 |  |\n| 182 | 4601.94.00 | Mats, matting and screens of vegetable materials NES of other vegetable materi | 15 | 10 |  |\n| 183 | 4602.12.00 | Basketwork, wickerwork and other articles?Of vegetable materials of rattan | 15 | 10 |  |\n| 184 | 5205.13.00 | Uncom.Sin.Cot.Yarn,With>=85% Cot.,Nprs,<232.56(>43mn)But(>=192.31de)(<=52mn | 15 | 10 |  |\n| 185 | 5205.14.00 | Uncombed Sin.Cot.Yarn,With>=85%Cot.Nprs,<192.31de(>52mn)But>=125de(<=80mn) | 15 | 10 |  |\n| 186 | 5205.22.00 | Combed Sin.Cot.Yarn,With>=85%Cot.,Nprs,<714.29(>14mn)But>=232.56de.(<=43mn | 15 | 10 |  |\n| 187 | 5205.23.00 | Com.Sin.Cot.Yarn,With>=85% Cot.,Nprs,<232.56deci(>43mm)But>=192.31de(<=52mn | 15 | 10 |  |\n| 188 | 5205.27.00 | Com.Sin.Cot.Yarn,With>=85% Cot.Nprs,<106.38de But>=83.33de>94mn But<=120mn | 15 | 10 |  |\n| 189 | 5205.28.00 | Combed Single Cotton Yarn, With >=85% Cotton, Nprs,<83.33 >120mn | 15 | 10 |  |\n| 190 | 5205.31.00 | Mul.Unco.Cabled Cotton Yarn,With >=85% Cot.,Nprs,<=14mn Per Single Yarn | 15 | 10 |  |\n| 191 | 5205.32.00 | Mul. Unco.Cabled Cotton Yarn,>=85%Cot.,Nprs,>14mn But<=43mn P.Single Yarn | 15 | 10 |  |\n| 192 | 5205.34.00 | Uncombed Cabled Cotton Yarn,>=85%Cotton,Nprs,>52mn But<=80mn P.Single Yarn | 15 | 10 |  |\n| 193 | 5205.35.00 | Uncombed Cabled Cotton Yarn, With>=85% Cotton, Nprs, >80mn Per Single Yarn | 15 | 10 |  |\n| 194 | 5205.43.00 | Combed Cabled Cotton Yarn,With>=85%Cotton,Nprs,>43mn But<=52mn P.Sing.Yarn | 15 | 10 |  |\n| 195 | 5205.46.00 | Combed Cabled Cotton Yarn,>=85% Cotton,Nprs,>80mn But<=94mn Pr.Single Yarn | 15 | 10 |  |\n| 196 | 5301.10.00 | Flax, raw or retted | 15 | 10 |  |\n| 197 | 5301.30.00 | Flax tow and waste (incl. Yarn waste and garnetted stock) | 15 | 10 |  |\n| 198 | 5308.10.00 | Coir yarn | 15 | 10 |  |\n| 199 | 5308.20.00 | True hemp yarn | 15 | 10 |  |\n| 200 | 5308.90.00 | Yarn of vegetable textile fibres, nes | 15 | 10 |  |\n| 201 | 5402.11.00 | Synthetic filament yarn?High tenacity of nylon or other polyamides Of aramids | 15 | 10 |  |\n| 202 | 5402.51.00 | Single Yarn Of Nylon Or Other Polyamides, With >50turns/M, Nprs | 15 | 10 |  |\n| 203 | 5402.61.00 | Multiple or cabled yarn of nylon or other polyamides, nprs | 15 | 10 |  |\n| 204 | 5403.10.00 | High tenacity yarn of viscose rayon, nprs excl. Sewing thread | 15 | 10 |  |\n| 205 | 5404.11.00 | Monofilament elastomeric | 15 | 10 |  |\n| 206 | 5404.12.00 | Monofilament Other, of polypropylene | 15 | 10 |  |\n| 207 | 5406.00.00 | Manmade filament yarn (other than sewing thread), put up for retail sale. | 15 | 10 |  |\n| 208 | 5508.20.00 | Sewing thread of artificial staple fibres | 15 | 10 |  |\n| 209 | 5509.41.00 | Single yarn, with >=85% synthetic staple fibres, nes, nprs | 15 | 10 |  |\n| 210 | 5509.52.00 | Yarn,<85% polyester staple fibres,mixed with wool or fine animal hair,nprs | 15 | 10 |  |\n| 211 | 5509.61.00 | Yarn, <85% acrylic or modacrylic staple fibres, mixed with wool..., nprs | 15 | 10 |  |\n| 212 | 5509.62.00 | Yarn, <85% acrylic or modacrylic staple fibres, mixed with cotton, nprs | 15 | 10 |  |\n| 213 | 5509.91.00 | Yarn, synthetic staple fibres, nes, mixed with wool..., nprs | 15 | 10 |  |\n| 214 | 5510.11.00 | Single yarn, with >=85% artificial staple fibres, nprs | 15 | 10 |  |\n| 215 | 5510.12.90 | Yarn of artificial staple fibres, .. Excl. Water blocking yarn imp by vat reg. Optical f | 15 | 10 |  |\n| 216 | 5511.20.00 | Yarn, <85% synthetic staple fibres, put up for retail sale | 15 | 10 |  |\n| 217 | 5607.21.00 | Binder or baler twine of sisal, etc, of the genus agave | 15 | 10 |  |\n| 218 | 6112.12.00 | Track-suits of synthetic fibres, knitted or crocheted | 15 | 10 |  |\n| 219 | 6112.31.00 | Men's or boys' swimwear of synthetic fibres, knitted or crocheted | 15 | 10 |  |\n| 220 | 6112.41.00 | Women's or girls' swimwear of synthetic fibres, knitted or crocheted | 15 | 10 |  |\n| 221 | 6112.49.00 | Women's or girls swimwear of other textile material | 15 | 10 |  |\n| 222 | 6211.12.00 | Women's or girls' swimwear | 15 | 10 |  |\n| 223 | 6806.20.00 | Exfoliated vermiculite, expanded clays, etc (incl. Intermixtures) | 15 | 10 |  |\n| 224 | 6807.90.00 | Articles of asphalt or of similar material (excl. In rolls) | 15 | 10 |  |\n| 225 | 7002.32.00 | Tubes Of Oth.Glass With A Lce =<5x10-6/K,Unworked,Temp. Range 0 Dgc To 300 | 15 | 10 |  |\n| 226 | 7014.00.00 | Signalling glassware and optical elements of glass, not optically worked | 15 | 10 |  |\n| 227 | 7105.10.00 | Dust and powder of diamonds | 15 | 10 |  |\n| 228 | 7105.90.00 | Dust... Of natural or synthetic precious or semi-precious stones, nes | 15 | 10 |  |\n| 229 | 7107.00.00 | Base metals clad with silver, not further worked then semi manufactured | 15 | 10 |  |\n| 230 | 7108.11.00 | Powder of gold, non-monetary | 15 | 10 |  |\n| 231 | 7108.20.00 | Monetary gold | 15 | 10 |  |\n| 232 | 7109.00.00 | Base metals or silver, clad with gold, up to semi-manufactured | 15 | 10 |  |\n| 233 | 7110.11.00 | Platinum unwrought or in powder form | 15 | 10 |  |\n| 234 | 7110.19.00 | Platinum in semi-manufactured forms | 15 | 10 |  |\n| 235 | 7110.21.00 | Palladium, unwrought or in powder form | 15 | 10 |  |\n| 236 | 7110.29.00 | Palladium in semi-manufactured forms | 15 | 10 |  |\n| 237 | 7110.31.00 | Rhodium, unwrought or in powder form | 15 | 10 |  |\n| 238 | 7110.39.00 | Rhodium in semi-manufactured forms | 15 | 10 |  |\n| 239 | 7110.41.00 | Iridium, osmium and ruthenium, unwrought or in powder form | 15 | 10 |  |\n| 240 | 7110.49.00 | Iridium, osmium and ruthenium, in semi-manufactured forms | 15 | 10 |  |\n| 241 | 7111.00.00 | Base metals, silver or gold, clad with platinum, up to semi manufactured | 15 | 10 |  |\n| 242 | 7211.13.00 | Hotrolled Iron/Steel,On 4 Faces,Wid>150mm But<600mm,>=4mm Thick,Not Coils | 15 | 10 |  |\n| 243 | 7225.92.00 | Flat-Rolled Alloy Steel,>=600mm Wide, Zinc Plated/Coated(Excl.Electroplated | 15 | 10 |  |\n| 244 | 7226.20.00 | Flat-Rolled High Speed Steel, <600mm Wide | 15 | 10 |  |\n| 245 | 7226.91.00 | Flatrolled Prods Alloy Steel,Not Furthr Workd Than Hotrolld,<600mmwide Nes | 15 | 10 |  |\n| 246 | 7227.20.00 | Bars and rods, hot-rolled, in coils, of silico-manganese steel | 15 | 10 |  |\n| 247 | 7409.40.00 | Plates, Sheets And Strip, of Cupro Nickel/Nickel Silver, >0.15mm Thick | 15 | 10 |  |\n| 248 | 7409.90.00 | Plates, Sheets And Strip, of Copper Alloys, Nes, >0.15mm Thick | 15 | 10 |  |\n| 249 | 7410.22.00 | Foil, Backed With Paper... of Copper Alloys, =<0.15mm Thick | 15 | 10 |  |\n| 250 | 7415.21.00 | Washers of copper (including spring washers) | 15 | 10 |  |\n| 251 | 7804.20.00 | Powders and flakes of lead | 15 | 10 |  |\n| 252 | 7901.12.11 | Zinc, not alloyed, <99,99% pure | 15 | 10 |  |\n| 253 | 7903.90.00 | Powders and flakes of zinc | 15 | 10 |  |\n| 254 | 7905.00.00 | Zinc plates, sheets, strip and foil | 15 | 10 |  |\n| 255 | 7907.00.10 | Parts of machinery | 15 | 10 |  |\n| 256 | 8007.00.10 | Other articles of tin, nes, castings and forgings not further worked | 15 | 10 |  |\n| 257 | 8101.10.00 | Powders of tungsten | 15 | 10 |  |\n| 258 | 8101.94.00 | Unwrought tungsten, including bars and rods obtained simply by sintering | 15 | 10 |  |\n| 259 | 8101.97.00 | Waste and scrap | 15 | 10 |  |\n| 260 | 8102.10.00 | Powders of molybdenum | 15 | 10 |  |\n| 261 | 8102.94.00 | Unwrought molybdenum,incl. Bars and rods obtained simply by sintering | 15 | 10 |  |\n| 262 | 8102.97.00 | Waste and scrap | 15 | 10 |  |\n| 263 | 8102.99.00 | Other articles of molybdenum, nes | 15 | 10 |  |\n| 264 | 8103.20.00 | Unwrought tantalum,incl.bars & rods obtained simply by sintering;powders | 15 | 10 |  |\n| 265 | 8103.30.00 | Waste and scrap | 15 | 10 |  |\n| 266 | 8103.91.00 | Articles of Tantalum: Crucibles | 15 | 10 |  |\n| 267 | 8103.99.00 | Other articles of tantalum, nes | 15 | 10 |  |\n| 268 | 8104.20.00 | Waste and scrap of magnesium | 15 | 10 |  |\n| 269 | 8105.20.00 | Cobalt mattes & oth.intermediate prod.of cobalt metallurgy;unwrought cobal | 15 | 10 |  |\n| 270 | 8105.30.00 | Waste and scrap | 15 | 10 |  |\n| 271 | 8105.90.00 | Articles of cobalt, nes | 15 | 10 |  |\n| 272 | 8106.10.00 | Bismuth And Articles Thereof (Incl. Waste And Scrap) containing more than 99.99% of bismuth, by weight | 15 | 10 |  |\n| 273 | 8106.90.00 | Other bismuth and articles thereof, Nes. | 15 | 10 |  |\n| 274 | 8108.20.00 | Unwrought titanium; powders | 15 | 10 |  |\n| 275 | 8108.30.00 | Waste and scrap | 15 | 10 |  |\n| 276 | 8109.21.00 | Unwrought zirconium; powders containing less than 1 part hafnium to 500 parts zirconium by weight | 15 | 10 |  |\n| 277 | 8109.29.00 | Unwrought zirconium; powders, nes. | 15 | 10 |  |\n| 278 | 8109.31.00 | Waste And Scrap containing less than 1 part hafnium to 500 parts zirconium by weight | 15 | 10 |  |\n| 279 | 8109.39.00 | Waste and scrap of Zirconium, Nes | 15 | 10 |  |\n| 280 | 8109.91.00 | Articles of Zirconium containing less than 1 part hafnium to 500 parts zirconium by weight | 15 | 10 |  |\n| 281 | 8109.99.00 | Other articles of zirconium | 15 | 10 |  |\n| 282 | 8110.20.00 | Waste and scrap | 15 | 10 |  |\n| 283 | 8111.00.00 | Manganese and articles thereof (incl. Waste and scrap) | 15 | 10 |  |\n| 284 | 8112.12.00 | Beryllium-unwrought; powders | 15 | 10 |  |\n| 285 | 8112.13.00 | Beryllium- waste and scrap | 15 | 10 |  |\n| 286 | 8112.19.00 | Articles of beryllium, nes | 15 | 10 |  |\n| 287 | 8112.21.00 | Chromium-unwrought powders | 15 | 10 |  |\n| 288 | 8112.22.00 | Chromium-waste and scrap | 15 | 10 |  |\n| 289 | 8112.29.00 | Chromium, excluding powders, waste and scrap | 15 | 10 |  |\n| 290 | 8112.51.00 | Thallium-unwrought; powders | 15 | 10 |  |\n| 291 | 8112.52.00 | Thallium-waste and scrap | 15 | 10 |  |\n| 292 | 8112.59.00 | Articles of other metals; nes | 15 | 10 |  |\n| 293 | 8112.61.00 | Waste and scrap | 15 | 10 |  |\n| 294 | 8112.92.00 | Other metals-unwrought;waste and scrap; powders | 15 | 10 |  |\n| 295 | 8112.99.00 | Articles of other metals, nes | 15 | 10 |  |\n| 296 | 8113.00.00 | Cermets and articles thereof (incl. Waste and scrap) | 15 | 10 |  |\n| 297 | 8205.60.00 | Blow lamps | 15 | 10 |  |\n| 298 | 8470.21.00 | Electronic calculating machines, nes, with a printing device | 15 | 10 |  |\n| 299 | 8476.81.00 | Automatic vending machines wth heatng/refrigertng devices(exc.bev.machines | 15 | 10 |  |\n| 300 | 8476.89.00 | Automatic vending machines without heating/refrigerating devices, nes | 15 | 10 |  |\n| 301 | 8476.90.00 | Parts for automatic goods-vending machines | 15 | 10 |  |\n| 302 | 8510.90.00 | Parts of shavers and hair clippers etc with self-contained electric motor | 15 | 10 |  |\n| 303 | 8532.21.00 | Fixed electrical capacitors of tantalum | 15 | 10 |  |\n| 304 | 8532.23.00 | Fixed electrical capacitors of ceramic dielectric, single layer | 15 | 10 |  |\n| 305 | 8532.24.00 | Fixed electrical capacitors of ceramic dielectric, multilayer | 15 | 10 |  |\n| 306 | 8533.21.00 | Fixed Resistors For A Power Handling Capacity =<20w | 15 | 10 |  |\n| 307 | 8533.31.00 | Wirewound Variable Resistors For A Power Handling Capacity =<20w | 15 | 10 |  |\n| 308 | 8540.40.00 | Data/Graphic Display Tubes, monochrome;data/graphic display...dot screen pitch <0.4mm | 15 | 10 |  |\n| 309 | 8540.60.00 | Other cathode-ray tubes nes | 15 | 10 |  |\n| 310 | 8540.79.00 | Microwave tubes (excl. Magnetrons, klystrons and grid-controlled tubes) | 15 | 10 |  |\n| 311 | 8540.81.00 | Receiver or amplifier valves and tubes | 15 | 10 |  |\n| 312 | 8540.91.00 | Parts of cathode-ray tubes | 15 | 10 |  |\n| 313 | 8601.10.00 | Rail locomotives powered from an external source of electricity | 15 | 10 |  |\n| 314 | 8601.20.00 | Rail locomotives powered by electric accumulators | 15 | 10 |  |\n| 315 | 8602.90.00 | Rail locomotives, nes; locomotive tenders | 15 | 10 |  |\n| 316 | 8603.10.00 | Self-propelled railway coaches..powered from exter. Sources of electricity | 15 | 10 |  |\n| 317 | 8603.90.00 | Self-propelled railway or tramway coaches, vans and trucks, nes | 15 | 10 |  |\n| 318 | 8604.00.00 | Railway or tramway maintenance or service vehicles, whether or not self -propelled | 15 | 10 |  |\n| 319 | 8605.00.00 | Railway/tramway passenger coaches, not self-propelled; luggage vans... | 15 | 10 |  |\n| 320 | 8606.30.00 | Self-discharging vans and wagons, nes | 15 | 10 |  |\n| 321 | 8606.91.00 | Railway or tramway goods vans and wagons, covered and closed | 15 | 10 |  |\n| 322 | 8606.92.00 | Railway or tramway goods vans and wagons, open, with sides | 15 | 10 |  |\n| 323 | 8606.99.00 | Railway or tramway goods vans and wagons, not self-propelled, nes | 15 | 10 |  |\n| 324 | 8801.00.00 | Balloons and dirigibles; gliders, hang gliders and other nonpowered aircraft. | 15 | 10 |  |\n| 325 | 8901.30.90 | Refrigerated vessels, nes | 15 | 10 |  |\n| 326 | 9001.20.00 | Sheets and plates of polarising material, unmounted | 15 | 10 |  |\n| 327 | 9002.20.00 | Mounted filters, of any material | 15 | 10 |  |\n| 328 | 9006.53.00 | Cameras, Nes, Taking 35mm Roll Film | 15 | 10 |  |\n| 329 | 9006.59.00 | Cameras,nes (not cine-) | 15 | 10 |  |\n| 330 | 9006.61.00 | Discharge lamp (electronic) flashlight apparatus | 15 | 10 |  |\n| 331 | 9007.10.10 | Cameras For film of less than 16 mm width or for double-8 mm film: | 15 | 10 |  |\n| 332 | 9007.20.10 | Other Of Film Less Than 16mm | 15 | 10 |  |\n| 333 | 9007.91.00 | Parts and accessories for cinematographic cameras | 15 | 10 |  |\n| 334 | 9101.21.90 | Other wrist watches,with automatic winding(excl.use for blind,ckd conditio | 15 | 10 |  |\n| 335 | 9101.99.90 | Other pocket watches, etc(excl. Wrist), nes, of precious metal | 15 | 10 |  |\n| 336 | 9108.11.00 | Electrically operated watch movements, with mechanical display only | 15 | 10 |  |\n| 337 | 9108.12.00 | Electrically operated watch movements, with opto-electronic display only | 15 | 10 |  |\n| 338 | 9108.19.00 | Other electrically operated watch movements, nes | 15 | 10 |  |\n| 339 | 9108.20.00 | Watch movements, complete and assembled, with automatic winding | 15 | 10 |  |\n| 340 | 9109.10.00 | Electrically operated | 15 | 10 |  |\n| 341 | 9110.12.00 | Incomplete watch movements, assembled | 15 | 10 |  |\n| 342 | 9110.19.00 | Rough watch movements | 15 | 10 |  |\n| 343 | 9110.90.00 | Complete (unassembled), incomplete and rough clock movements | 15 | 10 |  |\n| 344 | 9111.10.00 | Watch cases of precious metal or of metal clad with precious metal | 15 | 10 |  |\n| 345 | 9112.20.00 | Cases | 15 | 10 |  |\n| 346 | 9113.10.00 | Watch straps, bands and bracelets, and parts thereof, of precious metal | 15 | 10 |  |\n| 347 | 9114.30.00 | Dials for clocks and watches | 15 | 10 |  |\n| 348 | 9114.40.00 | Plates and bridges for clocks and watches | 15 | 10 |  |\n| 349 | 9114.90.00 | Clock or watch springs, including hair-springs | 15 | 10 | Ex |\n| 350 | 9303.30.20 | Match weapons for sports shooting | 15 | 10 |  |\n| 351 | 9304.00.10 | Match weapons used for sports shooting | 15 | 10 |  |\n| 352 | 9306.29.10 | Ammunition for sports shooting | 15 | 10 |  |\n| 353 | 9506.11.00 | Snow-skis | 15 | 10 |  |\n| 354 | 9506.12.00 | Ski-fastenings (ski-bindings) | 15 | 10 |  |\n| 355 | 9506.21.00 | Sailboards | 15 | 10 |  |\n| 356 | 9506.31.00 | Golf clubs, complete | 15 | 10 |  |\n\n\nব্যাখ্যা।—কলাম (৬) এ বর্ণিত Ex বা Exclusively Applicable অর্থ হইল উল্লিখিত পণ্যের HS Code এ একাধিক পণ্য অন্তর্ভুক্ত থাকিলেও কেবল Table-1 এর কলাম (৩) এ বর্ণিত বর্ণনা (Description)-তে উল্লিখিত পণ্যটির ক্ষেত্রেই কলাম (৫) এ বর্ণিত Customs Duty (CD) হার প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "This agreement provides a framework for trade expansion between D-8 member countries by offering concessions on import duties for specified products.",
+          "The agreement specifies rules of origin that must be satisfied for goods produced in signatory countries to benefit from the reduced import duty rates."
+        ],
+        "Customs Act 1969": [
+          "Section 19(1) of the Act empowers the Government to grant exemptions or reductions in import duties in the public interest, in consultation with the National Board of Revenue."
+        ],
+        "First Schedule": [
+          "The goods listed in the table are subject to preferential import duty rates as part of the implementation of the D-8 trade agreement within the structure of the Bangladesh Customs Tariff."
+        ],
+        "Customs Duty": [
+          "Import duty rates for a wide range of specific goods listed by HS Code are reduced for qualifying imports from D-8 member states, provided the products meet the established rules of origin.",
+          "For items marked with 'Ex' in the table, the reduced preferential rate applies exclusively to the specific description of goods provided in the table, even if the HS Code covers multiple product categories."
+        ],
+        "Rules of Origin": [
+          "Imports claiming the preferential duty rate must comply with the specific Rules of Origin defined for the D-8 Preferential Trade Agreement."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2390",
+      "entity_sub_entities": {
+        "Preferential Trade Agreement Among D-8 Member States": [
+          "D-8 member countries",
+          "import duties",
+          "specified products",
+          "rules of origin",
+          "goods",
+          "signatory countries",
+          "reduced import duty rates"
+        ],
+        "Customs Act 1969": [
+          "Section 19(1)",
+          "Government",
+          "exemptions",
+          "reductions",
+          "import duties",
+          "National Board of Revenue"
+        ],
+        "First Schedule": [
+          "goods",
+          "preferential import duty rates",
+          "D-8 trade agreement",
+          "Bangladesh Customs Tariff"
+        ],
+        "Customs Duty": [
+          "Import duty rates",
+          "specific goods",
+          "HS Code",
+          "D-8 member states",
+          "rules of origin",
+          "Ex",
+          "description of goods"
+        ],
+        "Rules of Origin": [
+          "preferential duty rate",
+          "D-8 Preferential Trade Agreement"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        2,
+        6,
+        10,
+        16,
+        38,
+        52,
+        98,
+        163,
+        306,
+        408,
+        498,
+        532,
+        1368,
+        1503,
+        1674,
+        2630,
+        2631,
+        3790,
+        7083,
+        7829,
+        10843,
+        11282,
+        12192,
+        12334
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "Rule 8 - Treatment of Packing",
+      "text_id": "20221018_252-Act_2022_132_Customs_2022-07-21_clause_11",
+      "resolved_text": "Rule 8\nTreatment of Packing\n1. Where for purposes of assessing customs duties, a Contracting Member treats products separately from their packing; it may also, in respect of its imports consigned from another Contracting Member, determine separately the origin of such packing.\n2. Where paragraph (1) above is not applied, packing shall not be taken into account in determining the origin of the product.\n3. Packing material and containers exclusively used for the transportation of a product shall not be taken into account in determining the origin of the product.",
+      "entity_concepts": {
+        "Rules of Origin": [
+          "The origin of packing materials may be determined separately from the products they contain when such products are assessed for customs duties independently of their packaging.",
+          "When packing is not assessed separately, it is excluded from the determination of the product's origin.",
+          "Packing materials and containers used strictly for transport are ignored when determining the origin of the product."
+        ],
+        "Customs Duty": [
+          "The assessment of customs duties serves as the basis for determining whether to evaluate product packing separately from the goods themselves."
+        ],
+        "Container": [
+          "Containers exclusively used for the transportation of products are excluded from origin determination calculations for the product."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2400",
+      "entity_sub_entities": {
+        "Rules of Origin": [
+          "packing materials",
+          "products",
+          "packaging",
+          "containers"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "product packing",
+          "goods"
+        ],
+        "Container": [
+          "Containers"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        14,
+        83,
+        196,
+        306,
+        315,
+        1429,
+        10473,
+        11004
+      ],
+      "source_file": "customs_sros_OCR/20221018_252-Act_2022_132_Customs/20221018_252-Act_2022_132_Customs_output.json",
+      "clause_date": "2022-10-18"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20230202_SRO_No-156-AIN_2019_25_Customs_৩০ মে, ২০১৯ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "উপরি-উক্ত বিধিমালার তফসিল-২ এর অনুচ্ছেদ (ঘ) এর টেবিলের কলাম (১) এর ক্রমিক নং ৬ এর বিপরীতে কলাম (৩) এ উল্লিখিত এন্ট্রি “প্রতি ১১.৬৬৪ গ্রাম ৩০০০/- টাকা” এর পরিবর্তে এন্ট্রি “প্রতি ১১.৬৬৪ গ্রাম ২,০০০/- টাকা” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Duty": [
+          "The duty rate for gold is amended to a lower amount per specified weight unit as per the schedule of the rules."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff entry corresponding to specific gold imports is updated to reflect a reduced duty rate in the relevant schedule."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2450",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "gold",
+          "duty rate",
+          "weight unit",
+          "schedule of the rules"
+        ],
+        "Bangladesh Customs Tariff": [
+          "tariff entry",
+          "gold imports",
+          "duty rate",
+          "relevant schedule"
+        ]
+      },
+      "clause_clusters": [
+        5,
+        10,
+        98,
+        368,
+        843,
+        4822,
+        8431,
+        11420,
+        13375
+      ],
+      "source_file": "customs_sros_OCR/20230202_SRO_No-156-AIN_2019_25_Customs/20230202_SRO_No-156-AIN_2019_25_Customs_output.json",
+      "clause_date": "2023-02-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20230204_Baggage_rule_amendment_FY_2019-20_৩০ মে, ২০১৯_clause_1",
+      "resolved_text": "উপরি-উক্ত বিধিমালার তফসিল-২ এর অনুচ্ছেদ (ঘ) এর টেবিলের কলাম (১) এর ক্রমিক নং ৬ এর বিপরীতে কলাম (৩) এ উল্লিখিত এন্ট্রি “প্রতি ১১.৬৬৪ গ্রাম ৩০০০/- টাকা” এর পরিবর্তে এন্ট্রি “প্রতি ১১.৬৬৪ গ্রাম ২,০০০/- টাকা” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "The baggage rules have been amended to adjust the specific duty rates applicable to certain items listed in the schedule of the rules."
+        ],
+        "Customs Duty": [
+          "The duty rate applicable for a specified weight of gold or gold-related items has been reduced from the previous fixed amount to a lower fixed amount per unit of weight."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1053",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "baggage rules",
+          "duty rates",
+          "items"
+        ],
+        "Customs Duty": [
+          "gold",
+          "gold-related items"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        117,
+        255,
+        320,
+        368,
+        869,
+        8435
+      ],
+      "source_file": "customs_rules_OCR/20230204_Baggage_rule_amendment_FY_2019-20/20230204_Baggage_rule_amendment_FY_2019-20_output.json",
+      "clause_date": "2023-02-04"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20230425_২৪ এপ্রিল, ২০২৩_clause_1",
+      "resolved_text": "১। সংজ্ঞা: এই স্থায়ী আদেশের উদ্দেশ্য পূরণকল্পে-\n(ক) \"অনুমোদিত ব্যক্তি\" অর্থ কাস্টমস Authorities এর নিকট পণ্যের ঘোষণা, ট্রানজিট বা ট্রানশিপমেন্ট গ্যারান্টি বা কাস্টমস বন্ড বা অঙ্গীকারনামা বা লেটার অব গ্যারান্টি দাখিলের উদ্দেশ্যে ক্ষমতাপ্রাপ্ত এবং সংশ্লিষ্ট লাইসেন্সিং বিধিমালার অধীনে লাইসেন্সপ্রাপ্ত কোন ক্লিয়ারিং ও ফরওয়ার্ডিং এজেন্ট;\n(খ) \"আইন\" অর্থ Customs Act, 1969 (Act No.IV of 1969);\n(গ) \"আমদানি ম্যানিফেস্ট\" অর্থ আইনের section 2 এর clause (ll) এ সংজ্ঞায়িত import manifest;\n(ঘ) \"এজেন্ট\" অর্থ আইনের section 2 এর clause (a) তে সংজ্ঞায়িত agent;\n(ঙ) \"কাস্টমস কম্পিউটার সিস্টেম\" অর্থ আইনের Section 2 এর Clause (ii) এ সংজ্ঞায়িত Customs Computer System;\n(চ) \"কাস্টমস বন্ড বা লেটার অব গ্যারান্টি\" অর্থ ট্রানজিট বা ট্রানশিপমেন্ট পণ্যের উপর প্রযোজ্য শুল্ক-করের সমপরিমাণ অর্থের বিপরীতে ৩০০ শত টাকার নন-জুডিশিয়াল স্ট্যাম্পে নির্ধারিত পদ্ধতিতে প্রদত্ত অঙ্গীকারনামা;\n(ছ) \"কাস্টমস ট্রানজিট বা ট্রানশিপমেন্ট ঘোষণা\" অর্থ কোন দ্বিপাক্ষিক বা বহুপাক্ষিক চুক্তি অথবা প্রটোকল অথবা Standard Operating Procedure (SOP) অথবা জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত স্থায়ী আদেশ বা বিশেষ আদেশ দ্বারা নির্ধারিত ফরমে প্রদত্ত ট্রানজিট বা ট্রানশিপমেন্ট ঘোষণা। কাস্টমস কম্পিউটার সিস্টেমে দাখিলকৃত বা দাখিলযোগ্য IM-8 (পরিশিষ্ট-১) এবং T1 (পরিশিষ্ট-২) ঘোষণাও ইহার অন্তর্ভুক্ত হইবে;\n(জ) \"কাস্টমস স্টেশন\" অর্থ আইনের section 2 এর clause (k) তে সংজ্ঞায়িত customs station;\n(ঝ) \"চুক্তি\" অর্থ ২৫ অক্টোবর, ২০১৮ তারিখে গণপ্রজাতন্ত্রী বাংলাদেশ সরকার এবং প্রজান্তান্ত্রিক ভারত সরকারের মধ্যে সম্পাদিত Agreement on the use of Chattogram and Mongla Port for Movement of Goods to and from India between the People's Republic of Bangladesh and the Republic of India;\n(ঞ) \"ট্রানজিট অপারেটর\" অর্থ এই স্থায়ী আদেশের অনুচ্ছেদ ৫ অনুযায়ী তালিকাভুক্ত অপারেটর;\n(ট) \"বোর্ড\" অর্থ National Board of Revenue Order, 1972 (President's Order No. 76 of 1972) এর অধীন গঠিত জাতীয় রাজস্ব বোর্ড;\n(ঠ) \"বৃহৎ আকৃতির পণ্য\" অর্থ ৪০ ফুট × ৮ ফুট × ৯ ফুট বা তাহার অধিক আয়তন বিশিষ্ট যন্ত্রপাতি ও সরঞ্জাম যাহা কন্টেইনারজাতকরণের যোগ্য নয়;\n(ড) \"বিধিমালা\" অর্থ জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত কাস্টমস ট্রানজিট ও ট্রানশিপমেন্ট বিধিমালা, ২০২১;\n(ঢ) \"যানবাহন (Conveyance)\" অর্থ আইনের section 2 এর clause (g) এ সংজ্ঞায়িত যানবাহন;\n(ণ) \"শুল্ক-কর (Duties and Taxes)\" অর্থ আইনের অধীনে আমদানি পর্যায়ে আদায়যোগ্য Customs Duty, Regulatory Duty, Countervailing Duty, Anti Dumping Duty, Safeguard Duty; মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীন আমদানি পর্যায়ে আদায়যোগ্য মূল্য সংযোজন কর, আগাম কর ও সম্পূরক শুল্ক এবং Income Tax Ordinance, 1984 এর অধীন আমদানি পর্যায়ে আদায়যোগ্য অগ্রিম আয়কর; এবং\n(ত) \"স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর\" অর্থ চুক্তি-এর আওতায় ট্রানজিট বা ট্রানশিপমেন্ট বাস্তবায়নের লক্ষ্যে সম্পাদিত স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর।",
+      "entity_concepts": {
+        "Agent": [
+          "An Authorized Person is defined as a clearing and forwarding agent licensed under relevant licensing regulations and authorized to submit customs declarations, guarantees, or bonds.",
+          "The term Agent is referenced as defined in the relevant section of the Customs Act 1969."
+        ],
+        "Customs Act 1969": [
+          "The term Act is defined as the Customs Act 1969 (Act No. IV of 1969)."
+        ],
+        "Import Manifest": [
+          "The term Import Manifest refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Computerised System": [
+          "The term Customs Computer System refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Bond or Letter of Guarantee": [
+          "This refers to a commitment document executed on non-judicial stamp paper of a specific value, covering the amount of duties and taxes applicable to transit or transshipment goods."
+        ],
+        "Customs Station": [
+          "The term Customs Station refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Transit and Transshipment": [
+          "Customs transit or transshipment declarations must be submitted in the form prescribed by bilateral or multilateral agreements, protocols, Standard Operating Procedures, or orders issued by the National Board of Revenue. This includes the IM-8 and T1 declarations submitted or required to be submitted via the Customs Computer System."
+        ],
+        "Government of the People's Republic of Bangladesh": [
+          "The agreement refers to the pact signed between the Government of Bangladesh and the Republic of India on October 25, 2018, regarding the use of Chattogram and Mongla ports."
+        ],
+        "National Board of Revenue": [
+          "The term Board is defined as the National Board of Revenue established under the National Board of Revenue Order, 1972."
+        ],
+        "Conveyance": [
+          "The term Conveyance refers to the definition provided under the relevant section of the Customs Act 1969."
+        ],
+        "Customs Duty": [
+          "Duties and Taxes include various import-stage levies such as Customs Duty, Regulatory Duty, Countervailing Duty, Anti-Dumping Duty, Safeguard Duty, Value Added Tax, supplementary duty, and Advance Income Tax."
+        ],
+        "Standard Operating Procedure": [
+          "This refers to the procedural document established under the bilateral agreement to implement transit or transshipment operations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_664",
+      "entity_sub_entities": {
+        "Agent": [
+          "Authorized Person",
+          "clearing and forwarding agent",
+          "customs declarations",
+          "guarantees",
+          "bonds",
+          "Customs Act 1969"
+        ],
+        "Customs Act 1969": [
+          "Customs Act 1969",
+          "Act No. IV of 1969"
+        ],
+        "Import Manifest": [
+          "Customs Act 1969"
+        ],
+        "Customs Computerised System": [
+          "Customs Computer System",
+          "Customs Act 1969"
+        ],
+        "Customs Bond or Letter of Guarantee": [
+          "commitment document",
+          "non-judicial stamp paper",
+          "duties and taxes",
+          "transit goods",
+          "transshipment goods"
+        ],
+        "Customs Station": [
+          "Customs Act 1969"
+        ],
+        "Transit and Transshipment": [
+          "Customs transit declarations",
+          "transshipment declarations",
+          "bilateral agreements",
+          "multilateral agreements",
+          "protocols",
+          "Standard Operating Procedures",
+          "orders",
+          "National Board of Revenue",
+          "IM-8 declaration",
+          "T1 declaration",
+          "Customs Computer System"
+        ],
+        "Government of the People's Republic of Bangladesh": [
+          "Government of Bangladesh",
+          "Republic of India",
+          "Chattogram port",
+          "Mongla port"
+        ],
+        "National Board of Revenue": [
+          "National Board of Revenue",
+          "National Board of Revenue Order, 1972"
+        ],
+        "Conveyance": [
+          "Customs Act 1969"
+        ],
+        "Customs Duty": [
+          "Customs Duty",
+          "Regulatory Duty",
+          "Countervailing Duty",
+          "Anti-Dumping Duty",
+          "Safeguard Duty",
+          "Value Added Tax",
+          "supplementary duty",
+          "Advance Income Tax"
+        ],
+        "Standard Operating Procedure": [
+          "procedural document",
+          "bilateral agreement",
+          "transit operations",
+          "transshipment operations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        9,
+        10,
+        25,
+        32,
+        36,
+        56,
+        73,
+        75,
+        80,
+        94,
+        156,
+        176,
+        203,
+        216,
+        238,
+        345,
+        374,
+        546,
+        667,
+        679,
+        683,
+        694,
+        695,
+        718,
+        738,
+        801,
+        806,
+        807,
+        815,
+        1063,
+        1156,
+        1271,
+        1300,
+        1418,
+        1624,
+        2429,
+        2506,
+        4374,
+        6324,
+        6496,
+        6852,
+        8822,
+        11474,
+        12616
+      ],
+      "source_file": "customs_gos_OCR/20230425/20230425_output.json",
+      "clause_date": "2023-04-25"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_28",
+      "clause_title": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_28",
+      "resolved_text": "৪.২.১ ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ—ট্র্যানজ্যাকশন বেইজড অডিটের জন্য বাছাই কৌশলের নিয়ামকসমূহ নিম্নরূপ:\n(১) আমদানিকারক/রপ্তানিকারক:\nএকটি নির্দিষ্ট সময়ে কোন আমদানিকারক/রপ্তানিকারক মোট নথিবুক্ত ট্র্যানজ্যাকশনের সংখ্যা ঝুঁকির নির্ণায়ক হিসাবে কাজ করতে পারে বলে অডিট নির্বাচনের ক্ষেত্রে একে একটি মানদণ্ড হিসাবে ব্যবহার করা যায়। যেমন:\n(ক) অনিয়মিত আমদানিকারক/রপ্তানিকারক;\n(খ) প্রায়শই অসত্য ঘোষণা দেয় এমন আমদানিকারক/রপ্তানিকারক;\n(গ) একই চালানে একাধিক এইচ.এস কোডের পণ্য আমদানিকারক\n(ঘ) কোন পণ্যের এককালীন আমদানিকারক/রপ্তানিকারক;\n(ঙ) প্রথমবারের মত আমদানিকারক/রপ্তানিকারক।\n\n(২) ট্র্যানজ্যাকশনের ভ্যালু\nকোন আমদানিকারক/রপ্তানিকারক অস্বাভাবিক উচ্চমূল্য/নিম্নমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই (TTI) দিয়ে সম্পন্ন করে থাকলে অথবা তার বিপরীত হয়ে থাকলে তা ঝুঁকিসম্পন্ন বিবেচনা করে তাদের প্রতি বিশেষ নজর দেওয়া যেতে পারে। যেমন:\nট্র্যানজ্যাকশন ভ্যালু সংক্রান্ত যে সকল নিয়ামক বিবেচনায় পণ্যচালান অডিটের জন্য নির্বাচন করতে হবে তা নিম্নরূপ:\n(ক) কোনো ট্র্যানজ্যাকশন মূল্য শিপিং বা পরিবহন ব্যয়ের কম/সমান;\n(খ) পণ্যের মূল্য পণ্যের কাঁচামালের মূল্যের প্রায় সমান;\n(গ) ঘোষিত ইউনিট মূল্যের তুলনায় প্যাকিং/প্যাকেজিংয়ের ব্যয় বেশি;\n(ঘ) কোনো পণ্যের মূল্য আন্তর্জাতিক বাজারে উক্ত পণ্যের ঘোষিত মূল্যের চেয়ে অস্বাভাবিক কম/বেশি;\n(ঙ) রপ্তানিকারক দেশের মুদ্রার বাইরে অন্য মুদ্রা ব্যবহার;\n(চ) শুল্কায়ন বিধিমালা অনুযায়ী কাস্টমস ডিক্লারেশন করা হয়নি;\n(ছ) উচ্চমূল্য বিশিষ্ট ট্র্যানজ্যাকশন কম টিটিআই অথবা তার বিপরীত।\n\n(৩) কাস্টমস ডিউটির হার\nউচ্চ বা নিম্ন উভয় কাস্টমস ডিউটির পণ্যের ট্র্যানজ্যাকশনেই বিভিন্ন ধরনের ঝুঁকি থাকে। শূন্য রেটের পণ্যসমূহে সাধারণত রাজস্ব ফাঁকির ঝুঁকি বেশি না হলেও জাল-জালিয়াতির মাধ্যমে সুবিধালাভের উদ্দেশ্যে অসত্য ক্লাসিফিকেশনের ঝুঁকি থেকেই যায়। যেহেতু উচ্চ শুল্কের পণ্যের ক্ষেত্রে যেকোনো ত্রুটি উল্লেখযোগ্য রাজস্ব ক্ষতির কারণ হতে পারে তাই এগুলোকে ঝুঁকিপূর্ণ বিবেচনা করে এই ক্ষেত্রে বিশেষ মনোযোগ দিতে হবে। যেমন:\n(ক) যন্ত্রাংশ ও আনুসাঙ্গিক উপকরণকে মূল যন্ত্রপাতির কোডে শ্রেণিবিন্যাস করা;\n(খ) পণ্যের অস্পষ্ট বিবরণ, হ্রাসকৃত কাস্টমস ডিউটির সুবিধা নিতে এমন এইচ. এস. কোড ব্যবহার যা ব্যবসা প্রতিষ্ঠানের কাজের সাথে সঙ্গতিপূর্ণ নয়;\n(গ) কোনো এক বা একাধিক নির্দিষ্ট HS Code এর আওতায় অস্বাভাবিক পরিমাণের আমদানি যা সাধারণত সংশ্লিষ্ট দেশে আমদানি বা রপ্তানি করা হয়না;\n(ঘ) খুব কম পরিমাণ আমদানি/রপ্তানি যা বাজার পরিসংখ্যান বা অবস্থার সাথে মেলে না;\n(ঙ) কোনো কোডে কাস্টমস ডিউটি হার পরিবর্তিত হলে আমদানির পরিমাণকে এক কোড থেকে অন্য কোডে পরিবর্তন করা।\n\n(৪) কান্ট্রি অব অরিজিন\nবেশ কয়েকটি ক্ষেত্রে যেমন, যেক্ষেত্রে পণ্যের ওপর কোটা বা অন্যান্য বিধি-নিষেধ রয়েছে, সেক্ষেত্রে কান্ট্রি অব অরিজিনে অসত্য ঘোষণার ঝুঁকি বেড়ে যায়। এমন ক্ষেত্রে আরো যাচাই-বাছাই ফলপ্রসূ প্রমাণিত হতে পারে। 'অরিজিন'-এর ক্ষেত্রে আশঙ্কার অন্যান্য ক্ষেত্রসমূহ:\n(ক) কান্ট্রি অব অরিজিন যদি কান্ট্রি অব শিপমেন্ট থেকে ভিন্ন হয়;\n(খ) আইপিও অনুসারে নিষিদ্ধ দেশ বা উৎস হতে আমদানি করা হয়;\n(গ) Bill of Lading (BL)/Airway Bill (AWB)/অন্যান্য পরিবহন চালান-এ ঘোষিত অরিজিনের সাথে সামঞ্জস্যপূর্ণ কি না।\n\n(৫) ইমপোর্ট জেনারেল ম্যানিফেস্ট (আইজিএম)\nআইজিএম জাহাজের মাস্টার বা তার এজেন্ট কর্তৃক দাখিল করা হয়। আইজিএম এ শিপার, কনসাইনি, প্যাকেজের সংখ্যা, প্যাকেজের ধরন, পণ্যের বিবরণ, এয়ারওয়ে বিল বা বিল অব লেডিং নম্বর এবং তারিখ, ফ্লাইট বা জাহাজের বিবরণ ইত্যাদির বিবরণ থাকে। আইজিএমে নিম্নলিখিত বিষয়াদির প্রতি লক্ষ্য রাখতে হবে।\n(ক) বি/এল তে দাখিলকৃত পণ্যের বর্ণনা, মূল্য ও পরিমাণের সাথে আইজিএমে দাখিলকৃত পণ্যের বর্ণনার সাথে মিল রয়েছে কিনা?\n(খ) কন্টেইনারের বিবরণের সাথে দাখিলকৃত ঘোষণার মিল রয়েছে কিনা?\n\n(৬) পণ্যচালান সম্পর্কিত অন্যান্য গুরুত্বপূর্ণ তথ্যাদি পর্যালোচনা:\n(ক) এমন কিছু পণ্য আমদানি হতে পারে যেগুলো উল্লিখিত দেশে উৎপাদিত বা সেখান থেকে রপ্তানি করা হয়নি;\n(খ) ঝুঁকিপূর্ণ কোনো দেশ থেকে রপ্তানি করা করা হয়েছে কি না;\n(গ) কোনো দেশ থেকে আমদানিকৃত পণ্যের গড় ইউনিট মূল্যে অস্বাভাবিক পরিবর্তন।",
+      "entity_concepts": {
+        "Transaction Based Audit": [
+          "This standing order provides the criteria and indicators for selecting consignments for transaction-based audits to manage customs risk effectively.",
+          "The selection strategy focuses on identifying high-risk transactions based on importer/exporter behavior, transaction values, duty rates, country of origin, and discrepancies in manifest data."
+        ],
+        "Importer and Exporter": [
+          "Audit selection criteria consider the frequency and history of importers or exporters.",
+          "Operational focus is placed on irregular traders, those frequently providing false declarations, one-time traders, first-time traders, or those importing multiple products under various HS Codes in a single consignment."
+        ],
+        "H.S. Code": [
+          "Discrepancies in HS Code usage, such as misclassification of accessories as primary machinery or selecting codes inconsistent with the business nature, are key indicators for audit selection.",
+          "Abnormal import volumes under specific codes that do not match market statistics or intentional switching of codes following duty rate changes are flagged as high risk."
+        ],
+        "Customs Duty": [
+          "Transactions involving high or low customs duty rates are monitored for risks of revenue leakage or fraudulent classification.",
+          "Special attention is required for high-duty items where errors could lead to significant revenue loss, and for zero-rated items susceptible to misclassification to gain improper benefits."
+        ],
+        "Country of Origin": [
+          "Misdeclaration of the country of origin is a significant risk factor, particularly for goods subject to quotas or specific import restrictions.",
+          "Discrepancies between the declared country of origin and the country of shipment, or importing from restricted sources according to Import Policy Orders, trigger mandatory further verification."
+        ],
+        "Bill of Lading": [
+          "The Bill of Lading must be cross-verified against the Import General Manifest to ensure consistency in shipper, consignee, and cargo details.",
+          "Declarations of origin and product details in the Bill of Lading are validated as part of the customs audit process to prevent misdeclaration."
+        ],
+        "Airway Bill": [
+          "The Airway Bill serves as a critical transport document where declared details such as origin must align with other customs documents to mitigate the risk of fraud."
+        ],
+        "Import General Manifest": [
+          "The Import General Manifest submitted by the ship's master or agent is reviewed to compare declarations of product description, value, and quantity against other shipping documents.",
+          "Operational checks include verifying the consistency of container details with the provided declarations to ensure accuracy in cargo clearance."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_699",
+      "entity_sub_entities": {
+        "Transaction Based Audit": [
+          "consignments",
+          "importer/exporter behavior",
+          "transaction values",
+          "duty rates",
+          "country of origin",
+          "manifest data"
+        ],
+        "Importer and Exporter": [
+          "importers",
+          "exporters",
+          "irregular traders",
+          "one-time traders",
+          "first-time traders",
+          "products",
+          "HS Codes",
+          "consignment"
+        ],
+        "H.S. Code": [
+          "accessories",
+          "primary machinery",
+          "import volumes",
+          "duty rate"
+        ],
+        "Customs Duty": [
+          "customs duty rates",
+          "high-duty items",
+          "zero-rated items"
+        ],
+        "Country of Origin": [
+          "country of origin",
+          "goods",
+          "quotas",
+          "import restrictions",
+          "country of shipment",
+          "restricted sources",
+          "Import Policy Orders"
+        ],
+        "Bill of Lading": [
+          "Bill of Lading",
+          "Import General Manifest",
+          "shipper",
+          "consignee",
+          "cargo details",
+          "origin",
+          "product details"
+        ],
+        "Airway Bill": [
+          "Airway Bill",
+          "origin",
+          "customs documents"
+        ],
+        "Import General Manifest": [
+          "Import General Manifest",
+          "ship's master",
+          "agent",
+          "product description",
+          "value",
+          "quantity",
+          "shipping documents",
+          "container details",
+          "cargo clearance"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        79,
+        83,
+        94,
+        157,
+        162,
+        192,
+        206,
+        219,
+        235,
+        268,
+        295,
+        320,
+        334,
+        350,
+        404,
+        535,
+        763,
+        843,
+        883,
+        1097,
+        1239,
+        1321,
+        2092,
+        2528,
+        2788,
+        2789,
+        2847,
+        3077,
+        3562,
+        4150,
+        4583,
+        4615,
+        4893,
+        6672,
+        6756,
+        8151,
+        8705,
+        8876,
+        8952,
+        9282,
+        10282,
+        10911,
+        11505,
+        12930,
+        13447
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_63",
+      "clause_title": "৭.৩ AEO প্রতিষ্ঠানের অডিট কার্যক্রমে বিশেষভাবে লক্ষ্যণীয় বিষয়সমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_63",
+      "resolved_text": "৭.৩ AEO প্রতিষ্ঠানের অডিট কার্যক্রমে বিশেষভাবে লক্ষ্যণীয় বিষয়সমূহ—AEO প্রতিষ্ঠানের ক্ষেত্রে সিস্টেম বেইজড অডিটের প্রতি গুরুত্ব দেয়া জরুরি। অন্যান্য প্রতিষ্ঠানের পিসিএ’র ক্ষেত্রে অনুসরণীয় পদ্ধতি অবলম্বনের পাশাপাশি যে সকল বিষয় অধিক গুরুত্ব সহকারে যাচাই করা প্রয়োজন তা নিম্নরূপ:\n(১) Large volume ও High price product এর HS Code এর সঠিকতা যাচাই;\n(২) প্রতিষ্ঠান প্রাঙ্গণে Randomly পণ্যের কায়িক পরীক্ষণ;\n(৩) প্রতিষ্ঠানের নিজস্ব ব্যবহৃত ডাটাবেজ, কম্পিউটার সিস্টেম, সফটওয়্যার এর সাপ্লাই চেইন মডিউল সহ অন্যান্য তথ্য যাচাই;\n(৪) মোট আমদানিকৃত পণ্য হতে কী পরিমাণ ফিনিশড প্রোডাক্ট উৎপাদিত হয়েছে এবং কী পরিমাণ শুল্ক-করাদি পরিশোধিত হয়েছে, সে বিষয়টিকে প্রাধান্য দিতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Audit activities for these entities should focus on system-based audits to ensure regulatory compliance.",
+          "When conducting post-clearance audits for these organizations, specific procedures beyond standard practices must be prioritized to verify the accuracy of declarations and internal operations."
+        ],
+        "H.S. Code": [
+          "Auditors are required to verify the accuracy of these codes specifically for high-volume and high-value products to prevent misclassification."
+        ],
+        "Customs Clearance": [
+          "Physical verification of goods at the premises of the authorized entity should be conducted on a random basis to ensure consistency with declared information."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Auditors must inspect the entity's internal databases, computer systems, and software modules, particularly those related to supply chain management, to validate transaction integrity."
+        ],
+        "Customs Duty": [
+          "Audit procedures must prioritize verifying the ratio of finished goods produced against total imported inputs to ensure that all relevant duties and taxes have been correctly calculated and paid."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_734",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "system-based audits",
+          "post-clearance audits",
+          "declarations",
+          "internal operations"
+        ],
+        "H.S. Code": [
+          "high-volume products",
+          "high-value products"
+        ],
+        "Customs Clearance": [
+          "goods",
+          "premises",
+          "declared information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "internal databases",
+          "computer systems",
+          "software modules",
+          "supply chain management"
+        ],
+        "Customs Duty": [
+          "finished goods",
+          "imported inputs",
+          "duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        5,
+        10,
+        13,
+        18,
+        30,
+        51,
+        66,
+        220,
+        229,
+        305,
+        497,
+        593,
+        1118,
+        3803,
+        6587,
+        8722,
+        8723,
+        9173,
+        9180,
+        12251,
+        12574
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_69",
+      "clause_title": "৯.৩ অসত্য ঘোষণার ক্ষেত্রে অপরিশোধিত/কম পরিশোধিত শুল্ক-করাদিসহ জরিমানা আদায়ের ক্ষেত্রে করণীয় ধাপসমূহ",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_69",
+      "resolved_text": "৯.৩ অসত্য ঘোষণার ক্ষেত্রে অপরিশোধিত/কম পরিশোধিত শুল্ক-করাদিসহ জরিমানা আদায়ের ক্ষেত্রে করণীয় ধাপসমূহ",
+      "entity_concepts": {
+        "Customs Duty": [
+          "This instruction outlines the mandatory operational procedures for field officers to recover unpaid or underpaid customs duties in cases where the importer provides a false declaration."
+        ],
+        "Customs Offence Penalties": [
+          "In instances of false declaration, officials are directed to follow specific administrative steps to collect mandatory financial penalties alongside any outstanding customs duties and taxes."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_740",
+      "entity_sub_entities": {
+        "Customs Duty": [
+          "unpaid customs duties",
+          "underpaid customs duties"
+        ],
+        "Customs Offence Penalties": [
+          "mandatory financial penalties",
+          "outstanding customs duties",
+          "taxes"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        13,
+        116,
+        1139,
+        1312,
+        2329
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_77",
+      "clause_title": "CUSTOMS ACT, 1969 এর SECTION 83A এর অধীন কারণ দর্শানো নোটিশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_77",
+      "resolved_text": "পরিশিষ্ট: ৬। CUSTOMS ACT, 1969 এর SECTION 83A এর অধীন কারণ দর্শানো নোটিশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\n...................................................................\nWeb: ........................... E-mail:..................................\n\nবিষয়ঃ বিল অব এন্ট্রি নং সি-...................., তারিখঃ ....../........../......... খ্রি. এর মাধ্যমে খালাসকৃত পণ্যচালানের বিপরীতে কম পরিশোধিত শুল্ক-করাদি বাবদ ............................ (....................................) টাকা আদায়ের জন্য Customs Act, 1969 এর Section 83A অনুযায়ী দাবীনামা জারির লক্ষ্যে কারণ দর্শাও নোটিশ।\n\nসূত্রঃ (১) এ দপ্তরের পত্র নং ................................................., তারিখ: ....../......./......... খ্রি.।\n(২) প্রতিষ্ঠানের পত্র নং ..............................................., তারিখ: ....../......./......... খ্রি.।\n\nউপযুক্ত বিষয় ও সূত্রের প্রতি আপনার দৃষ্টি আকর্ষণ করা হলো।\n\n২। আমদানিকারক প্রতিষ্ঠান ........................ ঠিকানা: ........................\n\n৩। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আমদানিকৃত ................................ নামীয় পণ্য বর্ণিত এসআরও নং- ........./আইন/......../......../কাস্টমস, তারিখঃ ....../....../........ খ্রি. এর বিপরীতে শুল্কমুক্ত সুবিধায় ছাড় নেয়া হয়েছে। কিন্তু আলোচ্য পণ্যসমূহ বাংলাদেশে সহজলভ্য নির্মাণ সামগ্রী হওয়ায় উল্লিখিত এসআরও এর আওতায় শুল্কমুক্ত সুবিধা প্রাপ্য নয়। সে কারণে খালাসকৃত ................................ নামীয় পণ্য শুল্ক মুক্ত সুবিধা পাবে না। পণ্যচালানটি স্বাভাবিক হারে শুল্কায়ন করা হলে শুল্ক-করাদির পরিমাণ হয় ................................ (কথায় ............................................................ ) টাকা। ইতোমধ্যে আমদানিকারক পরিশোধ করেছে ................................ টাকা। অবশিষ্ট (................................ - .........................) = ................................ (কথায়:................................ ) টাকা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৪। এমতাবস্থায়, কম পরিশোধিত শুল্ক-করাদি বাবদ ............................................................ (কথায়: ............................................................ ) টাকা Customs Act, 1969 এর Section 83A এর বিধান মোতাবেক আপনার নিকট হতে কেন আদায় করা হবে না তার জবাব আগামী ১৫ (পনের) কার্যদিবসের মধ্যে দাখিল করার জন্য অনুরোধ করা হলো। এ বিষয়ে আপনি/আপনার ক্ষমতা প্রাপ্ত প্রতিনিধির মাধ্যমে व्यक्तिगत শুনানি দিতে চাইলে তাও লিখিত জবাবে উল্লেখ করার জন্য আপনাকে অনুরোধ করা হলো।\n\n৫। নির্ধারিত তারিখ বা তদ্পূর্বে এ নোটিশের জবাব পাওয়া না গেলে Customs Act, 1969 এ প্রদত্ত ক্ষমতা বলে নথিতে সংরক্ষিত দলিলাদির ভিত্তিতে আলোচ্য বিষয়টি নিষ্পত্তি করা হবে।\n\n(..............................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস\nকমিশনার অব কাস্টমস এর পক্ষে।\nফোন নং-.....................................\n\nপ্রাপক: ব্যবস্থাপনা পরিচালক\nপ্রতিষ্ঠানের নাম: ...................................................................\nঠিকানা: .............................................................................\nবিন নম্বর: ..........................................................................\n\nনথি নং-.................................. তারিখ: ......../...../........ খ্রি:\n\nঅনুলিপি: প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য-\n১। সিএন্ডএফ এজেন্ট: ........................................ঠিকানা: ........................\nএআইএন: ........................................ আমদানিকারকের সাথে যোগাযোগ করে কারণ দর্শাও নোটিশের জবাব দাখিলের প্রয়োজনীয় ব্যবস্থা নিতে অনুরোধ করা হলো।\n২। অফিস কপি।\n\n(.........................)\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act provides the legal framework under Section 83A for issuing show cause notices regarding the recovery of short-paid customs duties and taxes.",
+          "The act empowers customs officials to initiate proceedings for the recovery of dues based on evidence available on file if a formal response is not received within the specified timeframe."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff schedule, along with other relevant laws and explanatory notes, serves as the basis for post-clearance audit reviews conducted by customs authorities to verify the correctness of duty and tax assessments."
+        ],
+        "World Customs Organization": [
+          "The Explanatory Notes issued by this organization are utilized by customs authorities during post-clearance audits to support the classification and duty assessment of imported goods."
+        ],
+        "Customs Duty": [
+          "The recovery process for short-paid duties and taxes is triggered when an importer receives duty-free benefits under an SRO for goods that are later determined to be ineligible for such exemptions.",
+          "Customs authorities require importers to pay the difference between the initially paid amount and the standard applicable duty rates when discrepancies are found during an audit."
+        ],
+        "Post Clearance Audit": [
+          "This process involves a detailed review of bills of entry and supporting documents by customs officials to ensure that all legal provisions and tariff classifications were correctly applied at the time of import.",
+          "Findings from these audits are used to identify revenue shortfalls and provide the justification for issuing formal show cause notices to importers."
+        ],
+        "Show Cause Notice": [
+          "This notice is issued by the customs authorities to an importer, requiring a written response within a set number of working days explaining why the short-paid duty amount should not be recovered.",
+          "The notice allows the importer or their authorized representative to request a personal hearing as part of their defense against the proposed duty recovery."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_748",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 83A",
+          "show cause notices",
+          "short-paid customs duties",
+          "taxes",
+          "dues"
+        ],
+        "Bangladesh Customs Tariff": [
+          "tariff schedule",
+          "laws",
+          "explanatory notes",
+          "duty",
+          "tax assessments"
+        ],
+        "World Customs Organization": [
+          "Explanatory Notes",
+          "imported goods"
+        ],
+        "Customs Duty": [
+          "short-paid duties",
+          "taxes",
+          "importer",
+          "SRO",
+          "exemptions",
+          "standard applicable duty rates"
+        ],
+        "Post Clearance Audit": [
+          "bills of entry",
+          "supporting documents",
+          "tariff classifications",
+          "revenue shortfalls",
+          "show cause notices",
+          "importers"
+        ],
+        "Show Cause Notice": [
+          "customs authorities",
+          "importer",
+          "short-paid duty amount",
+          "authorized representative",
+          "personal hearing"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        8,
+        10,
+        13,
+        39,
+        45,
+        79,
+        98,
+        109,
+        163,
+        164,
+        239,
+        276,
+        292,
+        344,
+        380,
+        424,
+        441,
+        504,
+        565,
+        607,
+        652,
+        703,
+        1470,
+        1477,
+        2261,
+        2262,
+        5000,
+        11529,
+        12182,
+        12367
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_92",
+      "clause_title": "অসত্র ঘোষণায় পণ্য আমদানির ক্ষেত্রে Section 156(1) অনুযায়ী বিচারাদেশের নমুনা",
+      "text_id": "20230927_১০ অক্টোবর, ২০২৩_clause_92",
+      "resolved_text": "পরিশিষ্ট-২১। অসত্য ঘোষণায় পণ্য আমদানির ক্ষেত্রে Section 156(1) অনুযায়ী বিচারাদেশের নমুনা\n\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nকাস্টম হাউস, . . . . .\nWeb: . . . . . . . . . . . .. E-mail:. . . . . . . . . .\n\nআদেশ নং . . . . . . . . . . . . . . . . . . . . . . . . . . . তারিখ:. . . . ./ . . . . . /. . . . . .খ্রি.\n\nআদেশ প্রদানকারী কর্মকর্তা: . . . . . . . . . . . , কশিনার/ . . . . . . . .অব কাস্টমস।\n\n“আদেশ (মূল)”\n\nবি.দ্র.\n১। আদেশের এই কপিটি যার নামে জারি করা হয়েছে তার নিজস্ব ব্যবহারের জন্য বিনামূল্যে প্রদান করা হলো।\n২। এই আদেশ জারি হওয়ার তারিখ থেকে ৩ (তিন) মাসের মধ্যে প্রেসিডেন্ট, কাস্টমস, এক্সাইজ ও ভ্যাট আপীলাত ট্রাইব্যুনাল, ঢাকা এর বরাবরে এই আদেশের বিরুদ্ধে আপিল দায়ের করা যাবে।\n\n“মামলার সংক্ষিপ্ত বিবরণ”\n\n৩। আমদানিকারক প্রতিষ্ঠান . . . . . . . . . . . . . . . . . . . . . . . . . . . ঠিকানা: . . . . . . . . . . . . . . . . . . . . . . . বিআইএন নম্বর: ..................................... কর্তৃক এলসি নং-........................... , তারিখ: . . . . . / . . . . /. . . . . . খ্রি. ইনভয়েস নম্বর: . . . . . . . . . . . ., তারিখ: ......../..../...... খ্রি. এর মাধ্যমে ............... দেশ হতে ........... কেজি/....... ..................... নামীয় পণ্য আমদানি করা হয়। পণ্যচালানটি খালাসের লক্ষ্যে মনোনীত সিঅ্যান্ডএফ এজেন্ট .................... ঠিকানা: ............................... এআইএন: ........................... কর্তৃক বিল অব এন্ট্রি নং সি- ................, তারিখ: . . . . . / . . . . /. . . . . . খ্রি. দাখিল করা হয়।\n\n৪। পণ্য খালাস পরবর্তীতে পোস্ট ক্লিয়ারেন্স অডিটে আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আলোচ্য প্রতিষ্ঠানটি ............. কর্তৃক অসত্য ঘোষণায় পণ্য আমদানি করেছেন। . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . অডিট রিপোর্ট এবং পণ্যের নমুনা দৃষ্টে, BCT ও Explanatory Notes এর উপরোক্ত ব্যাখ্যার আলোকে পণ্যটি ........................., যা GRI Rule-1 এবং Rule-6 অনুযায়ী H.S. Code .................. শ্রেণিবিন্যাসযোগ্য। এছাড়া আলোচ্য পণ্য প্রতি কেজি ................ মার্কিন ডলার শুল্কায়নযোগ্য। আমদানিকারকের ইনভয়েসে ঘোষিত পণ্যের এইচ.এস.কোড ও মূল্য এবং অডিট টিম কর্তৃক সুপারিশকৃত মূল্যের পার্থক্যজনিত শুল্ক করাদি ..........................(...................................) টাকা যা আমদানিকারকের নিকট হতে আদায়যোগ্য। আলোচ্য পণ্যচালানের ক্ষেত্রে পণ্যের প্রকৃত এইচএসকোড-এ ঘোষণা প্রদান না করে পণ্য আমদানি করায় Customs Act, 1969 এর Section 32(1) এ বর্ণিত অপরাধ সংঘটিত হয়েছে, যা একই আইনের Section 156 এর Table-(1) এর Clause-14 অনুযায়ী শাস্তিযোগ্য।\n\n৫। এমতাবস্থায়, অসত্য ঘোষণা পণ্য আমদানি করায় Customs Act, 1969 এর Section 180 এর বিধান অনুযায়ী আমদানিকারকের বরাবরে কারণ দর্শাও জারি করা হয় এবং ব্যক্তিগত শুনানী গ্রহণ করা হয়।\n\n৬। প্রতিষ্ঠান কর্তৃপক্ষের লিখিত বক্তব্য: প্রতিষ্ঠান কর্তৃপক্ষ আলোচ্য বিষয়ে নিম্নরূপ লিখিত বক্তব্য উপস্থাপন করেন। . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ।\n\nপর্যালোচনা\n\n৭। পোস্ট ক্লিয়ারেন্স অডিট টিম কর্তৃক দাখিলকৃত অডিট রিপোর্ট, প্রতিষ্ঠান কর্তৃপক্ষের লিখিত জবাব ও মৌখিক বক্তব্য, আইন, বিধি, প্রজ্ঞাপন এসআরও, নথিতে রক্ষিত আমদানিকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত বিল অব এন্ট্রি ও সংশ্লিষ্ট দলিলাদিসহ আইন, বিধি, প্রজ্ঞাপন এসআরও, Bangladesh Customs Tariff (BCT), World Customs Organization কর্তৃক প্রণীত Explanatory Notes ইত্যাদি পর্যালোচনা করা হয়। পর্যালোচনায় দেখা যায়, আলোচ্য প্রতিষ্ঠানটি ............. কর্তৃক অসত্য ঘোষণায় পণ্য আমদানি করেছেন। . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . অডিট রিপোর্ট এবং পণ্যের নমুনা দৃষ্টে, BCT ও Explanatory Notes এর উপরোক্ত ব্যাখ্যার আলোকে পণ্যটি ........................., যা GRI Rule-1 এবং Rule-6 অনুযায়ী H.S. Code .................. শ্রেণিবিন্যাসযোগ্য। এছাড়া আলোচ্য পণ্য প্রতি কেজি ................ মার্কিন ডলার শুল্কায়নযোগ্য। আমদানিকারকের ইনভয়েসে ঘোষিত পণ্যের এইচ.এস.কোড ও মূল্য ............ মার্কিন ডলার এবং অডিট টিম কর্তৃক সুপারিশকৃত মূল্যের পার্থক্যজনিত শুল্ক করাদি ..........................(...................................) টাকা, যা আমদানিকারকের নিকট হতে আদায়যোগ্য।\n\n৮। সার্বিক পর্যালোচনায় দেখা যায় যে, আমদানিকারক প্রতিষ্ঠান অসত্য ঘোষণার মাধ্যমে পণ্য আমদানি করেছেন, যা Customs Act, 1969 এর Section 32(1) এ বর্ণিত অপরাধ এবং একই আইনের Section 156(1)-এর Table-ভুক্ত Clause-14 অনুযায়ী দণ্ডযোগ্য।\n\nআদেশ\n\n৯। পণ্যচালানটির ক্ষেত্রে আমদানিকারকের Customs Act, 1969 এর Section 32(1) এ বর্ণিত অপরাধ প্রমাণিত হওয়ায় একই আইনের Customs Act, 1969 এর Section 156 (1) এর Table Clause 14 অনুযায়ী আমদানিকারকের উপর ..................................../- (.....................................) টাকা অর্থদণ্ড আরোপ করা হলো। উক্ত আরোপিত অর্থদণ্ড এই আদেশ জারির ৩০ (ত্রিশ) দিনের মধ্যে পরিশোধ ও প্রযোজ্য আনুষ্ঠানিকতা পরিপালনের আদেশ দেয়া হলো। উল্লেখ্য যে, জরিমানার অর্থ শুল্ককরাদির অতিরিক্ত হিসাবে আদায়যোগ্য হবে। আলোচ্য পণ্যচালানের ক্ষেত্রে সংঘটিত অনিয়মের দায়ে এ ন্যায় নির্ণয় করা হলো।\n\n( . . . . . . . . . . . . . . . . . . . . . )\nঅ্যাসিস্ট্যান্ট/ডেপুটি/জয়েন্ট/\nঅ্যাডিশনাল/কমিশনার অব কাস্টমস\nফোন নং-............................\n\nপ্রাপক:\nব্যবস্থাপনা পরিচালক\nঠিকানা: . . . . . . . . . . . . . . . . . . . . . . .\nবিআইএন নম্বর: . . . . . . . . . . . . . . . . . . .\n\nনথি নং- . . . . . . . . . . . . . . . . . . . . . . . তারিখ: . . . /. . . /. . . . খ্রি.\n\nঅনুলিপি অবগতি ও প্রয়োজনীয় কার্যকরী ব্যবস্থা গ্রহণের জন্য প্রেরণ করা হলো:\n\n১। সিঅ্যান্ডএফ এজেন্ট: ........................................ঠিকানা: ............................................... এআইএন নম্বর: ........................................................... (তাঁকে পত্রটি আমদানিকারকের নিকট পৌঁছিয়ে আদেশে উল্লিখিত অর্থদণ্ড, জরিমানা এবং প্রযোজ্য শুল্ক করাদি সরকারি কোষাগারে পরিশোধের প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য বলা হলো)।\n\n২। পিএ টু কমিশনার, কাস্টম হাউস, . . . . . . . (কমিশনার মহোদয় এর সদয় অবগতির জন্য)।\n\n৩। গার্ড নথি (যোগাযোগ শাখা), কাস্টম হাউস, . . . . . . . . . . ।\n\n৪। অফিস কপি।\n\n[. . . . . . . . . . . ]\nঅ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This instrument provides the legal framework for the adjudication of customs offences, specifically under Section 32(1) for misdeclaration and Section 156(1) for penalty imposition.",
+          "Section 180 of this Act mandates the issuance of a show-cause notice and the provision of a personal hearing before a final order is passed against an importer for customs violations.",
+          "The Act governs the recovery of penalties and duties resulting from audit findings in relation to import misdeclarations."
+        ],
+        "Bangladesh Customs Tariff": [
+          "This schedule is used in conjunction with World Customs Organization explanatory notes to determine the correct classification of imported goods for customs duty purposes."
+        ],
+        "World Customs Organization": [
+          "The explanatory notes provided by this organization serve as a definitive guide for the proper classification of goods under the Bangladesh Customs Tariff."
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "This body serves as the legal appellate authority where importers may file an appeal against an adjudication order within a specified timeframe."
+        ],
+        "H.S. Code": [
+          "The correct classification of goods under the appropriate H.S. Code, based on General Rules for Interpretation (GRI), is essential for lawful customs declaration.",
+          "Importers who fail to declare the correct H.S. Code are liable for penalties for misdeclaration as defined under the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_763",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 32(1)",
+          "Section 156(1)",
+          "Section 180",
+          "show-cause notice",
+          "personal hearing",
+          "final order",
+          "importer",
+          "penalties",
+          "duties",
+          "audit findings",
+          "import misdeclarations"
+        ],
+        "Bangladesh Customs Tariff": [
+          "World Customs Organization explanatory notes",
+          "imported goods",
+          "customs duty"
+        ],
+        "World Customs Organization": [
+          "explanatory notes",
+          "Bangladesh Customs Tariff"
+        ],
+        "Customs, Excise and VAT Appellate Tribunal": [
+          "importers",
+          "appeal",
+          "adjudication order"
+        ],
+        "H.S. Code": [
+          "goods",
+          "General Rules for Interpretation",
+          "customs declaration",
+          "importers",
+          "penalties",
+          "misdeclaration",
+          "Customs Act 1969"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        5,
+        8,
+        10,
+        30,
+        39,
+        46,
+        79,
+        98,
+        292,
+        335,
+        378,
+        385,
+        424,
+        607,
+        747,
+        837,
+        1274,
+        1469,
+        1888,
+        3057,
+        3976,
+        8408,
+        8853,
+        9900,
+        13411
+      ],
+      "source_file": "customs_gos_OCR/20230927/20230927_output.json",
+      "clause_date": "2023-09-27"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_166",
+      "clause_title": "Determination of rate of duty in respect of baggage",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_166",
+      "resolved_text": "140. Determination of rate of duty in respect of baggage.- The rate of duty if any, applicable to baggage shall be the rate in force on the date on which a declaration is made in respect of such baggage under section 139.",
+      "entity_concepts": {
+        "Baggage": [
+          "The rate of customs duty applicable to baggage is determined based on the legal rate in force at the time the declaration is made."
+        ],
+        "Customs Duty Rate": [
+          "The applicable rate of duty for imported baggage is fixed by the duty rate in effect on the date a formal baggage declaration is submitted under the relevant section of the Customs Act 1969."
+        ],
+        "Baggage Declaration": [
+          "The submission of a baggage declaration serves as the reference point for determining the effective date for applying customs duty rates to the goods being declared."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_493",
+      "entity_sub_entities": {
+        "Baggage": [
+          "baggage",
+          "customs duty"
+        ],
+        "Customs Duty Rate": [
+          "customs duty",
+          "baggage",
+          "baggage declaration",
+          "Customs Act 1969"
+        ],
+        "Baggage Declaration": [
+          "baggage declaration",
+          "customs duty rates",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        2,
+        10,
+        47,
+        313,
+        670,
+        763
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_169",
+      "clause_title": "Treatment of baggage of passengers or crew in transit",
+      "text_id": "customs-act-1969-english_8th March, 1969_clause_169",
+      "resolved_text": "143. Treatment of baggage of passengers or crew in transit.- Baggage of passengers and members of the crew in transit in respect of which a declaration has been made under section 139, may be permitted by the appropriate officer, subject to such limitations, conditions and restrictions as may be specified in the rules, to be so transited without payment of duty.",
+      "entity_concepts": {
+        "Passenger or Crew Baggage": [
+          "Baggage belonging to passengers or crew in transit may be exempted from customs duty provided a proper declaration is filed under the relevant section of the Customs Act."
+        ],
+        "Appropriate Officer of Customs": [
+          "The appropriate officer is authorized to permit the transit of passenger or crew baggage without the payment of customs duty, subject to specific conditions and restrictions prescribed by the rules."
+        ],
+        "Baggage Declaration": [
+          "A formal declaration of passenger or crew baggage must be made under the provisions of the Customs Act for the baggage to be eligible for transit without duty payment."
+        ],
+        "Rules": [
+          "The rules define the specific limitations, conditions, and restrictions under which passenger or crew baggage may be allowed to transit through customs jurisdiction without duty."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_496",
+      "entity_sub_entities": {
+        "Passenger or Crew Baggage": [
+          "baggage",
+          "passengers",
+          "crew"
+        ],
+        "Appropriate Officer of Customs": [
+          "appropriate officer",
+          "passenger or crew baggage",
+          "customs duty",
+          "rules"
+        ],
+        "Baggage Declaration": [
+          "formal declaration",
+          "passenger or crew baggage",
+          "Customs Act"
+        ],
+        "Rules": [
+          "rules",
+          "limitations",
+          "conditions",
+          "restrictions",
+          "passenger or crew baggage",
+          "customs jurisdiction",
+          "duty"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        17,
+        29,
+        37,
+        47,
+        69,
+        99,
+        109,
+        135,
+        313,
+        560,
+        611,
+        836,
+        851,
+        1182,
+        1245
+      ],
+      "source_file": "customs_acts_OCR/customs-act-1969-english/customs-act-1969-english_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-২ [শুল্ক-কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা]",
+      "text_id": "metadata_10",
+      "resolved_text": "তফসিল-২\n\n[বিধি ৩(৫), ৩(৭) ও ১০ দ্রষ্টব্য]\n\n[শুল্ক-কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা]\n\n(ক) ব্যক্তিগত এবং গৃহস্থালি কাজে ব্যবহৃত হয়না এমন কোন পণ্য।\n(খ) বিধি-৩ এ বর্ণিত প্রাপ্যতা সীমার অতিরিক্ত আনীত ব্যাগেজ।\n(গ) ব্যাগেজে আমদানিকৃত বাণিজ্যিক পরিমাণে যে কোন পণ্য;\n(ঘ) নিম্নবর্ণিত গৃহস্থালি ও ব্যক্তিগত পণ্য ব্যাগেজ হিসাবে আমদানি হইলেও প্রতিটির পার্শ্বে উল্লিখিত নির্দিষ্ট পরিমাণ শুল্ক ও কর পরিশোধ করিতে হইবে :\n\n\n| ক্রমিক নং | পণ্যের বর্ণনা | শুল্ক-কর এর পরিমাণ |\n| --- | --- | --- |\n| ১। | Plasma, LCD, TFT, LED ও অনুরূপ প্রযুক্তির টেলিভিশন (ক) ২২\" - ২৯\" পর্যন্ত (খ) ৩০\" - ৩৬\" পর্যন্ত (গ) ৩৭\" - ৪২\" পর্যন্ত (ঘ) ৪৩\" - ৪৬\" পর্যন্ত (ঙ) ৪৭\" - ৫২\" পর্যন্ত (চ) ৫৩\" থেকে তদূর্ধ্ব | ৫,০০০/- টাকা ১০,০০০/- টাকা ২০,০০০/- টাকা ৩০,০০০/- টাকা ৫০,০০০/- টাকা ৭০,০০০/- টাকা |\n| ২। | ৪ (চার) এর অধিক তবে সর্বোচ্চ ৮ টি স্পীকারসহ (মিউজিক সেন্টার)/স্পীকার নির্বিশেষে হোম থিয়েটার (সিডি/ ভিসিডি/ ডিভিডি/ এলডি/এমডি/ব্লু রেডিস্ক সেট) | ৮,০০০/- টাকা |\n| ৩। | রেফ্রিজারেটর/ডিপ ফ্রিজার | ৫,০০০/- টাকা |\n| ৪। | এয়ার কুলার/এয়ার কন্ডিশনার (ক) উইন্ডো টাইপ (window type) (খ) স্প্লিট টাইপ (split type upto 18000 BTU) (গ) /স্প্লিট টাইপ (split type above 18000 BTU) | ৭,০০০/- টাকা ১৫,০০০/- টাকা ২০,০০০/- টাকা |\n| ৫। | ডিশ এন্টেনা | ৭,০০০/- টাকা |\n| ৬। | স্বর্ণবার বা স্বর্ণপিণ্ড (সর্বোচ্চ ২৩৪ গ্রাম বা ২০ তোলা) | প্রতি ১১.৬৬৪ গ্রাম ৩০০০/- টাকা |\n| ৭। | রৌপ্যবার বা রৌপ্যপিণ্ড (সর্বোচ্চ ২৩৪ গ্রাম বা ২০ তোলা) | প্রতি ১১.৬৬৪ গ্রাম ৬/- টাকা |\n| ৮। | HD Cam, DV Cam, BETA Cam এবং Professional কাজে ব্যবহৃত হয় এরূপ ক্যামেরা | ১৫,০০০/- টাকা |\n| ৯। | এয়ারগান/এয়ার রাইফেল (বাণিজ্য মন্ত্রণালয়ের অনুমোদন সাপেক্ষে আমদানির্যোগী) | ৫,০০০/- টাকা |\n| ১০। | ঝাড়বাতি | ৩০০/- টাকা (প্রতি পয়েন্ট) |\n| ১১। | কার্পেট ১৫ বর্গমিটার পর্যন্ত | ১৫০/- টাকা (প্রতি বর্গমিটার) |\n| ১২। | ডিশ ওয়াশার/ওয়াশিং মেশিন/ক্লথ ড্রাইয়ার | ৩,০০০/- টাকা |\n",
+      "entity_concepts": {
+        "Baggage Rules": [
+          "This schedule provides a list of dutiable goods imported as baggage that are subject to specific customs and tax regulations.",
+          "It defines categories of goods, including non-personal items, items exceeding baggage allowances, and commercial quantities of imported goods, which are subject to taxation."
+        ],
+        "Customs Duty": [
+          "The schedule specifies fixed customs and tax rates for various household and personal electronic appliances and high-value items imported as baggage.",
+          "Specific tax amounts are assigned to items based on categories such as display size for televisions, technical capacity for air conditioners, and unit weight for precious metals."
+        ],
+        "Household and Personal Baggage": [
+          "The list details a wide range of taxable household and personal goods including home theater systems, appliances like refrigerators and air conditioners, and recreational or professional equipment such as cameras and air guns.",
+          "Items listed in this category require the payment of fixed duties and taxes if imported as baggage, provided they do not exceed specified quantity or status limitations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_714",
+      "entity_sub_entities": {
+        "Baggage Rules": [
+          "dutiable goods",
+          "non-personal items",
+          "items exceeding baggage allowances",
+          "commercial quantities of imported goods"
+        ],
+        "Customs Duty": [
+          "household and personal electronic appliances",
+          "high-value items",
+          "televisions",
+          "air conditioners",
+          "precious metals"
+        ],
+        "Household and Personal Baggage": [
+          "home theater systems",
+          "refrigerators",
+          "air conditioners",
+          "cameras",
+          "air guns"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        226,
+        255,
+        296,
+        413,
+        872,
+        1065,
+        1210,
+        1513,
+        1797,
+        1832,
+        1839,
+        2524,
+        5424,
+        8760,
+        9302
+      ],
+      "source_file": "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-২",
+      "text_id": "metadata_11",
+      "resolved_text": "তফসিল-২\n[বিধি ৩ এর উপ-বিধি (৫) ও (৭) এবং বিধি ১০ দ্রষ্টব্য]\nশুল্ক ও কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা\n\n(ক) ব্যক্তিগত এবং গৃহস্থালি কার্য ব্যবহৃত হয় না এইরূপ কোনো পণ্য।\n(খ) বিধি ৩ এ বর্ণিত প্রাপ্যতা সীমার অতিরিক্ত আনীত ব্যাগেজ।\n(গ) ব্যাগেজে আমদানিকৃত বাণিজ্যিক পরিমাণের যে কোনো পণ্য।\n(ঘ) নিম্নবর্ণিত গৃহস্থালি ও ব্যক্তিগত পণ্য ব্যাগেজ হিসাবে আমদানি হইলেও প্রতিটির পার্শ্বে উল্লিখিত নির্দিষ্ট পরিমাণ শুল্ক ও কর পরিশোধ করিতে হইবে, যথা:—\n\n| ক্রমিক নং | পণ্যের বর্ণনা | শুল্ক ও কর এর পরিমাণ |\n| --- | --- | --- |\n| ১। | Plasma, LCD, TFT, LED ও অনুরূপ প্রযুক্তির টেলিভিশন : (ক) ৩০\" - ৩৬\" পর্যন্ত (খ) ৩৭\" - ৪২\" পর্যন্ত (গ) ৪৩\" - ৪৬\" পর্যন্ত (ঘ) ৪৭\" - ৫২\" পর্যন্ত (ঙ) ৫৩\" - ৬৫\" পর্যন্ত (চ) ৬৬\" থেকে তদূর্ধ্ব | ১০,০০০/- টাকা ২০,০০০/- টাকা ৩০,০০০/- টাকা ৫০,০০০/- টাকা ৭০,০০০/- টাকা ৯০,০০০/- টাকা |\n| ২। | ৪ (চার) এর অধিক তবে সর্বোচ্চ ৮ (আট)টি স্পিকারসহ (মিউজিক সেন্টার)/স্পিকার নির্বিশেষে হোম থিয়েটার (সিডি/ ডিভিডি/ ভিডিভি/ এলডি/ এমডি/ব্লু রেডিক্স সেট) | ৮,০০০/- টাকা |\n| ৩। | রেফ্রিজারেটর/ডিপ ফ্রিজার | ৫,০০০/- টাকা |\n| ৪। | এয়ার কুলার/এয়ার কন্ডিশনার (ক) উইন্ডো টাইপ (window type) (খ) স্প্লিট টাইপ (split type upto 18000 BTU) (গ) স্প্লিট টাইপ (split type above 18000 BTU) | ৭,০০০/- টাকা ১৫,০০০/- টাকা ২০,০০০/- টাকা |\n| ৫। | ডিশ এন্টেনা | ৭,০০০/- টাকা |\n| ৬। | স্বর্ণবার বা স্বর্ণপিণ্ড (সর্বোচ্চ ১১৭ গ্রাম বা ১০ তোলা) | প্রতি ১১.৬৬৪ গ্রাম ৫০০০/- টাকা |\n| ৭। | রৌপ্যবার বা রৌপ্যপিণ্ড (সর্বোচ্চ ২৩৪ গ্রাম বা ২০ তোলা) | প্রতি ১১.৬৬৪ গ্রাম ৬/- টাকা |\n| ৮। | HD Cam, DV Cam, BETA Cam, DSLR, Mirrorless, Interchangeable lens এবং Professional কাজে ব্যবহৃত হয় এইরূপ ক্যামেরা | ১৫,০০০/- টাকা |\n| ৯। | এয়ারগান/এয়ার রাইফেল (বাণিজ্য মন্ত্রণালয় এর অনুমোদন সাপেক্ষে আমদানিযোগ্য) | ৫,০০০/- টাকা |\n| ১০। | ঝাড়বাতি | ৩০০/- টাকা (প্রতি পয়েন্ট) |\n| ১১। | ডিশ ওয়াশার/ওয়াশিং মেশিন/ক্লথ ড্রাইয়ার | ৩,০০০/- টাকা |\n",
+      "entity_concepts": {
+        "Baggage": [
+          "This schedule categorizes items into those that are subject to duty and taxes based on their nature, commercial quantity, or excess beyond allowed duty-free limits.",
+          "It mandates the payment of specific duties for various household and personal goods imported as baggage."
+        ],
+        "Professional Equipment": [
+          "Cameras used for professional purposes, including HD Cam, DV Cam, BETA Cam, DSLR, Mirrorless, and interchangeable lens cameras, are subject to a specified duty rate upon import."
+        ],
+        "Customs Duty": [
+          "The schedule defines fixed duty and tax amounts payable for specific categories of imported household and personal items, such as televisions, home theaters, refrigerators, air conditioners, and gold/silver bars.",
+          "Items that fall outside of baggage allowances or are imported in commercial quantities are subject to these specific levies."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1713",
+      "entity_sub_entities": {
+        "Baggage": [
+          "items",
+          "household goods",
+          "personal goods"
+        ],
+        "Professional Equipment": [
+          "Cameras",
+          "HD Cam",
+          "DV Cam",
+          "BETA Cam",
+          "DSLR",
+          "Mirrorless",
+          "interchangeable lens cameras"
+        ],
+        "Customs Duty": [
+          "televisions",
+          "home theaters",
+          "refrigerators",
+          "air conditioners",
+          "gold bars",
+          "silver bars"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        47,
+        117,
+        283,
+        296,
+        402,
+        413,
+        478,
+        786,
+        876,
+        1513,
+        1797,
+        2524,
+        5952,
+        7486,
+        7579,
+        8627,
+        9147,
+        9893
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফবসল-৩",
+      "text_id": "metadata_14",
+      "resolved_text": "তফবসল-৩\n[ বববধ ৩ এর উপ-বববধ (৫) ও (৭) এবাং বববধ ১০ দ্রষ্টব্য ]\nশুল্ক ও কর মুি পদের তাবলকা",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage Rules 2024": [
+          "The third schedule of these rules provides a list of baggage items that are eligible for exemption from customs duties and taxes. This list is referenced by specific sub-rules relating to baggage import allowances."
+        ],
+        "Customs Duty": [
+          "The schedule outlines the categories of goods which qualify for duty-free import status for passengers under the specified rules."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_190",
+      "entity_sub_entities": {
+        "Passenger (Non-Tourist) Baggage Rules 2024": [
+          "baggage items",
+          "customs duties",
+          "taxes",
+          "baggage import allowances"
+        ],
+        "Customs Duty": [
+          "goods",
+          "duty-free import status"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        10,
+        13,
+        14,
+        871,
+        1554,
+        5891,
+        7562
+      ],
+      "source_file": "customs_rules_OCR/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New/20240606_SRO-203-Ain-2024-55-Customs_Baggage-Rules-New_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-৩",
+      "text_id": "metadata_15",
+      "resolved_text": "তফবসল-৩\n[ বববধ ৩ এর উপ-বববধ (৫) ও (৭) এবাং বববধ ১০ দ্রষ্টব্য ]\nশুল্ক ও কর মুি পদের তাবলকা",
+      "entity_concepts": {
+        "Customs Duty and Tax Exemption Schedule": [
+          "This schedule provides the list of items eligible for exemptions from customs duty and taxes.",
+          "It is referenced in connection with specific procedural rules regarding the application of these exemptions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1462",
+      "entity_sub_entities": {
+        "Customs Duty and Tax Exemption Schedule": [
+          "items",
+          "customs duty",
+          "taxes",
+          "procedural rules",
+          "exemptions"
+        ]
+      },
+      "clause_clusters": [
+        10,
+        13,
+        117,
+        163,
+        1256,
+        6897
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-১",
+      "text_id": "metadata_8",
+      "resolved_text": "তফসিল-১\n[বিধি ৩ এর উপ-বিধি (৪) এবং বিধি ৮ এর উপ-বিধি (১), (২) ও (৩) দ্রষ্টব্য]\nব্যাগেজ ঘোষণা ফরম\n\n১। যাত্রীর নাম (Name of the Passenger):\n২। পাসপোর্ট নং (Passport Number):\n৩। জাতীয়তা (Nationality):\n৪। আগমনের তারিখ (Date of arrival): (দিন/মাস/বৎসর) (DD/MM/YYYY)\n৫। ফ্লাইট নং (Flight No.):\n৬। ব্যাগেজের সংখ্যা (Number of baggage):\n৭। কোন দেশ হইতে আগমন (Country from where coming):\n৮। আপনি বিগত ১ (এক) মাসে যে সকল দেশ ভ্রমণ করিয়াছেন (Countries you have travelled in the last one month):\n\n| দেশের নাম (Name of the Country) | ভ্রমণের তারিখ (Travel Date) |\n| --- | --- |\n| (ক) |  |\n| (খ) |  |\n| (গ) |  |\n\n\n৯। শুল্ক ও কর আরোপযোগ্য আমদানিকৃত পণ্যের মোট মূল্য (টাকায়) [Total value of dutiable goods being imported (Tk.)]:\n\n১০। আপনি কী নিম্নবর্ণিত পণ্যসমূহ বাংলাদেশে আনিয়াছেন (Are you bringing the following items into Bangladesh):\n\n| বিবরণ | হ্যাঁ/না (Yes/No) |\n| --- | --- |\n| (ক) তফসিল-২ এ বর্ণিত একটির অধিক শুল্ক ও কর আরোপযোগ্য কোনো পণ্য (More than one of any goods which are dutitable as described in Schedule-2) | হ্যাঁ/না (Yes/No) |\n| (খ) তফসিল-৩ এ বর্ণিত শুল্ক ও কর মুক্ত একটির অধিক কোনো পণ্য (মোবাইল ফোনের ক্ষেত্রে দুটির অধিক) [ More than one of any goods (More than two for cellular phone) which are duty free as described in Schedule-3] | হ্যাঁ/না (Yes/No) |\n| (গ) আমদানি নিষিদ্ধ পণ্য (Prohibited articles) | হ্যাঁ/না (Yes/No) |\n| (ঘ) ১ (এক) শত গ্রাম ওজনের ঊর্ধ্বে স্বর্ণালঙ্কার বা ২ (দুই) শত গ্রাম ওজনের ঊর্ধ্বে রৌপ্যের তৈরি অলঙ্কার [Gold jewellery in excess of 100 gm or Silver jewellery in excess of 200 gm] | হ্যাঁ/না (Yes/No) |\n| (ঙ) প্রাপ্যতা সীমার ঊর্ধ্বে (১১৭ গ্রাম স্বর্ণ/২০০ গ্রাম রুপা) যেকোনো পরিমাণ স্বর্ণ বা রৌপ্যের বার বা পিণ্ড [Gold or Silver Bar or Bullion in excess of allowable limit (117 Gram Gold/200 Gram Silver)] | হ্যাঁ/না (Yes/No) |\n| (চ) প্রতি বৎসরে ০১ (এক) বার স্বর্ণবার/স্বর্ণপিণ্ড/রৌপ্যবার/রৌপ্যপিণ্ড/স্বর্ণালঙ্কার/রুপার অলঙ্কার (Gold or Silver Bar or Bullion or Gold or Silver ornaments once every year) | হ্যাঁ/না (Yes/No) |\n| (ছ) মাংস এবং মাংস দ্বারা তৈরি পণ্য/ডেইরি প্রোডাক্টস/মাছ/পোলট্রি প্রোডাক্টস (Meat and meat products/dairy products/fish/poultry products) | হ্যাঁ/না (Yes/No) |\n| (জ) বীজ/গাছের চারা/ফলমূল/ফুল/অন্যান্য উদ্ভিজ্জ পণ্য (Seeds/plants/fruits/ flowers/other planting materials) | হ্যাঁ/না (Yes/No) |\n| (ঝ) নতুন মোবাইল/সেলুলার ফোন (New Mobile/cellular phone) | হ্যাঁ/না (Yes/No) |\n| (ঞ) ১০ (দশ) হাজার মার্কিন ডলারের অতিরিক্ত বা তাহার সমপরিমাণ অর্থের অধিক কোনো বৈদেশিক মুদ্রা (Foreign currency exceeding US $ 10,000 or equivalent) [এক্ষেত্রে $10,000 এর অধিক বৈদেশিক মুদ্রা থাকিলে কাস্টমস হলে বৈদেশিক মুদ্রা ফরমে পৃথকভাবে ঘোষণা প্রদান করিতে হইবে] | হ্যাঁ/না (Yes/No) |\n\n\nউপরি-উক্ত কোনো প্রশ্নের জবাব যদি হ্যাঁ হয়, তাহা হইলে অনুগ্রহ করিয়া রেড চ্যানেলে কর্তব্যরত কাস্টমস কর্মকর্তাকে অবহিত করুন (Please report to Customs Officer at the Red Channel counter in case answer to any of the above questions is 'Yes'.)\n\nস্বাক্ষর (Signature):\nরেভিনিউ অফিসার (Revenue Officer)\n\nযাত্রীর স্বাক্ষর (পাসপোর্ট অনুসারে):\nSignature of the Passenger (according to Passport)\nতারিখ (Date):",
+      "entity_concepts": {
+        "Passenger Baggage Declaration Form": [
+          "This form serves as the official declaration document for passengers arriving in Bangladesh to declare their baggage and imported goods. It requires passengers to provide personal details, travel history, and information on whether they are carrying specific categories of restricted or dutiable items."
+        ],
+        "Schedule": [
+          "The form references specific schedules that categorize goods for the purpose of customs assessment and duty-free allowances."
+        ],
+        "Schedule-2": [
+          "Schedule-2 specifies goods that are subject to customs duty and taxes, requiring passengers to declare if they are carrying more than the prescribed quantity."
+        ],
+        "Schedule-3": [
+          "Schedule-3 lists goods that are eligible for duty-free entry, with specific quantitative limits defined for items like mobile phones."
+        ],
+        "Red Channel": [
+          "The Red Channel is the designated clearance area where passengers must report to a customs officer if they are carrying dutiable, prohibited, or excess quantity items as indicated in their baggage declaration."
+        ],
+        "Customs Officer": [
+          "Customs officers are responsible for receiving declarations from passengers at the Red Channel and verifying the imported goods against the declared items."
+        ],
+        "Gold and Silver Bullion": [
+          "Specific declaration requirements apply to gold and silver bars, bullion, and ornaments based on their weight and frequency of import."
+        ],
+        "Revenue Officer": [
+          "The Revenue Officer is the designated official authorized to validate the baggage declaration process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1712",
+      "entity_sub_entities": {
+        "Passenger Baggage Declaration Form": [
+          "baggage",
+          "imported goods",
+          "personal details",
+          "travel history",
+          "restricted items",
+          "dutiable items"
+        ],
+        "Schedule": [
+          "goods",
+          "customs assessment",
+          "duty-free allowances"
+        ],
+        "Schedule-2": [
+          "goods",
+          "customs duty",
+          "taxes"
+        ],
+        "Schedule-3": [
+          "goods",
+          "mobile phones"
+        ],
+        "Red Channel": [
+          "clearance area",
+          "dutiable items",
+          "prohibited items",
+          "excess quantity items",
+          "baggage declaration"
+        ],
+        "Customs Officer": [
+          "declarations",
+          "imported goods",
+          "declared items"
+        ],
+        "Gold and Silver Bullion": [
+          "gold bars",
+          "silver bars",
+          "bullion",
+          "ornaments"
+        ],
+        "Revenue Officer": [
+          "baggage declaration process"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        10,
+        13,
+        47,
+        49,
+        136,
+        220,
+        313,
+        316,
+        402,
+        439,
+        478,
+        501,
+        658,
+        741,
+        791,
+        879,
+        919,
+        1058,
+        1079,
+        1125,
+        1240,
+        1465,
+        2249,
+        2381,
+        2641,
+        2925,
+        5888,
+        7838
+      ],
+      "source_file": "customs_sros_OCR/20250603_._._./20250603_._._._output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-২",
+      "text_id": "metadata_9",
+      "resolved_text": "তফসিল-২\n[বিধি ৩(৫), ৩(৭) ও ১০ দ্রষ্টব্য]\n[শুল্ক-কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা]\n(ক) ব্যক্তিগত এবং গৃহস্থালী কাজে ব্যবহৃত হয়না এমন কোনো পণ্য।\n(খ) বিধি-৩ এ বর্ণিত প্রাপ্যতা সীমার অতিরিক্ত আনীত ব্যাগেজ।\n(গ) ব্যাগেজে আমদানিকৃত বাণিজ্যিক পরিমাণে যে কোনো পণ্য।\n(ঘ) নিম্নবর্ণিত গৃহস্থালী ও ব্যক্তিগত পণ্য ব্যাগেজ হিসাবে আমদানি হইলেও প্রতিটির পার্শ্বে উল্লিখিত নির্দিষ্ট পরিমাণ শুল্ক ও কর পরিশোধ করিতে হইবে, যথা:-",
+      "entity_concepts": {
+        "Schedule-2": [
+          "This schedule lists categories of imported goods that are subject to customs duties and taxes. It serves as a reference for specific rules regarding baggage clearance as stipulated in the relevant regulatory provisions."
+        ],
+        "Baggage Rules": [
+          "The rules establish procedures and limitations for the importation of goods as baggage, including provisions for goods used for non-personal purposes, excess quantities beyond established limits, and items imported in commercial quantities.",
+          "Specific household and personal items listed in the schedule remain subject to the payment of applicable duties and taxes even when imported as baggage."
+        ],
+        "Customs Duty": [
+          "Customs duties and taxes are applicable to items exceeding the permissible baggage allowance, commercial quantities of imported baggage, and goods not intended for personal or household use."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1358",
+      "entity_sub_entities": {
+        "Schedule-2": [
+          "imported goods",
+          "customs duties",
+          "taxes",
+          "baggage clearance"
+        ],
+        "Baggage Rules": [
+          "goods",
+          "baggage",
+          "goods used for non-personal purposes",
+          "excess quantities",
+          "items imported in commercial quantities",
+          "household items",
+          "personal items",
+          "duties",
+          "taxes"
+        ],
+        "Customs Duty": [
+          "customs duties",
+          "taxes",
+          "items exceeding the permissible baggage allowance",
+          "commercial quantities of imported baggage",
+          "goods not intended for personal or household use"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        10,
+        13,
+        14,
+        30,
+        47,
+        255,
+        427,
+        525,
+        1465,
+        1832,
+        5886,
+        6475,
+        7837,
+        8475,
+        8505,
+        9303
+      ],
+      "source_file": "customs_sros_OCR/20230601_132-AIN_2023_176_Customs/20230601_132-AIN_2023_176_Customs_output.json",
+      "clause_date": "undated"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-১",
+      "text_id": "metadata_9",
+      "resolved_text": "তফবসল-১\n[বববধ ৩ এর উপ-বববধ (৪) এবাং বববধ ৮ এর উপ-বববধ (১), (২) ও (৩) দ্রষ্টব্য]\nব্যাদগজ বঘাষণা ফরম\n\n১। যাত্রীর নাম (Name of the Passenger):\n২। পাসদপাট থনাং (Passport Number):\n৩। জাতীয়তা (Nationality):\n৪। আগমদনর তাবরখ (Date of arrival): (বেন/মাস/বৎসর) (DD/MM/YYYY)\n৫। ফ্লাইট নাং (Flight No.):\n৬। ব্যাদগদজর সাংখ্যা (Number of baggage):\n৭। বকান্ বেশ হইদত আগমন (Country from where coming):\n৮। আপবন ববগত ১ (এক) মাদস বয সকল বেশ ভ্রমণ কবরয়াদছন (Countries you have travelled in the last one month):\nবেদশর নাম (Name of the Country) | ভ্রমদণর তাবরখ (Travel Date)\n(ক)\n(খ)\n(গ)\n\n৯। শুল্ক ও কর আদরাপদযাগ্য আমোবনকৃত পদের বমাট মূে (টাকায়) [Total value of dutiable goods being imported (Tk.)]:\n\n১০। আপবন কী বনম্নববণতথ পেসমূহ বাাংলাদেদশ আবনয়াদছন ( Are you bringing the following items into Bangladesh):\n(ক) তফবসল-২ এ ববণতথ একটির অবধক শুল্ক ও কর আদরাপদযাগ্য বকাদনা পে (More than one of any goods which are dutitable as described in Schedule-2) | হযাঁ/না (Yes/No)\n(খ) তফবসল-৩ এ ববণতথ শুল্ক ও কর মুি একটির অবধক বকাদনা পে (দমাবাইল বফাদনর বক্ষদত্র দুটির অবধক) [ More than one of any goods (More than two for cellular phone) which are duty free as described in Schedule-3] | হযাঁ/না (Yes/No)\n(গ) আমোবন বনবষদ্ধ পে (Prohibited articles) | হযাঁ/না (Yes/No)\n(ঘ) ১ (এক) শত গ্রাে ওযঙ্গনর ঊঙ্গবথস্বর্াথলং ার বা ২ (দুই) শত গ্রাে ওযঙ্গনর ঊঙ্গবথ বরৌদপ্যর দতবর অলাংকার [Gold jewellery in excess of 100 gm or Silver jewellery in excess of 200 gm | হযাঁ/না (Yes/No)",
+      "entity_concepts": {
+        "Passenger Baggage Declaration Form": [
+          "This form is established for passengers to declare their personal baggage upon arrival.",
+          "It serves as a mandatory document for reporting imported goods, travel history, and compliance with specific duty-free and dutiable goods regulations as per defined rules."
+        ],
+        "Schedule-2": [
+          "This schedule lists specific goods that are subject to customs duty and taxes.",
+          "Passengers are required to declare if they are bringing more than one item from this category."
+        ],
+        "Duty-Free Goods": [
+          "These items are eligible for duty-free import under specific quantitative limits defined in the relevant schedule.",
+          "The declaration form requires passengers to specify if they are exceeding the authorized quantity for duty-free items, with a higher threshold allowed specifically for mobile phones."
+        ],
+        "Prohibited Goods": [
+          "Passengers must declare whether they are carrying any items prohibited for import into Bangladesh."
+        ],
+        "Baggage": [
+          "The baggage declaration requires specific information including weight thresholds for gold and silver jewelry, where amounts exceeding defined limits must be disclosed."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1459",
+      "entity_sub_entities": {
+        "Passenger Baggage Declaration Form": [
+          "personal baggage",
+          "imported goods",
+          "travel history",
+          "duty-free goods",
+          "dutiable goods"
+        ],
+        "Schedule-2": [
+          "goods",
+          "customs duty",
+          "taxes"
+        ],
+        "Duty-Free Goods": [
+          "items",
+          "mobile phones"
+        ],
+        "Prohibited Goods": [
+          "items prohibited for import"
+        ],
+        "Baggage": [
+          "gold jewelry",
+          "silver jewelry"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        8,
+        10,
+        13,
+        47,
+        117,
+        226,
+        327,
+        658,
+        785,
+        1059,
+        1079,
+        1125,
+        1152,
+        1375,
+        1465,
+        9310
+      ],
+      "source_file": "customs_sros_OCR/20240606_203-AIN_2024_55_Customs/20240606_203-AIN_2024_55_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

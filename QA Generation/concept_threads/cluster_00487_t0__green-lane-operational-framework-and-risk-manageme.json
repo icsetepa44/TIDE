@@ -1,0 +1,633 @@
+{
+  "cluster_id": 487,
+  "cluster_label": "Green Lane",
+  "thread_index": 0,
+  "thread_id": "cluster_00487_t0",
+  "title": "Green Lane Operational Framework and Risk Management",
+  "summary": "The Green Lane concept evolved from a specific procedural mechanism for automated customs clearance into a formal component of a broader, multi-lane risk management system. Initially focused on eligibility, documentation, and suspension protocols for irregularities, the framework later integrated into a standardized selectivity system (Red, Yellow, Blue, Green) governed by the Customs Risk Management Commissionerate.",
+  "evolution": {
+    "Scope": "Expanded from a standalone automated clearance facility to a defined segment of a national risk-based selectivity architecture.",
+    "Governance": "Shifted from station-level management to centralized oversight by the Customs Risk Management Commissionerate."
+  },
+  "timeline": [
+    {
+      "date": "2025-01-21",
+      "instrument": "Customs Directive",
+      "change": "Established the initial operational procedures, eligibility criteria, and suspension protocols for Green Lane automated clearance.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_100",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_101",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_91",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_93",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_94",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_95",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_98"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "instrument": "Customs Rules 2025",
+      "change": "Formalized the Green Lane as a specific selectivity lane within a comprehensive automated risk management system (ARMS) alongside Red, Yellow, and Blue lanes.",
+      "clause_ids": [
+        "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9"
+      ]
+    }
+  ],
+  "num_member_objects": 9,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_100",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_100",
+      "resolved_text": "১১. কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট বা প্রযোজ্য ক্ষেত্রে, কাস্টমস অটোমেশন শাখা উদ্ঘাটিত অনিয়ম বা শুল্ক ও কর ফাঁকির বিষয়ে অবহিত হওয়ার পর অনতিবিলম্বে অটোমেটেড রিস্ক ম্যানেজমেন্ট সিস্টেমে বা কাস্টমস কম্পিউটার সিস্টেমে কেন্দ্রীয়ভাবে প্রযোজ্য Green Lane সুবিধা সকল কাস্টমস স্টেশনের জন্য স্থগিত করবে। একইসাথে, উক্ত প্রতিষ্ঠানের অন্য পণ্যচালানের বিষয়ে সতর্কতামূলক ব্যবস্থা গ্রহণের জন্য কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট বা প্রযোজ্য ক্ষেত্রে, কাস্টমস অটোমেশন শাখা বা স্ব স্ব কাস্টমস স্টেশন কর্তৃপক্ষ কাস্টমস সিস্টেমে প্রয়োজনে Lane পরিবর্তন (যদি অন্য Lane-এ পূর্বে নির্বাচিত হয়ে থাকে) করতে পারবে।",
+      "entity_concepts": {
+        "Customs Risk Management Commissionerate": [
+          "This authority is responsible for notifying customs stations and taking immediate action when irregularities or tax evasion are detected.",
+          "They have the operational mandate to suspend automated benefits for specific entities and modify lane assignments within the customs system."
+        ],
+        "Customs Automation Branch": [
+          "This body works alongside the Customs Risk Management Commissionerate to identify irregularities and implement necessary system-wide changes.",
+          "They are authorized to initiate lane changes and suspend system-level benefits upon the discovery of tax evasion."
+        ],
+        "Green Lane": [
+          "Automated benefits associated with this lane are to be suspended centrally across all customs stations when an irregularity or tax evasion is identified."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system serves as the central platform for managing customs lanes and enforcing corrective measures such as suspension of automated benefits.",
+          "Authorities utilize this system to manually override lane assignments for high-risk consignments or entities suspected of irregularities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_890",
+      "entity_sub_entities": {
+        "Customs Risk Management Commissionerate": [
+          "customs stations",
+          "automated benefits",
+          "lane assignments",
+          "customs system"
+        ],
+        "Customs Automation Branch": [
+          "Customs Risk Management Commissionerate",
+          "lane changes",
+          "system-level benefits"
+        ],
+        "Green Lane": [
+          "automated benefits",
+          "customs stations"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "customs lanes",
+          "automated benefits",
+          "lane assignments",
+          "high-risk consignments"
+        ]
+      },
+      "clause_clusters": [
+        66,
+        118,
+        167,
+        487,
+        1177,
+        1186,
+        1505,
+        2781,
+        4258,
+        6939,
+        9382,
+        12612
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_101",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_101",
+      "resolved_text": "১২. কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট বা কাস্টমস অটোমেশন শাখা কোনো কাস্টমস শাখা কোনো প্রতিষ্ঠানের Green Lane সুবিধা স্থগিত বা Lane পরিবর্তন করলে তা সেন্টারকে অবহিত করবে।",
+      "entity_concepts": {
+        "Green Lane": [
+          "The Customs Risk Management Commissionerate or the Customs Automation Wing is required to notify the center if they suspend Green Lane privileges for a specific organization or if they change an organization's designated lane."
+        ],
+        "Customs Risk Management Commissionerate": [
+          "This authority is operationally responsible for notifying the center whenever they take action to suspend or modify the lane assignment for an entity using the Green Lane facility."
+        ],
+        "Customs Automation Wing": [
+          "This department is mandated to perform the operational task of informing the central authority whenever they suspend or change the lane status of any institution's trade facilitation channel."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_891",
+      "entity_sub_entities": {
+        "Green Lane": [
+          "Green Lane privileges",
+          "organization",
+          "designated lane"
+        ],
+        "Customs Risk Management Commissionerate": [
+          "lane assignment",
+          "Green Lane facility"
+        ],
+        "Customs Automation Wing": [
+          "lane status",
+          "trade facilitation channel"
+        ]
+      },
+      "clause_clusters": [
+        167,
+        487,
+        716,
+        1356,
+        1827,
+        8555,
+        8556
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_88",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_88",
+      "resolved_text": "২৬. স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাস (Green Lane)-এর সুবিধা প্রাপ্ত পণ্যচালানের ক্ষেত্রে জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত পণ্য ঘোষণা, শুল্কায়ন ও পুনঃশুল্কায়ন বিধিমালা, ২০২৪ এর আওতায় পণ্য ঘোষণা প্রাপ্তির সাথে দাখিলকৃত দলিলাদি পণ্য শুল্কায়নের পূর্বেই সংশ্লিষ্ট কাস্টমস স্টেশনের দায়িত্বপ্রাপ্ত কর্মকর্তা নিকট সরাসরি বা ইলেকট্রনিক মাধ্যমে দাখিল করতে হবে।",
+      "entity_concepts": {
+        "Green Lane": [
+          "This clause mandates that for consignments cleared through the automated process, required declarations and documents must be submitted to the designated officer."
+        ],
+        "National Board of Revenue": [
+          "The board is responsible for issuing the regulations governing the declaration, assessment, and re-assessment of goods under which these procedures are mandated."
+        ],
+        "Customs Clearance": [
+          "In the context of automated clearance, importers must submit all necessary declarations and supporting documentation to the customs station official either physically or electronically before the final assessment of the goods."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_878",
+      "entity_sub_entities": {
+        "Green Lane": [
+          "consignments",
+          "declarations",
+          "documents",
+          "designated officer"
+        ],
+        "National Board of Revenue": [
+          "regulations",
+          "declaration",
+          "assessment",
+          "re-assessment",
+          "goods"
+        ],
+        "Customs Clearance": [
+          "importers",
+          "declarations",
+          "supporting documentation",
+          "customs station official",
+          "goods"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        51,
+        59,
+        79,
+        121,
+        219,
+        220,
+        230,
+        242,
+        487,
+        825,
+        1369,
+        7004,
+        11207
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_91",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_91",
+      "resolved_text": "২. অটোমেটেড ঝুঁকি ব্যবস্থাপনা পদ্ধতির পূর্ণাঙ্গ বাস্তবায়নের পূর্ব পর্যন্ত সংশ্লিষ্ট কাস্টমস স্টেশন কাস্টমস কম্পিউটার সিস্টেম (আসইকুডা ওয়ার্ল্ড) এ ঝুঁকি ব্যবস্থাপনা পদ্ধতির প্রয়োগের মাধ্যমে কেবল রেড লেন (Red Lane)-এর পণ্যচালান কায়িক পরীক্ষণের জন্য নির্বাচন করবে। ইয়েলো লেন (Yellow lane) বা গ্রিন লেন (Green Lane)-এর পণ্যচালান গোয়েন্দা তথ্য ব্যতীত কায়িক পরীক্ষার জন্য নির্বাচন করা যাবে না। এ ক্ষেত্রে, জাতীয় রাজস্ব বোর্ডের কাস্টমস অটোমেশন শাখা এবং সিস্টেমস ম্যানেজার প্রয়োজনীয় সহযোগিতা প্রদান করবে। কোনো কাস্টমস স্টেশনে এ ধরনের লেন ব্যবস্থা (Red/Yellow/Green) চালু না থাকলে উক্ত স্টেশনের দায়িত্বপ্রাপ্ত দপ্তর প্রধান অফিস আদেশ জারির মাধ্যমে লেন ব্যবস্থা চালু করবে এবং স্বীকৃতি সনদপ্রাপ্ত প্রতিষ্ঠানের ক্ষেত্রে আবশ্যকীয়ভাবে লেন অনুসারে প্রযোজ্য সুবিধা বাস্তবায়ন করবে।",
+      "entity_concepts": {
+        "Risk Management System": [
+          "Until the full implementation of the automated risk management system, customs stations must utilize the Customs Computerised Entry Processing System to apply risk parameters for selecting shipments.",
+          "Shipments assigned to the Green Lane or Yellow Lane cannot be selected for physical examination without specific intelligence information."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system serves as the platform for applying risk management procedures at customs stations."
+        ],
+        "Red Lane": [
+          "Shipments identified under this channel are subject to physical examination by customs authorities."
+        ],
+        "Yellow Lane": [
+          "Shipments assigned to this channel must not be selected for physical examination unless there is specific intelligence or information."
+        ],
+        "Green Lane": [
+          "Shipments assigned to this channel must not be selected for physical examination unless there is specific intelligence or information."
+        ],
+        "National Board of Revenue": [
+          "The Customs Automation Wing and the Systems Manager under the National Board of Revenue are responsible for providing necessary technical support for implementing the risk management system."
+        ],
+        "Commissioner of Customs": [
+          "Where lane-based processing is not yet operational, the head of the customs station must issue an office order to establish these systems.",
+          "The head of the station is responsible for ensuring that authorized entities receive the benefits mandated by their assigned lane."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_881",
+      "entity_sub_entities": {
+        "Risk Management System": [
+          "automated risk management system",
+          "Customs Computerised Entry Processing System",
+          "risk parameters",
+          "shipments",
+          "Green Lane",
+          "Yellow Lane",
+          "physical examination",
+          "intelligence information"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "platform",
+          "risk management procedures",
+          "customs stations"
+        ],
+        "Red Lane": [
+          "shipments",
+          "physical examination",
+          "customs authorities"
+        ],
+        "Yellow Lane": [
+          "shipments",
+          "physical examination",
+          "intelligence",
+          "information"
+        ],
+        "Green Lane": [
+          "shipments",
+          "physical examination",
+          "intelligence",
+          "information"
+        ],
+        "National Board of Revenue": [
+          "Customs Automation Wing",
+          "Systems Manager",
+          "technical support",
+          "risk management system"
+        ],
+        "Commissioner of Customs": [
+          "lane-based processing",
+          "head of the customs station",
+          "office order",
+          "systems",
+          "authorized entities",
+          "benefits"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        45,
+        66,
+        118,
+        148,
+        205,
+        247,
+        278,
+        361,
+        487,
+        777,
+        976,
+        1011,
+        1262,
+        1356,
+        1500,
+        1691,
+        2235,
+        2278,
+        2891,
+        3314,
+        4104,
+        5019,
+        9383,
+        11573
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_93",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_93",
+      "resolved_text": "৪. বিধিমালার বিধি ১১(২) অনুসারে কাস্টমস রিস্ক ম্যানেজমেন্ট কমিশনারেট ঝুঁকি ব্যবস্থাপনা পদ্ধতি প্রয়োগ করে স্বীকৃতিপ্রাপ্ত আমদানিকারক অথবা রপ্তানিকারকের ঘোষণানুসারে কাস্টমস কম্পিউটার সিস্টেমে স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের ব্যবস্থা (Green Lane) করবে। সংশ্লিষ্ট কাস্টমস স্টেশন স্বয়ংক্রিয় শুল্কায়নের ক্ষেত্রে পণ্য খালাসে প্রয়োজনীয় সহায়তা প্রদান করবে।",
+      "entity_concepts": {
+        "Risk Analysis": [
+          "The Customs Risk Management Commissionerate is responsible for applying risk management methods as stipulated in the rules."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The system is used to facilitate automated customs clearance and assessment based on declarations made by recognized importers or exporters."
+        ],
+        "Green Lane": [
+          "This channel is utilized for the automated assessment and clearance of goods for recognized importers or exporters following the application of risk management procedures."
+        ],
+        "Customs Authority": [
+          "The relevant customs station must provide necessary assistance to ensure the smooth clearance of goods processed through the automated system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_883",
+      "entity_sub_entities": {
+        "Risk Analysis": [
+          "Customs Risk Management Commissionerate",
+          "risk management methods",
+          "rules"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "automated customs clearance",
+          "assessment",
+          "declarations",
+          "recognized importers",
+          "exporters"
+        ],
+        "Green Lane": [
+          "automated assessment",
+          "clearance of goods",
+          "recognized importers",
+          "exporters",
+          "risk management procedures"
+        ],
+        "Customs Authority": [
+          "customs station",
+          "clearance of goods",
+          "automated system"
+        ]
+      },
+      "clause_clusters": [
+        23,
+        25,
+        29,
+        66,
+        157,
+        167,
+        220,
+        487,
+        570,
+        684,
+        759,
+        795,
+        825,
+        2235,
+        4631,
+        4716
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_94",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_94",
+      "resolved_text": "৫. যে পণ্য খালাসের ক্ষেত্রে রাসায়নিক পরীক্ষা বা মান সনদের প্রয়োজন রয়েছে, সে পণ্যচালান স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাস (Green Lane) প্রদান করা যাবে না।",
+      "entity_concepts": {
+        "Green Lane": [
+          "Consignments of goods that require mandatory chemical testing or quality certification are not eligible for automated clearance through the Green Lane."
+        ],
+        "Customs Clearance": [
+          "The automated customs clearance process is restricted for specific types of goods to ensure that necessary safety and quality inspections are conducted before release."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_884",
+      "entity_sub_entities": {
+        "Green Lane": [
+          "consignments of goods",
+          "chemical testing",
+          "quality certification"
+        ],
+        "Customs Clearance": [
+          "automated customs clearance process",
+          "goods",
+          "safety inspections",
+          "quality inspections"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        51,
+        487,
+        830,
+        2210,
+        5847,
+        6642,
+        11149,
+        11837
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_95",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_95",
+      "resolved_text": "৬. স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের (Green Lane) সুবিধাপ্রাপ্ত পণ্যচালানের ক্ষেত্রে উক্ত পণ্যচালান খালাসের পূর্বে আমদানিকারক বা প্রতিনিধির মাধ্যমে পণ্য ঘোষণা এবং এর সাথে দাখিলযোগ্য দলিলাদির একটি সেট সংশ্লিষ্ট কাস্টমস স্টেশনের AEO টিম এর নিকট দাখিল করতে হবে এবং উক্ত দলিলাদি সংশ্লিষ্ট টিম যথাযথভাবে সংরক্ষণ করবে।",
+      "entity_concepts": {
+        "Green Lane": [
+          "Consignments processed through the Green Lane for automated customs clearance must have their shipment declarations and associated documentation submitted to the relevant Authorized Economic Operator (AEO) Committee team prior to the final release of the goods."
+        ],
+        "Authorized Economic Operator (AEO) Committee": [
+          "The AEO team at the customs station is responsible for receiving and properly storing the declaration and supporting documentation for consignments processed through the Green Lane."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_885",
+      "entity_sub_entities": {
+        "Green Lane": [
+          "consignments",
+          "shipment declarations",
+          "associated documentation",
+          "goods"
+        ],
+        "Authorized Economic Operator (AEO) Committee": [
+          "AEO team",
+          "customs station",
+          "declaration",
+          "supporting documentation",
+          "consignments",
+          "Green Lane"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        25,
+        174,
+        219,
+        230,
+        242,
+        487,
+        5395,
+        5684,
+        12165
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_98",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_98",
+      "resolved_text": "৯. কোনো স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের আমদানিকৃত বা রপ্তানিকৃত পণ্যচালানে অনিয়ম বা শুল্ক ও কর ফাঁকি পাওয়া গেলে সংশ্লিষ্ট কাস্টমস স্টেশন কর্তৃপক্ষ তৎক্ষণাৎ উক্ত স্টেশনে প্রতিষ্ঠানটির জন্য প্রযোজ্য স্বয়ংক্রিয়ভাবে শুল্কায়নপূর্বক খালাসের ব্যবস্থা (Green Lane) স্থগিত করবে এবং উক্ত প্রতিষ্ঠানের অন্য পণ্যচালান কায়িক পরীক্ষার জন্য নির্বাচন করতে পারবে।",
+      "entity_concepts": {
+        "Green Lane": [
+          "In cases of customs irregularities or tax evasion detected in goods imported or exported by an authorized institution, the customs station authority must immediately suspend the automatic customs clearance facility for that entity.",
+          "The customs authorities have the discretion to revoke automated clearance privileges and subject all subsequent shipments of the concerned institution to physical examination."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_888",
+      "entity_sub_entities": {
+        "Green Lane": [
+          "customs irregularities",
+          "tax evasion",
+          "goods",
+          "authorized institution",
+          "customs station authority",
+          "automatic customs clearance facility",
+          "customs authorities",
+          "automated clearance privileges",
+          "shipments",
+          "physical examination"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        45,
+        205,
+        247,
+        468,
+        487,
+        1185,
+        1505,
+        3745,
+        5811
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "সিলেক্টভিটি নির্ণায়ক",
+      "text_id": "20250310_Customs_Risk_Management_Rules_2025_০৪ মার্চ, ২০২৫_clause_9",
+      "resolved_text": "৯। সিলেক্টভিটি নির্ণায়ক।—কাস্টমস কম্পিউটার সিস্টেম নিম্নরূপ সিলেক্টভিটি নির্ণায়ক ব্যবহার করিবে, যথা:—\n(ক) এক বা একাধিক নির্ধারিত ঝুঁকি নির্দেশকের বিপরীতে ঘোষণার উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য উপাত্তসমূহ তুলনা করিয়া সম্ভাব্য ঝুঁকি নিরূপণের লক্ষ্যে একটি স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি প্রতিষ্ঠা করা হইবে;\n(খ) ঝুঁকি ব্যবস্থাপনার মাধ্যমে ঝুঁকি নিরসনের লক্ষ্যে পণ্যচালান কাস্টমস কম্পিউটার সিস্টেমে রেড লেন, ইয়েলো লেন, ব্লু লেন ও গ্রিন লেন হিসেবে চিহ্নিত হইবে এবং আগত যাত্রী এর ক্ষেত্রে রেড চ্যানেল ও গ্রিন চ্যানেলের মাধ্যমে ব্যবস্থিত হইবে;\n(গ) এআরএমএস এ রক্ষিত পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত কোনো পণ্যচালান অথবা যাত্রী এর তথ্য-উপাত্ত হুবহু মিলিয়া যাক অথবা না যাক, পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত সাদৃশ্যের মাত্রার সাপেক্ষে ঝুঁকির আপেক্ষিক মাত্রা নির্ধারণ করা হইবে;\n(ঘ) এক বা একাধিক পূর্বনির্ধারিত ঝুঁকি নির্দেশকের সহিত ঘোষণার তথ্য-উপাত্তসমূহ এবং তৎসংশ্লিষ্ট অন্যান্য তথ্য উপাত্তসমূহ তুলনা এবং তথ্য প্রক্রিয়াকরণের মাধ্যমে সম্ভাব্য ঝুঁকি চিহ্নিতকরণের লক্ষ্যে ঝুঁকিপূর্ণ আমদানিকারক, রপ্তানিকারক, এজেন্ট, যাত্রী এর জন্য ঝুঁকি ব্যবস্থাপনা সিস্টেমের মধ্যে প্রোফাইল প্রতিষ্ঠা করা হইবে;\n(ঙ) স্বয়ংক্রিয় ঝুঁকি ব্যবস্থাপনা পদ্ধতি কাস্টমস রেকর্ড ও দলিল-দস্তাবেজ, বিভিন্ন উৎস হইতে প্রাপ্ত তথ্য, গোয়েন্দা তথ্য, কৃত্রিম বুদ্ধিমত্তা ব্যবহার করিয়া প্রাপ্তর উপাত্ত বিশ্লেষণ পদ্ধতি (Advanced Data Analytics), মেশিন লার্নিং এবং অন্যান্য উপযোগী পদ্ধতি ব্যবহার ও প্রয়োগ করিয়া ঝুঁকি নির্দেশক নির্ধারণ করিবে।",
+      "entity_concepts": {
+        "Automated System for Customs Data": [
+          "The system uses selectivities to determine processing channels for cargo and passengers. It establishes an automated risk management framework to evaluate shipment risks based on pre-defined indicators.",
+          "The system classifies consignments into red, yellow, blue, and green lanes, and passengers into red and green channels for customs clearance. It also assigns risk scores based on the degree of similarity to established risk indicators.",
+          "It creates profiles for importers, exporters, agents, and passengers to identify potential risks through data processing. The system incorporates historical records, intelligence data, and advanced analytical methods to refine its risk assessment indicators."
+        ],
+        "Data Analytics": [
+          "Advanced data analytics, machine learning, and artificial intelligence are utilized to process customs documentation and records. These methodologies serve as the technical foundation for identifying and setting risk indicators within the automated management framework."
+        ],
+        "Manifest Data": [
+          "Consignment information and related data are compared against established risk indicators to determine potential security or compliance threats during the customs clearance process."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1231",
+      "entity_sub_entities": {
+        "Automated System for Customs Data": [
+          "selectivities",
+          "processing channels",
+          "cargo",
+          "passengers",
+          "automated risk management framework",
+          "shipment risks",
+          "risk indicators",
+          "consignments",
+          "red lane",
+          "yellow lane",
+          "blue lane",
+          "green lane",
+          "red channel",
+          "green channel",
+          "customs clearance",
+          "risk scores",
+          "profiles",
+          "importers",
+          "exporters",
+          "agents",
+          "historical records",
+          "intelligence data",
+          "analytical methods"
+        ],
+        "Data Analytics": [
+          "advanced data analytics",
+          "machine learning",
+          "artificial intelligence",
+          "customs documentation",
+          "records",
+          "risk indicators",
+          "automated management framework"
+        ],
+        "Manifest Data": [
+          "consignment information",
+          "risk indicators",
+          "security threats",
+          "compliance threats",
+          "customs clearance process"
+        ]
+      },
+      "clause_clusters": [
+        51,
+        79,
+        113,
+        131,
+        135,
+        157,
+        219,
+        394,
+        439,
+        481,
+        483,
+        487,
+        696,
+        1103,
+        1262,
+        1500,
+        1916,
+        1927,
+        2636,
+        2847,
+        3438,
+        4214,
+        5374,
+        5493,
+        5858,
+        5862,
+        6562,
+        6638,
+        8737,
+        9648,
+        10981,
+        11037,
+        11575,
+        12068,
+        12089,
+        12169
+      ],
+      "source_file": "customs_rules_OCR/20250310_Customs_Risk_Management_Rules_2025/20250310_Customs_Risk_Management_Rules_2025_output.json",
+      "clause_date": "2025-03-10"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

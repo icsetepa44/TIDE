@@ -1,0 +1,38 @@
+{
+  "group_id": "cluster_00035_t1__X__cluster_00406_t0",
+  "entities": [
+    "Business Identification Number",
+    "factory inspection report"
+  ],
+  "cluster_ids": [
+    35,
+    406
+  ],
+  "thread_ids": [
+    "cluster_00035_t1",
+    "cluster_00406_t0"
+  ],
+  "num_shared_clauses": 10,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "What specific role does the Business Identification Number (BIN) play within the standardized factory inspection report format used by the NBR?",
+      "answer": "In the standardized factory inspection report format, the Business Identification Number (BIN) is explicitly required as the second item of information to be recorded during the physical inspection of industrial manufacturing facilities, as shown across various sector-specific templates.",
+      "entities_involved": [
+        "Business Identification Number",
+        "factory inspection report"
+      ],
+      "clause_text_ids": [
+        "20190530_158-AIN_2019_27_Customs_৩০ মে, ২০১৯_clause_8",
+        "20190530_159-AIN_2019_28_Customs_৩০ মে, ২০১৯_clause_10",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_10",
+        "20240606_195-AIN_2024_47_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_198-AIN_2024_50_Customs_২৯ মে, ২০২৪_clause_6",
+        "metadata_3",
+        "metadata_4",
+        "metadata_7"
+      ]
+    }
+  ]
+}

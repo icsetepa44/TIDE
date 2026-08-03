@@ -1,0 +1,34 @@
+{
+  "group_id": "cluster_00035_t0__X__cluster_00376_t0",
+  "entities": [
+    "Business Identification Number",
+    "official website"
+  ],
+  "cluster_ids": [
+    35,
+    376
+  ],
+  "thread_ids": [
+    "cluster_00035_t0",
+    "cluster_00376_t0"
+  ],
+  "num_shared_clauses": 4,
+  "num_qa_pairs": 1,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How do the customs clearance requirements involving the Business Identification Number (BIN) relate to the role of the official website and the responsibilities of customs officials for verification?",
+      "answer": "According to clauses [0], [1], [2], and [3], the customs clearance process mandates that the relevant customs official must verify and ensure compliance with all conditions (which include the BIN requirements). To avoid delays in customs clearance, the supervising Deputy Commissioner or Assistant Commissioner must oversee this verification process, which relies on the electronic validation provided by the official website.",
+      "entities_involved": [
+        "Business Identification Number",
+        "official website"
+      ],
+      "clause_text_ids": [
+        "20220609_122-AIN_2022_70_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_7",
+        "20220717_200-_2022_108_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_7",
+        "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+        "20240606_194-AIN_2024_66_Customs_২৯ মে, ২০২৪_clause_7"
+      ]
+    }
+  ]
+}

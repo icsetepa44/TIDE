@@ -1,0 +1,282 @@
+{
+  "thread_id": "cluster_00191_t0",
+  "cluster_id": 191,
+  "cluster_label": "recommendations",
+  "title": "AEO Program Governance and Recommendation Framework",
+  "source_num_member_objects": 11,
+  "num_qa_pairs": 12,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 2,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the AEO Rules 2018, the liaison group was composed of customs officials and private sector representatives, whereas the AEO Rules 2025 expanded this to include broader government and private sector representation.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The 2018 rules established the group with customs officials and private sector representatives, while the 2025 expansion added other government departments and agencies to the coordination group.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2025 procedural framework, the Director General of the AEO Center is required to submit a proposal for classification upgrades to the committee within 14 days of receiving the relevant reports.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "14 days",
+      "correct_fact": "7 days",
+      "answer": "This statement is inaccurate. According to the 2025-01-21 AEO Rules, the Director General must submit the proposal containing recommendations to the committee within 7 (seven) days, not 14 days.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The AEO Rules 2025 introduced mandatory, template-driven reporting, such as Appendix 4.6, for transmitting recommendations regarding AEO application statuses.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The 2025-01-21 rules formalized the recommendation process by mandating specific appendices, including Appendix 4.6, for the AEO Center's recommendations.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "When the AEO Center disagrees with an evaluation team's recommendation for an AEO application, the center is permitted to ignore the initial assessment without providing a written justification.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "permitted to ignore the initial assessment without providing a written justification",
+      "correct_fact": "must document its own recommendations and provide a clear justification if their final recommendation differs from the initial assessment",
+      "answer": "This statement is inaccurate. Per the 2025-01-21 AEO Rules, the center must document its recommendations and provide a clear, formal justification if their final recommendation differs from the evaluation team's initial assessment.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The AEO Committee is responsible for reviewing recommendations from the Director General, which must incorporate intelligence reports and risk assessments as per the 2025-01-21 procedural framework.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The 2025-01-21 rules mandate that the committee review recommendations by considering intelligence reports and risk factors (specifically citing Appendix 2.1) before making a final decision.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The initial AEO Rules established in 2025 provided the first mandate for the committee to submit quarterly monitoring reports to the board member.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2025",
+      "correct_fact": "2018",
+      "answer": "This statement is inaccurate. The mandate for the committee to monitor activities and submit quarterly reports was established in the AEO Rules 2018 (dated 2018-06-28), not the 2025 rules.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "Under the 2018 AEO Rules, the recommendation process for classification upgrades was strictly governed by standardized Appendix 6.2 and 6.4 templates, requiring the AEO Center to provide formal justifications for any discrepancies with evaluation teams.",
+      "question": "Does the 2018 AEO Rules framework mandate the use of the standardized Appendix 6.2 and 6.4 templates for classification upgrades?",
+      "conflict": "The context incorrectly attributes 2025-01-21 reporting templates to the 2018 framework.",
+      "answer": "No. The standardized reporting templates, including Appendices 6.2 and 6.4 for classification upgrades, were introduced by the AEO Rules 2025 on 2025-01-21. The 2018 Rules established the initial liaison group and committee mandate but did not feature this template-driven procedural formality.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "Under the 2018 AEO Rules, a committee member was responsible for scrutinizing applications and submitting quarterly monitoring reports to the NBR. By 2025, the workflow for an application changed significantly, requiring the AEO Center and evaluation teams to interface with the committee using specific documentation.",
+      "question": "How did the documentation requirement for submitting recommendations to the committee evolve from 2018 to 2025?",
+      "answer": "In 2018, there was no mention of standardized reporting templates for recommendations. By 2025, the process became formalized, requiring the AEO Center to submit recommendations to the committee using specific, prescribed templates (Appendices 4.6 and 6.2).",
+      "clauses_involved": [
+        "2018-06-28 | AEO Rules 2018",
+        "2025-01-21 | AEO Rules 2025"
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An AEO liaison group was first established in 2018 to assist the NBR in implementing the AEO program. In 2025, the composition of this group was updated.",
+      "question": "What is the primary difference in the composition of the liaison/coordination group between the 2018 mandate and the 2025 expansion?",
+      "answer": "The 2018 mandate restricted the group to customs officials and private sector representatives, whereas the 2025 update expanded the scope to include broader representation from other government departments and agencies in addition to customs and the private sector.",
+      "clauses_involved": [
+        "2018-06-28 | AEO Rules 2018",
+        "2025-02-16 | AEO Rules 2025"
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2018-06-28",
+      "relative_offset": "nearly seven years later",
+      "question": "Starting from the establishment of the initial liaison group in 2018, what major procedural shift occurred in the AEO recommendation framework nearly seven years later?",
+      "answer": "On 2025-01-21, the AEO Rules 2025 introduced a transition from general advisory roles to a highly formalized, multi-tiered institutional process that mandates specific, standardized reporting templates (Appendices) for all recommendations.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_4",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "less than one month later",
+      "question": "Following the introduction of the standardized recommendation templates in early 2025, how was the composition of the liaison group expanded less than one month later?",
+      "answer": "On 2025-02-16, the scope of the liaison group was expanded to include broader representation from other government offices and agencies, in addition to the existing customs officials and private sector representatives.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_14",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_170",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_172",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_40",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_41",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_50",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_53",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these milestones in the evolution of the Authorized Economic Operator (AEO) program governance and recommendation framework in chronological order (earliest first).",
+      "events_shuffled": [
+        "The coordination group's membership scope is expanded to include a wider range of government departments and agencies alongside private sector representatives.",
+        "The institutional framework is established with a liaison group consisting of customs officials and private sector representatives tasked with providing recommendations.",
+        "The recommendation process is formalized through the introduction of mandatory, standardized reporting templates and a rigid workflow involving evaluation teams, the AEO Center, and the NBR Committee."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The institutional framework is established with a liaison group consisting of customs officials and private sector representatives tasked with providing recommendations.",
+          "date": "2018-06-28"
+        },
+        {
+          "event": "The recommendation process is formalized through the introduction of mandatory, standardized reporting templates and a rigid workflow involving evaluation teams, the AEO Center, and the NBR Committee.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "The coordination group's membership scope is expanded to include a wider range of government departments and agencies alongside private sector representatives.",
+          "date": "2025-02-16"
+        }
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_11",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_166",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_16"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20250216_SRO-217-Ain-2024-67-Customs/20250216_SRO-217-Ain-2024-67-Customs_output.json",
+        "customs_sros_OCR/20180628_214-AIN_2018_37_Customs/20180628_214-AIN_2018_37_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00191_t0__aeo-program-governance-and-recommendation-framewor.json"
+    }
+  ]
+}

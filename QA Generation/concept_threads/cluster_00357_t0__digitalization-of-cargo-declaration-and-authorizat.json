@@ -1,0 +1,534 @@
+{
+  "cluster_id": 357,
+  "cluster_label": "Person in Charge of Conveyance",
+  "thread_index": 0,
+  "thread_id": "cluster_00357_t0",
+  "title": "Digitalization of Cargo Declaration and Authorization",
+  "summary": "The role of the 'Person in Charge' has evolved from purely manual, paper-based reporting to a digital-first framework. Recent regulations (2024-2025) formalize the electronic submission of cargo declarations and the structured authorization of agents via standardized digital forms, moving away from the general, non-specific procedural requirements found in the older Customs Act provisions.",
+  "evolution": {
+    "procedure": "Shifted from general reporting to specific electronic filing and time-bound amendment processes.",
+    "documentation": "Transitioned from informal/general documentation to standardized, named digital forms (Form-G, Form-B).",
+    "institutional_oversight": "Increased granularity in defining who can act as a declarant based on the route of the conveyance."
+  },
+  "timeline": [
+    {
+      "date": "2024-06-05",
+      "instrument": "SRO/Clause",
+      "change": "Mandated electronic submission of cargo declarations for sea/river vessels.",
+      "clause_ids": [
+        "20240605_০৩ জুন ২০২৪_clause_2"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "instrument": "Conveyance and Cargo Declaration and Pre-arrival Processing Rule 2025",
+      "change": "Introduced standardized digital forms (Form-G, Form-B), defined specific roles for route-based declarants, and established a 24-hour window for amendments.",
+      "clause_ids": [
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+        "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6",
+        "metadata_7"
+      ]
+    }
+  ],
+  "num_member_objects": 5,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20240605_০৩ জুন ২০২৪_clause_2",
+      "resolved_text": "২। অনুচ্ছেদ-১ অনুযায়ী সমুদ্র/নৌ বন্দরে জাহাজের মাধ্যমে আগমনী কার্গোর ক্ষেত্রে উক্ত জাহাজের মাস্টার বা ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত জাহাজের মালিক বা পরিচালনাকারী বা তাহার মনোনীত শিপিং এজেন্ট কর্তৃক ইলেকট্রনিকভাবে কাস্টমস কম্পিউটার সিস্টেমে কার্গো ঘোষণা দাখিল করিতে হইবে;",
+      "entity_concepts": {
+        "Person in Charge of Conveyance": [
+          "For cargo arriving at sea or river ports via ship, the master or the person in charge is mandated to electronically submit a cargo declaration to the customs computerized system."
+        ],
+        "Authorized Person or Agent": [
+          "The ship owner, operator, or their designated shipping agent is authorized to electronically submit the cargo declaration to the customs computerized system on behalf of the person in charge of the vessel."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This system serves as the required platform for the electronic filing of cargo declarations by the master, owner, or designated agent for vessels arriving at sea or river ports."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_766",
+      "entity_sub_entities": {
+        "Person in Charge of Conveyance": [
+          "master",
+          "person in charge"
+        ],
+        "Authorized Person or Agent": [
+          "ship owner",
+          "operator",
+          "shipping agent"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "customs computerized system"
+        ]
+      },
+      "clause_clusters": [
+        66,
+        222,
+        248,
+        256,
+        317,
+        357,
+        1086,
+        2495,
+        4889
+      ],
+      "source_file": "customs_gos_OCR/20240605/20240605_output.json",
+      "clause_date": "2024-06-05"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "কার্গো ঘোষণা সংশোধন ও সম্পূরক কার্গো ঘোষণা দাখিল",
+      "text_id": "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_10",
+      "resolved_text": "১০। কার্গো ঘোষণা সংশোধন ও সম্পূরক কার্গো ঘোষণা দাখিল।─ (১) দাখিলকৃত কার্গো ঘোষণা সংশোধন বা সম্পূরক কার্গো ঘোষণা প্রদানের প্রয়োজন হইলে কার্গো ঘোষণা রেজিস্ট্রেশনের ২৪ (চব্বিশ) ঘণ্টার মধ্যে সংশ্লিষ্ট যানবাহনের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক অথবা তাহার মনোনীত এজেন্ট বা পরিচালনাকারী ‘ফরম-গ’ অনুযায়ী কমিশনার অব কাস্টমস বা সংশ্লিষ্ট কাস্টমস স্টেশনের দপ্তর প্রধান অথবা তৎকর্তৃক মনোনীত অন্য কোনো কাস্টমস কর্মকর্তা নিকট আবেদন দাখিল করিবেন।\n(২) কার্গো ঘোষণা সংশোধন এবং সম্পূরক কার্গো ঘোষণা প্রদানের আবেদনের ফিস বাবদ ২ (দুই) হাজার টাকা A-চালানে (কোড নং- ১৪৪১২৯৯) জমা প্রদানপূর্বক চালানের মুলকপি সংশ্লিষ্ট আবেদনের সহিত আবশ্যিকভাবে সংযোজন করিতে হইবে।\n(৩) কার্গো ঘোষণার নিম্নবর্ণিত ত্রুটিসমূহ করণিক ত্রুটি হিসাবে বিবেচিত হইবে এবং এইরূপ করণিক ত্রুটিসমূহ সংশোধনের আবেদনসমূহ কার্গো ঘোষণার সহিত সংশ্লিষ্ট শাখার অ্যাসিস্ট্যান্ট/ডেপুটি কমিশনার অব কাস্টমস পর্যায়ে নিষ্পত্তিয়োগ্য হইবে, যথা:-\n(ক) বিল অব লেডিং বা এয়ারওয়ে বিলের ধরন (Type) (MSB এর স্থলে HSB বা HSB এর স্থলে MSB হইলে);\n(খ) BL Nature Code (22, 23);\n(গ) DG (null) বা Non-DG এর স্থলে DG হইলে;\n(ঘ) Shipper name;\n(ঙ) Package Code (PK, CT, RO, VR);\n(চ) Gross weight -এ সংখ্যাগত বা করণিক ত্রুটি হইলে (Quantity অপরিবর্তিত থাকিলে বা বৃদ্ধি পাইলে) (যেমন, ৯৬ এর স্থলে ৬৯ বা ১০০ এর স্থলে ১০০০);\n(ছ) কন্টেইনার বা যানবাহনের Prefix Number উলট পালট হইলে;\n(জ) কন্টেইনারের ধরন LCL এর স্থলে FCL বা FCL এর স্থলে LCL হইলে;\n(ঝ) কন্টেইনারের সিল নম্বর বা যানবাহনের নম্বর বা ফ্লাইট নম্বরের ক্ষেত্রে ২ সংখ্যা পর্যন্ত উলট-পালট বা এন্ট্রি কম বা বেশি হইলে বা বাদ পড়িলে;\n(ঞ) Notify & Consignee Null হইলে, কিন্তু নাম ও ঠিকানা সঠিক থাকিলে;\n(ট) কন্টেইনার সাইজ ২০ ফিট এর স্থলে ৪০ ফিট হইলে;\n(ঠ) Notify এর স্থলে Consignee বা Consignee এর স্থলে Notify হইলে;\n(ড) প্রতিষ্ঠানের নামের স্থলে ঐ প্রতিষ্ঠানেরই সহযোগী কোনো প্রতিষ্ঠান Notify হইলে;\n(ঢ) Quantity-তে সংখ্যাগত বা করণিক ত্রুটি হইলে (ওজন অপরিবর্তিত থাকিলে বা বাড়িলে);\n(ণ) পোর্ট অফ লোডিং (port of loading) বা পোর্ট অফ অরিজিন (port of Origin) এর পরিবর্তন।\n(৪) কার্গো ঘোষণার নিম্নরূপ ত্রুটিসমূহ গুরুতর ত্রুটি হিসাবে বিবেচিত হইবে এবং এইরূপ ত্রুটিসমূহ সংশোধনের আবেদন সংশ্লিষ্ট কাস্টমস স্টেশনের দপ্তর প্রধান পর্যায়ে নিষ্পত্তিয়োগ্য হইবে, যথা:-\n(ক) Notify & Consignee BIN;\n(খ) DG এর স্থলে Non-DG (তবে পরিবর্তনের জন্য নৌবাহিনীর অনাপত্তি লাগিবে);\n(গ) Assessment সম্পাদনের পরবর্তীতে যে কোনো সংশোধন;\n(ঘ) BL Write-off (ROB এবং Transhipment) অথবা যে কোনো পণ্যচালান ফেরত চলিয়া গেলে;\n(ঙ) Gross weight হ্রাস পাইলে বা পরিবর্তিত হইলে (করণিক ত্রুটি ব্যতীত);\n(চ) Description of Goods পরিবর্তিত হইলে;\n(ছ) Container Status FCL part হইতে LCL হইলে;\n(জ) Container Number সম্পূর্ণ ভুল হইলে;\n(ঝ) Quantity হ্রাস পাইলে বা পরিবর্তিত হইলে (করণিক ত্রুটি ব্যতীত);\n(ঞ) কন্টেইনারের সিল নম্বর বা যানবাহনের নম্বর বা ফ্লাইট নম্বরের ক্ষেত্রে ২ সংখ্যার বেশি পর্যন্ত উলট-পালট বা এন্ট্রি কম বা বেশি হইলে বা বাদ পড়িলে;\n(ট) প্লেস অব আনলোডিং (Place of unloading) বা প্লেস অব ডেস্টিনেশন (Place of Destination) এর পরিবর্তন হইলে;\n(ঠ) কন্টেইনার সাইজ ৪০ ফিট এর স্থলে ২০ ফিট হইলে;\n(ড) পণ্যচালানের মূল্য (Value) পরিবর্তন হইলে।\n(৫) উপবিধি (৩) ও (৪) এ উল্লেখ করা হয় নাই এইরূপ কোনো সংশোধন প্রয়োজন হইলে আবেদনকারীর আবেদনের ভিত্তিতে সংশ্লিষ্ট কমিশনার অব কাস্টমস বা উক্ত কাস্টমস স্টেশনের দপ্তর প্রধান উহার প্রকৃতি (করণিক বা গুরুতর) নির্ধারণ করিতে পারিবে এবং তদানুযায়ী নিষ্পত্তি করিতে পারিবে।\n(৬) উপবিধি (৩) এ উল্লিখিত করণিক ত্রুটির ক্ষেত্রে জরিমানা আরোপ ব্যতীত সংশোধনের সুযোগ প্রদান করা যাইবে এবং উপবিধি (৪) এ উল্লিখিত গুরুতর ত্রুটির জন্য যথাযথ ন্যায় নির্ধারণকারী কর্তৃপক্ষ কর্তৃক ন্যায় নির্ধারণ করিতে হইবে।\n(৭) কোনো গুরুতর ত্রুটি সংশোধনের জন্য আবেদন করা হইলে উক্ত পণ্যচালানটি শতভাগ কায়িক পরীক্ষা করিয়া শুল্কায়নযোগ্য মূল্য, কান্ট্রি অব অরিজিন এবং শ্রেণিবিন্যাস সম্পর্কে যথাযথ অনুসন্ধানপূর্বক শুল্কায়ন সম্পন্ন করিতে হইবে:\nতবে শর্ত থাকে যে, প্রতিষ্ঠানের আবেদনের ভিত্তিতে কমিশনার অব কাস্টমস যৌক্তিক কারণ লিপিবদ্ধ করিয়া শতভাগ কায়িক পরীক্ষার শর্তটি বিশেষক্ষেত্রে শিথিল করিতে পারিবে।\n(৮) আমদানিকারকের বা রপ্তানিকারকের নাম পরিবর্তনের ক্ষেত্রে কার্গো ঘোষণায় উল্লিখিত আমদানিকারকের বা রপ্তানিকারকের অনাপত্তিপত্র ও সংশোধনীর মাধ্যমে যেই আমদানিকারকের নাম অন্তর্ভুক্ত হইবে তাহার সম্মতিপত্র থাকিতে হইবে।\n(৯) কার্গো ঘোষণায় বর্ণিত আমদানিকারক এবং সংশোধনীর মাধ্যমে যে আমদানিকারকের নাম অন্তর্ভুক্ত হইবে বা প্রযোজ্য ক্ষেত্রে, উভয়েরই অন্য কোনো পণ্যচালান ছাড়করণের স্থগিতাদেশ রহিয়াছে কি না বা ১ (এক) মাসের অধিককাল ধরিয়া উহাদের কাহারও কোনো পণ্য ঘোষণা অনিষ্পন্ন রহিয়াছে কি না, বা উহাদের কাহারও বিরুদ্ধে কাস্টমস আইন, ২০২৩ এর ধারা ২৩৮ অনুসারে সরকারি পাওনা আদায়ের কোনো কার্যক্রম চলমান রহিয়াছে কি না তাহা নিশ্চিত হইতে হইবে এবং এই ধরনের তথ্য প্রাপ্ত হইলে কমিশনার বা তৎকর্তৃক ক্ষমতাপ্রাপ্ত কাস্টমস কর্মকর্তা শুনানি গ্রহণপূর্বক আইনানুগ পদ্ধতিতে উহা প্রথমে নিষ্পত্তি করিবেন এবং অতঃপর সংশোধন আবেদন বিবেচনা করিবেন।\n(১০) প্রতিটি কার্গো ঘোষণা সংশোধন আবেদনপত্রের সহিত শিপিং এজেন্ট বা ফ্রেট ফরোয়ার্ডার্স বা উড়োজাহাজ কর্তৃপক্ষ বা যানবাহনের ভারপ্রাপ্ত ব্যক্তি বা তাহার পক্ষে যানবাহনের মালিক বা পরিচালনাকারী বা তাহার এজেন্টের (যেই ক্ষেত্রে যেইটি প্রযোজ্য) এবং সংশ্লিষ্ট লিয়েন ব্যাংকের অনাপত্তিপত্র দাখিল করিতে হইবে এবং এলসিবহীন অর্থাৎ সরাসরি অর্থ পরিশোধের মাধ্যমে আমদানিকৃত পণ্যচালানের ক্ষেত্রে আমদানি-রপ্তানি নীতি আদেশ এ বর্ণিত বিধান প্রতিপালিত হইয়াছে কিনা উহা যাচাই করিয়া আইনানুগভাবে নিষ্পত্তি করিতে হইবে:\nতবে শর্ত থাকে যে, উপবিধি (৩) এ উল্লিখিত করণিক ত্রুটির সংশোধনের ক্ষেত্রে অনাপত্তিপত্র দাখিলের প্রয়োজন হইবে না; তবে সংশোধনীর সপক্ষে প্রমাণক দাখিল করিতে হইবে।\n(১১) কার্গো ঘোষণায় উল্লিখিত পণ্যের মূল্য সংশোধনের কোনো আবেদন প্রাপ্ত হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস পণ্য সংক্রান্ত দলিলাদি অধিকতর সতর্কতা অবলম্বন করিয়া যাচাইপূর্বক আইনানুগ নিষ্পত্তি করিবেন।",
+      "entity_concepts": {
+        "Person in Charge of Conveyance": [
+          "This role, along with the owner or designated agent, is responsible for submitting applications for cargo declaration amendments or supplementary cargo declarations within a specified timeframe after registration.",
+          "They are required to provide necessary non-objection certificates and supporting documents when applying for cargo declaration amendments."
+        ],
+        "Customs Assessment": [
+          "Any amendment request made after the completion of customs assessment is classified as a significant error and requires approval at a higher departmental level.",
+          "Serious errors identified in cargo declarations necessitate full physical inspection of goods to verify their value, origin, and classification before final customs assessment is completed."
+        ],
+        "Bill of Lading": [
+          "Certain changes related to the type, nature code, or sender information on the bill of lading are categorized as clerical errors that can be processed at the Assistant or Deputy Commissioner level.",
+          "Changes involving the nature or type of the bill of lading require specific supporting documentation to be resolved."
+        ],
+        "Value": [
+          "Applications to amend the value of goods declared in a cargo declaration must be handled with heightened caution and strict verification of supporting documents by the Commissioner of Customs.",
+          "A change in the value of a consignment is classified as a serious error requiring high-level administrative review."
+        ],
+        "Container": [
+          "Errors involving container types, prefix numbers, sizes, or seal numbers are classified based on their complexity, with minor discrepancies treated as clerical errors and major ones as serious errors.",
+          "Specific changes, such as container size or status shifts, mandate distinct approval processes depending on whether they are classified as clerical or serious errors."
+        ],
+        "Consignee": [
+          "The identification of the consignee and notify party, including their Business Identification Number, is subject to strict amendment rules where inaccuracies may be classified as either clerical or serious errors depending on the specific circumstances."
+        ],
+        "Business Identification Number": [
+          "Any error related to the Business Identification Number of the consignee or notify party is treated as a serious error requiring approval from the head of the customs station."
+        ],
+        "Goods Description": [
+          "Modifying the description of goods in a cargo declaration is considered a serious error and must be processed through the designated head of the customs station."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3146",
+      "entity_sub_entities": {
+        "Person in Charge of Conveyance": [
+          "Person in Charge of Conveyance",
+          "owner",
+          "designated agent",
+          "applications for cargo declaration amendments",
+          "supplementary cargo declarations",
+          "non-objection certificates",
+          "supporting documents"
+        ],
+        "Customs Assessment": [
+          "amendment request",
+          "customs assessment",
+          "cargo declarations",
+          "physical inspection of goods",
+          "value",
+          "origin",
+          "classification"
+        ],
+        "Bill of Lading": [
+          "bill of lading",
+          "type",
+          "nature code",
+          "sender information",
+          "supporting documentation"
+        ],
+        "Value": [
+          "value of goods",
+          "cargo declaration",
+          "supporting documents",
+          "value of a consignment"
+        ],
+        "Container": [
+          "container types",
+          "prefix numbers",
+          "sizes",
+          "seal numbers",
+          "container size",
+          "status"
+        ],
+        "Consignee": [
+          "consignee",
+          "notify party",
+          "Business Identification Number"
+        ],
+        "Business Identification Number": [
+          "Business Identification Number",
+          "consignee",
+          "notify party"
+        ],
+        "Goods Description": [
+          "description of goods",
+          "cargo declaration"
+        ]
+      },
+      "clause_clusters": [
+        35,
+        120,
+        192,
+        230,
+        240,
+        268,
+        302,
+        315,
+        316,
+        350,
+        357,
+        418,
+        448,
+        565,
+        900,
+        1115,
+        1239,
+        1368,
+        1771,
+        3163,
+        4410,
+        4419,
+        4880,
+        4905,
+        5477,
+        5601,
+        6678,
+        6680,
+        7237,
+        10035,
+        10679,
+        10851,
+        12557,
+        13186
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "২। সংজ্ঞা।─ (১) বিষয় বা প্রসঙ্গের পরিপন্থি কোনো কিছু না থাকিলে, এই বিধিমালায়,-\n(ক) “আইন” অর্থ কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন);\n(খ) “এজেন্ট” অর্থ আইনের ধারা ২ এর দফা (৮)-এ সংজ্ঞায়িত এজেন্ট ;\n(গ) “কার্গো ঘোষণা” অর্থ আইনের ধারা ২ এর দফা (১১)-এ সংজ্ঞায়িত কার্গো ঘোষণা;\n(ঘ) “কাস্টমস কম্পিউটার সিস্টেম” অর্থ আইনের ধারা ২ এর দফা (১৬)-এ সংজ্ঞায়িত কাস্টমস কম্পিউটার সিস্টেম;\n(ঙ) “‘‘বিপজ্জামান পণ্য’’ অর্থ The International Maritime Dangerous Goods (IMDG) Code এবং International Air Transport Association (IATA)–Dangerous Goods Regulation (DGR) এর অধীন শ্রেণিবিন্যাসকৃত সকল পণ্য;\n(চ) “যানবাহন বা কার্গো ঘোষণাকারী” অর্থ আইনের ধারা ৪৮ অনুসারে যানবাহন বা কার্গো ঘোষণা দাখিলের জন্য দায়িত্বপ্রাপ্ত যানবাহনের ভারপ্রাপ্ত ব্যক্তি (Person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক বা পরিচালনাকারী বা তাহার এজেন্ট যিনি কাস্টমস কম্পিউটার সিস্টেমে নিবন্ধিত ব্যবহারকারী হিসেবে আইডি ও পাসওয়ার্ডপ্রাপ্ত;\n(ছ) ‘‘শিপিং এজেন্ট’’ অর্থ যানবাহন এর আগমন, অবস্থান ও প্রস্থানের সহিত সংশ্লিষ্ট ব্যবসায় পরিচালনাকারী ব্যক্তি, প্রতিষ্ঠান বা সংস্থা এবং কোনো বিদেশি শিপিং লাইনের স্থানীয় এজেন্টও ইহার অন্তর্ভুক্ত হইবে;\n(২) এই বিধিমালায় ব্যবহৃত যে সকল শব্দ বা অভিব্যক্তির সংজ্ঞা প্রদান করা হয় নাই সেই সকল শব্দ বা অভিব্যক্তি আইনে যে অর্থে ব্যবহৃত হইয়াছে সেই অর্থে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "The term Act is defined as the Customs Act 2023 for the purposes of these rules."
+        ],
+        "Authorized Person or Agent": [
+          "The term Agent is defined with reference to the specific definition provided under the Customs Act 2023."
+        ],
+        "Cargo Declaration": [
+          "The term Cargo Declaration is defined by referencing the relevant section of the Customs Act 2023."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The term Customs Computer System is defined by referencing the relevant section of the Customs Act 2023."
+        ],
+        "Dangerous Goods": [
+          "Dangerous Goods refers to all products classified under the International Maritime Dangerous Goods (IMDG) Code and the International Air Transport Association (IATA) Dangerous Goods Regulations (DGR)."
+        ],
+        "Person in Charge of Conveyance": [
+          "A Vehicle or Cargo Declarant is defined as the person in charge of a conveyance, or their owner, operator, or agent, who is responsible for filing declarations and holds registered credentials for the Customs Computerised Entry Processing System."
+        ],
+        "Shipping Agent": [
+          "A Shipping Agent is defined as any person, entity, or organization managing business related to the arrival, stay, or departure of a conveyance, including local representatives of foreign shipping lines."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3138",
+      "entity_sub_entities": {
+        "Customs Act 2023": [
+          "Customs Act 2023"
+        ],
+        "Authorized Person or Agent": [
+          "Agent",
+          "Customs Act 2023"
+        ],
+        "Cargo Declaration": [
+          "Cargo Declaration",
+          "Customs Act 2023"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Customs Computer System",
+          "Customs Act 2023"
+        ],
+        "Dangerous Goods": [
+          "products",
+          "International Maritime Dangerous Goods (IMDG) Code",
+          "International Air Transport Association (IATA) Dangerous Goods Regulations (DGR)"
+        ],
+        "Person in Charge of Conveyance": [
+          "Vehicle",
+          "Cargo Declarant",
+          "person in charge of a conveyance",
+          "owner",
+          "operator",
+          "agent",
+          "registered credentials",
+          "Customs Computerised Entry Processing System"
+        ],
+        "Shipping Agent": [
+          "person",
+          "entity",
+          "organization",
+          "local representatives",
+          "foreign shipping lines"
+        ]
+      },
+      "clause_clusters": [
+        19,
+        66,
+        70,
+        83,
+        94,
+        120,
+        156,
+        161,
+        240,
+        248,
+        337,
+        357,
+        431,
+        716,
+        935,
+        1086,
+        2495,
+        4307,
+        6159,
+        8235,
+        9201,
+        9213,
+        11317
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "যানবাহনের রুটভিত্তিক যানবাহন বা কার্গো ঘোষণাকারী নির্ধারণ",
+      "text_id": "20250602_230-AIN_2025_52_Customs_২৯ মে, ২০২৫ খ্রিস্টাব্দ_clause_6",
+      "resolved_text": "৬। যানবাহনের রুটভিত্তিক যানবাহন বা কার্গো ঘোষণাকারী নির্ধারণ।─ (১) বাংলাদেশের বাহির হইতে বাংলাদেশে আগমন করিবে এইরূপ যানবাহনের রুট (যেমন, সমুদ্রপথ, স্থলপথ, আকাশপথ, রেলপথ, প্রভৃতি) ভিত্তিক কার্গোঘোষণাকারী নিম্নরূপ হইবে:\n\nবটববল\n\n| ক্রম | যানবাহনের রুট | যানবাহন বা কার্গো ঘোষণাকারী | বিবেচ্য বিষয় |\n| --- | --- | --- | --- |\n| ১. | সমুদ্রপথভিত্তিক কাস্টমস বন্দর | জাহাজের মাস্টার বা ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত জাহাজের মালিক বা পরিচালনাকারী বা তাহার মনোনীত শিপিং এজেন্ট বা freight forwarders | সরাসরি বিদেশ হইতে সমুদ্রবন্দরে আগমনের পরে কাস্টমস অভ্যন্তরীণ কন্টেইনার ডিপো অথবা কাস্টমস অভ্যন্তরীণ নৌ-কন্টেইনার টার্মিনালে কার্গো স্থানান্তরের ক্ষেত্রেও কলাম (৩) এর যানবাহন বা কার্গো ঘোষণাকারী ঘোষণা দাখিল করিবে |\n| ২. | অভ্যন্তরীণ জলপথভিত্তিক কাস্টমস স্টেশন অথবা কাস্টমস অভ্যন্তরীণ নৌ-কন্টেইনার টার্মিনাল | জাহাজের মাস্টার বা ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত জাহাজের মালিক বা পরিচালনাকারী বা তাহার মনোনীত শিপিং এজেন্ট বা freight forwarders |  |\n| ৩. | আকাশপথভিত্তিক কাস্টমস বিমানবন্দর | বিমানের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত এয়ারলাইন্স কর্তৃপক্ষ বা তাহার এজেন্ট |  |\n| ৪. | রেলপথ | বাংলাদেশ রেলওয়ের সংশ্লিষ্ট দায়িত্বপ্রাপ্ত কর্মকর্তা | কেবল সরাসরি বিদেশ হইতে রেলযোগে আগমনের ক্ষেত্রে প্রযোজ্য হইবে। |\n| ৫. | স্থলপথ | আইনের ধারা ২৪৩ অনুসারে সংশ্লিষ্ট কাস্টমস স্টেশন হইতে লাইসেন্সপ্রাপ্ত কোনো এজেন্ট, যিনি যানবাহনের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক বা পরিচালনাকারী কর্তৃক মনোনীত হইয়াছেন | যানবাহনের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক বা পরিচালনাকারী নিজেই কার্গো ঘোষণা দাখিল করিতে চাহিলে বা উহাদের পক্ষে উহাদের কোনো সংঘ বা সংস্থার মাধ্যমে কার্গো ঘোষণা দাখিল করিতে চাহিলে উহাকে এজেন্ট হিসেবে বিশেষ লাইসেন্স গ্রহণ করিতে হইবে এবং উক্ত লাইসেন্স গ্রহণ প্রক্রিয়া এতদসংক্রান্ত বিধিমালার আলোকে নির্ধারিত হইবে। |\n\n\n(২) উপ-বিধি (১) এর টেবিলের ক্রমিক ৫ এ উল্লিখিত স্থলপথে আগমনকারী যানবাহনের ক্ষেত্রে যানাবাহনের ভারপ্রাপ্ত ব্যক্তি (person-in-charge) অথবা তাহার পক্ষে উক্ত যানবাহনের মালিক বা পরিচালনাকারী কার্গো ঘোষণা দাখিলের জন্য ‘ফরম-খ’ অনুসারে কোনো এজেন্টকে দায়িত্ব অর্পণ করিতে পারিবে।\n\n(৩) উপবিধি (১) ও (২) এ যাহা কিছুই থাকুক না কেন, বোর্ড আদেশ জারির মাধ্যমে কোনো নির্দিষ্ট রুট বা কাস্টমস স্টেশনে উপবিধি (১) এর টেবিলের কলাম (৩) উল্লিখিত কার্গো ঘোষণাকারী পরিবর্তন করিতে পারিবে অথবা অন্য কাউকেও কার্গো ঘোষণাকারী হিসেবে নির্ধারণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Person in Charge of Conveyance": [
+          "The person in charge of a vessel, aircraft, or vehicle arriving from abroad is responsible for submitting cargo declarations based on the specific route taken.",
+          "They may designate agents or freight forwarders to act on their behalf for cargo declarations, or in the case of land routes, they may perform these functions themselves subject to obtaining specific licensing requirements."
+        ],
+        "Freight Forwarders": [
+          "Freight forwarders are formally recognized as authorized entities to submit cargo declarations for sea and inland water transport routes when designated by the owner, operator, or the person in charge of the vessel."
+        ],
+        "National Board of Revenue": [
+          "The board holds the authority to issue orders modifying or designating alternative parties as cargo declarants for specific routes or customs stations, regardless of the default rules prescribed for vehicle and cargo declaration."
+        ],
+        "Customs Act 1969": [
+          "The licensing of agents for land transport cargo declarations is governed by provisions established under the authority of Section 243 of the Act."
+        ],
+        "Bangladesh Railway": [
+          "For cargo arriving directly from abroad by rail, the designated official of the Bangladesh Railway is responsible for submitting the necessary cargo declarations."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_3142",
+      "entity_sub_entities": {
+        "Person in Charge of Conveyance": [
+          "vessel",
+          "aircraft",
+          "vehicle",
+          "agents",
+          "freight forwarders"
+        ],
+        "Freight Forwarders": [
+          "freight forwarders",
+          "cargo declarations",
+          "owner",
+          "operator",
+          "person in charge of the vessel"
+        ],
+        "National Board of Revenue": [
+          "board",
+          "cargo declarants",
+          "vehicle",
+          "cargo declaration"
+        ],
+        "Customs Act 1969": [
+          "agents",
+          "land transport cargo declarations",
+          "Section 243"
+        ],
+        "Bangladesh Railway": [
+          "designated official",
+          "Bangladesh Railway",
+          "cargo declarations"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        2,
+        71,
+        120,
+        161,
+        240,
+        357,
+        426,
+        448,
+        481,
+        620,
+        1086,
+        2005,
+        3498,
+        4845,
+        6160,
+        9377,
+        10622
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "2025-06-02"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "‘ফরম-খ’ [বিধি ৬(২) দ্রষ্টব্য]",
+      "text_id": "metadata_7",
+      "resolved_text": "‘ফরম-খ’ \n[বিধি ৬(২) দ্রষ্টব্য]\nAuthorization for Appointing Agent \n\nRecord no: \nDate:\n\nTo \nCommissioner of Customs/ Customs Station Chief \n………….. Customs House/Customs Station \n\nAs per rule 6(2) of the Conveyance and Cargo declaration, and Pre-arrival Processing Rule 2025, I am authorizing (Name of the Agent, AIN, Carrier Code, if any, Address) the following person for submitting declaration of the following conveyance and/or cargo on behalf of me: \n\n(a) Lorry/Truck receipt No. and Date: \n(b) Lorry/Truck No. (can be submitted in attachment if not covered here): \n(c) Invoice No.: \n(d) L/C No., L/C opening date, Bank Name and branch: \n(e) Description of goods: \n(f) Quantity of goods: Weight: …... kg, No. of Packages: …..., Unit: …... \n(g) Consignor/ Exporter’s Name and Address: \n(h) Consignee/ Importer’s Name and Address: \n(i) Car pass (Should be attached with the authorization): \n(j) Any other relevant information, if any: \n\nCopy to: Agent (Name and Address) \n\nPerson in-charge/ Owner/Operator/Agent on behalf of the conveyance \n(Signature, Name, address, contract number and email, if any)",
+      "entity_concepts": {
+        "Form": [
+          "This document provides a template for Form-K, which serves as a formal authorization for appointing an agent to handle customs declarations."
+        ],
+        "Vehicle and Cargo Declaration Submission and Pre-arrival Processing Rules 2025": [
+          "Rule 6(2) of these rules mandates the use of this specific form when authorizing an agent to submit declarations for conveyance and cargo."
+        ],
+        "Agent": [
+          "The form facilitates the appointment of an agent who is authorized to submit declarations on behalf of the person in charge or owner of a conveyance."
+        ],
+        "Commissioner of Customs": [
+          "The authorized form is addressed to the Commissioner of Customs or the Customs Station Chief of the relevant customs house or station."
+        ],
+        "Goods": [
+          "The declaration form requires detailed information regarding the description, quantity, weight, and packaging of the goods being imported or transported."
+        ],
+        "Car Pass": [
+          "A car pass is a required attachment that must accompany the authorization form during the declaration process."
+        ],
+        "Bank": [
+          "The declaration must include financial details including the letter of credit number, opening date, and the name of the bank and branch associated with the transaction."
+        ],
+        "Importer": [
+          "The form requires the submission of the name and address of the consignee or importer."
+        ],
+        "Exporter": [
+          "The form requires the submission of the name and address of the consignor or exporter."
+        ],
+        "Person in Charge of Conveyance": [
+          "This person or their designated operator is responsible for signing and submitting the authorization form to the customs authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_metadata_number": "metadata_1673",
+      "entity_sub_entities": {
+        "Form": [
+          "Form-K",
+          "formal authorization"
+        ],
+        "Vehicle and Cargo Declaration Submission and Pre-arrival Processing Rules 2025": [
+          "Rule 6(2)",
+          "conveyance",
+          "cargo"
+        ],
+        "Agent": [
+          "agent",
+          "person in charge",
+          "owner of a conveyance"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner of Customs",
+          "Customs Station Chief",
+          "customs house",
+          "customs station"
+        ],
+        "Goods": [
+          "description",
+          "quantity",
+          "weight",
+          "packaging",
+          "goods"
+        ],
+        "Car Pass": [
+          "car pass",
+          "authorization form"
+        ],
+        "Bank": [
+          "letter of credit number",
+          "opening date",
+          "bank",
+          "branch"
+        ],
+        "Importer": [
+          "name",
+          "address",
+          "consignee",
+          "importer"
+        ],
+        "Exporter": [
+          "name",
+          "address",
+          "consignor",
+          "exporter"
+        ],
+        "Person in Charge of Conveyance": [
+          "person in charge",
+          "operator",
+          "authorization form",
+          "customs authorities"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        7,
+        25,
+        39,
+        45,
+        56,
+        60,
+        77,
+        94,
+        113,
+        206,
+        222,
+        243,
+        246,
+        350,
+        357,
+        396,
+        541,
+        585,
+        668,
+        1086,
+        1166,
+        1429,
+        1936,
+        3185,
+        3467,
+        3543,
+        4026,
+        4273,
+        7001,
+        8260,
+        10311,
+        10456,
+        11620
+      ],
+      "source_file": "customs_sros_OCR/20250602_230-AIN_2025_52_Customs/20250602_230-AIN_2025_52_Customs_output.json",
+      "clause_date": "undated"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

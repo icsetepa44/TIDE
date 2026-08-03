@@ -1,0 +1,161 @@
+{
+  "thread_id": "cluster_00020_t0",
+  "cluster_id": 20,
+  "cluster_label": "notification",
+  "title": "Evolution of Notification-Based Regulatory Amendments",
+  "source_num_member_objects": 18,
+  "num_qa_pairs": 8,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Which legal act served as the primary basis for issuing SROs regarding customs duty and tax amendments on May 21, 2023?",
+      "options": [
+        "Customs Act, 2023",
+        "Customs Act, 1969",
+        "VAT Act, 1991",
+        "Customs Act, 2012"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Act, 1969",
+      "explanation": "As per the context (e.g., SRO 106-AIN/2023 dated May 21, 2023), amendments were issued under the Customs Act, 1969.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "When did the legal basis for issuing regulatory SROs transition from the Customs Act, 1969 to the Customs Act, 2023?",
+      "options": [
+        "May 2023",
+        "June 2024",
+        "May 2025",
+        "June 2022"
+      ],
+      "answer_index": 1,
+      "answer": "June 2024",
+      "explanation": "The timeline indicates that while May 2023 notifications still cited the 1969 Act, the June 26, 2024 notifications (e.g., SRO 231/2024) reflect the transition to the Customs Act, 2023.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which of the following SROs was issued under the authority of the Customs Act, 2023 as part of the ongoing regulatory adjustments in 2025?",
+      "options": [
+        "SRO 106-AIN/2023",
+        "SRO 123-AIN/2023",
+        "SRO 219-AIN/2025",
+        "SRO 231-AIN/2024"
+      ],
+      "answer_index": 2,
+      "answer": "SRO 219-AIN/2025",
+      "explanation": "The context explicitly lists SROs 219, 215, and 224/2025 as being issued on May 29, 2025, under the Customs Act, 2023.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What was the legal authority cited for issuing SRO 208-AIN/2024 on June 26, 2024?",
+      "options": [
+        "Section 19(1) of the Customs Act, 1969",
+        "Section 27(5) of the Customs Act, 2023",
+        "Section 126(1) of the Customs Act, 1969",
+        "Section 25(1) of the Customs Act, 2023"
+      ],
+      "answer_index": 1,
+      "answer": "Section 27(5) of the Customs Act, 2023",
+      "explanation": "The context for SRO 208-AIN/2024, dated June 26, 2024, specifically cites Section 27(5) of the Customs Act, 2023 as the governing authority.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A customs officer is reviewing the legal basis for regulatory amendments. They observe that in May 2023, the government issued several SROs (such as SRO 106-AIN/2023) to amend previous notifications. By June 2024, the officer notices that new amendments (such as SRO 231-AIN/2024) are citing a different primary legislation to perform similar regulatory adjustments.",
+      "question": "How has the primary legal authority for issuing customs-related notifications evolved between the amendments issued in May 2023 and those issued in June 2024?",
+      "answer": "The legal basis shifted from Section 19(1) of the Customs Act, 1969, used in May 2023, to Section 25(1) of the Customs Act, 2023, used in June 2024.",
+      "clauses_involved": [
+        "2023-05-21 | SROs 106, 108, 114, 119, 123/2023",
+        "2024-06-26 | SROs 231, 235, 208/2024"
+      ],
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2023-05-21",
+      "relative_offset": "one year later",
+      "question": "In 2023-05-21, amendments were issued under the Customs Act, 1969. What significant change regarding the legal basis for issuing regulatory notifications occurred one year later?",
+      "answer": "One year later, on 2024-06-26, the legal basis for issuing regulatory notifications transitioned from the Customs Act, 1969 to the Customs Act, 2023.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2024-06-26",
+      "relative_offset": "one year later",
+      "question": "Following the issuance of SROs 231, 235, and 208 in 2024-06-26, what was the status of the regulatory framework one year later?",
+      "answer": "One year later, on 2025-05-29, the government continued to utilize the Customs Act, 2023 as the legal authority for issuing ongoing regulatory adjustments and notifications.",
+      "clause_text_ids": [
+        "metadata_2",
+        "metadata_3",
+        "metadata_4"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The government issues regulatory amendments based on the authority provided by the Customs Act and the Value Added Tax and Supplementary Duty Act.",
+        "Regulatory adjustments continue to be enacted through statutory orders under the legal framework of the Customs Act.",
+        "The legal foundation for issuing regulatory notifications shifts to the Customs Act, while maintaining the established consultation process with the National Board of Revenue."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The government issues regulatory amendments based on the authority provided by the Customs Act and the Value Added Tax and Supplementary Duty Act.",
+          "date": "2023-05-21"
+        },
+        {
+          "event": "The legal foundation for issuing regulatory notifications shifts to the Customs Act, while maintaining the established consultation process with the National Board of Revenue.",
+          "date": "2024-06-26"
+        },
+        {
+          "event": "Regulatory adjustments continue to be enacted through statutory orders under the legal framework of the Customs Act.",
+          "date": "2025-05-29"
+        }
+      ],
+      "clause_text_ids": [
+        "metadata_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20230601_106-AIN_2023_150_Customs/20230601_106-AIN_2023_150_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00020_t0__evolution-of-notification-based-regulatory-amendme.json"
+    }
+  ]
+}

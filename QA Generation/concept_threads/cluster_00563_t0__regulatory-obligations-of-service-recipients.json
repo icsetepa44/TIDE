@@ -1,0 +1,197 @@
+{
+  "cluster_id": 563,
+  "cluster_label": "services",
+  "thread_index": 0,
+  "thread_id": "cluster_00563_t0",
+  "title": "Regulatory Obligations of Service Recipients",
+  "summary": "The obligations of service recipients in customs-related logistics have evolved from basic notification and fee payment requirements to include more stringent security and compliance measures, such as mandatory electronic seal and lock usage.",
+  "evolution": {
+    "scope": "Expanded from simple notification and fee payment to include technical security compliance (electronic seals) and tax-related obligations."
+  },
+  "timeline": [
+    {
+      "date": "2018-06-26",
+      "instrument": "SRO 2018",
+      "change": "Established initial requirements for service recipients to notify providers of cargo movement and pay fees.",
+      "clause_ids": [
+        "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7"
+      ]
+    },
+    {
+      "date": "2024-03-31",
+      "instrument": "SRO 2024",
+      "change": "Expanded obligations to include mandatory use of electronic seals/locks and compliance with tax/VAT payments alongside security protocols.",
+      "clause_ids": [
+        "20240331_._._৩১ মার্চ, ২০২৪_clause_11"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "সেবা গ্রহণকারীর দায়িত্ব",
+      "text_id": "20180626_198-AIN_2018_30_Customs_২৬ জুন, ২০১৮_clause_7",
+      "resolved_text": "৭। সেবা গ্রহণকারীর দায়িত্ব।- এই বিধিমালাতে বর্ণিত সেবা গ্রহণের লক্ষ্যে সেবা গ্রহণকারী পণ্য আমদানির পর যে সকল পণ্য চট্টগ্রাম বন্দর হইতে আইসিডি বা অফডকে স্থানান্তর করা হইবে অথবা পণ্য রপ্তানির জন্য আইসিডি বা অফডক হইতে চট্টগ্রাম বন্দরে স্থানান্তর করা হইবে সেই সকল পণ্যের চালান সম্পর্কে সেবা প্রদানকারী প্রতিষ্ঠানকে অগ্রিম অবহিত করিতে হইবে এবং সেবা প্রদানকারীর প্রদেয় ফি'স যথাসময়ে পরিশোধ করিবে।",
+      "entity_concepts": {
+        "Service Recipient": [
+          "The service recipient is required to provide advance notification to the service provider regarding shipments of imported goods transferred from the port to an inland container depot or off-dock facility, as well as export goods transferred from an inland container depot or off-dock facility to the port.",
+          "The service recipient is also responsible for the timely payment of all applicable fees to the service provider for the services rendered."
+        ],
+        "Service Provider": [
+          "The service provider is the entity to which advance notification of shipment transfers must be provided by the service recipient.",
+          "The service provider is entitled to receive timely payment of fees from the service recipient for services provided under these rules."
+        ],
+        "Inland Container Depot": [
+          "This facility acts as a designated location for the transfer of import and export goods to and from the primary port as described in the service regulations."
+        ],
+        "Off-Dock Facility": [
+          "This facility is authorized to handle the transfer of import and export shipments in coordination with the primary port."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1873",
+      "entity_sub_entities": {
+        "Service Recipient": [
+          "service recipient",
+          "service provider",
+          "shipments of imported goods",
+          "export goods",
+          "port",
+          "inland container depot",
+          "off-dock facility",
+          "fees"
+        ],
+        "Service Provider": [
+          "service provider",
+          "service recipient",
+          "shipment transfers",
+          "fees",
+          "services"
+        ],
+        "Inland Container Depot": [
+          "inland container depot",
+          "import goods",
+          "export goods",
+          "port"
+        ],
+        "Off-Dock Facility": [
+          "off-dock facility",
+          "import shipments",
+          "export shipments",
+          "port"
+        ]
+      },
+      "clause_clusters": [
+        151,
+        228,
+        358,
+        526,
+        563,
+        1402,
+        1403,
+        1409,
+        1476,
+        1644,
+        2153,
+        12171,
+        12173
+      ],
+      "source_file": "customs_sros_OCR/20180626_198-AIN_2018_30_Customs/20180626_198-AIN_2018_30_Customs_output.json",
+      "clause_date": "2018-06-26"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_11",
+      "clause_title": "সেবা গ্রহণকারীর দায়িত্ব",
+      "text_id": "20240331_._._৩১ মার্চ, ২০২৪_clause_11",
+      "resolved_text": "১১। সেবা গ্রহণকারীর দায়িত্ব।—(১) যেক্ষেত্রে বোর্ড কর্তৃক ইলেকট্রনিক সিল ও লক ব্যবহারের নির্দেশনা রহিয়াছে সেইক্ষেত্রে কোনো সেবা গ্রহণকারী উক্ত নির্দেশনার আলোকে সিল ও লক ব্যবহার ব্যতীত পণ্যচালান ও যানবাহন অপসারণ করিতে পারিবে না।\n(২) এই বিধিমালায় বর্ণিত সেবা গ্রহণের লক্ষ্যে পণ্য স্থানান্তরের ক্ষেত্রে সংশ্লিষ্ট পণ্য চালান সম্পর্কে সেবা গ্রহণকারী কর্তৃক সেবা প্রদানকারীকে পূর্বেই অবহিত করিতে হইবে এবং সেবা প্রদানের ফি এবং প্রযোজ্য ক্ষেত্রে, ভ্যাট, আয়কর এবং প্রযোজ্য অন্যান্য কর, প্রভৃতি যথা সময়ে পরিশোধ করিতে হইবে।\n(৩) সেবা গ্রহণকারী পণ্য চালানের নিরাপত্তা নিশ্চিত করিবার জন্য প্রয়োজনীয় নিজস্ব নিরাপত্তা গ্রহণ করিবে:\nতবে শর্ত থাকে যে, সেবা গ্রহণকারীর ইচ্ছাকৃত অবহেলা বা কার্যক্রমের কারণে পণ্য স্থানান্তরকালে কোনো অনিয়ম সংঘটিত হইলে আইনের বিধান অনুসারে শাস্তিমূলক ব্যবস্থা প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Board holds the authority to issue instructions regarding the mandatory use of electronic seals and locks for the movement of goods and vehicles.",
+          "The Board oversees the regulatory framework governing service providers and the obligations of service recipients under these rules."
+        ],
+        "Service Recipient": [
+          "The service recipient is prohibited from removing goods or vehicles if they fail to comply with the Board's directives regarding the use of electronic seals and locks.",
+          "The service recipient must provide prior notification to the service provider regarding shipments and is responsible for the timely payment of service fees and all applicable taxes, including Value Added Tax and Income Tax.",
+          "The service recipient is responsible for implementing necessary security measures for their shipments, and may be subject to legal penalties in the event of irregularities caused by their willful negligence or actions."
+        ],
+        "Electronic Seal and Lock": [
+          "The use of electronic seals and locks is a mandatory requirement for the removal of goods and vehicles when instructed by the National Board of Revenue."
+        ],
+        "Value Added Tax": [
+          "The service recipient is required to pay applicable Value Added Tax alongside other service fees and taxes in a timely manner."
+        ],
+        "Income Tax": [
+          "The service recipient is responsible for the timely payment of Income Tax where applicable for the services received."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2561",
+      "entity_sub_entities": {
+        "National Board of Revenue": [
+          "electronic seals",
+          "locks",
+          "goods",
+          "vehicles",
+          "service providers",
+          "service recipients"
+        ],
+        "Service Recipient": [
+          "goods",
+          "vehicles",
+          "electronic seals",
+          "locks",
+          "shipments",
+          "service provider",
+          "service fees",
+          "taxes",
+          "Value Added Tax",
+          "Income Tax",
+          "security measures",
+          "legal penalties"
+        ],
+        "Electronic Seal and Lock": [
+          "electronic seals",
+          "locks",
+          "goods",
+          "vehicles"
+        ],
+        "Value Added Tax": [
+          "Value Added Tax",
+          "service fees",
+          "taxes"
+        ],
+        "Income Tax": [
+          "Income Tax",
+          "services"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        9,
+        13,
+        93,
+        183,
+        244,
+        247,
+        358,
+        434,
+        563,
+        654,
+        844,
+        855,
+        1471,
+        1476,
+        1777,
+        3076
+      ],
+      "source_file": "customs_sros_OCR/20240331_._./20240331_._._output.json",
+      "clause_date": "2024-03-31"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

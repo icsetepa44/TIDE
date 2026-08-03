@@ -1,0 +1,50 @@
+{
+  "group_id": "cluster_00145_t0__X__cluster_00163_t0",
+  "entities": [
+    "amendments",
+    "exemptions"
+  ],
+  "cluster_ids": [
+    145,
+    163
+  ],
+  "thread_ids": [
+    "cluster_00145_t0",
+    "cluster_00163_t0"
+  ],
+  "num_shared_clauses": 6,
+  "num_qa_pairs": 2,
+  "qa_pairs": [
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "How does the legal mechanism for updating customs duty exemptions reflect the transition between the Customs Act 1969 and the Customs Act 2023 regarding the amendment of SROs?",
+      "answer": "The mechanism involves the government, in consultation with the NBR, issuing SROs to amend previous notifications. While earlier exemptions were governed by Section 19 of the Customs Act 1969 (as seen in [0], [1], and [2]), the legal basis for these amendments has shifted to the Customs Act 2023, specifically utilizing powers under Section 25(1) of the new Act to modify existing SROs, as demonstrated in [4] and [5].",
+      "entities_involved": [
+        "amendments",
+        "exemptions"
+      ],
+      "clause_text_ids": [
+        "20140604_133-AIN_2014_2497-Customs_০৫ জুন, ২০১৪_clause_1",
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "metadata_1",
+        "metadata_3",
+        "metadata_6"
+      ]
+    },
+    {
+      "type": "multi_entity_concept_qa",
+      "question": "In the process of amending customs exemptions, how is the integration of VAT/Supplementary Duty laws maintained across different legal frameworks?",
+      "answer": "The integration is maintained by citing both the Customs Act and relevant VAT/Supplementary Duty legislation in the SROs. For instance, exemptions under the Customs Act 1969 were amended alongside the VAT Act 1991 [1] or the VAT and Supplementary Duty Act 2012 [2], and this practice continues under the Customs Act 2023, where amendments to SROs are issued by invoking powers under both the Customs Act 2023 and the VAT and Supplementary Duty Act 2012 [4, 5].",
+      "entities_involved": [
+        "amendments",
+        "exemptions"
+      ],
+      "clause_text_ids": [
+        "20150604_141-AIN_2015_21-Customs_2015-06-04_clause_1",
+        "metadata_1",
+        "metadata_3",
+        "metadata_6"
+      ]
+    }
+  ]
+}

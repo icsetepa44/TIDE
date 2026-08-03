@@ -1,0 +1,181 @@
+{
+  "thread_id": "cluster_00451_t0",
+  "cluster_id": 451,
+  "cluster_label": "Commissionerate",
+  "title": "Administrative Oversight and Committee Formation",
+  "source_num_member_objects": 4,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 3
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "When was the requirement for establishing an Authorized Economic Operator (AEO) team first introduced for Customs Houses or Commissionerates?",
+      "options": [
+        "2019-01-21",
+        "2021-08-29",
+        "2025-01-21",
+        "2025-06-02"
+      ],
+      "answer_index": 2,
+      "answer": "2025-01-21",
+      "explanation": "Clause 14, dated 2025-01-21, mandated the establishment of dedicated AEO teams and the nomination of focal point officers within each Customs House or Commissionerate.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the initial auction committee structure led by an Additional or Joint Commissioner?",
+      "options": [
+        "Clause 6 (2019-01-21)",
+        "Clause 8 (2021-08-29)",
+        "Clause 14 (2025-01-21)",
+        "Clause 5 (2025-06-02)"
+      ],
+      "answer_index": 0,
+      "answer": "Clause 6 (2019-01-21)",
+      "explanation": "The initial establishment of auction committees, with an Additional or Joint Commissioner as the convener, was formalized in Clause 6 on 2019-01-21.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the 2021-08-29 regulations, what was the primary criteria for determining the committee structure for managing perishable goods?",
+      "options": [
+        "The seniority of the Commissioner",
+        "The value threshold of the consignment",
+        "The geographic location of the Customs Station",
+        "The type of transportation used for import"
+      ],
+      "answer_index": 1,
+      "answer": "The value threshold of the consignment",
+      "explanation": "Clause 8 (2021-08-29) dictates that the management committee structure for perishable goods is based on value thresholds, specifically differentiating between consignments above and below 5 lakh taka.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What new administrative responsibility was assigned to the Commissionerate in the 2025-06-02 update?",
+      "options": [
+        "Formation of auction committees",
+        "Management of perishable goods via 5-member committees",
+        "Establishment of AEO focal points",
+        "Post-import audit and verification of VAT and Supplementary Duty compliance"
+      ],
+      "answer_index": 3,
+      "answer": "Post-import audit and verification of VAT and Supplementary Duty compliance",
+      "explanation": "Clause 5, dated 2025-06-02, expanded the Commissionerate's role to include auditing and verifying that appropriate VAT and Supplementary Duty are paid for goods imported under concessional rates.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A Customs House official is reviewing the administrative history of committee formation. They note that in early 2019, auction committees were formed under the leadership of an Additional or Joint Commissioner. By mid-2025, the Commissionerate's responsibilities have expanded beyond simple auction disposal to include complex regulatory oversight like post-import VAT and Supplementary Duty audit verification.",
+      "question": "How has the scope of the Commissionerate's administrative responsibility changed from the 2019 auction committee mandate to the 2025 audit verification mandate?",
+      "answer": "The scope has evolved from localized disposal of goods, which focused on auction committee formation, to comprehensive trade facilitation and fiscal oversight involving post-import audit and verification of VAT and Supplementary Duty compliance.",
+      "clauses_involved": [
+        "2019-01-21",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_5",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2019-01-21",
+      "relative_offset": "two years and seven months later",
+      "question": "Two years and seven months after the initial establishment of auction committees in 2019, what new committee structure was introduced regarding the disposal of specific goods?",
+      "answer": "On 2021-08-29, Clause 8 formalized a committee structure for the management of perishable goods, requiring a maximum of five members and setting specific rank requirements for committee heads based on value thresholds.",
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2021-08-29",
+      "relative_offset": "three years and five months later",
+      "question": "Three years and five months after the 2021 formalization of perishable goods committees, what new institutional team was required to be established by Customs Houses and Commissionerates?",
+      "answer": "On 2025-01-21, Clause 14 mandated the establishment of dedicated teams to handle Authorized Economic Operator (AEO) matters, led by an officer at the rank of Joint Commissioner of Customs or higher.",
+      "clause_text_ids": [
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2025-01-21",
+      "relative_offset": "the following amendment",
+      "question": "Following the January 2025 mandate for AEO teams, what expansion occurred in the Commissionerate's functional role in the following amendment?",
+      "answer": "On 2025-06-02, the Commissionerate's role expanded to include the audit and verification of Value Added Tax and Supplementary Duty compliance for imported raw materials that benefited from concessional duty rates.",
+      "clause_text_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The Commissionerate mandates the formation of a committee for the management of perishable goods, with leadership requirements tied to consignment value thresholds.",
+        "The Commissionerate is tasked with auditing or verifying that the correct amount of Value Added Tax and Supplementary Duty is paid on inputs imported at concessional duty rates.",
+        "Customs Houses and Commissionerates are required to establish a dedicated team for Authorized Economic Operator matters, led by an officer at the rank of Joint Commissioner or higher.",
+        "The Commissioner of a Customs House or Commissionerate is responsible for forming an auction committee, with an Additional or Joint Commissioner serving as the convener."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The Commissioner of a Customs House or Commissionerate is responsible for forming an auction committee, with an Additional or Joint Commissioner serving as the convener.",
+          "date": "2019-01-21"
+        },
+        {
+          "event": "The Commissionerate mandates the formation of a committee for the management of perishable goods, with leadership requirements tied to consignment value thresholds.",
+          "date": "2021-08-29"
+        },
+        {
+          "event": "Customs Houses and Commissionerates are required to establish a dedicated team for Authorized Economic Operator matters, led by an officer at the rank of Joint Commissioner or higher.",
+          "date": "2025-01-21"
+        },
+        {
+          "event": "The Commissionerate is tasked with auditing or verifying that the correct amount of Value Added Tax and Supplementary Duty is paid on inputs imported at concessional duty rates.",
+          "date": "2025-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_5",
+        "20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_০৮ আগস্ট, ২০২১_clause_8",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_3",
+        "20250602_192-AIN_2025_14_Customs_২৯ মে, ২০২৫_clause_5"
+      ],
+      "clause_source_files": [
+        "customs_gos_OCR/20190121/20190121_output.json",
+        "customs_gos_OCR/20250121/20250121_output.json",
+        "customs_rules_OCR/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021/20210829_Rules_for_speedy_disposal_and_disposal_of_perishable_goods_2021_output.json",
+        "customs_sros_OCR/20250602_192-AIN_2025_14_Customs/20250602_192-AIN_2025_14_Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00451_t0__administrative-oversight-and-committee-formation.json"
+    }
+  ]
+}

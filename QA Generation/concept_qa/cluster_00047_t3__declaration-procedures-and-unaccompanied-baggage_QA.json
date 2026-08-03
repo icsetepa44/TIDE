@@ -1,0 +1,143 @@
+{
+  "thread_id": "cluster_00047_t3",
+  "cluster_id": 47,
+  "cluster_label": "baggage",
+  "title": "Declaration Procedures and Unaccompanied Baggage",
+  "source_num_member_objects": 6,
+  "num_qa_pairs": 9,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 1,
+    "open_ended": 5,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 2
+  },
+  "qa_pairs": [
+    {
+      "type": "open_ended",
+      "question": "How has the procedural window for declaring baggage due to unavoidable circumstances evolved between 2010 and 2016?",
+      "answer": "The window for filing a delayed baggage declaration underwent significant changes: it started at 21 days under the Baggage Rules 2010 and 2011, was drastically reduced to 3 days in the Baggage Rules 2012, and was ultimately increased to 7 days in the Baggage Rules 2016.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+        "20110609_165-AIN_2011_2352-Customs_2011-06-09_clause_8",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_8",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What is the consistent requirement for submitting an unaccompanied baggage declaration upon arrival, regardless of the year?",
+      "answer": "Across all rules from 2010 to 2023, the standard requirement for unaccompanied baggage is that the passenger must submit the prescribed declaration form to the customs authority before exiting the customs hall or the designated customs area.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "What rank of official is authorized to accept a late baggage declaration if a passenger fails to declare it upon arrival due to unavoidable circumstances?",
+      "answer": "According to the Baggage Rules from 2010 through 2023, any late declaration necessitated by errors or unavoidable circumstances must be submitted to a customs officer who holds a rank no lower than that of an Assistant Commissioner of Customs.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "Why did the regulatory framework for baggage declaration maintain a specific rank requirement for officials handling delayed declarations throughout its evolution?",
+      "answer": "The framework consistently requires an Assistant Commissioner of Customs or higher to oversee delayed declarations to ensure that exceptions to the standard arrival-based declaration process are handled by a sufficiently senior officer, maintaining oversight over the baggage declaration process as outlined in the Baggage Rules from 2010 to 2023.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+        "20230601_132-AIN_2023_176_Customs_২১ মে, ২০২৩ খ্রিষ্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "open_ended",
+      "question": "How does the 2016 amendment compare to the 2012 amendment regarding the timeframe allowed for passengers to rectify a failure to declare baggage?",
+      "answer": "The 2012 Baggage Rules tightened the declaration window to only 3 days following arrival, whereas the 2016 Baggage Rules subsequently relaxed this constraint by extending the allowable window for delayed declarations to 7 days.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_8",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A passenger arrived in Bangladesh and failed to declare their unaccompanied baggage upon arrival due to unavoidable circumstances. They were unsure of the deadline to file a delayed declaration, having previously traveled under the 2010 Baggage Rules, then again under the 2012 Baggage Rules, and finally under the 2016 Baggage Rules.",
+      "question": "How did the deadline for filing a delayed baggage declaration change for this passenger across the 2010, 2012, and 2016 rules?",
+      "answer": "The deadline was 21 days under the 2010 rules, was reduced to 3 days under the 2012 rules, and was subsequently increased to 7 days under the 2016 rules.",
+      "clauses_involved": [
+        "2010-06-10",
+        "2012-06-07",
+        "2016-06-02"
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_8",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2010-06-10",
+      "relative_offset": "two years later",
+      "question": "In the Baggage Rules 2010, the declaration window for unaccompanied baggage was 21 days; how did this requirement change two years later?",
+      "answer": "In the Baggage Rules 2012, enacted on 2012-06-07, the declaration window was reduced from 21 days to 3 days.",
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2012-06-07",
+      "relative_offset": "four years later",
+      "question": "Following the 3-day declaration window established in 2012, what adjustment was made to the baggage declaration timeframe four years later?",
+      "answer": "In the Baggage Rules 2016, enacted on 2016-06-02, the declaration window was increased from 3 days to 7 days.",
+      "clause_text_ids": [
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8",
+        "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_8",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The timeframe for submitting a baggage declaration due to error or unavoidable circumstances is set to seven days from the arrival date.",
+        "The timeframe for submitting a baggage declaration due to error or unavoidable circumstances is set to twenty-one days from the arrival date.",
+        "The timeframe for submitting a baggage declaration due to error or unavoidable circumstances is set to three days from the arrival date."
+      ],
+      "answer_ordered": [
+        {
+          "event": "The timeframe for submitting a baggage declaration due to error or unavoidable circumstances is set to twenty-one days from the arrival date.",
+          "date": "2010-06-10"
+        },
+        {
+          "event": "The timeframe for submitting a baggage declaration due to error or unavoidable circumstances is set to three days from the arrival date.",
+          "date": "2012-06-07"
+        },
+        {
+          "event": "The timeframe for submitting a baggage declaration due to error or unavoidable circumstances is set to seven days from the arrival date.",
+          "date": "2016-06-02"
+        }
+      ],
+      "clause_text_ids": [
+        "20100610_195-AIN_2010_2313-Customs_১০ জুন, ২০১০_clause_8",
+        "20120607_172-AIN_2012_2400-Customs_০৭ জুন, ২০১২_clause_8",
+        "20160602_164-AIN_2016_26-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_8"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20100610_195-AIN_2010_2313-Customs/20100610_195-AIN_2010_2313-Customs_output.json",
+        "customs_sros_OCR/20120607_172-AIN_2012_2400-Customs/20120607_172-AIN_2012_2400-Customs_output.json",
+        "customs_sros_OCR/20160602_164-AIN_2016_26-Customs/20160602_164-AIN_2016_26-Customs_output.json"
+      ],
+      "thread_source_file": "cluster_00047_t3__declaration-procedures-and-unaccompanied-baggage.json"
+    }
+  ]
+}

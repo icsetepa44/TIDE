@@ -1,0 +1,235 @@
+{
+  "cluster_id": 373,
+  "cluster_label": "motor vehicles",
+  "thread_index": 0,
+  "thread_id": "cluster_00373_t0",
+  "title": "Valuation and Depreciation Framework for Motor Vehicles",
+  "summary": "The framework for valuing imported used and reconditioned motor vehicles evolved from setting specific consolidated depreciation rates to establishing a structured methodology based on international valuation guides. Over time, the policy introduced specific requirements for age verification, documentation, and rules for handling declared values that exceed calculated minimums.",
+  "evolution": {
+    "methodology": "Shifted from simple percentage adjustments to a standardized international guide-based valuation system.",
+    "eligibility": "Added strict documentation requirements (e.g., Japan Auto Appraisal Institute certificates) and age-based thresholds."
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "instrument": "SRO 190-Law/2010",
+      "change": "Adjusted the consolidated depreciation rate for vehicles up to 4 years old to 25%.",
+      "clause_ids": [
+        "20100610_191-AIN_2010_2309-Customs_১০ জুন, ২০১০_clause_1"
+      ]
+    },
+    {
+      "date": "2012-06-07",
+      "instrument": "SRO 163-Law/2012",
+      "change": "Formalized the use of international guides (Yellow Book, Glass's Guide) for valuation and established conditions for depreciation eligibility based on age and mileage.",
+      "clause_ids": [
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+        "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4"
+      ]
+    },
+    {
+      "date": "2013-07-01",
+      "instrument": "SRO 217-Law/2013",
+      "change": "Introduced specific rules for determining the 'date of first registration' and rounding methods for vehicle age calculation.",
+      "clause_ids": [
+        "20130701_217-AIN_2013_2457-Customs_১ জুলাই, ২০১৩_clause_1"
+      ]
+    }
+  ],
+  "num_member_objects": 4,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20100610_191-AIN_2010_2309-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপন এর দফা ১ এর “অনধিক ৫(পাঁচ) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ীর জন্য সর্বসাকুল্যে (consolidated) ৩০% ” শব্দগুলি, সংখ্যাগুলি ও বন্ধনীগুলির পরিবর্তে “অনধিক ৪(চার) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ীর জন্য সর্বসাকুল্যে (consolidated) ২৫%” শব্দগুলি, সংখ্যাগুলি ও বন্ধনীগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Import Duty": [
+          "The consolidated tax rate for the import of motor vehicles within a specified age limit is reduced.",
+          "The eligibility criteria regarding the maximum age of the imported vehicle has been tightened by lowering the allowable age limit."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1267",
+      "entity_sub_entities": {
+        "Motor Vehicle Import Duty": [
+          "motor vehicles",
+          "consolidated tax rate",
+          "age limit",
+          "imported vehicle"
+        ]
+      },
+      "clause_clusters": [
+        373,
+        557,
+        5402,
+        6648,
+        9963
+      ],
+      "source_file": "customs_sros_OCR/20100610_191-AIN_2010_2309-Customs/20100610_191-AIN_2010_2309-Customs_output.json",
+      "clause_date": "2010-06-10"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_1",
+      "resolved_text": "১। ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত (reconditioned) মোটর গাড়ি ও যানবাহন জাপান হইতে আমদানি করা হইলে জাপানে প্রকাশিত হালনাগাদকৃত Yellow Book এবং জাপান ব্যতীত অন্য কোন দেশ হইতে আমদানি করা হইলে, ক্ষেত্রমত, হালনাগাদকৃত Glass's Guide, Magazine Automobiles বা আন্তর্জাতিকভাবে স্বীকৃত অনুরূপ কোন জার্নালে প্রকাশিত গাড়ির সকল কোড মডেলের গড় মূল্য হইতে ১০% বিয়োজন এবং গাড়ির সরাসরি গড় মূল্যের উপর অনধিক ৫ (পাঁচ) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ির জন্য সর্বসাকল্যে (consolidated) ২৫% অবচয় প্রদান করিয়া প্রাপ্ত মূল্য :\n\nতবে শর্ত থাকে যে, পুরাতন, ব্যবহৃত বা পুনঃসংস্কারকৃত মোটর গাড়ি ও যানবাহন হিসাবে বিবেচিত হইতে হইলে, সংশ্লিষ্ট গাড়ির প্রথম রেজিস্ট্রেশনের তারিখ ও রেজিস্ট্রেশন বাতিলের তারিখের মধ্যকার সময়সীমা ন্যূনতম ৩৬৫ (তিনশত পঁয়ষট্টি) দিন হইতে হইবে এবং উহা ন্যূনতম ১০০০ (এক হাজার) কিলোমিটার চালিত হইতে হইবে, যাহার প্রমাণস্বরূপ গাড়ি শুল্কায়নকালে জাপান হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate ও Japan Auto Appraisal Institute (JAAI) কর্তৃক ইস্যুকৃত গাড়ির বয়স সংক্রান্ত সনদপত্র এবং জাপান ব্যতীত অন্যান্য দেশ হইতে আমদানির ক্ষেত্রে Registration Cancellation Certificate সংশ্লিষ্ট কাস্টম হাউস বা কাস্টমস্ স্টেশনে দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicles": [
+          "The customs valuation for used, old, or reconditioned motor vehicles is determined by applying a percentage depreciation to the average value published in internationally recognized guides such as the Yellow Book, Glass's Guide, or Magazine Automobiles.",
+          "To qualify as a used or reconditioned motor vehicle for valuation purposes, the vehicle must have a minimum age of one year between its initial registration and cancellation, and it must have been driven for at least a minimum distance.",
+          "Importers must submit valid documentation, including the registration cancellation certificate and, in the case of imports from Japan, an age certificate issued by the Japan Auto Appraisal Institute, to the customs station at the time of clearance."
+        ],
+        "Certificate": [
+          "A Registration Cancellation Certificate is a mandatory document required for the clearance of imported used or reconditioned motor vehicles.",
+          "For vehicles imported from Japan, an additional age-related certificate issued by the Japan Auto Appraisal Institute is required to be submitted to the customs authority."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1354",
+      "entity_sub_entities": {
+        "Motor Vehicles": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "Yellow Book",
+          "Glass's Guide",
+          "Magazine Automobiles",
+          "registration cancellation certificate",
+          "age certificate",
+          "Japan Auto Appraisal Institute"
+        ],
+        "Certificate": [
+          "Registration Cancellation Certificate",
+          "age-related certificate",
+          "Japan Auto Appraisal Institute"
+        ]
+      },
+      "clause_clusters": [
+        188,
+        293,
+        373,
+        1447,
+        2065,
+        2328,
+        2441,
+        2816,
+        3382,
+        4316
+      ],
+      "source_file": "customs_sros_OCR/20120607_162-AIN_2012_2390-Customs/20120607_162-AIN_2012_2390-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20120607_162-AIN_2012_2390-Customs_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। আমদানিকৃত ব্যবহৃত, পুরাতন বা পুনঃসংস্কারকৃত মোটর গাড়ি বা যানবাহনের ঘোষিত মূল্য অনুচ্ছেদ ১ ও ২ এর পদ্ধতি অনুসরণে নিরূপিত ন্যূনতম মূল্য অপেক্ষা বেশী হইলে অবচয় সুবিধা প্রদান না করিয়া ঘোষিত মূল্যে শুল্কায়ন করিতে হইবে।",
+      "entity_concepts": {
+        "Motor Vehicles": [
+          "For imported used, old, or reconditioned motor vehicles, if the declared value exceeds the determined minimum value calculated through established methods, the customs assessment must be conducted based on the declared value without applying depreciation benefits."
+        ],
+        "Customs Valuation": [
+          "The assessment process dictates that if the declared value of a used or reconditioned vehicle is higher than the minimum threshold established by standard procedures, the duty is to be calculated using the declared value rather than providing depreciation concessions."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1357",
+      "entity_sub_entities": {
+        "Motor Vehicles": [
+          "used motor vehicles",
+          "old motor vehicles",
+          "reconditioned motor vehicles",
+          "declared value",
+          "determined minimum value"
+        ],
+        "Customs Valuation": [
+          "declared value",
+          "used vehicle",
+          "reconditioned vehicle",
+          "minimum threshold",
+          "duty",
+          "depreciation concessions"
+        ]
+      },
+      "clause_clusters": [
+        109,
+        233,
+        293,
+        373,
+        484,
+        508,
+        1834,
+        2868,
+        3837
+      ],
+      "source_file": "customs_sros_OCR/20120607_162-AIN_2012_2390-Customs/20120607_162-AIN_2012_2390-Customs_output.json",
+      "clause_date": "2012-06-07"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ২১৭-আইন/২০১৩/২৪৫৭/কাস্টমস",
+      "text_id": "20130701_217-AIN_2013_2457-Customs_১ জুলাই, ২০১৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ২১৭-আইন/২০১৩/২৪৫৭/কাস্টমস।- Customs Act, 1969 (Act IV of 1969) এর section 25 এর sub-section (3) এ প্রদত্ত ক্ষমতাবলে সরকার, অত্র বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ মোতাবেক ০৬ জুন, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং- ১৪৯-আইন/২০১৩/২৪৩৬/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের -\n\n(ক) শর্ত ১ এর পর নিম্নবর্ণিত ব্যাখ্যা সন্নিবেশিত হইবে, যথা :\n\n“ব্যাখ্যা :- সংশ্লিষ্ট মোটর গাড়ির প্রথম রেজিস্ট্রেশনের তারিখ উল্লেখ না থাকিলে যে মাসে গাড়িটি প্রথম রেজিস্ট্রেশন করা হইয়াছিল সে মাসের পরবর্তী মাসের প্রথম তারিখকে এর উদ্দেশ্য পূরণকল্পে রেজিস্ট্রেশনের তারিখ হিসাবে গণ্য করিতে হইবে।”\n\n(খ) শর্ত ২ ও ব্যাখ্যা এর পরিবর্তে নিম্নরূপ শর্ত ২ প্রতিস্থাপিত হইবে, যথা:-\n\n“২। অবচয় প্রদানের উদ্দেশ্যে বয়স গণনার ক্ষেত্রে, সংশ্লিষ্ট গাড়ির চেসিস (Chassis) বুকে লিপিবদ্ধ তৈরি সনের পরবর্তী বৎসরের প্রথম দিন হইতে গাড়ির জাহাজীকরণের দিন পর্যন্ত সময়কে গণনা করিতে হইবে:\n\nতবে শর্ত থাকে যে, উক্ত অবচয় প্রদানের উদ্দেশ্যে এক বৎসরের অধিক পুরাতন গাড়ির বয়স গণনার ক্ষেত্রে ৬ (ছয়) মাসের অধিক হইলে পরবর্তী পূর্ণ বৎসর হিসাবে গণ্য করিতে হইবে।”।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is exercising its powers under Section 25(3) of the Act to amend a previously issued customs notification."
+        ],
+        "S.R.O. 149-AIN/2013": [
+          "This existing customs notification is being amended by the current order to refine provisions related to the valuation and depreciation of motor vehicles.",
+          "Specific conditions regarding the calculation of vehicle age and registration dates are being inserted or replaced within this instrument."
+        ],
+        "Motor Vehicles": [
+          "For valuation purposes, if the exact date of first registration is missing, the first day of the month following the month of registration is treated as the official registration date.",
+          "Depreciation calculations are based on the vehicle's age, determined from the first day of the year following its manufacturing year until the date of shipment.",
+          "In calculating vehicle age for depreciation, any period exceeding six months beyond a full year is rounded up to the next full year."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1459",
+      "entity_sub_entities": {
+        "Customs Act 1969": [
+          "Section 25(3)",
+          "customs notification"
+        ],
+        "S.R.O. 149-AIN/2013": [
+          "customs notification",
+          "motor vehicles",
+          "valuation",
+          "depreciation",
+          "vehicle age",
+          "registration dates"
+        ],
+        "Motor Vehicles": [
+          "date of first registration",
+          "depreciation",
+          "vehicle age",
+          "manufacturing year",
+          "date of shipment"
+        ]
+      },
+      "clause_clusters": [
+        2,
+        11,
+        253,
+        373,
+        471,
+        2648,
+        4332,
+        4756,
+        5120,
+        7117,
+        7126,
+        11341
+      ],
+      "source_file": "customs_sros_OCR/20130701_217-AIN_2013_2457-Customs/20130701_217-AIN_2013_2457-Customs_output.json",
+      "clause_date": "2013-07-01"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

@@ -1,0 +1,647 @@
+{
+  "cluster_id": 750,
+  "cluster_label": "authorized entity",
+  "thread_index": 0,
+  "thread_id": "cluster_00750_t0",
+  "title": "AEO Regulatory Framework and Operational Compliance",
+  "summary": "The concept of the 'Authorized Entity' has evolved from basic input-output coefficient reporting in 2017 to a sophisticated Authorized Economic Operator (AEO) framework by 2024-2025. The focus has shifted from simple administrative compliance to a tiered system involving risk-based auditing, automated identification, and specific operational privileges for accredited entities.",
+  "evolution": {
+    "scope": "Expanded from input-output reporting to a holistic trade facilitation and compliance monitoring framework.",
+    "structure": "Transitioned from a flat administrative requirement to a tiered (Tier-1, etc.) accreditation system.",
+    "procedure": "Shifted from manual coefficient approval to automated system identification and risk-based audit cycles."
+  },
+  "timeline": [
+    {
+      "date": "2017-06-01",
+      "instrument": "SRO/Clause",
+      "change": "Initial requirement for authorized entities to submit input-output coefficients for customs approval.",
+      "clause_ids": [
+        "20170601_131-AIN__১ জুন, ২০১৭_clause_7"
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "instrument": "AEO Rules 2024",
+      "change": "Formalization of the AEO status under the 2024 Rules, introducing Tier-1 classification and application procedures for status maintenance.",
+      "clause_ids": [
+        "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_42"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "instrument": "AEO Operational Directives",
+      "change": "Comprehensive operationalization of AEO privileges, including priority assessment, automated system identification, audit protocols, and procedures for tier-based status changes and incident management.",
+      "clause_ids": [
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_106",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_118",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_130",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_134",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_135",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_56",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_62",
+        "20250121_১০ জানুয়ারি, ২০২৫_clause_70"
+      ]
+    }
+  ],
+  "num_member_objects": 11,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20170601_131-AIN__১ জুন, ২০১৭_clause_7",
+      "resolved_text": "৬। প্রতি একক কম্পিউটার উৎপাদনের জন্য সম্ভাব্য বা যৌক্তিক অপচয়সহ কি কি পণ্য বা যন্ত্রাংশ বা উপকরণ কি পরিমাণে আবশ্যক (উপকরণ-উৎপাদন সহগ) সে সম্পর্কিত তথ্য “পরিশিষ্ট-২” অনুযায়ী ৩ (তিন) কপি পণ্য আমদানির পূর্বেই সংশ্লিষ্ট ভ্যাট কমিশনারেট এর কমিশনার বরাবর দাখিল করিতে হইবে এবং কমিশনার উক্ত সহগ অনুমোদনপূর্বক প্রতিস্বাক্ষর করিবেন এবং একটি কপি অফিসের রেকর্ড হিসাবে সংরক্ষণ করিবেন, দ্বিতীয় কপি জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস নীতি) বরাবরে প্রেরণ করিবেন এবং অপর কপি প্রতিষ্ঠান কর্তৃপক্ষকে ফেরত দিবেন। পরিশিষ্ট-২ এর সত্যায়িত ফটোকপি প্রতিটি আমদানি পণ্যচালান খালাসের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Input-Output Coefficient": [
+          "The manufacturer must submit a report detailing the required raw materials and components, including reasonable waste projections, for each computer produced according to a specified schedule.",
+          "The input-output coefficient documentation must be submitted to the Commissioner of the relevant VAT Commissionerate in triplicate prior to the commencement of import operations."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner is responsible for reviewing, approving, and countersigning the submitted input-output coefficient documentation.",
+          "Upon approval, the Commissioner must distribute copies of the documentation to the official records, the Member (Customs Policy) of the National Board of Revenue, and the authorized entity."
+        ],
+        "National Board of Revenue": [
+          "A copy of the approved input-output coefficient documentation must be forwarded to the Member (Customs Policy) for regulatory oversight."
+        ],
+        "Bill of Entry": [
+          "A certified photocopy of the approved input-output coefficient must be presented alongside the bill of entry during the customs clearance process for each import consignment."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_1734",
+      "entity_sub_entities": {
+        "Input-Output Coefficient": [
+          "raw materials",
+          "components",
+          "waste projections",
+          "computer",
+          "input-output coefficient documentation"
+        ],
+        "Commissioner of Customs": [
+          "Commissioner",
+          "input-output coefficient documentation",
+          "official records",
+          "Member (Customs Policy)",
+          "National Board of Revenue",
+          "authorized entity"
+        ],
+        "National Board of Revenue": [
+          "input-output coefficient documentation",
+          "Member (Customs Policy)"
+        ],
+        "Bill of Entry": [
+          "input-output coefficient",
+          "bill of entry",
+          "import consignment"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        7,
+        12,
+        27,
+        42,
+        64,
+        137,
+        200,
+        303,
+        750,
+        1587,
+        1673,
+        1722,
+        13354
+      ],
+      "source_file": "customs_sros_OCR/20170601_131-AIN_/20170601_131-AIN__output.json",
+      "clause_date": "2017-06-01"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_42",
+      "clause_title": "বিদ্যমান অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে স্বীকৃতি প্রাপ্ত প্রতিষ্ঠান হিসাবে প্রযোজ্য শর্তাবলি পূরণের সময় বর্ধিতকরণ আবেদন",
+      "text_id": "20240613_217-_2024_67_০৪ জুন, ২০২৪_clause_42",
+      "resolved_text": "ফরম-ধ\n[বিধি ২০(৩) দ্রষ্টব্য]\n\nবরাবর\nমহাপরিচালক\nঅথরাইজড ইকোনমিক অপারেটর (AEO) সেন্টার।\n\nবিষয়: বিদ্যমান অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে স্বীকৃতি প্রাপ্ত প্রতিষ্ঠান হিসাবে প্রযোজ্য শর্তাবলি পূরণের সময় বর্ধিতকরণ আবেদন।\n\nমহোদয়,\nআমার/আমাদের (প্রতিষ্ঠানের নাম, ঠিকানা, স্বীকৃতি সনদ নম্বর ও তারিখ) অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান) বিধিমালা, ২০১৮ এর আওতায় অথরাইজড ইকোনমিক অপারেটর (AEO) হিসাবে স্বীকৃতি প্রাপ্ত অথরাইজড ইকোনমিক অপারেটর। অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ এর আওতায় শ্রেণি-১ (Tier-1) এর প্রতিষ্ঠান হিসাবে প্রযোজ্য শর্তাবলি পূরণের জন্য বিধি ২০(৩) অনুসারে আমার/আমাদের আরও ---------- (সর্বোচ্চ ৬ মাস) দিন সময় প্রয়োজন।\n\nবর্ণিতাবস্থায়, অথরাইজড ইকোনমিক অপারেটর (স্বীকৃতি প্রদান ও পরিচালনা) বিধিমালা, ২০২৪ এর আওতায় অথরাইজড ইকোনমিক অপারেটর শ্রেণি-১ (Tier-1) এর প্রতিষ্ঠান হিসাবে প্রযোজ্য শর্তাবলি পূরণের জন্য বিধি ২০(৩) অনুসারে আমার/আমাদের আরও ------------------ (সর্বোচ্চ ৬ মাস) দিন সময় বর্ধিতকরণের জন্য অনুরোধ করিতেছি।\n\nআপনার বিশ্বস্ত,\n\n(আবেদনকারীর নাম, স্বাক্ষর ও দাপ্তরিক সিল)",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "These rules establish the procedure for an Authorized Economic Operator to apply for an extension of time to fulfill the compliance requirements for Tier-1 status.",
+          "The application for time extension allows an eligible entity to request an additional period, up to a specified maximum duration, to meet the necessary criteria for status maintenance under the governing regulations."
+        ],
+        "Authorized Economic Operator (Recognition and Operation) Rules 2024": [
+          "This regulatory framework governs the recognition and operational requirements for Authorized Economic Operators, specifically defining the compliance conditions for Tier-1 entities.",
+          "It provides the legal basis under rule 20(3) for an authorized entity to formally apply for an extension to fulfill mandatory conditions."
+        ],
+        "Authorized Economic Operator (Recognition) Rules 2018": [
+          "This is the foundational legislation under which the institution currently holds its status as an Authorized Economic Operator."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_2908",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "Authorized Economic Operator",
+          "extension of time",
+          "compliance requirements",
+          "Tier-1 status",
+          "application",
+          "eligible entity",
+          "additional period",
+          "maximum duration",
+          "criteria",
+          "status maintenance",
+          "governing regulations"
+        ],
+        "Authorized Economic Operator (Recognition and Operation) Rules 2024": [
+          "regulatory framework",
+          "Authorized Economic Operators",
+          "compliance conditions",
+          "Tier-1 entities",
+          "rule 20(3)",
+          "authorized entity",
+          "extension",
+          "mandatory conditions"
+        ],
+        "Authorized Economic Operator (Recognition) Rules 2018": [
+          "foundational legislation",
+          "institution",
+          "status",
+          "Authorized Economic Operator"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        58,
+        86,
+        193,
+        237,
+        461,
+        587,
+        749,
+        750,
+        1115,
+        1352,
+        1384,
+        1417,
+        1488,
+        1585,
+        1824,
+        2039,
+        2236,
+        2764,
+        3136,
+        3278,
+        7702,
+        8324
+      ],
+      "source_file": "customs_sros_OCR/20240613_217-_2024_67/20240613_217-_2024_67_output.json",
+      "clause_date": "2024-06-13"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_104",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_104",
+      "resolved_text": "১৫. স্বীকৃতি সনদপ্রাপ্ত কোনো প্রতিষ্ঠানের যে কোনো পণ্যচালানই বিশ্বাসযোগ্য গোয়েন্দা তথ্যের ভিত্তিতে যথোপযুক্ত কাস্টমস কর্মকর্তা কায়িক পরীক্ষা বা ক্ষেত্র মতো পরিদর্শন বা শুল্কায়ন করতে পারবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "Consignments belonging to an authorized entity may still be subject to physical examination or inspection by customs officials if credible intelligence information is received.",
+          "The certification held by an institution does not preclude customs authorities from performing standard assessment or inspection duties when specific intelligence warrants such action."
+        ],
+        "Appropriate Officer of Customs": [
+          "The officer is empowered to conduct physical examination, inspection, or assessment of goods belonging to certified institutions based on credible intelligence reports."
+        ],
+        "Customs Clearance": [
+          "This process, including physical inspection and assessment, remains applicable to certified entities whenever credible intelligence suggests the need for such intervention."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_894",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "consignments",
+          "authorized entity",
+          "customs officials",
+          "credible intelligence information",
+          "certification",
+          "institution"
+        ],
+        "Appropriate Officer of Customs": [
+          "officer",
+          "goods",
+          "certified institutions",
+          "credible intelligence reports"
+        ],
+        "Customs Clearance": [
+          "physical inspection",
+          "assessment",
+          "certified entities",
+          "credible intelligence"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        17,
+        18,
+        51,
+        87,
+        114,
+        195,
+        219,
+        461,
+        466,
+        750,
+        825,
+        1520,
+        1941,
+        2542,
+        3695
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_106",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_106",
+      "resolved_text": "১৭. স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানকে তার নিজস্ব অজ্ঞানে আমদানি পণ্য বা রপ্তানিব্য পণ্য কায়িক পরীক্ষণের জন্য অনুমতি প্রদান করা হলে সংশ্লিষ্ট কাস্টমস স্টেশন কর্তৃপক্ষ উক্ত চালানের জন্য পণ্য ঘোষণা (বিল অব এন্ট্রি/বিল অব এক্সপোর্ট) দাখিল করার সুযোগ প্রদান করবে।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "When an authorized entity is granted permission for the physical examination of their own import or export goods, the customs station authority is required to allow the filing of the relevant goods declaration such as a bill of entry or bill of export."
+        ],
+        "Authorized Entity": [
+          "These entities are permitted to request physical examination of their goods and must be provided with the opportunity to file the necessary customs declarations by the local station authorities."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_896",
+      "entity_sub_entities": {
+        "Customs Clearance": [
+          "import goods",
+          "export goods",
+          "goods declaration",
+          "bill of entry",
+          "bill of export"
+        ],
+        "Authorized Entity": [
+          "goods",
+          "customs declarations"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        27,
+        51,
+        90,
+        228,
+        695,
+        707,
+        750,
+        1402
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_118",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_118",
+      "resolved_text": "৩. স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠান তার স্বীকৃতি প্রাপ্তির আবশ্যকীয় শর্তাবলি বা মানদণ্ড যথাযথ পরিপালন করছে কি না তাও ঝুঁকি বিবেচনায় দৈবচয়নভিত্তিতে নিরীক্ষাকালে যাচাই করতে হবে। এক্ষেত্রে, কী কী বিষয় যাচাই করা হয়েছে (পরিশিষ্ট-৮ অনুসারে) এবং উক্ত যাচাইয়ে প্রাপ্ত ফলাফল স্পষ্টভাবে প্রতিবেদনে উল্লেখ করতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The customs authority is required to conduct risk-based random audits to ensure that the authorized entity continues to comply with all mandatory conditions and standards for their recognition.",
+          "Customs officials must document the specific verification points based on the relevant appendix and clearly state the findings of such audits in their reports."
+        ],
+        "Customs Risk Management": [
+          "Operational procedures mandate that inspections and audits of recognized entities must be conducted on a random basis while incorporating risk assessment criteria."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_908",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "customs authority",
+          "risk-based random audits",
+          "authorized entity",
+          "mandatory conditions",
+          "standards",
+          "customs officials",
+          "verification points",
+          "appendix",
+          "reports"
+        ],
+        "Customs Risk Management": [
+          "operational procedures",
+          "inspections",
+          "audits",
+          "recognized entities",
+          "random basis",
+          "risk assessment criteria"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        23,
+        87,
+        141,
+        274,
+        298,
+        340,
+        750,
+        1364,
+        1417,
+        1444,
+        2108,
+        2271,
+        4710,
+        11181,
+        11579,
+        13262
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_130",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_130",
+      "resolved_text": "১৫. বিধিমালার বিধি ১৩(৫) এ উল্লিখিত কোনো ব্যবসায়িক পরিবর্তনের তথ্য স্বীকৃতিপ্রাপ্ত কর্তৃক সেন্টরকে যথাযথ ফরমে অবহিত করতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The authorized entity must formally notify the customs center of any business changes mentioned in the relevant rules using the prescribed format."
+        ],
+        "Customs Procedure": [
+          "Operational instructions require that any changes to business details must be communicated to the customs authorities via a standardized reporting form."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_920",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "authorized entity",
+          "customs center",
+          "business changes",
+          "prescribed format"
+        ],
+        "Customs Procedure": [
+          "operational instructions",
+          "business details",
+          "customs authorities",
+          "standardized reporting form"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        45,
+        750,
+        873,
+        932,
+        1085,
+        2519,
+        3717,
+        6103,
+        12396
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_134",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_134",
+      "resolved_text": "১৯. কোনো ত্রুটি উদ্ঘাটিত হলে স্বীকৃতি সনদপ্রাপ্ত প্রতিষ্ঠানকে এর যথাযথ কারণ পর্যালোচনা করতে হবে এবং উক্ত ত্রুটির পুনরাবৃত্তি রোধকল্পে প্রয়োজনীয় নিরাপত্তামূলক ব্যবস্থা গ্রহণ করতে হবে। সেন্টার উক্ত বিষয়টি তদারকি করবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "If a discrepancy or error is discovered, the authorized entity must investigate the cause and implement the necessary safety and preventive measures to ensure the error does not recur."
+        ],
+        "National Board of Revenue": [
+          "The Center is responsible for monitoring and supervising the compliance and corrective actions taken by authorized entities regarding the resolution of identified errors."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_924",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "discrepancy",
+          "error",
+          "authorized entity",
+          "safety measures",
+          "preventive measures"
+        ],
+        "National Board of Revenue": [
+          "Center",
+          "compliance",
+          "corrective actions",
+          "authorized entities",
+          "errors"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        18,
+        241,
+        750,
+        834,
+        1011,
+        1045,
+        1595,
+        2028,
+        2662,
+        4571,
+        11838
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_135",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_135",
+      "resolved_text": "২০. স্বীকৃতি সনদপ্রাপ্ত কোনো প্রতিষ্ঠানের বিরুদ্ধে শুল্ক বা চোরাচালান বা অন্য কোনো সুনির্দিষ্ট গুরুতর অভিযোগ বা সুনির্দিষ্ট কোনো গোয়েন্দা তথ্য পাওয়া গেলে সেন্টার বা ক্ষমতাপ্রাপ্ত অন্য কোনো কাস্টমস দপ্তর যেকোনো সময় উক্ত প্রতিষ্ঠানের বিরুদ্ধে প্রয়োজনীয় নিরীক্ষা ও তদন্ত এবং অপরাপর আইনানুগ কার্যক্রম গ্রহণ করা যাবে।\n\n",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The customs authority or authorized customs office is empowered to conduct necessary audits, investigations, and other legal actions against an entity holding an authorized status if specific allegations regarding customs violations or smuggling are received."
+        ],
+        "Customs Authority": [
+          "The customs authority or an empowered customs office retains the mandate to initiate audit and investigative procedures upon receiving credible intelligence or specific complaints concerning the operations of an authorized entity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_925",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "customs authority",
+          "authorized customs office",
+          "entity holding an authorized status",
+          "customs violations",
+          "smuggling"
+        ],
+        "Customs Authority": [
+          "customs authority",
+          "empowered customs office",
+          "audit procedures",
+          "investigative procedures",
+          "credible intelligence",
+          "specific complaints",
+          "authorized entity"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        23,
+        211,
+        750,
+        1008,
+        3695,
+        4239,
+        5777,
+        7029,
+        7716,
+        7751,
+        12315
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_56",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_56",
+      "resolved_text": "১১. কোনো স্বীকৃতি সনদপ্রাপ্ত প্রতিষ্ঠানের শ্রেণি (Tier) উন্নয়ন বা অবনমন ঘটলে বিধিমালার বিধি ৯(১১) অনুসারে পুরাতন শ্রেণি (Tier)-এর স্বীকৃতি সনদ কর্তৃক বাতিল করতে হবে এবং নতুন সনদ জারি করতে হবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "In the event of an upward or downward change in the tier of an authorized entity, the existing recognition certificate must be cancelled as per the established rules.",
+          "A new recognition certificate must be issued following the change in the entity's tier status."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_846",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "authorized entity",
+          "recognition certificate",
+          "tier"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        139,
+        750,
+        5039
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_62",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_62",
+      "resolved_text": "১৭. প্রতিষ্ঠানের স্বীকৃতি সনদ প্রাপ্তি ও শ্রেণি অনুসারে প্রযোজ্য সুবিধাদি নিশ্চিতকরণের জন্য কাস্টমস স্টেশন সংশ্লিষ্ট অথরাইজড ইকোনমিক অপারেটর বিশেষ টিমকে অবহিত করবে এবং বিশেষ টিম প্রযোজ্য সুবিধাদি নিশ্চিত করতে প্রয়োজনীয় কার্যক্রম গ্রহণ করবে।\n\n",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The customs station is required to notify the designated Authorized Economic Operator team to facilitate the recognition of the entity and ensure the provision of applicable benefits.",
+          "The special team is responsible for undertaking the necessary operational actions to guarantee that the entitled benefits are effectively granted to the authorized entity."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_852",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "customs station",
+          "Authorized Economic Operator team",
+          "authorized entity",
+          "benefits",
+          "special team"
+        ]
+      },
+      "clause_clusters": [
+        18,
+        25,
+        278,
+        750,
+        1131,
+        1161
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_70",
+      "clause_title": "",
+      "text_id": "20250121_১০ জানুয়ারি, ২০২৫_clause_70",
+      "resolved_text": "৮. স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠানের আমদানিকৃত বা রপ্তানিকৃত পণ্য কায়িক পরীক্ষা বা অ্যাসেসমেন্ট এর ক্ষেত্রে কাস্টমস স্টেশন অগ্রাধিকার প্রদান করবে। স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠান কাস্টমস কম্পিউটার সিস্টেমে আলাদাভাবে চিহ্নিতকরণের জন্য বোর্ডের কাস্টমস অটোমেশন শাখা বিশেষ পৃথককরণ চিহ্ন চালু করবে। এক্ষেত্রে, কাস্টমস কম্পিউটার সিস্টেমে উক্ত বিশেষ পৃথককরণ চিহ্ন দেখে বা ম্যানুয়াল নথির উপর AEO অ্যাক্রিডিটেশন লোগো দেখে কায়িক পরীক্ষাকারী বা শুল্কায়নকারী কর্মকর্তা অগ্রাধিকারমূলক পরীক্ষণ ও শুল্কায়ন সুবিধা প্রদান করবে। এ বিষয়ে কাস্টমস স্টেশন কর্তৃপক্ষ প্রয়োজনীয় অফিস আদেশ জারি করবে।",
+      "entity_concepts": {
+        "Authorized Economic Operator": [
+          "The Customs stations are instructed to provide priority treatment during physical inspection or assessment for goods imported or exported by accredited Authorized Economic Operators."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "The customs automation wing of the National Board of Revenue is required to implement a special identification marker within the digital system to distinguish accredited entities.",
+          "Customs officers are required to observe the special identification marker in the system to facilitate priority inspection and clearance for the accredited operator."
+        ],
+        "AEO Accreditation Logo": [
+          "In cases where physical documentation is used, customs officials must look for the AEO Accreditation Logo to identify and grant priority inspection and customs clearance to the authorized entity."
+        ],
+        "National Board of Revenue": [
+          "The customs automation wing under the Board is responsible for creating and implementing the technical mechanisms to identify accredited operators within the customs digital system."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_860",
+      "entity_sub_entities": {
+        "Authorized Economic Operator": [
+          "goods",
+          "accredited Authorized Economic Operators"
+        ],
+        "Customs Computerised Entry Processing System": [
+          "customs automation wing",
+          "National Board of Revenue",
+          "special identification marker",
+          "digital system",
+          "accredited entities",
+          "customs officers",
+          "accredited operator"
+        ],
+        "AEO Accreditation Logo": [
+          "physical documentation",
+          "customs officials",
+          "AEO Accreditation Logo",
+          "authorized entity"
+        ],
+        "National Board of Revenue": [
+          "customs automation wing",
+          "accredited operators",
+          "customs digital system"
+        ]
+      },
+      "clause_clusters": [
+        0,
+        1,
+        18,
+        66,
+        87,
+        111,
+        750,
+        1002,
+        1356,
+        1880,
+        1881,
+        2190,
+        3839,
+        5267,
+        5274,
+        6890,
+        12275
+      ],
+      "source_file": "customs_gos_OCR/20250121/20250121_output.json",
+      "clause_date": "2025-01-21"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

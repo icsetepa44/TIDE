@@ -1,0 +1,168 @@
+{
+  "cluster_id": 393,
+  "cluster_label": "foreign currency",
+  "thread_index": 0,
+  "thread_id": "cluster_00393_t0",
+  "title": "Foreign Currency Handling and Disposal",
+  "summary": "The concept of foreign currency in customs evolves from a simple declaration requirement for passengers to a regulated asset requiring specific disposal and storage protocols. Over time, the legal framework shifts from mere reporting to mandatory deposit procedures with the central bank and formal judicial adjudication for seized currency.",
+  "evolution": {
+    "procedure": "Shifted from passive declaration to active custodial management and judicial disposal.",
+    "institutional_oversight": "Increased involvement of the Bangladesh Bank and internal judicial branches for asset management."
+  },
+  "timeline": [
+    {
+      "date": "2019-01-21",
+      "instrument": "Customs Directive",
+      "change": "Introduced mandatory deposit procedures for foreign currency into the Bangladesh Bank or treasury branches within 3 working days of receipt.",
+      "clause_ids": [
+        "20190121_১০/০১/২০১৯খ্রি:_clause_3"
+      ]
+    },
+    {
+      "date": "2021-12-20",
+      "instrument": "Customs Directive",
+      "change": "Established formal judicial adjudication requirements for the disposal of seized foreign currency.",
+      "clause_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_18"
+      ]
+    }
+  ],
+  "num_member_objects": 2,
+  "member_objects": [
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "নিষ্পত্তিয়োগ্য পণ্য সংরক্ষণ পদ্ধতি",
+      "text_id": "20190121_১০/০১/২০১৯খ্রি:_clause_3",
+      "resolved_text": "৪। নিষ্পত্তিয়োগ্য পণ্য সংরক্ষণ পদ্ধতি:\n(ক) মূল্যবান ধাতু (স্বর্ণ, রৌপ্য, প্লাটিনাম ইত্যাদি) এবং বৈদেশিক মুদ্রা কাস্টমস গুদামে গৃহীত হওয়ার ০৩ (তিন) কার্যদিবসের মধ্যে নিকটতস্থ বাংলাদেশ ব্যাংক অথবা ট্রেজারি ব্যাংক শাখায় জমা প্রদান করতে হবে। উক্তরূপে জমা প্রদান সম্ভব না হলে যথাসম্ভব দ্রুততার সাথে আইন ও বিধিগত আনুষ্ঠানিকতা পালন করে বাংলাদেশ ব্যাংকের স্থানীয় শাখা বা প্রধান শাখায় জমা প্রদান করতে হবে। তার পূর্বে এ জাতীয় পণ্য যথাযথ নিরাপত্তা নিশ্চিতকরণপূর্বক সংশ্লিষ্ট কাস্টমস কর্তৃপক্ষের মূল্যবান গুদামে সংরক্ষণ করতে হবে।\n(খ) অন্যান্য নিষ্পত্তিয়োগ্য পণ্য নিষ্পত্তির ধরণ (নিলাম, ধ্বংস বা অন্যবিধ) অনুসারে গুদামে সাজিয়ে রাখতে হবে যেন পরবর্তীতে সনাক্তকরণ বা পরিদর্শন কার্যক্রম গ্রহণ সহজ হয়।",
+      "entity_concepts": {
+        "Precious Metals and Currency": [
+          "Precious metals and foreign currency held in customs warehouses must be deposited at the nearest branch of Bangladesh Bank or a designated treasury bank within three working days of receipt.",
+          "If immediate deposit is not possible, these items must be stored securely in a dedicated customs warehouse until legal and procedural formalities are completed for their transfer to the central bank."
+        ],
+        "Customs Warehouse": [
+          "Customs warehouses serve as secure storage facilities for seized or pending goods, requiring strict adherence to safety protocols for high-value items.",
+          "For general goods awaiting disposal, the warehouse must be organized according to the method of disposal, such as auction or destruction, to facilitate easier identification and inspection by officials."
+        ],
+        "Disposal of Goods": [
+          "Goods slated for disposal must be organized in the warehouse based on their specific disposal category, whether it involves auctioning, destruction, or other mandated procedures, to ensure efficient post-disposal verification."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_620",
+      "entity_sub_entities": {
+        "Precious Metals and Currency": [
+          "precious metals",
+          "foreign currency",
+          "customs warehouses",
+          "Bangladesh Bank",
+          "treasury bank"
+        ],
+        "Customs Warehouse": [
+          "customs warehouses",
+          "seized goods",
+          "pending goods",
+          "high-value items",
+          "general goods"
+        ],
+        "Disposal of Goods": [
+          "goods",
+          "warehouse",
+          "auctioning",
+          "destruction"
+        ]
+      },
+      "clause_clusters": [
+        1,
+        74,
+        210,
+        393,
+        839,
+        872,
+        915,
+        1065,
+        1188,
+        2006,
+        2379,
+        3453,
+        4502,
+        4560,
+        8395,
+        13023
+      ],
+      "source_file": "customs_gos_OCR/20190121/20190121_output.json",
+      "clause_date": "2019-01-21"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_18",
+      "clause_title": "গুদামে রক্ষিত পণ্য নিষ্পত্তিকরণ পদ্ধতি",
+      "text_id": "20211220_২০ ডিসেম্বর, ২০২১_clause_18",
+      "resolved_text": "১৮ । গুদামে রক্ষিত পণ্য নিষ্পত্তিকরণ পদ্ধতি:\n\n(১) বিচারাদেশের মাধ্যমে নিষ্পত্তি: বৈদেশিক মুদ্রা, মূল্যবান ধাতু বা মূল্যবান পণ্যের বিচারিক কার্যক্রম আবশ্যিকভাবে বিচার শাখার মাধ্যমে নিষ্পত্তি করতে হবে। জিআর/টিজিআরের আওতাভুক্ত আটক পণ্যের ক্ষেত্রে আটককৃত পণ্য শুল্ক স্টেশনের বিমানবন্দর ইউনিট বা সংশ্লিষ্ট ভ্যাট বিভাগীয় দপ্তর বা কমিশনারেটসমূহের সদর দপ্তরের বিচার শাখা কর্তৃক সংক্ষিপ্ত বিচারাদেশের (Summary Adjudication) মাধ্যমে নিষ্পত্তি করা যাবে। তবে শর্ত থাকে যে, পণ্য মূল্য অনুযায়ী ন্যায়-নির্ণয়ন কর্মকর্তা বিচারাদেশ সম্পন্ন ও নিষ্পত্তি করবেন।\n\n(২) নিলামের মাধ্যমে বা অন্যবিধভাবে নিষ্পত্তি: আটককৃত ও বাজেয়াপ্তকৃত পণ্যের নিষ্পত্তি পদ্ধতি সংক্রান্ত স্থায়ী আদেশ, ২০২১ এর সংশ্লিষ্ট বিধান অনুযায়ী নিলামযোগ্য পণ্য নিষ্পত্তি করতে হবে। একই আদেশের বিধান অনুসরণ করে হস্তান্তরযোগ্য এবং ধ্বংসযোগ্য পণ্যও নিষ্পত্তি করতে হবে।",
+      "entity_concepts": {
+        "Adjudication of Customs Offences": [
+          "Cases involving foreign currency, precious metals, or valuable goods must be processed exclusively through the formal adjudication branch.",
+          "Seized goods under general record or transit procedures handled by airport units or commissionerate headquarters may be settled via summary adjudication, with the presiding officer determining the outcome based on the value of the goods."
+        ],
+        "Customs Offence Summary Trial": [
+          "This mechanism allows for the expedited resolution of seized goods at specific customs units, provided the adjudicating officer conducts the proceedings in accordance with the prescribed value thresholds."
+        ],
+        "Bonded Warehouse Operation": [
+          "The disposal of seized or confiscated goods stored in warehouses must strictly adhere to the operational procedures defined in the Standing Order on Disposal of Seized and Confiscated Goods, 2021.",
+          "Procedures covering the auctioning, transfer, or destruction of goods must follow the specific guidelines outlined in the relevant standing order."
+        ]
+      },
+      "extraction_status": "success",
+      "merged_clause_number": "clause_644",
+      "entity_sub_entities": {
+        "Adjudication of Customs Offences": [
+          "foreign currency",
+          "precious metals",
+          "valuable goods",
+          "seized goods",
+          "general record",
+          "transit procedures",
+          "airport units",
+          "commissionerate headquarters"
+        ],
+        "Customs Offence Summary Trial": [
+          "seized goods",
+          "customs units",
+          "adjudicating officer"
+        ],
+        "Bonded Warehouse Operation": [
+          "seized goods",
+          "confiscated goods",
+          "Standing Order on Disposal of Seized and Confiscated Goods, 2021",
+          "auctioning",
+          "transfer",
+          "destruction of goods"
+        ]
+      },
+      "clause_clusters": [
+        61,
+        210,
+        314,
+        393,
+        872,
+        909,
+        1886,
+        1887,
+        2619,
+        3453,
+        5432,
+        6488,
+        7022,
+        7283,
+        8406,
+        12403,
+        12933,
+        12973
+      ],
+      "source_file": "customs_gos_OCR/20211220/20211220_output.json",
+      "clause_date": "2021-12-20"
+    }
+  ],
+  "num_static_replicated_objects": 0,
+  "static_replicated_objects": []
+}

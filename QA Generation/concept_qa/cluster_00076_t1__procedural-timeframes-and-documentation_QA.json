@@ -1,0 +1,111 @@
+{
+  "thread_id": "cluster_00076_t1",
+  "cluster_id": 76,
+  "cluster_label": "date",
+  "title": "Procedural Timeframes and Documentation",
+  "source_num_member_objects": 2,
+  "num_qa_pairs": 6,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "According to the 2013 Amendment to Rules, what was the required timeframe for an inspection agency to amend a certificate of inspection?",
+      "options": [
+        "10 working days",
+        "30 working days",
+        "60 working days",
+        "90 working days"
+      ],
+      "answer_index": 0,
+      "answer": "10 working days",
+      "explanation": "The 2013-06-06 Amendment to Rules established that amendments to certificates must be made within 10 working days of issuance and before the filing of the bill of entry.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument established the 60-day window for filing and disposing of administrative review applications for advance rulings?",
+      "options": [
+        "2013 Amendment to Rules",
+        "Customs Ruling (Advance) Rules, 2025",
+        "Administrative Review Act, 2024",
+        "Certificate Inspection Protocol, 2025"
+      ],
+      "answer_index": 1,
+      "answer": "Customs Ruling (Advance) Rules, 2025",
+      "explanation": "The Customs Ruling (Advance) Rules, 2025, dated 2025-06-02, introduced the 60-day requirement for both filing and finalizing review applications.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_7",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_14"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Under the Customs Ruling (Advance) Rules, 2025, what is the deadline for the Advance Ruling Unit to finalize a review application after receipt?",
+      "options": [
+        "10 working days",
+        "30 working days",
+        "60 working days",
+        "90 working days"
+      ],
+      "answer_index": 2,
+      "answer": "60 working days",
+      "explanation": "According to the 2025-06-02 Customs Ruling (Advance) Rules, 2025, the Advance Ruling Unit is mandated to dispose of and finalize review applications within 60 working days of receipt.",
+      "clause_text_ids": [
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_14"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Before the 2025-06-02 Customs Ruling (Advance) Rules were introduced, what was the primary procedural timeframe constraint for certificate amendments established in 2013?",
+      "options": [
+        "60 working days",
+        "10 working days",
+        "5 working days",
+        "15 working days"
+      ],
+      "answer_index": 1,
+      "answer": "10 working days",
+      "explanation": "The 2013-06-06 Amendment to Rules set a 10-day window for amending certificates, which predates the 60-day administrative review window introduced in 2025.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_7",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_14"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An importer received a certificate of inspection in 2014 and needed to amend it. Later, in 2025, the same importer sought a review of a decision regarding an advance ruling.",
+      "question": "How did the procedural timeframe for addressing administrative changes or reviews evolve between the 2013 rule and the 2025 rule?",
+      "answer": "The procedural timeframe expanded from a 10-working-day window for amending certificates under the 2013 rules to a 60-working-day window for filing and disposing of administrative review applications under the 2025 rules.",
+      "clauses_involved": [
+        "2013-06-06",
+        "2025-06-02"
+      ],
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_7",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_14"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2013-06-06",
+      "relative_offset": "nearly 12 years later",
+      "question": "Following the 2013-06-06 amendment that established a 10-day window for amending certificates, how did the procedural timeframe for filing administrative review applications change nearly 12 years later?",
+      "answer": "In 2025-06-02, under the Customs Ruling (Advance) Rules, 2025, the timeframe for filing and disposing of administrative review applications was established as 60 days.",
+      "clause_text_ids": [
+        "20130606_156-AIN_2013_2443-Customs_০৬ জুন, ২০১৩_clause_7",
+        "20250602_229-AIN_2025_51_Customs_২৯ মে, ২০২৫_clause_14"
+      ]
+    }
+  ]
+}

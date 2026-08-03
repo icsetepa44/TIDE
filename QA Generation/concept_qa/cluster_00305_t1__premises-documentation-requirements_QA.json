@@ -1,0 +1,166 @@
+{
+  "thread_id": "cluster_00305_t1",
+  "cluster_id": 305,
+  "cluster_label": "premises",
+  "title": "Premises Documentation Requirements",
+  "source_num_member_objects": 3,
+  "num_qa_pairs": 13,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 6,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 5,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "scenario_short_answer",
+      "scenario": "It is mid-2018, and our firm is eager to streamline our supply chain operations by securing Authorized Economic Operator status. As we prepare our comprehensive dossier for the Commissioner, we recognize that demonstrating the integrity of our physical facilities and internal management is paramount. We are currently compiling the mandatory paperwork to formally initiate this rigorous certification process. What specific form and document must be submitted to the Commissioner to provide information regarding business premises and organizational structure?",
+      "question": "What specific form and document must be submitted to the Commissioner to provide information regarding business premises and organizational structure?",
+      "answer": "Applicants must submit Form-Ka along with a completed Self-Assessment Questionnaire (SAQ) and all supporting documentation.",
+      "date_or_instrument": "2018-06-28",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_6"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Our small trading enterprise is finalizing the necessary paperwork to secure a formal customs license, a crucial step for our upcoming import operations. To satisfy the licensing authorities, we must demonstrate that our administrative operations are anchored in a stable and legally recognized location. We have prepared our trade license and trade association membership, but we are currently organizing the specific legal proof of our workspace occupancy. What documentation is required to verify the business premises for an office?",
+      "question": "What documentation is required to verify the business premises for an office?",
+      "answer": "The applicant must provide a copy of the ownership deed or the rental agreement for the office space.",
+      "date_or_instrument": "2025-02-17",
+      "clause_text_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "As we prepare our application for AEO status in early 2025, our management team is diligently reviewing the updated guidelines to ensure we meet the highest standards of compliance. We understand that the scrutiny of our facilities has become more rigorous to ensure the security of the supply chain. We are curious about the mechanics of the current vetting procedure and how the authorities confirm the validity of our operational site. How has the processing of AEO applications changed regarding the evaluation of premises and documentation?",
+      "question": "How has the processing of AEO applications changed regarding the evaluation of premises and documentation?",
+      "answer": "The process now involves a formal evaluation by specialized teams formed by the Director General, which includes both a document review and an on-site inspection of the applicant's premises.",
+      "date_or_instrument": "2025-02-16",
+      "clause_text_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "Our logistics firm has recently secured a designated area within the customs station to facilitate the efficient handling of our incoming cargo. To finalize our customs licensing requirements, we must now provide formal evidence that we have been granted the legal right to occupy and store goods at this specific location. We are currently gathering the paperwork issued by the station authorities to substantiate our claim to this area. What specific document must be submitted to prove the right to store goods at the customs station?",
+      "question": "What specific document must be submitted to prove the right to store goods at the customs station?",
+      "answer": "A copy of the allotment letter for the space provided by the appropriate authority within the customs station.",
+      "date_or_instrument": "2025-02-17",
+      "clause_text_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "After submitting our extensive documentation for AEO certification in 2025, our team is eager to ensure that every aspect of our premises meets the required security standards. We understand that a rigorous evaluation process is underway, but we need clarity on how the authorities will coordinate with us during the site inspection phase. We want to ensure our representative is prepared to interface directly with the department's authorized contact person. Who is responsible for communicating with the applicant during the evaluation of their premises and other conditions?",
+      "question": "Who is responsible for communicating with the applicant during the evaluation of their premises and other conditions?",
+      "answer": "The evaluation team assigns a designated focal point officer to communicate with the applicant institution.",
+      "date_or_instrument": "2025-02-16",
+      "clause_text_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "scenario_short_answer",
+      "scenario": "As we launch our new importing venture in 2025, we are navigating the complex requirements for obtaining our official customs license. The licensing board requires absolute proof of our fiscal responsibility and our integration into the national tax system. We are currently reviewing our corporate profile to ensure we include the two essential identification numbers that verify our tax and VAT compliance status. Which two registration numbers are mandatory for the customs licensing application to verify tax and VAT compliance?",
+      "question": "Which two registration numbers are mandatory for the customs licensing application to verify tax and VAT compliance?",
+      "answer": "The Tax Identification Number (TIN) and the Value Added Tax (VAT) registration number.",
+      "date_or_instrument": "2025-02-17",
+      "clause_text_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2018-06-28 Application Guidelines, applicants must submit a Self-Assessment Questionnaire (SAQ) along with Form-Ka to the Commissioner to provide details on their organizational structure and security procedures.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The 2018-06-28 Application Guidelines mandate that applicants use Form-Ka and include a completed Self-Assessment Questionnaire (SAQ) with supporting documentation to the Commissioner.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-02-16 AEO Guidelines introduced a system where the Director General of the Center forms evaluation teams to process applications, but these teams do not conduct on-site inspections of premises.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "these teams do not conduct on-site inspections of premises",
+      "correct_fact": "the process involves both a document review and an on-site inspection of the applicant's premises and logistics processes",
+      "answer": "This statement is inaccurate. According to the 2025-02-16 AEO Guidelines, the evaluation process specifically includes both a document review and an on-site inspection of the applicant's premises and logistics processes to verify the provided information.",
+      "clause_text_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the undated Express Cargo Clearance Rules 2024, applicants for customs licensing are required to provide proof of premises for storage or office use, such as ownership deeds or rental agreements.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. The undated Express Cargo Clearance Rules 2024 require applicants to submit documentation including office space ownership deeds or rental agreements and evidence of premises for storage.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_6"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2018-06-28 Application Guidelines established that evaluation teams are responsible for the formal verification of premises as part of the AEO recognition process.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "2018-06-28 Application Guidelines",
+      "correct_fact": "2025-02-16 AEO Guidelines",
+      "answer": "This statement is inaccurate. The formal evaluation team structure for processing applications and verifying premises was established by the 2025-02-16 AEO Guidelines, not the 2018-06-28 guidelines.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_6",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2025-02-16 AEO Guidelines mandate that for every application, the Director General of the Center must appoint a focal point officer from the evaluation team to communicate with the applicant institution.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "This statement is accurate. According to the 2025-02-16 AEO Guidelines, the Director General of the Center is responsible for appointing a focal point officer from the evaluation team to act as the primary contact for the applicant.",
+      "clause_text_ids": [
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "An entity applied for Authorized Economic Operator (AEO) status in 2019 by submitting Form-Ka and a Self-Assessment Questionnaire (SAQ) to the Commissioner. In 2025, the entity decides to re-apply for AEO status under the current guidelines.",
+      "question": "How has the procedural handling of the entity's premises verification and application review changed between their 2019 application and the current 2025 framework?",
+      "answer": "While the 2018 guidelines focused on the applicant's submission of the SAQ and supporting documentation to the Commissioner, the 2025 framework introduced a formal evaluation team structure. This team now conducts a comprehensive review, including both a document review and an on-site inspection of the applicant's premises to verify the information provided.",
+      "clauses_involved": [
+        "2018-06-28",
+        "2025-02-16"
+      ],
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_6",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2018-06-28",
+      "relative_offset": "seven years later",
+      "question": "In 2018-06-28, the application guidelines required the submission of a Self-Assessment Questionnaire. How did the premises verification process change seven years later?",
+      "answer": "In the 2025-02-16 AEO Guidelines, the process evolved to include a formal evaluation team structure for processing applications and conducting a comprehensive review of the applicant's customs compliance, moving beyond the simple submission of questionnaires.",
+      "clause_text_ids": [
+        "20180628_214-AIN_2018_37_Customs_28 June, 2018_clause_6",
+        "20250216_SRO-217-Ain-2024-67-Customs_৬ জুন, ২০২৪_clause_7"
+      ]
+    }
+  ]
+}

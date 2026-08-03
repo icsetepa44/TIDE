@@ -1,0 +1,142 @@
+{
+  "thread_id": "cluster_00495_t1",
+  "cluster_id": 495,
+  "cluster_label": "persons",
+  "title": "Customs Enforcement and Procedural Authority over Persons",
+  "source_num_member_objects": 11,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the 2021-12-20 Warehouse Directive, the designated controlling officer is responsible for conducting random body searches of warehouse staff and any other persons entering or leaving the warehouse area.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "The statement is accurate as per the 2021-12-20 Warehouse Directive.",
+      "answer": "The statement is accurate. The 2021-12-20 Warehouse Directive mandates that the controlling officer must conduct random body searches of staff and persons entering or leaving the warehouse.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under Section 79B of the Customs Act 1969, any person is permitted to transmit information to the Customs computerised system provided they have a valid government-issued ID.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "provided they have a valid government-issued ID",
+      "correct_fact": "provided they are registered by the Commissioner of Customs as a user",
+      "answer": "The statement is inaccurate. According to Section 79B, access to the Customs computerised system is restricted to persons formally registered as users by the Commissioner of Customs, not merely those with a government-issued ID.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_160",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_187",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_261",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_91",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_184",
+        "customs-act-1969-english_8th March, 1969_clause_190",
+        "customs-act-1969-english_8th March, 1969_clause_192",
+        "customs-act-1969-english_8th March, 1969_clause_193",
+        "customs-act-1969-english_8th March, 1969_clause_94"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Section 166 of the Customs Act 1969 empowers a gazetted officer of customs to summon any person to provide evidence or produce documents relevant to smuggling inquiries.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "The statement is accurate as per Section 166 of the Customs Act 1969.",
+      "answer": "The statement is accurate. Section 166 of the Customs Act 1969 authorizes gazetted customs officers to summon persons for evidence or document production in connection with smuggling inquiries.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_160",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_187",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_261",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_91",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_184",
+        "customs-act-1969-english_8th March, 1969_clause_190",
+        "customs-act-1969-english_8th March, 1969_clause_192",
+        "customs-act-1969-english_8th March, 1969_clause_193",
+        "customs-act-1969-english_8th March, 1969_clause_94"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "If two or more persons are found together and any one of them possesses goods liable to confiscation, the Customs Act 1969 stipulates that only the person in direct physical possession of the goods is guilty of an offence.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "only the person in direct physical possession of the goods is guilty of an offence",
+      "correct_fact": "every person in that group who is aware of the situation is deemed guilty of an offence",
+      "answer": "The statement is inaccurate. Per Section 178 of the Customs Act 1969, if two or more persons are found together and one possesses contraband, every person in the group who is aware of the situation is deemed guilty of the offence, regardless of who has physical possession.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_160",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_187",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_261",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_91",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_184",
+        "customs-act-1969-english_8th March, 1969_clause_190",
+        "customs-act-1969-english_8th March, 1969_clause_192",
+        "customs-act-1969-english_8th March, 1969_clause_193",
+        "customs-act-1969-english_8th March, 1969_clause_94"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, an appropriate officer may search a person without a warrant if they have reasonable grounds to believe the person is carrying goods liable to confiscation within a customs-area.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": "The statement is accurate as per Section 158 of the Customs Act 1969.",
+      "answer": "The statement is accurate. Section 158 of the Customs Act 1969 grants the appropriate officer the authority to search any person on reasonable grounds if they are within the limits of a customs-area and suspected of carrying goods liable to confiscation.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_160",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_187",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_261",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_91",
+        "customs-act-1969-english_8th March, 1969_clause_157",
+        "customs-act-1969-english_8th March, 1969_clause_184",
+        "customs-act-1969-english_8th March, 1969_clause_190",
+        "customs-act-1969-english_8th March, 1969_clause_192",
+        "customs-act-1969-english_8th March, 1969_clause_193",
+        "customs-act-1969-english_8th March, 1969_clause_94"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The 2021-12-20 Warehouse Directive requires that for emergency entries into a warehouse, the warehouse officer must be present and record the entry in the official register.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "the warehouse officer must be present",
+      "correct_fact": "the controlling officer must be present",
+      "answer": "The statement is inaccurate. According to the 2021-12-20 Warehouse Directive, the controlling officer (not the warehouse officer) must be present during emergency entries by non-warehouse personnel to monitor the entry and record details in the register.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 1969 Customs Act, all persons entering a bonded warehouse must undergo mandatory physical body searches conducted by the controlling officer as part of the digital registration requirements established in 1969 to secure the customs computerised system.",
+      "question": "Why is the statement regarding the 1969 origin of body search requirements and digital registration in bonded warehouses factually incorrect based on the provided policy evolution?",
+      "conflict": "The statement conflates the 1969 Customs Act with the 2021 Warehouse Directive and inaccurately attributes modern digital registration requirements to the 1969 legislation.",
+      "answer": "The requirement for physical body searches at bonded warehouse entry points was established by the Warehouse Directive on 2021-12-20, not the 1969 Customs Act. Furthermore, while the Customs Act 1969 covers general search powers (Section 158) and digital system access (Section 79B), the specific procedural requirements for warehouse security and digital registration are distinct modern developments that do not originate from the 1969 Act.",
+      "clause_text_ids": [
+        "20211220_২০ ডিসেম্বর, ২০২১_clause_12"
+      ]
+    }
+  ]
+}

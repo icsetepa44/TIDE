@@ -1,0 +1,170 @@
+{
+  "thread_id": "cluster_00330_t1",
+  "cluster_id": 330,
+  "cluster_label": "vendors",
+  "title": "Vendor Eligibility and Operational Requirements",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 4,
+    "event_sorting": 1,
+    "open_ended": 0,
+    "perturbation_detection": 0,
+    "context_misalignment": 0,
+    "temporal_scenario_short_answer": 1,
+    "relative_time_qa": 1
+  },
+  "qa_pairs": [
+    {
+      "type": "temporal_mcq",
+      "question": "Prior to the 2022 regulatory changes, how was a 'vendor' defined in the context of motorcycle production according to the 2017 SRO?",
+      "options": [
+        "A strictly defined Industrial IRC holder with VAT compliance",
+        "A participant in motorcycle production",
+        "A Category-1 refrigerator manufacturing entity",
+        "An entity approved by a committee of VAT and Industry officials"
+      ],
+      "answer_index": 1,
+      "answer": "A participant in motorcycle production",
+      "explanation": "The 2017-06-01 SRO defined a vendor simply as a participant in motorcycle production, before the 2022 requirements for Industrial IRC and VAT compliance were introduced.",
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_3",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which instrument introduced the requirement for a formal committee-led site verification process for motorcycle manufacturers and vendors?",
+      "options": [
+        "SRO 2017 (2017-06-01)",
+        "SRO 2022 (2022-06-28)",
+        "SRO 2022 (2022-06-09)",
+        "None of the above"
+      ],
+      "answer_index": 2,
+      "answer": "SRO 2022 (2022-06-09)",
+      "explanation": "The 2022-06-09 SRO (src=20220609_139-AIN_2022_87_Customs_output) mandated that the National Board of Revenue form a verification committee to evaluate factory operations before granting duty concessions.",
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_3",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "What specific eligibility criteria for vendors were established in the 2022 customs notifications?",
+      "options": [
+        "Only a 13-digit TIN",
+        "Industrial IRC holder and VAT compliant status",
+        "Registration with the Bangladesh Export Processing Zones Authority only",
+        "Proof of factory ownership for at least five years"
+      ],
+      "answer_index": 1,
+      "answer": "Industrial IRC holder and VAT compliant status",
+      "explanation": "Starting from the 2022-06-09 SROs, vendors were required to be both Industrial IRC holders and VAT compliant to qualify for import concessions.",
+      "clause_text_ids": [
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_mcq",
+      "question": "Which document refined the category definitions for refrigerator and freezer vendors?",
+      "options": [
+        "SRO 2017-06-01",
+        "SRO 2022-06-09",
+        "SRO 2022-06-28",
+        "The 2022-06-09 motorcycle manufacturing regulation"
+      ],
+      "answer_index": 2,
+      "answer": "SRO 2022-06-28",
+      "explanation": "The timeline explicitly states that the 2022-06-28 SRO was responsible for the refinement of category definitions for refrigerator/freezer vendors.",
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_3",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "temporal_scenario_short_answer",
+      "scenario": "A motorcycle parts vendor has been operating since 2016, importing raw materials under the concessional duty benefits established in the 2017 SRO. In mid-2022, the vendor intends to continue these imports but notices the new requirements introduced in the June 2022 SRO regarding 'Industrial IRC holder' and 'VAT compliant' status, as well as the new committee-based site verification process.",
+      "question": "How has the eligibility and approval process for this vendor changed between the 2017 and 2022 regulatory frameworks?",
+      "answer": "Under the 2017 SRO, vendors were defined simply as participants in motorcycle production. By 2022, eligibility became restricted to entities holding a valid Industrial IRC and maintaining VAT compliance. Furthermore, the approval process shifted from simple participation to a formal requirement of applying to the NBR Chairman, followed by a mandatory site verification by a committee of VAT and Ministry of Industry officials.",
+      "clauses_involved": [
+        "2017-06-01",
+        "2022-06-09"
+      ],
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_3",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "relative_time_qa",
+      "seed_time": "2017-06-01",
+      "relative_offset": "five years later",
+      "question": "Five years later, what new mandatory requirements were introduced for vendors to qualify for import benefits under the motorcycle production framework?",
+      "answer": "In 2022-06-09 (SRO 2022), the requirements shifted from a general definition to mandatory 'Industrial IRC holder' and 'VAT compliant' status, alongside a formal committee-led site verification process.",
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_3",
+        "20220609_120-AIN_2022_68_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ]
+    },
+    {
+      "type": "event_sorting",
+      "question": "Arrange these events in chronological order (earliest first).",
+      "events_shuffled": [
+        "The National Board of Revenue mandates that motorcycle manufacturers and vendors undergo a committee-led physical site verification process to obtain duty concessions for importing raw materials.",
+        "Vendors are defined as participants in motorcycle production eligible for concessional duty benefits on imported raw materials or components.",
+        "Refrigerator and freezer vendors are formally categorized under specific eligibility definitions alongside Industrial IRC and VAT compliance requirements.",
+        "Motorcycle manufacturers and vendors are required to maintain valid Industrial IRC holder status and VAT compliance to qualify for import concessions."
+      ],
+      "answer_ordered": [
+        {
+          "event": "Vendors are defined as participants in motorcycle production eligible for concessional duty benefits on imported raw materials or components.",
+          "date": "2017-06-01"
+        },
+        {
+          "event": "Motorcycle manufacturers and vendors are required to maintain valid Industrial IRC holder status and VAT compliance to qualify for import concessions.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "The National Board of Revenue mandates that motorcycle manufacturers and vendors undergo a committee-led physical site verification process to obtain duty concessions for importing raw materials.",
+          "date": "2022-06-09"
+        },
+        {
+          "event": "Refrigerator and freezer vendors are formally categorized under specific eligibility definitions alongside Industrial IRC and VAT compliance requirements.",
+          "date": "2022-06-28"
+        }
+      ],
+      "clause_text_ids": [
+        "20170601_155-AIN__1 June, 2017_clause_3",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_2",
+        "20220609_139-AIN_2022_87_Customs_১ জুন, ২০২২_clause_3",
+        "20220628_199-_2022_107_২৮ জুন, ২০২২ খ্রিষ্টাব্দ_clause_2"
+      ],
+      "clause_source_files": [
+        "customs_sros_OCR/20170601_155-AIN_/20170601_155-AIN__output.json",
+        "customs_sros_OCR/20220609_139-AIN_2022_87_Customs/20220609_139-AIN_2022_87_Customs_output.json",
+        "customs_sros_OCR/20220628_199-_2022_107/20220628_199-_2022_107_output.json"
+      ],
+      "thread_source_file": "cluster_00330_t1__vendor-eligibility-and-operational-requirements.json"
+    }
+  ]
+}

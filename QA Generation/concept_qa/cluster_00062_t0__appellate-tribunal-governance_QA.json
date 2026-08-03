@@ -1,0 +1,130 @@
+{
+  "thread_id": "cluster_00062_t0",
+  "cluster_id": 62,
+  "cluster_label": "President",
+  "title": "Appellate Tribunal Governance",
+  "source_num_member_objects": 5,
+  "num_qa_pairs": 7,
+  "qa_counts_by_type": {
+    "scenario_short_answer": 0,
+    "temporal_mcq": 0,
+    "event_sorting": 0,
+    "open_ended": 0,
+    "perturbation_detection": 6,
+    "context_misalignment": 1,
+    "temporal_scenario_short_answer": 0,
+    "relative_time_qa": 0
+  },
+  "qa_pairs": [
+    {
+      "type": "perturbation_detection",
+      "statement": "According to the Customs Act 1969, the 'prescribed date' for the Appellate Tribunal's governance framework is defined as the first day of October, 1998.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "1998",
+      "correct_fact": "1995",
+      "answer": "The statement is inaccurate. The 'prescribed date' defined in the Customs Act 1969 is the first day of October, 1995, not 1998.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_278",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_288",
+        "customs-act-1969-english_8th March, 1969_clause_237",
+        "customs-act-1969-english_8th March, 1969_clause_240",
+        "customs-act-1969-english_8th March, 1969_clause_250"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The President of the Customs, Excise and VAT Appellate Tribunal is the administrative head responsible for constituting benches and assigning members.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The President is defined as the administrative head responsible for bench constitution and member assignment.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_278",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_288",
+        "customs-act-1969-english_8th March, 1969_clause_237",
+        "customs-act-1969-english_8th March, 1969_clause_240",
+        "customs-act-1969-english_8th March, 1969_clause_250"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "Under the Customs Act 1969, a special bench constituted by the President for hearing appeals related to the rate of duty must consist of at least three members.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "three members",
+      "correct_fact": "two members",
+      "answer": "The statement is inaccurate. According to the procedural rules, a special bench for such appeals must consist of not less than two members, including at least one technical and one judicial member.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_278",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_288",
+        "customs-act-1969-english_8th March, 1969_clause_237",
+        "customs-act-1969-english_8th March, 1969_clause_240",
+        "customs-act-1969-english_8th March, 1969_clause_250"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "To be appointed as a technical member of the Appellate Tribunal, an individual must have served as a Commissioner of Customs or an equivalent post for at least one year.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. The Customs Act 1969 requires that a technical member have held or be holding the post of Member of the Board or Commissioner of Customs (or equivalent) for at least one year.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_278",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_288",
+        "customs-act-1969-english_8th March, 1969_clause_237",
+        "customs-act-1969-english_8th March, 1969_clause_240",
+        "customs-act-1969-english_8th March, 1969_clause_250"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "The Customs Appellate Tribunal is deemed a civil court and is granted powers under the Code of Criminal Procedure 1908 regarding the production of documents.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": true,
+      "perturbed_fact": "Code of Criminal Procedure 1908",
+      "correct_fact": "Code of Civil Procedure 1908",
+      "answer": "The statement is inaccurate. The Tribunal is granted powers regarding document production and witness attendance under the Code of Civil Procedure 1908, not the Code of Criminal Procedure.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_278",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_288",
+        "customs-act-1969-english_8th March, 1969_clause_237",
+        "customs-act-1969-english_8th March, 1969_clause_240",
+        "customs-act-1969-english_8th March, 1969_clause_250"
+      ]
+    },
+    {
+      "type": "perturbation_detection",
+      "statement": "A judicial member of the Appellate Tribunal must have held a judicial office in the capacity of a District and Sessions Judge for at least ten years.",
+      "question": "Is this statement accurate? If not, identify and correct the error.",
+      "is_perturbed": false,
+      "perturbed_fact": null,
+      "correct_fact": null,
+      "answer": "The statement is accurate. Per the Customs Act 1969, a judicial member must have held a judicial office as a District and Sessions Judge for at least ten years.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_278",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_288",
+        "customs-act-1969-english_8th March, 1969_clause_237",
+        "customs-act-1969-english_8th March, 1969_clause_240",
+        "customs-act-1969-english_8th March, 1969_clause_250"
+      ]
+    },
+    {
+      "type": "context_misalignment",
+      "misaligned_context": "According to the 2024 amendment of the Customs Act, the 'appointed day' for the establishment of the Appellate Tribunal's procedural authority and the definition of the President's role was set as January 1st, 2024.",
+      "question": "What is the actual 'appointed day' defined for the Appellate Tribunal's governance under the Customs Act, 1969?",
+      "conflict": "The misaligned context incorrectly cites a 2024 amendment and date, whereas the official documentation establishes the 'appointed day' as October 1, 1995.",
+      "answer": "The 'appointed day' is defined as the first day of October, 1995, as established in the Customs Act, 1969 (Chapter XIX) and reinforced in section 196N.",
+      "clause_text_ids": [
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_278",
+        "customs-act-1969-bangla_৮ই মার্চ, ১৯৬৯_clause_288",
+        "customs-act-1969-english_8th March, 1969_clause_237",
+        "customs-act-1969-english_8th March, 1969_clause_240",
+        "customs-act-1969-english_8th March, 1969_clause_250"
+      ]
+    }
+  ]
+}
