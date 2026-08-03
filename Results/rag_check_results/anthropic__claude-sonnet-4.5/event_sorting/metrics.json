@@ -1,0 +1,48 @@
+{
+  "dataset": "event_sorting",
+  "model": "anthropic/claude-sonnet-4.5",
+  "generated_at": "2026-07-20 22:07:56",
+  "n_dataset_total": 207,
+  "n_with_records": 50,
+  "n_api_failed": 0,
+  "n_evaluated": 50,
+  "n_parsed": 34,
+  "format_failure_count": 16,
+  "judge_assisted_parse_count": 0,
+  "n_gt_mapping_failed": 0,
+  "exact_match_accuracy": 0.26,
+  "exact_match_accuracy_parsed_only": 0.3824,
+  "kendall_tau_mean": 0.5235,
+  "pairwise_order_accuracy": 0.7618,
+  "pairwise_order_accuracy_counting_failures_as_zero": 0.518,
+  "scoring": "Deterministic permutation comparison. exact_match_accuracy is over all evaluated instances (unparseable orderings count as wrong); kendall_tau_mean and pairwise_order_accuracy are over parseable instances. Precision/recall/F1 are not meaningful for a permutation task and are intentionally not reported.",
+  "evaluation_mode": "rag_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 50,
+    "by_context_status": {
+      "full": 50
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 9,
+      "median": 10.0,
+      "max": 10,
+      "mean": 10.0
+    },
+    "context_char_count": {
+      "min": 1394,
+      "median": 46077.5,
+      "max": 302083,
+      "mean": 74756.3
+    },
+    "context_token_estimate": {
+      "min": 348,
+      "median": 11519.0,
+      "max": 75520,
+      "mean": 18688.7
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 0,
+    "n_documents_dropped_total": 0
+  }
+}

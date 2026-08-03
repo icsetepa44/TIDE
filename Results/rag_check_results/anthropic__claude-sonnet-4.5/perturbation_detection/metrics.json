@@ -1,0 +1,88 @@
+{
+  "dataset": "perturbation_detection",
+  "model": "anthropic/claude-sonnet-4.5",
+  "generated_at": "2026-07-20 22:07:56",
+  "n_dataset_total": 498,
+  "n_with_records": 50,
+  "n_api_failed": 0,
+  "detection": {
+    "n_evaluated": 50,
+    "n_detection_format_failures": 1,
+    "class_balance_evaluated": {
+      "perturbed": 29,
+      "accurate": 21
+    },
+    "positive_class": "incorrect/perturbed statement",
+    "accuracy": 0.82,
+    "precision": 0.8182,
+    "recall": 0.931,
+    "f1": 0.871,
+    "confusion": {
+      "tp": 27,
+      "fp": 6,
+      "tn": 14,
+      "fn": 2
+    }
+  },
+  "explanation": {
+    "n_perturbed_evaluated": 29,
+    "n_detected_perturbed": 27,
+    "n_explanations_scored": 27,
+    "n_explanation_judge_error": 0,
+    "n_false_positive_explanations_autofailed": 6,
+    "mean_explanation_final_score_over_detected": 0.8611,
+    "mean_explanation_final_score_over_all_perturbed": 0.8017,
+    "localization_rate": 0.963,
+    "correction_given_rate": 1.0,
+    "correction_correct_rate": 0.8889,
+    "n_uncertain": 0,
+    "n_confidence_scored": 27,
+    "explanation_judge_confidence_mean": 100.0,
+    "note": "Rubric v2: explanation_final_score = base rubric gated on perturbation_localized (unlocalized explanations score 0.0). mean_explanation_final_score_over_all_perturbed counts missed detections and judge errors as 0.0."
+  },
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 27,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "metrics_caveat": "The task description assumed a single-class ground truth (all statements incorrect), under which precision would be trivially 1.0 and F1 degenerate, leaving recall (= detection rate) as the meaningful metric. The ACTUAL dataset is two-class and nearly balanced (is_perturbed: 246 true / 240 false), so accuracy, precision, recall, and F1 (positive class = perturbed/incorrect statement) are all meaningful here. Recall over the perturbed class still equals the error-detection rate.",
+  "evaluation_mode": "rag_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 50,
+    "by_context_status": {
+      "full": 50
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 10,
+      "median": 10.0,
+      "max": 10,
+      "mean": 10
+    },
+    "context_char_count": {
+      "min": 2949,
+      "median": 22922.0,
+      "max": 213237,
+      "mean": 50075.5
+    },
+    "context_token_estimate": {
+      "min": 737,
+      "median": 5730.0,
+      "max": 53309,
+      "mean": 12518.5
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 0,
+    "n_documents_dropped_total": 0
+  }
+}
