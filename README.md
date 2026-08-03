@@ -1,6 +1,5 @@
 # 🌊 Time Present and Time Past: Benchmarking Large Language Models on Temporally Evolving Document Understanding
 
-## Under Review at ACL Rolling Review (August 2026 Cycle) — Anonymous Submission
 
 ![QA Pairs](https://img.shields.io/badge/QA%20Pairs-3%2C050-blue)
 ![Task Types](https://img.shields.io/badge/Task%20Types-8-orange)
