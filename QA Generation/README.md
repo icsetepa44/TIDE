@@ -11,8 +11,6 @@ entity clustering → evolving-concept threads → Q&A generation** (9 question 
 > *judge* of entity equivalence and of how a concept evolves. Every generated Q&A pair
 > is grounded in specific dated clauses.
 
-📖 **Full technical walkthrough:** [docs/PIPELINE.md](docs/PIPELINE.md)
-
 ---
 
 ## What's in the box
