@@ -3,6 +3,11 @@
 # ── Secrets — never commit API keys (matches at any depth) ──
 all_api.txt
 gemini_api.txt
+paid_api.txt
+api_key_status.txt
+
+# ── OCR run logs — contain local absolute paths (anonymity) ──
+*_pipeline_log.txt
 *.key
 .env
 .env.*

@@ -1,0 +1,52 @@
+{
+  "source_file": "customs_sros_OCR/20130701_217-AIN_2013_2457-Customs/20130701_217-AIN_2013_2457-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার, অর্থ মন্ত্রণালয়, অভ্যন্তরীণ সম্পদ বিভাগ",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ : ১৭ আষাঢ়, ১৪২০ বঙ্গাব্দ/১ জুলাই, ২০১৩ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Internal Resources Division": [
+          "The Internal Resources Division is the government body responsible for issuing this customs notification."
+        ],
+        "Ministry of Finance": [
+          "This notification is issued under the authority of the Ministry of Finance."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ২১৭-আইন/২০১৩/২৪৫৭/কাস্টমস",
+      "text_id": "20130701_217-AIN_2013_2457-Customs_১ জুলাই, ২০১৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ২১৭-আইন/২০১৩/২৪৫৭/কাস্টমস।- Customs Act, 1969 (Act IV of 1969) এর section 25 এর sub-section (3) এ প্রদত্ত ক্ষমতাবলে সরকার, অত্র বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ মোতাবেক ০৬ জুন, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং- ১৪৯-আইন/২০১৩/২৪৩৬/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের -\n\n(ক) শর্ত ১ এর পর নিম্নবর্ণিত ব্যাখ্যা সন্নিবেশিত হইবে, যথা :\n\n“ব্যাখ্যা :- সংশ্লিষ্ট মোটর গাড়ির প্রথম রেজিস্ট্রেশনের তারিখ উল্লেখ না থাকিলে যে মাসে গাড়িটি প্রথম রেজিস্ট্রেশন করা হইয়াছিল সে মাসের পরবর্তী মাসের প্রথম তারিখকে এর উদ্দেশ্য পূরণকল্পে রেজিস্ট্রেশনের তারিখ হিসাবে গণ্য করিতে হইবে।”\n\n(খ) শর্ত ২ ও ব্যাখ্যা এর পরিবর্তে নিম্নরূপ শর্ত ২ প্রতিস্থাপিত হইবে, যথা:-\n\n“২। অবচয় প্রদানের উদ্দেশ্যে বয়স গণনার ক্ষেত্রে, সংশ্লিষ্ট গাড়ির চেসিস (Chassis) বুকে লিপিবদ্ধ তৈরি সনের পরবর্তী বৎসরের প্রথম দিন হইতে গাড়ির জাহাজীকরণের দিন পর্যন্ত সময়কে গণনা করিতে হইবে:\n\nতবে শর্ত থাকে যে, উক্ত অবচয় প্রদানের উদ্দেশ্যে এক বৎসরের অধিক পুরাতন গাড়ির বয়স গণনার ক্ষেত্রে ৬ (ছয়) মাসের অধিক হইলে পরবর্তী পূর্ণ বৎসর হিসাবে গণ্য করিতে হইবে।”।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is exercising its powers under Section 25(3) of the Act to amend a previously issued customs notification."
+        ],
+        "S.R.O. 149-AIN/2013": [
+          "This existing customs notification is being amended by the current order to refine provisions related to the valuation and depreciation of motor vehicles.",
+          "Specific conditions regarding the calculation of vehicle age and registration dates are being inserted or replaced within this instrument."
+        ],
+        "Motor Vehicle": [
+          "For valuation purposes, if the exact date of first registration is missing, the first day of the month following the month of registration is treated as the official registration date.",
+          "Depreciation calculations are based on the vehicle's age, determined from the first day of the year following its manufacturing year until the date of shipment.",
+          "In calculating vehicle age for depreciation, any period exceeding six months beyond a full year is rounded up to the next full year."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ গোলাম হোসেন)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_file": "customs_sros_OCR/20150604_143-AIN_2015_23-Customs/20150604_143-AIN_2015_23-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ, ২১ জ্যৈষ্ঠ, ১৪২২ বঙ্গাব্দ/৪ জুন, ২০১৫ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government body serves as the issuing authority for customs-related notifications."
+        ],
+        "Internal Resources Division": [
+          "This division within the Ministry of Finance is responsible for the administration of customs and value-added tax matters."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ১৪৩-আইন/২০১৫/২৩/কাস্টমস",
+      "text_id": "20150604_143-AIN_2015_23-Customs_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস, আর, ও নং ১৪৩-আইন/২০১৫/২৩/কাস্টমস।— মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এবং Customs Act, 1969 (Act No. IV of 1969) এর section 19 এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ৫ আষাঢ়, ১৪১৫ বঙ্গাব্দ মোতাবেক ১৯ জুন, ২০০৮ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ১৫৮-আইন/২০০৮/২১৮৯/শুল্ক এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(ক) প্রস্তাবনায় উল্লিখিত “৩%” সংখ্যা ও চিহ্নের পরিবর্তে “৫% (পাঁচ শতাংশ)” সংখ্যা, চিহ্ন, শব্দগুলি ও বন্ধনী প্রতিস্থাপিত হইবে;\n\n(খ) শর্ত (১) এ উল্লিখিত “International Internet Gateway (IIG)” শব্দগুলি ও বন্ধনীর পর “অথবা Nationwide Telecommunication Transmission Network (NTTN)” শব্দগুলি এবং বন্ধনী সংযোজিত হইবে;\n\n(গ) TABLE এর কলাম (১) এর Heading No. 85.44 এবং উহার বিপরীতে কলাম (২) ও (৩) তে উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে;\n\n(ঘ) পরিশিষ্ট-১ এ উল্লিখিত “International Internet Gateway (IIG)” এর পর “/Nationwide Telecommunication Transmission Network (NTTN)” চিহ্ন, শব্দগুলি এবং বন্ধনী সংযোজিত হইবে; এবং\n\n(ঙ) পরিশিষ্ট-৩ এ উল্লিখিত “International Internet Gateway (IIG)” এর পর “/Nationwide Telecommunication Transmission Network (NTTN)” চিহ্ন, শব্দগুলি এবং বন্ধনী সংযোজিত হইবে।",
+      "entity_concepts": {
+        "Value Added Tax Act 1991": [
+          "This act serves as one of the legal bases for the government to issue amendments to customs and tax notifications in consultation with the National Board of Revenue."
+        ],
+        "Customs Act 1969": [
+          "Section 19 of this act empowers the government to grant exemptions or make amendments to customs notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The board is consulted by the government to exercise powers regarding the issuance and amendment of tax and customs notifications."
+        ],
+        "S.R.O. 158-AIN/2008": [
+          "This specific customs notification is being further amended to update percentage rates, add technological infrastructure categories, and remove specific tariff entries.",
+          "The amendments are applied across the preamble, conditions, tables, and annexures of the notification."
+        ],
+        "International Internet Gateway": [
+          "The notification is amended to include the Nationwide Telecommunication Transmission Network alongside the existing International Internet Gateway reference in the relevant conditions and appendices."
+        ],
+        "Nationwide Telecommunication Transmission Network": [
+          "This network is formally added to the existing scope of the notification alongside the International Internet Gateway to ensure coverage in specific regulatory conditions and appendices."
+        ],
+        "TABLE": [
+          "The table within the notification is amended to delete the entry corresponding to a specific heading number related to electrical equipment."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

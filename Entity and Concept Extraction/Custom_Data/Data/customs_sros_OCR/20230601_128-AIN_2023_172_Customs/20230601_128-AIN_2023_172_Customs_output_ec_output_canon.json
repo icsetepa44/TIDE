@@ -1,0 +1,74 @@
+{
+  "source_file": "customs_sros_OCR/20230601_128-AIN_2023_172_Customs/20230601_128-AIN_2023_172_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the governing ministry in Bangladesh responsible for the administration of fiscal policy and internal resource management."
+        ],
+        "Internal Resources Division": [
+          "This is the specialized department within the Ministry of Finance overseeing the implementation of customs and value-added tax policies."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ: ০৭ জ্যৈষ্ঠ, ১৪৩০ বঙ্গাব্দ/২১ মে, ২০২৩ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20230601_128-AIN_2023_172_Customs_২১ মে, ২০২৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ১২৮-আইন/২০২৩/১৭২/কাস্টমস- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, ২৮ জুন, ২০২২ খ্রিস্টাব্দ মোতাবেক ১৪ আষাঢ়, ১৪২৯ তারিখে জারিকৃত প্রজ্ঞাপন এস,আর,ও নং ২০০-আইন/২০২২/১০৮/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের শর্তাবলীর শর্ত (২) এ উল্লিখিত “অনুমোদনপত্রের সত্যায়িত ফটোকপি” শব্দগুলির পরিবর্তে “অনুমোদনপত্রের ফটোকপি” শব্দগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government to amend existing customs notifications in the public interest, following consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority, alongside the Customs Act, for the Government to issue amendments to customs-related notifications."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with this body before exercising its powers to amend customs and taxation notifications."
+        ],
+        "S.R.O. 200-AIN/2022": [
+          "This existing notification is amended to change a document submission requirement. Specifically, the requirement for a 'certified photocopy' of an approval letter is relaxed to a requirement for a 'photocopy' only."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20230601_128-AIN_2023_172_Customs_২১ মে, ২০২৩_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ১ জুন, ২০২৩ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This order specifies its official date of commencement for legal application."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

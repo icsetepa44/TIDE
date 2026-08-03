@@ -1,0 +1,77 @@
+{
+  "source_file": "customs_sros_OCR/20150302_43-AIN_2015_5-Customs/20150302_43-AIN_2015_5-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "বাংলাদেশ গেজেট অতিরিক্ত সংখ্যা",
+      "text_id": "metadata_1",
+      "resolved_text": "রেজিস্টার্ড নং ডি এ-১\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nবাংলাদেশ গেজেট\nঅতিরিক্ত সংখ্যা\nকর্তৃপক্ষ কর্তৃক প্রকাশিত\nসোমবার, মার্চ ২, ২০১৫",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার, অর্থ মন্ত্রণালয়, অভ্যন্তরীণ সম্পদ বিভাগ (কাস্টমস), প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the issuance of the customs notification."
+        ],
+        "Internal Resources Division": [
+          "This is the specific division within the Ministry of Finance that issued the customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তারিখ",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ, ১১ ফাল্গুন ১৪২১ বঙ্গাব্দ/২৩ ফেব্রুয়ারি ২০১৫ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ৪৩-আইন/২০১৫/০৫/কাস্টমস",
+      "text_id": "20150302_43-AIN_2015_5-Customs_২ মার্চ ২০১৫_clause_1",
+      "resolved_text": "এস, আর, ও নং ৪৩-আইন/২০১৫/০৫/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 19 এর sub-section (1) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, উক্ত Act এর FIRST SCHEDULE ভুক্ত পণ্যসমূহের মধ্যে নিম্নবর্ণিত TABLE এর কলাম (১) এ উল্লিখিত Heading No. এর বিপরীতে কলাম (২) এ উল্লিখিত H.S Code এবং কলাম (৩) এ বর্ণিত পণ্যসমূহ কেবল মূসক নিবন্ধিত এলয় স্টীল (Alloy Steel) উৎপাদকগণ কর্তৃক আমদানির ক্ষেত্রে ৫% (পাঁচ শতাংশ) এর অতিরিক্ত আমদানি শুল্ক এতদ্বারা প্রত্যাহার করিল, যথা :-\n\n“TABLE\n\n| Heading No. (1) | H.S Code (2) | Description (3) |\n| --- | --- | --- |\n| 72.25 | 7225.30.00 | Flat-rolled products of alloy steel |\n| 79.01 | 7901.12.00 | Zinc ingot |\n|  | 7901.20.00 | Zinc alloy |\n”",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This notification is issued under the authority granted by Section 19(1) of the Customs Act 1969, which allows the government to exempt certain goods from customs duties in the public interest after consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue before exercising its power to grant duty exemptions under the Customs Act 1969."
+        ],
+        "First Schedule": [
+          "The goods listed in the table are subject to the classification and duty framework of the First Schedule of the Customs Act 1969."
+        ],
+        "H.S. Code": [
+          "The order specifies certain H.S. Codes, including flat-rolled products of alloy steel and zinc products, which are eligible for a partial duty exemption when imported by registered alloy steel manufacturers."
+        ],
+        "Customs Duty": [
+          "A partial exemption is granted, removing the import duty in excess of a specified percentage for certain listed commodities when imported by registered alloy steel producers."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে\nমোঃ নজিবুর রহমান\nসচিব।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The official document is issued under the authority of the President of Bangladesh, as indicated by the signature of the authorized Secretary."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

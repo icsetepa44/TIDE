@@ -1,0 +1,66 @@
+{
+  "source_file": "customs_sros_OCR/20160602_170-AIN_2016_32-Customs/20160602_170-AIN_2016_32-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ/২ জুন, ২০১৬ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government body responsible for the issuance of the statutory notification."
+        ],
+        "Internal Resources Division": [
+          "This is the specific division under the Ministry of Finance responsible for administrative oversight of customs and value added tax matters."
+        ],
+        "Government of Bangladesh": [
+          "The notification is issued under the authority and jurisdiction of the Government of Bangladesh."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৭০-আইন/২০১৬/৩২/কাস্টমস",
+      "text_id": "20160602_170-AIN_2016_32-Customs_২ জুন, ২০১৬_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৭০-আইন/২০১৬/৩২/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১২ ফাল্গুন, ১৪১৭ বঙ্গাব্দ মোতাবেক ২৪ ফেব্রুয়ারি, ২০১১ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ৩৭-আইন/২০১১/২৩২৮/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (১) এ উল্লিখিত Heading -\n\n(ক) 85.36 এর বিপরীতে কলাম (২) তে বর্ণিত H.S. Code “8536.30.00” এর পরিবর্তে H.S. Code “8536.30.90” প্রতিস্থাপিত হইবে; এবং\n\n(খ) 85.44 এর বিপরীতে কলাম (২) তে বর্ণিত H.S. Code “8544.11.00” এর পরিবর্তে H.S. Code “8544.11.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the government the authority to issue notifications and amend previous orders in the public interest after consulting with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act serves as one of the legal enabling provisions under which the government amends existing customs and tax-related notifications."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue before exercising its legal power to amend or issue customs and taxation notifications."
+        ],
+        "S.R.O. 37-AIN/2011": [
+          "This existing notification is formally amended to update specific H.S. Codes listed in its accompanying table."
+        ],
+        "H.S. Code": [
+          "The H.S. Code list is updated by substituting existing codes with new ones for specific electrical equipment classifications as defined in the table of the referenced notification."
+        ],
+        "TABLE": [
+          "The table attached to the original notification is modified to update the H.S. Codes associated with specific tariff headings."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "President of Bangladesh": [
+          "The order is issued under the authority of the President of Bangladesh.",
+          "The issuance of this legal instrument is formalized through the direction of the President."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

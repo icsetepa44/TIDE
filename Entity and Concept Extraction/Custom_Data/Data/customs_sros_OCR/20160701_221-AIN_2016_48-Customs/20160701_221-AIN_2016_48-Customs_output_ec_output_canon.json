@@ -1,0 +1,73 @@
+{
+  "source_file": "customs_sros_OCR/20160701_221-AIN_2016_48-Customs/20160701_221-AIN_2016_48-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the administration of tax and revenue affairs in Bangladesh."
+        ],
+        "Internal Resources Division": [
+          "This is the government division within the Ministry of Finance tasked with the formulation and implementation of policy regarding customs and value added tax."
+        ],
+        "Customs": [
+          "This entity represents the regulatory domain of border trade control and revenue collection as overseen by the Internal Resources Division."
+        ],
+        "Value Added Tax": [
+          "This entity represents the taxation mechanism overseen by the Internal Resources Division."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ : ১৭ আষাঢ়, ১৪২৩ বঙ্গাব্দ/০১ জুলাই, ২০১৬ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২২১-আইন/২০১৬/৪৮/কাস্টমস",
+      "text_id": "20160701_221-AIN_2016_48-Customs_০১ জুলাই, ২০১৬_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২২১-আইন/২০১৬/৪৮/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ মোতাবেক ২ জুন, ২০১৬ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৫১-আইন/২০১৬/১৩/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE-2 এর কলাম (১) এ উল্লিখিত Heading 34.04 এর বিপরীতে কলাম (২) এ উল্লিখিত H.S. Code “3404.90.00” এর পরিবর্তে H.S. Code “3404.90.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act provides the legal authority for the government to issue notifications regarding customs duty adjustments."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act is cited as a supporting legislative basis for the regulatory amendments made in this notification."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue before exercising its power to amend existing customs notifications."
+        ],
+        "S.R.O. 151-AIN/2016": [
+          "This existing notification is subject to specific amendments regarding the classification of goods."
+        ],
+        "TABLE-2": [
+          "This specific table within the earlier notification is amended to update the classification codes for certain goods."
+        ],
+        "H.S. Code": [
+          "The H.S. Code for a specific commodity listed under Heading 34.04 is replaced with a new code to ensure accurate tariff classification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

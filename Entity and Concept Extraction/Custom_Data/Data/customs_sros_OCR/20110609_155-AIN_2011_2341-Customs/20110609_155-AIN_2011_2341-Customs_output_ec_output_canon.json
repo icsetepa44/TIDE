@@ -1,0 +1,56 @@
+{
+  "source_file": "customs_sros_OCR/20110609_155-AIN_2011_2341-Customs/20110609_155-AIN_2011_2341-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার, অর্থ মন্ত্রণালয়, অভ্যন্তরীণ সম্পদ বিভাগ, প্রজ্ঞাপন",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ : ২৬ জ্যৈষ্ঠ, ১৪১৮ বঙ্গাব্দ/০৯ জুন, ২০১১ খ্রিষ্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government ministry is the issuing authority for the customs notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division acts as the administrative department under the Ministry of Finance responsible for publishing the customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১৫৫-আইন/২০১১/২৩৪১/কাস্টমস",
+      "text_id": "20110609_155-AIN_2011_2341-Customs_০৯ জুন, ২০১১_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৫৫-আইন/২০১১/২৩৪১/কাস্টমস।— Customs Act, 1969 (Act IV of 1969) অত:পর উক্ত Act বলিয়া উল্লিখিত, এর section 19(1) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, উক্ত Act এর FIRST SCHEDULE -ভুক্ত পণ্যসমূহের মধ্যে নিম্নবর্ণিত TABLE এর কলাম (১) এ উল্লিখিত Heading এবং কলাম (২) তে উল্লিখিত H.S. Code এর বিপরীতে কলাম (৩) তে বর্ণিত পণ্যসমূহকে উহাদের বিপরীতে কলাম (৪) এ উল্লিখিত হারের অতিরিক্ত পরিমাণ আমদানি শুল্ক হইতে অব্যাহতি প্রদান করিল, যথা:- \n| Heading (1) | H.S.Code (2) | Description (3) | Import Duty (4) |\n| --- | --- | --- | --- |\n| 17.01 |  | - Raw sugar not containing added flavouring or colouring matter |  |\n|  | 1701.11.00 | -- Cane sugar | 0% |\n|  | 1701.12.00 | -- Beet sugar | 0% |\n|  |  | - Other |  |\n|  | 1701.91.00 | -- Containing added flavouring or colouring matter | 0% |\n|  | 1701.99.00 | -- Other | 0% |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is empowered under section 19(1) of this Act, in consultation with the National Board of Revenue, to grant exemptions from customs duties in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue acts as the advisory body to the Government for the purpose of granting customs duty exemptions under the provisions of the Customs Act 1969."
+        ],
+        "First Schedule": [
+          "The First Schedule of the Customs Act 1969 contains the goods subject to tariff classification and duty assessment, from which specific items are granted duty exemptions under this SRO."
+        ],
+        "Import Duty": [
+          "Certain categories of sugar, specifically cane sugar and beet sugar, are granted an exemption from additional import duty as specified in this regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\n(ড. নাসিরউদ্দীন আহমেদ)\nসচিব।",
+      "entity_concepts": {
+        "Secretary": [
+          "The document is signed by the Secretary under the order of the President of Bangladesh."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

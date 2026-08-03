@@ -1,0 +1,45 @@
+{
+  "source_file": "customs_sros_OCR/20151222_378-AIN_2015_64-Customs/20151222_378-AIN_2015_64-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখঃ ০৮ পৌষ, ১৪২২ বঙ্গাব্দ/২২ ডিসেম্বর, ২০১৫ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং- ৩৭৮-আইন/২০১৫/৬৪/কাস্টমস",
+      "text_id": "20151222_378-AIN_2015_64-Customs_2015-12-22_clause_1",
+      "resolved_text": "এস, আর, ও নং- ৩৭৮-আইন/২০১৫/৬৪/কাস্টমস—Customs Act, 1969 (Act No. IV of 1969) এর section 25 এর Sub-section (3) তে প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ মোতাবেক ৬ জুন, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং-১৪৬-আইন/২০১৩/২৪৩৩/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\nউপরি-উক্ত প্রজ্ঞাপনের TABLE-2 এর কলাম (১) এ উল্লিখিত Heading 17.01 এবং উহার বিপরীতে কলাম (২), (৩), (৪) ও (৫) এ উল্লিখিত এন্ট্রিসমূহের পরিবর্তে নিম্নরূপ Heading 17.01 এবং উহার বিপরীতে কলাম (২), (৩), (৪) ও (৫) এ নিম্নবর্ণিত এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা :-\n\n| 17.01 | 1701.12.00 | Raw sugar not containing added flavouring or coloring matter: Beet Sugar | Metric Ton | 350 |\n|  | 1701.13.00 | Cane sugar specified in Subheading Note 2 of Chapter 17 | Metric Ton | 350 |\n|  | 1701.14.00 | Other Cane Sugar | Metric Ton | 350 |\n|  | 1701.91.00 | Other Containing added flavouring or coloring matter | Metric Ton | 430 |\n|  | 1701.99.00 | Other | Metric Ton | 430 |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 25, sub-section (3) of this Act provides the government with the authority to issue notifications and amendments regarding customs valuation and duty structures."
+        ],
+        "S.R.O. 146-AIN/2013/2433/Customs": [
+          "This existing notification is amended by the current order to update specific tariff entries."
+        ],
+        "TABLE-2": [
+          "This table within the original notification is modified to replace existing entries for Heading 17.01 with new specified values for sugar imports."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff structure for Heading 17.01, covering various types of raw and other sugars, is updated to define specific customs duty or valuation benchmarks per metric ton."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে\n\nমোঃ আব্দুর রউফ\nঅতিরিক্ত সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

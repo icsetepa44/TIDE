@@ -1,0 +1,74 @@
+{
+  "source_file": "customs_sros_OCR/20200301_62-AIN_2020_61_Customs/20200301_62-AIN_2020_61_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "বাংলাদেশ গেজেট অতিরিক্ত সংখ্যা",
+      "text_id": "metadata_1",
+      "resolved_text": "রেজিস্টার্ড নং ডি এ-১\n\nবাংলাদেশ গেজেট\nঅতিরিক্ত সংখ্যা\nকর্তৃপক্ষ কর্তৃক প্রকাশিত\nরবিবার, মার্চ ১, ২০২০",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ বিভাগ\nঅভ্যন্তরীণ সম্পদ বিভাগ\n[ কাস্টমস ও মূল্য সংযোজন কর ]",
+      "entity_concepts": {
+        "Internal Resources Division": [
+          "The Internal Resources Division is an administrative division within the Government of Bangladesh that oversees customs and value-added tax matters."
+        ],
+        "Customs": [
+          "Customs operations fall under the regulatory and administrative oversight of the Internal Resources Division."
+        ],
+        "Value Added Tax": [
+          "Value Added Tax administration is a primary functional responsibility of the Internal Resources Division."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_3",
+      "resolved_text": "প্রজ্ঞাপন\n\nতারিখ : ১৭ ফাল্গুন, ১৪২৬ বঙ্গাব্দ/০১ মার্চ, ২০২০ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস. আর. ও. নং ৬২-আইন/২০২০/৬১/কাস্টমস",
+      "text_id": "20200301_62-AIN_2020_61_Customs_০১ মার্চ, ২০২০_clause_1",
+      "resolved_text": "এস. আর. ও. নং ৬২-আইন/২০২০/৬১/কাস্টমস।—মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার ৩০ জুন, ২০১৪ খ্রিস্টাব্দ তারিখে জারিকৃত প্রজ্ঞাপন এস. আর. ও. নং ১৭৯-আইন/২০১৪/২৫১৭/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:—\n\nউপরি উক্ত প্রজ্ঞাপনের “H.S. Code 7208.39.20” বর্ণগুলি, চিহ্নগুলি, শব্দ এবং সংখ্যাগুলির পরিবর্তে “H.S. Code 7208.27.10” এবং “7208.39.20” বর্ণগুলি, চিহ্নগুলি, শব্দগুলি এবং সংখ্যাগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This Act provides the legal authority under section 126(1) for the government to issue and amend customs-related notifications."
+        ],
+        "S.R.O. 179-AIN/2014/2517/Customs": [
+          "This specific notification is being amended to update the list of goods subject to specific regulations."
+        ],
+        "H.S. Code": [
+          "The notification replaces an existing H.S. Code with a new H.S. Code and adds an additional H.S. Code entry to the existing regulatory framework."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে\n\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Senior Secretary": [
+          "The Senior Secretary is the signatory role responsible for authenticating the issuance of this regulatory order under the authority of the President."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

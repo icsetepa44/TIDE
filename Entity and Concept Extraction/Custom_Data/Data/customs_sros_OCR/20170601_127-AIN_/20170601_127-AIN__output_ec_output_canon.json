@@ -1,0 +1,53 @@
+{
+  "source_file": "customs_sros_OCR/20170601_127-AIN_/20170601_127-AIN__output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ, ১৮ জ্যৈষ্ঠ, ১৪২৪ বঙ্গাব্দ/১ জুন, ২০১৭ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This ministry is the government body responsible for issuing the notification."
+        ],
+        "Internal Resources Division": [
+          "This is the specific division within the government responsible for issuing customs-related regulatory orders."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১২৭-আইন/২০১৭/১৩/কাস্টমস",
+      "text_id": "20170601_127-AIN__১ জুন, ২০১৭ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১২৭-আইন/২০১৭/১৩/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১৮ ফাল্গুন, ১৪২৩ বঙ্গাব্দ মোতাবেক ০২ মার্চ, ২০১৭ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং ৪৭-আইন/২০১৭/০৩/কাস্টমস এতদ্দ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act empowers the Government, in consultation with the National Board of Revenue, to issue or rescind customs-related notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government must consult with this board when exercising its powers under Section 19 of the Customs Act to amend or repeal customs notifications."
+        ],
+        "S.R.O. 47-AIN/2017": [
+          "This prior customs notification, originally issued in March 2017, is officially repealed by this order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nমোঃ নজিবুর রহমান\nসিনিয়র সচিব",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The document is issued under the authority of the President of Bangladesh, represented by the relevant administrative official acting in their capacity as a senior secretary."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

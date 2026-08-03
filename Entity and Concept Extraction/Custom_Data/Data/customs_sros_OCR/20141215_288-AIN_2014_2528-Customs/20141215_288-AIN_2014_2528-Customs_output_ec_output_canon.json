@@ -1,0 +1,48 @@
+{
+  "source_file": "customs_sros_OCR/20141215_288-AIN_2014_2528-Customs/20141215_288-AIN_2014_2528-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ০১ পৌষ, ১৪২১ বঙ্গাব্দ/১৫ ডিসেম্বর, ২০১৪ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ২৮৮-আইন/২০১৪/২৫২৮/কাস্টমস",
+      "text_id": "20141215_288-AIN_2014_2528-Customs_১৫ ডিসেম্বর, ২০১৪_clause_1",
+      "resolved_text": "এস, আর, ও নং ২৮৮-আইন/২০১৪/২৫২৮/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লেখিত, এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, উক্ত Act এর First Schedule ভুক্ত পণ্যের মধ্যে নিম্নবর্ণিত TABLE এর কলাম (১) এ উল্লিখিত Heading এর বিপরীতে কলাম (২) এ উল্লিখিত H.S. Code এর আওতাধীন কলাম (৩) তে বর্ণিত পণ্য আমদানির ক্ষেত্রে, উহাদের উপর আরোপণীয় সমুদয় আমদানি শুল্ক এবং অগ্রিম মূল্য সংযোজন কর (প্রযোজ্য ক্ষেত্রে) হইতে অব্যাহতি প্রদান করিল, যথা:—\n\nTABLE\n\n| Heading\n(1) | H.S. Code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 27.01 | 2701.19.00 | Other coal |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This Statutory Regulatory Order is issued under the authority granted by Section 19(1) of the Customs Act, which allows the government to grant exemptions from customs duties."
+        ],
+        "Value Added Tax Act 1991": [
+          "This instrument references the powers granted under Section 14(1) of this Act to provide for the exemption of advance value added tax on specific imported goods."
+        ],
+        "National Board of Revenue": [
+          "The government issues this exemption order after consulting with the National Board of Revenue."
+        ],
+        "First Schedule": [
+          "The order applies to specific goods listed in the First Schedule of the Customs Act, granting them exemptions from import duties and advance value added tax."
+        ],
+        "H.S. Code": [
+          "The exemption applies to specific goods identified by their H.S. Code, including coal under the specified heading, exempting them from all import duties and applicable advance value added taxes."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে\nমোঃ গোলাম হোসেন\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

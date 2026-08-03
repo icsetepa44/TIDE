@@ -1,0 +1,81 @@
+{
+  "source_file": "customs_sros_OCR/20250602_217-AIN_2025_39_Customs/20250602_217-AIN_2025_39_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ বিভাগ\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "এস.আর.ও. নং ২১৭-আইন/২০২৫/৩৯/কাস্টমস",
+      "text_id": "metadata_3",
+      "resolved_text": "এস.আর.ও. নং ২১৭-আইন/২০২৫/৩৯/কাস্টমস।– সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, ২৯ মে, ২০২৪ তারিখে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৭২-আইন/২০২৪/২৪/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act empowers the Government to issue notifications regarding customs matters in the public interest, in consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority for the Government to act in consultation with the National Board of Revenue to issue or amend regulatory orders."
+        ],
+        "National Board of Revenue": [
+          "This body is the statutory authority that must be consulted by the Government prior to the issuance or amendment of specific regulatory orders."
+        ],
+        "S.R.O. 172-AIN/2024": [
+          "This existing regulatory order, originally issued on a specific date in the previous year, is subject to formal amendments through this current order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20250602_217-AIN_2025_39_Customs_২৯ মে, ২০২৫_clause_1",
+      "resolved_text": "উপরিউক্ত প্রজ্ঞাপনের TABLE এর কলাম (1) এ বর্ণিত Heading 39.09 এর বিপরীতে কলাম (2) এ উল্লিখিত H.S. Code “3909.40.90” এর পরিবর্তে H.S. Code “3909.40.00” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "H.S. Code": [
+          "The statutory table is amended by replacing a specific existing code with a new code for a defined heading category. This adjustment ensures the correct classification of goods under the designated tariff heading."
+        ],
+        "TABLE": [
+          "The table referenced in the official notification is updated to reflect changes in the classification codes for specific commodity headings."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_217-AIN_2025_39_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the effective date of implementation for the order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The administrative authority for the issuance of this regulatory order is delegated under the order of the President."
+        ],
+        "Secretary of the Internal Resources Division": [
+          "The signing authority for this regulatory order is the Secretary of the relevant ministry or division."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

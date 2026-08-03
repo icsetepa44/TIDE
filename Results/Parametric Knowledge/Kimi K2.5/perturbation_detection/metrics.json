@@ -1,0 +1,59 @@
+{
+  "dataset": "perturbation_detection",
+  "model": "moonshotai/kimi-k2.5",
+  "generated_at": "2026-07-19 04:54:59",
+  "n_dataset_total": 498,
+  "n_with_records": 498,
+  "n_api_failed": 0,
+  "detection": {
+    "n_evaluated": 498,
+    "n_detection_format_failures": 2,
+    "class_balance_evaluated": {
+      "perturbed": 257,
+      "accurate": 241
+    },
+    "positive_class": "incorrect/perturbed statement",
+    "accuracy": 0.5643,
+    "precision": 0.5517,
+    "recall": 0.8716,
+    "f1": 0.6757,
+    "confusion": {
+      "tp": 224,
+      "fp": 182,
+      "tn": 57,
+      "fn": 33
+    }
+  },
+  "explanation": {
+    "n_perturbed_evaluated": 257,
+    "n_detected_perturbed": 224,
+    "n_explanations_scored": 224,
+    "n_explanation_judge_error": 0,
+    "n_false_positive_explanations_autofailed": 182,
+    "mean_explanation_final_score_over_detected": 0.2418,
+    "mean_explanation_final_score_over_all_perturbed": 0.2108,
+    "localization_rate": 0.5938,
+    "correction_given_rate": 0.7634,
+    "correction_correct_rate": 0.3304,
+    "n_uncertain": 0,
+    "n_confidence_scored": 185,
+    "explanation_judge_confidence_mean": 99.27,
+    "note": "Rubric v2: explanation_final_score = base rubric gated on perturbation_localized (unlocalized explanations score 0.0). mean_explanation_final_score_over_all_perturbed counts missed detections and judge errors as 0.0."
+  },
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 224,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "metrics_caveat": "The task description assumed a single-class ground truth (all statements incorrect), under which precision would be trivially 1.0 and F1 degenerate, leaving recall (= detection rate) as the meaningful metric. The ACTUAL dataset is two-class and nearly balanced (is_perturbed: 246 true / 240 false), so accuracy, precision, recall, and F1 (positive class = perturbed/incorrect statement) are all meaningful here. Recall over the perturbed class still equals the error-detection rate."
+}

@@ -1,0 +1,58 @@
+{
+  "source_file": "customs_sros_OCR/20160701_216-AIN_2016_43-Customs/20160701_216-AIN_2016_43-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ১৭ আষাঢ়, ১৪২৩ বঙ্গাব্দ/০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Government of the People's Republic of Bangladesh": [
+          "This is the official governing body responsible for issuing the notification under the authority of the Ministry of Finance."
+        ],
+        "Internal Resources Division": [
+          "This is the administrative department under the Ministry of Finance that issued the notification regarding Customs and Value Added Tax."
+        ],
+        "Ministry of Finance": [
+          "This is the ministry within the Government that oversees the Internal Resources Division and financial regulatory notifications."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২১৬-আইন/২০১৬/৪৩/কাস্টমস",
+      "text_id": "20160701_216-AIN_2016_43-Customs_০১ জুলাই, ২০১৬_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২১৬-আইন/২০১৬/৪৩/কাস্টমস ।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) / মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২০ চৈত্র, ১৪২০ বঙ্গাব্দ মোতাবেক ৩ এপ্রিল, ২০১৪ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ৫০-আইন/২০১৪/২৪৭৬/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের ‘টেবিল’ এর কলাম (১) এ উল্লিখিত Heading 85.37 এর বিপরীতে কলাম (২) এ উল্লিখিত H.S. Code “8301.10.19” এর পরিবর্তে H.S. Code “8537.10.19” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is empowered by section 19, sub-section (1) of this Act to amend customs-related notifications in the public interest, in consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "This Act provides the legal authority under section 14, sub-section (1) for the Government to amend notifications regarding tax matters in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government must consult with this board when exercising its authority to amend customs and tax notifications."
+        ],
+        "S.R.O. 50-AIN/2014": [
+          "This existing notification is being formally amended by the current order."
+        ],
+        "H.S. Code": [
+          "The notification replaces the previously listed code with a new H.S. Code under Heading 85.37 within the tariff table."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_file": "customs_sros_OCR/20170701_217-AIN_/20170701_217-AIN__output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ, ১৭ আষাঢ়, ১৪২৪ বঙ্গাব্দ/০১ জুলাই, ২০১৭ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The Government of Bangladesh, acting through the Ministry of Finance, issued this official notice on the specified date."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the issuing authority for this regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division under the Ministry of Finance is the specific department responsible for the administration of this notification."
+        ],
+        "Value Added Tax": [
+          "This notification is issued under the authority and administration of the Value Added Tax laws of Bangladesh."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ২১৭-আইন/২০১৭/৫৫/কাস্টমস",
+      "text_id": "20170701_217-AIN__০১ জুলাই, ২০১৭ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ২১৭-আইন/২০১৭/৫৫/কাস্টমস।— মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগের ১৬ আষাঢ়, ১৪১৬ বঙ্গাব্দ মোতাবেক ৩০ জুন, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৭০-আইন/২০৯/২২৬২/শুল্ক এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা:-\n\nউপরিউক্ত প্রজ্ঞাপনের টেবিল এর পরিবর্তে নিম্নবর্ণিত Table প্রতিস্থাপিত হইবে, যথা:-\n\n“Table\n\n| Heading\n(1) | H.S. Code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 85.41 | 8541.40.10 | Photovoltaic cells |\n|  | 8541.40.20 | Solar modules or panels |\n”|",
+      "entity_concepts": {
+        "Value Added Tax Act 1991": [
+          "This Act provides the legal authority under section 14(1) for the government to issue notifications and amendments regarding tax structures."
+        ],
+        "S.R.O. 170-AIN/2009": [
+          "This earlier tax notification is being amended through the replacement of its existing table with a new version."
+        ],
+        "Table": [
+          "The table provides a list of specific goods, identified by their Heading and H.S. Code, which are subject to the provisions of this amendment."
+        ],
+        "H.S. Code": [
+          "The H.S. Code list is updated to include specific entries for photovoltaic cells and solar modules or panels."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ নজিবুর রহমান\nসিনিয়র সচিব",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The document is issued under the authority of the President of Bangladesh, indicating that it is an official instrument of the government."
+        ],
+        "Senior Secretary of Internal Resources Division": [
+          "The official who has signed the order is identified as the Senior Secretary, representing the relevant administrative body responsible for the order."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

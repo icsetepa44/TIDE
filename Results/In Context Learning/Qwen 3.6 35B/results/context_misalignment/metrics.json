@@ -1,0 +1,91 @@
+{
+  "dataset": "context_misalignment",
+  "model": "qwen/qwen3.6-35b",
+  "generated_at": "2026-07-18 05:36:32",
+  "n_dataset_total": 116,
+  "n_with_records": 116,
+  "n_api_failed": 0,
+  "n_evaluated": 116,
+  "n_scored": 116,
+  "n_judge_error": 0,
+  "n_legacy_records_excluded": 0,
+  "n_empty_answers": 0,
+  "n_uncertain": 0,
+  "n_calendar_mismatch": 0,
+  "mean_final_score": 0.2773,
+  "mean_final_score_counting_judge_errors_as_zero": 0.2773,
+  "mean_date_score": 0.1431,
+  "meaning_correct_rate": 0.5431,
+  "full_credit_rate": 0.2241,
+  "zero_score_rate": 0.5948,
+  "score_distribution": {
+    "0": 69,
+    "0.1667": 1,
+    "0.25": 16,
+    "0.5": 4,
+    "1": 26
+  },
+  "n_date_matches_deterministic": 44,
+  "n_date_matches_judge_only": 2,
+  "n_confidence_scored": 116,
+  "judge_confidence_mean": 98.06,
+  "judge_confidence_mean_when_meaning_correct": 98.57,
+  "judge_confidence_mean_when_meaning_wrong": 97.45,
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 116,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "scoring": "Rubric v2: atomic LLM-judge booleans (Gemini, temperature=0) + deterministic Python scoring (rubric_scoring.score_base). Dates are a hard gate; judge errors are excluded from mean_final_score.",
+  "conflict_behavior": {
+    "n_with_conflict_atoms": 116,
+    "context_adherence_rate": 0.069,
+    "parametric_adherence_rate": 0.7414,
+    "conflict_acknowledgement_rate": 0.431,
+    "blended_sources_rate": 0.0086,
+    "note": "Logged-only judge atoms; never part of final_score. A single scalar would hide exactly the conflict-resolution behavior this split measures."
+  },
+  "context_adherence_rate": 0.069,
+  "conflict_acknowledgement_rate": 0.431,
+  "evaluation_mode": "grounded_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 116,
+    "by_context_status": {
+      "full": 116
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 1,
+      "median": 2.0,
+      "max": 54,
+      "mean": 4.0
+    },
+    "context_char_count": {
+      "min": 894,
+      "median": 50283.5,
+      "max": 610947,
+      "mean": 110130.0
+    },
+    "context_token_estimate": {
+      "min": 223,
+      "median": 12570.5,
+      "max": 152736,
+      "mean": 27532.1
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 0,
+    "n_documents_dropped_total": 0
+  },
+  "condition": "context_conflict_resolution",
+  "condition_note": "Grounded run places BOTH the misaligned context and the authoritative source document(s) in the prompt; this measures whether the model resolves the conflict in favor of the official document (context_conflict_resolution), NOT parametric misalignment robustness. Do not conflate with the parametric context_misalignment result."
+}

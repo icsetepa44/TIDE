@@ -1,0 +1,68 @@
+{
+  "source_file": "customs_sros_OCR/20160602_150-AIN_2016_12-Customs/20160602_150-AIN_2016_12-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Government of the People's Republic of Bangladesh": [
+          "This entity is identified as the issuing authority for the regulatory notice."
+        ],
+        "Ministry of Finance": [
+          "This ministry is the government body responsible for the issuance of this regulatory order."
+        ],
+        "Internal Resources Division": [
+          "This division within the Ministry of Finance is responsible for managing customs and value added tax matters."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ : ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ/২ জুন, ২০১৬ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৫০-আইন/২০১৬/১২/কাস্টমস",
+      "text_id": "20160602_150-AIN_2016_12-Customs_২ জুন, ২০১৬_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৫০-আইন/২০১৬/১২/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ০৩ ফাল্গুন, ১৪২২ বঙ্গাব্দ মোতাবেক ১৫ ফেব্রুয়ারি, ২০১৬ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ৩২-আইন/২০১৬/০২/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (১) এ উল্লিখিত -\n\n(ক) Heading “84.71” এবং তদবিপরীতে কলাম (২) ও (৩) তে উল্লিখিত এন্ট্রিসমূহের পরিবর্তে, যথাক্রমে, নিম্নরূপ Heading এবং এন্ট্রিসমূহ প্রতিস্থাপিত হইবে, যথা :-\n\n\n| “84.71 | All H.S.Code (excluding 8471.60.10) | Computer and computer accessories”; |\n\n\n(খ) Heading “85.23” এবং উহার কলাম (২) এ উল্লিখিত H.S.Code “8523.49.29” এর বিপরীতে কলাম (৩) এ উল্লিখিত “Computer anti-virus/Security softwares” শব্দগুলি ও চিহ্নের পরিবর্তে “Computer anti-virus” শব্দগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is empowered by section 19(1) of this Act to grant exemptions or make modifications to customs duties in the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "This Act provides the legal authority under section 14(1) for the government to modify tax-related provisions in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Board acts as the consultative authority for the government in issuing notifications and amendments regarding customs and tax matters."
+        ],
+        "S.R.O. 32-AIN/2016": [
+          "This existing notification is amended by the current order to update specific H.S. Code entries and descriptive text for computer-related goods."
+        ],
+        "H.S. Code": [
+          "The description for Heading 84.71 is replaced to cover computer and computer accessories, excluding specific sub-codes.",
+          "The description for H.S. Code 8523.49.29 is amended to restrict the term for imported software to computer anti-virus."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

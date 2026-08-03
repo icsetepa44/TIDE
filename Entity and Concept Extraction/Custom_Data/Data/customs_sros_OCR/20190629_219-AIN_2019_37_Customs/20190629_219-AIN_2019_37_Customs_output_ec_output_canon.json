@@ -1,0 +1,58 @@
+{
+  "source_file": "customs_sros_OCR/20190629_219-AIN_2019_37_Customs/20190629_219-AIN_2019_37_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ, ১৫ আষাঢ়, ১৪২৬ বঙ্গাব্দ/২৯ জুন, ২০১৯ খ্রিষ্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২১৯-আইন/২০১৯/৩৭/কাস্টমস",
+      "text_id": "20190629_219-AIN_2019_37_Customs_২৯ জুন, ২০১৯_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২১৯-আইন/২০১৯/৩৭/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) তে প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, উক্ত Act এর FIRST SCHEDULE ভুক্ত Heading 48.10 এর আওতাভুক্ত কলাম (2) এ বর্ণিত সকল H.S. Codes (H.S. Code 4810.29.00, 4810.99.10 এবং 4810.99.90 ব্যতীত) এর বিপরীতে উল্লিখিত পণ্যসমূহের উপর আরোপনীয় আমদানি শুল্ক, যেই পরিমাণে মূল্যভিত্তিক ১৫% (পনের শতাংশ) এর অতিরিক্ত হয়, সেই পরিমাণ হইতে অব্যাহতি প্রদান করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Government is empowered under section 19, sub-section (1) of this Act to grant exemptions from customs duties in the public interest."
+        ],
+        "First Schedule": [
+          "The Government has granted a specific duty exemption for goods classified under Heading 48.10 of this Schedule."
+        ],
+        "H.S. Code": [
+          "Import duties on goods under Heading 48.10 are exempted to the extent that they exceed 15 percent ad valorem, excluding specific H.S. Codes listed in the order."
+        ],
+        "Customs Duty": [
+          "An exemption is granted on imported goods under specific H.S. Codes, whereby any duty amount exceeding 15 percent ad valorem is waived in the public interest."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20190629_219-AIN_2019_37_Customs_২৯ জুন, ২০১৯_clause_2",
+      "resolved_text": "২। ইহা ১ জুলাই, ২০১৯ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "The order specifies that the legal provisions contained within it shall come into force on the first day of July, two thousand and nineteen."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nমোঃ মোশাররফ হোসেন ভূঁইয়া, এনডিসি\nসিনিয়র সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

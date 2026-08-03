@@ -1,0 +1,54 @@
+{
+  "source_file": "customs_sros_OCR/20100610_191-AIN_2010_2309-Customs/20100610_191-AIN_2010_2309-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(শুল্ক)\nপ্রজ্ঞাপন\n\nতারিখ : ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ/১০ জুন, ২০১০ খ্রিস্টাব্দ।\n\nএস,আর,ও নং ১৯১-আইন/২০১০/২৩০৯/শুল্ক।- Customs Act, 1969 (IV of 1969) এর section 25(3) এ প্রদত্ত ক্ষমতাবলে সরকার, অভ্যন্তরীণ সম্পদ বিভাগের ২৮ জ্যৈষ্ঠ, ১৪১৬ বঙ্গাব্দ মোতাবেক ১১ জুন, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৪১-আইন/২০০৯/২২৪৪/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা:-",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 25(3) of the Act serves as the legal foundation empowering the government to issue notifications and amendments regarding customs valuation."
+        ],
+        "S.R.O. 141-AIN/2009": [
+          "This existing customs notification is subject to an amendment issued under the authority of the Customs Act 1969."
+        ],
+        "S.R.O. 191-AIN/2010": [
+          "This statutory regulatory order amends a previous notification to update specific provisions under the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20100610_191-AIN_2010_2309-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপন এর দফা ১ এর “অনধিক ৫(পাঁচ) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ীর জন্য সর্বসাকুল্যে (consolidated) ৩০% ” শব্দগুলি, সংখ্যাগুলি ও বন্ধনীগুলির পরিবর্তে “অনধিক ৪(চার) বৎসর বয়সের যে কোন মেয়াদের আমদানিকৃত মোটর গাড়ীর জন্য সর্বসাকুল্যে (consolidated) ২৫%” শব্দগুলি, সংখ্যাগুলি ও বন্ধনীগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Motor Vehicle Import Duty": [
+          "The consolidated tax rate for the import of motor vehicles within a specified age limit is reduced.",
+          "The eligibility criteria regarding the maximum age of the imported vehicle has been tightened by lowering the allowable age limit."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(হুসেইন আহমেদ)\nঅতিরিক্ত সচিব (পদাধিকার বলে)।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The signature indicates an order issued in the name of the President, formalizing the executive authority of the notification."
+        ],
+        "Ministry of Finance": [
+          "The signatory acting as Additional Secretary denotes that the order is issued under the authority of the relevant government department responsible for customs and tax administration."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

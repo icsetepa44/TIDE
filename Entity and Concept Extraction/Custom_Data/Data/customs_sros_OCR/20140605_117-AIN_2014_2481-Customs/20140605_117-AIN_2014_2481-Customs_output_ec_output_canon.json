@@ -1,0 +1,55 @@
+{
+  "source_file": "customs_sros_OCR/20140605_117-AIN_2014_2481-Customs/20140605_117-AIN_2014_2481-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "বাংলাদেশ গেজেট\nঅতিরিক্ত সংখ্যা\nকর্তৃপক্ষ কর্তৃক প্রকাশিত\nবৃহস্পতিবার, জুন ৫, ২০১৪",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_3",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/ ০৫ জুন, ২০১৪ খ্রিস্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং- ১১৭-আইন/২০১৪/২৪৮১/কাস্টমস",
+      "text_id": "20140605_117-AIN_2014_2481-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস,আর,ও নং- ১১৭-আইন/২০১৪/২৪৮১/কাস্টমস।— Customs Act, 1969 (Act IV of 1969) এর section 18 এর sub-section (2) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১৯ পৌষ, ১৪২০ বঙ্গাব্দ/০২ জানুয়ারি, ২০১৪ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ০২-আইন/২০১৪/২৪৭২/কাস্টমস এতদ্দ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18(2) of this Act empowers the Government to issue customs notifications and rescind them in the public interest in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with this board when exercising its authority to rescind customs notifications under the Customs Act."
+        ],
+        "S.R.O. 02-AIN/2014": [
+          "This customs notification, originally issued on January 2, 2014, is hereby repealed by the present legal instrument."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ গোলাম হোসেন)\nসচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Secretary mentioned in the notification acts on behalf of the National Board of Revenue to formalize legal instruments."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

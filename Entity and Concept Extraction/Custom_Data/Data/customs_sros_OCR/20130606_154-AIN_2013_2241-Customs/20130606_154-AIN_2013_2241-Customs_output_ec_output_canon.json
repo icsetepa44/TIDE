@@ -1,0 +1,56 @@
+{
+  "source_file": "customs_sros_OCR/20130606_154-AIN_2013_2241-Customs/20130606_154-AIN_2013_2241-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড\nঢাকা।\n\n(কাস্টমস)\n\nআদেশ\n\nতারিখ : ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ/০৬ জুন, ২০১৩ খ্রিস্টাব্দ ।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the government authority responsible for issuing this customs order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ১৫৪-আইন/২০১৩/২৪৪১/কাস্টমস",
+      "text_id": "20130606_154-AIN_2013_2241-Customs_০৬ জুন, ২০১৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ১৫৪-আইন/২০১৩/২৪৪১/কাস্টমস।- Customs Act, 1969 (Act IV of 1969) এর section 21(b) এর সহিত পঠিতব্য, মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪(২) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ড, অত্র বিভাগের ২৮ জ্যৈষ্ঠ, ১৪১৬ বঙ্গাব্দ মোতাবেক ১১ জুন, ২০০৯ খ্রিস্টাব্দ তারিখের আদেশ এস,আর,ও নং ১৪৩-আইন/২০০৯/২২৪৬/শুল্ক এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত আদেশের TABLE-1 এর কলাম (1) এ উল্লিখিত এন্ট্রি “2933.59.00”, ৪ (চার) বার উল্লিখিত, এর পরিবর্তে সকল স্থানে এন্ট্রি “2933.59.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act provides the enabling authority under Section 21(b) for the issuance of this customs amendment."
+        ],
+        "Value Added Tax Act 1991": [
+          "This act provides the enabling authority under Section 14(2) for the National Board of Revenue to issue this notification."
+        ],
+        "National Board of Revenue": [
+          "The Board exercises its legal powers to amend a previous regulatory order concerning customs duties and tariff classifications."
+        ],
+        "S.R.O. 143-AIN/2009": [
+          "This earlier notification is being formally amended by the current order to update specific tariff classifications."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The order specifies that the tariff entry previously listed four times in Table-1 is to be replaced with a new updated entry code."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ খায়রুল কবির মিয়া)\nদ্বিতীয় সচিব (শুল্ক)।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "This order is issued under the authority and in the name of the National Board of Revenue."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

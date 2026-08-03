@@ -1,0 +1,75 @@
+{
+  "source_file": "customs_sros_OCR/20160701_215-AIN_2016_42-Customs/20160701_215-AIN_2016_42-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ : ১৭ আষাঢ়, ১৪২৩ বঙ্গাব্দ/০১ জুলাই, ২০১৬ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government body responsible for the issuance of the current notification regarding customs and value added tax."
+        ],
+        "Internal Resources Division": [
+          "This is the specific division within the Ministry of Finance overseeing the regulatory and administrative aspects of customs and value added tax notifications."
+        ],
+        "Customs": [
+          "This entity represents the domain of taxation and regulatory control subject to the administrative directives of the Internal Resources Division."
+        ],
+        "Value Added Tax": [
+          "This entity represents the tax regime subject to the administrative directives of the Internal Resources Division."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২১৫-আইন/২০১৬/৪২/কাস্টমস",
+      "text_id": "20160701_215-AIN_2016_42-Customs_০১ জুলাই, ২০১৬_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২১৫-আইন/২০১৬/৪২/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ মোতাবেক ২ জুন, ২০১৬ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৬১-আইন/২০১৬/২৩/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের শর্ত (১) এর পরিবর্তে নিম্নবর্ণিত শর্ত (১) প্রতিস্থাপিত হইবে, যথা :-\n\n“(১) আমদানিকারককে শতভাগ রপ্তানিমুখী শিল্প প্রতিষ্ঠান হিসাবে বন্ড লাইসেন্সধারী অথবা শতভাগ রপ্তানিমুখী শিল্প প্রতিষ্ঠান হিসাবে মূসক নিবন্ধিত হইতে হইবে।”",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act serves as the legal foundation for the government to grant exemptions or issue amendments to existing customs notifications."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of the Act is invoked as a legal basis, in consultation with the National Board of Revenue, to amend regulatory provisions regarding tax-exempt imports for export-oriented industries."
+        ],
+        "S.R.O. 161-AIN/2016": [
+          "This existing notification is amended to revise the conditions under which qualifying entities may receive benefits."
+        ],
+        "Imported Vehicle": [
+          "The amended clause specifies that an importer must be a hundred percent export-oriented industrial enterprise that holds either a valid bonded warehouse license or a value added tax registration."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20160701_215-AIN_2016_42-Customs_০১ জুলাই, ২০১৬_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০১৬ খ্রিষ্টাব্দ তারিখে কার্যকর হইয়াছে বলিয়া গণ্য হইবে।",
+      "entity_concepts": {
+        "S.R.O. 215-AIN/2016": [
+          "This notification is deemed to have come into effect on a specific date in June two thousand sixteen."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The document is issued under the authority of the Senior Secretary acting on behalf of the government."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source_file": "customs_sros_OCR/20150604_159-AIN_2015_39-Customs/20150604_159-AIN_2015_39-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার, অর্থ মন্ত্রণালয়, অভ্যন্তরীণ সম্পদ বিভাগ, প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২১ জ্যৈষ্ঠ, ১৪২২ বঙ্গাব্দ/৪ জুন, ২০১৫ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the issuance of this regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "This division within the Ministry of Finance serves as the issuing authority for this statutory regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৫৯-আইন/২০১৫/৩৯/কাস্টমস",
+      "text_id": "20150604_159-AIN_2015_39-Customs_৪ জুন, ২০১৫_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৫৯-আইন/২০১৫/৩৯/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ মোতাবেক ১০ জুন, ২০১০ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ১৭৮-আইন/২০১০/ ২২৯৬/শুল্ক এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(ক) TABLE-1 এর কলাম (১) এ উল্লিখিত Heading No. 85.38 এবং উহার বিপরীতে কলাম (২) এ বর্ণিত H.S. Code “8538.90.00” এর পরিবর্তে “8538.90.90” প্রতিস্থাপিত হইবে; এবং\n\n(খ) TABLE-3 এর কলাম (১) এ উল্লিখিত Heading No 55.02 এবং উহার বিপরীতে কলাম (২) এ উল্লিখিত H.S. Code “5502.00.10” এর পরিবর্তে “5502.00.00” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act serves as the legal foundation granting the government the authority to issue exemptions and amend existing customs notifications in the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legal power necessary for the government to implement changes in tax and duty structures in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The government is mandated to consult with this body before exercising its powers to amend customs and tax notifications."
+        ],
+        "S.R.O. 178-AIN/2010": [
+          "This existing customs notification is being amended through this new regulatory order to update specific classifications."
+        ],
+        "TABLE-1": [
+          "The table is updated to replace the specific H.S. Code associated with Heading No. 85.38 to ensure accurate tariff classification."
+        ],
+        "TABLE-3": [
+          "The table is updated to replace the specific H.S. Code associated with Heading No. 55.02 to ensure accurate tariff classification."
+        ],
+        "H.S. Code": [
+          "The notification specifies the substitution of outdated or incorrect tariff codes with updated numerical classifications for specific goods listed under Heading Nos. 85.38 and 55.02."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষরকারী কর্তৃপক্ষ",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {
+        "Secretary of the Government": [
+          "The Secretary serves as the signing authority for the order, acting under the direction and mandate of the President of Bangladesh."
+        ],
+        "President of Bangladesh": [
+          "The President serves as the constitutional authority under whose name and mandate the regulatory order is issued."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

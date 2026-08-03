@@ -1,0 +1,52 @@
+{
+  "source_file": "customs_sros_OCR/20130606_143-AIN_2013_2430-Customs/20130606_143-AIN_2013_2430-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ : ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ/০৬ জুন, ২০১৩ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government body is identified as the issuing authority for the administrative notification."
+        ],
+        "Internal Resources Division": [
+          "This specific division within the Ministry of Finance is responsible for the issuance of this customs and value added tax regulatory notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ১৪৩-আইন/২০১৩/২৪৩০/কাস্টমস",
+      "text_id": "20130606_143-AIN_2013_2430-Customs_০৬ জুন, ২০১৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ১৪৩-আইন/২০১৩/২৪৩০/কাস্টমস— Customs Act, 1969 (Act IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, অত্র বিভাগের ১৯ কার্তিক, ১৪১৮ বঙ্গাব্দ মোতাবেক ৩ নভেম্বর, ২০১১ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ৩৪০-আইন/২০১১/২৩৭১/কাস্টমস এতদ্দ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the government with the legal authority, in consultation with the National Board of Revenue and in the public interest, to issue notifications that may rescind earlier regulatory orders."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the government with the legal authority, in consultation with the National Board of Revenue and in the public interest, to issue notifications that may rescind earlier regulatory orders."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with this board when exercising its powers to issue or rescind regulatory notifications."
+        ],
+        "S.R.O. 340-AIN/2011": [
+          "This previous regulatory notification issued on November 3, 2011, is hereby rescinded by the government."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\n(মোঃ গোলাম হোসেন)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

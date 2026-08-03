@@ -1,0 +1,55 @@
+{
+  "source_file": "customs_sros_OCR/20150826_276-AIN_2015_55-Customs/20150826_276-AIN_2015_55-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "বাংলাদেশ গেজেট",
+      "text_id": "metadata_1",
+      "resolved_text": "বাংলাদেশ গেজেট\nঅতিরিক্ত সংখ্যা\nকর্তৃপক্ষ কর্তৃক প্রকাশিত\nবুধবার, আগস্ট ২৬, ২০১৫",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ, ১১ ভাদ্র ১৪২২ বঙ্গাব্দ/২৬ আগস্ট ২০১৫ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Government of the People's Republic of Bangladesh": [
+          "This document is issued under the authority of the Government of the People's Republic of Bangladesh."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the issuing ministry for this notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division acts as the administrative wing responsible for the publication of this notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং-২৭৬-আইন/২০১৫/৫৫/কাস্টমস",
+      "text_id": "20150826_276-AIN_2015_55-Customs_২৬ আগস্ট ২০১৫_clause_1",
+      "resolved_text": "এস, আর, ও নং-২৭৬-আইন/২০১৫/৫৫/কাস্টমস—Customs Act, 1969 (Act No. IV of 1969) এর section 18 এর sub-section (2) এ প্রদত্ত ক্ষমতাবলে সরকার নিম্নবর্ণিত TABLE এর কলাম (1) ও (2) এ উল্লিখিত উক্ত Act এর FIRST SCHEDULE এর যথাক্রমে Heading এবং H.S Code এর আওতাধীন কলাম (3) এ বর্ণিত পণ্যের উপর ২০% হারে Regulatory Duty আরোপ করিল, যথাঃ—\n\nTABLE\n\n| Heading\n(1) | H.S. Code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 17.01 |  | -Raw sugar not containing added flavoring or coloring matter |\n|  | 1701.12.00 | -- Beet Sugar |\n|  | 1701.13.00 | --Cane Sugar specified in Subheading Note 2 of Chapter 17 |\n|  | 1701.14.00 | --Other Cane Sugar |\n|  |  | -Other |\n|  | 1701.91.00 | --Containing added flavoring or coloring matter |\n|  | 1701.99.00 | --Other |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18(2) of this Act serves as the legal authority for the government to impose a Regulatory Duty on specific imported goods."
+        ],
+        "First Schedule": [
+          "This schedule, which is part of the Customs Act 1969, defines the classification of goods subject to specific duty adjustments."
+        ],
+        "Regulatory Duty": [
+          "A Regulatory Duty of 20% is imposed on the import of specific sugar products classified under specified headings and H.S. Codes."
+        ],
+        "H.S. Code": [
+          "The order specifies various H.S. Codes related to beet and cane sugar products that are now subject to a 20% Regulatory Duty."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

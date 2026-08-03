@@ -1,0 +1,72 @@
+{
+  "source_file": "customs_sros_OCR/20120607_169-AIN_2012_2397-Customs/20120607_169-AIN_2012_2397-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও ম—ল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ/০৭ জুন, ২০১২ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This entity is the government department responsible for issuing official regulatory notifications related to customs and value-added tax matters."
+        ],
+        "Internal Resources Division": [
+          "This division of the government functions as the administrative body responsible for publishing and issuing statutory regulatory orders in the field of customs and taxation."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৬৯-আইন/২০১২/২৩৯৭/কাস্টমস",
+      "text_id": "20120607_169-AIN_2012_2397-Customs_০৭ জুন, ২০১২_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৬৯-আইন/২০১২/২৩৯৭/কাস্টমস— Customs Act, 1969 (Act IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, অত্র বিভাগের ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ মোতাবেক ১০ জুন, ২০১০ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও নং ১৭৮-আইন/২০১০/২২৯৬/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE-1 এর কলাম (1) উল্লিখিত-\n\n(খ) H.S.Code “8452.40.00” এর পরিবর্তে H.S.Code “8539.90.90” প্রতিস্থাপিত হইবে; এবং\n\n(গ) H.S.Code “8452.90.00” এর পরিবর্তে H.S.Code “8539.90.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the legal authority for the Government to grant exemptions or modify duties, in this instance by amending a prior notification concerning tariff codes."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act serves as a legal basis for the Government to issue notifications that adjust tax-related administrative or tariff provisions."
+        ],
+        "National Board of Revenue": [
+          "The Government is mandated to consult with the National Board of Revenue before exercising its powers to amend existing customs and tax notifications."
+        ],
+        "S.R.O. 178-AIN/2010": [
+          "This existing notification is amended by this order through the substitution of specific Harmonized System (H.S.) codes within its original tariff table."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The H.S. codes listed in the notification table are updated by replacing older codes with a new classification to align with current tariff requirements."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20120607_169-AIN_2012_2397-Customs_০৭ জুন, ২০১২_clause_2",
+      "resolved_text": "০২। এই প্রজ্ঞাপন ১৭ আষাঢ়, ১৪১৯ বঙ্গাব্দ/১ জুলাই, ২০১২ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the effective date of implementation for the order, which is set for the beginning of the new fiscal year in July 2012."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নাসির উদ্দিন)\nঅতিরিক্ত সচিব (পদাধিকারবলে)।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The document is issued under the authority and in the name of the President of Bangladesh, reflecting an official executive act."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

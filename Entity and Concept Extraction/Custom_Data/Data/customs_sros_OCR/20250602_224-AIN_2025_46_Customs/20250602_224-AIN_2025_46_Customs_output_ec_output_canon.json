@@ -1,0 +1,88 @@
+{
+  "source_file": "customs_sros_OCR/20250602_224-AIN_2025_46_Customs/20250602_224-AIN_2025_46_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This entity is the government body responsible for the issuance of the regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "This administrative division under the Ministry of Finance is the issuing authority for the customs and value-added tax notification."
+        ],
+        "Customs Duty": [
+          "This is a tax instrument under the jurisdiction of the Internal Resources Division as indicated in the notification header."
+        ],
+        "Value Added Tax": [
+          "This is a tax instrument under the jurisdiction of the Internal Resources Division as indicated in the notification header."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "এস.আর.ও. নং ২২৪-আইন/২০২৫/৪৬/কাস্টমস।- সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ২৯ মে, ২০২৪ তারিখে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৭৮-আইন/২০২৪/৩০/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা:-",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act empowers the Government to issue notifications regarding customs regulations."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority for the Government to implement fiscal measures in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with this body when exercising its legal powers to issue or amend regulatory notifications."
+        ],
+        "S.R.O. 178-AIN/2024": [
+          "This existing notification is being formally amended by the current regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20250602_224-AIN_2025_46_Customs_২৯ মে, ২০২৫_clause_1",
+      "resolved_text": "উপরিউক্ত প্রজ্ঞাপনের TABLE এর কলাম (1) বর্ণিত Heading 30.02 এর বিপরীতে কলাম (2) এ উল্লিখিত H.S. Code “3002.90.00” এর পরিবর্তে H.S. Code “3002.90.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "H.S. Code": [
+          "The H.S. Code listed in the previously issued notification is being amended by replacing a specific code with a new, corrected H.S. Code.",
+          "This amendment ensures that the classification under the specified Heading is updated to reflect the new code."
+        ],
+        "TABLE": [
+          "The table referenced in the earlier notification is subject to an amendment that replaces an existing H.S. Code entry with a new one."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_224-AIN_2025_46_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ খ্রিস্টাব্দে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the date on which the legal instrument becomes effective and binding."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

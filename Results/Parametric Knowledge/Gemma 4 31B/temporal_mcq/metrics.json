@@ -1,0 +1,22 @@
+{
+  "dataset": "temporal_mcq",
+  "model": "google/gemma-4-31b-it",
+  "generated_at": "2026-07-18 00:48:17",
+  "n_dataset_total": 354,
+  "n_with_records": 354,
+  "n_api_failed": 0,
+  "n_evaluated": 354,
+  "n_correct": 248,
+  "accuracy": 0.7006,
+  "precision_macro": 0.5782,
+  "recall_macro": 0.6043,
+  "f1_macro": 0.5853,
+  "labels": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "format_failure_count": 0,
+  "scoring": "Deterministic: parsed choice_index vs ground-truth answer_index (0-based). Macro-averaged P/R/F1 over option indices as classes (sklearn, zero_division=0). Format failures count as wrong."
+}

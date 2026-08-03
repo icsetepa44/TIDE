@@ -1,0 +1,72 @@
+{
+  "source_file": "customs_sros_OCR/20140605_131-AIN_2014_2495-Customs/20140605_131-AIN_2014_2495-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The Government of Bangladesh, specifically through the Ministry of Finance and the Internal Resources Division, acts as the authority issuing the regulatory notification."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the parent administrative body overseeing customs-related notifications."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division is the specific governmental department responsible for the issuance and publication of this customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তারিখ",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/ ০৫ জুন, ২০১৪ খ্রিস্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং- ১৩১-আইন/২০১৪/২৪৯৫/কাস্টমস",
+      "text_id": "20140605_131-AIN_2014_2495-Customs_০৫ জুন, ২০১৪_clause_1",
+      "resolved_text": "এস,আর,ও নং- ১৩১-আইন/২০১৪/২৪৯৫/কাস্টমস ।— Customs Act, 1969 (Act IV of 1969) এর section 18 এর sub-section (2) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১৭ আষাঢ়, ১৪২০ বঙ্গাব্দ মোতাবেক ১ জুলাই, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ২২০-আইন/২০১৩/২৪৫৯/ কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(ক) প্রস্তাবনায় উল্লিখিত “পণ্যসমূহ এবং Heading 09.02 ও উহার বিপরীতে H.S.Code 0902.30.00 ও 0902.40.00 এর অধীন শ্রেণীবিন্যাসযোগ্য পণ্য ব্যতীত এবং TABLE-A তে উল্লিখিত Heading ও H.S.Code এবং বর্ণনার পণ্যের উপর উহাদের বিপরীতে উল্লিখিত হারে ও” শব্দগুলি, সংখ্যাগুলি ও চিহ্ন এর পরিবর্তে “পণ্যসমূহ ব্যতীত” শব্দগুলি প্রতিস্থাপিত হইবে; এবং\n\n(খ) TABLE-A বিলুপ্ত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18, sub-section (2) of this Act empowers the government, in consultation with the National Board of Revenue, to issue or amend customs notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue before exercising its powers to modify customs notifications."
+        ],
+        "S.R.O. 220-AIN/2013": [
+          "This existing notification is being formally amended to remove specific references regarding exemptions or duty rates for items associated with certain heading and H.S. Code classifications.",
+          "The entirety of TABLE-A contained within this notification is being repealed."
+        ],
+        "H.S. Code": [
+          "The amendments to the prior notification remove specific product exclusions that were previously defined by their heading and H.S. Code classification."
+        ],
+        "TABLE-A": [
+          "This table, which contained specific headings, H.S. Codes, and descriptions of goods, is entirely repealed and removed from the original notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ গোলাম হোসেন)\nসচিব।",
+      "entity_concepts": {
+        "Secretary of the Government": [
+          "The Secretary serves as the authorized signatory for the issuance of government orders and statutory notifications."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

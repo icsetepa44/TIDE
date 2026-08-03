@@ -1,0 +1,51 @@
+{
+  "dataset": "temporal_mcq",
+  "model": "qwen/qwen3.6-35b",
+  "generated_at": "2026-07-18 21:48:43",
+  "n_dataset_total": 354,
+  "n_with_records": 354,
+  "n_api_failed": 0,
+  "n_evaluated": 354,
+  "n_correct": 307,
+  "accuracy": 0.8672,
+  "precision_macro": 0.8754,
+  "recall_macro": 0.8516,
+  "f1_macro": 0.8595,
+  "labels": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "format_failure_count": 27,
+  "scoring": "Deterministic: parsed choice_index vs ground-truth answer_index (0-based). Macro-averaged P/R/F1 over option indices as classes (sklearn, zero_division=0). Format failures count as wrong.",
+  "evaluation_mode": "grounded_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 354,
+    "by_context_status": {
+      "full": 354
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 1,
+      "median": 2.0,
+      "max": 54,
+      "mean": 4.1
+    },
+    "context_char_count": {
+      "min": 968,
+      "median": 57807.0,
+      "max": 973954,
+      "mean": 145477.2
+    },
+    "context_token_estimate": {
+      "min": 242,
+      "median": 14451.0,
+      "max": 243488,
+      "mean": 36368.9
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 0,
+    "n_documents_dropped_total": 0
+  }
+}

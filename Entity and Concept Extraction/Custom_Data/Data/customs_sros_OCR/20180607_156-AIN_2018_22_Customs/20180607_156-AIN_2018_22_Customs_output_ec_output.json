@@ -1,0 +1,72 @@
+{
+  "source_file": "customs_sros_OCR/20180607_156-AIN_2018_22_Customs/20180607_156-AIN_2018_22_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪২৫ বঙ্গাব্দ/২৯ মে, ২০১৮ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Internal Resources Division": [
+          "The Internal Resources Division of the Ministry of Finance is identified as the issuing authority for this notification under the laws of Bangladesh."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the parent government body under which the Internal Resources Division exercises its regulatory functions."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20180607_156-AIN_2018_22_Customs_২৯ মে, ২০১৮_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৫৬-আইন/২০১৮/২২/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ১৮ জ্যৈষ্ঠ, ১৪২৪ বঙ্গাব্দ মোতাবেক ১ জুন, ২০১৭ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং ১৩আইন/২০১৭/১৭/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (১) এ বর্ণিত Heading 85.32 এর বিপরীতে কলাম (২) এ উল্লিখিত H.S.Code “8532.29.00” ও উহার বিপরীতে কলাম (৩) এ উল্লিখিত এন্ট্রির পরিবর্তে নিম্নরূপ কলাম (২) ও (৩) এ উল্লিখিত এন্ট্রি প্রতিস্থাপিত হইবে, যথা:-\n\n“8532.29.90 Capacitor”;",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government to issue notifications regarding customs duty adjustments in the public interest, following consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legal authority for the Government to amend tax-related notifications in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Government is mandated to consult with this board before exercising its powers to amend customs and tax notifications."
+        ],
+        "Table": [
+          "The table within the specified previous notification is being amended to update the description and classification of goods."
+        ],
+        "H.S. Code": [
+          "The entry for the specified H.S. Code under heading 85.32 is replaced with a new code and description to accurately reflect the goods classified as capacitors."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20180607_156-AIN_2018_22_Customs_২৯ মে, ২০১৮_clause_2",
+      "resolved_text": "২। ইহা ৭ জুন, ২০১৮ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "S.R.O. 156-AIN/2018": [
+          "This legal instrument is stipulated to come into effect on a specific date in June 2018."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ মোশাররফ হোসেন ভূঁইয়া, এনডিসি\nসিনিয়র সচিব",
+      "entity_concepts": {
+        "Senior Secretary": [
+          "The Senior Secretary is the signatory authority responsible for the issuance of this regulatory order on behalf of the President."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_file": "customs_sros_OCR/20250602_221-AIN_2025_43_Customs/20250602_221-AIN_2025_43_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিষ্টাব্দ\nএস.আর.ও. নং ২২১-আইন/২০২৫/৪৩/কাস্টমস।-",
+      "entity_concepts": {
+        "S.R.O. 221-AIN/2025": [
+          "This is a statutory regulatory order issued by the Internal Resources Division of the Ministry of Finance."
+        ],
+        "Ministry of Finance": [
+          "The Internal Resources Division under the Ministry of Finance is the government authority responsible for issuing this customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20250602_221-AIN_2025_43_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1",
+      "resolved_text": "সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ১৯ জানুয়ারি, ২০২৫ তারিখে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ৩০-আইন/২০২৫/০২-কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরিউক্ত প্রজ্ঞাপনের TABLE এর কলাম (1) বর্ণিত Heading 84.21 এর বিপরীতে কলাম (2) এ উল্লিখিত H.S. Code “8421.39.99” এর পরিবর্তে H.S. Code “8421.39.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act empowers the Government to issue notifications regarding customs-related changes in consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority for the Government to implement fiscal measures in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Board acts as the consultative body for the Government in exercising its power to amend customs and tax notifications."
+        ],
+        "S.R.O. 30-AIN/2025": [
+          "This existing notification is being amended to correct or update specific tariff classifications."
+        ],
+        "TABLE": [
+          "The table within the notification is amended to replace a specific HS Code entry under Heading 84.21 with a new, corrected HS Code."
+        ],
+        "H.S. Code": [
+          "The HS Code 8421.39.99 is formally replaced by HS Code 8421.39.90 within the specified customs tariff heading."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_221-AIN_2025_43_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the official commencement date for the application of the legal provisions contained within the order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

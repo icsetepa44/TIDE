@@ -1,0 +1,78 @@
+{
+  "source_file": "customs_sros_OCR/20250602_236-AIN_2025_58_Customs/20250602_236-AIN_2025_58_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "This is the official issuing authority responsible for the issuance of this regulatory notification."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the parent administrative body overseeing the issuance of this customs notification."
+        ],
+        "Internal Resources Division": [
+          "This administrative division within the Ministry of Finance is the specific government entity responsible for the drafting and publication of this customs instrument."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তারিখ",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২৩৬-আইন/২০২৫/৫৮/কাস্টমস",
+      "text_id": "20250602_236-AIN_2025_58_Customs_২৯ মে, ২০২৫_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২৩৬-আইন/২০২৫/৫৮/কাস্টমস।- সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে জনস্বার্থে, ২৯ মে, ২০২৪ তারিখে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৯২-আইন/২০২৪/৪৪/কাস্টমস এতদ্দ্বারা রহিত করিল।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act empowers the Government to issue orders in the public interest for the repeal of previous customs notifications."
+        ],
+        "S.R.O. 192-AIN/2024": [
+          "This specific customs notification, originally issued in May 2024, is formally repealed by the current order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_236-AIN_2025_58_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "The enforcement date for this legal instrument is specified to begin on the second day of June in the year twenty-twenty-five."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The document is issued under the authority of the President of Bangladesh, reflecting the formal executive action taken by the administrative branch."
+        ],
+        "Secretary of the Ministry of Finance": [
+          "The official holding the position of Secretary has signed the document, signifying the official authentication and administrative finalization of the regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

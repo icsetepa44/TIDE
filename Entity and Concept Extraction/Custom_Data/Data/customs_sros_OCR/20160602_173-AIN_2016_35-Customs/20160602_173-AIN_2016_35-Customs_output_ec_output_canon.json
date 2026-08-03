@@ -1,0 +1,58 @@
+{
+  "source_file": "customs_sros_OCR/20160602_173-AIN_2016_35-Customs/20160602_173-AIN_2016_35-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ : ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ/২ জুন, ২০১৬ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry in Bangladesh responsible for overseeing financial regulations and taxation policies, including the administration of customs and value-added tax."
+        ],
+        "Internal Resources Division": [
+          "This government division, operating under the Ministry of Finance, serves as the regulatory authority responsible for customs, excise, and tax administration, and it issues legal notifications such as this order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৭৩-আইন/২০১৬/৩৫/কাস্টমস",
+      "text_id": "20160602_173-AIN_2016_35-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৭৩-আইন/২০১৬/৩৫/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১৭ আষাঢ়, ১৪২২ বঙ্গাব্দ মোতাবেক ১ জুলাই, ২০১৫ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ২০৩-আইন/২০১৫/৪০/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (১) এ উল্লিখিত Heading 29.33 এর বিপরীতে কলাম (২) তে বর্ণিত H.S. Code “2933.39.90” এর পরিবর্তে H.S. Code “2933.39.00” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the legal authority for the Government to grant exemptions and issue notifications regarding customs duties."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legal power, in consultation with the National Board of Revenue, to amend tax-related notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with the National Board of Revenue before issuing or amending notifications under the specified customs and tax laws."
+        ],
+        "S.R.O. 203-AIN/2015": [
+          "This existing notification is amended to update the classification of goods within its schedule."
+        ],
+        "H.S. Code": [
+          "The H.S. Code listed under Heading 29.33 in the TABLE of the existing notification is updated to replace the old code with a new specific code."
+        ],
+        "TABLE": [
+          "The table within the notification is subject to an amendment that corrects a specific H.S. Code entry to reflect the accurate classification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

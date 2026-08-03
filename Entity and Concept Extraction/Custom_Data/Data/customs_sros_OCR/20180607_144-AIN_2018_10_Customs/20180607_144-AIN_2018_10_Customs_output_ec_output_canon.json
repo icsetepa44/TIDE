@@ -1,0 +1,69 @@
+{
+  "source_file": "customs_sros_OCR/20180607_144-AIN_2018_10_Customs/20180607_144-AIN_2018_10_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪২৫ বঙ্গাব্দ/২৯ মে, ২০১৮ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The Government of Bangladesh, through the Internal Resources Division of the Ministry of Finance, is issuing this official notification."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the issuing authority for this regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division acts as the administrative wing responsible for publishing this notification regarding customs matters."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৪৪-আইন/২০১৮/১০/কাস্টমস",
+      "text_id": "20180607_144-AIN_2018_10_Customs_২৯ মে, ২০১৮_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৪৪-আইন/২০১৮/১০/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২৯ চৈত্র, ১৪২৪ বঙ্গাব্দ মোতাবেক ১২ এপ্রিল, ২০১৮ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ১০৮-আইন/২০১৮/০৬/কাস্টমস এতদ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government, in consultation with the National Board of Revenue, to issue or rescind customs notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "This body is consulted by the Government when exercising its legal authority to repeal specific customs notifications."
+        ],
+        "S.R.O. 108-AIN/2018": [
+          "This earlier customs notification, issued in April 2018, is formally repealed by the current regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20180607_144-AIN_2018_10_Customs_২৯ মে, ২০১৮_clause_2",
+      "resolved_text": "২। ইহা ৭ জুন, ২০১৮ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "S.R.O. 144-AIN/2018": [
+          "This instrument shall come into force on the seventh day of June, two thousand and eighteen."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ মোশাররফ হোসেন ভূঁইয়া, এনডিসি\nসিনিয়র সচিব",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The document is issued under the authority of the President by the Senior Secretary of the National Board of Revenue, signifying an official regulatory act."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

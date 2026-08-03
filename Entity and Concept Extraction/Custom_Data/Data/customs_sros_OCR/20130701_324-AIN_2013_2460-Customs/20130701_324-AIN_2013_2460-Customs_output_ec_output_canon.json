@@ -1,0 +1,63 @@
+{
+  "source_file": "customs_sros_OCR/20130701_324-AIN_2013_2460-Customs/20130701_324-AIN_2013_2460-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড\nরাজস্ব ভবন\nসেগুন বাগিচা, ঢাকা।\n\n(কাস্টমস)\n\nআদেশ",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the government authority responsible for issuing customs-related orders, as indicated by the document metadata and header information."
+        ],
+        "Customs": [
+          "This order pertains to the regulatory and administrative oversight of customs operations under the authority of the government."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ : ১৭ আষাঢ়, ১৪২০ বঙ্গাব্দ/১ জুলাই, ২০১৩ খ্রিষ্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "প্রজ্ঞাপন নং- ৩২৪/২০১৩/কাস্টমস",
+      "text_id": "20130701_324-AIN_2013_2460-Customs_১ জুলাই, ২০১৩_clause_1",
+      "resolved_text": "প্রজ্ঞাপন নং- ৩২৪/২০১৩/কাস্টমস ।- Customs Act, 1969 (Act IV of 1969) এর section 21(b) এ প্রদত্ত ক্ষমতাবলে জাতীয় রাজস্ব বোর্ড, অত্র বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং ১৪৮-আইন/২০১৩/২৪৩৫/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথাঃ\n\nউপরি-উক্ত প্রজ্ঞাপনের প্রথম অংশে জারির তারিখে উল্লিখিত “২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ” এর পর উল্লিখিত “০৬ জুন, ২০১২ খ্রিষ্টাব্দ” সংখ্যাগুলি, শব্দগুলি ও কমার পরিবর্তে “০৬ জুন, ২০১৩ খ্রিষ্টাব্দ” সংখ্যাগুলি, শব্দগুলি ও কমা প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 21(b) of the Customs Act 1969 provides the legal authority for the National Board of Revenue to issue and amend customs notifications."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue exercises its regulatory authority to amend previously issued customs notifications."
+        ],
+        "S.R.O. 148-AIN/2013": [
+          "This notification is formally amended to correct the date references specified within its text.",
+          "The amendment involves replacing an older date with a more recent one to ensure the accuracy of the regulatory record."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মুঃ রইচ উদ্দিন খান)\nদ্বিতীয় সচিব (শুল্ক : নীতি ও বাজেট)।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the issuing authority responsible for the issuance of this regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

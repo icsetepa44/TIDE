@@ -1,0 +1,85 @@
+{
+  "source_file": "customs_sros_OCR/20130606_157-AIN_2013_2444-Customs/20130606_157-AIN_2013_2444-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "This legal instrument is issued by the Government of Bangladesh under the authority of the Ministry of Finance."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division acts as the administrative authority responsible for the customs and value added tax matters addressed in this notification."
+        ],
+        "Customs": [
+          "This document pertains to the regulation and governance of customs affairs."
+        ],
+        "Value Added Tax": [
+          "This document pertains to the regulation and governance of value added tax matters."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তারিখ",
+      "text_id": "metadata_2",
+      "resolved_text": "তারিখ : ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ/০৬ জুন, ২০১৩ খ্রিস্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "এস.আর.ও. নং- ১৫৭-আইন/২০১৩/২৪৪৪/কাস্টমস",
+      "text_id": "metadata_3",
+      "resolved_text": "এস.আর.ও. নং- ১৫৭-আইন/২০১৩/২৪৪৪/কাস্টমস ।- Customs Act, 1969 (Act IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, অত্র বিভাগের ২৮ জ্যৈষ্ঠ, ১৪১৬ বঙ্গাব্দ মোতাবেক ১১ জুন, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও, নং ১৩৭-আইন/২০০৯/২২৪০/শুল্ক এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the legal authority for the government to issue notifications regarding duty and tax exemptions in the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act is cited as a source of authority, in consultation with the National Board of Revenue, to issue regulatory orders affecting tax exemptions."
+        ],
+        "National Board of Revenue": [
+          "This body is formally consulted by the government before exercising the power to issue or amend regulatory orders under the relevant customs and value added tax legislation."
+        ],
+        "S.R.O. 137-AIN/2009": [
+          "This existing notification regarding exemptions is being further amended by the current regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20130606_157-AIN_2013_2444-Customs_০৬ জুন, ২০১৩_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপনের টেবিল এর কলাম (১) উল্লিখিত এন্ট্রি “8418.50.00”, ৩ (তিন) বার উল্লিখিত, এর পরিবর্তে, সকল স্থানে, এন্ট্রি “8418.50.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Bangladesh Customs Tariff": [
+          "The tariff entry previously identified as 8418.50.00, which appeared three times in the notification table, is officially replaced with the entry 8418.50.90 in all instances."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষরকারী",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নাসির উদ্দিন)\nঅতিরিক্ত সচিব (পদাধিকারবলে)।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The official order is issued under the authority of the President of Bangladesh.",
+          "The execution and authentication of the order are performed by an Additional Secretary acting in an official capacity."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

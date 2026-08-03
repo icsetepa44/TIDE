@@ -1,0 +1,128 @@
+{
+  "dataset": "temporal_scenario_short_answer",
+  "model": "deepseek/deepseek-v4-flash",
+  "generated_at": "2026-07-20 04:31:20",
+  "n_dataset_total": 363,
+  "n_with_records": 363,
+  "n_api_failed": 0,
+  "n_evaluated": 363,
+  "n_scored": 363,
+  "n_judge_error": 0,
+  "n_legacy_records_excluded": 0,
+  "n_empty_answers": 0,
+  "n_uncertain": 0,
+  "n_calendar_mismatch": 0,
+  "mean_final_score": 0.6793,
+  "mean_final_score_counting_judge_errors_as_zero": 0.6793,
+  "mean_date_score": 0.3288,
+  "meaning_correct_rate": 0.6942,
+  "full_credit_rate": 0.6639,
+  "zero_score_rate": 0.303,
+  "score_distribution": {
+    "0": 110,
+    "0.25": 1,
+    "0.3333": 1,
+    "0.5": 10,
+    "1": 241
+  },
+  "n_date_matches_deterministic": 56,
+  "n_date_matches_judge_only": 1,
+  "n_confidence_scored": 363,
+  "judge_confidence_mean": 98.69,
+  "judge_confidence_mean_when_meaning_correct": 99.01,
+  "judge_confidence_mean_when_meaning_wrong": 97.97,
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 363,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "scoring": "Rubric v2: atomic LLM-judge booleans (Gemini, temperature=0) + deterministic Python scoring (rubric_scoring.score_base). Dates are a hard gate; judge errors are excluded from mean_final_score.",
+  "evaluation_mode": "grounded_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 363,
+    "by_context_status": {
+      "full": 363
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 1,
+      "median": 3,
+      "max": 81,
+      "mean": 5.4
+    },
+    "context_char_count": {
+      "min": 1421,
+      "median": 64833,
+      "max": 973954,
+      "mean": 159519.8
+    },
+    "context_token_estimate": {
+      "min": 355,
+      "median": 16208,
+      "max": 243488,
+      "mean": 39879.6
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 0,
+    "n_documents_dropped_total": 0
+  },
+  "similarity_metrics": {
+    "n_records": 363,
+    "n_eligible": 343,
+    "n_skipped_hard_gate": 20,
+    "n_skipped_unscored": 0,
+    "bleu_mean": 0.2186,
+    "bertscore_precision_mean": 0.8796,
+    "bertscore_recall_mean": 0.9156,
+    "bertscore_f1_mean": 0.8971,
+    "by_meaning_correct": {
+      "true": {
+        "n": 241,
+        "bleu_mean": 0.2382,
+        "bertscore_precision_mean": 0.8835,
+        "bertscore_recall_mean": 0.9206,
+        "bertscore_f1_mean": 0.9015
+      },
+      "false": {
+        "n": 102,
+        "bleu_mean": 0.1723,
+        "bertscore_precision_mean": 0.8704,
+        "bertscore_recall_mean": 0.9037,
+        "bertscore_f1_mean": 0.8867
+      }
+    },
+    "judge_agreement": {
+      "bleu": {
+        "point_biserial_r": 0.2791,
+        "p_value": 0.0
+      },
+      "bertscore_f1": {
+        "point_biserial_r": 0.3477,
+        "p_value": 0.0
+      },
+      "note": "point-biserial correlation of meaning_correct (0/1) vs the metric over eligible items; positive r supports the judge (judge-correct items are more similar to the GT)"
+    },
+    "eligibility_rule": "status==ok AND not answered_empty AND judge_atoms present AND n_matched == n_gt_dates (meaning component live in score_base)",
+    "config": {
+      "bleu_variant": "custom cumulative BLEU-2, epsilon-smoothed, brevity penalty, Bengali-aware tokenizer (rubric_scoring.bleu_score)",
+      "bertscore_model": "xlm-roberta-large",
+      "num_layers": 17,
+      "rescale_with_baseline": false,
+      "bert_score_version": "0.3.12",
+      "device": "mps",
+      "batch_size": 32
+    },
+    "note": "Diagnostic judge-sanity metrics over hard-gate-passing items only; never part of final_score.",
+    "generated_at": "2026-07-20 06:56:44"
+  }
+}

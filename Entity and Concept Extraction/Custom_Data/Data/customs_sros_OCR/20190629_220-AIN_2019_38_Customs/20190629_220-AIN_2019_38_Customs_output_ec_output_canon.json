@@ -1,0 +1,71 @@
+{
+  "source_file": "customs_sros_OCR/20190629_220-AIN_2019_38_Customs/20190629_220-AIN_2019_38_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ, ১৫ আষাঢ়, ১৪২৬ বঙ্গাব্দ/২৯ জুন, ২০১৯ খ্রিষ্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২২০-আইন/২০১৯/৩৮/কাস্টমস",
+      "text_id": "20190629_220-AIN_2019_38_Customs_২০১৯-০৬-২৯_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২২০-আইন/২০১৯/৩৮/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১৫ জ্যৈষ্ঠ, ১৪২৫ বঙ্গাব্দ মোতাবেক ২৯ মে, ২০১৮ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং ১৪৮-আইন/২০১৮/১৪/কাস্টমস এর অধিকতর সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(১) TABLE-2 এর কলাম (1) উল্লিখিত H.S. Code-\n\n(ক) 4811.90.21 এবং উহার বিপরীতে কলাম (2), (3) ও (4) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে; এবং\n\n(খ) 7212.50.10 এর বিপরীতে কলাম (2) এ উল্লিখিত এন্ট্রি “Steel plate of a thickness of 0.25 mm imported by VAT registered refrigerator manufacturing industry” এর পরিবর্তে এন্ট্রি “Steel plate of a thickness of 0.25 mm to 0.50 mm imported by VAT registered refrigerator manufacturing industry” প্রতিস্থাপিত হইবে;\n\n(২) TABLE-3 এর কলাম (1) উল্লিখিত H.S. Code 7210.61.10 এর বিপরীতে কলাম (2) এ উল্লিখিত এন্ট্রি “Flat-rolled products of iron or non-alloy steel plated or coated with aluminium-zinc alloys of a thickness of 0.25 mm or more imported by VAT registered refrigerator or air conditioner manufacturing industry” এর পরিবর্তে এন্ট্রি “Flat-rolled products of iron or non-alloy steel plated or coated with aluminium-zinc alloy of a thickness of 0.25 mm or more imported by VAT registered refrigerator, air conditioner or continuous color coating line manufacturing industry” প্রতিস্থাপিত হইবে;\n\n(৩) TABLE-4 এর কলাম (1) উল্লিখিত H.S. Code-\n\n(ক) 4802.57.10 এবং উহার বিপরীতে কলাম (2), (3) ও (4) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে;\n\n(খ) 4810.99.10 এবং উহার বিপরীতে কলাম (2), (3) ও (4) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে; এবং\n\n(গ) 4821.90.10 এবং উহার বিপরীতে কলাম (2), (3) ও (4) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act empowers the government to grant exemptions or make modifications to customs duties in the public interest."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority for the government to issue notifications regarding tax modifications in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The board is the consultative authority for the government when amending customs notifications for public interest."
+        ],
+        "S.R.O. 148-AIN/2018/14/Customs": [
+          "This existing notification is being formally amended by the current S.R.O. to update specific H.S. Code entries in its attached tables."
+        ],
+        "H.S. Code": [
+          "Multiple H.S. Codes in Table-2, Table-3, and Table-4 are either deleted or modified to update the description of goods allowed for specific industrial purposes.",
+          "Specific changes include expanding the thickness range for steel plates used in refrigerator manufacturing and broadening the industry scope for specific flat-rolled iron or steel products."
+        ],
+        "TABLE-2": [
+          "Certain entries in this table are deleted, and others are modified to update the thickness specifications for steel plates imported by VAT-registered refrigerator manufacturing industries."
+        ],
+        "TABLE-3": [
+          "An entry in this table is modified to expand the list of eligible industries to include continuous color coating line manufacturing for specific flat-rolled steel products."
+        ],
+        "TABLE-4": [
+          "Specific H.S. Code entries within this table are entirely repealed and removed."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20190629_220-AIN_2019_38_Customs_২০১৯-০৬-২৯_clause_2",
+      "resolved_text": "২। ইহা ১ জুলাই, ২০১৯ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "20190629_220-AIN_2019_38_Customs": [
+          "This statutory order specifies its commencement date as the first day of July in the year two thousand nineteen."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nমোঃ মোশাররফ হোসেন ভূঁইয়া, এনডিসি\nসিনিয়র সচিব",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

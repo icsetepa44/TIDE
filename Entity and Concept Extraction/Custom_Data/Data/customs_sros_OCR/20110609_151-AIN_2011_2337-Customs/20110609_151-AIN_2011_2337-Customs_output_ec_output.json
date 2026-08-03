@@ -1,0 +1,42 @@
+{
+  "source_file": "customs_sros_OCR/20110609_151-AIN_2011_2337-Customs/20110609_151-AIN_2011_2337-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২৬ জ্যৈষ্ঠ, ১৪১৮ বঙ্গাব্দ/ ০৯ জুন, ২০১১ খ্রিষ্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১৫১-আইন/২০১১/২৩৩৭/কাস্টমস",
+      "text_id": "20110609_151-AIN_2011_2337-Customs_০৯ জুন, ২০১১_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৫১-আইন/২০১১/২৩৩৭/কাস্টমস।— Customs Act, 1969 (IV of 1969) এর section 19(1) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, অত্র বিভাগের ৯ কার্তিক, ১৪১৭ বঙ্গাব্দ মোতাবেক ২৪ অক্টোবর, ২০১০ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ৩৫৬-আইন/২০১০/২৩২৫/শুল্ক এতদ্দ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act provides the Government the authority to grant exemptions and to issue or rescind customs notifications in the public interest, in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The Board is the designated body that must be consulted by the Government prior to the issuance or cancellation of customs notifications."
+        ],
+        "S.R.O. 356-AIN/2010": [
+          "This prior customs notification is officially repealed by the current order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(ড. নাসিরউদ্দীন আহমেদ)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

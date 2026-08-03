@@ -1,0 +1,69 @@
+{
+  "source_file": "customs_sros_OCR/20250602_212-AIN_2025_34_Customs/20250602_212-AIN_2025_34_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২১২-আইন/২০২৫/৩৪/কাস্টমস।– সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, ২৯ মে, ২০২৪ তারিখে জারিকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৯৪-আইন/২০২৪/ ৪৬/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরিউক্ত প্রজ্ঞাপনের TABLE-1 এর কলাম (1) এ উল্লিখিত Heading-\n\n(ক) 72.12 এর বিপরীতে কলাম (2) এ বর্ণিত H.S. Code “7212.20.90” এর পরিবর্তে H.S. Code “7212.20.00” প্রতিস্থাপিত হইবে;\n\n(খ) 74.11 এর বিপরীতে কলাম (2) এ বর্ণিত H.S. Code “7411.10.90” এর পরিবর্তে H.S. Code “7411.10.00” প্রতিস্থাপিত হইবে; এবং\n\n(গ) 79.01 এর বিপরীতে কলাম (2) এ বর্ণিত H.S. Code “7901.20.90” এর পরিবর্তে H.S. Code “7901.20.00” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act empowers the government to issue notifications regarding customs matters."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides the legal authority for the government to issue specific fiscal notifications in consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The government exercises its power to issue or amend these notifications in consultation with this body."
+        ],
+        "S.R.O. 194-AIN/2024": [
+          "This existing notification is being amended to correct and update specific HS Codes listed in its primary table."
+        ],
+        "TABLE-1": [
+          "This table within the notification is being updated by replacing specific older HS Codes with new versions to ensure accurate classification."
+        ],
+        "H.S. Code": [
+          "The notification replaces specific existing H.S. Codes in the table with updated codes for headings related to metals and metal products to maintain tariff consistency."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_212-AIN_2025_34_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the date on which the legal instrument becomes effective and binding."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "This document is issued by the authority of the President of Bangladesh.",
+          "The administrative act is formalized through the official signature of the Secretary."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

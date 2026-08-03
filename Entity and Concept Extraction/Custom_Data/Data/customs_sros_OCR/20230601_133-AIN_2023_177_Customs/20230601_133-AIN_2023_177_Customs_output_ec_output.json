@@ -1,0 +1,65 @@
+{
+  "source_file": "customs_sros_OCR/20230601_133-AIN_2023_177_Customs/20230601_133-AIN_2023_177_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ০৭ জ্যৈষ্ঠ, ১৪৩০ বঙ্গাব্দ/২১ মে, ২০২৩ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৩৩-আইন/২০২৩/১৭৭/কাস্টমস",
+      "text_id": "20230601_133-AIN_2023_177_Customs_২১ মে, ২০২৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৩৩-আইন/২০২৩/১৭৭/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 219, উক্ত Act এর THIRD SCHEDULE এর Item 17 এর সহিত পঠিতব্য, এ প্রদত্ত ক্ষমতাবলে জাতীয় রাজস্ব বোর্ড, Pilgrims Baggage (Import) Rules, 1977 এতদ্দ্বারা রহিত করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This Act serves as the primary legal foundation providing the National Board of Revenue the authority to issue and repeal customs-related rules under section 219 and its Third Schedule."
+        ],
+        "National Board of Revenue": [
+          "The Board acts as the regulatory body exercising its legal power to rescind existing baggage rules."
+        ],
+        "Pilgrims Baggage (Import) Rules 1977": [
+          "These specific baggage rules are formally repealed by the current statutory regulatory order."
+        ],
+        "Third Schedule": [
+          "Item 17 of this Schedule is referenced as part of the legal basis for exercising the authority to repeal the baggage rules."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20230601_133-AIN_2023_177_Customs_২১ মে, ২০২৩_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ১ জুন, ২০২৩ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies that the order comes into force on the first day of June, twenty twenty-three."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nচেয়ারম্যান।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the authority under which this statutory order is issued."
+        ],
+        "Chairman": [
+          "The Chairman of the National Board of Revenue provides the formal signature required to authorize and issue this legal order."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

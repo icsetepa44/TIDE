@@ -1,0 +1,58 @@
+{
+  "source_file": "customs_sros_OCR/20150604_138-AIN_2015_18-Customs/20150604_138-AIN_2015_18-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ, ২১ জ্যৈষ্ঠ, ১৪২২ বঙ্গাব্দ/৪ জুন, ২০১৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government ministry is the authority responsible for the issuance of this customs notification."
+        ],
+        "Internal Resources Division": [
+          "This administrative division under the Ministry of Finance serves as the issuing body for this regulatory notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ১৩৮-আইন/২০১৫/১৮/কাস্টমস",
+      "text_id": "20150604_138-AIN_2015_18-Customs_৪ জুন, ২০১৫_clause_1",
+      "resolved_text": "এস, আর, ও নং ১৩৮-আইন/২০১৫/১৮/কাস্টমস।— Customs Act, 1969 (Act IV of 1969) এর section 19(1), মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪(১) এর সহিত পঠিতব্য, এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, অত্র বিভাগের ২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ মোতাবেক ৭ জুন, ২০১২ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৬০-আইন/২০১২/২৩৮৮/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের 'TABLE' এর কলাম (১) এ উল্লিখিত Heading-\n\n(ক)  ৩0.0৬ এর বিপরীতে কলাম (২) ও (৩) এ উল্লিখিত এন্ট্রিসমূহের পর নিম্নলিখিত নতুন এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা:-\n\n    \"38.08 3808.99.10 Biological deodorant for biogas plant\";\n\n(খ)  ৪২.০৩ এর বিপরীতে কলাম (২) ও (৩) এ উল্লিখিত এন্ট্রিসমূহের পর নিম্নলিখিত নতুন এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা:-\n\n    “ 48.21 4821.90.00 Mini pipette for semen sampling\";\n\n(গ)  ৮৪.১৪ এর বিপরীতে কলাম (২) এ উল্লিখিত H.S. Code 8414.51.90 এর পরিবর্তে নিম্নলিখিত নতুন H.S. Code এবং উহার বিপরীতে কলাম (৩) এ নিম্নলিখিত এন্ট্রি প্রতিস্থাপিত হইবে, যথা:-\n\n    “8414.51.00 Fan with housing”; এবং\n\n(ঘ)  ৮৫.৩৭ এর বিপরীতে কলাম (২) এ উল্লিখিত এন্ট্রি “8537.10.00” এর পরিবর্তে “8537.10.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This act provides the enabling authority under Section 19(1) for the government to issue notifications and amendments regarding customs duties."
+        ],
+        "Value Added Tax Act 1991": [
+          "This act is read in conjunction with the Customs Act 1969 to provide the legal basis for the current regulatory amendments."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue before exercising its power to amend customs-related notifications."
+        ],
+        "S.R.O. 160-AIN/2012": [
+          "This existing customs notification is subject to further amendments regarding specific tariff headings and commodity entries as specified in the current order."
+        ],
+        "TABLE": [
+          "The table within the specified notification is amended by inserting new commodity entries for biological deodorants and mini pipettes, and by replacing or updating existing H.S. Code entries for fans and electronic control units."
+        ],
+        "H.S. Code": [
+          "The amendments update or add specific codes to the customs tariff structure to precisely classify items like biological deodorants, mini pipettes, fans, and electronic control equipment."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

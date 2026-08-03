@@ -1,0 +1,60 @@
+{
+  "dataset": "context_misalignment",
+  "model": "deepseek/deepseek-v4-flash",
+  "generated_at": "2026-07-18 14:36:29",
+  "n_dataset_total": 116,
+  "n_with_records": 116,
+  "n_api_failed": 0,
+  "n_evaluated": 116,
+  "n_scored": 116,
+  "n_judge_error": 0,
+  "n_legacy_records_excluded": 0,
+  "n_empty_answers": 0,
+  "n_uncertain": 0,
+  "n_calendar_mismatch": 0,
+  "mean_final_score": 0.1415,
+  "mean_final_score_counting_judge_errors_as_zero": 0.1415,
+  "mean_date_score": 0.1219,
+  "meaning_correct_rate": 0.0517,
+  "full_credit_rate": 0.0431,
+  "zero_score_rate": 0.6638,
+  "score_distribution": {
+    "0": 77,
+    "0.1667": 1,
+    "0.25": 21,
+    "0.5": 12,
+    "1": 5
+  },
+  "n_date_matches_deterministic": 37,
+  "n_date_matches_judge_only": 1,
+  "n_confidence_scored": 116,
+  "judge_confidence_mean": 99.48,
+  "judge_confidence_mean_when_meaning_correct": 100.0,
+  "judge_confidence_mean_when_meaning_wrong": 99.45,
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 116,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "scoring": "Rubric v2: atomic LLM-judge booleans (LLM as a Council, temperature=0) + deterministic Python scoring (rubric_scoring.score_base). Dates are a hard gate; judge errors are excluded from mean_final_score.",
+  "conflict_behavior": {
+    "n_with_conflict_atoms": 116,
+    "context_adherence_rate": 0.7069,
+    "parametric_adherence_rate": 0.1379,
+    "conflict_acknowledgement_rate": 0.1034,
+    "blended_sources_rate": 0.0086,
+    "note": "Logged-only judge atoms; never part of final_score. A single scalar would hide exactly the conflict-resolution behavior this split measures."
+  },
+  "context_adherence_rate": 0.7069,
+  "conflict_acknowledgement_rate": 0.1034
+}

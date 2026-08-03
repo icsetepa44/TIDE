@@ -1,0 +1,58 @@
+{
+  "source_file": "customs_sros_OCR/20100610_179-AIN_2010_2297-Customs/20100610_179-AIN_2010_2297-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n( শুল্ক ও মূল্য সংযোজন কর )\n\nপ্রজ্ঞাপন\n\nতারিখ : ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ/১০ জুন, ২০১০ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "This is the government authority responsible for the issuance of customs and tax-related notifications under the internal resources division."
+        ],
+        "Customs Duty": [
+          "The document pertains to regulatory matters concerning the administration of customs duties and related fiscal instruments."
+        ],
+        "Value Added Tax": [
+          "The document pertains to regulatory matters concerning the administration of value added tax and related fiscal instruments."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১৭৯-আইন/২০১০/২২৯৭/শুল্ক",
+      "text_id": "20100610_179-AIN_2010_2297-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৭৯-আইন/২০১০/২২৯৭/শুল্ক — Customs Act, 1969 (Act IV of 1969) এর section 19 এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, অত্র বিভাগের ২৬ জ্যৈষ্ঠ, ১৪১২ বঙ্গাব্দ মোতাবেক ৯ জুন, ২০০৫ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৬৯-আইন/২০০৫/২০৭৮/শুল্ক এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (1) এ উল্লিখিত-\n\n(ক) এন্ট্রি “2833.29.40” এর পরিবর্তে এন্ট্রি “2833.29.90” প্রতিস্থাপিত হইবে;\n\n(খ) এন্ট্রি “2905.12.10” এর পরিবর্তে এন্ট্রি “2905.12.00” প্রতিস্থাপিত হইবে;\n\n(গ) এন্ট্রি “2905.31.00” এর পরিবর্তে এন্ট্রি “2905.31.90” প্রতিস্থাপিত হইবে;\n\n(ঘ) এন্ট্রি “3201.90.10” এর পরিবর্তে এন্ট্রি “3201.90.00” প্রতিস্থাপিত হইবে; এবং\n\n(ঙ) এন্ট্রি “3201.90.90” এর পরিবর্তে এন্ট্রি “3201.90.00” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19 of the Act empowers the Government to issue notifications and amend existing ones regarding customs duties and taxes in the public interest after consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legal authority for the Government to implement fiscal amendments in conjunction with the Customs Act."
+        ],
+        "National Board of Revenue": [
+          "The Government consults with this body before exercising its powers to issue or amend regulatory notifications under customs and tax laws."
+        ],
+        "S.R.O. 169-AIN/2005": [
+          "This existing customs notification is subject to further amendments regarding specific entries within its attached table."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The notification updates the specific tariff headings used in the import classification table to reflect changes in the coding structure."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(ড. নাসিরউদ্দীন আহমেদ)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

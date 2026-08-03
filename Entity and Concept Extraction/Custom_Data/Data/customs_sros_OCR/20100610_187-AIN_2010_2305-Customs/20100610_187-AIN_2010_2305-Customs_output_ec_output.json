@@ -1,0 +1,55 @@
+{
+  "source_file": "customs_sros_OCR/20100610_187-AIN_2010_2305-Customs/20100610_187-AIN_2010_2305-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n( শুল্ক ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ : ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ/১০ জুন, ২০১০ খ্রিষ্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government body issued the notification dated June 10, 2010."
+        ],
+        "Internal Resources Division": [
+          "This administrative division under the Ministry of Finance is responsible for the issuance of this customs and value added tax related notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১৮৭-আইন/২০১০/২৩০৫/শুল্ক",
+      "text_id": "20100610_187-AIN_2010_2305-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৮৭-আইন/২০১০/২৩০৫/শুল্ক— Customs Act, 1969 (IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, অত্র বিভাগের ৫ আষাঢ়, ১৪১৫ বঙ্গাব্দ মোতাবেক ১৯ জুন, ২০০৮ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৫৮-আইন/২০০৮/২১৮৯/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (1) এর Heading No. 85.17 এর বিপরীতে কলাম (2) তে উল্লিখিত এন্ট্রি “8517.62.40” এর পরিবর্তে এন্ট্রি “8517.62.30” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the government the authority to issue notifications and amendments in the public interest, in consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act grants the government the legal power to issue and amend regulatory notifications regarding tax exemptions or modifications."
+        ],
+        "National Board of Revenue": [
+          "The Board serves as the consultative body that the government must engage with before enacting customs and tax-related notifications."
+        ],
+        "S.R.O. 158-AIN/2008": [
+          "This existing notification is formally amended by the current order to update specific entries in its attached table."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff schedule entry for a specific communication equipment heading is updated by replacing the existing classification code with a new code in the relevant notification table."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\n(ড. নাসিরউদ্দীন আহমেদ)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "source_file": "customs_sros_OCR/20100610_186-AIN_2010_2304-Customs/20100610_186-AIN_2010_2304-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(শুল্ক ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ/১০ জুন, ২০১০ খ্রিষ্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১৮৬-আইন/২০১০/২৩০৪/শুল্ক",
+      "text_id": "20100610_186-AIN_2010_2304-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৮৬-আইন/২০১০/২৩০৪/শুল্ক।— Customs Act, 1969 (Act IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, অত্র বিভাগের ৩ পৌষ, ১৪১৪ বঙ্গাব্দ মোতাবেক ১৭ ডিসেম্বর, ২০০৭ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ২৯২-আইন/২০০৭/২১৭২/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (১) এ উল্লিখিত এন্ট্রি “2501.00.23” এর পরিবর্তে এন্ট্রি “2501.00.20” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Customs Act 1969 provides the Government with the authority to issue notifications and amendments in the public interest after consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of the Value Added Tax Act 1991 provides the legislative authority for the Government to enact changes to tax-related notifications."
+        ],
+        "National Board of Revenue": [
+          "The Government must consult with the National Board of Revenue before exercising its authority to amend customs and tax notifications."
+        ],
+        "S.R.O. 292-AIN/2007": [
+          "This existing statutory notification is amended to update the classification entry within its referenced table."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The tariff entry previously listed under a specific code in the notification table is replaced with a new classification code."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(ড. নাসিরউদ্দীন আহমেদ)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

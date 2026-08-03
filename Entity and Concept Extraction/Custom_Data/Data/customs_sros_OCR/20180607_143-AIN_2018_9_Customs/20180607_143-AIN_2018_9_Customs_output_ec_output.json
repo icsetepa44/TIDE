@@ -1,0 +1,62 @@
+{
+  "source_file": "customs_sros_OCR/20180607_143-AIN_2018_9_Customs/20180607_143-AIN_2018_9_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার, অর্থ মন্ত্রণালয়, অভ্যন্তরীণ সম্পদ বিভাগ (কাস্টমস), প্রজ্ঞাপন",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\n\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪২৫ বঙ্গাব্দ/২৯ মে, ২০১৮ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government ministry is the issuing authority for the regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "This department under the Ministry of Finance serves as the administrative body responsible for customs notifications."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৪৩-আইন/২০১৮/৯/কাস্টমস",
+      "text_id": "20180607_143-AIN_2018_9_Customs_২৯ মে, ২০১৮_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৪৩-আইন/২০১৮/৯/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ৭ আষাঢ়, ১৪২৪ বঙ্গাব্দ মোতাবেক ২১ জুন, ২০১৭ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ২০৪-আইন/২০১৭/৪৯/কাস্টমস এতদ্দ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "S.R.O. 204-AIN/2017": [
+          "This customs notification, previously issued on 21 June 2017, is hereby repealed in the public interest."
+        ],
+        "Customs Act 1969": [
+          "Section 19(1) of the Act empowers the Government, in consultation with the National Board of Revenue, to issue or rescind customs notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with the National Board of Revenue when exercising its powers to repeal or issue customs notifications under the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20180607_143-AIN_2018_9_Customs_২৯ মে, ২০১৮_clause_2",
+      "resolved_text": "২। ইহা ৭ জুন, ২০১৮ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "S.R.O. 143-AIN/2018": [
+          "This regulatory order comes into effect on the specified date in June, 2018."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ মোশাররফ হোসেন ভূঁইয়া, এনডিসি\nসিনিয়র সচিব",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

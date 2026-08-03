@@ -1,0 +1,52 @@
+{
+  "source_file": "customs_sros_OCR/20140605_128-AIN_2014_2492-Customs/20140605_128-AIN_2014_2492-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/ ০৫ জুন, ২০১৪ খ্রিষ্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government body serves as the issuing authority for the customs notification."
+        ],
+        "Internal Resources Division": [
+          "This division of the Ministry of Finance is responsible for the administration of customs and value added tax matters as indicated in the document header."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং- ১২৮-আইন/২০১৪/২৪৯২/কাস্টমস",
+      "text_id": "20140605_128-AIN_2014_2492-Customs_০৫ জুন, ২০১৪_clause_1",
+      "resolved_text": "এস,আর,ও নং- ১২৮-আইন/২০১৪/২৪৯২/কাস্টমস ।— Customs Act, 1969 (Act IV of 1969) এর section 20 এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার,\n\nজনস্বার্থে, এই বিভাগের ১৪ চৈত্র, ১৪১১ বঙ্গাব্দ মোতাবেক ২৮ মার্চ, ২০০৫ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ৭৪-আইন/২০০৫/২০৬৭/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের ‘ক’ অংশ এর TABLE এর কলাম (২) এ উল্লিখিত H.S. Code “7307.99.00” এর পরিবর্তে “7307.99.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 20 of this Act provides the legal authority for the Government to amend existing customs notifications in the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act is cited as a supporting legislative basis for the issuance of this regulatory order."
+        ],
+        "S.R.O. 74-AIN/2005": [
+          "This existing customs notification is amended to update the classification codes for specific goods."
+        ],
+        "H.S. Code": [
+          "The H.S. Code identified in the table of the notification is modified, replacing one specific code entry with a revised one to ensure accurate classification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ ফরিদ উদ্দিন)\nঅতিরিক্ত সচিব (পদাধিকারবলে)।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

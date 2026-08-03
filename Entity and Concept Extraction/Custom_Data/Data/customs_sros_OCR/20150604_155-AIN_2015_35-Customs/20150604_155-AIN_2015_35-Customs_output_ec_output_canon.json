@@ -1,0 +1,65 @@
+{
+  "source_file": "customs_sros_OCR/20150604_155-AIN_2015_35-Customs/20150604_155-AIN_2015_35-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার, অর্থ মন্ত্রণালয়, অভ্যন্তরীণ সম্পদ বিভাগ",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২১ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/৪ জুন, ২০১৫ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The Government of Bangladesh, acting through the Ministry of Finance and Internal Resources Division, holds the authority to issue notifications regarding customs and tax matters."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the administrative authority responsible for the issuance of this regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division is the specific department under the Ministry of Finance tasked with the governance of customs and value-added tax regulations."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৫৫-আইন/২০১৫/৩৫/কাস্টমস",
+      "text_id": "20150604_155-AIN_2015_35-Customs_2015-06-04_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৫৫-আইন/২০১৫/৩৫/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২২ কার্তিক, ১৪২০ বঙ্গাব্দ মোতাবেক ৬ নভেম্বর, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং- ৩৪৩-আইন/২০১৩/২৪৬৬/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর পরিবর্তে নিম্নরূপ TABLE প্রতিস্থাপিত হইবে, যথা:-\n\n“TABLE\n\n| Heading\n(1) | H.S.Code\n(2) | Description of goods\n(3) |\n| --- | --- | --- |\n| 28.40 | 2840.20.10 | Disodium octaborate tetrahydrate |\n”।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19 of this Act serves as the enabling provision empowering the government, in consultation with the National Board of Revenue, to amend customs notifications in the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legal authority for the government to issue and amend regulatory notifications regarding tax exemptions or modifications."
+        ],
+        "National Board of Revenue": [
+          "The board is identified as the consultative body that must be consulted by the government prior to issuing or amending statutory regulatory orders."
+        ],
+        "S.R.O. 343-AIN/2013": [
+          "This existing notification is amended by replacing its previous table with a new table to reflect updated duty or tariff provisions for specific goods."
+        ],
+        "TABLE": [
+          "A new table is introduced to replace the existing one, specifying heading numbers, H.S. codes, and descriptions for goods subjected to the regulatory change."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষরকারী কর্তৃপক্ষ",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "This document is issued under the authority of the President of Bangladesh, reflecting an official executive action or notification."
+        ],
+        "Secretary of the Internal Resources Division": [
+          "The Secretary serves as the authorized signatory for this statutory regulatory order, acting on behalf of the Government."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

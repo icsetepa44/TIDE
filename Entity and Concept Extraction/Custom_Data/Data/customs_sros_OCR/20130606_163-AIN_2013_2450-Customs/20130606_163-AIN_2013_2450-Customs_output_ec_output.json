@@ -1,0 +1,75 @@
+{
+  "source_file": "customs_sros_OCR/20130606_163-AIN_2013_2450-Customs/20130606_163-AIN_2013_2450-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\nজাতীয় রাজস্ব বোর্ড।\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ/০৬ জুন, ২০১৩ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the government authority responsible for issuing this notification under its customs jurisdiction."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance is the parent government body overseeing the issuance of this administrative notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division is the specific department within the government that issued this customs-related regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "এস.আর.ও. নং- ১৬৩-আইন/২০১৩/২৪৫০/কাস্টমস",
+      "text_id": "metadata_2",
+      "resolved_text": "এস.আর.ও. নং- ১৬৩-আইন/২০১৩/২৪৫০/কাস্টমস।- Customs Act, 1969 (Act IV of 1969) এর section 219, উক্ত Act এর THIRD SCHEDULE এর item 17 এর সহিত পঠিতব্য, এ প্রদত্ত ক্ষমতাবলে জাতীয় রাজস্ব বোর্ড, ট্রান্সফার অফ রেসিডেন্স (Transfer of Residence) ব্যাগেজ (আমদানি) বিধিমালা, ২০০০ এর নিম্নরূপ সংশোধন করিল, যথা:-",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This Act provides the statutory authority under Section 219 for the National Board of Revenue to issue amendments to baggage rules."
+        ],
+        "Third Schedule": [
+          "Item 17 of this Schedule is cited alongside the enabling section of the Customs Act as the basis for the regulatory authority exercised in this notification."
+        ],
+        "National Board of Revenue": [
+          "The Board is the regulatory body empowered by the Customs Act to amend baggage rules for the transfer of residence."
+        ],
+        "Transfer of Residence Baggage (Import) Rules 2000": [
+          "These specific rules regarding the import of baggage under transfer of residence are being formally amended through this regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20130606_163-AIN_2013_2450-Customs_০৬ জুন, ২০১৩_clause_1",
+      "resolved_text": ".উপরি-উক্ত বিধিমালার বিধি ৫ এর ‘তালিকা’ -তে উল্লিখিত “২০০ (দুইশত)” সংখ্যা, শব্দ ও বন্ধনীর পরিবর্তে “৫০০ (পাঁচশত)” সংখ্যা, শব্দ ও বন্ধনি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The duty-free import allowance for baggage has been amended by increasing the maximum value limit permitted for passengers under the relevant rules. This change replaces the previous lower threshold with a higher specified value."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(শামীম আরা বেগম)\nদ্বিতীয় সচিব (শুল্ক)।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "This document is issued under the official orders of the National Board of Revenue."
+        ],
+        "Second Secretary (Customs)": [
+          "This official role acts as the authorized signatory for the issuance of this regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

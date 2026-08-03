@@ -1,0 +1,49 @@
+{
+  "source_file": "customs_sros_OCR/20150701_200-AIN_2015_37-Customs/20150701_200-AIN_2015_37-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ, ১৭ আষাঢ়, ১৪২২ বঙ্গাব্দ/১ জুলাই, ২০১৫ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Internal Resources Division": [
+          "This is the government department responsible for issuing customs notifications under the Ministry of Finance."
+        ],
+        "Ministry of Finance": [
+          "This ministry provides the administrative oversight for the Internal Resources Division regarding customs matters."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ২০০-আইন/২০১৫/৩৭/কাস্টমস",
+      "text_id": "20150701_200-AIN_2015_37-Customs_১ জুলাই, ২০১৫ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস, আর, ও নং ২০০-আইন/২০১৫/৩৭/কাস্টমস  Customs Act, 1969 (Act No. IV of 1969) এর section 25 এর sub-section (3) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ মোতাবেক ০৬ জুন, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও. নং- ১৪৮-আইন/২০১৩/২৪৩৫/ কাস্টমস এতদ্দ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 25(3) of this Act provides the legal authority for the government, in consultation with the National Board of Revenue, to issue or rescind specific customs notifications."
+        ],
+        "National Board of Revenue": [
+          "The board is the primary authority consulted by the government when making decisions regarding the issuance or repeal of customs notifications in the public interest."
+        ],
+        "S.R.O. 148-AIN/2013": [
+          "This previous customs notification, originally issued in June 2013, is formally repealed by the current order under the powers granted by the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

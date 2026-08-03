@@ -1,0 +1,134 @@
+{
+  "source_file": "customs_sros_OCR/20150701_211-AIN_2015_48-Customs/20150701_211-AIN_2015_48-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ, ১৭ আষাঢ়, ১৪২২ বঙ্গাব্দ/১ জুলাই, ২০১৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government ministry is the issuing authority for the customs notification."
+        ],
+        "Internal Resources Division": [
+          "This administrative division under the Ministry of Finance is responsible for publishing the customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "এস, আর, ও নং ২১১-আইন/২০১৫/৪৮/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 219 এর sub-section (1), section 13 এবং Chapter XI এর সাথে পঠিতব্য, এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ আইন ২০১০ (২০১০ সনের ৪২ নম্বর আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর ধারা ৪ এর অধীন বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ কর্তৃক প্রতিষ্ঠিত অর্থনৈতিক অঞ্চলে স্থাপিত শিল্প ইউনিটের আমদানি ও রপ্তানির কাস্টমস বিষয়ক কার্যক্রম পরিচালনার উদ্দেশ্যে নিম্নরূপ বিধিমালা প্রণয়ন করিল, যথা :-",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This Act provides the foundational authority under Section 219 and Section 13 to establish rules governing customs-related activities for industrial units within economic zones."
+        ],
+        "Bangladesh Economic Zones Authority Act 2010": [
+          "This Act is referenced as the authority under which economic zones are established, serving as the basis for the regulatory framework governing customs operations for industrial units located within these zones."
+        ],
+        "National Board of Revenue": [
+          "The Government is empowered to formulate customs rules for industrial units in economic zones in consultation with the National Board of Revenue."
+        ],
+        "Economic Zone Industrial Unit": [
+          "These units, established by the Economic Zones Authority, are subject to specific customs regulations regarding their import and export activities."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "সংক্ষিপ্ত শিরোনাম ও প্রয়োগ",
+      "text_id": "20150701_211-AIN_2015_48-Customs_১ জুলাই, ২০১৫_clause_1",
+      "resolved_text": "১। সংক্ষিপ্ত শিরোনাম ও প্রয়োগ।- (১) এই বিধিমালা বাংলাদেশ অর্থনৈতিক অঞ্চল ওয়্যারহাউজিং স্টেশন (Warehousing station) বিধিমালা, ২০১৫ নামে অভিহিত হইবে।\n\n(২) ইহা বাংলাদেশ অর্থনৈতিক অঞ্চল আইন, ২০১০ এর ধারা ৪ এর অধীন প্রতিষ্ঠিত অর্থনৈতিক অঞ্চলে প্রয়োগ করা হইবে।",
+      "entity_concepts": {
+        "Bangladesh Economic Zones Warehousing Station Rules 2015": [
+          "This legal instrument establishes the formal title of the rules, which are to be cited as the Bangladesh Economic Zones Warehousing Station Rules 2015."
+        ],
+        "Warehousing Station": [
+          "The terminology and scope of these rules apply to the establishment and operation of warehousing stations within designated economic zones."
+        ],
+        "Bangladesh Economic Zones Act 2010": [
+          "The application of these rules is derived from the authority granted under the specific section of the Bangladesh Economic Zones Act 2010. These rules specifically apply to economic zones established under the legal framework of this Act."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20150701_211-AIN_2015_48-Customs_১ জুলাই, ২০১৫_clause_2",
+      "resolved_text": "২। উক্ত আইনের বিধান অনুসারে প্রতিষ্ঠিত প্রতিটি অর্থনৈতিক অঞ্চল একটি ওয়্যারহাউজিং স্টেশন (Warehousing station) হিসাবে বিবেচিত হইবে।",
+      "entity_concepts": {
+        "Economic Zone": [
+          "Every economic zone established under the provisions of the Customs Act is considered a warehousing station."
+        ],
+        "Warehousing Station": [
+          "Each economic zone is legally recognized as a warehousing station for the purposes of the Customs Act."
+        ],
+        "Customs Act 1969": [
+          "The Act serves as the legal foundation for the establishment and designation of economic zones as warehousing stations."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20150701_211-AIN_2015_48-Customs_১ জুলাই, ২০১৫_clause_3",
+      "resolved_text": "৩। অর্থনৈতিক অঞ্চলে স্থাপিত শিল্প ইউনিট উহার পণ্য উৎপাদনে ব্যবহার্য কাঁচামাল বা উপকরণ আমদানির সময় প্রযোজ্য আমদানি শুল্ক, সম্পূরক শুল্ক ও মূল্য সংযোজন কর পরিশোধ না করিয়া বন্ড ব্যবস্থায় আমদানি করিতে পারিবে।",
+      "entity_concepts": {
+        "Economic Zone": [
+          "Industrial units established within an economic zone are permitted to import raw materials or inputs for production under a bonded warehouse system."
+        ],
+        "Import Duty": [
+          "Industrial units in economic zones may import production materials without paying applicable import duties under the bonded warehouse facility."
+        ],
+        "Supplementary Duty": [
+          "Supplementary duty is exempt for industrial units operating within an economic zone when importing production inputs under the bonded warehouse system."
+        ],
+        "Value Added Tax": [
+          "Industrial units in economic zones are allowed to import production-related materials without the payment of Value Added Tax under the bonded warehouse facility."
+        ],
+        "Bonded Warehouse Operation": [
+          "The bonded warehouse facility is granted to industrial units in economic zones to facilitate the duty-free import of raw materials or inputs used for production."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20150701_211-AIN_2015_48-Customs_১ জুলাই, ২০১৫_clause_4",
+      "resolved_text": "৪। কোন শিল্প ইউনিট কর্তৃক উৎপাদিত পণ্য অর্থনৈতিক অঞ্চল এর বাহিরে দেশের অভ্যন্তরে ভোগের (Home Consumption) জন্য বিক্রয় বা হস্তান্তর করিলে উহা আমদানি হিসাবে বিবেচিত হইবে এবং উক্ত পণ্যের উপর প্রযোজ্য যাবতীয় শুল্ক-কর আরোপিত হইবে :\n\nতবে শর্ত থাকে যে, শতভাগ রপ্তানিমুখী শিল্প ইউনিট জাতীয় রাজস্ব বোর্ড কর্তৃক নির্ধারিত পরিমাণের অতিরিক্ত উৎপাদিত পণ্য দেশে অভ্যন্তরে ভোগের জন্য বিক্রয় করিতে পারিবে না।",
+      "entity_concepts": {
+        "Industrial Unit": [
+          "If a unit sells or transfers products intended for home consumption outside of an economic zone, the transaction is treated as an import and is subject to all applicable customs duties and taxes."
+        ],
+        "Export-Oriented Industry": [
+          "Units that are entirely export-oriented are prohibited from selling excess production for home consumption beyond the limits specified by the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The board is authorized to determine the maximum quantity of products that an export-oriented industrial unit may sell within the domestic market."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_5",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

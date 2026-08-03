@@ -1,0 +1,69 @@
+{
+  "source_file": "customs_sros_OCR/20250602_244-AIN_2025_66_Customs/20250602_244-AIN_2025_66_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the issuance of this regulatory order."
+        ],
+        "Internal Resources Division": [
+          "This government division serves as the issuing authority for the regulatory order under the Ministry of Finance."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20250602_244-AIN_2025_66_Customs_২৯ মে, ২০২৫_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২৪৪-আইন/২০২৫/৬৬/কাস্টমস।- সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ৩০ মে, ২০১৯ তারিখে জারিকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৫৯-আইন/২০১৯/২৮/কাস্টমস এতদ্দ্বারা রহিত করিল।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25, sub-section (1) of this Act provides the government with the legal authority to issue notifications and regulatory orders in the public interest."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126, sub-section (1) of this Act serves as an enabling provision for the government to exercise regulatory powers, including the issuance or repeal of notifications."
+        ],
+        "S.R.O. 159-AIN/2019": [
+          "This notification, originally issued in May 2019, is officially repealed under the authority granted by the Customs Act 2023 and the Value Added Tax and Supplementary Duty Act 2012."
+        ],
+        "National Board of Revenue": [
+          "The government is mandated to consult with this body before exercising its authority to issue or repeal regulatory orders affecting customs and tax matters."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_244-AIN_2025_66_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This order establishes a specific date upon which its provisions shall come into legal effect."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The document is issued under the authority of the President of Bangladesh, signifying that the regulation carries the force of law as an official administrative order."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

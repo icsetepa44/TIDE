@@ -1,0 +1,65 @@
+{
+  "source_file": "customs_sros_OCR/20250602_213-AIN_2025_35_Customs/20250602_213-AIN_2025_35_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the issuance of the statutory regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "This is the specific division under the Ministry of Finance authorized to issue customs and value added tax notifications."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ২১৩-আইন/২০২৫/৩৫/কাস্টমস",
+      "text_id": "20250602_213-AIN_2025_35_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_1",
+      "resolved_text": "এস.আর.ও. নং ২১৩-আইন/২০২৫/৩৫/কাস্টমস।– সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২৯ মে, ২০২৪ তারিখে জারিকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৬৭-আইন/২০২৪/১৯/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরিউক্ত প্রজ্ঞাপনের Table এর কলাম (1) এ উল্লেখিত Heading 76.07 এর বিপরীতে কলাম (2) এ উল্লেখিত H.S. Code “7607.11.10” এর পরিবর্তে H.S. Code “7607.11.00” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act provides the legal authority for the government to issue this amendment in consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act is cited as one of the legal bases for the government to issue the current amendment regarding customs and related duties."
+        ],
+        "S.R.O. 167-AIN/2024": [
+          "This existing notification is formally amended by the current order to correct specific commodity classification details."
+        ],
+        "HS Code": [
+          "The H.S. Code listed under Heading 76.07 in the existing table of the previous notification is replaced with a new code for the purposes of classification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_213-AIN_2025_35_Customs_২৯ মে, ২০২৫ খ্রিষ্টাব্দ_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ খ্রিষ্টাব্দে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This legal instrument establishes a specific date upon which its provisions become legally effective and enforceable."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আবদুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "source_file": "customs_sros_OCR/20170601_153-AIN_/20170601_153-AIN__output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ, ১৮ জ্যৈষ্ঠ, ১৪২৪ বঙ্গাব্দ/১ জুন, ২০১৭ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the issuance of this regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "This government division serves as the issuing authority for the notification under the customs and value-added tax domain."
+        ],
+        "Customs": [
+          "This subject area pertains to the regulatory functions overseen by the Internal Resources Division as indicated in the notification header."
+        ],
+        "Value Added Tax": [
+          "This tax instrument is under the regulatory oversight of the Internal Resources Division as mentioned in the notification metadata."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৫৩-আইন/২০১৭/৩৯/কাস্টমস",
+      "text_id": "20170601_153-AIN__১ জুন, ২০১৭_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৫৩-আইন/২০১৭/৩৯/কাস্টমস।— মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ১৭ আষাঢ়, ১৪২১ বঙ্গাব্দ মোতাবেক ১ জুলাই, ২০১৪ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস.আর.ও নং ১৭৯-আইন/২০১৪/২৫১৭/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(১) শর্ত (১) উল্লিখিত “বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত এবং পেট্রোবাংলা” শব্দগুলির পরিবর্তে “বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ কর্তৃক নিবন্ধিত এবং বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন (বিপিসি)” শব্দগুলি ও বন্ধনী প্রতিস্থাপিত হইবে;\n\n(২) পরিশিষ্ট-১ এর অঙ্গীকারনামার ফরমে উল্লিখিত “বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর ............) এবং পেট্রোবাংলা” শব্দগুলি, বন্ধনী ও চিহ্নের পরিবর্তে “বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর ............) এবং বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন (বিপিসি)” শব্দগুলি, বন্ধনী ও চিহ্ন প্রতিস্থাপিত হইবে;\n\n(৩) পরিশিষ্ট-২ এর প্রত্যয়ন পত্রের ফরমে উল্লিখিত “বিনিয়োগ বোর্ড কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর ............) এবং পেট্রোবাংলা” শব্দগুলি, বন্ধনী ও চিহ্নের পরিবর্তে “বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ কর্তৃক নিবন্ধিত (নিবন্ধন নম্বর ............) এবং বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন (বিপিসি)” শব্দগুলি, বন্ধনী ও চিহ্ন প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act serves as the legal authority empowering the government to issue and amend notifications regarding value added tax in the public interest, in consultation with the National Board of Revenue."
+        ],
+        "S.R.O. 179-AIN/2014": [
+          "This existing notification is formally amended by the current order to update specific references regarding the registration and regulatory authority for certain entities."
+        ],
+        "Bangladesh Investment Development Authority": [
+          "This entity replaces the former Board of Investment in the text of the notification, designating it as the authority responsible for registration requirements mentioned in the specific conditions and forms of the order."
+        ],
+        "Bangladesh Petroleum Corporation": [
+          "This entity replaces Petrobangla in the text of the notification, designating it as the relevant regulatory body in the context of the registration conditions and certification forms specified in the order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_2",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nমোঃ নজিবুর রহমান\nসিনিয়র সচিব",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

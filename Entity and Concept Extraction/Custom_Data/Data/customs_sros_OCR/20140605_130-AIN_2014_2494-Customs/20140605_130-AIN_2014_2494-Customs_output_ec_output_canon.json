@@ -1,0 +1,74 @@
+{
+  "source_file": "customs_sros_OCR/20140605_130-AIN_2014_2494-Customs/20140605_130-AIN_2014_2494-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The Government of Bangladesh acts as the authority issuing the legal notification."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance is the parent government body under which the notification is issued."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division serves as the specific departmental wing responsible for the administration of the customs and value added tax matters addressed in this notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/০৫ জুন, ২০১৪ খ্রিস্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং- ১৩০-আইন/২০১৪/২৪৯৪/কাস্টমস",
+      "text_id": "20140605_130-AIN_2014_2494-Customs_০৫ জুন, ২০১৪_clause_1",
+      "resolved_text": "এস,আর,ও নং- ১৩০-আইন/২০১৪/২৪৯৪/কাস্টমস— Customs Act, 1969 (Act IV of 1969) এর section 19 এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ১০ কার্তিক, ১৪১৬ বঙ্গাব্দ মোতাবেক ২৫ অক্টোবর, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ২৩৬-আইন/২০০৯/২৫৬৫/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (২) এ উল্লিখিত H.S.Code -\n\n(ক) “0904.20.10” এর পরিবর্তে “0904.21.90” প্রতিস্থাপিত হইবে;\n(খ) “0908.30.10” ও “0908.30.90” এর পরিবর্তে যথাক্রমে “0908.31.10” ও “0908.31.90” প্রতিস্থাপিত হইবে;\n(গ) “0910.10.10” ও “0910.10.90” এর পরিবর্তে যথাক্রমে “0910.11.10” ও “0910.11.90” প্রতিস্থাপিত হইবে;\n(ঘ) “2009.80.00” এর পরিবর্তে “2009.89.00” প্রতিস্থাপিত হইবে; এবং\n(ঙ) “2517.10.00” এর পরিবর্তে “2517.10.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19 of this Act serves as the legal basis for the government to issue notifications regarding customs exemptions or amendments in consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the necessary legal authority for the government to issue specific fiscal notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The board is the designated authority that must be consulted by the government prior to issuing official notifications for customs and taxation amendments."
+        ],
+        "S.R.O. 236-AIN/2009": [
+          "This notification is formally amended to update specific H.S. Code classifications referenced in its schedule."
+        ],
+        "H.S. Code": [
+          "Several specific commodity codes listed in the table of the existing notification are replaced with updated versions to ensure current alignment with the customs tariff classification."
+        ],
+        "TABLE-1": [
+          "The table within the notification is updated to replace obsolete H.S. Codes with revised classifications for various imported items."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ ফরিদ উদ্দিন)\nঅতিরিক্ত সচিব (পদাধিকারবলে)।",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The document is issued under the authority of the President of Bangladesh, as indicated by the official signature of an authorized government official."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

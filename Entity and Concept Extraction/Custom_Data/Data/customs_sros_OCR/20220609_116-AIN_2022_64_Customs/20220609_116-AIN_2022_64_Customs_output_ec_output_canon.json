@@ -1,0 +1,62 @@
+{
+  "source_file": "customs_sros_OCR/20220609_116-AIN_2022_64_Customs/20220609_116-AIN_2022_64_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ: ১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20220609_116-AIN_2022_64_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস,আর,ও নং ১১৬-আইন/২০২২/৬৪/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, ২৯ আগস্ট, ২০২১ খ্রিস্টাব্দ মোতাবেক ১৪ ভাদ্র, ১৪২৮ বঙ্গাব্দ তারিখে জারীকৃত প্রজ্ঞাপন এস,আর,ও নং ২৮৯-আইন/২০২১/৪৭/কাস্টমস এতদ্দ্বারা রহিত করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act grants the government the authority to issue notifications, including those that rescind earlier regulatory orders, in the public interest and in consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act provides legal authority to the government to issue or repeal notifications related to tax matters in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The board is consulted by the government during the process of exercising legal powers to repeal or amend customs and tax-related notifications."
+        ],
+        "S.R.O. 289-AIN/2021": [
+          "This specific customs notification, originally issued in August 2021, is formally repealed by the current order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20220609_116-AIN_2022_64_Customs_১ জুন, ২০২২ খ্রিস্টাব্দ_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ৯ জুন, ২০২২ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Customs Notification": [
+          "This legal instrument specifies an effective date for its provisions to commence, which is set for early June 2022."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The document is issued and signed by the Senior Secretary of the National Board of Revenue under the authority of the President."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

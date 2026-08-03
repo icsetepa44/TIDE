@@ -1,0 +1,49 @@
+{
+  "source_file": "customs_sros_OCR/20140605_127-AIN_2014_2491-Customs/20140605_127-AIN_2014_2491-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/০৫ জুন, ২০১৪ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Value Added Tax": [
+          "This notification pertains to administrative and regulatory matters concerning the Value Added Tax system issued by the Internal Resources Division."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division under the Ministry of Finance is the issuing authority for this statutory notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১২৭-আইন/২০১৪/২৪৯১/কাস্টমস",
+      "text_id": "20140605_127-AIN_2014_2491-Customs_০৫ জুন, ২০১৪ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস,আর,ও নং ১২৭-আইন/২০১৪/২৪৯১/কাস্টমস।— মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগের ১৬ আষাঢ়, ১৪১৬ বঙ্গাব্দ মোতাবেক ৩০ জুন, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৭০-আইন/২০০৯/২২৬২/শুল্ক এর ‘টেবিল’ এর কলাম (১) এ উল্লিখিত H.S. Code “8517.12.10” এবং উহার বিপরীতে কলাম (২) এ উল্লিখিত এন্ট্রি বিলুপ্ত হইবে।",
+      "entity_concepts": {
+        "Value Added Tax Act 1991": [
+          "This Act provides the legal authority under section 14(1) for the government to issue notifications regarding tax modifications."
+        ],
+        "S.R.O. 170-AIN/2009": [
+          "This existing customs notification is being amended to remove a specific tariff entry from its table."
+        ],
+        "H.S. Code": [
+          "The specific H.S. Code entry is deleted from the table established under the mentioned notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ গোলাম হোসেন)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

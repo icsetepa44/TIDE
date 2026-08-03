@@ -1,0 +1,48 @@
+{
+  "source_file": "customs_sros_OCR/20150701_205-AIN_2015_42-Customs/20150701_205-AIN_2015_42-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ, ১৭ আষাঢ়, ১৪২২ বঙ্গাব্দ/১ জুলাই, ২০১৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ২০৫-আইন/২০১৫/৪২/কাস্টমস",
+      "text_id": "20150701_205-AIN_2015_42-Customs_১ জুলাই, ২০১৫ খ্রিষ্টাব্দ_clause_1",
+      "resolved_text": "এস, আর, ও নং ২০৫-আইন/২০১৫/৪২/কাস্টমস— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1), মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এর সহিত পঠিতব্য, এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, অত্র বিভাগের ২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ মোতাবেক ৭ জুন, ২০১২ খ্রিষ্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ১৬০-আইন/২০১২/২৩৮৮/ কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের ‘TABLE’ এর কলাম (১) এ উল্লিখিত Heading-\n\n(ক) 39.17 এবং উহার বিপরীতে কলাম (২) ও (৩) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে; এবং\n\n(খ) 85.44 এবং উহার বিপরীতে কলাম (২) ও (৩) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the legal authority for the government to issue notifications regarding customs matters, including the amendment of existing orders."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act is cited in conjunction with the Customs Act to provide the necessary legislative framework for the changes specified in this notification."
+        ],
+        "S.R.O. 160-AIN/2012": [
+          "This existing notification is being formally amended by the current order to remove specific tariff entries from its table."
+        ],
+        "TABLE": [
+          "The table within the referenced notification is updated by deleting the entries corresponding to two specific tariff headings, effectively removing them from the scope of the previous order."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue before exercising its powers to issue or amend these customs notifications in the public interest."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

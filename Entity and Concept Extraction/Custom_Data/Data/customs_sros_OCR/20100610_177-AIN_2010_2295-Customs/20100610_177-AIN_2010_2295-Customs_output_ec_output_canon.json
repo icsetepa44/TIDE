@@ -1,0 +1,57 @@
+{
+  "source_file": "customs_sros_OCR/20100610_177-AIN_2010_2295-Customs/20100610_177-AIN_2010_2295-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n( শুল্ক ও মূল্য সংযোজন কর )\nপ্রজ্ঞাপন",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "তারিখ : ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ/১০ জুন, ২০১০ খ্রিস্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20100610_177-AIN_2010_2295-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৭৭-আইন/২০১০/২২৯৫/শুল্ক।- Customs Act, 1969 (Act IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, অত্র বিভাগের ১২ আষাঢ়, ১৪১৫ বঙ্গাব্দ মোতাবেক ২৬ জুন, ২০০৮ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং- ১৭২-আইন/২০০৮/ ২২০০/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা:-\n\nউপরি-উক্ত প্রজ্ঞাপনের টেবিল এর কলাম (১) এ উল্লিখিত Heading No. 30.04 এর বিপরীতে কলাম (২) তে উল্লিখিত এন্ট্রি “3004.20.00” এর পরিবর্তে এন্ট্রি “3004.20.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government, in consultation with the National Board of Revenue, to amend previous customs notifications for the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the authority to amend tax-related provisions and notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with the National Board of Revenue before exercising its authority to amend customs and tax notifications."
+        ],
+        "S.R.O. 172-AIN/2008": [
+          "This existing notification is amended to update the specific tariff entry reference related to certain heading numbers in the table."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The notification replaces a specific tariff code under Heading No. 30.04 within the customs tariff structure to ensure accurate classification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\n(হুসেইন আহমেদ)\nঅতিরিক্ত সচিব (পদাধিকারবলে)।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

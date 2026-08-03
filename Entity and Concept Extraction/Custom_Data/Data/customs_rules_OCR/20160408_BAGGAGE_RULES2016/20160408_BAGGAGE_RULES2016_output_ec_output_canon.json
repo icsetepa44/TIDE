@@ -1,0 +1,369 @@
+{
+  "source_file": "customs_rules_OCR/20160408_BAGGAGE_RULES2016/20160408_BAGGAGE_RULES2016_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\nজাতীয় রাজস্ব বোর্ড।\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ : ২৪ জ্যৈষ্ঠ, ১৪১৯ বঙ্গাব্দ/০৭ জুন, ২০১২ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the primary government body responsible for the issuance of this customs notification under the authority of the Ministry of Finance."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance exercises supervisory authority over the customs and internal resource administration in Bangladesh."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division acts as the administrative division under the Ministry of Finance overseeing the regulatory actions of the National Board of Revenue."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "এস.আর.ও. নং- ১৭২-আইন/২০১২/২৪০০/কাস্টমস",
+      "text_id": "metadata_2",
+      "resolved_text": "এস.আর.ও. নং- ১৭২-আইন/২০১২/২৪০০/কাস্টমস ।- Customs Act, 1969 (Act IV of 1969) এর section 219, উক্ত Act এর THIRD SCHEDULE এর Item 17 এর সহিত পঠিতব্য, এ প্রদত্ত ক্ষমতাবলে জাতীয় রাজস্ব বোর্ড, যাত্রী (অপর্যটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০১১ বাতিলক্রমে, নিম্নরূপ বিধিমালা প্রণয়ন করিল, যথা:-",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The Act provides the enabling authority under Section 219, read with Item 17 of the Third Schedule, for the National Board of Revenue to frame new baggage rules."
+        ],
+        "National Board of Revenue": [
+          "The board is empowered by the Customs Act 1969 to enact procedural rules governing the import of baggage by passengers."
+        ],
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2011": [
+          "These previous rules are formally repealed and replaced by the newly enacted baggage regulations."
+        ],
+        "Third Schedule": [
+          "Item 17 of this schedule provides the specific legal basis, when read with Section 219 of the Customs Act, for the issuance of the current baggage rules."
+        ],
+        "S.R.O. 172-AIN/2012": [
+          "This statutory regulatory order establishes the new baggage rules for non-tourist passengers following the repeal of the previous 2011 regulations."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "শিরোনাম, প্রবর্তন ও প্রয়োগ",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_1",
+      "resolved_text": "১। শিরোনাম, প্রবর্তন ও প্রয়োগ।- (১) এই বিধিমালা যাত্রী (অপর্যটক) ব্যাগেজ (আমদানি) বিধিমালা, ২০১২ নামে অভিহিত হইবে।\n(২) এই বিধিমালা ১৭ আষাঢ়, ১৪১৯ বঙ্গাব্দ/১ জুলাই, ২০১২ তারিখে কার্যকর হইবে।\n(৩) এই বিধিমালা Tourists Baggage (Import) Rules, 1981 এবং Privileged Persons (Customs Procedures) Rules, 2003 এর আওতাভুক্ত যাত্রী ব্যতীত সকল যাত্রীর ক্ষেত্রে প্রযোজ্য হইবে।",
+      "entity_concepts": {
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "These rules are officially titled the Passenger (Non-Tourist) Baggage (Import) Rules 2012.",
+          "The rules became effective on July 1, 2012.",
+          "The rules apply to all passengers except those covered under the Tourist Baggage (Import) Rules 1981 and the Privileged Persons (Customs Procedures) Rules 2003."
+        ],
+        "Tourist Baggage (Import) Rules 1981": [
+          "These rules define the scope of passengers exempted from the application of the Passenger (Non-Tourist) Baggage (Import) Rules 2012."
+        ],
+        "Privileged Persons (Customs Procedures) Rules 2003": [
+          "These rules define the category of passengers, such as privileged persons, who are excluded from the applicability of the Passenger (Non-Tourist) Baggage (Import) Rules 2012."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "সংজ্ঞা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_2",
+      "resolved_text": "২। সংজ্ঞা।- বিষয় বা প্রসঙ্গের পরিপন্থী কোন কিছু না থাকিলে, এই বিধিমালায় -\n(১) “তফসিল” অর্থ এই বিধিমালার কোন তফসিল;\n(২) “ব্যাগেজ” অর্থ কোন যাত্রী কর্তৃক আমদানিকৃত যুক্তিসংগত পরিমাণের খাদ্যদ্রব্য, পরিধেয়, গৃহস্থালী বা অন্যবিধ ব্যক্তিগত সামগ্রী;\n(৩) “যাত্রী” অর্থ বিদেশ হইতে আগত কোন যাত্রী।",
+      "entity_concepts": {
+        "Schedule": [
+          "The term Schedule is defined as any schedule appended to these rules."
+        ],
+        "Baggage": [
+          "Baggage is defined as a reasonable quantity of food items, apparel, household goods, or other personal effects imported by a passenger."
+        ],
+        "Passenger": [
+          "A passenger is defined as any individual arriving from abroad."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "আকাশ এবং জলপথে আগত যাত্রীর শুল্ক ও কর সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_3",
+      "resolved_text": "৩। আকাশ এবং জলপথে আগত যাত্রীর শুল্ক ও কর সুবিধা।- (১) আকাশ এবং জলপথে আগত ১২ (বার) বৎসর বা তদূর্ধ্ব বয়সের যাত্রীর সঙ্গে আনীত হাতব্যাগ, কেবিনব্যাগ এবং ৬৫ (পঁয়ষট্টি) কিলোগ্রাম ওজনের অতিরিক্ত নহে এইরূপ ১[] ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাসযোগ্য হইবে।\n(২) উপ-বিধি (১) এ উল্লিখিত ব্যাগেজের অতিরিক্ত অনূর্ধ্ব ৩৫ (পঁয়ত্রিশ) কিলোগ্রাম ওজনের ২[] আনীত পরিধেয় বস্ত্র, ব্যক্তিগত ব্যবহার্য সামগ্রী, বই, সাময়িকী এবং পড়াশুনার সামগ্রী সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাসযোগ্য হইবে।\n(৩) ১২ (বার) বৎসরের কম বয়সের যাত্রীর ক্ষেত্রে অনূর্ধ্ব ৪০ (চল্লিশ) কিলোগ্রাম ওজনের একটি কার্টন, ব্যাগ, বস্তায় ৩[] আনীত ব্যক্তিগত ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাসযোগ্য হইবে।\n(৪) যাত্রীর সঙ্গে আনা হয় নাই এমন ব্যাগেজ (unaccompanied baggage) তফসিল-১ এ বিধৃত ফরমে ঘোষণা প্রদান ও এই বিধিমালার সহিত সংগতিপূর্ণ হওয়া সাপেক্ষে, সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে এবং উক্ত ব্যাগেজ খালাসের সময় ঘোষণাপত্রের একটি অনুলিপি সংশ্লিষ্ট শুল্ক (Customs) কর্মকর্তার নিকট দাখিল করিতে হইবে।\n(৫) এই বিধিতে ভিন্নরূপ যাহা কিছুই থাকুক না কেন, একজন যাত্রী তফসিল-৩ এ উল্লিখিত পণ্যের প্রত্যেকটির একটি করিয়া পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে এবং তফসিল-২ এ উল্লিখিত পণ্যের প্রত্যেকটির একটি করিয়া পণ্য উক্ত তফসিলে উল্লিখিত শুল্ক ও কর পরিশোধ সাপেক্ষে আমদানি করিতে পারিবেন।\n(৬) একজন বিদেশী পাসপোর্টধারী যাত্রী ৪[দুই বোতল অথবা এক লিটার] পর্যন্ত মদ বা মদ্য জাতীয় পানীয় (যেমন-স্পিরিট, বিয়ার, ইত্যাদি) সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৭) কোন যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্য বিদেশ হইতে সঙ্গে না আনিয়া থাকিলে তফসিল-৪ এ বিধৃত ফরমে উল্লেখক্রমে তাহা বাংলাদেশ পর্যটন কর্পোরেশনের সিটি সেলস্ সেন্টার হইতে যাত্রী আগমনের ৭ (সাত) কার্যদিবসের মধ্যে ক্রয় করিতে পারিবেন।\n(৮) একজন যাত্রী তাঁহার পেশাগত কাজে ব্যবহার্য এবং সহজে বহনযোগ্য যন্ত্রপাতি সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n৫[(৯) একজন যাত্রী অনূর্ধ্ব ১ (এক) শত গ্রাম ওজনের স্বর্ণালংকার অথবা ২ (দুই) শত গ্রাম রৌপ্যের অলংকার (এক প্রকার অলংকার ১২ (বার) টির অধিক হইবে না) সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।]\n(১০) একজন যাত্রী বিদেশ হইতে দেশে আগমনকালে অনূর্ধ্ব ২০০ (দুইশত) গ্রাম ওজনের স্বর্ণবার বা স্বর্ণপিণ্ড অথবা ২০০ (দুইশত) গ্রাম ওজনের রৌপ্যবার বা রৌপ্যপিণ্ড সকল প্রকার শুল্ক ও কর পরিশোধ সাপেক্ষে আমদানি করিতে পারিবেন।\n(১১) ১২ (বার) বৎসরের কম বয়সের যাত্রী বিধি ৩ এর উপ-বিধি (৩) এ উল্লিখিত সুবিধা ব্যতীত অন্য কোন সুবিধা পাইবেনা।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving by air or water who are at least twelve years old may import personal hand baggage, cabin baggage, and checked baggage up to a specified weight limit free of all duties and taxes.",
+          "A duty-free allowance for additional personal items such as clothing, books, and study materials is granted to passengers, subject to specific weight limits beyond the standard baggage allowance.",
+          "Passengers under twelve years of age are entitled to a specific weight allowance for personal baggage brought in cartons, bags, or sacks, free of duties and taxes.",
+          "Passengers may import professional tools or equipment that are portable and intended for use in their occupation without the payment of duties and taxes.",
+          "The import of gold or silver jewelry is permitted duty-free up to specified weight limits, provided the number of individual pieces of each type does not exceed a defined count.",
+          "Passengers may import gold or silver bars or ingots upon the payment of applicable duties and taxes, subject to established weight thresholds."
+        ],
+        "Unaccompanied Baggage": [
+          "Baggage not accompanying a passenger may be cleared duty-free provided a declaration is submitted in the prescribed format as stipulated in the relevant schedule.",
+          "The clearance of unaccompanied baggage requires the passenger to submit a copy of the declaration form to the appropriate customs officer."
+        ],
+        "Customs": [
+          "Customs officers are responsible for receiving the baggage declaration forms submitted by passengers for the clearance of unaccompanied baggage."
+        ],
+        "Duty-Free Baggage Items": [
+          "Foreign passport holders are permitted to import a specified quantity of alcoholic beverages, such as spirit or beer, free of all duties and taxes."
+        ],
+        "Passenger Baggage Purchase Form": [
+          "Passengers may purchase specific goods mentioned in the prescribed schedules from designated sales centers within a set number of working days after their arrival, provided they document the purchase in the required declaration form."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "স্থল পথে আগত যাত্রীর জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_4",
+      "resolved_text": "৪। স্থল পথে আগত যাত্রীর জন্য সুবিধা।- বিদেশে অবস্থানের মেয়াদ নির্বিশেষে স্থলপথে আগত একজন যাত্রী সর্বোচ্চ ৬[৪০০ (চারশত)] মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers arriving via land routes are permitted to import baggage up to a defined maximum value without the obligation to pay any customs duties or taxes. This allowance is applicable regardless of the duration the passenger spent abroad."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_5",
+      "resolved_text": "৫। অসুস্থ ও পঙ্গু যাত্রীর জন্য সুবিধা।- আকাশ, জলপথ বা স্থলপথে আগত একজন অসুস্থ, পঙ্গু অথবা বৃদ্ধ যাত্রীর ব্যবহার্য চিকিৎসা যন্ত্রপাতি ও হুইল চেয়ার সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে খালাস করা যাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "Passengers who are sick, disabled, or elderly are granted the privilege to import their medical equipment and wheelchairs free of all duties and taxes.",
+          "This exemption applies to such essential mobility and medical items regardless of the mode of transport, including air, water, or land routes."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_6",
+      "resolved_text": "৬। ক্রু, নাবিক এবং অন্যান্যদের জন্য সুবিধা।- (১) পেশাগত দায়িত্ব পালন শেষে বিদেশ হইতে আগত বাংলাদেশী এয়ার লাইন্সে কর্মরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা এবং বাংলাদেশের কোন বিমান বন্দরে ফ্লাইট পরিচালনাকারী কোন বিদেশী এয়ার লাইন্সে কর্মরত কোন বাংলাদেশী ক্রু বা কর্মকর্তা সর্বোচ্চ ৭[৩০০ (তিনশত)] মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(২) বিদেশী সমুদ্রবন্দর হইতে আগমনকারী কোন জাহাজের বাংলাদেশী নাবিক বা কর্মকর্তা সর্বোচ্চ ৩০০ (তিনশত) মার্কিন ডলার মূল্যের ব্যাগেজ সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।\n(৩) উপ-বিধি (২) এ উল্লিখিত নাবিক বা কর্মকর্তা সাইন অফ (sign off) করিলে তিনি অনূর্ধ্ব ২,০০০ (দুই হাজার) মার্কিন ডলার মূল্যের ব্যাগেজ আরোপযোগ্য সকল প্রকার শুল্ক ও কর পরিশোধক্রমে আমদানি করিতে পারিবেন।\n(৪) বিদেশ হইতে আগত যাত্রীবাহী বাসের চালক ও সুপারভাইজারগণ (হেলপার/ এসিস্ট্যান্ট) পরিধেয় বস্ত্র, বিছানা (বেডিং) ও রন্ধনকৃত খাদ্য সামগ্রী এবং সর্বোচ্চ ৫০ (পঞ্চাশ) মার্কিন ডলার মূল্যের ব্যক্তিগত ও গৃহস্থালী পণ্য সকল প্রকার শুল্ক ও কর পরিশোধ ব্যতিরেকে আমদানি করিতে পারিবেন।",
+      "entity_concepts": {
+        "Airline Crew Baggage Allowance": [
+          "Bangladeshi crew or officials working for airlines, whether Bangladeshi or foreign-operated, are permitted to import baggage up to a specified maximum value free of all duties and taxes upon returning from professional duties abroad."
+        ],
+        "Seafarer Baggage Allowance": [
+          "Bangladeshi seafarers or officials arriving from foreign seaports are entitled to import baggage up to a defined maximum value free of all duties and taxes.",
+          "Upon signing off, seafarers or officials are permitted to import additional baggage up to a higher maximum value, provided that all applicable duties and taxes are paid."
+        ],
+        "Transport Crew Baggage Allowance": [
+          "Drivers and supervisors of passenger buses arriving from abroad are exempt from duties and taxes on personal clothing, bedding, and cooked food items.",
+          "These individuals may also import personal and household goods up to a specified maximum value free of all duties and taxes."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "গ্রীন এবং রেড চ্যানেল ব্যবহার",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_7",
+      "resolved_text": "৭। গ্রীন এবং রেড চ্যানেল ব্যবহার।- (১) কোন যাত্রী শুল্ক ও কর আরোপযোগ্য পণ্য বহন না করিলে তিনি বিমান বন্দরের গ্রীন চ্যানেল (যদি থাকে) ব্যবহার করিতে পারিবেন।\n(২) গ্রীন চ্যানেল অতিক্রমকারী সর্বোচ্চ ৫% (শতকরা পাঁচ ভাগ) যাত্রীর ব্যাগেজ দৈবচয়নের ভিত্তিতে শুল্ক (Customs) কর্মকর্তা কর্তৃক স্ক্যানিং ও পরীক্ষা করা যাইবে।\n(৩) উপ-বিধি (১) ও (২) এ যাহা কিছুই থাকুক না কেন, কোন শুল্ক (Customs) কর্মকর্তা, যুক্তিসংগত সন্দেহতবশতঃ গ্রীন চ্যানেল অতিক্রমকারী যে কোন যাত্রীর ব্যাগেজ স্ক্যানিং ও পরীক্ষা করিতে পারিবেন।",
+      "entity_concepts": {
+        "Green Channel": [
+          "Passengers carrying no dutiable or taxable goods are permitted to use the Green Channel at the airport if it is available.",
+          "Customs officials may conduct scanning and examination of the baggage of a small specified percentage of passengers who cross the Green Channel, selected on a random basis.",
+          "Customs officials retain the authority to scan and examine the baggage of any passenger using the Green Channel if there is a reasonable suspicion."
+        ],
+        "Customs": [
+          "Customs officials are responsible for the random selection and examination of baggage passing through the Green Channel.",
+          "Customs officials maintain the discretionary power to inspect any passenger's baggage at the Green Channel if they have reasonable grounds for suspicion."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_8",
+      "resolved_text": "৮। সকল যাত্রীর জন্য শুল্ক ঘোষণাপত্রের বিধান।- (১) বিদেশ হইতে আগত সকল যাত্রীকে শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(২) যাত্রীর সঙ্গে আনীত হয় নাই এমন ব্যাগেজ (unaccompanied baggage) এর ক্ষেত্রে কাস্টমস হল (Customs hall) বা শুল্ক এলাকা ত্যাগ করিবার পূর্বেই যাত্রী কর্তৃক শুল্ক (Customs) কর্তৃপক্ষের নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া ব্যাগেজ ঘোষণা প্রদান করিতে হইবে।\n(৩) ভুলবশতঃ অথবা অন্য কোন অনিবার্য কারণে উপ-বিধি (১) ও উপ-বিধি (২) এর বিধান মোতাবেক কোন যাত্রী কর্তৃক ঘোষণা প্রদান করা সম্ভব না হইলে আগমনের ৮[৭ (সাত)] দিনের মধ্যে সংশ্লিষ্ট সহকারী কমিশনার অব কাস্টমস এর (Assistant Commissioner of Customs) নিম্নে নহেন এমন শুল্ক (Customs) কর্মকর্তার নিকট তফসিল-১ এ বর্ণিত ফরম পূরণ করিয়া তিনি ব্যাগেজ ঘোষণা প্রদান করিতে পারিবেন।\n(৪) একজন যাত্রী ১ (এক) পঞ্জিকা বৎসরে মাত্র ১ (এক) বার unaccompanied baggage আনিতে পারিবেন।",
+      "entity_concepts": {
+        "Baggage Declaration": [
+          "All passengers arriving from abroad are required to provide a baggage declaration to the customs authorities using the prescribed form found in the first schedule.",
+          "For unaccompanied baggage, passengers must submit the required declaration form to the customs authorities before leaving the customs hall or designated customs area.",
+          "If a passenger fails to provide a declaration due to errors or unavoidable circumstances, they are permitted to submit the declaration form to an officer not below the rank of Assistant Commissioner of Customs within a specified period of days following their arrival."
+        ],
+        "Baggage Declaration Form": [
+          "This form is the mandatory document prescribed in the first schedule for all passengers to declare their baggage to the customs authorities."
+        ],
+        "Customs": [
+          "Customs authorities are the designated recipients of baggage declaration forms from incoming passengers.",
+          "Passengers must ensure that declarations for unaccompanied baggage are completed and submitted to the customs authorities before exiting the customs area."
+        ],
+        "Assistant Commissioner of Customs": [
+          "Passengers who fail to declare baggage upon arrival may submit the required form to an officer not below the rank of Assistant Commissioner of Customs within the permitted timeframe."
+        ],
+        "Unaccompanied Baggage": [
+          "Passengers are restricted to importing unaccompanied baggage only once per calendar year.",
+          "Declarations for unaccompanied baggage must be submitted to the customs authorities before the passenger leaves the customs hall or designated customs area."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_9",
+      "resolved_text": "৯। মৃত ব্যক্তির ক্ষেত্রে অব্যাহতি।- এই বিধিমালায় যাহা কিছুই থাকুক না কেন, কোন বাংলাদেশী নাগরিক বিদেশে মৃত্যুবরণ করিলে তাঁহার ব্যাগেজ সকল প্রকার শুল্ক ও কর প্রদান হইতে অব্যাহতি পাইবে।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "In the event of the death of a Bangladeshi citizen abroad, their personal baggage is granted a complete exemption from all duties and taxes, regardless of any other provisions contained in these rules."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর",
+      "text_id": "20160408_BAGGAGE_RULES2016_০৭ জুন, ২০১২_clause_10",
+      "resolved_text": "১০। বাণিজ্যিক পরিমাণে ব্যাগেজ আমদানির ক্ষেত্রে শুল্ক ও কর।- এই বিধিমালার অন্যান্য বিধানে যাহা কিছুই থাকুক না কেন, কোন যাত্রী তফসিল-২ এবং তফসিল-৩ এ উল্লিখিত পণ্যের অতিরিক্ত বা ভিন্ন কোন পণ্য৯[, আমদানি নীতি আদেশ বা অন্য কোন আইনের আওতায় নিয়ন্ত্রিত বা নিষিদ্ধ পণ্য ব্যতীত,] আমদানি করিলে প্রধান আমদানি ও রপ্তানি নিয়ন্ত্রক (সিসিআইএন্ডই) -এর ছাড়পত্র উপস্থাপন সাপেক্ষে, ন্যায়-নির্ণয়নপূর্বক (adjudication) প্রদেয় সমুদয় শুল্ক-কর, অর্থদণ্ড ও জরিমানা, প্রযোজ্য ক্ষেত্রে, পরিশোধ সাপেক্ষে খালাস করিতে পারিবেন।",
+      "entity_concepts": {
+        "Adjudication of Customs Cases": [
+          "In cases where passengers import baggage in commercial quantities exceeding permitted schedules, the cargo may be cleared following a formal adjudication process. This process determines the total applicable customs duties, taxes, fines, and penalties that must be paid for release."
+        ],
+        "Chief Controller of Imports and Exports": [
+          "The clearance of baggage imported in commercial quantities requires the submission of a formal clearance certificate or authorization issued by the Chief Controller of Imports and Exports."
+        ],
+        "Baggage Rules": [
+          "The rules stipulate that notwithstanding other provisions, imports of goods beyond those listed in the specified schedules are subject to additional regulatory scrutiny and adjudication requirements."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-১",
+      "text_id": "metadata_6",
+      "resolved_text": "১০[তফসিল-১\n(বিধি ৩(৪), ৮(১), ৮(২) ও বিধি ৮(৩) দ্রষ্টব্য-\n[ব্যাগেজ ঘোষণা ফরম ]\n১। যাত্রীর নাম (Name of the Passenger) :\n২। পাসপোর্ট নং (Passport Number) :\n৩। জাতীয়তা (Nationality) :\n৪। আগমনের তারিখ (Date of arrival) : (দিন/মাস/বৎসর) (DD/MM/YYYY)\n৫। ফ্লাইট নং (Flight No.) :\n৬। ব্যাগেজের সংখ্যা (Number of baggage) :\n৭। কোন দেশ হইতে আগমন (Country from where coming) :\n৮। আপনি বিগত তিন মাসে যে সকল দেশ ভ্রমণ করিয়াছেন (Countries where you have travelled for the last three months) :\nদেশের নাম (Name of the country) ভ্রমণের তারিখ (Travel Date)\n(ক)\n(খ)\n(গ)\n৯। শুল্ক-কর আরোপযোগ্য আমদানিকৃত পণ্যের মোট মূল্য (টাকায়) [Total value of dutiable goods being imported (Tk.)] :\n১০। আপনি কী নিম্নবর্ণিত পণ্যসমূহ বাংলাদেশে আনিয়াছেন? ( Are you bringing the following items into Bangladesh?) :\n(ক) সংযুক্ত তফসিল-২ এ বর্ণিত একটির অধিক শুল্ককর আরোপযোগ্য কোন পণ্য (More than one of any goods which are dutitable as described on attached Schedule-2) ? হ্যাঁ/না (Yes/No)\n(খ) আমদানি নিষিদ্ধ পণ্য (Prohibited articles) হ্যাঁ/না (Yes/No)\n(গ) স্বর্ণ বা রৌপ্যের তৈরী অলংকার (শুল্ক-করমুক্ত সীমার ঊর্ধ্বে) [Gold or Silver jewellery (over Free Allowance)] হ্যাঁ/না (Yes/No)\n(ঘ) স্বর্ণ বা রৌপ্যের বার বা পিণ্ড (Gold or Silver Bar or Bullion) হ্যাঁ/না (Yes/No)\n(ঙ) মাংস এবং মাংস দ্বারা তৈরী পণ্য/ডেইরী প্রোডাক্টস্/মাছ/পোলট্রি প্রোডাক্টস্ (Meat and meat products/dairy products/fish/poultry products) হ্যাঁ/না (Yes/No)\n(চ) বীজ/গাছের চারা/ফলমূল/ফুল/অন্যান্য উদ্ভিজ্জ পণ্য (Seeds/plants /fruits/flowers/other planting materials) হ্যাঁ/না (Yes/No)\n(ছ) দুই এর অধিক সেলুলার ফোন (Cellular phone) হ্যাঁ/না (Yes/No)\n(জ) ৫,০০০ (পাঁচ হাজার) মার্কিন ডলারের অতিরিক্ত বা তাহার সমপরিমাণ অর্থের অধিক কোন বৈদেশিক মুদ্রা (Foreign currency exceeding US $ 5,000 or equivalent) হ্যাঁ/না (Yes/No)\nউপরের কোনো প্রশ্নের জবাব যদি হ্যাঁ হয়, তাহলে অনুগ্রহ করে রেড চ্যানেলে কর্তব্যরত শুল্ক কর্মকর্তাকে অবহিত করুন (Please report to Customs Officer at the Red Channel counter in case answer to any of the above questions is 'Yes'.)\n\nস্বাক্ষর (Signature) :\nরেভিনিউ অফিসার অব কাস্টমস\n(Revenue officer of Customs)\n\nযাত্রীর স্বাক্ষর (পাসপোর্ট অনুসারে):\nSignature of the Passenger (according to Passport)\nতারিখ (Date) : ”;",
+      "entity_concepts": {
+        "Passenger Baggage Declaration Form": [
+          "This form serves as the official declaration document for passengers to report their baggage and imported goods upon arrival.",
+          "It collects essential passenger information, travel history, and details regarding dutiable or restricted items being imported into Bangladesh."
+        ],
+        "Schedule-2": [
+          "This schedule is referenced in the baggage declaration form to identify specific dutiable goods that require reporting if a passenger is carrying more than one unit of such items."
+        ],
+        "Gold and Silver Bullion": [
+          "The declaration form specifically requires passengers to report whether they are carrying gold or silver bars or bullion, as these items are subject to customs scrutiny."
+        ],
+        "Red Channel": [
+          "Passengers who answer affirmatively to any questions regarding dutiable, prohibited, or specific restricted items must report to the customs officer stationed at the Red Channel."
+        ],
+        "Customs Officer": [
+          "The Customs Officer is the authorized official at the Red Channel responsible for receiving declarations and verifying items brought in by passengers."
+        ],
+        "Assistant Revenue Officer of Customs": [
+          "The form includes a space for the Revenue Officer of Customs to sign, validating the declaration process at the point of entry."
+        ],
+        "Passenger": [
+          "The passenger is required to provide accurate information regarding their identity, flight details, and the nature of the goods they are importing, signing the declaration to confirm the accuracy of the provided data."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-২",
+      "text_id": "metadata_10",
+      "resolved_text": "তফসিল-২\n(বিধি ৩(৫),৩(৭) ও বিধি ১০ দ্রষ্টব্য)\n[শুল্ক-কর আরোপযোগ্য পণ্যের সংক্ষিপ্ত তালিকা]\n(ক) ব্যক্তিগত এবং গৃহস্থালী কাজে ব্যবহৃত হয়না এমন কোন পণ্য।\n(খ) দুইটি স্যুটকেসের অতিরিক্ত স্যুটকেসে আনীত ব্যাগেজ। তবে তৃতীয় স্যুটকেসে আনীত পরিধেয় বস্ত্র, ব্যক্তিগত ব্যবহার্য সামগ্রী, বই, সাময়িকী এবং পড়াশুনার সামগ্রী শুল্ক ও কর মুক্তভাবে খালাসযোগ্য।\n(গ) ব্যাগেজে আমদানিকৃত বাণিজ্যিক পরিমাণে যে কোন পণ্য;\n(ঘ) নিম্নবর্ণিত গৃহস্থালী ও ব্যক্তিগত পণ্য ব্যাগেজ হিসাবে আমদানি হইলেও প্রতিটির পার্শ্বে উল্লিখিত নির্দিষ্ট পরিমাণ শুল্ক ও কর পরিশোধ করিতে হইবে: \n| ক্রমিক নং | পণ্যের বর্ণনা | শুল্ক-কর এর পরিমাণ |\n| --- | --- | --- |\n| ১১[১| | Plasma, LCD, TFT, LED ও অনুরূপ প্রযুক্তির টেলিভিশন (ক) ২২\" - ২৯\" পর্যন্ত (খ) ৩০\" - ৩৬\" পর্যন্ত (গ) ৩৭\" - ৪২\" পর্যন্ত (ঘ) ৪৩\" - ৪৬\" পর্যন্ত (ঙ) ৪৭\" - ৫২\" পর্যন্ত (চ) ৫৩\" থেকে তদূর্ধ্ব | ১০,০০০/- টাকা ১৫,০০০/- টাকা ২০,০০০/- টাকা ৩০,০০০/- টাকা ৫০,০০০/- টাকা ৭০,০০০/- টাকা] |\n| ২| | ৪ (চার) এর অধিক তবে সর্বোচ্চ ৮ টি স্পীকারসহ (মিউজিক সেন্টার)/স্পীকার নির্বিশেষে হোম থিয়েটার (সিডি/ ভিসিডি/ ডিভিডি/ এলডি/এমডি/ব্লু রেডিস্ক সেট) | ৮,০০০/- টাকা |\n| ৩| | রেফ্রিজারেটর/ডিপ ফ্রিজার | ৫,০০০/- টাকা |\n| ৪| | এয়ার কুলার/এয়ার কন্ডিশনার (ক) উইন্ডো টাইপ (window type) (খ) স্প্লিট টাইপ (split type upto 18000 BTU) (গ)  স্প্লিট টাইপ (split type above 18000 BTU) | ৭,০০০/- টাকা ১৫,০০০/- টাকা ২০,০০০/- টাকা |\n| ৫| | ডিশ এন্টেনা | ৭,০০০/- টাকা |\n| ৬| | স্বর্ণবার বা স্বর্ণপিণ্ড (সর্বোচ্চ ২০০ গ্রাম) | প্রতি ১১.৬৬৪ গ্রাম ৩০০০/- টাকা |\n| ৭| | রৌপ্যবার বা রৌপ্যপিণ্ড (সর্বোচ্চ ২০০ গ্রাম) | প্রতি ১১.৬৬৪ গ্রাম ৬/- টাকা |\n| ৮| | HD Cam, DV Cam, BETA Cam এবং Professional কাজে ব্যবহৃত হয় এরূপ ক্যামেরা | ১৫,০০০/- টাকা |\n| ৯| | এয়ারগান/এয়ার রাইফেল (বাণিজ্য মন্ত্রণালয়ের অনুমোদন সাপেক্ষে আমদানিয়োগ্য, আমদানি নীতি আদেশ ২০১২-২০১৫ দ্রষ্টব্য) | ৫,০০০/- টাকা |\n| ১০| | ঝাড়বাতি | ৩০০/- টাকা (প্রতি পয়েন্ট) |\n| ১১ | | কার্পেট ১৫ বর্গমিটার পর্যন্ত | ১৫০/- টাকা (প্রতি বর্গমিটার) |\n| ১২| | ডিশ ওয়াশার/ওয়াশিং মেশিন/ক্লথ ড্রায়ার | ৩,০০০/- টাকা] |\n",
+      "entity_concepts": {
+        "Baggage Rules": [
+          "This schedule provides the list of items subject to duty and taxes under the passenger baggage regulations.",
+          "It sets out specific thresholds and duty conditions for goods imported as baggage that are not for personal or household use, exceed quantity limits, or are imported in commercial quantities."
+        ],
+        "Television": [
+          "Televisions of various display technologies like Plasma, LCD, and LED are subject to graded duty payments based on their screen size categories."
+        ],
+        "Home Theatre System": [
+          "Home theatre systems or music centers exceeding a specific speaker count are subject to a fixed rate of duty."
+        ],
+        "Refrigerator": [
+          "Refrigerators and deep freezers imported as baggage are liable for a specific fixed amount of duty."
+        ],
+        "Air Conditioner": [
+          "Air coolers and air conditioners are categorized by type and capacity, with distinct duty rates applied to each category."
+        ],
+        "Dish Antenna": [
+          "The import of a dish antenna under baggage rules requires the payment of a specified amount of duty."
+        ],
+        "Gold Bar": [
+          "Gold bars or ingots up to a maximum weight limit are permitted for import as baggage subject to a specific duty rate per unit of weight."
+        ],
+        "Silver Bar": [
+          "Silver bars or ingots up to a maximum weight limit are allowed as baggage imports upon payment of a defined duty rate per unit of weight."
+        ],
+        "Professional Equipment": [
+          "Professional cameras and camcorders, including HD and Beta cam units, are subject to a fixed duty payment when imported as baggage."
+        ],
+        "Airgun": [
+          "The import of airguns or air rifles as baggage is subject to a fixed duty and requires prior approval from the Ministry of Commerce."
+        ],
+        "Chandelier": [
+          "Chandeliers imported as baggage are subject to duty calculated on a per-point basis."
+        ],
+        "Carpet": [
+          "Carpets up to a specified total area are permitted for import under baggage rules upon payment of duty calculated per square meter."
+        ],
+        "Household Appliance": [
+          "Appliances such as dishwashers, washing machines, and cloth dryers are subject to a fixed duty amount when imported as baggage."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-৩",
+      "text_id": "metadata_12",
+      "resolved_text": "তফসিল-৩\n[ বিধি ৩(৫), ৩(৭) ও বিধি ১০ দ্রষ্টব্য ]\n[শুল্ক ও কর মুক্ত পণ্যের তালিকা]\n\n| ক্রমিক | পণ্যের নাম |\n| --- | --- |\n| ১ | ক্যাসেট প্লেয়ার/টুইনওয়ান ; |\n| ২ | ডিস্কম্যান/ওয়াকম্যান (অডিও) ; |\n| ৩ | বহনযোগ্য অডিও সিডি প্লেয়ার ; |\n| ৪ | ডেস্কটপ/ল্যাপটপ কম্পিউটার (একটি ইউপিএস সহ) ; |\n| ৫ | কম্পিউটার স্ক্যানার ; |\n| ৬ | কম্পিউটার প্রিন্টার ; |\n| ৭ | ফ্যাক্স মেশিন; |\n| ৮ | ভিডিও ক্যামেরা (HD Cam, DV Cam, BETA Cam এবং Professional কাজে ব্যবহৃত হয় এরূপ ক্যামেরা ব্যতীত) ; |\n| ৯ | স্টিল ক্যামেরা /ডিজিটাল ক্যামেরা ; |\n| ১০ | সাধারণ/পুশবাটন/কর্ডলেস টেলিফোন সেট ; |\n| ১১ | সাধারণ/ইলেকট্রিক ওভেন/ মাইক্রোওয়েভ ওভেন ; |\n| ১২ | রাইস কুকার/প্রেসার কুকার/গ্যাস ওভেন (বার্নার সহ) |\n| ১৩ | টোস্টার/স্যান্ডউইচ মেকার/ব্লেন্ডার/ফুড প্রসেসর/জুসার/ কফি মেকার; |\n| ১৪ | সাধারণ ও বৈদ্যুতিক টাইপরাইটার ; |\n| ১৫ | গৃহস্থালী সেলাই মেশিন (ম্যানুয়াল/ বৈদ্যুতিক) ; |\n| ১৬ | টেবিল/ প্যাডেস্টাল ফ্যান/গৃহস্থালী সিলিং ফ্যান ; |\n| ১৭ | স্পোর্টস সরঞ্জাম (ব্যক্তিগত ব্যবহারের জন্য); |\n| ১৮ | ১২[১০০ গ্রাম ওজনের স্বর্ণালংকার ও ২০০ গ্রাম ওজনের রৌপ্য অলংকার (এক প্রকার অলংকার ১২টির অধিক হইবে না)]; |\n| ১৯ | ১ কার্টন (200 শলাকা) সিগারেট ; |\n| ২০ | ১৩[২১\"] পর্যন্ত Plasma, LCD, TFT, LED অনুরূপ প্রযুক্তির টেলিভিশন ও ২৯\" পর্যন্ত (CRT) সাদাকালো/রঙিন টেলিভিশন ; |\n| ২১ | ভিসিআর/ভিসিপি ; |\n| ২২ | সাধারণ সিডি ও দুইটি স্পীকারসহ কম্পোনেন্ট (মিউজিক সেন্টার) (সিডি/ ভিসিডি/ ডিভিডি/এলডি/ এমডি সেট); |\n| ২৩ | ৪ (চার) টি স্পীকারসহ কম্পোনেন্ট (মিউজিক সেন্টার) সিডি/ভিসিডি/ডিভিডি/এলডি/এমডি/ ব্লু রেডিস্ক প্লেয়ার ; |\n| ২৪ | এলসিডি কম্পিউটার মনিটর (টিভি সুবিধা থাকুক বা নাই থাকুক) ১৯\" পর্যন্ত; |\n| ২৫ | একটি মোবাইল/ সেলুলার ফোন সেট |\n",
+      "entity_concepts": {
+        "Duty-Free Baggage": [
+          "This schedule provides a list of items that passengers are permitted to import without paying customs duty and taxes, subject to the conditions specified in the rules. The items listed encompass various consumer electronics, household appliances, personal equipment, and specific quantities of personal effects like jewelry and cigarettes."
+        ],
+        "Passenger (Non-Tourist) Baggage (Import) Rules 2012": [
+          "The third schedule is established under the authority of specific rules regarding the import of non-tourist baggage, delineating the categories of personal goods exempt from standard import duties."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "তফসিল-৪",
+      "text_id": "metadata_14",
+      "resolved_text": "তফসিল-৪\n[ বিধি ৩ (৭) দ্রষ্টব্য ]\nপণ্য ক্রয় সংক্রান্ত ফরম\n[ঘোষিত পণ্য যাত্রী আগমনের সাতটি কার্যদিবসের মধ্যে ক্রয় করিতে হইবে]\n১। যাত্রীর নাম :\n২। পাসপোর্ট নং :\n৩। ফ্লাইট নং :\n৪। আগমনের তারিখ :\n৫। তফসিল-২ এবং তফসিল-৩ ভুক্ত যে সকল পণ্য বাংলাদেশ পর্যটন কর্পোরেশনের সিটি সেলস্ সেন্টার হইতে ক্রয় করিতে ইচ্ছুক (এই বিধিমালার অধীনে প্রাপ্যতা অনুসারে তফসিল-২ এবং তফসিল-৩ ভুক্ত যে সকল পণ্য সঙ্গে আনা হইয়াছে, তাহার সাথে সমন্বয় করিয়া দায়িত্বে নিয়োজিত শুল্ক (Customs) কর্মকর্তা যাত্রী কর্তৃক ঘোষিত পণ্যের প্রাপ্যতা নির্ধারণ করিবেন): \n| ক্রমিক নং | পণ্যের বর্ণনা | সংখ্যা |\n| --- | --- | --- |\n|  |  |  |\n\n\nযাত্রীর স্বাক্ষর\t\tএসিস্ট্যান্ট রেভিনিউ অফিসার অব কাস্টমস এর স্বাক্ষর (নামীয় সীলসহ)\t\tসহকারী/উপ-কমিশনার অব কাস্টমস (Assistant/Deputy Commissioner of Customs) এর স্বাক্ষর (নামীয় সীলসহ)\n\nজাতীয় রাজস্ব বোর্ডের আদেশক্রমে,\nস্বাক্ষরিত/-\n(মোহাম্মদ রেজাউল হক)\nদ্বিতীয় সচিব (শুল্কঃ নীতি ও বাজেট)।",
+      "entity_concepts": {
+        "Passenger Baggage Allowance": [
+          "The regulations establish a specific form for passengers to declare and purchase items from designated sales centers within a set timeframe after arrival.",
+          "Customs officials are responsible for verifying the eligibility of items declared by the passenger by reconciling them with items already brought into the country under the relevant baggage rules."
+        ],
+        "Assistant Revenue Officer of Customs": [
+          "The officer is authorized to provide a signature and official seal on the passenger's declaration form for items purchased from authorized sales centers."
+        ],
+        "Assistant Commissioner of Customs": [
+          "The officer is authorized to provide a signature and official seal on the passenger's declaration form to validate the customs process."
+        ],
+        "National Board of Revenue": [
+          "This form and the associated procedural rules are issued under the authority of the National Board of Revenue."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

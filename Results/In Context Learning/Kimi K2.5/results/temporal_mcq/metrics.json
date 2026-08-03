@@ -1,0 +1,51 @@
+{
+  "dataset": "temporal_mcq",
+  "model": "moonshotai/kimi-k2.5",
+  "generated_at": "2026-07-20 12:12:22",
+  "n_dataset_total": 354,
+  "n_with_records": 354,
+  "n_api_failed": 0,
+  "n_evaluated": 354,
+  "n_correct": 320,
+  "accuracy": 0.904,
+  "precision_macro": 0.8442,
+  "recall_macro": 0.893,
+  "f1_macro": 0.8644,
+  "labels": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "format_failure_count": 1,
+  "scoring": "Deterministic: parsed choice_index vs ground-truth answer_index (0-based). Macro-averaged P/R/F1 over option indices as classes (sklearn, zero_division=0). Format failures count as wrong.",
+  "evaluation_mode": "grounded_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 354,
+    "by_context_status": {
+      "full": 354
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 1,
+      "median": 2.0,
+      "max": 54,
+      "mean": 4.1
+    },
+    "context_char_count": {
+      "min": 0,
+      "median": 46116.0,
+      "max": 249969,
+      "mean": 85542.6
+    },
+    "context_token_estimate": {
+      "min": 0,
+      "median": 11528.5,
+      "max": 62492,
+      "mean": 21385.3
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 75,
+    "n_documents_dropped_total": 233
+  }
+}

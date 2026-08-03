@@ -1,0 +1,22 @@
+{
+  "dataset": "temporal_mcq",
+  "model": "anthropic/claude-sonnet-4.5",
+  "generated_at": "2026-07-19 11:46:30",
+  "n_dataset_total": 354,
+  "n_with_records": 354,
+  "n_api_failed": 0,
+  "n_evaluated": 354,
+  "n_correct": 192,
+  "accuracy": 0.5424,
+  "precision_macro": 0.4847,
+  "recall_macro": 0.4789,
+  "f1_macro": 0.4663,
+  "labels": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "format_failure_count": 26,
+  "scoring": "Deterministic: parsed choice_index vs ground-truth answer_index (0-based). Macro-averaged P/R/F1 over option indices as classes (sklearn, zero_division=0). Format failures count as wrong."
+}

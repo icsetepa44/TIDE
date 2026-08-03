@@ -1,0 +1,88 @@
+{
+  "dataset": "perturbation_detection",
+  "model": "z-ai/glm-4.6",
+  "generated_at": "2026-07-19 05:35:28",
+  "n_dataset_total": 498,
+  "n_with_records": 498,
+  "n_api_failed": 0,
+  "detection": {
+    "n_evaluated": 498,
+    "n_detection_format_failures": 5,
+    "class_balance_evaluated": {
+      "perturbed": 257,
+      "accurate": 241
+    },
+    "positive_class": "incorrect/perturbed statement",
+    "accuracy": 0.739,
+    "precision": 0.7902,
+    "recall": 0.6941,
+    "f1": 0.739,
+    "confusion": {
+      "tp": 177,
+      "fp": 47,
+      "tn": 191,
+      "fn": 78
+    }
+  },
+  "explanation": {
+    "n_perturbed_evaluated": 257,
+    "n_detected_perturbed": 177,
+    "n_explanations_scored": 177,
+    "n_explanation_judge_error": 0,
+    "n_false_positive_explanations_autofailed": 47,
+    "mean_explanation_final_score_over_detected": 0.4331,
+    "mean_explanation_final_score_over_all_perturbed": 0.2983,
+    "localization_rate": 0.7571,
+    "correction_given_rate": 0.9096,
+    "correction_correct_rate": 0.6441,
+    "n_uncertain": 0,
+    "n_confidence_scored": 177,
+    "explanation_judge_confidence_mean": 99.27,
+    "note": "Rubric v2: explanation_final_score = base rubric gated on perturbation_localized (unlocalized explanations score 0.0). mean_explanation_final_score_over_all_perturbed counts missed detections and judge errors as 0.0."
+  },
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 177,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "metrics_caveat": "The task description assumed a single-class ground truth (all statements incorrect), under which precision would be trivially 1.0 and F1 degenerate, leaving recall (= detection rate) as the meaningful metric. The ACTUAL dataset is two-class and nearly balanced (is_perturbed: 246 true / 240 false), so accuracy, precision, recall, and F1 (positive class = perturbed/incorrect statement) are all meaningful here. Recall over the perturbed class still equals the error-detection rate.",
+  "evaluation_mode": "grounded_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 498,
+    "by_context_status": {
+      "full": 498
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 1,
+      "median": 2.0,
+      "max": 81,
+      "mean": 2.9
+    },
+    "context_char_count": {
+      "min": 0,
+      "median": 24598.5,
+      "max": 239893,
+      "mean": 63595.6
+    },
+    "context_token_estimate": {
+      "min": 0,
+      "median": 6149.5,
+      "max": 59973,
+      "mean": 15898.5
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 105,
+    "n_documents_dropped_total": 209
+  }
+}

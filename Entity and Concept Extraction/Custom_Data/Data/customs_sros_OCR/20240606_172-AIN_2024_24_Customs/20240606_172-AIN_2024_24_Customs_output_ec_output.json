@@ -1,0 +1,293 @@
+{
+  "source_file": "customs_sros_OCR/20240606_172-AIN_2024_24_Customs/20240606_172-AIN_2024_24_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩১ বঙ্গাব্দ/ ২৯ মে, ২০২৪ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The Government of Bangladesh issued a notification through the Ministry of Finance regarding customs and value added tax matters."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the issuing authority for this regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division under the Ministry of Finance is responsible for publishing this customs and value added tax notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৭২-আইন/২০২৪/২৪/কাস্টমস",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৭২-আইন/২০২৪/২৪/কাস্টমস।– সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, ইলেকট্রিক সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ স্থানীয়ভাবে উৎপাদনের লক্ষ্যে, উক্ত আইনের প্রথম তফসিলভুক্ত নিম্নবর্ণিত TABLE এর কলাম (1) এ বর্ণিত Heading এর বিপরীতে কলাম (2) এ উল্লিখিত H.S. Code এবং কলাম (3) এ বর্ণিত পণ্যসমূহের উপর আরোপণীয় উক্ত আইনের প্রথম তফসিলে উল্লিখিত কাস্টমস শুল্ক (Customs Duty), যে পরিমাণে মূল্যভিত্তিক ৫% (পাঁচ শতাংশ) এর অতিরিক্ত হয় সেই পরিমাণ, সমুদয় রেগুলেটরি শুল্ক, সম্পূরক শুল্ক, যদি থাকে, এবং সমুদয় মূল্য সংযোজন কর হইতে, নিম্নবর্ণিত শর্তসাপেক্ষে, অব্যাহতি প্রদান করিল, যথা:-\n\nTABLE\n\n| Heading\n(1) | H.S. Code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 39.03 | 3903.19.00 | HIPS (High Impact Polystyrene) Resin |\n|  | 3903.20.00 | San Resin |\n|  | 3903.30.00 | ABS Resion |\n| 39.04 | 3904.22.00 | PVC (Polyvinyl Chloride) Resin |\n| 39.07 | 3907.40.00 | Poly Carbonate |\n|  | 3907.99.00 | Bulk Moulding Compound |\n|  | 3907.99.00 | PBT Compound |\n| 39.08 | 3908.10.00 | Polyiamide/ Nylon-6/Nylon-66 |\n| 39.09 | 3909.10.00 | Urea Resin |\n|  | 3909.40.90 | Phenolic Moulding Compound |\n| 72.11 | 7211.29.90 | MS Sheet |\n| 74.09 | 7409.21.10 | Brass Sheet |\n|  | 7409.31.10 | Copper Sheet, Bronze Sheet |\n| 85.33 | 8533.40.00 | Potentiometer |\n|  | 8533.29.00 | Resistor |\n| 85.34 | 8534.00.00 | PCB (Printed Circuit Board) |\n| 85.38 | 8538.90.10 | Switch & Socket Indicator Light |\n| 85.41 | 8541.30.00 | DIAC |\n",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This Act provides the legal authority under Section 25(1) for the government to grant duty exemptions in the public interest."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This Act provides the legal authority under Section 126(1) for the government to grant tax exemptions in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The government acts in consultation with this body to grant specific duty and tax exemptions for local manufacturing."
+        ],
+        "Customs Duty": [
+          "The order grants an exemption on Customs Duty for specified raw materials used in the local production of electric goods, to the extent that such duty exceeds five percent ad valorem."
+        ],
+        "Regulatory Duty": [
+          "The order provides a full exemption from all applicable Regulatory Duty for the specified raw materials used in local electric goods manufacturing."
+        ],
+        "Supplementary Duty": [
+          "The order provides a full exemption from any applicable Supplementary Duty for the specified raw materials used in local electric goods manufacturing."
+        ],
+        "Value Added Tax": [
+          "The order provides a full exemption from all applicable Value Added Tax for the specified raw materials used in local electric goods manufacturing."
+        ],
+        "H.S. Code": [
+          "The order lists specific H.S. Codes in the provided table that qualify for duty and tax concessions when imported for the local production of items like electric switches, sockets, and lamp holders."
+        ],
+        "TABLE": [
+          "This table identifies the specific H.S. Codes and product descriptions, including various resins, metal sheets, and electronic components, that are eligible for duty and tax exemptions."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "শর্তাবলি",
+      "text_id": "metadata_4",
+      "resolved_text": "শর্তাবলি",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_2",
+      "resolved_text": "(১) সংশ্লিষ্ট আমদানিকারককে Industrial IRC holder VAT compliant ইলেকট্রিক সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী (Manufacturer) শিল্প প্রতিষ্ঠান হইতে হইবে।\n\nব্যাখ্যা-\n(ক) “Industrial IRC holder” অর্থ এইরূপ প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্তকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(খ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) ও মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা, ২০১৬ এর অধীন নিবন্ধিত এবং নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এইরূপ উৎপাদনকারী প্রতিষ্ঠান;\n(গ) “ইলেকট্রিক সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী শিল্প প্রতিষ্ঠান” অর্থ মূল্য সংযোজন কর নিবন্ধিত উৎপাদনকারী প্রতিষ্ঠান যাহারা স্থানীয়ভাবে সংগৃহীত বা আমদানিকৃত কাঁচামাল দ্বারা ইলেকট্রিক সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ এর কমপক্ষে নিম্নবর্ণিত ০২ (দুই) টি উপাদান (Components) উৎপাদন করে; যথা:-\n(i) Rod or wire of Brass/Copper/Bronze;\n(ii) Screw;",
+      "entity_concepts": {
+        "Industrial IRC holder": [
+          "This term is defined as an entity that possesses a valid and updated Industrial Consumer import registration certificate issued by the Office of the Chief Controller of Imports and Exports.",
+          "To qualify for specific benefits, an importer must be recognized as an Industrial IRC holder."
+        ],
+        "VAT compliant": [
+          "This term refers to a manufacturing entity that is registered under the Value Added Tax and Supplementary Duty Act, 2012 and its corresponding 2016 rules.",
+          "A VAT compliant entity is further required to regularly submit its periodic tax returns to maintain this status."
+        ],
+        "Manufacturer": [
+          "This term refers to an industrial establishment that produces electric switches, sockets, lamp holders, dimmers, or plugs.",
+          "To qualify as a manufacturer for these goods, the entity must produce at least two specific components locally using locally sourced or imported raw materials, including items like brass, copper, or bronze rods/wires, and screws."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_3",
+      "resolved_text": "(২) ইলেকট্রিক সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী প্রতিষ্ঠানে অবশ্যই নিম্নবর্ণিত মেশিনারিজ বা প্ল্যান্ট স্থাপিত থাকিতে হইবে, যথা:-\n(i) Injection moulding machine;\n(ii) Metal furnace;\n(iii) Screw making machine;\n(iv) Stamping machine;\n(v) Testing facilities.",
+      "entity_concepts": {
+        "Electric Switch, Socket, Lamp Holder, Dimmer, and Plug Manufacturing": [
+          "Manufacturers of these electrical components are required to have specific machinery and plant infrastructure installed on their premises.",
+          "The mandatory equipment includes injection moulding machines, metal furnaces, screw making machines, stamping machines, and testing facilities to operate within the regulatory framework."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_4",
+      "resolved_text": "(৩) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নকৃত শিল্প ভোক্তা আইআরসি রহিয়াছে এবং ১৩ ডিজিট সংবলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী মাসের অথবা প্রযোজ্য ক্ষেত্রে প্রয়োজনীয় সংখ্যক মূসক দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড বা ভ্যাট কমিশনারেট এর ওডয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে: তবে শর্ত থাকে যে, কোনো দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবেন।",
+      "entity_concepts": {
+        "Import Registration Certificate": [
+          "The importing entity must possess a valid and updated industrial consumer Import Registration Certificate to proceed with the import and clearance of goods under this order."
+        ],
+        "Value Added Tax": [
+          "The importing firm must be registered for Value Added Tax with a thirteen-digit identification number."
+        ],
+        "Value Added Tax Return": [
+          "The importing firm is required to have submitted the necessary Value Added Tax returns for the month immediately preceding the filing of the bill of entry or as otherwise applicable."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "Electronic verification of Value Added Tax compliance and other requirements must be available through the customs computerized system, the VAT online system, or official websites of the National Board of Revenue or the VAT Commissionerate."
+        ],
+        "Commissioner of Customs": [
+          "In instances where electronic data is unavailable due to force majeure or other reasonable causes, the Commissioner of Customs is authorized to proceed with customs clearance after recording the specific reasons for such actions."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_5",
+      "resolved_text": "(৪) ইলেকট্রিক সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ শিল্প প্রতিষ্ঠান কর্তৃক কারখানা স্থাপনের পর এই প্রজ্ঞাপনের অধীন রেয়াতি সুবিধায় কাঁচামাল বা যন্ত্রাংশ আমদানির অনুমোদনের জন্য জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর আবেদন করিতে হইবে। উক্ত আবেদন বিবেচনার ক্ষেত্রে জাতীয় রাজস্ব বোর্ড এর দ্বিতীয় সচিব (কাস্টমস নীতি), সংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তা এবং শিল্প মন্ত্রণালয়ের প্রতিনিধির সমন্বয়ে গঠিত কমিটি আবেদনকারী প্রতিষ্ঠান সরেজমিন যাচাইপূর্বক জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবর পরিশিষ্ট-১ অনুযায়ী একটি প্রতিবেদন দাখিল করিবেন এবং উক্ত প্রতিবেদন অনুযায়ী উক্ত প্রতিষ্ঠানের কারখানা স্থাপন সংক্রান্ত কার্যক্রম সন্তোষজনক বিবেচিত হইলে আবেদনকারী প্রতিষ্ঠানকে এই প্রজ্ঞাপনের অধীন রেয়াতি হারে পণ্য আমদানির অনুমোদন প্রদান করা হইবে। উক্ত অনুমোদনপত্রের ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "Industrial establishments must submit an application to the Member (Customs: Policy and ICT) of the National Board of Revenue to obtain approval for the concessional import of raw materials or components under this notification.",
+          "The National Board of Revenue oversees a specialized committee consisting of a Second Secretary, a VAT departmental officer, and a Ministry of Industry representative to verify the physical premises of an applicant institution.",
+          "The National Board of Revenue grants import approval at concessional rates only after the verification committee submits a satisfactory report regarding the factory establishment."
+        ],
+        "Customs Clearance": [
+          "A copy of the formal import approval letter must be submitted along with the Bill of Entry for each consignment during the customs clearance process."
+        ],
+        "Concessional Import": [
+          "Manufacturers of electric switches, sockets, lamp holders, dimmers, and plugs are eligible for concessional duty rates on raw materials or machinery subject to factory verification and formal approval under this notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_6",
+      "resolved_text": "(৫) সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী কর্তৃক প্রতি একক সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ এর যন্ত্র বা যন্ত্রাংশ উৎপাদনের জন্য সম্ভাব্য বা যৌক্তিক অপচয়সহ কী কী উপকরণ কী পরিমাণে আবশ্যক (উপকরণ-উৎপাদ সহগ) সে সম্পর্কিত তথ্য পরিশিষ্ট-২ অনুযায়ী ৩ (তিন) কপি পণ্য আমদানির পূর্বে সংশ্লিষ্ট কমিশনারেট এর কমিশনার বরাবর দাখিল করিতে হইবে এবং কমিশনার উক্ত উপকরণ-উৎপাদ সহগ অনুমোদনপূর্বক প্রতিস্বাক্ষর করিবেন এবং একটি কপি অফিসের রেকর্ড হিসাবে সংরক্ষণ করিবেন, দ্বিতীয় কপি জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস: নীতি ও আইসিটি) বরাবদর প্রেরণ করিবেন এবং অপর কপি প্রতিষ্ঠান কর্তৃপক্ষকে ফেরত দিবেন। পরিশিষ্ট-২ এর সত্যায়িত ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Input-Output Coefficient": [
+          "Manufacturers of electrical components such as switches, sockets, lamp holders, dimmers, and plugs are required to submit an input-output coefficient document specifying the materials and quantities needed for production.",
+          "This documentation must be submitted in triplicate to the relevant Commissioner of Customs prior to importing raw materials or parts, incorporating a reasonable allowance for production wastage as detailed in the prescribed appendix."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner is responsible for reviewing and approving the submitted input-output coefficient documentation.",
+          "Upon approval and countersigning, the Commissioner must retain one copy, forward a second copy to the Member (Customs: Policy and ICT) of the National Board of Revenue, and return the final copy to the manufacturing entity."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs: Policy and ICT) of the National Board of Revenue receives a copy of the approved input-output coefficient for their records."
+        ],
+        "Bill of Entry": [
+          "A certified copy of the approved input-output coefficient must be submitted along with the Bill of Entry during the customs clearance process for every consignment of goods."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_7",
+      "resolved_text": "(৬) (ক) আমদানি ও শুল্কায়ন সংক্রান্ত অন্যান্য বিষয়সহ শর্ত (১), (২), (৩) ও (৪) পরিপালন করা হইয়াছে কিনা তাহা সংশ্লিষ্ট শুল্কায়নকারী কর্মকর্তা কর্তৃক যাচাই করিয়া নিশ্চিত হইতে হইবে এবং শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার পর্যায়ে শুল্কায়ন অনুমোদন করাইতে হইবে;\n(খ) শুল্কায়ন তত্ত্বাবধানকারী সংশ্লিষ্ট ডেপুটি কমিশনার বা সহকারী কমিশনার শুল্কায়নে বিলম্ব পরিহারের লক্ষ্যে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইট বা ভ্যাট কমিশনারেট এর ওয়েবসাইট হইতে মূসক নিবন্ধন সনদের (BIN) সঠিকতা যাচাই করিবেন।",
+      "entity_concepts": {
+        "Customs Clearance": [
+          "The customs officer is required to verify and ensure compliance with all import and customs-related conditions before proceeding. The clearance process must be formally approved by the supervising Deputy Commissioner or Assistant Commissioner."
+        ],
+        "Business Identification Number": [
+          "The supervising customs authority must verify the accuracy of the taxpayer identification document to prevent delays in customs processing. This verification is to be conducted using official systems including the customs computer system, VAT online system, or the websites of the National Board of Revenue or the relevant VAT Commissionerate."
+        ],
+        "National Board of Revenue": [
+          "The official website of this entity serves as a mandatory verification point for confirming the validity of taxpayer registration certificates during the customs clearance process."
+        ],
+        "Customs Computerised Entry Processing System": [
+          "This digital infrastructure is utilized by customs authorities to verify the status of taxpayer registration certificates during the clearance process."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_8",
+      "resolved_text": "(৭) কোনো উৎপাদনকারী এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেক্ষেত্রে তাহার বিরুদ্ধে কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর সংশ্লিষ্ট বিধান অনুযায়ী ও প্রযোজ্য ক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইনের বিধান অনুযায়ী প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "This act serves as one of the legal frameworks under which action may be taken against a manufacturer who violates the conditions of this notification, specifically in cases where such violation results in a loss of revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This act serves as one of the legal frameworks under which action may be taken against a manufacturer who violates the conditions of this notification, specifically in cases where such violation results in a loss of revenue."
+        ],
+        "Manufacturer": [
+          "A manufacturer is subject to legal action under relevant customs, tax, and other applicable laws if they violate the conditions set out in this notification and such violation leads to a loss of revenue."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_9",
+      "resolved_text": "২। ২২ মে, ২০২৩ খ্রিষ্টাব্দ তারিখে জারীকৃত এস.আর.ও. নং ১২০-আইন/২০২৩/১৬৪/কাস্টমস এতদ্দ্বারা রহিত করা হইল।",
+      "entity_concepts": {
+        "S.R.O. 120-AIN/2023": [
+          "This customs notification is officially repealed by the current order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "",
+      "text_id": "20240606_172-AIN_2024_24_Customs_২৯ মে, ২০২৪_clause_10",
+      "resolved_text": "৩। এই প্রজ্ঞাপন ৬ জুন, ২০২৪ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the date on which the legal order comes into effect."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-১",
+      "text_id": "metadata_7",
+      "resolved_text": "পরিশিষ্ট-১\n[শর্ত (৪) দ্রষ্টব্য]\nকারখানা পরিদর্শন প্রতিবেদন\n\nআমরা নিম্নস্বাক্ষরকারীগণ বিগত ------------খ্রি. তারিখ:-------------------- নামীয় সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী শিল্প কারখানা সরেজমিন পরিদর্শন করি। পরিদর্শনে প্রাপ্ত তথ্যাদি নিম্নরূপ, যথা:-\n১। প্রতিষ্ঠানের নাম ও ঠিকানা:\n২। মূসক নিবন্ধন নম্বর (BIN):\n৩। মালিক/স্বত্বাধিকারীর নাম ও ঠিকানা (বর্তমান/স্থায়ী):\n৪। আয়কর সনদ নম্বর (TIN):\n৫। জমি ও ভবনের বিবরণ:\n(ক) জমি ও ভবন নিজস্ব কিনা:\n(খ) মোট জমির পরিমাণ :\n(গ) কারখানা ভবনের (ওয়্যারহাউসসহ) আয়তন:\n(ঘ) কারখানা ভবনের প্রকৃতি : (পাকা/সেমি পাকা/অন্যান্য):\n(ঙ) অফিস ভবনের আয়তন:\n(চ) বিদ্যুৎ সংযোগ আছে কিনা:\n৬। কারখানা ভবন ভাড়া হইলে ভাড়া চুক্তির কপি:\n৭। স্থাপিত যন্ত্রপাতির বিবরণ:\n৮। স্থাপিত যন্ত্রপাতি দ্বারা উৎপাদনযোগ্য পণ্যের বিবরণ:\n৯। উৎপাদনযোগ্য পণ্যের উপকরণ-উৎপাদ সহগ সংশ্লিষ্ট ভ্যাট কমিশনারেটে দাখিল ও অনুমোদন করা হইয়াছে কিনা :\n\nউপর্যুক্ত তথ্যাদি পর্যালোচনায় প্রতীয়মান হয় যে, বর্ণিত প্রতিষ্ঠানটি স্থানীয়ভাবে সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনের লক্ষ্যে প্রাথমিক প্রস্তুতি সম্পন্ন করিয়াছে। প্রতিষ্ঠানটিকে প্রজ্ঞাপন এস.আর.ও. নং ১৭২-আইন/২০২৪/২৪/কাস্টমস, তারিখ: ২৯ মে, ২০২৪ খ্রিষ্টাব্দ এর আওতায় প্রজ্ঞাপনে উল্লেখিত পণ্য/যন্ত্রাংশ/উপকরণ রেয়াতি সুবিধায় আমদানির অনুমোদন প্রদানের সুপারিশ করা হইল এবং প্রতিষ্ঠানটিকে এই প্রজ্ঞাপনের উদ্দেশ্য পূরণকল্পে, সুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ উৎপাদনকারী প্রতিষ্ঠান হিসাবে তালিকাভুক্ত করা হইল।\n\nসংশ্লিষ্ট ভ্যাট বিভাগীয় কর্মকর্তার নাম ও স্বাক্ষর\nতারিখ:\n\nশিল্প মন্ত্রণালয়ের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:\n\nজাতীয় রাজস্ব বোর্ডের প্রতিনিধির নাম ও স্বাক্ষর\nতারিখ:",
+      "entity_concepts": {
+        "Business Identification Number": [
+          "The factory inspection report requires the submission of the Business Identification Number to verify the manufacturer's registration status for tax and regulatory purposes."
+        ],
+        "Tax Identification Number": [
+          "The factory inspection report requires the disclosure of the Tax Identification Number of the owner or proprietor to ensure tax compliance."
+        ],
+        "S.R.O. 172-AIN/2024": [
+          "This regulatory order provides concessional import facilities for specified goods, parts, and raw materials used by registered manufacturers of electrical accessories.",
+          "The order serves as the legal basis for recommending and listing specific manufacturing entities to benefit from duty concessions."
+        ],
+        "National Board of Revenue": [
+          "A representative of the National Board of Revenue is required to sign the inspection report, formalizing the recommendation for factory enlistment under the relevant customs notification."
+        ],
+        "Manufacturing Inspection Report": [
+          "This report serves as an official documentation tool used to verify the operational status, infrastructure, and capacity of industrial units producing electrical accessories.",
+          "It acts as a mandatory procedural requirement for obtaining approval to import materials under concessional duty benefits as specified in the relevant customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "পরিশিষ্ট-২",
+      "text_id": "metadata_9",
+      "resolved_text": "পরিশিষ্ট-২\n[শর্ত (৫) দ্রষ্টব্য]\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা।\n\nসুইচ/সকেট/ল্যাম্প হোল্ডার/ডিমার/প্লাগ তৈরির উপকরণ/কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রমিক\nনাং | পণ্যের\nনাম ও\nH.S.\nCode | একক | পণ্য উৎপাদনে\nব্যবহার্য\nকাঁচামাল বা\nউপকরণ এর\nনাম (H.S.\nCode সহ) | অপচয়সহ প্রতি একক\nপণ্য উৎপাদনে\nপ্রয়োজনীয় কাঁচামাল\nবা উপকরণের\nপ্রতিটির পরিমাণ\n(কেজি) | অপচয় ব্যতীত প্রতি\nএকক পণ্য উৎপাদনে\nপ্রয়োজনীয় কাঁচামাল\nবা উপকরণের\nপ্রতিটির পরিমাণ\n(কেজি) | অপচয়ের\nশতকরা\nহার |\n| --- | --- | --- | --- | --- | --- | --- |\n| (১) | (২) | (৩) | (৪) | (৫) | (৬) | (৭) |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\n\nপ্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা/স্বত্বাধিকারীর নাম, স্বাক্ষর ও তারিখ\n\nরাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority overseeing the declaration process for raw materials used in the manufacture of electrical accessories.",
+          "The Board prescribes the standardized documentation for reporting production inputs and waste percentages for such manufacturing entities."
+        ],
+        "Value Added Tax Registration Number": [
+          "A mandatory requirement for manufacturers to disclose their official registration number when submitting declarations regarding production materials and waste."
+        ],
+        "HS Code": [
+          "The classification code is required for both the finished products and the raw materials used in the production process to ensure accurate customs and tax tracking."
+        ],
+        "Manufacturing Input Declaration": [
+          "This instrument establishes a formal reporting framework for manufacturers to track production inputs, specify consumption quantities per unit, and account for waste percentages."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

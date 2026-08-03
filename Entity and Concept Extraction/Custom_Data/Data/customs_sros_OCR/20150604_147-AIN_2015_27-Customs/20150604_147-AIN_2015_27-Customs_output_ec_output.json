@@ -1,0 +1,49 @@
+{
+  "source_file": "customs_sros_OCR/20150604_147-AIN_2015_27-Customs/20150604_147-AIN_2015_27-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "আদেশ",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nআদেশ\nতারিখ, ২১ জ্যৈষ্ঠ, ১৪২২ বঙ্গাব্দ/৪ জুন, ২০১৫ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the issuance of this customs order."
+        ],
+        "Internal Resources Division": [
+          "This government division within the Ministry of Finance is the issuing authority for the customs order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ১৪৭-আইন/২০১৫/২৭/কাস্টমস",
+      "text_id": "20150604_147-AIN_2015_27-Customs_৪ জুন, ২০১৫ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস, আর, ও নং ১৪৭-আইন/২০১৫/২৭/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ১১ কার্তিক, ১৪০৭ মোতাবেক ২৬ অক্টোবর, ২০০০ তারিখের আদেশ এস, আর, ও নং ৩২৫-আইন/২০০০/১৮৭২/শুল্ক এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা:-\n\nউপরি-উক্ত আদেশের শর্ত (খ) এ উল্লেখিত “২০১৫” সংখ্যার পরিবর্তে “২০১৬” সংখ্যা প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government, in consultation with the National Board of Revenue, to issue or amend customs notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with the National Board of Revenue when exercising its powers to modify existing customs notifications."
+        ],
+        "S.R.O. 325-AIN/2000": [
+          "This existing customs notification is amended to update a specific reference year to a later date."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

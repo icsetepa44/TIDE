@@ -162,6 +162,23 @@ Each file holds all instances of one task type, and every instance retains full 
 }
 ```
 
+## 🗂️ Repository Structure
+
+The repository contains the complete end-to-end pipeline — from raw official PDFs to the final leaderboard numbers:
+
+```
+TIDE/
+├── Assets/                                       # Figures (methodology overview)
+├── Document Parsing/                             # OCR pipeline + 644 source PDFs and parsed outputs
+├── Entity and Concept Extraction/                # Entity–concept extraction, canonicalization, merging
+├── QA Generation Pipeline/                       # Clustering, thread construction, per-task QA generation
+├── TIDE DATA/                                    # ✨ The benchmark: 3,050 QA pairs across 8 task types
+├── Parametric Knowledge Evaluation Pipeline/     # Closed-book evaluation
+├── In Context Learning Evaluation Pipeline/      # Gold-context (ICL) evaluation
+├── RAG Evaluation Pipeline/                      # Vector DB build, retrieval, LLM council, rubric scoring
+└── Results/                                      # Raw model outputs and scores for all three settings
+```
+
 ## ⚖️ Evaluation Protocol
 
 Every model is evaluated under three settings that differ only in corpus access:

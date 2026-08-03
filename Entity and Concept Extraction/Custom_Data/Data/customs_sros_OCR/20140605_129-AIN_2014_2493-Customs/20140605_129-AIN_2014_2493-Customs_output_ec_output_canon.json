@@ -1,0 +1,67 @@
+{
+  "source_file": "customs_sros_OCR/20140605_129-AIN_2014_2493-Customs/20140605_129-AIN_2014_2493-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n( কাস্টমস ও মূল্য সংযোজন কর )\n\nপ্রজ্ঞাপন",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "তারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/ ০৫ জুন, ২০১৪ খ্রিস্টাব্দ ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "এস,আর,ও নং- ১২৯-আইন/২০১৪/২৪৯৩/কাস্টমস। - Customs Act, 1969, (Act IV of 1969) এর section 19(1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪(১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ২৮ জ্যৈষ্ঠ, ১৪১৬ বঙ্গাব্দ মোতাবেক ১১ জুন, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং- ১৩৭-আইন/২০০৯/২২৪০/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government, in the public interest and in consultation with the National Board of Revenue, to issue or amend statutory regulatory orders."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legal authority for the Government to issue notifications regarding tax concessions or adjustments."
+        ],
+        "National Board of Revenue": [
+          "The Board acts as the consultative authority for the Government when issuing or amending regulatory orders concerning customs and tax matters."
+        ],
+        "S.R.O. 137-AIN/2009": [
+          "This existing statutory regulatory order is being amended under the powers granted by the Customs Act 1969 and the Value Added Tax Act 1991."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20140605_129-AIN_2014_2493-Customs_০৫ জুন, ২০১৪_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপনের টেবিল এর কলাম (১) এ উল্লিখিত H.S.Code “8537.10.00” এর পরিবর্তে “8537.10.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "H.S. Code": [
+          "The classification code for a specific item in the customs tariff table is amended by replacing the existing code with a new, corrected H.S. Code."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মো: ফরিদ উদ্দিন)\nঅতিরিক্ত সচিব (পদাধিকারবলে)।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

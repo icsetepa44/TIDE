@@ -1,0 +1,46 @@
+{
+  "source_file": "customs_sros_OCR/20150604_132-AIN_2015_12-Customs/20150604_132-AIN_2015_12-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ, ২১ জ্যৈষ্ঠ, ১৪২২ বঙ্গাব্দ/৪ জুন, ২০১৫ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government body responsible for the issuance of the customs notification."
+        ],
+        "Internal Resources Division": [
+          "This is the specific division within the government that has formally published this notification under the Customs framework."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ১৩২-আইন/২০১৫/১২/কাস্টমস",
+      "text_id": "20150604_132-AIN_2015_12-Customs_৪ জুন, ২০১৫_clause_1",
+      "resolved_text": "এস, আর, ও নং ১৩২-আইন/২০১৫/১২/কাস্টমস।— Customs Act, 1969 (Act No. IV of 1969) এর section 18 এর sub-section (2) এ প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগের ২৮ বৈশাখ, ১৪২২ বঙ্গাব্দ মোতাবেক ১১ মে, ২০১৫ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ৯৫-আইন/২০১৫/০৮.০১.০০০০.৫৩.০৮.০০২.১৪/কাস্টমস এতদ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18(2) of this Act serves as the legal foundation granting the government the authority to issue and repeal customs notifications."
+        ],
+        "S.R.O. 95-AIN/2015": [
+          "This specific customs notification, which was issued earlier by the relevant department, is hereby repealed by this new order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

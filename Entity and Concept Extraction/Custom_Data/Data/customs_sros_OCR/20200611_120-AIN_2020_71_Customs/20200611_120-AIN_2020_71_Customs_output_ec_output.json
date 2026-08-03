@@ -1,0 +1,69 @@
+{
+  "source_file": "customs_sros_OCR/20200611_120-AIN_2020_71_Customs/20200611_120-AIN_2020_71_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ: ২০ জ্যৈষ্ঠ, ১৪২৭ বঙ্গাব্দ/৩ জুন, ২০২০ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government body is identified as the issuing authority for the customs and tax-related notification."
+        ],
+        "Internal Resources Division": [
+          "This department acts as the administrative wing under the Ministry of Finance responsible for overseeing customs and value added tax matters in this notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১২০-আইন/২০২০/৭১/কাস্টমস",
+      "text_id": "20200611_120-AIN_2020_71_Customs_৩ জুন, ২০২০_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১২০-আইন/২০২০/৭১/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, ২৬ জানুয়ারি, ২০১১ খ্রিস্টাব্দ তারিখে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ২০-আইন/২০১১/২৩২৭/শুল্ক এতদ্দ্বারা রহিত করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19 of this Act provides the legal authority for the Government to issue notifications that may rescind earlier statutory orders."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act serves as part of the legal basis empowering the Government to issue this regulatory order."
+        ],
+        "S.R.O. 20-AIN/2011": [
+          "This specific customs notification, originally issued in January 2011, is formally repealed by the current regulatory order."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with the National Board of Revenue before exercising its authority to rescind or amend customs notifications."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20200611_120-AIN_2020_71_Customs_৩ জুন, ২০২০_clause_2",
+      "resolved_text": "২।\tএই প্রজ্ঞাপন ১১ জুন, ২০২০ খ্রিস্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the official commencement date for the legal changes introduced by this regulatory instrument."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {
+        "Senior Secretary": [
+          "This official represents the authority through which the order is issued on behalf of the President of Bangladesh."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

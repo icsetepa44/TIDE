@@ -1,0 +1,49 @@
+{
+  "source_file": "customs_sros_OCR/20130606_144-AIN_2013_2431-Customs/20130606_144-AIN_2013_2431-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ : ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ/০৬ জুন, ২০১৩ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "The Ministry of Finance is the government department responsible for issuing this regulatory notification."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division under the Ministry of Finance is the authority responsible for the issuance of this customs-related order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং- ১৪৪-আইন/২০১৩/২৪৩১/কাস্টমস",
+      "text_id": "20130606_144-AIN_2013_2431-Customs_০৬ জুন, ২০১৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং- ১৪৪-আইন/২০১৩/২৪৩১/কাস্টমস।- Customs Act, 1969 (IV of 1969) এর section 19(1) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, অত্র বিভাগের ১৩ আষাঢ়, ১৪১৪ বঙ্গাব্দ মোতাবেক ২৭ জুন, ২০০৭ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৪৪-আইন/২০০৭/২১৪৩/শুল্ক, এতদ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act empowers the Government, in consultation with the National Board of Revenue, to issue or rescind customs notifications in the public interest."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with the National Board of Revenue when exercising its powers to issue or repeal customs notifications."
+        ],
+        "S.R.O. 144-AIN/2007": [
+          "This prior customs notification, originally issued in two thousand and seven, is hereby formally repealed by the current order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\n(মোঃ গোলাম হোসেন)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

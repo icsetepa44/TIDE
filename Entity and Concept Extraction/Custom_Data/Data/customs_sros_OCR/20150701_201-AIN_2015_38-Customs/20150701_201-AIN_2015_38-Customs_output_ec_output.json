@@ -1,0 +1,42 @@
+{
+  "source_file": "customs_sros_OCR/20150701_201-AIN_2015_38-Customs/20150701_201-AIN_2015_38-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ, ১৭ আষাঢ়, ১৪২২ বঙ্গাব্দ/১ জুলাই, ২০১৫ খ্রিস্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং ২০১-আইন/২০১৫/৩৮/কাস্টমস",
+      "text_id": "20150701_201-AIN_2015_38-Customs_১ জুলাই, ২০১৫_clause_1",
+      "resolved_text": "এস, আর, ও নং ২০১-আইন/২০১৫/৩৮/কাস্টমস— Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২১ জ্যৈষ্ঠ, ১৪২২ বঙ্গাব্দ মোতাবেক ৪ জুন, ২০১৫ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ১৩৬-আইন/২০১৫/১৬/কাস্টমস এতদ্বারা বাতিল করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act empowers the Government to issue notifications and, in the public interest and in consultation with the National Board of Revenue, to repeal previous notifications."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with this body when exercising its authority to issue or repeal customs notifications."
+        ],
+        "S.R.O. 136-AIN/2015": [
+          "This specific earlier customs notification is formally repealed by the present statutory order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

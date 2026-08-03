@@ -1,0 +1,60 @@
+{
+  "source_file": "customs_sros_OCR/20140605_134-AIN_2014_2498-Customs/20140605_134-AIN_2014_2498-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "তারিখ : ২২ আষাঢ়, ১৪২১ বঙ্গাব্দ/০৫ জুন, ২০১৪ খ্রিস্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস, আর, ও নং- ১৩৪-আইন/২০১৪/২৪৯৮/কাস্টমস",
+      "text_id": "20140605_134-AIN_2014_2498-Customs_০৫ জুন, ২০১৪_clause_1",
+      "resolved_text": "এস, আর, ও নং- ১৩৪-আইন/২০১৪/২৪৯৮/কাস্টমস— Customs Act, 1969 (Act No. IV of 1969)-এর section 19 এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, এই বিভাগের ২৬ জ্যৈষ্ঠ, ১৪১৮ বঙ্গাব্দ মোতাবেক ০৯ জুন, ২০১১ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ১৫৭-আইন/২০১১/২৩৪৩/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (১) এ উল্লিখিত Heading 85.28 এর অধীন কলাম (২) এ উল্লিখিত H.S. Code \"8528.51.10\" এর বিপরীতে কলাম (৩) তে বর্ণিত \"22\" সংখ্যার পরিবর্তে \"19\" সংখ্যা প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19 of this Act serves as the legal basis for the Government to grant exemptions or modify existing duty structures in the public interest."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act provides the legislative authority used in conjunction with the Customs Act to amend tax-related provisions."
+        ],
+        "National Board of Revenue": [
+          "The Government is required to consult with the National Board of Revenue before exercising its powers to amend customs or tax notification orders."
+        ],
+        "S.R.O. 157-AIN/2011": [
+          "This existing notification is formally amended by the current order to update specific numerical values within its tariff table."
+        ],
+        "H.S. Code": [
+          "The duty rate associated with a specific H.S. Code within the tariff table is being adjusted downward as part of the amendment process."
+        ],
+        "TABLE-1": [
+          "The table within the specified notification is amended by replacing an existing numerical value with a new one for a specific tariff heading and code."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_5",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ গোলাম হোসেন)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

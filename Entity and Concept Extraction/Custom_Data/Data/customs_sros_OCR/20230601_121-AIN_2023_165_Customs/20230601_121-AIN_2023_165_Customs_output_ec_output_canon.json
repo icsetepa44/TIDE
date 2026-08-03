@@ -1,0 +1,229 @@
+{
+  "source_file": "customs_sros_OCR/20230601_121-AIN_2023_165_Customs/20230601_121-AIN_2023_165_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ০৭ জ্যৈষ্ঠ, ১৪৩০ বঙ্গাব্দ/২১ মে, ২০২৩ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Government of Bangladesh": [
+          "The Ministry of Finance and the Internal Resources Division act under the authority of the Government of Bangladesh to issue official notifications, such as statutory orders related to customs and value added tax."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance oversees the issuance of official gazette notifications regarding customs and tax regulations."
+        ],
+        "Internal Resources Division": [
+          "The Internal Resources Division is the specific wing within the Ministry of Finance responsible for administrative oversight of customs and value added tax policies."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১২১-আইন/২০২৩/১৬৫/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, ইন্ডাস্ট্রিয়াল মোল্ড (Mould) বা ডাই (Die) স্থানীয়ভাবে উৎপাদনের লক্ষ্যে, উক্ত Act এর First Schedule ভুক্ত নিম্নবর্ণিত TABLE এর কলাম (1) এ বর্ণিত Heading এর বিপরীতে কলাম (2) তে উল্লিখিত H.S. Code এবং কলাম (3) এ বর্ণিত পণ্যসমূহের উপর আরোপণীয় আমদানি শুল্ক, যে পরিমাণে মূল্যভিত্তিক ১% (এক শতাংশ) এর অতিরিক্ত হয় সেই পরিমাণ, সমুদয় রেগুলেটরি ডিউটি এবং সমুদয় মূল্য সংযোজন কর ও সম্পূরক শুল্ক, যদি থাকে, হইতে নিম্নবর্ণিত শর্তসাপেক্ষে অব্যাহতি প্রদান করিল, যথা:-\n\nTABLE\n\n| Heading\n(1) | H.S. Code\n(2) | Description\n(3) |\n| --- | --- | --- |\n| 34.03 | 3403.19.00 | Electric Discharging Machine (EDM) fluid |\n| 72.18 | 7218.99.00 | Stainless steel ingot |\n| 72.25 | 7225.40.10 | Hot rolled alloy steel sheet |\n|  | 7225.50.10 | Cold rolled alloy steel sheet |\n| 72.28 | 7228.40.00 | Bars and rods of alloy steel not further worked than forged |\n|  | 7228.60.00 | Other bars and rods of alloy steel |\n| 73.19 | 7319.90.00 | Guide pin |\n| 73.20 | 7320.20.00 | Compression spring |\n| 73.26 | 7326.90.90 | Bush |\n| 74.08 | 7408.21.00 | Brass wire |\n| 74.09 | 7409.19.00 | Copper plate |\n| 74.10 | 7410.12.00 | Copper foil |\n| 76.04 | 7604.29.00 | Bars and rods of aluminium alloy |\n| 81.02 | 8102.96.00 | Molybdenum wire |\n| 81.12 | 8112.19.00 | Beryllium |\n| 82.07 | 8207.50.00 | Electric Discharging Machine (EDM) drill rod |\n|  | 8207.70.00 | End mill cutter |\n|  | 8207.90.00 | Insert cutter |\n| 84.20 | 8420.99.00 | Hydraulic cylinder |\n| 84.66 | 8466.10.00 | Tools holder |\n| 84.80 | 8480.20.00 | Mould base |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This Act provides the legal authority under section 19(1) for the government to grant duty exemptions for industrial mould or die production."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This Act provides the legal authority under section 126(1) for the government to grant exemptions from value added tax and supplementary duty."
+        ],
+        "National Board of Revenue": [
+          "The government acts in consultation with this body when granting specific customs and tax exemptions for industrial manufacturing inputs."
+        ],
+        "Industrial Mould": [
+          "This exemption is granted to support the local manufacturing of industrial moulds or dies."
+        ],
+        "First Schedule": [
+          "The H.S. Codes and goods identified for tax exemption are listed in a table referenced within the First Schedule of the Customs Act 1969."
+        ],
+        "TABLE": [
+          "The table lists specific raw materials and components, such as stainless steel ingots, alloy steel sheets, copper products, and specialized cutters, which qualify for customs duty, regulatory duty, and VAT exemptions when used for local industrial mould manufacturing."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "শর্তাবলী",
+      "text_id": "metadata_4",
+      "resolved_text": "শর্তাবলী",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_2",
+      "resolved_text": "(১) আমদানিকারক প্রতিষ্ঠানকে অবশ্যই Industrial IRC holder VAT compliant মোল্ড (Mould) বা ডাই (Die) উৎপাদনকারী (Manufacturer) হইতে হইবে।\n\nব্যাখ্যা-\n(ক) “Industrial IRC holder” অর্থ এমন প্রতিষ্ঠান যাহার নিকট আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তর হইতে ইস্যুকৃত হালনাগাদ শিল্প ভোক্তা (Industrial Consumer) আইআরসি রহিয়াছে;\n(খ) “VAT compliant” অর্থ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর অধীনে নিবন্ধিত নিয়মিত দাখিলপত্র (রিটার্ন) দাখিল করে এমন উৎপাদনকারী প্রতিষ্ঠান;",
+      "entity_concepts": {
+        "Industrial IRC Holder": [
+          "This term refers to a manufacturing establishment that possesses a valid and updated Import Registration Certificate issued by the Office of the Chief Controller of Imports and Exports specifically for industrial consumption purposes."
+        ],
+        "VAT Compliant": [
+          "This term identifies a manufacturing establishment that is registered under the Value Added Tax and Supplementary Duty Act 2012 and regularly submits its mandatory tax returns."
+        ],
+        "Industrial Mould": [
+          "The clause specifies that to be eligible for the associated provisions, an importer must be a manufacturer of moulds or dies."
+        ],
+        "Manufacturer": [
+          "The importer must be a manufacturer that holds an Industrial Import Registration Certificate and maintains VAT compliance to qualify under this regulation."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_3",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_3",
+      "resolved_text": "(২) এই প্রজ্ঞাপনের আওতায় পণ্য আমদানি ও খালাসের লক্ষ্যে প্রতিষ্ঠানটির হালনাগাদ নবায়নকৃত শিল্প ভোক্তা আইআরসি রহিয়াছে এবং ১৩ ডিজিট সম্বলিত মূল্য সংযোজন কর (মূসক) নিবন্ধিত প্রতিষ্ঠানটি বিবেচ্য বিল অব এন্ট্রি দাখিলের অব্যবহিত পূর্ববর্তী মাসের মূসক দাখিলপত্র (রিটার্ন) দাখিল করিয়াছে মর্মে কাস্টমস কম্পিউটার সিস্টেমে বা ভ্যাট অনলাইন সিস্টেমে বা জাতীয় রাজস্ব বোর্ড এর ওয়েবসাইটে বা ভ্যাট কমিশনারেট এর ওয়েবসাইটে ইলেকট্রনিক তথ্য প্রদর্শিত থাকিতে হইবে:\n\nতবে শর্ত থাকে যে, কোনো ধরণের দৈব-দুর্বিপাক বা কোনো যৌক্তিক কারণে ইলেকট্রনিক তথ্য পাওয়া সম্ভব না হইলে সংশ্লিষ্ট কমিশনার অব কাস্টমস প্রতি ক্ষেত্রে কারণ লিপিবদ্ধ করিয়া শুল্কায়নের প্রয়োজনীয় কার্যক্রম গ্রহণ করিতে পারিবে।",
+      "entity_concepts": {
+        "Import Registration Certificate": [
+          "To clear goods under this notification, the institution must possess a valid, updated industrial consumer Import Registration Certificate."
+        ],
+        "Value Added Tax": [
+          "The institution must be registered for Value Added Tax with a thirteen-digit number and must have filed the tax return for the month immediately preceding the submission of the bill of entry.",
+          "Compliance with Value Added Tax filing requirements must be verifiable through the customs computerized system, the VAT online system, the National Board of Revenue website, or the relevant VAT Commissionerate website."
+        ],
+        "Commissioner of Customs": [
+          "In cases where electronic data is unavailable due to force majeure or other valid reasons, the Commissioner of Customs is authorized to process the customs clearance after recording the reasons for the exception."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue website serves as one of the official platforms for verifying the electronic data regarding an institution's tax compliance status."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_4",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_4",
+      "resolved_text": "(৩) মোন্ড (Mould) বা ডাই (Die) উৎপাদনকারী কর্তৃক প্রতি একক মোন্ড (Mould) বা ডাই (Die) উৎপাদনের জন্য সম্ভাব্য বা যৌক্তিক অপচয়সহ কি কি উপকরণ কি পরিমাণে আবশ্যক (উপকরণ-উৎপাদ সহগ) সে সম্পর্কিত তথ্য ‘‘পরিশিষ্ট’’ অনুযায়ী ৩ (তিন) কপি পণ্য আমদানির পূর্বেই সংশ্লিষ্ট ভ্যাট কমিশনারেট এর কমিশনার বরাবর দাখিল করিতে হইবে এবং কমিশনার উক্ত উপকরণ-উৎপাদ সহগ অনুমোদনপূর্বক প্রতিস্বাক্ষর করিবেন এবং একটি কপি অফিসের রেকর্ড হিসাবে সংরক্ষণ করিবেন, দ্বিতীয় কপি জাতীয় রাজস্ব বোর্ডের সদস্য (কাস্টমস নীতি ও আইসিটি) বরাবরে প্রেরণ করিবেন এবং অপর কপি প্রতিষ্ঠান কর্তৃপক্ষকে ফেরত দিবেন; ‘‘পরিশিষ্ট’’ এর ফটোকপি প্রতিটি পণ্যচালান শুল্কায়নের সময় বিল অব এন্ট্রির সহিত দাখিল করিতে হইবে।",
+      "entity_concepts": {
+        "Industrial Mould": [
+          "Manufacturers are required to submit a declaration in triplicate detailing the necessary raw materials and inputs for each mould or die production, including reasonable wastage percentages, to the Commissioner of the relevant VAT Commissionerate before importing the goods.",
+          "The Commissioner is responsible for reviewing and approving the input-output coefficient for industrial moulds, maintaining a record, forwarding a copy to the National Board of Revenue, and returning the final copy to the applicant.",
+          "A copy of the approved input-output coefficient schedule must be submitted alongside the Bill of Entry for customs clearance purposes for every individual shipment of industrial moulds."
+        ],
+        "National Board of Revenue": [
+          "The Member (Customs Policy and ICT) of the National Board of Revenue is designated to receive a copy of the approved input-output coefficient data for industrial mould production from the respective VAT Commissionerate."
+        ],
+        "VAT Commissionerate": [
+          "The Commissioner of the relevant VAT Commissionerate is responsible for the formal approval, countersigning, and administrative processing of input-output coefficients submitted by industrial mould manufacturers prior to import."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_5",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_5",
+      "resolved_text": "(৪) এই প্রজ্ঞাপনে উল্লিখিত উপকরণ ‘‘পরিশিষ্ট’’ অনুযায়ী আমদানি করিয়া অনুমোদিত উপকরণ-উৎপাদ সহগ মোতাবেক মোন্ড (Mould) বা ডাই (Die) উৎপাদন হইতেছে কিনা তাহা নিশ্চিত হওয়ার জন্য সংশ্লিষ্ট ভ্যাট কমিশনারেটের কমিশনার তার অধীনস্থ সংশ্লিষ্ট ভ্যাট বিভাগের বিভাগীয় কর্মকর্তার মাধ্যমে প্রতি ৬ (ছয়) মাস অন্তর সরেজমিনে পরিদর্শন করিয়া নিশ্চিত করিবেন।",
+      "entity_concepts": {
+        "Industrial Mould": [
+          "The importation of production materials must be verified against approved input-output coefficients to ensure compliance in the manufacturing of moulds or dies.",
+          "The Commissioner of the relevant VAT Commissionerate is mandated to conduct physical inspections every six months to confirm the proper utilization of imported inputs for mould or die production."
+        ],
+        "Commissioner of Customs": [
+          "The Commissioner of the relevant VAT Commissionerate is responsible for ensuring oversight of production processes through periodic physical inspections of the manufacturing facilities."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_6",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_6",
+      "resolved_text": "(৫) আমদানিকৃত উপকরণ বিক্রয় বা হস্তান্তর করা এবং মোন্ড (Mould) বা ডাই (Die) উৎপাদন ব্যতিরেকে অন্য কোন কাজে ব্যবহার করা যাইবে না।",
+      "entity_concepts": {
+        "Industrial Mould": [
+          "The use of industrial moulds or dies is restricted solely to the production for which they were imported.",
+          "Imported materials including moulds and dies are prohibited from being sold or transferred, and they cannot be utilized for any purpose other than the authorized production process."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_7",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_7",
+      "resolved_text": "(৬) কোন উৎপাদনকারী এই প্রজ্ঞাপনের শর্ত লঙ্ঘন করিলে এবং উক্ত লঙ্ঘনজনিত কারণে রাজস্ব ক্ষতি হইলে সেইক্ষেত্রে তাহার বিরুদ্ধে Customs Act, 1969 ও মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর বিধান অনুযায়ী ও প্রযোজ্যক্ষেত্রে সংশ্লিষ্ট অন্যান্য আইন মোতাবেক প্রয়োজনীয় ব্যবস্থা গ্রহণ করা হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "In the event of a violation of the conditions of this notification by a manufacturer that leads to a loss of government revenue, action will be taken against the offender in accordance with the provisions of this Act."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "This law is cited alongside the customs statute to establish the legal basis for taking action against manufacturers who breach notification conditions and cause revenue loss."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_8",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_8",
+      "resolved_text": "২। ১ জুন, ২০১৭ খ্রিষ্টাব্দ মোতাবেক ১৮ জ্যৈষ্ঠ, ১৪২৪ বঙ্গাব্দ তারিখে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৩৩-আইন/২০১৭/১৯/কাস্টমস এতদ্বারা রহিত করা হইল।",
+      "entity_concepts": {
+        "S.R.O. 133-AIN/2017": [
+          "This specific regulatory order, originally issued in June 2017, is officially repealed by this notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_9",
+      "clause_title": "",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_9",
+      "resolved_text": "৩। এই প্রজ্ঞাপন ১ জুন, ২০২৩ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the date on which the legal instrument becomes effective and binding."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_10",
+      "clause_title": "পরিশিষ্ট",
+      "text_id": "20230601_121-AIN_2023_165_Customs_২১ মে, ২০২৩_clause_10",
+      "resolved_text": "পরিশিষ্ট\nগণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nজাতীয় রাজস্ব বোর্ড, ঢাকা\n\nমোন্ড (Mould) বা ডাই (Die) তৈরির উপকরণ বা কাঁচামাল সম্পর্কিত ঘোষণা:\n১। প্রতিষ্ঠানের নাম:\n২। ঠিকানা:\n৩। মূসক নিবন্ধন নম্বর:\n\n\n| ক্রম নং\n(১) | পণ্যের নাম ও এইচ. এস. কোড\n(২) | একক\n(৩) | পণ্য উৎপাদনে ব্যবহার্য পণ্য বা যন্ত্রাংশ বা উপকরণ এর নাম (এইচ.এস. কোডসহ)\n(৪) | অপচয়সহ প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় উপকরণের প্রতিটির পরিমাণ (কেজি)\n(৫) | অপচয় ব্যতীত প্রতি একক পণ্য উৎপাদনে প্রয়োজনীয় কাঁচামাল বা উপকরণের প্রতিটির পরিমাণ (কেজি)\n(৬) | অপচয়ের শতকরা হার\n(৭) |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n\n\nসংশ্লিষ্ট ভ্যাট কমিশনারের প্রতিস্বাক্ষর\tপ্রতিষ্ঠানের ব্যবস্থাপনা কর্তৃপক্ষের স্বাক্ষর ও তারিখ",
+      "entity_concepts": {
+        "Industrial Mould": [
+          "This instrument provides a standardized form for declaring raw materials and components used in the production of moulds or dies. It requires applicants to submit specific product details, HS codes, unit measurements, and waste percentages for the materials consumed in the manufacturing process.",
+          "The declaration form must be validated with the signature of the applicant's management and countersigned by the relevant Commissioner of Customs or VAT authorities to confirm the input-output coefficients."
+        ],
+        "Value Added Tax": [
+          "The document mandates the disclosure of the taxpayer registration number, linking the manufacturing declaration process to the regulatory framework for value-added tax compliance."
+        ],
+        "National Board of Revenue": [
+          "The National Board of Revenue is the regulatory authority overseeing the submission and validation of raw material consumption declarations for industrial production."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_6",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

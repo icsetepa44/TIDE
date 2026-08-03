@@ -1,0 +1,52 @@
+{
+  "source_file": "customs_sros_OCR/20100610_173-AIN_2010_2291-Customs/20100610_173-AIN_2010_2291-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(শুল্ক)\nপ্রজ্ঞাপন\nতারিখ : ২৭ জ্যৈষ্ঠ, ১৪১৭ বঙ্গাব্দ/১০ জুন, ২০১০ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government body is identified as the issuing authority for the customs notification."
+        ],
+        "Internal Resources Division": [
+          "This department within the Ministry of Finance is responsible for the administrative issuance of this customs-related order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস,আর,ও নং ১৭৩-আইন/২০১০/২২৯১/শুল্ক",
+      "text_id": "20100610_173-AIN_2010_2291-Customs_১০ জুন, ২০১০_clause_1",
+      "resolved_text": "এস,আর,ও নং ১৭৩-আইন/২০১০/২২৯১/শুল্ক— Customs Act, 1969 (IV of 1969) এর section 18 এর sub-section (2) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, অত্র বিভাগের ১৭ আষাঢ়, ১৪১৬ বঙ্গাব্দ মোতাবেক ০১ জুলাই, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৮৩-আইন/২০০৯/২২৬৩/শুল্ক এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের প্রস্তাবনা অংশের “উপর এবং কলাম (1) এর Heading 04.02 এর আওতাভুক্ত কলাম (2) এ বিধৃত H.S. Code 0402.10.90 ও 0402.21.90 এর বিপরীতে কলাম (3) এ উল্লিখিত পণ্যের” শব্দগুলি, বন্ধনীগুলি এবং সংখ্যাগুলি বিলুপ্ত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18, sub-section (2) of this Act provides the legal authority for the government to amend or modify customs notifications in the public interest after consultation with the National Board of Revenue."
+        ],
+        "S.R.O. 183-AIN/2009": [
+          "This existing customs notification is amended to remove specific references to H.S. Codes 0402.10.90 and 0402.21.90 within the context of the defined goods list."
+        ],
+        "National Board of Revenue": [
+          "This body is responsible for advising the government on the amendment of customs notifications in the public interest."
+        ],
+        "Bangladesh Customs Tariff": [
+          "The amendment specifically affects the tariff classification and description for goods under Heading 04.02, specifically removing items identified by their H.S. Code."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(ড. নাসিরউদ্দীন আহমেদ)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

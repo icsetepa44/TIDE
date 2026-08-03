@@ -1,0 +1,87 @@
+{
+  "source_file": "customs_sros_OCR/20150204_13-AIN_2015_1-Customs/20150204_13-AIN_2015_1-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+      "text_id": "metadata_1",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Internal Resources Division under the Ministry of Finance is responsible for issuing customs notifications and exercising regulatory authority over tax and revenue matters."
+        ],
+        "Ministry of Finance": [
+          "The Ministry of Finance serves as the parent government department responsible for the oversight and issuance of this customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "তারিখ, ১৩ ফাল্গুন, ১৪২১ বঙ্গাব্দ / ২৬/০২/২০১৫ খ্রিস্টাব্দ।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "এস, আর, ও নং- ৪২-আইন/২০১৫/০১/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 (1), মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২ নং আইন) এর ধারা ১৪ (১) এর সহিত পঠিতব্য, এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, ২৮ জ্যৈষ্ঠ, ১৪১৬ বঙ্গাব্দ মোতাবেক ১১ জুন, ২০০৯ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস, আর, ও নং ১৫১-আইন/২০০৯/২২৫৪/শুল্ক, এর নিম্নরূপ সংশোধন করিল, যথা:-",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of this Act provides the legal authority for the Government to amend customs notifications in the public interest upon consultation with the National Board of Revenue."
+        ],
+        "Value Added Tax Act 1991": [
+          "Section 14(1) of this Act is read in conjunction with the Customs Act 1969 to authorize the issuance of the current customs amendment."
+        ],
+        "National Board of Revenue": [
+          "The Government is empowered to amend customs notifications only after consulting with this entity."
+        ],
+        "S.R.O. 151-AIN/2009": [
+          "This existing customs notification is being amended through the issuance of the current legal order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20150204_13-AIN_2015_1-Customs_২৬/০২/২০১৫_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপনের প্রস্তাবনায় উল্লিখিত “ sections 18(4) ও 19(1) ” শব্দগুলি, সংখ্যাগুলি ও বন্ধনীগুলির পরিবর্তে “ section 19 (1) ” শব্দ, সংখ্যাগুলি এবং বন্ধনীগুলি প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "The notification specifies an amendment to the legal provisions invoked in its preamble, replacing a reference that included two subsections with a reference to only one subsection of the Act."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20150204_13-AIN_2015_1-Customs_২৬/০২/২০১৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২৮ জ্যৈষ্ঠ, ১৪১৬ বঙ্গাব্দ/ ১১ জুন ২০০৯ খ্রিস্টাব্দ তারিখে কার্যকর হইয়াছে বলিয়া গণ্য হইবে।",
+      "entity_concepts": {
+        "Customs Notification": [
+          "This notification is deemed to have come into effect on a specific date in the Bengali calendar corresponding to a date in June 2009."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\n(মোঃ নজিবুর রহমান)\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "dataset": "temporal_scenario_short_answer",
+  "model": "moonshotai/kimi-k2.5",
+  "generated_at": "2026-07-19 07:51:57",
+  "n_dataset_total": 363,
+  "n_with_records": 363,
+  "n_api_failed": 0,
+  "n_evaluated": 363,
+  "n_scored": 363,
+  "n_judge_error": 0,
+  "n_legacy_records_excluded": 0,
+  "n_empty_answers": 12,
+  "n_uncertain": 0,
+  "n_calendar_mismatch": 0,
+  "mean_final_score": 0.4125,
+  "mean_final_score_counting_judge_errors_as_zero": 0.4125,
+  "mean_date_score": 0.3284,
+  "meaning_correct_rate": 0.3939,
+  "full_credit_rate": 0.3884,
+  "zero_score_rate": 0.562,
+  "score_distribution": {
+    "0": 204,
+    "0.25": 1,
+    "0.5": 17,
+    "1": 141
+  },
+  "n_date_matches_deterministic": 51,
+  "n_date_matches_judge_only": 2,
+  "n_confidence_scored": 351,
+  "judge_confidence_mean": 98.72,
+  "judge_confidence_mean_when_meaning_correct": 98.85,
+  "judge_confidence_mean_when_meaning_wrong": 98.63,
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 363,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "scoring": "Rubric v2: atomic LLM-judge booleans (LLM as a Council, temperature=0) + deterministic Python scoring (rubric_scoring.score_base). Dates are a hard gate; judge errors are excluded from mean_final_score."
+}

@@ -1,0 +1,58 @@
+{
+  "source_file": "customs_sros_OCR/20160602_149-AIN_2016_11-Customs/20160602_149-AIN_2016_11-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\n\nপ্রজ্ঞাপন\n\nতারিখ : ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ/২ জুন, ২০১৬ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government body responsible for the issuance of the notification regarding customs and value added tax matters."
+        ],
+        "Internal Resources Division": [
+          "This is the administrative division under the Ministry of Finance that facilitates the publication and implementation of this regulatory notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৪৯-আইন/২০১৬/১১/কাস্টমস",
+      "text_id": "20160602_149-AIN_2016_11-Customs_২ জুন, ২০১৬_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৪৯-আইন/২০১৬/১১/কাস্টমস ।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এবং মূল্য সংযোজন কর আইন, ১৯৯১ (১৯৯১ সনের ২২নং আইন) এর ধারা ১৪ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে সরকার, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, এই বিভাগের ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ মোতাবেক ৫ জুন, ২০১৪ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন নং এস,আর,ও ১২২-আইন/২০১৪/২৪৮৬/কাস্টমস এর নিম্নরূপ অধিকতর সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(১) TABLE-I এর কলাম (১) এ উল্লিখিত Heading 76.07 এর বিপরীতে কলাম (২) এ উল্লিখিত H.S. Code “7607.19.00” এবং উহার বিপরীতে কলাম (৩) তে উল্লিখিত এন্ট্রি “Aluminium foil plain” বিলুপ্ত হইবে; এবং\n\n(২) TABLE-II এর কলাম (১) এ উল্লিখিত Heading 70.10 এবং উহার বিপরীতে কলাম (২) ও (৩) তে উল্লিখিত এন্ট্রিসমূহের পর নিম্নরূপ Heading “76.07” এবং উহার বিপরীতে কলাম (২) ও (৩) এ উল্লিখিত এন্ট্রিসমূহ সন্নিবেশিত হইবে, যথা:-\n\n\n| “76.07 | 7607.19.00 | Aluminium foil plain”। |\n",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "This SRO is issued under the powers granted by section 19(1) of the Customs Act 1969 to amend previous notification provisions."
+        ],
+        "Value Added Tax Act 1991": [
+          "The Government exercises its authority under section 14(1) of this Act, in consultation with the National Board of Revenue, to enact these amendments."
+        ],
+        "S.R.O. 122-AIN/2014": [
+          "This previous notification is being further amended by the current order to modify duty or tax-related entries in its attached tables."
+        ],
+        "TABLE-I": [
+          "The entry for the specified H.S. Code related to aluminium foil is deleted from this table."
+        ],
+        "TABLE-II": [
+          "A new entry for aluminium foil is inserted into this table following the existing entries for the specified heading."
+        ],
+        "H.S. Code": [
+          "The H.S. Code for aluminium foil plain is removed from the first statutory table and added as a new entry in the second statutory table."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

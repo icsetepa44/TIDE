@@ -1,0 +1,56 @@
+{
+  "source_file": "customs_sros_OCR/20160602_146-AIN_2016_8-Customs/20160602_146-AIN_2016_8-Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার, অর্থ মন্ত্রণালয়, অভ্যন্তরীণ সম্পদ বিভাগ (কাস্টমস), প্রজ্ঞাপন",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ : ১৯ জ্যৈষ্ঠ, ১৪২৩ বঙ্গাব্দ/২ জুন, ২০১৬ খ্রিস্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This is the government ministry responsible for the issuance of this customs notification."
+        ],
+        "Internal Resources Division": [
+          "This division within the Ministry of Finance serves as the issuing authority for this customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "এস.আর.ও. নং ১৪৬-আইন/২০১৬/০৮/কাস্টমস",
+      "text_id": "20160602_146-AIN_2016_8-Customs_২ জুন, ২০১৬ খ্রিস্টাব্দ_clause_1",
+      "resolved_text": "এস.আর.ও. নং ১৪৬-আইন/২০১৬/০৮/কাস্টমস— Customs Act, 1969 (Act No. IV of 1969) এর section 18 এর sub-section (2) তে প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগ কর্তৃক জারীকৃত নিম্নবর্ণিত প্রজ্ঞাপনসমূহ এতদ্দ্বারা বাতিল করিল, যথা:-\n\n(১) এস,আর,ও নং ৩৫৩-আইন/২০১৫/৫৯/কাস্টমস; তারিখ, ১৫ অগ্রহায়ণ, ১৪২২ বঙ্গাব্দ মোতাবেক ২৯ নভেম্বর, ২০১৫ খ্রিস্টাব্দ;\n(২) এস,আর,ও নং ৩৬২-আইন/২০১৫/৬২/কাস্টমস; তারিখ, ২৩ অগ্রহায়ণ, ১৪২২ বঙ্গাব্দ মোতাবেক ৭ ডিসেম্বর, ২০১৫ খ্রিস্টাব্দ; এবং\n(৩) এস,আর,ও নং ৪৬-আইন/২০১৬/০৩/কাস্টমস; তারিখ, ১৮ ফাল্গুন, ১৪২২ বঙ্গাব্দ মোতাবেক ১ মার্চ, ২০১৬ খ্রিস্টাব্দ।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 18(2) of the Act empowers the Government to issue customs notifications and, by a later notification, to rescind them."
+        ],
+        "S.R.O. 353-AIN/2015": [
+          "This customs notification is repealed under the authority of the Customs Act 1969."
+        ],
+        "S.R.O. 362-AIN/2015": [
+          "This customs notification is repealed under the authority of the Customs Act 1969."
+        ],
+        "S.R.O. 46-AIN/2016": [
+          "This customs notification is repealed under the authority of the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "রাষ্ট্রপতির আদেশক্রমে স্বাক্ষর",
+      "text_id": "metadata_3",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\n(মোঃ নজিবুর রহমান)\nসিনিয়র সচিব",
+      "entity_concepts": {
+        "National Board of Revenue": [
+          "The Secretary of the National Board of Revenue acts under the authority of the President to formalize and issue the statutory regulatory order."
+        ]
+      },
+      "extraction_status": "success"
+    }
+  ]
+}

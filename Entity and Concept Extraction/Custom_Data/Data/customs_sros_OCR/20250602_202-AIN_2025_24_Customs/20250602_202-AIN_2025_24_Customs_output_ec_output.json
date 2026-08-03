@@ -1,0 +1,74 @@
+{
+  "source_file": "customs_sros_OCR/20250602_202-AIN_2025_24_Customs/20250602_202-AIN_2025_24_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৫ জ্যৈষ্ঠ, ১৪৩২ বঙ্গাব্দ/ ২৯ মে, ২০২৫ খ্রিষ্টাব্দ",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_3",
+      "resolved_text": "এস.আর.ও. নং ২০২-আইন/২০২৫/২৪/কাস্টমস।− সরকার, কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৫ এর উপ-ধারা (১) এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর ধারা ১২৬ এর উপ-ধারা (১) এ প্রদত্ত ক্ষমতাবলে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, জনস্বার্থে, ২৯ মে, ২০২৪ খ্রিষ্টাব্দে জারীকৃত প্রজ্ঞাপন এস.আর.ও. নং ১৯০-আইন/২০২৪/৪২/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা:-",
+      "entity_concepts": {
+        "Customs Act 2023": [
+          "Section 25(1) of this Act provides the legal authority for the government to issue specific customs-related notifications in the public interest after consulting with the National Board of Revenue."
+        ],
+        "Value Added Tax and Supplementary Duty Act 2012": [
+          "Section 126(1) of this Act grants the government the power to issue notifications related to tax matters in the public interest, subject to consultation with the National Board of Revenue."
+        ],
+        "National Board of Revenue": [
+          "The board is identified as the central authority that must be consulted by the government before issuing notifications or amendments under the Customs Act 2023 and the Value Added Tax and Supplementary Duty Act 2012."
+        ],
+        "S.R.O. 190-AIN/2024": [
+          "This existing statutory notification, originally issued in May 2024, is subject to formal amendment by the current order."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20250602_202-AIN_2025_24_Customs_২৯ মে, ২০২৫_clause_1",
+      "resolved_text": "উপরি-উক্ত প্রজ্ঞাপনের TABLE এর কলাম (1) এ বর্ণিত Heading 84.21 এর বিপরীতে কলাম (2) এ উল্লিখিত H.S.Code “8421.39.99” এর পরিবর্তে H.S.Code “8421.39.90” প্রতিস্থাপিত হইবে।",
+      "entity_concepts": {
+        "H.S. Code": [
+          "The H.S. Code listed in the specified table of the previous notification is amended by replacing the existing code with a new one for the specified heading."
+        ],
+        "TABLE": [
+          "The table within the notification is subject to an amendment that replaces a specific H.S. Code entry to update the classification of goods under heading 84.21."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_2",
+      "clause_title": "",
+      "text_id": "20250602_202-AIN_2025_24_Customs_২৯ মে, ২০২৫_clause_2",
+      "resolved_text": "২। এই প্রজ্ঞাপন ২ জুন, ২০২৫ খ্রিষ্টাব্দে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Statutory Regulatory Order": [
+          "This notification specifies the date on which the legal instrument becomes effective and enforceable."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nমোঃ আব্দুর রহমান খান এফসিএমএ\nসচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

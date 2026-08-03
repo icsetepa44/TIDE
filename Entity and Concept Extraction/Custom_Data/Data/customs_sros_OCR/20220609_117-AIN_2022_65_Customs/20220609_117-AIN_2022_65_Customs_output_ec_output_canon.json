@@ -1,0 +1,62 @@
+{
+  "source_file": "customs_sros_OCR/20220609_117-AIN_2022_65_Customs/20220609_117-AIN_2022_65_Customs_output.json",
+  "processed_clauses": [
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_2",
+      "resolved_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস ও মূল্য সংযোজন কর)\nপ্রজ্ঞাপন\nতারিখ: ১৮ জ্যৈষ্ঠ, ১৪২৯ বঙ্গাব্দ/ ১ জুন, ২০২২ খ্রিষ্টাব্দ",
+      "entity_concepts": {
+        "Ministry of Finance": [
+          "This government body is responsible for the issuance of the customs notification."
+        ],
+        "Internal Resources Division": [
+          "This department under the Ministry of Finance serves as the issuing authority for the customs notification."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "এস,আর,ও নং ১১৭-আইন/২০২২/৬৫/কাস্টমস",
+      "text_id": "metadata_3",
+      "resolved_text": "এস,আর,ও নং ১১৭-আইন/২০২২/৬৫/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 19 এর sub-section (1) এ প্রদত্ত ক্ষমতাবলে সরকার, জনস্বার্থে, জাতীয় রাজস্ব বোর্ডের সহিত পরামর্শক্রমে, ২ মার্চ, ২০১৭ খ্রিষ্টাব্দ মোতাবেক ১৮ ফাল্গুন, ১৪২৩ বঙ্গাব্দ তারিখে জারীকৃত প্রজ্ঞাপন এস,আর,ও নং ৪৭-আইন/২০১৭/০৩/কাস্টমস এতদ্দ্বারা রহিত করিল।",
+      "entity_concepts": {
+        "Customs Act 1969": [
+          "Section 19(1) of the Act empowers the government, in the public interest and in consultation with the National Board of Revenue, to issue or rescind customs notifications."
+        ],
+        "S.R.O. 47-AIN/2017": [
+          "This specific customs notification, originally issued in March 2017, is formally repealed by the current order."
+        ],
+        "National Board of Revenue": [
+          "The government is required to consult with the National Board of Revenue when exercising its powers to issue or repeal customs-related notifications under the Customs Act 1969."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "clause",
+      "clause_number": "clause_1",
+      "clause_title": "",
+      "text_id": "20220609_117-AIN_2022_65_Customs_১ জুন, ২০২২_clause_1",
+      "resolved_text": "২। এই প্রজ্ঞাপন ৯ জুন, ২০২২ খ্রিষ্টাব্দ তারিখে কার্যকর হইবে।",
+      "entity_concepts": {
+        "Customs Notification": [
+          "This legal instrument specifies an effective date of operation for its provisions."
+        ]
+      },
+      "extraction_status": "success"
+    },
+    {
+      "type": "metadata",
+      "metadata_category": "document",
+      "metadata_title": "",
+      "text_id": "metadata_4",
+      "resolved_text": "রাষ্ট্রপতির আদেশক্রমে,\n\nস্বাক্ষরিত/-\nআবু হেনা মোঃ রহমাতুল মুনিম\nসিনিয়র সচিব।",
+      "entity_concepts": {},
+      "extraction_status": "success"
+    }
+  ]
+}

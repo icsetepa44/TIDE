@@ -1,0 +1,129 @@
+{
+  "dataset": "open_ended",
+  "model": "deepseek/deepseek-v4-flash",
+  "generated_at": "2026-07-19 17:22:33",
+  "n_dataset_total": 487,
+  "n_with_records": 487,
+  "n_api_failed": 0,
+  "n_evaluated": 487,
+  "n_scored": 487,
+  "n_judge_error": 0,
+  "n_legacy_records_excluded": 0,
+  "n_empty_answers": 1,
+  "n_uncertain": 0,
+  "n_calendar_mismatch": 0,
+  "mean_final_score": 0.5421,
+  "mean_final_score_counting_judge_errors_as_zero": 0.5421,
+  "mean_date_score": 0.0612,
+  "meaning_correct_rate": 0.5729,
+  "full_credit_rate": 0.5359,
+  "zero_score_rate": 0.4476,
+  "score_distribution": {
+    "0": 218,
+    "0.1667": 1,
+    "0.25": 2,
+    "0.3333": 1,
+    "0.5": 4,
+    "1": 261
+  },
+  "n_date_matches_deterministic": 22,
+  "n_date_matches_judge_only": 0,
+  "n_confidence_scored": 486,
+  "judge_confidence_mean": 97.62,
+  "judge_confidence_mean_when_meaning_correct": 98.06,
+  "judge_confidence_mean_when_meaning_wrong": 97.03,
+  "rubric_version": "2.0",
+  "judge_config": {
+    "judge_votes": 1,
+    "judge_max_output_tokens": 4096,
+    "judge_model": "LLM as a Council",
+    "temperature": 0.0
+  },
+  "run_counters": {
+    "items_scored": 487,
+    "judge_error": 0,
+    "uncertain": 0,
+    "calendar_mismatch": 0,
+    "anchor_missing": 0,
+    "offset_granularity_unparsed": 0
+  },
+  "scoring": "Rubric v2: atomic LLM-judge booleans (Gemini, temperature=0) + deterministic Python scoring (rubric_scoring.score_base). Dates are a hard gate; judge errors are excluded from mean_final_score.",
+  "evaluation_mode": "grounded_document_context",
+  "context_stats": {
+    "n_records_with_context_fields": 487,
+    "by_context_status": {
+      "full": 487
+    },
+    "n_records_with_unresolved_ids": 0,
+    "docs_per_instance": {
+      "min": 1,
+      "median": 3,
+      "max": 195,
+      "mean": 5.6
+    },
+    "context_char_count": {
+      "min": 699,
+      "median": 59790,
+      "max": 1199856,
+      "mean": 157726.9
+    },
+    "context_token_estimate": {
+      "min": 174,
+      "median": 14947,
+      "max": 299964,
+      "mean": 39431.3
+    },
+    "token_estimate_note": "chars//4 heuristic; underestimates Bengali-script token counts.",
+    "n_records_truncated": 2,
+    "n_documents_dropped_total": 58
+  },
+  "similarity_metrics": {
+    "n_records": 487,
+    "n_eligible": 398,
+    "n_skipped_hard_gate": 88,
+    "n_skipped_unscored": 1,
+    "bleu_mean": 0.1945,
+    "bertscore_precision_mean": 0.8867,
+    "bertscore_recall_mean": 0.8969,
+    "bertscore_f1_mean": 0.8916,
+    "by_meaning_correct": {
+      "true": {
+        "n": 261,
+        "bleu_mean": 0.222,
+        "bertscore_precision_mean": 0.8916,
+        "bertscore_recall_mean": 0.9023,
+        "bertscore_f1_mean": 0.8968
+      },
+      "false": {
+        "n": 137,
+        "bleu_mean": 0.142,
+        "bertscore_precision_mean": 0.8775,
+        "bertscore_recall_mean": 0.8865,
+        "bertscore_f1_mean": 0.8818
+      }
+    },
+    "judge_agreement": {
+      "bleu": {
+        "point_biserial_r": 0.3628,
+        "p_value": 0.0
+      },
+      "bertscore_f1": {
+        "point_biserial_r": 0.3695,
+        "p_value": 0.0
+      },
+      "note": "point-biserial correlation of meaning_correct (0/1) vs the metric over eligible items; positive r supports the judge (judge-correct items are more similar to the GT)"
+    },
+    "eligibility_rule": "status==ok AND not answered_empty AND judge_atoms present AND n_matched == n_gt_dates (meaning component live in score_base)",
+    "config": {
+      "bleu_variant": "custom cumulative BLEU-2, epsilon-smoothed, brevity penalty, Bengali-aware tokenizer (rubric_scoring.bleu_score)",
+      "bertscore_model": "xlm-roberta-large",
+      "num_layers": 17,
+      "rescale_with_baseline": false,
+      "bert_score_version": "0.3.12",
+      "device": "mps",
+      "batch_size": 32
+    },
+    "note": "Diagnostic judge-sanity metrics over hard-gate-passing items only; never part of final_score.",
+    "generated_at": "2026-07-20 06:55:58"
+  }
+}
