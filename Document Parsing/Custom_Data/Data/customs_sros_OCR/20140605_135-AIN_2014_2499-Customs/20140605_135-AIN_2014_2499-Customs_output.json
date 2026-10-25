@@ -4,7 +4,7 @@
     "document_type": "Customs Notification",
     "document_date": "০৫ জুন, ২০১৪",
     "total_pages": 2,
-    "extraction_timestamp": "2026-05-26T21:59:40.220967",
+    "extraction_timestamp": "2026-09-13T13:46:06.731776",
     "summary": {
       "total_metadata": 4,
       "total_clauses": 1,
@@ -25,8 +25,8 @@
     {
       "type": "metadata",
       "metadata_category": "document",
-      "metadata_title": "",
-      "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\n\nপ্রজ্ঞাপন\n\nতারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/০৫ জুন, ২০১৪ খ্রিস্টাব্দ।",
+      "metadata_title": "প্রজ্ঞাপন",
+      "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার\nঅর্থ মন্ত্রণালয়\nঅভ্যন্তরীণ সম্পদ বিভাগ\n(কাস্টমস)\nপ্রজ্ঞাপন\nতারিখ : ২২ জ্যৈষ্ঠ, ১৪২১ বঙ্গাব্দ/০৫ জুন, ২০১৪ খ্রিস্টাব্দ।",
       "page_start": 1,
       "page_end": 1,
       "text_id": "metadata_2",
@@ -35,8 +35,8 @@
     {
       "type": "clause",
       "clause_number": "clause_1",
-      "clause_title": "এস,আর,ও নং- ১৩৫-আইন/২০১৩/২৪৯৯/কাস্টমস",
-      "text": "এস,আর,ও নং- ১৩৫-আইন/২০১৩/২৪৯৯/কাস্টমস।- Customs Act, 1969 (Act No. IV of 1969) এর section 25 এর sub-section (3) এ প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ মোতাবেক ৬ জুন, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৪৬-আইন/২০১৩/২৪৩৩/কাস্টমস এর নিম্নরূপ সংশোধন করিল, যথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(ক) TABLE-1 এর পরিবর্তে নিম্নরূপ TABLE-1 প্রতিস্থাপিত হইবে, যথা :-\n\n“TABLE-1”\n[table_1] ; এবং\n\n(খ) TABLE-2 এর কলাম (১) এ উল্লিখিত Heading 17.01 এবং উহার আওতাধীন কলাম (২) এ উল্লিখিত সকল H.S.Code এবং উহাদের বিপরীতে কলাম (৩), (৪) ও (৫) এ উল্লিখিত এন্ট্রিসমূহ বিলুপ্ত হইবে।",
+      "clause_title": "",
+      "text": "এস,আর,ও নং- ১৩৫-আইন/২০১৪/২৪৯৯/কাস্টমস ।- Customs Act, 1969 (Act No. IV of 1969) এর section 25 এর sub-section (3) এ প্রদত্ত ক্ষমতাবলে সরকার, এই বিভাগের ২৩ জ্যৈষ্ঠ, ১৪২০ বঙ্গাব্দ মোতাবেক ৬ জুন, ২০১৩ খ্রিস্টাব্দ তারিখের প্রজ্ঞাপন এস,আর,ও নং ১৪৬-আইন/২০১৩/২৪৩৩/কাস্টমস এর নিম্নরূপ সংশোধন করিল,\nযথা :-\n\nউপরি-উক্ত প্রজ্ঞাপনের-\n\n(ক) TABLE-1 এর পরিবর্তে নিম্নরূপ TABLE-1 প্রতিস্থাপিত হইবে, যথা :-\n\n\"TABLE-1\n[table_1]\n\n(খ) TABLE-2 এর কলাম (1) এ উল্লেখিত Heading 17.01 এবং উহার আওতাধীন কলাম (2) এ উল্লেখিত সকল H.S.Code এবং উহাদের বিপরীতে কলাম (3), (4) ও (5) এ উল্লেখিত এন্ট্রিসমূহ বিলুপ্ত হইবে।",
       "subclause_hierarchy": "[ক খ]",
       "page_start": 1,
       "page_end": 2,
@@ -77,9 +77,16 @@
         "H.S.Code",
         "Description of goods",
         "Unit",
-        "Tariff Value (US$/Unit)"
+        "Tariff Value\n(US$/Unit)"
       ],
       "rows": [
+        [
+          "(1)",
+          "(2)",
+          "(3)",
+          "(4)",
+          "(5)"
+        ],
         [
           "27.09",
           "2709.00.00",
@@ -95,105 +102,105 @@
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.19",
           "Other motor spirits, including aviation spirits",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.20",
           "Spirit type jet fuel",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.31",
           "White spirit",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.32",
           "Naphtha",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.41",
           "J.P.1 kerosene type jet fuels",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.42",
           "J.P.4 kerosene type jet fuels",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.43",
           "Other kerosene type jet fuels",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.49",
           "Other kerosene",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.61",
           "Light diesel oils",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.12.62",
           "High speed diesel oils",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.19.11",
           "Furnace oil",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.19.21",
           "Lubrication oil, that is oil such as is not ordinarily used for any other purpose than lubrication, excluding any mineral oil which has its flashing point below 220 °F by Abel's close test",
           "Matric ton",
           "1100.00"
         ],
         [
-          "",
+          "27.10",
           "2710.19.22",
           "Lube base oil imported in bulk by VAT registered blenders",
           "Matric ton",
           "800.00"
         ],
         [
-          "",
+          "27.10",
           "2710.19.31",
-          "Mineral oil which has its flashing point at or above 200 °F and is ordinarily used for the batching of jute or other fibre",
+          "Mineral oil which has its flashing point at or above 200 °F and is ordinarily used for the batching at jute or other fibre",
           "Litre",
           "0.40"
         ],
         [
-          "",
+          "27.10",
           "2710.19.36",
           "Liquid paraffin",
           "Litre",
